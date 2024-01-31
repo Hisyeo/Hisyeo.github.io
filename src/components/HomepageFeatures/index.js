@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Evolution',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Expansive',
+    Svg: require('@site/static/img/undraw_off_road_re_leme.svg').default,
     description: (
       <>
         Evolved from Kokanu but with a larger lexicon. Most added words
@@ -15,8 +15,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Expressivity',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Expressive',
+    Svg: require('@site/static/img/undraw_animating_re_5gvn.svg').default,
     description: (
       <>
         Words are considered based upon the length and understandability of
@@ -27,13 +27,12 @@ const FeatureList = [
   },
   {
     title: 'Succinct',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_happy_feeling_re_e76r.svg').default,
     description: (
       <>
-        Some new grammar has been integrated to increase the breadth of grammar
-        that is available. Albeit, with a slight reduction in ease-of-learning
-        but these changes make Hisyëö more regular and help specify what tense,
-        aspect, or mood that the sentence is in.
+        Several new grammatical particles to increase the breadth of grammar
+        that is available. Providing a greater amount of information density
+        at the cost of a slight reduction in ease-of-learning.
       </>
     ),
   },
