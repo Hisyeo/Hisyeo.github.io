@@ -4,32 +4,36 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Evolution',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Evolved from Kokanu but with a larger lexicon. Most added words
+        identified in review of Minimal English and MiniLang materials. Still 
+        relies on compound phrases for complex topics but they are shorter now.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Expressivity',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Words are considered based upon the length and understandability of
+        existing compound phrases, the commonality of the concept itself, and the
+        amount of usefulness within other compound phrases.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Succinct',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Some new grammar has been integrated to increase the breadth of grammar
+        that is available. Albeit, with a slight reduction in ease-of-learning
+        but these changes make Hisyëö more regular and help specify what tense,
+        aspect, or mood that the sentence is in.
       </>
     ),
   },
