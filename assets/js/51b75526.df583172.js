@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhyo=self.webpackChunkhyo||[]).push([[9382],{451:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/hyo/blog/tags/hola","allTagsPath":"/hyo/blog/tags","count":1}')}}]);

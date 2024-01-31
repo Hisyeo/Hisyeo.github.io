@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhyo=self.webpackChunkhyo||[]).push([[9467],{5098:o=>{o.exports=JSON.parse('{"permalink":"/hyo/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

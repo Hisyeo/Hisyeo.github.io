@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhyo=self.webpackChunkhyo||[]).push([[8387],{7108:o=>{o.exports=JSON.parse('[{"label":"facebook","permalink":"/hyo/blog/tags/facebook","count":1},{"label":"hello","permalink":"/hyo/blog/tags/hello","count":2},{"label":"docusaurus","permalink":"/hyo/blog/tags/docusaurus","count":4},{"label":"hola","permalink":"/hyo/blog/tags/hola","count":1}]')}}]);
