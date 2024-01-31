@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://govuliel.github.io/hyo/blog"/>
     <subtitle>Hisyëö Blog</subtitle>
-    <icon>https://govuliel.github.io/hyo/img/favicon.ico</icon>
+    <icon>https://govuliel.github.io/hyo/img/hisyaeo.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://govuliel.github.io/hyo/blog/welcome</id>
