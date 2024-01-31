@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Expansive',
-    Svg: require('@site/static/img/undraw_off_road_re_leme.svg').default,
+    Svg: require('@site/static/img/undraw_pancakes_238t.svg').default,
     description: (
       <>
         Evolved from Kokanu but with a larger lexicon. Most added words
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Expressive',
-    Svg: require('@site/static/img/undraw_animating_re_5gvn.svg').default,
+    Svg: require('@site/static/img/undraw_happy_feeling_re_e76r.svg').default,
     description: (
       <>
         Words are considered based upon the length and understandability of
@@ -27,7 +27,7 @@ const FeatureList = [
   },
   {
     title: 'Succinct',
-    Svg: require('@site/static/img/undraw_happy_feeling_re_e76r.svg').default,
+    Svg: require('@site/static/img/undraw_writer_q06d.svg').default,
     description: (
       <>
         Several new grammatical particles to increase the breadth of grammar
