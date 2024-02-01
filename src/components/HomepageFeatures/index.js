@@ -9,8 +9,8 @@ const FeatureList = [
     description: (
       <>
         Evolved from Kokanu but with a larger lexicon. Most added words
-        identified in review of Minimal English and MiniLang materials. Still 
-        relies on compound phrases for complex topics but they are shorter now.
+        identified in review of <a href="https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english">Minimal English</a> and <a href="https://minilanguage.com">Mini</a> materials.
+        Still relies on compound phrases for complexity but with more conciseness.
       </>
     ),
   },
