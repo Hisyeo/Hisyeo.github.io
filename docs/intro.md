@@ -98,7 +98,7 @@ Choose a verb (preceded by lı):
 
 Choose an object (preceded by zö):
 - uyö (that)
-- küöxi (fruit)
+- %%küöxi|küöxi%% (fruit)
 - %%pioli|pioli%% (hello) 
 - sütüö (friend)
 
