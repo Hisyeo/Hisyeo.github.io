@@ -45,7 +45,7 @@ primary driver for the split.
 
 #### Vowels
 - o as in sl**o**t or f**a**ther
-- ö as in th**ou**ght or Camb**o**dia
+- ö as in r**ou**pe or Camb**o**dia
 - e as in b**e**d or c**a**t
 - ë as in m**a**y or f**a**ce
 - ı as in c**i**ty or w**i**ll
