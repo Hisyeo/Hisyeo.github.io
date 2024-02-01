@@ -28,7 +28,7 @@ const config = {
     ['@lunaticmuch/docusaurus-terminology', {
       termsDir: './docs/words/',
       termsUrl: "/docs/words",
-      glossaryFilepath: './docs/lexicon.md',
+      glossaryFilepath: './docs/Lexicon.md',
     }]
   ],
   // Even if you don't use internalization, you can use this field to set useful
