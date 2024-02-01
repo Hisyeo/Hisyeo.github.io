@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhyo=self.webpackChunkhyo||[]).push([[6524],{3383:e=>{e.exports=JSON.parse('{"title":"Reference","slug":"/category/reference","permalink":"/hyo/docs/category/reference","navigation":{"previous":{"title":"Congratulations!","permalink":"/hyo/docs/lessons/congratulations"},"next":{"title":"Phonology","permalink":"/hyo/docs/reference/phonology"}}}')}}]);
