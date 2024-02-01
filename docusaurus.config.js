@@ -27,7 +27,7 @@ const config = {
   plugins: [
     ['@lunaticmuch/docusaurus-terminology', {
       termsDir: './docs/words/',
-      termsUrl: "/docs/word",
+      termsUrl: "/docs/words",
       glossaryFilepath: './docs/lexicon.md',
     }]
   ],
