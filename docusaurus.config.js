@@ -25,12 +25,10 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   plugins: [
-    '@lunaticmuch/docusaurus-terminology',
-    {
-      // @ts-ignore
+    ['@lunaticmuch/docusaurus-terminology', {
       termsDir: './docs/words/',
       glossaryFilepath: './docs/lexicon.md',
-    }
+    }]
   ],
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
