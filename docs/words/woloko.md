@@ -1,0 +1,15 @@
+---
+id: woloko
+title: woloko
+hoverText: leaf/petal
+---
+
+### leaf/petal
+
+**Part of Speech**: Noun
+**Verb**: to be a leaf/petal
+**Noun**: leaf/petal
+**Modifier**: leaf/petal-related
+
+Arabic وَرَقَة waraqa /wa.ra.qa/
+*Afroasiatic Language Family*

@@ -1,0 +1,15 @@
+---
+id: sünpidü
+title: sünpidü
+hoverText: drone/buzz/hum
+---
+
+### drone/buzz/hum
+
+**Part of Speech**: Noun
+**Verb**: to be a drone/buzz/hum
+**Noun**: a drone/buzz/hum
+**Modifier**: drone-related/buzz-related/hum-related
+
+Portuguese zumbido /zũˈbi.du/
+*Romance Language Family*

@@ -1,0 +1,15 @@
+---
+id: ünzoi
+title: ünzoi
+hoverText: proud
+---
+
+### proud
+
+**Part of Speech**: Modifier
+**Verb**: to be proud/vane
+**Noun**: pride/vanity
+**Modifier**: proud/vane
+
+Hindi ऊंचाई ūñcāī [ũːn.t͡ʃäː.iː]
+*Indo-Iranian Language Family*

@@ -4,6 +4,12 @@ title: pioli
 hoverText: hello/goodbye
 ---
 
-### Term explanation
+### hello/goodbye
 
-content here
+**Part of Speech**: Grammar
+**Verb**: -
+**Noun**: -
+**Modifier**: -
+
+Eastern Huasteca Nahuatl pialli [pialːi]
+*Yuto-Nahuatl Language Family*
