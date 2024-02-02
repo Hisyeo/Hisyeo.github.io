@@ -85,33 +85,33 @@ amount of additional noun phrases.
 Some basic words to get you started on sentence construction.
 
 Choose a subject (preceded by ü):
-- noyo (I)
-- nimö (you)
-- mo (we)
-- loı (it/they)
+- %%noyo|noyo%% (I)
+- %%nimö|nimö%% (you)
+- %%mo|mo%% (we)
+- %%loı|loı%% (it/they)
 
 Choose a verb (preceded by lı):
-- köto (to say)
-- monodo (to meet)
-- mokon (to eat)
-- vısun (to know)
+- %%köto|köto%% (to say)
+- %%monodo|monodo%% (to meet)
+- %%mokon|mokon%% (to eat)
+- %%vısun|vısun%% (to know)
 
-Choose an object (preceded by zö):
-- uyö (that)
+Choose an object (preceded by %%zö|zö%%):
+- %%uyö|uyö%% (that)
 - %%küöxi|küöxi%% (fruit)
 - %%pioli|pioli%% (hello) 
-- sütüö (friend)
+- %%sütüö|sütüö%% (friend)
 
 Choose a sentence ender:
-- lötven (polite)
-- voxo (surprise)
-- ko (question)
-- löizök (confirmation)
+- %%lötven|lötven%% (polite)
+- %%voxo|voxo%% (surprise)
+- %%ko|ko%% (question)
+- %%löizök|löizök%% (confirmation)
 - or none
 
 Now, make a sentence...
-- ü noyo lı mokon zö küöxi (I eat fruit)
-- ü nimö lı wısun zö sütüö ko (Do you know a friend?)
+- %%ü|ü%% %%noyo|noyo%% %%lı|lı%% %%mokon|mokon%% %%zö|zö%% %%küöxi|küöxi%% (I eat fruit)
+- %%ü|ü%% %%nimö|nimö%% %%lı|lı%% %%vısun|vısun%% %%zö|zö%% %%sütüö|sütüö%% %%ko|ko%% (Do you know a friend?)
 
 ## Next Steps
 

@@ -27,7 +27,7 @@ ${w['Origin']} ${w['IPA']}
 
 console.log('Clearing existing files...')
 
-const existingFiles = await glob(['./docs/words/*.md', './docs/words/*.mdx'])
+const existingFiles = await glob(['./docs/words/**/*.md', './docs/words/**/*.mdx'])
 
 const snippets = {}
 
@@ -35,7 +35,7 @@ parser.on('readable', async () => {
     console.log('Saturating markdown templates...')
     let record; while ((record = parser.read()) !== null) {
         try {
-            await fs.outputFile(`./docs/words/${record['Hisyëö']}.md`, template(record))
+            await fs.outputFile(`./docs/words/${record['Hisyëö'][0]}/${record['Hisyëö']}.md`, template(record))
             snippets[record['Hisyëö']] = {
                 scope: "markdown",
                 prefix: record['Hisyëö'],
