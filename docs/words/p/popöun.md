@@ -7,9 +7,13 @@ hoverText: system
 ### system
 
 **Part of Speech**: Noun
+
 **Verb**: to be a system
+
 **Noun**: system
+
 **Modifier**: system-related
 
 Khmer ប្រព័ន្ធ prɑpŏən /prɑ.ˈpŏən/
+
 *Austro-asiatic Language Family*

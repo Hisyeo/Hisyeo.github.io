@@ -7,9 +7,13 @@ hoverText: to await (an expectation)
 ### to await (an expectation)
 
 **Part of Speech**: Verb
+
 **Verb**: to await/expect
+
 **Noun**: an expectation/awaited thing
+
 **Modifier**: expected
 
 Japanese ま​つ matsu [ma̠t͡sɨᵝ]
+
 *Japonic Language Family*

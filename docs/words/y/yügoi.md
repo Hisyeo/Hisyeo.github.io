@@ -7,9 +7,13 @@ hoverText: hindering/detrimental
 ### hindering/detrimental
 
 **Part of Speech**: Modifier
+
 **Verb**: to be hindering/detrimental
+
 **Noun**: hindrance/detrimentality/detriment
+
 **Modifier**: hindering/detrimental
 
 Japanese 有害 yūgai [jɯ̟ᵝːɡa̠i]
+
 *Japonic Language Family*

@@ -18,11 +18,15 @@ hoverText: ${w['Meaning']}
 ### ${w['Meaning']}
 
 **Part of Speech**: ${w['Type']}
+
 **Verb**: ${w['Verb']}
+
 **Noun**: ${w['Noun']}
+
 **Modifier**: ${w['Modifier']}
 
 ${w['Origin']} ${w['IPA']}
+
 *${w['Family']} Language Family*`
 
 console.log('Clearing existing files...')
