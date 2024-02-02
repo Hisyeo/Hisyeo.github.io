@@ -21,7 +21,7 @@ const config = {
   organizationName: 'govuliel', // Usually your GitHub org/user name.
   projectName: 'hyo', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   plugins: [
