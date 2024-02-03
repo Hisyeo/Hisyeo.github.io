@@ -1,12 +1,10 @@
 ---
 id: ëo
 title: ëo
-hoverText: causative verb endoclitic
+hoverText: causative verb endoclitic § Grammar
 ---
 
-### causative verb endoclitic
-
-**Part of Speech**: Grammar
+### causative verb endoclitic § Grammar
 
 **Verb**: -
 

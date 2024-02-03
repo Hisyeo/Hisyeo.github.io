@@ -1,12 +1,10 @@
 ---
 id: ködus
 title: ködus
-hoverText: sacred
+hoverText: sacred § Modifier
 ---
 
-### sacred
-
-**Part of Speech**: Modifier
+### sacred § Modifier
 
 **Verb**: to be sacred
 

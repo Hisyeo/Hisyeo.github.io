@@ -1,12 +1,10 @@
 ---
 id: këlös
 title: këlös
-hoverText: weather
+hoverText: weather § Noun
 ---
 
-### weather
-
-**Part of Speech**: Noun
+### weather § Noun
 
 **Verb**: to be the weather
 

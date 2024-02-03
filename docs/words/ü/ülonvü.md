@@ -1,12 +1,10 @@
 ---
 id: ülonvü
 title: ülonvü
-hoverText: syllable
+hoverText: syllable § Noun
 ---
 
-### syllable
-
-**Part of Speech**: Noun
+### syllable § Noun
 
 **Verb**: to be a syllable
 

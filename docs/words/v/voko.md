@@ -1,12 +1,10 @@
 ---
 id: voko
 title: voko
-hoverText: causative agentive verb noun proclitic
+hoverText: causative agentive verb noun proclitic § Grammar
 ---
 
-### causative agentive verb noun proclitic
-
-**Part of Speech**: Grammar
+### causative agentive verb noun proclitic § Grammar
 
 **Verb**: -
 

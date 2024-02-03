@@ -1,12 +1,10 @@
 ---
 id: tiso
 title: tiso
-hoverText: 09 nine
+hoverText: 09 nine § Quantity
 ---
 
-### 09 nine
-
-**Part of Speech**: Quantity
+### 09 nine § Quantity
 
 **Verb**: to be nine
 

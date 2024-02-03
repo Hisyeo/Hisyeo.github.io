@@ -1,12 +1,10 @@
 ---
 id: nëös
 title: nëös
-hoverText: new/fresh
+hoverText: new/fresh § Modifier
 ---
 
-### new/fresh
-
-**Part of Speech**: Modifier
+### new/fresh § Modifier
 
 **Verb**: to be new/fresh
 

@@ -1,12 +1,10 @@
 ---
 id: voden
 title: voden
-hoverText: back
+hoverText: back § Noun
 ---
 
-### back
-
-**Part of Speech**: Noun
+### back § Noun
 
 **Verb**: to be the back/behind region
 

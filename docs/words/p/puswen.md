@@ -1,12 +1,10 @@
 ---
 id: puswen
 title: puswen
-hoverText: to need (a requirement)
+hoverText: to need (a requirement) § Verb
 ---
 
-### to need (a requirement)
-
-**Part of Speech**: Verb
+### to need (a requirement) § Verb
 
 **Verb**: to need/require
 

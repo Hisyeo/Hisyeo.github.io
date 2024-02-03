@@ -1,12 +1,10 @@
 ---
 id: okoxu
 title: okoxu
-hoverText: sky
+hoverText: sky § Noun
 ---
 
-### sky
-
-**Part of Speech**: Noun
+### sky § Noun
 
 **Verb**: to be the sky
 

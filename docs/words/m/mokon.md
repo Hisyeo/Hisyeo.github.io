@@ -1,12 +1,10 @@
 ---
 id: mokon
 title: mokon
-hoverText: to eat (food)
+hoverText: to eat (food) § Verb
 ---
 
-### to eat (food)
-
-**Part of Speech**: Verb
+### to eat (food) § Verb
 
 **Verb**: to eat
 

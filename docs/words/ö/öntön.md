@@ -1,12 +1,10 @@
 ---
 id: öntön
 title: öntön
-hoverText: to wear (clothing)
+hoverText: to wear (clothing) § Verb
 ---
 
-### to wear (clothing)
-
-**Part of Speech**: Verb
+### to wear (clothing) § Verb
 
 **Verb**: to wear
 

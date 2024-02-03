@@ -1,12 +1,10 @@
 ---
 id: hünsık
 title: hünsık
-hoverText: red
+hoverText: red § Modifier
 ---
 
-### red
-
-**Part of Speech**: Modifier
+### red § Modifier
 
 **Verb**: to be red
 

@@ -1,12 +1,10 @@
 ---
 id: nıwos
 title: nıwos
-hoverText: to reside in (a residence)
+hoverText: to reside in (a residence) § Verb
 ---
 
-### to reside in (a residence)
-
-**Part of Speech**: Verb
+### to reside in (a residence) § Verb
 
 **Verb**: to reside/live (in)
 

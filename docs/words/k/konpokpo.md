@@ -1,12 +1,10 @@
 ---
 id: konpokpo
 title: konpokpo
-hoverText: general/universal
+hoverText: general/universal § Modifier
 ---
 
-### general/universal
-
-**Part of Speech**: Modifier
+### general/universal § Modifier
 
 **Verb**: to be generic/universal
 

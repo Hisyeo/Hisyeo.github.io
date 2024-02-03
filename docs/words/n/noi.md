@@ -1,12 +1,10 @@
 ---
 id: noi
 title: noi
-hoverText: vocative marker
+hoverText: vocative marker § Preposition
 ---
 
-### vocative marker
-
-**Part of Speech**: Preposition
+### vocative marker § Preposition
 
 **Verb**: -
 

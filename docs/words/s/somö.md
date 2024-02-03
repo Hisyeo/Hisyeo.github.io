@@ -1,12 +1,10 @@
 ---
 id: somö
 title: somö
-hoverText: only
+hoverText: only § Modifier
 ---
 
-### only
-
-**Part of Speech**: Modifier
+### only § Modifier
 
 **Verb**: to be alone/exclusive
 

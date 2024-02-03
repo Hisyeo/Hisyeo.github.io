@@ -1,12 +1,10 @@
 ---
 id: tikël
 title: tikël
-hoverText: reflected
+hoverText: reflected § Modifier
 ---
 
-### reflected
-
-**Part of Speech**: Modifier
+### reflected § Modifier
 
 **Verb**: to be reflected
 

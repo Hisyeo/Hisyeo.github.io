@@ -1,12 +1,10 @@
 ---
 id: dülüsi
 title: dülüsi
-hoverText: reptile
+hoverText: reptile § Noun
 ---
 
-### reptile
-
-**Part of Speech**: Noun
+### reptile § Noun
 
 **Verb**: to be a reptile
 

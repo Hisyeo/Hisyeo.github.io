@@ -1,12 +1,10 @@
 ---
 id: xön
 title: xön
-hoverText: good
+hoverText: good § Modifier
 ---
 
-### good
-
-**Part of Speech**: Modifier
+### good § Modifier
 
 **Verb**: to be good
 

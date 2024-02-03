@@ -1,12 +1,10 @@
 ---
 id: künzien
 title: künzien
-hoverText: room
+hoverText: room § Noun
 ---
 
-### room
-
-**Part of Speech**: Noun
+### room § Noun
 
 **Verb**: to be a room/chamber
 

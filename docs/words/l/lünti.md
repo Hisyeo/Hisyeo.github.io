@@ -1,12 +1,10 @@
 ---
 id: lünti
 title: lünti
-hoverText: green
+hoverText: green § Modifier
 ---
 
-### green
-
-**Part of Speech**: Modifier
+### green § Modifier
 
 **Verb**: to be green
 

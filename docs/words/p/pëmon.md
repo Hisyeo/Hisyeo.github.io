@@ -1,12 +1,10 @@
 ---
 id: pëmon
 title: pëmon
-hoverText: to agree to (a promise)
+hoverText: to agree to (a promise) § Verb
 ---
 
-### to agree to (a promise)
-
-**Part of Speech**: Verb
+### to agree to (a promise) § Verb
 
 **Verb**: to agree/promise (to)
 

@@ -1,12 +1,10 @@
 ---
 id: lüzku
 title: lüzku
-hoverText: lever/knob/handle
+hoverText: lever/knob/handle § Noun
 ---
 
-### lever/knob/handle
-
-**Part of Speech**: Noun
+### lever/knob/handle § Noun
 
 **Verb**: to be a lever/knob/handle
 

@@ -1,12 +1,10 @@
 ---
 id: ke
 title: ke
-hoverText: future verb proclitic
+hoverText: future verb proclitic § Grammar
 ---
 
-### future verb proclitic
-
-**Part of Speech**: Grammar
+### future verb proclitic § Grammar
 
 **Verb**: -
 

@@ -1,12 +1,10 @@
 ---
 id: zonöi
 title: zonöi
-hoverText: beak
+hoverText: beak § Noun
 ---
 
-### beak
-
-**Part of Speech**: Noun
+### beak § Noun
 
 **Verb**: to be a beak/bill
 

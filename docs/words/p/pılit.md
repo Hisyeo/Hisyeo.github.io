@@ -1,12 +1,10 @@
 ---
 id: pılit
 title: pılit
-hoverText: sticky
+hoverText: sticky § Modifier
 ---
 
-### sticky
-
-**Part of Speech**: Modifier
+### sticky § Modifier
 
 **Verb**: to be sticky
 

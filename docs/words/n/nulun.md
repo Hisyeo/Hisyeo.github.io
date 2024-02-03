@@ -1,12 +1,10 @@
 ---
 id: nulun
 title: nulun
-hoverText: soft
+hoverText: soft § Modifier
 ---
 
-### soft
-
-**Part of Speech**: Modifier
+### soft § Modifier
 
 **Verb**: to be soft
 

@@ -1,12 +1,10 @@
 ---
 id: kökokü
 title: kökokü
-hoverText: skeleton
+hoverText: skeleton § Noun
 ---
 
-### skeleton
-
-**Part of Speech**: Noun
+### skeleton § Noun
 
 **Verb**: to be a frame/skeleton
 

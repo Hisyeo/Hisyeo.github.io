@@ -1,12 +1,10 @@
 ---
 id: ülkëvi
 title: ülkëvi
-hoverText: adamant/stubborn
+hoverText: adamant/stubborn § Modifier
 ---
 
-### adamant/stubborn
-
-**Part of Speech**: Modifier
+### adamant/stubborn § Modifier
 
 **Verb**: to be adamant/stubborn
 

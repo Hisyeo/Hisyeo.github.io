@@ -1,12 +1,10 @@
 ---
 id: ilziȷuk
 title: ilziȷuk
-hoverText: temporary
+hoverText: temporary § Modifier
 ---
 
-### temporary
-
-**Part of Speech**: Modifier
+### temporary § Modifier
 
 **Verb**: to be temporary/ephemeral
 

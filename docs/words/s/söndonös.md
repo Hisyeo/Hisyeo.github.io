@@ -1,12 +1,10 @@
 ---
 id: söndonös
 title: söndonös
-hoverText: direct/live
+hoverText: direct/live § Modifier
 ---
 
-### direct/live
-
-**Part of Speech**: Modifier
+### direct/live § Modifier
 
 **Verb**: to be direct/live
 

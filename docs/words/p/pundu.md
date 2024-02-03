@@ -1,12 +1,10 @@
 ---
 id: pundu
 title: pundu
-hoverText: closed
+hoverText: closed § Modifier
 ---
 
-### closed
-
-**Part of Speech**: Modifier
+### closed § Modifier
 
 **Verb**: to be closed
 

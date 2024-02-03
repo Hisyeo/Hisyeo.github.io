@@ -1,12 +1,10 @@
 ---
 id: xük
 title: xük
-hoverText: sort/type
+hoverText: sort/type § Noun
 ---
 
-### sort/type
-
-**Part of Speech**: Noun
+### sort/type § Noun
 
 **Verb**: to be a sort/type/category
 

@@ -1,12 +1,10 @@
 ---
 id: zies
 title: zies
-hoverText: tight/firm
+hoverText: tight/firm § Modifier
 ---
 
-### tight/firm
-
-**Part of Speech**: Modifier
+### tight/firm § Modifier
 
 **Verb**: to be tight/firm
 

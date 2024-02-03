@@ -1,12 +1,10 @@
 ---
 id: püȷök
 title: püȷök
-hoverText: lack
+hoverText: lack § Quantity
 ---
 
-### lack
-
-**Part of Speech**: Quantity
+### lack § Quantity
 
 **Verb**: to be lacking/short/deficient
 

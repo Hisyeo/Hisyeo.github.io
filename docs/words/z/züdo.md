@@ -1,12 +1,10 @@
 ---
 id: züdo
 title: züdo
-hoverText: to give (a gift)
+hoverText: to give (a gift) § Verb
 ---
 
-### to give (a gift)
-
-**Part of Speech**: Verb
+### to give (a gift) § Verb
 
 **Verb**: to give
 

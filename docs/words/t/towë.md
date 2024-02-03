@@ -1,12 +1,10 @@
 ---
 id: towë
 title: towë
-hoverText: hair/fur/plumage
+hoverText: hair/fur/plumage § Noun
 ---
 
-### hair/fur/plumage
-
-**Part of Speech**: Noun
+### hair/fur/plumage § Noun
 
 **Verb**: to be hair/fur/plumage
 

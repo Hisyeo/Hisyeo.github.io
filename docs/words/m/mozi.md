@@ -1,12 +1,10 @@
 ---
 id: mozi
 title: mozi
-hoverText: to await (an expectation)
+hoverText: to await (an expectation) § Verb
 ---
 
-### to await (an expectation)
-
-**Part of Speech**: Verb
+### to await (an expectation) § Verb
 
 **Verb**: to await/expect
 

@@ -1,12 +1,10 @@
 ---
 id: mihüon
 title: mihüon
-hoverText: beige
+hoverText: beige § Modifier
 ---
 
-### beige
-
-**Part of Speech**: Modifier
+### beige § Modifier
 
 **Verb**: to be beige
 

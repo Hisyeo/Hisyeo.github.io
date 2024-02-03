@@ -1,12 +1,10 @@
 ---
 id: konpi
 title: konpi
-hoverText: hard
+hoverText: hard § Modifier
 ---
 
-### hard
-
-**Part of Speech**: Modifier
+### hard § Modifier
 
 **Verb**: to be hard (material-wise)
 

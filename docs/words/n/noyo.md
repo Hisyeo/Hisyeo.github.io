@@ -1,12 +1,10 @@
 ---
 id: noyo
 title: noyo
-hoverText: I/me
+hoverText: I/me § Pronoun
 ---
 
-### I/me
-
-**Part of Speech**: Pronoun
+### I/me § Pronoun
 
 **Verb**: to be me
 

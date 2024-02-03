@@ -1,12 +1,10 @@
 ---
 id: kösmö
 title: kösmö
-hoverText: space/cosmos
+hoverText: space/cosmos § Noun
 ---
 
-### space/cosmos
-
-**Part of Speech**: Noun
+### space/cosmos § Noun
 
 **Verb**: to be space/the cosmos
 

@@ -1,12 +1,10 @@
 ---
 id: lohot
 title: lohot
-hoverText: comfortable
+hoverText: comfortable § Modifier
 ---
 
-### comfortable
-
-**Part of Speech**: Modifier
+### comfortable § Modifier
 
 **Verb**: to be comfortable
 

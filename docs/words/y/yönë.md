@@ -1,12 +1,10 @@
 ---
 id: yönë
 title: yönë
-hoverText: caprine
+hoverText: caprine § Noun
 ---
 
-### caprine
-
-**Part of Speech**: Noun
+### caprine § Noun
 
 **Verb**: to be a goat/sheep/caprine
 

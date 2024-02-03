@@ -1,12 +1,10 @@
 ---
 id: doipi
 title: doipi
-hoverText: ticket/pass
+hoverText: ticket/pass § Noun
 ---
 
-### ticket/pass
-
-**Part of Speech**: Noun
+### ticket/pass § Noun
 
 **Verb**: to be a ticket/pass
 

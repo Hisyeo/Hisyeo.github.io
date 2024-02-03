@@ -1,12 +1,10 @@
 ---
 id: sumon
 title: sumon
-hoverText: equal/same
+hoverText: equal/same § Modifier
 ---
 
-### equal/same
-
-**Part of Speech**: Modifier
+### equal/same § Modifier
 
 **Verb**: to be equal/the same
 

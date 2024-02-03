@@ -1,12 +1,10 @@
 ---
 id: yotkuwo
 title: yotkuwo
-hoverText: ongoing
+hoverText: ongoing § Modifier
 ---
 
-### ongoing
-
-**Part of Speech**: Modifier
+### ongoing § Modifier
 
 **Verb**: to be ongoing
 

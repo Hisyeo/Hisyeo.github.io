@@ -1,12 +1,10 @@
 ---
 id: pikontë
 title: pikontë
-hoverText: spicy
+hoverText: spicy § Modifier
 ---
 
-### spicy
-
-**Part of Speech**: Modifier
+### spicy § Modifier
 
 **Verb**: to be spicy
 

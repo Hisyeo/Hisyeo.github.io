@@ -1,12 +1,10 @@
 ---
 id: göwo
 title: göwo
-hoverText: foolish/obtuse
+hoverText: foolish/obtuse § Modifier
 ---
 
-### foolish/obtuse
-
-**Part of Speech**: Modifier
+### foolish/obtuse § Modifier
 
 **Verb**: to be foolish/obtuse
 

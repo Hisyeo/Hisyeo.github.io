@@ -1,12 +1,10 @@
 ---
 id: voüt
 title: voüt
-hoverText: error
+hoverText: error § Noun
 ---
 
-### error
-
-**Part of Speech**: Noun
+### error § Noun
 
 **Verb**: to be an error/mistake/defect
 

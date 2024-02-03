@@ -1,12 +1,10 @@
 ---
 id: ünidü
 title: ünidü
-hoverText: joined
+hoverText: joined § Modifier
 ---
 
-### joined
-
-**Part of Speech**: Modifier
+### joined § Modifier
 
 **Verb**: to be joined/linked/united
 

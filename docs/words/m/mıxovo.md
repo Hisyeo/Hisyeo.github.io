@@ -1,12 +1,10 @@
 ---
 id: mıxovo
 title: mıxovo
-hoverText: acidic
+hoverText: acidic § Modifier
 ---
 
-### acidic
-
-**Part of Speech**: Modifier
+### acidic § Modifier
 
 **Verb**: to be acidic
 

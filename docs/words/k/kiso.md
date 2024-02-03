@@ -1,12 +1,10 @@
 ---
 id: kiso
 title: kiso
-hoverText: to narrate (a story)
+hoverText: to narrate (a story) § Verb
 ---
 
-### to narrate (a story)
-
-**Part of Speech**: Verb
+### to narrate (a story) § Verb
 
 **Verb**: to narrate
 

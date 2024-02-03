@@ -1,12 +1,10 @@
 ---
 id: kolowo
 title: kolowo
-hoverText: art
+hoverText: art § Noun
 ---
 
-### art
-
-**Part of Speech**: Noun
+### art § Noun
 
 **Verb**: to be art
 

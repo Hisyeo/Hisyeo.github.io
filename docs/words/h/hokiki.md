@@ -1,12 +1,10 @@
 ---
 id: hokiki
 title: hokiki
-hoverText: authentic
+hoverText: authentic § Modifier
 ---
 
-### authentic
-
-**Part of Speech**: Modifier
+### authentic § Modifier
 
 **Verb**: to be authentic/true
 

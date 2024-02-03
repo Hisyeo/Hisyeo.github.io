@@ -1,12 +1,10 @@
 ---
 id: öni
 title: öni
-hoverText: agentive verb noun proclitic
+hoverText: agentive verb noun proclitic § Grammar
 ---
 
-### agentive verb noun proclitic
-
-**Part of Speech**: Grammar
+### agentive verb noun proclitic § Grammar
 
 **Verb**: -
 

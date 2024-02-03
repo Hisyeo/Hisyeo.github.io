@@ -1,12 +1,10 @@
 ---
 id: polze
 title: polze
-hoverText: cloth/fabric
+hoverText: cloth/fabric § Noun
 ---
 
-### cloth/fabric
-
-**Part of Speech**: Noun
+### cloth/fabric § Noun
 
 **Verb**: to be cloth/fabric
 

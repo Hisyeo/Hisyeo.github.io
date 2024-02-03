@@ -1,12 +1,10 @@
 ---
 id: woloko
 title: woloko
-hoverText: leaf/petal
+hoverText: leaf/petal § Noun
 ---
 
-### leaf/petal
-
-**Part of Speech**: Noun
+### leaf/petal § Noun
 
 **Verb**: to be a leaf/petal
 

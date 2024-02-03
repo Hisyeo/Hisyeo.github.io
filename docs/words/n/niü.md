@@ -1,12 +1,10 @@
 ---
 id: niü
 title: niü
-hoverText: many
+hoverText: many § Quantity
 ---
 
-### many
-
-**Part of Speech**: Quantity
+### many § Quantity
 
 **Verb**: to be many/a lot
 

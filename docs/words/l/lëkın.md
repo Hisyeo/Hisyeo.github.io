@@ -1,12 +1,10 @@
 ---
 id: lëkın
 title: lëkın
-hoverText: but
+hoverText: but § Connector
 ---
 
-### but
-
-**Part of Speech**: Connector
+### but § Connector
 
 **Verb**: -
 

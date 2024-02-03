@@ -1,12 +1,10 @@
 ---
 id: ënpokon
 title: ënpokon
-hoverText: belch/burp
+hoverText: belch/burp § Noun
 ---
 
-### belch/burp
-
-**Part of Speech**: Noun
+### belch/burp § Noun
 
 **Verb**: to be a belch/burp
 

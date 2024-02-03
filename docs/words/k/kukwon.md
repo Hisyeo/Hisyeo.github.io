@@ -1,12 +1,10 @@
 ---
 id: kukwon
 title: kukwon
-hoverText: organ/member
+hoverText: organ/member § Noun
 ---
 
-### organ/member
-
-**Part of Speech**: Noun
+### organ/member § Noun
 
 **Verb**: to be an organ/member
 

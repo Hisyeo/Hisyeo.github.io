@@ -1,12 +1,10 @@
 ---
 id: ongölö
 title: ongölö
-hoverText: corner
+hoverText: corner § Noun
 ---
 
-### corner
-
-**Part of Speech**: Noun
+### corner § Noun
 
 **Verb**: to be a corner/angle
 

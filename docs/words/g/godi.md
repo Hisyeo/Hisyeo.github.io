@@ -1,12 +1,10 @@
 ---
 id: godi
 title: godi
-hoverText: grass
+hoverText: grass § Noun
 ---
 
-### grass
-
-**Part of Speech**: Noun
+### grass § Noun
 
 **Verb**: to be a ground cover plant
 

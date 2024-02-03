@@ -1,12 +1,10 @@
 ---
 id: övo
 title: övo
-hoverText: this
+hoverText: this § Pronoun
 ---
 
-### this
-
-**Part of Speech**: Pronoun
+### this § Pronoun
 
 **Verb**: to be this
 

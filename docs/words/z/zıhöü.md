@@ -1,12 +1,10 @@
 ---
 id: zıhöü
 title: zıhöü
-hoverText: hereafter
+hoverText: hereafter § Modifier
 ---
 
-### hereafter
-
-**Part of Speech**: Modifier
+### hereafter § Modifier
 
 **Verb**: to be hereafter
 

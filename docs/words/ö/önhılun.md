@@ -1,12 +1,10 @@
 ---
 id: önhılun
 title: önhılun
-hoverText: to surround/envelope (a surrounding/enclosure) 
+hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
 ---
 
-### to surround/envelope (a surrounding/enclosure) 
-
-**Part of Speech**: Verb
+### to surround/envelope (a surrounding/enclosure)  § Verb
 
 **Verb**: to surround/envelope
 

@@ -1,12 +1,10 @@
 ---
 id: söltüstık
 title: söltüstık
-hoverText: northern
+hoverText: northern § Modifier
 ---
 
-### northern
-
-**Part of Speech**: Modifier
+### northern § Modifier
 
 **Verb**: to be northern
 

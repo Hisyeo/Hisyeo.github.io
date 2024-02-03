@@ -1,12 +1,10 @@
 ---
 id: monodo
 title: monodo
-hoverText: to meet (meetable/visitable entity)
+hoverText: to meet (meetable/visitable entity) § Verb
 ---
 
-### to meet (meetable/visitable entity)
-
-**Part of Speech**: Verb
+### to meet (meetable/visitable entity) § Verb
 
 **Verb**: to meet/visit
 

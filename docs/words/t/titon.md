@@ -1,12 +1,10 @@
 ---
 id: titon
 title: titon
-hoverText: direction/path
+hoverText: direction/path § Noun
 ---
 
-### direction/path
-
-**Part of Speech**: Noun
+### direction/path § Noun
 
 **Verb**: to be a direction/path
 

@@ -1,12 +1,10 @@
 ---
 id: diyondë
 title: diyondë
-hoverText: to focus [on]/pay attention [to]
+hoverText: to focus [on]/pay attention [to] § Verb
 ---
 
-### to focus [on]/pay attention [to]
-
-**Part of Speech**: Verb
+### to focus [on]/pay attention [to] § Verb
 
 **Verb**: to focus [on]/pay attention [to]
 

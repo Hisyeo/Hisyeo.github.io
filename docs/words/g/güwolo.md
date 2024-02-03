@@ -1,12 +1,10 @@
 ---
 id: güwolo
 title: güwolo
-hoverText: to scratch (a scratchable entity)
+hoverText: to scratch (a scratchable entity) § Verb
 ---
 
-### to scratch (a scratchable entity)
-
-**Part of Speech**: Verb
+### to scratch (a scratchable entity) § Verb
 
 **Verb**: to scratch/scrape
 

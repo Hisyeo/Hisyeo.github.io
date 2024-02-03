@@ -1,12 +1,10 @@
 ---
 id: kelo
 title: kelo
-hoverText: to play (a game)
+hoverText: to play (a game) § Verb
 ---
 
-### to play (a game)
-
-**Part of Speech**: Verb
+### to play (a game) § Verb
 
 **Verb**: to play (game-wise)
 

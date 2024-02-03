@@ -1,12 +1,10 @@
 ---
 id: ȷowopü
 title: ȷowopü
-hoverText: to answer (a response)
+hoverText: to answer (a response) § Verb
 ---
 
-### to answer (a response)
-
-**Part of Speech**: Verb
+### to answer (a response) § Verb
 
 **Verb**: to answer/respond with
 

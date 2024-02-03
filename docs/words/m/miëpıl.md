@@ -1,12 +1,10 @@
 ---
 id: miëpıl
 title: miëpıl
-hoverText: furniture
+hoverText: furniture § Noun
 ---
 
-### furniture
-
-**Part of Speech**: Noun
+### furniture § Noun
 
 **Verb**: to be furniture
 

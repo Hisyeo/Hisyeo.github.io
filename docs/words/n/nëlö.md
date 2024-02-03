@@ -1,12 +1,10 @@
 ---
 id: nëlö
 title: nëlö
-hoverText: black
+hoverText: black § Modifier
 ---
 
-### black
-
-**Part of Speech**: Modifier
+### black § Modifier
 
 **Verb**: to be black/dark
 

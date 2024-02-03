@@ -1,12 +1,10 @@
 ---
 id: onvidi
 title: onvidi
-hoverText: amphibian
+hoverText: amphibian § Noun
 ---
 
-### amphibian
-
-**Part of Speech**: Noun
+### amphibian § Noun
 
 **Verb**: to be an amphibian
 

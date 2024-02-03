@@ -1,12 +1,10 @@
 ---
 id: tıgoyo
 title: tıgoyo
-hoverText: supine
+hoverText: supine § Modifier
 ---
 
-### supine
-
-**Part of Speech**: Modifier
+### supine § Modifier
 
 **Verb**: to be supine/reclined
 

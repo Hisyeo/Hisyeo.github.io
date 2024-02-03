@@ -1,12 +1,10 @@
 ---
 id: tünzi
 title: tünzi
-hoverText: nonbinary/queer(?)
+hoverText: nonbinary/queer(?) § Modifier
 ---
 
-### nonbinary/queer(?)
-
-**Part of Speech**: Modifier
+### nonbinary/queer(?) § Modifier
 
 **Verb**: to be nonbinary/queer(?)
 

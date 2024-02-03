@@ -1,12 +1,10 @@
 ---
 id: opünuk
 title: opünuk
-hoverText: to blow (a blowable entity)
+hoverText: to blow (a blowable entity) § Verb
 ---
 
-### to blow (a blowable entity)
-
-**Part of Speech**: Verb
+### to blow (a blowable entity) § Verb
 
 **Verb**: to blow
 

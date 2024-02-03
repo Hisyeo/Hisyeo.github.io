@@ -1,12 +1,10 @@
 ---
 id: zutnë
 title: zutnë
-hoverText: to climb (a slope)
+hoverText: to climb (a slope) § Verb
 ---
 
-### to climb (a slope)
-
-**Part of Speech**: Verb
+### to climb (a slope) § Verb
 
 **Verb**: to climb
 

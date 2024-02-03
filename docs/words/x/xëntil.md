@@ -1,12 +1,10 @@
 ---
 id: xëntil
 title: xëntil
-hoverText: gentle/kind
+hoverText: gentle/kind § Modifier
 ---
 
-### gentle/kind
-
-**Part of Speech**: Modifier
+### gentle/kind § Modifier
 
 **Verb**: to be gentle/kind
 

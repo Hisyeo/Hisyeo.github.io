@@ -1,12 +1,10 @@
 ---
 id: pölutë
 title: pölutë
-hoverText: foreign
+hoverText: foreign § Modifier
 ---
 
-### foreign
-
-**Part of Speech**: Modifier
+### foreign § Modifier
 
 **Verb**: to be foreign/exotic
 

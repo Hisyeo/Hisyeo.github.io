@@ -1,12 +1,10 @@
 ---
 id: sopölë
 title: sopölë
-hoverText: to taste (a flavor)
+hoverText: to taste (a flavor) § Verb
 ---
 
-### to taste (a flavor)
-
-**Part of Speech**: Verb
+### to taste (a flavor) § Verb
 
 **Verb**: to taste
 

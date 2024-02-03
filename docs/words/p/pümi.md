@@ -1,12 +1,10 @@
 ---
 id: pümi
 title: pümi
-hoverText: land/ground
+hoverText: land/ground § Noun
 ---
 
-### land/ground
-
-**Part of Speech**: Noun
+### land/ground § Noun
 
 **Verb**: to be land/earth
 

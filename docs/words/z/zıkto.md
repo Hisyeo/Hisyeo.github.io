@@ -1,12 +1,10 @@
 ---
 id: zıkto
 title: zıkto
-hoverText: to write (text)
+hoverText: to write (text) § Verb
 ---
 
-### to write (text)
-
-**Part of Speech**: Verb
+### to write (text) § Verb
 
 **Verb**: to write
 

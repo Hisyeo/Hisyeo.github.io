@@ -1,12 +1,10 @@
 ---
 id: moskül
 title: moskül
-hoverText: male
+hoverText: male § Modifier
 ---
 
-### male
-
-**Part of Speech**: Modifier
+### male § Modifier
 
 **Verb**: to be male/masculine
 

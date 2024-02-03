@@ -1,12 +1,10 @@
 ---
 id: kozko
 title: kozko
-hoverText: rough
+hoverText: rough § Modifier
 ---
 
-### rough
-
-**Part of Speech**: Modifier
+### rough § Modifier
 
 **Verb**: to be rough
 

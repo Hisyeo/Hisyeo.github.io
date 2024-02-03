@@ -1,12 +1,10 @@
 ---
 id: mienzok
 title: mienzok
-hoverText: mollusc
+hoverText: mollusc § Noun
 ---
 
-### mollusc
-
-**Part of Speech**: Noun
+### mollusc § Noun
 
 **Verb**: to be a mollusc
 

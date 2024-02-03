@@ -1,12 +1,10 @@
 ---
 id: vëlkonö
 title: vëlkonö
-hoverText: close
+hoverText: close § Modifier
 ---
 
-### close
-
-**Part of Speech**: Modifier
+### close § Modifier
 
 **Verb**: to be close
 

@@ -1,12 +1,10 @@
 ---
 id: dıpo
 title: dıpo
-hoverText: container
+hoverText: container § Noun
 ---
 
-### container
-
-**Part of Speech**: Noun
+### container § Noun
 
 **Verb**: to be a container
 

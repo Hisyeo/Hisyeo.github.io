@@ -1,12 +1,10 @@
 ---
 id: vonolon
 title: vonolon
-hoverText: monkey/ape
+hoverText: monkey/ape § Noun
 ---
 
-### monkey/ape
-
-**Part of Speech**: Noun
+### monkey/ape § Noun
 
 **Verb**: to be a monkey/ape
 

@@ -1,12 +1,10 @@
 ---
 id: muni
 title: muni
-hoverText: money
+hoverText: money § Noun
 ---
 
-### money
-
-**Part of Speech**: Noun
+### money § Noun
 
 **Verb**: to be money
 

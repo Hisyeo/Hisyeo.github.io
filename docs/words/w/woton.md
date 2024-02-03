@@ -1,12 +1,10 @@
 ---
 id: woton
 title: woton
-hoverText: ring/circle
+hoverText: ring/circle § Noun
 ---
 
-### ring/circle
-
-**Part of Speech**: Noun
+### ring/circle § Noun
 
 **Verb**: to be a ring/circle/disc
 

@@ -1,12 +1,10 @@
 ---
 id: poivön
 title: poivön
-hoverText: to emit (excreta)
+hoverText: to emit (excreta) § Verb
 ---
 
-### to emit (excreta)
-
-**Part of Speech**: Verb
+### to emit (excreta) § Verb
 
 **Verb**: to emit/eject/excrete
 

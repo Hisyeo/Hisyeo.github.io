@@ -1,12 +1,10 @@
 ---
 id: iskö
 title: iskö
-hoverText: to drink (a drink)
+hoverText: to drink (a drink) § Verb
 ---
 
-### to drink (a drink)
-
-**Part of Speech**: Verb
+### to drink (a drink) § Verb
 
 **Verb**: to drink/suck
 

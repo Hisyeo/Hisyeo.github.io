@@ -1,12 +1,10 @@
 ---
 id: sohoü
 title: sohoü
-hoverText: healthy
+hoverText: healthy § Modifier
 ---
 
-### healthy
-
-**Part of Speech**: Modifier
+### healthy § Modifier
 
 **Verb**: to be healthy
 

@@ -1,12 +1,10 @@
 ---
 id: liü
 title: liü
-hoverText: 06 six
+hoverText: 06 six § Quantity
 ---
 
-### 06 six
-
-**Part of Speech**: Quantity
+### 06 six § Quantity
 
 **Verb**: to be six
 

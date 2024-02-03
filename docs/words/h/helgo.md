@@ -1,12 +1,10 @@
 ---
 id: helgo
 title: helgo
-hoverText: to venerate (venerable entity)
+hoverText: to venerate (venerable entity) § Verb
 ---
 
-### to venerate (venerable entity)
-
-**Part of Speech**: Verb
+### to venerate (venerable entity) § Verb
 
 **Verb**: to venerate/revere
 

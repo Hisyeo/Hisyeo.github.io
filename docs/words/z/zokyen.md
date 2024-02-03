@@ -1,12 +1,10 @@
 ---
 id: zokyen
 title: zokyen
-hoverText: almost
+hoverText: almost § Modifier
 ---
 
-### almost
-
-**Part of Speech**: Modifier
+### almost § Modifier
 
 **Verb**: to almost/nearly be
 

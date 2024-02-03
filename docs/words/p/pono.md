@@ -1,12 +1,10 @@
 ---
 id: pono
 title: pono
-hoverText: facing/pointing
+hoverText: facing/pointing § Modifier
 ---
 
-### facing/pointing
-
-**Part of Speech**: Modifier
+### facing/pointing § Modifier
 
 **Verb**: to be facing/pointing
 

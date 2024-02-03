@@ -1,12 +1,10 @@
 ---
 id: pösol
 title: pösol
-hoverText: to form a pose (a position)
+hoverText: to form a pose (a position) § Verb
 ---
 
-### to form a pose (a position)
-
-**Part of Speech**: Verb
+### to form a pose (a position) § Verb
 
 **Verb**: to form (pose-wise)
 

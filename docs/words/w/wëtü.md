@@ -1,12 +1,10 @@
 ---
 id: wëtü
 title: wëtü
-hoverText: to cut (cuttable entity)
+hoverText: to cut (cuttable entity) § Verb
 ---
 
-### to cut (cuttable entity)
-
-**Part of Speech**: Verb
+### to cut (cuttable entity) § Verb
 
 **Verb**: to cut/chop
 

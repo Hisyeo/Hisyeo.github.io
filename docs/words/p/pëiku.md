@@ -1,12 +1,10 @@
 ---
 id: pëiku
 title: pëiku
-hoverText: shell
+hoverText: shell § Noun
 ---
 
-### shell
-
-**Part of Speech**: Noun
+### shell § Noun
 
 **Verb**: to be a shell
 

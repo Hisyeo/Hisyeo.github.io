@@ -1,12 +1,10 @@
 ---
 id: vunsüt
 title: vunsüt
-hoverText: defeated
+hoverText: defeated § Modifier
 ---
 
-### defeated
-
-**Part of Speech**: Modifier
+### defeated § Modifier
 
 **Verb**: to be defeated
 

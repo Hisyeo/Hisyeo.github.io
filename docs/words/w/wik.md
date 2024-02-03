@@ -1,12 +1,10 @@
 ---
 id: wik
 title: wik
-hoverText: head
+hoverText: head § Noun
 ---
 
-### head
-
-**Part of Speech**: Noun
+### head § Noun
 
 **Verb**: to be a head
 

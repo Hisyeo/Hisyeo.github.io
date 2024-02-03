@@ -1,12 +1,10 @@
 ---
 id: yosten
 title: yosten
-hoverText: to find (a discovery)
+hoverText: to find (a discovery) § Verb
 ---
 
-### to find (a discovery)
-
-**Part of Speech**: Verb
+### to find (a discovery) § Verb
 
 **Verb**: to find/discover
 

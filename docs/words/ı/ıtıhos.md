@@ -1,12 +1,10 @@
 ---
 id: ıtıhos
 title: ıtıhos
-hoverText: history
+hoverText: history § Noun
 ---
 
-### history
-
-**Part of Speech**: Noun
+### history § Noun
 
 **Verb**: to be a history
 

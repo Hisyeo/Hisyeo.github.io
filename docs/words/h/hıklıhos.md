@@ -1,12 +1,10 @@
 ---
 id: hıklıhos
 title: hıklıhos
-hoverText: supernatural/miraculous
+hoverText: supernatural/miraculous § Modifier
 ---
 
-### supernatural/miraculous
-
-**Part of Speech**: Modifier
+### supernatural/miraculous § Modifier
 
 **Verb**: to be supernatural/miraculous
 

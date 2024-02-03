@@ -1,12 +1,10 @@
 ---
 id: lovono
 title: lovono
-hoverText: to ship/send (a package)
+hoverText: to ship/send (a package) § Verb
 ---
 
-### to ship/send (a package)
-
-**Part of Speech**: Verb
+### to ship/send (a package) § Verb
 
 **Verb**: to ship/send
 

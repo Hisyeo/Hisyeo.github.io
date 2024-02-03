@@ -1,12 +1,10 @@
 ---
 id: hiȷon
 title: hiȷon
-hoverText: excited
+hoverText: excited § Modifier
 ---
 
-### excited
-
-**Part of Speech**: Modifier
+### excited § Modifier
 
 **Verb**: to be excited
 

@@ -1,12 +1,10 @@
 ---
 id: küon
 title: küon
-hoverText: light
+hoverText: light § Noun
 ---
 
-### light
-
-**Part of Speech**: Noun
+### light § Noun
 
 **Verb**: to be light
 

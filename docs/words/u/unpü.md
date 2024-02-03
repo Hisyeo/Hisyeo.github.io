@@ -1,12 +1,10 @@
 ---
 id: unpü
 title: unpü
-hoverText: arrow
+hoverText: arrow § Noun
 ---
 
-### arrow
-
-**Part of Speech**: Noun
+### arrow § Noun
 
 **Verb**: to be an arrow
 

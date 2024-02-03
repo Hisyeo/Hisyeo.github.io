@@ -1,12 +1,10 @@
 ---
 id: tënio
 title: tënio
-hoverText: strip/band
+hoverText: strip/band § Noun
 ---
 
-### strip/band
-
-**Part of Speech**: Noun
+### strip/band § Noun
 
 **Verb**: to be a strip/band
 

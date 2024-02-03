@@ -1,12 +1,10 @@
 ---
 id: lono
 title: lono
-hoverText: day
+hoverText: day § Noun
 ---
 
-### day
-
-**Part of Speech**: Noun
+### day § Noun
 
 **Verb**: to be a day
 

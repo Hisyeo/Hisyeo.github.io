@@ -1,12 +1,10 @@
 ---
 id: putün
 title: putün
-hoverText: unmoving
+hoverText: unmoving § Modifier
 ---
 
-### unmoving
-
-**Part of Speech**: Modifier
+### unmoving § Modifier
 
 **Verb**: to be still/unmoving
 

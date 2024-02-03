@@ -1,12 +1,10 @@
 ---
 id: pıslon
 title: pıslon
-hoverText: thus far
+hoverText: thus far § Modifier
 ---
 
-### thus far
-
-**Part of Speech**: Modifier
+### thus far § Modifier
 
 **Verb**: to be thus far
 

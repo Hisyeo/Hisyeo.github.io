@@ -1,12 +1,10 @@
 ---
 id: xemëtsem
 title: xemëtsem
-hoverText: noun
+hoverText: noun § Noun
 ---
 
-### noun
-
-**Part of Speech**: Noun
+### noun § Noun
 
 **Verb**: to be a noun
 

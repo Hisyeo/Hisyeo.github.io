@@ -1,12 +1,10 @@
 ---
 id: yonduyo
 title: yonduyo
-hoverText: machine
+hoverText: machine § Noun
 ---
 
-### machine
-
-**Part of Speech**: Noun
+### machine § Noun
 
 **Verb**: to be a machine
 

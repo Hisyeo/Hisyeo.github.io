@@ -1,12 +1,10 @@
 ---
 id: vezko
 title: vezko
-hoverText: liquid
+hoverText: liquid § Noun
 ---
 
-### liquid
-
-**Part of Speech**: Noun
+### liquid § Noun
 
 **Verb**: to be a liquid
 

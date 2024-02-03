@@ -1,12 +1,10 @@
 ---
 id: küdu
 title: küdu
-hoverText: horse
+hoverText: horse § Noun
 ---
 
-### horse
-
-**Part of Speech**: Noun
+### horse § Noun
 
 **Verb**: to be a horse/equine
 

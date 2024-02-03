@@ -1,12 +1,10 @@
 ---
 id: zöüvon
 title: zöüvon
-hoverText: to cook (a meal)
+hoverText: to cook (a meal) § Verb
 ---
 
-### to cook (a meal)
-
-**Part of Speech**: Verb
+### to cook (a meal) § Verb
 
 **Verb**: to cook
 

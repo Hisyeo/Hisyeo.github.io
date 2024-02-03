@@ -1,12 +1,10 @@
 ---
 id: vizwo
 title: vizwo
-hoverText: hidden/secret
+hoverText: hidden/secret § Modifier
 ---
 
-### hidden/secret
-
-**Part of Speech**: Modifier
+### hidden/secret § Modifier
 
 **Verb**: to be hidden/secret
 

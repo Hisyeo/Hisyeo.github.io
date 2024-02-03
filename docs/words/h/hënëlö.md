@@ -1,12 +1,10 @@
 ---
 id: hënëlö
 title: hënëlö
-hoverText: gender
+hoverText: gender § Noun
 ---
 
-### gender
-
-**Part of Speech**: Noun
+### gender § Noun
 
 **Verb**: to be a gender
 

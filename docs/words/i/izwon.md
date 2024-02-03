@@ -1,12 +1,10 @@
 ---
 id: izwon
 title: izwon
-hoverText: to inherit (inheritance)
+hoverText: to inherit (inheritance) § Verb
 ---
 
-### to inherit (inheritance)
-
-**Part of Speech**: Verb
+### to inherit (inheritance) § Verb
 
 **Verb**: to inherit
 

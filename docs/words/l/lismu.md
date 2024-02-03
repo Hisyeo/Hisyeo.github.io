@@ -1,12 +1,10 @@
 ---
 id: lismu
 title: lismu
-hoverText: clay
+hoverText: clay § Noun
 ---
 
-### clay
-
-**Part of Speech**: Noun
+### clay § Noun
 
 **Verb**: to be clay
 

@@ -1,12 +1,10 @@
 ---
 id: didi
 title: didi
-hoverText: counter-agent marker (against)
+hoverText: counter-agent marker (against) § Preposition
 ---
 
-### counter-agent marker (against)
-
-**Part of Speech**: Preposition
+### counter-agent marker (against) § Preposition
 
 **Verb**: -
 

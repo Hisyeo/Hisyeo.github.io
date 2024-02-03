@@ -1,12 +1,10 @@
 ---
 id: xonluk
 title: xonluk
-hoverText: young
+hoverText: young § Modifier
 ---
 
-### young
-
-**Part of Speech**: Modifier
+### young § Modifier
 
 **Verb**: to be young/youthful
 

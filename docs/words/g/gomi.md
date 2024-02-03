@@ -1,12 +1,10 @@
 ---
 id: gomi
 title: gomi
-hoverText: to take (a taken entity)
+hoverText: to take (a taken entity) § Verb
 ---
 
-### to take (a taken entity)
-
-**Part of Speech**: Verb
+### to take (a taken entity) § Verb
 
 **Verb**: to take/retrieve
 

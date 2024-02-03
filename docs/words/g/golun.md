@@ -1,12 +1,10 @@
 ---
 id: golun
 title: golun
-hoverText: to respect (a respected entity)
+hoverText: to respect (a respected entity) § Verb
 ---
 
-### to respect (a respected entity)
-
-**Part of Speech**: Verb
+### to respect (a respected entity) § Verb
 
 **Verb**: to respect
 

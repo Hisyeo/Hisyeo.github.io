@@ -1,12 +1,10 @@
 ---
 id: konxo
 title: konxo
-hoverText: thankful/grateful
+hoverText: thankful/grateful § Modifier
 ---
 
-### thankful/grateful
-
-**Part of Speech**: Modifier
+### thankful/grateful § Modifier
 
 **Verb**: to be thankful/grateful
 

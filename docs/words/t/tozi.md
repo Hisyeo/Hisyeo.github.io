@@ -1,12 +1,10 @@
 ---
 id: tozi
 title: tozi
-hoverText: standing
+hoverText: standing § Modifier
 ---
 
-### standing
-
-**Part of Speech**: Modifier
+### standing § Modifier
 
 **Verb**: to be standing/vertical
 

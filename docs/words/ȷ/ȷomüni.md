@@ -1,12 +1,10 @@
 ---
 id: ȷomüni
 title: ȷomüni
-hoverText: purple
+hoverText: purple § Modifier
 ---
 
-### purple
-
-**Part of Speech**: Modifier
+### purple § Modifier
 
 **Verb**: to be purple
 

@@ -1,12 +1,10 @@
 ---
 id: güdolö
 title: güdolö
-hoverText: bow (weapon)/bow (music)
+hoverText: bow (weapon)/bow (music) § Noun
 ---
 
-### bow (weapon)/bow (music)
-
-**Part of Speech**: Noun
+### bow (weapon)/bow (music) § Noun
 
 **Verb**: to be a bow
 

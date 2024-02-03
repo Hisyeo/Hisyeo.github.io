@@ -1,12 +1,10 @@
 ---
 id: xiwon
 title: xiwon
-hoverText: to hope/wish (a hope/wish)
+hoverText: to hope/wish (a hope/wish) § Verb
 ---
 
-### to hope/wish (a hope/wish)
-
-**Part of Speech**: Verb
+### to hope/wish (a hope/wish) § Verb
 
 **Verb**: to hope/wish
 

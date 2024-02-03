@@ -1,12 +1,10 @@
 ---
 id: mitmo
 title: mitmo
-hoverText: colony
+hoverText: colony § Noun
 ---
 
-### colony
-
-**Part of Speech**: Noun
+### colony § Noun
 
 **Verb**: to be a colony
 

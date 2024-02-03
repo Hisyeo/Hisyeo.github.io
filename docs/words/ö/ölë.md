@@ -1,12 +1,10 @@
 ---
 id: ölë
 title: ölë
-hoverText: experiencer/causee marker
+hoverText: experiencer/causee marker § Preposition
 ---
 
-### experiencer/causee marker
-
-**Part of Speech**: Preposition
+### experiencer/causee marker § Preposition
 
 **Verb**: -
 

@@ -1,12 +1,10 @@
 ---
 id: hönyo
 title: hönyo
-hoverText: wilderness
+hoverText: wilderness § Noun
 ---
 
-### wilderness
-
-**Part of Speech**: Noun
+### wilderness § Noun
 
 **Verb**: to be the wilderness
 

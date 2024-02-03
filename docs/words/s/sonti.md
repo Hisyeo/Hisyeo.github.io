@@ -1,12 +1,10 @@
 ---
 id: sonti
 title: sonti
-hoverText: calm
+hoverText: calm § Modifier
 ---
 
-### calm
-
-**Part of Speech**: Modifier
+### calm § Modifier
 
 **Verb**: to be calm
 

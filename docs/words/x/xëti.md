@@ -1,12 +1,10 @@
 ---
 id: xëti
 title: xëti
-hoverText: 07 seven
+hoverText: 07 seven § Quantity
 ---
 
-### 07 seven
-
-**Part of Speech**: Quantity
+### 07 seven § Quantity
 
 **Verb**: to be seven
 

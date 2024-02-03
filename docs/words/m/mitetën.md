@@ -1,12 +1,10 @@
 ---
 id: mitetën
 title: mitetën
-hoverText: trivial
+hoverText: trivial § Modifier
 ---
 
-### trivial
-
-**Part of Speech**: Modifier
+### trivial § Modifier
 
 **Verb**: to be trivial/negligible
 

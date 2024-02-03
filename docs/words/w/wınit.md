@@ -1,12 +1,10 @@
 ---
 id: wınit
 title: wınit
-hoverText: humble
+hoverText: humble § Modifier
 ---
 
-### humble
-
-**Part of Speech**: Modifier
+### humble § Modifier
 
 **Verb**: to be humble
 

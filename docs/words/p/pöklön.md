@@ -1,12 +1,10 @@
 ---
 id: pöklön
 title: pöklön
-hoverText: to govern (governable entity)
+hoverText: to govern (governable entity) § Verb
 ---
 
-### to govern (governable entity)
-
-**Part of Speech**: Verb
+### to govern (governable entity) § Verb
 
 **Verb**: to govern/manage
 

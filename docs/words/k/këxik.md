@@ -1,12 +1,10 @@
 ---
 id: këxik
 title: këxik
-hoverText: variable/unstable
+hoverText: variable/unstable § Modifier
 ---
 
-### variable/unstable
-
-**Part of Speech**: Modifier
+### variable/unstable § Modifier
 
 **Verb**: to be variable/unstable
 

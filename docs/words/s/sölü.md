@@ -1,12 +1,10 @@
 ---
 id: sölü
 title: sölü
-hoverText: to ask (a question)
+hoverText: to ask (a question) § Verb
 ---
 
-### to ask (a question)
-
-**Part of Speech**: Verb
+### to ask (a question) § Verb
 
 **Verb**: to ask
 

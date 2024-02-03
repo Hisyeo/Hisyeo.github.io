@@ -1,12 +1,10 @@
 ---
 id: tokö
 title: tokö
-hoverText: person
+hoverText: person § Noun
 ---
 
-### person
-
-**Part of Speech**: Noun
+### person § Noun
 
 **Verb**: to be a person
 

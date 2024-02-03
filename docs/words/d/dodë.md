@@ -1,12 +1,10 @@
 ---
 id: dodë
 title: dodë
-hoverText: to bathe (batheable entity)
+hoverText: to bathe (batheable entity) § Verb
 ---
 
-### to bathe (batheable entity)
-
-**Part of Speech**: Verb
+### to bathe (batheable entity) § Verb
 
 **Verb**: to bathe
 

@@ -1,12 +1,10 @@
 ---
 id: sozok
 title: sozok
-hoverText: starting
+hoverText: starting § Modifier
 ---
 
-### starting
-
-**Part of Speech**: Modifier
+### starting § Modifier
 
 **Verb**: to be starting
 

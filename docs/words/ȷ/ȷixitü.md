@@ -1,12 +1,10 @@
 ---
 id: ȷixitü
 title: ȷixitü
-hoverText: finger/toe
+hoverText: finger/toe § Noun
 ---
 
-### finger/toe
-
-**Part of Speech**: Noun
+### finger/toe § Noun
 
 **Verb**: to be a finger/toe/digit
 

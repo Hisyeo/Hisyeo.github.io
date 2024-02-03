@@ -1,12 +1,10 @@
 ---
 id: ȷütö
 title: ȷütö
-hoverText: to regret (a regret)
+hoverText: to regret (a regret) § Verb
 ---
 
-### to regret (a regret)
-
-**Part of Speech**: Verb
+### to regret (a regret) § Verb
 
 **Verb**: to regret/symphasize
 

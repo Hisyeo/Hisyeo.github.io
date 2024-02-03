@@ -1,12 +1,10 @@
 ---
 id: potuk
 title: potuk
-hoverText: flat
+hoverText: flat § Modifier
 ---
 
-### flat
-
-**Part of Speech**: Modifier
+### flat § Modifier
 
 **Verb**: to be flat
 

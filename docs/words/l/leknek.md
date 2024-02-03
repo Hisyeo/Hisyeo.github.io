@@ -1,12 +1,10 @@
 ---
 id: leknek
 title: leknek
-hoverText: weapon
+hoverText: weapon § Noun
 ---
 
-### weapon
-
-**Part of Speech**: Noun
+### weapon § Noun
 
 **Verb**: to be a weapon
 

@@ -1,12 +1,10 @@
 ---
 id: xınkö
 title: xınkö
-hoverText: neck/throat
+hoverText: neck/throat § Noun
 ---
 
-### neck/throat
-
-**Part of Speech**: Noun
+### neck/throat § Noun
 
 **Verb**: to be a neck/throat
 

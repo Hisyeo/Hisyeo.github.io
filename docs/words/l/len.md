@@ -1,12 +1,10 @@
 ---
 id: len
 title: len
-hoverText: strong
+hoverText: strong § Modifier
 ---
 
-### strong
-
-**Part of Speech**: Modifier
+### strong § Modifier
 
 **Verb**: to be strong/forceful
 

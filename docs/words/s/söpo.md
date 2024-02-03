@@ -1,12 +1,10 @@
 ---
 id: söpo
 title: söpo
-hoverText: side/beside
+hoverText: side/beside § Noun
 ---
 
-### side/beside
-
-**Part of Speech**: Noun
+### side/beside § Noun
 
 **Verb**: to be the side/beside
 

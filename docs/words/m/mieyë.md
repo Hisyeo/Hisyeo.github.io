@@ -1,12 +1,10 @@
 ---
 id: mieyë
 title: mieyë
-hoverText: tear (of the eye)
+hoverText: tear (of the eye) § Noun
 ---
 
-### tear (of the eye)
-
-**Part of Speech**: Noun
+### tear (of the eye) § Noun
 
 **Verb**: to be a tear
 

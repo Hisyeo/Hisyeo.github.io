@@ -1,12 +1,10 @@
 ---
 id: vıkwon
 title: vıkwon
-hoverText: bacteria/microbe
+hoverText: bacteria/microbe § Noun
 ---
 
-### bacteria/microbe
-
-**Part of Speech**: Noun
+### bacteria/microbe § Noun
 
 **Verb**: to be a bacteria/microbe
 

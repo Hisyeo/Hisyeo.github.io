@@ -1,12 +1,10 @@
 ---
 id: mülü
 title: mülü
-hoverText: complete
+hoverText: complete § Modifier
 ---
 
-### complete
-
-**Part of Speech**: Modifier
+### complete § Modifier
 
 **Verb**: to be full/complete
 

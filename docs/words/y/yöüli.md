@@ -1,12 +1,10 @@
 ---
 id: yöüli
 title: yöüli
-hoverText: beneficial
+hoverText: beneficial § Modifier
 ---
 
-### beneficial
-
-**Part of Speech**: Modifier
+### beneficial § Modifier
 
 **Verb**: to be beneficial/advantageous
 

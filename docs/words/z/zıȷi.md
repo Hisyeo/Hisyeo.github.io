@@ -1,12 +1,10 @@
 ---
 id: zıȷi
 title: zıȷi
-hoverText: self
+hoverText: self § Pronoun
 ---
 
-### self
-
-**Part of Speech**: Pronoun
+### self § Pronoun
 
 **Verb**: to be oneself
 

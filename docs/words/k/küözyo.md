@@ -1,12 +1,10 @@
 ---
 id: küözyo
 title: küözyo
-hoverText: state
+hoverText: state § Noun
 ---
 
-### state
-
-**Part of Speech**: Noun
+### state § Noun
 
 **Verb**: to be a state/polity
 

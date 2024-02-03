@@ -1,12 +1,10 @@
 ---
 id: ëno
 title: ëno
-hoverText: what
+hoverText: what § Pronoun
 ---
 
-### what
-
-**Part of Speech**: Pronoun
+### what § Pronoun
 
 **Verb**: to be what
 

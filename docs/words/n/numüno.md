@@ -1,12 +1,10 @@
 ---
 id: numüno
 title: numüno
-hoverText: example
+hoverText: example § Noun
 ---
 
-### example
-
-**Part of Speech**: Noun
+### example § Noun
 
 **Verb**: to be an example/sample
 

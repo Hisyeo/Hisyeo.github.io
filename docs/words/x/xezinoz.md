@@ -1,12 +1,10 @@
 ---
 id: xezinoz
 title: xezinoz
-hoverText: crossed/intersected
+hoverText: crossed/intersected § Modifier
 ---
 
-### crossed/intersected
-
-**Part of Speech**: Modifier
+### crossed/intersected § Modifier
 
 **Verb**: to be crossed/intersected
 

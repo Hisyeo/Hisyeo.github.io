@@ -1,12 +1,10 @@
 ---
 id: sënȷö
 title: sënȷö
-hoverText: ancestral
+hoverText: ancestral § Modifier
 ---
 
-### ancestral
-
-**Part of Speech**: Modifier
+### ancestral § Modifier
 
 **Verb**: to be ancestral
 

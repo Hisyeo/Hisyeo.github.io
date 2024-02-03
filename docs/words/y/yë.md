@@ -1,12 +1,10 @@
 ---
 id: yë
 title: yë
-hoverText: of
+hoverText: of § Grammar
 ---
 
-### of
-
-**Part of Speech**: Grammar
+### of § Grammar
 
 **Verb**: -
 

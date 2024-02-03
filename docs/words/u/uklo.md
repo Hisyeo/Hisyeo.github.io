@@ -1,12 +1,10 @@
 ---
 id: uklo
 title: uklo
-hoverText: next
+hoverText: next § Modifier
 ---
 
-### next
-
-**Part of Speech**: Modifier
+### next § Modifier
 
 **Verb**: to be the next/future (time)
 

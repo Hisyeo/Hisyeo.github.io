@@ -1,12 +1,10 @@
 ---
 id: güvöxë
 title: güvöxë
-hoverText: irony/sarcasm
+hoverText: irony/sarcasm § Noun
 ---
 
-### irony/sarcasm
-
-**Part of Speech**: Noun
+### irony/sarcasm § Noun
 
 **Verb**: to be an irony/sarcasm
 

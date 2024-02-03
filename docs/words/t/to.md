@@ -1,12 +1,10 @@
 ---
 id: to
 title: to
-hoverText: relative clause proclitic
+hoverText: relative clause proclitic § Grammar
 ---
 
-### relative clause proclitic
-
-**Part of Speech**: Grammar
+### relative clause proclitic § Grammar
 
 **Verb**: -
 

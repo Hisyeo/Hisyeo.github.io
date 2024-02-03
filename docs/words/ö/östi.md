@@ -1,12 +1,10 @@
 ---
 id: östi
 title: östi
-hoverText: bone
+hoverText: bone § Noun
 ---
 
-### bone
-
-**Part of Speech**: Noun
+### bone § Noun
 
 **Verb**: to be a bone
 

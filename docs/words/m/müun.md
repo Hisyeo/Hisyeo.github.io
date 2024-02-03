@@ -1,12 +1,10 @@
 ---
 id: müun
 title: müun
-hoverText: late
+hoverText: late § Modifier
 ---
 
-### late
-
-**Part of Speech**: Modifier
+### late § Modifier
 
 **Verb**: to be late/tardy
 

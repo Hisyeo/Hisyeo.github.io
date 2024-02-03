@@ -1,12 +1,10 @@
 ---
 id: loȷidö
 title: loȷidö
-hoverText: heart
+hoverText: heart § Noun
 ---
 
-### heart
-
-**Part of Speech**: Noun
+### heart § Noun
 
 **Verb**: to be a heart
 

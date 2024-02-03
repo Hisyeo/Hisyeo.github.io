@@ -1,12 +1,10 @@
 ---
 id: sıkisnot
 title: sıkisnot
-hoverText: fermented/soured
+hoverText: fermented/soured § Modifier
 ---
 
-### fermented/soured
-
-**Part of Speech**: Modifier
+### fermented/soured § Modifier
 
 **Verb**: to be fermented/soured
 

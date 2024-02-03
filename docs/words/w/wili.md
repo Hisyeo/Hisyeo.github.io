@@ -1,12 +1,10 @@
 ---
 id: wili
 title: wili
-hoverText: awake
+hoverText: awake § Modifier
 ---
 
-### awake
-
-**Part of Speech**: Modifier
+### awake § Modifier
 
 **Verb**: to be awake
 

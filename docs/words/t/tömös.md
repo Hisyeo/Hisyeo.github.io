@@ -1,12 +1,10 @@
 ---
 id: tömös
 title: tömös
-hoverText: book
+hoverText: book § Noun
 ---
 
-### book
-
-**Part of Speech**: Noun
+### book § Noun
 
 **Verb**: to be a tome/volume/book
 

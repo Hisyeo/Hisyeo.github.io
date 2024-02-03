@@ -1,12 +1,10 @@
 ---
 id: zentik
 title: zentik
-hoverText: official/formal
+hoverText: official/formal § Modifier
 ---
 
-### official/formal
-
-**Part of Speech**: Modifier
+### official/formal § Modifier
 
 **Verb**: to be official/formal
 

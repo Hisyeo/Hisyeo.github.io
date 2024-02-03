@@ -1,12 +1,10 @@
 ---
 id: legëvü
 title: legëvü
-hoverText: lazy
+hoverText: lazy § Modifier
 ---
 
-### lazy
-
-**Part of Speech**: Modifier
+### lazy § Modifier
 
 **Verb**: to be lazy
 

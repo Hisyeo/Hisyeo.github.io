@@ -1,12 +1,10 @@
 ---
 id: zünvü
 title: zünvü
-hoverText: repeating
+hoverText: repeating § Modifier
 ---
 
-### repeating
-
-**Part of Speech**: Modifier
+### repeating § Modifier
 
 **Verb**: to be repeating/repetitive
 

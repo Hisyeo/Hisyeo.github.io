@@ -1,12 +1,10 @@
 ---
 id: lı
 title: lı
-hoverText: realis verb proclitic
+hoverText: realis verb proclitic § Grammar
 ---
 
-### realis verb proclitic
-
-**Part of Speech**: Grammar
+### realis verb proclitic § Grammar
 
 **Verb**: -
 

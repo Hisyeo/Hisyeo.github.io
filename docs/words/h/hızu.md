@@ -1,12 +1,10 @@
 ---
 id: hızu
 title: hızu
-hoverText: crack/fissure
+hoverText: crack/fissure § Noun
 ---
 
-### crack/fissure
-
-**Part of Speech**: Noun
+### crack/fissure § Noun
 
 **Verb**: to be a crack/fissure
 

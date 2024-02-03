@@ -1,12 +1,10 @@
 ---
 id: nomü
 title: nomü
-hoverText: tree
+hoverText: tree § Noun
 ---
 
-### tree
-
-**Part of Speech**: Noun
+### tree § Noun
 
 **Verb**: to be wood/a tree
 

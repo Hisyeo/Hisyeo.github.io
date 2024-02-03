@@ -1,12 +1,10 @@
 ---
 id: igomo
 title: igomo
-hoverText: word/name
+hoverText: word/name § Noun
 ---
 
-### word/name
-
-**Part of Speech**: Noun
+### word/name § Noun
 
 **Verb**: to be a word/name/address
 

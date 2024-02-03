@@ -1,12 +1,10 @@
 ---
 id: dökzon
 title: dökzon
-hoverText: decent
+hoverText: decent § Modifier
 ---
 
-### decent
-
-**Part of Speech**: Modifier
+### decent § Modifier
 
 **Verb**: to be decent/virtuous
 

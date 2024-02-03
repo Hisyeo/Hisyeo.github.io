@@ -1,12 +1,10 @@
 ---
 id: xünyu
 title: xünyu
-hoverText: 00 zero
+hoverText: 00 zero § Quantity
 ---
 
-### 00 zero
-
-**Part of Speech**: Quantity
+### 00 zero § Quantity
 
 **Verb**: to be zero
 

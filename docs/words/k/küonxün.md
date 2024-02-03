@@ -1,12 +1,10 @@
 ---
 id: küonxün
 title: küonxün
-hoverText: tolerant
+hoverText: tolerant § Modifier
 ---
 
-### tolerant
-
-**Part of Speech**: Modifier
+### tolerant § Modifier
 
 **Verb**: to be tolerant
 

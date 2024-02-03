@@ -1,12 +1,10 @@
 ---
 id: mötivö
 title: mötivö
-hoverText: reason
+hoverText: reason § Noun
 ---
 
-### reason
-
-**Part of Speech**: Noun
+### reason § Noun
 
 **Verb**: to be a reason/motive
 

@@ -1,12 +1,10 @@
 ---
 id: kotonhon
 title: kotonhon
-hoverText: sudden/urgent
+hoverText: sudden/urgent § Modifier
 ---
 
-### sudden/urgent
-
-**Part of Speech**: Modifier
+### sudden/urgent § Modifier
 
 **Verb**: to be sudden/urgent
 

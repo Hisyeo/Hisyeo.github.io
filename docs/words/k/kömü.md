@@ -1,12 +1,10 @@
 ---
 id: kömü
 title: kömü
-hoverText: horn/spike
+hoverText: horn/spike § Noun
 ---
 
-### horn/spike
-
-**Part of Speech**: Noun
+### horn/spike § Noun
 
 **Verb**: to be a horn/spike
 

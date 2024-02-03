@@ -1,12 +1,10 @@
 ---
 id: höktun
 title: höktun
-hoverText: mammal
+hoverText: mammal § Noun
 ---
 
-### mammal
-
-**Part of Speech**: Noun
+### mammal § Noun
 
 **Verb**: to be a mammal
 

@@ -1,12 +1,10 @@
 ---
 id: ipüdü
 title: ipüdü
-hoverText: now
+hoverText: now § Modifier
 ---
 
-### now
-
-**Part of Speech**: Modifier
+### now § Modifier
 
 **Verb**: to be the present/current (time)
 

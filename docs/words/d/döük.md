@@ -1,12 +1,10 @@
 ---
 id: döük
 title: döük
-hoverText: reference marker (compared to)
+hoverText: reference marker (compared to) § Preposition
 ---
 
-### reference marker (compared to)
-
-**Part of Speech**: Preposition
+### reference marker (compared to) § Preposition
 
 **Verb**: -
 

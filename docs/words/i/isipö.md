@@ -1,12 +1,10 @@
 ---
 id: isipö
 title: isipö
-hoverText: claw
+hoverText: claw § Noun
 ---
 
-### claw
-
-**Part of Speech**: Noun
+### claw § Noun
 
 **Verb**: to be a claw/nail/hoof
 

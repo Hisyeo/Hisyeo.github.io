@@ -1,12 +1,10 @@
 ---
 id: yöüxin
 title: yöüxin
-hoverText: parade/procession
+hoverText: parade/procession § Noun
 ---
 
-### parade/procession
-
-**Part of Speech**: Noun
+### parade/procession § Noun
 
 **Verb**: to be a parade/procession
 

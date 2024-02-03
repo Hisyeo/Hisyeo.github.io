@@ -1,12 +1,10 @@
 ---
 id: zitsë
 title: zitsë
-hoverText: to accuse
+hoverText: to accuse § Verb
 ---
 
-### to accuse
-
-**Part of Speech**: Verb
+### to accuse § Verb
 
 **Verb**: to accuse/blame
 

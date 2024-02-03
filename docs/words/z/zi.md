@@ -1,12 +1,10 @@
 ---
 id: zi
 title: zi
-hoverText: propositive clause ender (agree?)
+hoverText: propositive clause ender (agree?) § Grammar
 ---
 
-### propositive clause ender (agree?)
-
-**Part of Speech**: Grammar
+### propositive clause ender (agree?) § Grammar
 
 **Verb**: -
 

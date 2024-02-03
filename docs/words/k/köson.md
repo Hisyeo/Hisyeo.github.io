@@ -1,12 +1,10 @@
 ---
 id: köson
 title: köson
-hoverText: to build (a construction)
+hoverText: to build (a construction) § Verb
 ---
 
-### to build (a construction)
-
-**Part of Speech**: Verb
+### to build (a construction) § Verb
 
 **Verb**: to build/construct
 

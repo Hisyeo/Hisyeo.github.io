@@ -1,12 +1,10 @@
 ---
 id: kui
 title: kui
-hoverText: epistemic verb proclitic
+hoverText: epistemic verb proclitic § Grammar
 ---
 
-### epistemic verb proclitic
-
-**Part of Speech**: Grammar
+### epistemic verb proclitic § Grammar
 
 **Verb**: -
 

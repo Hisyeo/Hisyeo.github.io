@@ -1,12 +1,10 @@
 ---
 id: eswen
 title: eswen
-hoverText: more
+hoverText: more § Quantity
 ---
 
-### more
-
-**Part of Speech**: Quantity
+### more § Quantity
 
 **Verb**: to be more
 

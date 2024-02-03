@@ -1,12 +1,10 @@
 ---
 id: wokto
 title: wokto
-hoverText: outside
+hoverText: outside § Noun
 ---
 
-### outside
-
-**Part of Speech**: Noun
+### outside § Noun
 
 **Verb**: to be the outside region
 

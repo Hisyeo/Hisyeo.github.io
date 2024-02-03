@@ -1,12 +1,10 @@
 ---
 id: köntësto
 title: köntësto
-hoverText: to contend (contendable entity)
+hoverText: to contend (contendable entity) § Verb
 ---
 
-### to contend (contendable entity)
-
-**Part of Speech**: Verb
+### to contend (contendable entity) § Verb
 
 **Verb**: to contend/contest/oppose
 

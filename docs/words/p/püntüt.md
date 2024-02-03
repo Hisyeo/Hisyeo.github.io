@@ -1,12 +1,10 @@
 ---
 id: püntüt
 title: püntüt
-hoverText: tail
+hoverText: tail § Noun
 ---
 
-### tail
-
-**Part of Speech**: Noun
+### tail § Noun
 
 **Verb**: to be a tail
 

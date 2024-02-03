@@ -1,12 +1,10 @@
 ---
 id: litıwe
 title: litıwe
-hoverText: related
+hoverText: related § Modifier
 ---
 
-### related
-
-**Part of Speech**: Modifier
+### related § Modifier
 
 **Verb**: to be related
 

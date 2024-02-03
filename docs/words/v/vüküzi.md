@@ -1,12 +1,10 @@
 ---
 id: vüküzi
 title: vüküzi
-hoverText: revenge/vengeance
+hoverText: revenge/vengeance § Noun
 ---
 
-### revenge/vengeance
-
-**Part of Speech**: Noun
+### revenge/vengeance § Noun
 
 **Verb**: to be a revenge/vengeance
 

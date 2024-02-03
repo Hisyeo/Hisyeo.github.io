@@ -1,12 +1,10 @@
 ---
 id: ıwotë
 title: ıwotë
-hoverText: tall
+hoverText: tall § Modifier
 ---
 
-### tall
-
-**Part of Speech**: Modifier
+### tall § Modifier
 
 **Verb**: to be tall/high
 

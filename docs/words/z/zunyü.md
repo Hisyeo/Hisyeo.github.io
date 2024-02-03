@@ -1,12 +1,10 @@
 ---
 id: zunyü
 title: zunyü
-hoverText: cold
+hoverText: cold § Modifier
 ---
 
-### cold
-
-**Part of Speech**: Modifier
+### cold § Modifier
 
 **Verb**: to be cold
 

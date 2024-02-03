@@ -1,12 +1,10 @@
 ---
 id: pinhön
 title: pinhön
-hoverText: magenta
+hoverText: magenta § Modifier
 ---
 
-### magenta
-
-**Part of Speech**: Modifier
+### magenta § Modifier
 
 **Verb**: to be magenta
 

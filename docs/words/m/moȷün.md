@@ -1,12 +1,10 @@
 ---
 id: moȷün
 title: moȷün
-hoverText: cream/paste
+hoverText: cream/paste § Noun
 ---
 
-### cream/paste
-
-**Part of Speech**: Noun
+### cream/paste § Noun
 
 **Verb**: to be cream/paste
 

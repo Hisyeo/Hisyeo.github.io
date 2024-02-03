@@ -1,12 +1,10 @@
 ---
 id: pızko
 title: pızko
-hoverText: 05 five
+hoverText: 05 five § Quantity
 ---
 
-### 05 five
-
-**Part of Speech**: Quantity
+### 05 five § Quantity
 
 **Verb**: to be five
 

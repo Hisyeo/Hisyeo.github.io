@@ -1,12 +1,10 @@
 ---
 id: sün
 title: sün
-hoverText: source/origin marker (from)
+hoverText: source/origin marker (from) § Preposition
 ---
 
-### source/origin marker (from)
-
-**Part of Speech**: Preposition
+### source/origin marker (from) § Preposition
 
 **Verb**: -
 

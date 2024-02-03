@@ -1,12 +1,10 @@
 ---
 id: dënëmëk
 title: dënëmëk
-hoverText: to try (a trial)
+hoverText: to try (a trial) § Verb
 ---
 
-### to try (a trial)
-
-**Part of Speech**: Verb
+### to try (a trial) § Verb
 
 **Verb**: to try/attempt
 

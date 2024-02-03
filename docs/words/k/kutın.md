@@ -1,12 +1,10 @@
 ---
 id: kutın
 title: kutın
-hoverText: difficult
+hoverText: difficult § Modifier
 ---
 
-### difficult
-
-**Part of Speech**: Modifier
+### difficult § Modifier
 
 **Verb**: to be difficult
 

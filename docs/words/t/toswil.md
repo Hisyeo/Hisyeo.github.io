@@ -1,12 +1,10 @@
 ---
 id: toswil
 title: toswil
-hoverText: to draw (a picture)
+hoverText: to draw (a picture) § Verb
 ---
 
-### to draw (a picture)
-
-**Part of Speech**: Verb
+### to draw (a picture) § Verb
 
 **Verb**: to draw
 

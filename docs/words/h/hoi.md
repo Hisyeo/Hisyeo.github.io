@@ -1,12 +1,10 @@
 ---
 id: hoi
 title: hoi
-hoverText: location/time marker (at)
+hoverText: location/time marker (at) § Preposition
 ---
 
-### location/time marker (at)
-
-**Part of Speech**: Preposition
+### location/time marker (at) § Preposition
 
 **Verb**: -
 

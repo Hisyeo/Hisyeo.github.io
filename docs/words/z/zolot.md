@@ -1,12 +1,10 @@
 ---
 id: zolot
 title: zolot
-hoverText: wise/clever
+hoverText: wise/clever § Modifier
 ---
 
-### wise/clever
-
-**Part of Speech**: Modifier
+### wise/clever § Modifier
 
 **Verb**: to be wise/clever
 

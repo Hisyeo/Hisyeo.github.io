@@ -1,12 +1,10 @@
 ---
 id: opülü
 title: opülü
-hoverText: to overwhelm (overwhelmable entity)
+hoverText: to overwhelm (overwhelmable entity) § Verb
 ---
 
-### to overwhelm (overwhelmable entity)
-
-**Part of Speech**: Verb
+### to overwhelm (overwhelmable entity) § Verb
 
 **Verb**: to overwhelm/overpower
 

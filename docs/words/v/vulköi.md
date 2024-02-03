@@ -1,12 +1,10 @@
 ---
 id: vulköi
 title: vulköi
-hoverText: to rub (rubbable entity)
+hoverText: to rub (rubbable entity) § Verb
 ---
 
-### to rub (rubbable entity)
-
-**Part of Speech**: Verb
+### to rub (rubbable entity) § Verb
 
 **Verb**: to rub/caress/scratch
 

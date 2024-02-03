@@ -1,12 +1,10 @@
 ---
 id: mo
 title: mo
-hoverText: we/us
+hoverText: we/us § Pronoun
 ---
 
-### we/us
-
-**Part of Speech**: Pronoun
+### we/us § Pronoun
 
 **Verb**: to be us
 

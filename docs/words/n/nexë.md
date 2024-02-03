@@ -1,12 +1,10 @@
 ---
 id: nexë
 title: nexë
-hoverText: intoxicated
+hoverText: intoxicated § Modifier
 ---
 
-### intoxicated
-
-**Part of Speech**: Modifier
+### intoxicated § Modifier
 
 **Verb**: to be intoxicated
 

@@ -1,12 +1,10 @@
 ---
 id: onwiyë
 title: onwiyë
-hoverText: bored
+hoverText: bored § Modifier
 ---
 
-### bored
-
-**Part of Speech**: Modifier
+### bored § Modifier
 
 **Verb**: to be bored
 

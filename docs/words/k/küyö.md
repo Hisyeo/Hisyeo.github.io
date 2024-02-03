@@ -1,12 +1,10 @@
 ---
 id: küyö
 title: küyö
-hoverText: sad
+hoverText: sad § Modifier
 ---
 
-### sad
-
-**Part of Speech**: Modifier
+### sad § Modifier
 
 **Verb**: to be sad
 

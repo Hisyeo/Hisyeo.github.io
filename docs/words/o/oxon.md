@@ -1,12 +1,10 @@
 ---
 id: oxon
 title: oxon
-hoverText: beneficiary/purpose marker (for)
+hoverText: beneficiary/purpose marker (for) § Preposition
 ---
 
-### beneficiary/purpose marker (for)
-
-**Part of Speech**: Preposition
+### beneficiary/purpose marker (for) § Preposition
 
 **Verb**: -
 

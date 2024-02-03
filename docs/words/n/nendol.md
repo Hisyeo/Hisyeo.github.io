@@ -1,12 +1,10 @@
 ---
 id: nendol
 title: nendol
-hoverText: famous
+hoverText: famous § Modifier
 ---
 
-### famous
-
-**Part of Speech**: Modifier
+### famous § Modifier
 
 **Verb**: to be famous
 

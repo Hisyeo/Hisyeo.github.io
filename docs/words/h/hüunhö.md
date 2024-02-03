@@ -1,12 +1,10 @@
 ---
 id: hüunhö
 title: hüunhö
-hoverText: mixed
+hoverText: mixed § Modifier
 ---
 
-### mixed
-
-**Part of Speech**: Modifier
+### mixed § Modifier
 
 **Verb**: to be mixed/heterogenous/unsorted
 

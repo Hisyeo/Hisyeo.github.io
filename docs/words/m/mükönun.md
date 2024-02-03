@@ -1,12 +1,10 @@
 ---
 id: mükönun
 title: mükönun
-hoverText: triangle
+hoverText: triangle § Noun
 ---
 
-### triangle
-
-**Part of Speech**: Noun
+### triangle § Noun
 
 **Verb**: to be a triangle
 

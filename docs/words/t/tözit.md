@@ -1,12 +1,10 @@
 ---
 id: tözit
 title: tözit
-hoverText: blunt
+hoverText: blunt § Modifier
 ---
 
-### blunt
-
-**Part of Speech**: Modifier
+### blunt § Modifier
 
 **Verb**: to be blunt/dull
 

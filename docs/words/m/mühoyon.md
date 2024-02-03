@@ -1,12 +1,10 @@
 ---
 id: mühoyon
 title: mühoyon
-hoverText: camp
+hoverText: camp § Modifier
 ---
 
-### camp
-
-**Part of Speech**: Modifier
+### camp § Modifier
 
 **Verb**: to be a camp
 

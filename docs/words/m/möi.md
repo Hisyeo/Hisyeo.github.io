@@ -1,12 +1,10 @@
 ---
 id: möi
 title: möi
-hoverText: all/every
+hoverText: all/every § Quantity
 ---
 
-### all/every
-
-**Part of Speech**: Quantity
+### all/every § Quantity
 
 **Verb**: to be all/everything
 

@@ -1,12 +1,10 @@
 ---
 id: toliko
 title: toliko
-hoverText: method
+hoverText: method § Noun
 ---
 
-### method
-
-**Part of Speech**: Noun
+### method § Noun
 
 **Verb**: to be a method
 

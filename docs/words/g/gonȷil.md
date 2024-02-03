@@ -1,12 +1,10 @@
 ---
 id: gonȷil
 title: gonȷil
-hoverText: strange
+hoverText: strange § Modifier
 ---
 
-### strange
-
-**Part of Speech**: Modifier
+### strange § Modifier
 
 **Verb**: to be strange/weird/abnormal
 

@@ -1,12 +1,10 @@
 ---
 id: yogö
 title: yogö
-hoverText: part/piece
+hoverText: part/piece § Noun
 ---
 
-### part/piece
-
-**Part of Speech**: Noun
+### part/piece § Noun
 
 **Verb**: to be a part/piece
 

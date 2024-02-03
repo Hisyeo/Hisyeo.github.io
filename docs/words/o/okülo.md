@@ -1,12 +1,10 @@
 ---
 id: okülo
 title: okülo
-hoverText: to touch (a surface)
+hoverText: to touch (a surface) § Verb
 ---
 
-### to touch (a surface)
-
-**Part of Speech**: Verb
+### to touch (a surface) § Verb
 
 **Verb**: to touch/contact/feel (physically)
 

@@ -1,12 +1,10 @@
 ---
 id: xeviȷez
 title: xeviȷez
-hoverText: to predict (a prediction)
+hoverText: to predict (a prediction) § Verb
 ---
 
-### to predict (a prediction)
-
-**Part of Speech**: Verb
+### to predict (a prediction) § Verb
 
 **Verb**: to predict
 

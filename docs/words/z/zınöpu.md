@@ -1,12 +1,10 @@
 ---
 id: zınöpu
 title: zınöpu
-hoverText: vermilion
+hoverText: vermilion § Modifier
 ---
 
-### vermilion
-
-**Part of Speech**: Modifier
+### vermilion § Modifier
 
 **Verb**: to be vermilion
 

@@ -1,12 +1,10 @@
 ---
 id: zënpö
 title: zënpö
-hoverText: big
+hoverText: big § Modifier
 ---
 
-### big
-
-**Part of Speech**: Modifier
+### big § Modifier
 
 **Verb**: to be big
 

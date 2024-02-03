@@ -1,12 +1,10 @@
 ---
 id: özöto
 title: özöto
-hoverText: deity
+hoverText: deity § Noun
 ---
 
-### deity
-
-**Part of Speech**: Noun
+### deity § Noun
 
 **Verb**: to be a deity/god
 

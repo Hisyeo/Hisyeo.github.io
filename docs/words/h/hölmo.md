@@ -1,12 +1,10 @@
 ---
 id: hölmo
 title: hölmo
-hoverText: dream
+hoverText: dream § Noun
 ---
 
-### dream
-
-**Part of Speech**: Noun
+### dream § Noun
 
 **Verb**: to be a dream
 

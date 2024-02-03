@@ -1,12 +1,10 @@
 ---
 id: undovöl
 title: undovöl
-hoverText: legume
+hoverText: legume § Noun
 ---
 
-### legume
-
-**Part of Speech**: Noun
+### legume § Noun
 
 **Verb**: to be a legume
 

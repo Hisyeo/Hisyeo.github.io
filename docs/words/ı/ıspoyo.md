@@ -1,12 +1,10 @@
 ---
 id: ıspoyo
 title: ıspoyo
-hoverText: to scatter (scatterable entity)
+hoverText: to scatter (scatterable entity) § Modifier
 ---
 
-### to scatter (scatterable entity)
-
-**Part of Speech**: Modifier
+### to scatter (scatterable entity) § Modifier
 
 **Verb**: to spread/scatter/diffuse
 

@@ -1,12 +1,10 @@
 ---
 id: zëvulo
 title: zëvulo
-hoverText: dancing
+hoverText: dancing § Modifier
 ---
 
-### dancing
-
-**Part of Speech**: Modifier
+### dancing § Modifier
 
 **Verb**: to be dancing
 

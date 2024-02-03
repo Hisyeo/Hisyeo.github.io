@@ -1,12 +1,10 @@
 ---
 id: pis
 title: pis
-hoverText: bad
+hoverText: bad § Modifier
 ---
 
-### bad
-
-**Part of Speech**: Modifier
+### bad § Modifier
 
 **Verb**: to be bad
 

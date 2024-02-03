@@ -1,12 +1,10 @@
 ---
 id: vüxüpin
 title: vüxüpin
-hoverText: accessory
+hoverText: accessory § Modifier
 ---
 
-### accessory
-
-**Part of Speech**: Modifier
+### accessory § Modifier
 
 **Verb**: to be an accessory/attachment
 

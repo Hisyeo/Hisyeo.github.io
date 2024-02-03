@@ -1,12 +1,10 @@
 ---
 id: zihun
 title: zihun
-hoverText: to pull/attract (a pullable entity)
+hoverText: to pull/attract (a pullable entity) § Verb
 ---
 
-### to pull/attract (a pullable entity)
-
-**Part of Speech**: Verb
+### to pull/attract (a pullable entity) § Verb
 
 **Verb**: to pull/attract
 

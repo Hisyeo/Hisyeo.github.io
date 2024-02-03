@@ -1,12 +1,10 @@
 ---
 id: gosil
 title: gosil
-hoverText: short
+hoverText: short § Modifier
 ---
 
-### short
-
-**Part of Speech**: Modifier
+### short § Modifier
 
 **Verb**: to be short/low
 

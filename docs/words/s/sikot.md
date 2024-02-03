@@ -1,12 +1,10 @@
 ---
 id: sikot
 title: sikot
-hoverText: brush/comb/rake/broom
+hoverText: brush/comb/rake/broom § Noun
 ---
 
-### brush/comb/rake/broom
-
-**Part of Speech**: Noun
+### brush/comb/rake/broom § Noun
 
 **Verb**: to be a brush/comb/rake/broom
 

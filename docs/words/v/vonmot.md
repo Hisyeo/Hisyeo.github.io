@@ -1,12 +1,10 @@
 ---
 id: vonmot
 title: vonmot
-hoverText: absent/nonexistent
+hoverText: absent/nonexistent § Modifier
 ---
 
-### absent/nonexistent
-
-**Part of Speech**: Modifier
+### absent/nonexistent § Modifier
 
 **Verb**: to be absent/nonexistent
 

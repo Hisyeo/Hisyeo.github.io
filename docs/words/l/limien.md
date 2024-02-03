@@ -1,12 +1,10 @@
 ---
 id: limien
 title: limien
-hoverText: inside
+hoverText: inside § Noun
 ---
 
-### inside
-
-**Part of Speech**: Noun
+### inside § Noun
 
 **Verb**: to be the inside region
 

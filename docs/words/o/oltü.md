@@ -1,12 +1,10 @@
 ---
 id: oltü
 title: oltü
-hoverText: loud
+hoverText: loud § Modifier
 ---
 
-### loud
-
-**Part of Speech**: Modifier
+### loud § Modifier
 
 **Verb**: to be loud
 

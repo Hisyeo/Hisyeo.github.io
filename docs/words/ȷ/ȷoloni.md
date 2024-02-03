@@ -1,12 +1,10 @@
 ---
 id: ȷoloni
 title: ȷoloni
-hoverText: fuel
+hoverText: fuel § Noun
 ---
 
-### fuel
-
-**Part of Speech**: Noun
+### fuel § Noun
 
 **Verb**: to be fuel
 

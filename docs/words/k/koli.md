@@ -1,12 +1,10 @@
 ---
 id: koli
 title: koli
-hoverText: down
+hoverText: down § Noun
 ---
 
-### down
-
-**Part of Speech**: Noun
+### down § Noun
 
 **Verb**: to be the bottom/below region
 

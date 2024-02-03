@@ -1,12 +1,10 @@
 ---
 id: püdogo
 title: püdogo
-hoverText: bubble
+hoverText: bubble § Noun
 ---
 
-### bubble
-
-**Part of Speech**: Noun
+### bubble § Noun
 
 **Verb**: to be a bubble
 

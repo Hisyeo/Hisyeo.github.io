@@ -1,12 +1,10 @@
 ---
 id: öngö
 title: öngö
-hoverText: fungus
+hoverText: fungus § Noun
 ---
 
-### fungus
-
-**Part of Speech**: Noun
+### fungus § Noun
 
 **Verb**: to be a fungus/mushroom
 

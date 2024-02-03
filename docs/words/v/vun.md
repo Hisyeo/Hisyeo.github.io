@@ -1,12 +1,10 @@
 ---
 id: vun
 title: vun
-hoverText: fraction
+hoverText: fraction § Quantity
 ---
 
-### fraction
-
-**Part of Speech**: Quantity
+### fraction § Quantity
 
 **Verb**: to be a fraction
 

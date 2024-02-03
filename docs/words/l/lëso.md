@@ -1,12 +1,10 @@
 ---
 id: lëso
 title: lëso
-hoverText: journery/trip/voyage
+hoverText: journery/trip/voyage § Noun
 ---
 
-### journery/trip/voyage
-
-**Part of Speech**: Noun
+### journery/trip/voyage § Noun
 
 **Verb**: to be a journey/trip/voyage
 

@@ -1,12 +1,10 @@
 ---
 id: höwunzul
 title: höwunzul
-hoverText: plastic
+hoverText: plastic § Noun
 ---
 
-### plastic
-
-**Part of Speech**: Noun
+### plastic § Noun
 
 **Verb**: to be a plastic
 

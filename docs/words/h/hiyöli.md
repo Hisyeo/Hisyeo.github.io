@@ -1,12 +1,10 @@
 ---
 id: hiyöli
 title: hiyöli
-hoverText: weak
+hoverText: weak § Modifier
 ---
 
-### weak
-
-**Part of Speech**: Modifier
+### weak § Modifier
 
 **Verb**: to be weak
 

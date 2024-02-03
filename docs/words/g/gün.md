@@ -1,12 +1,10 @@
 ---
 id: gün
 title: gün
-hoverText: to perceive (a trait)
+hoverText: to perceive (a trait) § Verb
 ---
 
-### to perceive (a trait)
-
-**Part of Speech**: Verb
+### to perceive (a trait) § Verb
 
 **Verb**: to perceive/sense
 

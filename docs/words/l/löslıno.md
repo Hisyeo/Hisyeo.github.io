@@ -1,12 +1,10 @@
 ---
 id: löslıno
 title: löslıno
-hoverText: plant
+hoverText: plant § Noun
 ---
 
-### plant
-
-**Part of Speech**: Noun
+### plant § Noun
 
 **Verb**: to be a plant
 

@@ -1,12 +1,10 @@
 ---
 id: pöntı
 title: pöntı
-hoverText: bridge
+hoverText: bridge § Noun
 ---
 
-### bridge
-
-**Part of Speech**: Noun
+### bridge § Noun
 
 **Verb**: to be a bridge
 

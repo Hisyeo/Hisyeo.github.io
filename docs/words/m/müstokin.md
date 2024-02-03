@@ -1,12 +1,10 @@
 ---
 id: müstokin
 title: müstokin
-hoverText: straight
+hoverText: straight § Modifier
 ---
 
-### straight
-
-**Part of Speech**: Modifier
+### straight § Modifier
 
 **Verb**: to be straight
 

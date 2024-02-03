@@ -1,12 +1,10 @@
 ---
 id: pındü
 title: pındü
-hoverText: dot
+hoverText: dot § Noun
 ---
 
-### dot
-
-**Part of Speech**: Noun
+### dot § Noun
 
 **Verb**: to be a dot/point
 

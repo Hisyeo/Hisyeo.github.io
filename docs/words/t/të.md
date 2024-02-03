@@ -1,12 +1,10 @@
 ---
 id: të
 title: të
-hoverText: relative clause verb proclitic
+hoverText: relative clause verb proclitic § Grammar
 ---
 
-### relative clause verb proclitic
-
-**Part of Speech**: Grammar
+### relative clause verb proclitic § Grammar
 
 **Verb**: -
 

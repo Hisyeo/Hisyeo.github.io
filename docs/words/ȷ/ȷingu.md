@@ -1,12 +1,10 @@
 ---
 id: ȷingu
 title: ȷingu
-hoverText: orange
+hoverText: orange § Modifier
 ---
 
-### orange
-
-**Part of Speech**: Modifier
+### orange § Modifier
 
 **Verb**: to be orange
 

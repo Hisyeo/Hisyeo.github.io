@@ -1,12 +1,10 @@
 ---
 id: ënkömön
 title: ënkömön
-hoverText: face
+hoverText: face § Noun
 ---
 
-### face
-
-**Part of Speech**: Noun
+### face § Noun
 
 **Verb**: to be a face
 

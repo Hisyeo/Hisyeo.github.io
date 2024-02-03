@@ -1,12 +1,10 @@
 ---
 id: zülosun
 title: zülosun
-hoverText: to allow (allowable entity)
+hoverText: to allow (allowable entity) § Verb
 ---
 
-### to allow (allowable entity)
-
-**Part of Speech**: Verb
+### to allow (allowable entity) § Verb
 
 **Verb**: to allow/permit
 

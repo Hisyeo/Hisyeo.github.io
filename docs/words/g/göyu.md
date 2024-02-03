@@ -1,12 +1,10 @@
 ---
 id: göyu
 title: göyu
-hoverText: mouth
+hoverText: mouth § Noun
 ---
 
-### mouth
-
-**Part of Speech**: Noun
+### mouth § Noun
 
 **Verb**: to be a mouth
 

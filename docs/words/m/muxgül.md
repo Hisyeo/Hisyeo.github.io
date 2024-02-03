@@ -1,12 +1,10 @@
 ---
 id: muxgül
 title: muxgül
-hoverText: occupied/engaged/busy
+hoverText: occupied/engaged/busy § Modifier
 ---
 
-### occupied/engaged/busy
-
-**Part of Speech**: Modifier
+### occupied/engaged/busy § Modifier
 
 **Verb**: to be occupied/engaged/busy
 

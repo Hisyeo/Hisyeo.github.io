@@ -1,12 +1,10 @@
 ---
 id: köndonsë
 title: köndonsë
-hoverText: condensed/compressed/concentrated
+hoverText: condensed/compressed/concentrated § Modifier
 ---
 
-### condensed/compressed/concentrated
-
-**Part of Speech**: Modifier
+### condensed/compressed/concentrated § Modifier
 
 **Verb**: to be condensed/compressed/concentrated
 

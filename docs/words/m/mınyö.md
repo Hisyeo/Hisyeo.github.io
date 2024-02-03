@@ -1,12 +1,10 @@
 ---
 id: mınyö
 title: mınyö
-hoverText: worm
+hoverText: worm § Noun
 ---
 
-### worm
-
-**Part of Speech**: Noun
+### worm § Noun
 
 **Verb**: to be a worm
 

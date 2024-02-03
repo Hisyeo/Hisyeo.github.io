@@ -1,12 +1,10 @@
 ---
 id: dinyoüz
 title: dinyoüz
-hoverText: lip/rim/edge
+hoverText: lip/rim/edge § Noun
 ---
 
-### lip/rim/edge
-
-**Part of Speech**: Noun
+### lip/rim/edge § Noun
 
 **Verb**: to be a lip/rim/edge
 

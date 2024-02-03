@@ -1,12 +1,10 @@
 ---
 id: xolxili
 title: xolxili
-hoverText: teal
+hoverText: teal § Modifier
 ---
 
-### teal
-
-**Part of Speech**: Modifier
+### teal § Modifier
 
 **Verb**: to be teal
 

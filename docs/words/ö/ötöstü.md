@@ -1,12 +1,10 @@
 ---
 id: ötöstü
 title: ötöstü
-hoverText: opposite
+hoverText: opposite § Modifier
 ---
 
-### opposite
-
-**Part of Speech**: Modifier
+### opposite § Modifier
 
 **Verb**: to be opposite
 

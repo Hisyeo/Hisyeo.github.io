@@ -1,12 +1,10 @@
 ---
 id: lis
 title: lis
-hoverText: smooth
+hoverText: smooth § Modifier
 ---
 
-### smooth
-
-**Part of Speech**: Modifier
+### smooth § Modifier
 
 **Verb**: to be smooth/blunt
 

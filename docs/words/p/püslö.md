@@ -1,12 +1,10 @@
 ---
 id: püslö
 title: püslö
-hoverText: translucent
+hoverText: translucent § Modifier
 ---
 
-### translucent
-
-**Part of Speech**: Modifier
+### translucent § Modifier
 
 **Verb**: to be translucent
 

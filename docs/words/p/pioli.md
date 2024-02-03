@@ -1,12 +1,10 @@
 ---
 id: pioli
 title: pioli
-hoverText: hello/goodbye
+hoverText: hello/goodbye § Grammar
 ---
 
-### hello/goodbye
-
-**Part of Speech**: Grammar
+### hello/goodbye § Grammar
 
 **Verb**: -
 

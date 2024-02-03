@@ -1,12 +1,10 @@
 ---
 id: pülo
 title: pülo
-hoverText: brown
+hoverText: brown § Modifier
 ---
 
-### brown
-
-**Part of Speech**: Modifier
+### brown § Modifier
 
 **Verb**: to be brown
 

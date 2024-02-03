@@ -1,12 +1,10 @@
 ---
 id: viȷi
 title: viȷi
-hoverText: to bury (buryable entity)
+hoverText: to bury (buryable entity) § Verb
 ---
 
-### to bury (buryable entity)
-
-**Part of Speech**: Verb
+### to bury (buryable entity) § Verb
 
 **Verb**: to bury
 

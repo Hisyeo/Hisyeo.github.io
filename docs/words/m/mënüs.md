@@ -1,12 +1,10 @@
 ---
 id: mënüs
 title: mënüs
-hoverText: fewer/less
+hoverText: fewer/less § Quantity
 ---
 
-### fewer/less
-
-**Part of Speech**: Quantity
+### fewer/less § Quantity
 
 **Verb**: to be less
 

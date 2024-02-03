@@ -1,12 +1,10 @@
 ---
 id: nepu
 title: nepu
-hoverText: unlikely/rare
+hoverText: unlikely/rare § Modifier
 ---
 
-### unlikely/rare
-
-**Part of Speech**: Modifier
+### unlikely/rare § Modifier
 
 **Verb**: to be unlikely/rare
 

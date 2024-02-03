@@ -1,12 +1,10 @@
 ---
 id: gundolë
 title: gundolë
-hoverText: sphere
+hoverText: sphere § Noun
 ---
 
-### sphere
-
-**Part of Speech**: Noun
+### sphere § Noun
 
 **Verb**: to be a sphere
 

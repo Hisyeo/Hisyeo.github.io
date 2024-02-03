@@ -1,12 +1,10 @@
 ---
 id: hüstun
 title: hüstun
-hoverText: cough
+hoverText: cough § Noun
 ---
 
-### cough
-
-**Part of Speech**: Noun
+### cough § Noun
 
 **Verb**: to be a cough
 

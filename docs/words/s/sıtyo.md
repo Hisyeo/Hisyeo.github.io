@@ -1,12 +1,10 @@
 ---
 id: sıtyo
 title: sıtyo
-hoverText: to sit on (a seat)
+hoverText: to sit on (a seat) § Verb
 ---
 
-### to sit on (a seat)
-
-**Part of Speech**: Verb
+### to sit on (a seat) § Verb
 
 **Verb**: to sit (on)
 

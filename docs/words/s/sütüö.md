@@ -1,12 +1,10 @@
 ---
 id: sütüö
 title: sütüö
-hoverText: friend
+hoverText: friend § Noun
 ---
 
-### friend
-
-**Part of Speech**: Noun
+### friend § Noun
 
 **Verb**: to be a friend
 

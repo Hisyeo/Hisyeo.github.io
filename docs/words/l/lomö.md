@@ -1,12 +1,10 @@
 ---
 id: lomö
 title: lomö
-hoverText: long
+hoverText: long § Modifier
 ---
 
-### long
-
-**Part of Speech**: Modifier
+### long § Modifier
 
 **Verb**: to be long
 

@@ -1,12 +1,10 @@
 ---
 id: nonkö
 title: nonkö
-hoverText: 04 four
+hoverText: 04 four § Quantity
 ---
 
-### 04 four
-
-**Part of Speech**: Quantity
+### 04 four § Quantity
 
 **Verb**: to be four
 

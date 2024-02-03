@@ -1,12 +1,10 @@
 ---
 id: ȷon
 title: ȷon
-hoverText: group
+hoverText: group § Noun
 ---
 
-### group
-
-**Part of Speech**: Noun
+### group § Noun
 
 **Verb**: to be a group/collection
 

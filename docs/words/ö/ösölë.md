@@ -1,12 +1,10 @@
 ---
 id: ösölë
 title: ösölë
-hoverText: afraid
+hoverText: afraid § Modifier
 ---
 
-### afraid
-
-**Part of Speech**: Modifier
+### afraid § Modifier
 
 **Verb**: to be scared
 

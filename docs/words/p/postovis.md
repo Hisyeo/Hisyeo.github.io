@@ -1,12 +1,10 @@
 ---
 id: postovis
 title: postovis
-hoverText: representative/delegate
+hoverText: representative/delegate § Noun
 ---
 
-### representative/delegate
-
-**Part of Speech**: Noun
+### representative/delegate § Noun
 
 **Verb**: to be a representative/delegate
 

@@ -1,12 +1,10 @@
 ---
 id: tolxëto
 title: tolxëto
-hoverText: card
+hoverText: card § Noun
 ---
 
-### card
-
-**Part of Speech**: Noun
+### card § Noun
 
 **Verb**: to be a card
 

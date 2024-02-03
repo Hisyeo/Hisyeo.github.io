@@ -1,12 +1,10 @@
 ---
 id: goniso
 title: goniso
-hoverText: to think (a thought/opinion)
+hoverText: to think (a thought/opinion) § Verb
 ---
 
-### to think (a thought/opinion)
-
-**Part of Speech**: Verb
+### to think (a thought/opinion) § Verb
 
 **Verb**: to think
 

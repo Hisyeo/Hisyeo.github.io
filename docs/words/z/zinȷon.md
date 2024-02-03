@@ -1,12 +1,10 @@
 ---
 id: zinȷon
 title: zinȷon
-hoverText: nervous/anxious
+hoverText: nervous/anxious § Modifier
 ---
 
-### nervous/anxious
-
-**Part of Speech**: Modifier
+### nervous/anxious § Modifier
 
 **Verb**: to be nervous/anxious
 

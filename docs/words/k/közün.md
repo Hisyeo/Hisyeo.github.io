@@ -1,12 +1,10 @@
 ---
 id: közün
 title: közün
-hoverText: rank
+hoverText: rank § Noun
 ---
 
-### rank
-
-**Part of Speech**: Noun
+### rank § Noun
 
 **Verb**: to be a rank
 

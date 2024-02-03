@@ -1,12 +1,10 @@
 ---
 id: yözno
 title: yözno
-hoverText: program/plan
+hoverText: program/plan § Noun
 ---
 
-### program/plan
-
-**Part of Speech**: Noun
+### program/plan § Noun
 
 **Verb**: to be a program/plan
 

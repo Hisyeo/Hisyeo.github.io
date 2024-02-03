@@ -1,12 +1,10 @@
 ---
 id: hoxopë
 title: hoxopë
-hoverText: beam/joist/stud
+hoverText: beam/joist/stud § Noun
 ---
 
-### beam/joist/stud
-
-**Part of Speech**: Noun
+### beam/joist/stud § Noun
 
 **Verb**: to be a beam/joist/stud
 

@@ -1,12 +1,10 @@
 ---
 id: wilüwo
 title: wilüwo
-hoverText: value/cost
+hoverText: value/cost § Noun
 ---
 
-### value/cost
-
-**Part of Speech**: Noun
+### value/cost § Noun
 
 **Verb**: to be a value/unit/cost
 

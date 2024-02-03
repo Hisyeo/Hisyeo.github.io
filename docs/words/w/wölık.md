@@ -1,12 +1,10 @@
 ---
 id: wölık
 title: wölık
-hoverText: smoke/cloud
+hoverText: smoke/cloud § Noun
 ---
 
-### smoke/cloud
-
-**Part of Speech**: Noun
+### smoke/cloud § Noun
 
 **Verb**: to be smoke/a cloud
 

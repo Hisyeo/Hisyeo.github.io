@@ -1,12 +1,10 @@
 ---
 id: osyen
 title: osyen
-hoverText: ancient
+hoverText: ancient § Modifier
 ---
 
-### ancient
-
-**Part of Speech**: Modifier
+### ancient § Modifier
 
 **Verb**: to be ancient/antique
 

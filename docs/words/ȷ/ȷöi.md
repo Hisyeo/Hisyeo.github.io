@@ -1,12 +1,10 @@
 ---
 id: ȷöi
 title: ȷöi
-hoverText: blue
+hoverText: blue § Modifier
 ---
 
-### blue
-
-**Part of Speech**: Modifier
+### blue § Modifier
 
 **Verb**: to be blue
 

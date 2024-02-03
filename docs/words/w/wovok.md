@@ -1,12 +1,10 @@
 ---
 id: wovok
 title: wovok
-hoverText: to accept (a right)
+hoverText: to accept (a right) § Verb
 ---
 
-### to accept (a right)
-
-**Part of Speech**: Verb
+### to accept (a right) § Verb
 
 **Verb**: to accept
 

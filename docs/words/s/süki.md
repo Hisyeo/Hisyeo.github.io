@@ -1,12 +1,10 @@
 ---
 id: süki
 title: süki
-hoverText: to like (a preference)
+hoverText: to like (a preference) § Verb
 ---
 
-### to like (a preference)
-
-**Part of Speech**: Verb
+### to like (a preference) § Verb
 
 **Verb**: to like
 

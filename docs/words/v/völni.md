@@ -1,12 +1,10 @@
 ---
 id: völni
 title: völni
-hoverText: free
+hoverText: free § Modifier
 ---
 
-### free
-
-**Part of Speech**: Modifier
+### free § Modifier
 
 **Verb**: to be free/unconstrained
 

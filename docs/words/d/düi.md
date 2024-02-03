@@ -1,12 +1,10 @@
 ---
 id: düi
 title: düi
-hoverText: 02 two
+hoverText: 02 two § Quantity
 ---
 
-### 02 two
-
-**Part of Speech**: Quantity
+### 02 two § Quantity
 
 **Verb**: to be two
 

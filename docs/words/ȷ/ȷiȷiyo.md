@@ -1,12 +1,10 @@
 ---
 id: ȷiȷiyo
 title: ȷiȷiyo
-hoverText: tendon/root
+hoverText: tendon/root § Noun
 ---
 
-### tendon/root
-
-**Part of Speech**: Noun
+### tendon/root § Noun
 
 **Verb**: to be a tendon/root
 

@@ -1,12 +1,10 @@
 ---
 id: ȷötëstö
 title: ȷötëstö
-hoverText: sufficient/enough
+hoverText: sufficient/enough § Modifier
 ---
 
-### sufficient/enough
-
-**Part of Speech**: Modifier
+### sufficient/enough § Modifier
 
 **Verb**: to be sufficient/enough/adequate
 

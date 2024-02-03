@@ -1,12 +1,10 @@
 ---
 id: zonwëpo
 title: zonwëpo
-hoverText: to manufacture (goods)
+hoverText: to manufacture (goods) § Verb
 ---
 
-### to manufacture (goods)
-
-**Part of Speech**: Verb
+### to manufacture (goods) § Verb
 
 **Verb**: to manufacture
 

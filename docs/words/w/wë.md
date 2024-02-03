@@ -1,12 +1,10 @@
 ---
 id: wë
 title: wë
-hoverText: negatitive verb modifier proclitic
+hoverText: negatitive verb modifier proclitic § Grammar
 ---
 
-### negatitive verb modifier proclitic
-
-**Part of Speech**: Grammar
+### negatitive verb modifier proclitic § Grammar
 
 **Verb**: -
 

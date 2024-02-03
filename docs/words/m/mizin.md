@@ -1,12 +1,10 @@
 ---
 id: mizin
 title: mizin
-hoverText: fish
+hoverText: fish § Noun
 ---
 
-### fish
-
-**Part of Speech**: Noun
+### fish § Noun
 
 **Verb**: to be a fish
 

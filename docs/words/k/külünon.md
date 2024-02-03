@@ -1,12 +1,10 @@
 ---
 id: külünon
 title: külünon
-hoverText: cage/kennel/jail/cell
+hoverText: cage/kennel/jail/cell § Noun
 ---
 
-### cage/kennel/jail/cell
-
-**Part of Speech**: Noun
+### cage/kennel/jail/cell § Noun
 
 **Verb**: to be a cage/kennel/jail/cell
 

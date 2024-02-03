@@ -1,12 +1,10 @@
 ---
 id: solilo
 title: solilo
-hoverText: body
+hoverText: body § Noun
 ---
 
-### body
-
-**Part of Speech**: Noun
+### body § Noun
 
 **Verb**: to be a body/torso
 

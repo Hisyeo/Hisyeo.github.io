@@ -1,12 +1,10 @@
 ---
 id: vın
 title: vın
-hoverText: thing
+hoverText: thing § Noun
 ---
 
-### thing
-
-**Part of Speech**: Noun
+### thing § Noun
 
 **Verb**: to be a thing
 

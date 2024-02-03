@@ -1,12 +1,10 @@
 ---
 id: pukü
 title: pukü
-hoverText: frozen
+hoverText: frozen § Modifier
 ---
 
-### frozen
-
-**Part of Speech**: Modifier
+### frozen § Modifier
 
 **Verb**: to be frozen/congealed/solidified/ossified
 

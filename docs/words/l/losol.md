@@ -1,12 +1,10 @@
 ---
 id: losol
 title: losol
-hoverText: original
+hoverText: original § Modifier
 ---
 
-### original
-
-**Part of Speech**: Modifier
+### original § Modifier
 
 **Verb**: to be original/prototypical
 

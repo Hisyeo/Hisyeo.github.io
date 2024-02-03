@@ -1,12 +1,10 @@
 ---
 id: govon
 title: govon
-hoverText: disgusted
+hoverText: disgusted § Modifier
 ---
 
-### disgusted
-
-**Part of Speech**: Modifier
+### disgusted § Modifier
 
 **Verb**: to be disgusted
 

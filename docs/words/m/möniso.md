@@ -1,12 +1,10 @@
 ---
 id: möniso
 title: möniso
-hoverText: to display/show (a diplay/show)
+hoverText: to display/show (a diplay/show) § Verb
 ---
 
-### to display/show (a diplay/show)
-
-**Part of Speech**: Verb
+### to display/show (a diplay/show) § Verb
 
 **Verb**: to display/show
 

@@ -1,12 +1,10 @@
 ---
 id: ölgökin
 title: ölgökin
-hoverText: dry
+hoverText: dry § Modifier
 ---
 
-### dry
-
-**Part of Speech**: Modifier
+### dry § Modifier
 
 **Verb**: to be dry
 

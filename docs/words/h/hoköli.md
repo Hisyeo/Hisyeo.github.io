@@ -1,12 +1,10 @@
 ---
 id: hoköli
 title: hoköli
-hoverText: tooth
+hoverText: tooth § Noun
 ---
 
-### tooth
-
-**Part of Speech**: Noun
+### tooth § Noun
 
 **Verb**: to be a tooth
 

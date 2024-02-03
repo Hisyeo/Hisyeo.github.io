@@ -1,12 +1,10 @@
 ---
 id: xöpoi
 title: xöpoi
-hoverText: salty
+hoverText: salty § Modifier
 ---
 
-### salty
-
-**Part of Speech**: Modifier
+### salty § Modifier
 
 **Verb**: to be salty
 

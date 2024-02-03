@@ -1,12 +1,10 @@
 ---
 id: tolën
 title: tolën
-hoverText: limb
+hoverText: limb § Noun
 ---
 
-### limb
-
-**Part of Speech**: Noun
+### limb § Noun
 
 **Verb**: to be a limb/branch
 

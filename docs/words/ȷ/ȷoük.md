@@ -1,12 +1,10 @@
 ---
 id: ȷoük
 title: ȷoük
-hoverText: far
+hoverText: far § Modifier
 ---
 
-### far
-
-**Part of Speech**: Modifier
+### far § Modifier
 
 **Verb**: to be far/distant
 

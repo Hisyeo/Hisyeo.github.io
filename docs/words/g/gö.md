@@ -1,12 +1,10 @@
 ---
 id: gö
 title: gö
-hoverText: existent
+hoverText: existent § Modifier
 ---
 
-### existent
-
-**Part of Speech**: Modifier
+### existent § Modifier
 
 **Verb**: to be existent
 

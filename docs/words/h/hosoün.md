@@ -1,12 +1,10 @@
 ---
 id: hosoün
 title: hosoün
-hoverText: ratio/proportion
+hoverText: ratio/proportion § Noun
 ---
 
-### ratio/proportion
-
-**Part of Speech**: Noun
+### ratio/proportion § Noun
 
 **Verb**: to be a ratio/proportion
 

@@ -1,12 +1,10 @@
 ---
 id: pınlëö
 title: pınlëö
-hoverText: bay/golf
+hoverText: bay/golf § Noun
 ---
 
-### bay/golf
-
-**Part of Speech**: Noun
+### bay/golf § Noun
 
 **Verb**: to be a bay/golf
 

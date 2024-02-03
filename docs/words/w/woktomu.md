@@ -1,12 +1,10 @@
 ---
 id: woktomu
 title: woktomu
-hoverText: overt/evident
+hoverText: overt/evident § Modifier
 ---
 
-### overt/evident
-
-**Part of Speech**: Modifier
+### overt/evident § Modifier
 
 **Verb**: to be overt/evident
 

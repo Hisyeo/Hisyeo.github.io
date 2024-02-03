@@ -1,12 +1,10 @@
 ---
 id: menekxe
 title: menekxe
-hoverText: violet
+hoverText: violet § Modifier
 ---
 
-### violet
-
-**Part of Speech**: Modifier
+### violet § Modifier
 
 **Verb**: to be violet
 

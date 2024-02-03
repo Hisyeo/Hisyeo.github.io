@@ -1,12 +1,10 @@
 ---
 id: zutië
 title: zutië
-hoverText: to fold (foldable entity)
+hoverText: to fold (foldable entity) § Verb
 ---
 
-### to fold (foldable entity)
-
-**Part of Speech**: Verb
+### to fold (foldable entity) § Verb
 
 **Verb**: to fold
 

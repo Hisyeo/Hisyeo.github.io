@@ -1,12 +1,10 @@
 ---
 id: dondön
 title: dondön
-hoverText: traditional
+hoverText: traditional § Modifier
 ---
 
-### traditional
-
-**Part of Speech**: Modifier
+### traditional § Modifier
 
 **Verb**: to be traditional/conventional
 

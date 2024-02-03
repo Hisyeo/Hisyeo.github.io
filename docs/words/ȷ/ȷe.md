@@ -1,12 +1,10 @@
 ---
 id: ȷe
 title: ȷe
-hoverText: aggressive/emotional clause ender
+hoverText: aggressive/emotional clause ender § Grammar
 ---
 
-### aggressive/emotional clause ender
-
-**Part of Speech**: Grammar
+### aggressive/emotional clause ender § Grammar
 
 **Verb**: -
 

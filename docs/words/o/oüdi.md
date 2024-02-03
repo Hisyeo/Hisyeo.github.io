@@ -1,12 +1,10 @@
 ---
 id: oüdi
 title: oüdi
-hoverText: seed
+hoverText: seed § Noun
 ---
 
-### seed
-
-**Part of Speech**: Noun
+### seed § Noun
 
 **Verb**: to be a seed
 

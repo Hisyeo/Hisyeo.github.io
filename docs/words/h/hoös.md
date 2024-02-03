@@ -1,12 +1,10 @@
 ---
 id: hoös
 title: hoös
-hoverText: chaotic
+hoverText: chaotic § Modifier
 ---
 
-### chaotic
-
-**Part of Speech**: Modifier
+### chaotic § Modifier
 
 **Verb**: to be chaotic
 

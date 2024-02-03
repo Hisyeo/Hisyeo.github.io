@@ -1,12 +1,10 @@
 ---
 id: nodu
 title: nodu
-hoverText: tone
+hoverText: tone § Noun
 ---
 
-### tone
-
-**Part of Speech**: Noun
+### tone § Noun
 
 **Verb**: to be a tone
 

@@ -1,12 +1,10 @@
 ---
 id: zoü
 title: zoü
-hoverText: early
+hoverText: early § Modifier
 ---
 
-### early
-
-**Part of Speech**: Modifier
+### early § Modifier
 
 **Verb**: to be early
 

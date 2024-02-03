@@ -1,12 +1,10 @@
 ---
 id: sintokmo
 title: sintokmo
-hoverText: phrase
+hoverText: phrase § Noun
 ---
 
-### phrase
-
-**Part of Speech**: Noun
+### phrase § Noun
 
 **Verb**: to be a phrase
 

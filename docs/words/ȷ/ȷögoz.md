@@ -1,12 +1,10 @@
 ---
 id: ȷögoz
 title: ȷögoz
-hoverText: pitch/tar
+hoverText: pitch/tar § Modifier
 ---
 
-### pitch/tar
-
-**Part of Speech**: Modifier
+### pitch/tar § Modifier
 
 **Verb**: to be pitch/tar
 

@@ -1,12 +1,10 @@
 ---
 id: pökpün
 title: pökpün
-hoverText: storm
+hoverText: storm § Noun
 ---
 
-### storm
-
-**Part of Speech**: Noun
+### storm § Noun
 
 **Verb**: to be a storm
 

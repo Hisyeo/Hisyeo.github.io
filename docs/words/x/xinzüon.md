@@ -1,12 +1,10 @@
 ---
 id: xinzüon
 title: xinzüon
-hoverText: shape/form
+hoverText: shape/form § Noun
 ---
 
-### shape/form
-
-**Part of Speech**: Noun
+### shape/form § Noun
 
 **Verb**: to be a shape/form
 

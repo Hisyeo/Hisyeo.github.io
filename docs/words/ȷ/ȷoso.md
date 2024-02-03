@@ -1,12 +1,10 @@
 ---
 id: ȷoso
 title: ȷoso
-hoverText: shelf/plate
+hoverText: shelf/plate § Noun
 ---
 
-### shelf/plate
-
-**Part of Speech**: Noun
+### shelf/plate § Noun
 
 **Verb**: to be a shelf/plate
 

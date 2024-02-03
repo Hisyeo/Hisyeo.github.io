@@ -1,12 +1,10 @@
 ---
 id: mënyüu
 title: mënyüu
-hoverText: offspring
+hoverText: offspring § Noun
 ---
 
-### offspring
-
-**Part of Speech**: Noun
+### offspring § Noun
 
 **Verb**: to be a child/offspring
 

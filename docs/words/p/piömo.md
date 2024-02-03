@@ -1,12 +1,10 @@
 ---
 id: piömo
 title: piömo
-hoverText: biome
+hoverText: biome § Noun
 ---
 
-### biome
-
-**Part of Speech**: Noun
+### biome § Noun
 
 **Verb**: to be a biome
 

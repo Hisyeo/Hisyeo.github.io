@@ -1,12 +1,10 @@
 ---
 id: gi
 title: gi
-hoverText: perfect verb endoclitic
+hoverText: perfect verb endoclitic § Grammar
 ---
 
-### perfect verb endoclitic
-
-**Part of Speech**: Grammar
+### perfect verb endoclitic § Grammar
 
 **Verb**: -
 

@@ -1,12 +1,10 @@
 ---
 id: düsul
 title: düsul
-hoverText: grey
+hoverText: grey § Modifier
 ---
 
-### grey
-
-**Part of Speech**: Modifier
+### grey § Modifier
 
 **Verb**: to be grey
 

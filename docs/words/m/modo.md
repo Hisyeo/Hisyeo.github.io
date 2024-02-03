@@ -1,12 +1,10 @@
 ---
 id: modo
 title: modo
-hoverText: matter/material
+hoverText: matter/material § Noun
 ---
 
-### matter/material
-
-**Part of Speech**: Noun
+### matter/material § Noun
 
 **Verb**: to be matter/a material
 

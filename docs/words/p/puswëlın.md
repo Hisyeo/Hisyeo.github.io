@@ -1,12 +1,10 @@
 ---
 id: puswëlın
 title: puswëlın
-hoverText: oath/incantation
+hoverText: oath/incantation § Noun
 ---
 
-### oath/incantation
-
-**Part of Speech**: Noun
+### oath/incantation § Noun
 
 **Verb**: to be an oath/incantation
 

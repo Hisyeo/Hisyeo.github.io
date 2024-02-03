@@ -1,12 +1,10 @@
 ---
 id: sünkon
 title: sünkon
-hoverText: instantaneous
+hoverText: instantaneous § Modifier
 ---
 
-### instantaneous
-
-**Part of Speech**: Modifier
+### instantaneous § Modifier
 
 **Verb**: to be instantaneous
 

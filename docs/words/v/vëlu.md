@@ -1,12 +1,10 @@
 ---
 id: vëlu
 title: vëlu
-hoverText: to feel (an emotion)
+hoverText: to feel (an emotion) § Verb
 ---
 
-### to feel (an emotion)
-
-**Part of Speech**: Verb
+### to feel (an emotion) § Verb
 
 **Verb**: to feel (emotion-wise)
 

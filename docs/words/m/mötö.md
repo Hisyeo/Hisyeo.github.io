@@ -1,12 +1,10 @@
 ---
 id: mötö
 title: mötö
-hoverText: fire
+hoverText: fire § Noun
 ---
 
-### fire
-
-**Part of Speech**: Noun
+### fire § Noun
 
 **Verb**: to be fire
 

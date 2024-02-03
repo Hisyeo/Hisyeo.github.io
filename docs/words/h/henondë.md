@@ -1,12 +1,10 @@
 ---
 id: henondë
 title: henondë
-hoverText: hanging
+hoverText: hanging § Modifier
 ---
 
-### hanging
-
-**Part of Speech**: Modifier
+### hanging § Modifier
 
 **Verb**: to be hanging
 

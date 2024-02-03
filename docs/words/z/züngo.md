@@ -1,12 +1,10 @@
 ---
 id: züngo
 title: züngo
-hoverText: to filter (filterable entity)
+hoverText: to filter (filterable entity) § Verb
 ---
 
-### to filter (filterable entity)
-
-**Part of Speech**: Verb
+### to filter (filterable entity) § Verb
 
 **Verb**: to filter/sieve/winnow
 

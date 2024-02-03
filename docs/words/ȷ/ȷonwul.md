@@ -1,12 +1,10 @@
 ---
 id: ȷonwul
 title: ȷonwul
-hoverText: animal
+hoverText: animal § Noun
 ---
 
-### animal
-
-**Part of Speech**: Noun
+### animal § Noun
 
 **Verb**: to be an animal
 

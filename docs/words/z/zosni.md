@@ -1,12 +1,10 @@
 ---
 id: zosni
 title: zosni
-hoverText: private/confidential
+hoverText: private/confidential § Modifier
 ---
 
-### private/confidential
-
-**Part of Speech**: Modifier
+### private/confidential § Modifier
 
 **Verb**: to be private/confidential
 

@@ -1,12 +1,10 @@
 ---
 id: xiülo
 title: xiülo
-hoverText: hiss/fizz/whistle
+hoverText: hiss/fizz/whistle § Noun
 ---
 
-### hiss/fizz/whistle
-
-**Part of Speech**: Noun
+### hiss/fizz/whistle § Noun
 
 **Verb**: to be a hiss/fizz/whistle
 

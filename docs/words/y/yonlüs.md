@@ -1,12 +1,10 @@
 ---
 id: yonlüs
 title: yonlüs
-hoverText: wrong
+hoverText: wrong § Modifier
 ---
 
-### wrong
-
-**Part of Speech**: Modifier
+### wrong § Modifier
 
 **Verb**: to be wrong/incorrect/unfair
 

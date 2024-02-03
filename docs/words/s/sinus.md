@@ -1,12 +1,10 @@
 ---
 id: sinus
 title: sinus
-hoverText: to appear (appearance)
+hoverText: to appear (appearance) § Verb
 ---
 
-### to appear (appearance)
-
-**Part of Speech**: Verb
+### to appear (appearance) § Verb
 
 **Verb**: to appear/seem
 

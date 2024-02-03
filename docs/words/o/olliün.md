@@ -1,12 +1,10 @@
 ---
 id: olliün
 title: olliün
-hoverText: allium plant
+hoverText: allium plant § Noun
 ---
 
-### allium plant
-
-**Part of Speech**: Noun
+### allium plant § Noun
 
 **Verb**: to be an allium plant
 

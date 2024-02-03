@@ -1,12 +1,10 @@
 ---
 id: vimösyös
 title: vimösyös
-hoverText: public/communal
+hoverText: public/communal § Modifier
 ---
 
-### public/communal
-
-**Part of Speech**: Modifier
+### public/communal § Modifier
 
 **Verb**: to be public/communal
 

@@ -1,12 +1,10 @@
 ---
 id: nuzoto
 title: nuzoto
-hoverText: planet
+hoverText: planet § Noun
 ---
 
-### planet
-
-**Part of Speech**: Noun
+### planet § Noun
 
 **Verb**: to be a planet
 

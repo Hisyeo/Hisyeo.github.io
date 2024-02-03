@@ -1,12 +1,10 @@
 ---
 id: sovin
 title: sovin
-hoverText: pure
+hoverText: pure § Modifier
 ---
 
-### pure
-
-**Part of Speech**: Modifier
+### pure § Modifier
 
 **Verb**: to be pure/homogeneous/sorted
 

@@ -1,12 +1,10 @@
 ---
 id: pëlëtë
 title: pëlëtë
-hoverText: wall
+hoverText: wall § Noun
 ---
 
-### wall
-
-**Part of Speech**: Noun
+### wall § Noun
 
 **Verb**: to be a wall
 

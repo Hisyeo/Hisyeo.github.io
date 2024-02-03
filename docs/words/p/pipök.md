@@ -1,12 +1,10 @@
 ---
 id: pipök
 title: pipök
-hoverText: white
+hoverText: white § Modifier
 ---
 
-### white
-
-**Part of Speech**: Modifier
+### white § Modifier
 
 **Verb**: to be white
 

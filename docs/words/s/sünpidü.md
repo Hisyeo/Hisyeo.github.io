@@ -1,12 +1,10 @@
 ---
 id: sünpidü
 title: sünpidü
-hoverText: drone/buzz/hum
+hoverText: drone/buzz/hum § Noun
 ---
 
-### drone/buzz/hum
-
-**Part of Speech**: Noun
+### drone/buzz/hum § Noun
 
 **Verb**: to be a drone/buzz/hum
 

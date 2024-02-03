@@ -1,12 +1,10 @@
 ---
 id: gövö
 title: gövö
-hoverText: to push (a pushable entity)
+hoverText: to push (a pushable entity) § Verb
 ---
 
-### to push (a pushable entity)
-
-**Part of Speech**: Verb
+### to push (a pushable entity) § Verb
 
 **Verb**: to push/repel
 

@@ -1,12 +1,10 @@
 ---
 id: vitikös
 title: vitikös
-hoverText: western
+hoverText: western § Modifier
 ---
 
-### western
-
-**Part of Speech**: Modifier
+### western § Modifier
 
 **Verb**: to be western
 

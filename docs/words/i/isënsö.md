@@ -1,12 +1,10 @@
 ---
 id: isënsö
 title: isënsö
-hoverText: verb
+hoverText: verb § Noun
 ---
 
-### verb
-
-**Part of Speech**: Noun
+### verb § Noun
 
 **Verb**: to be a verb
 

@@ -1,12 +1,10 @@
 ---
 id: pinton
 title: pinton
-hoverText: star
+hoverText: star § Noun
 ---
 
-### star
-
-**Part of Speech**: Noun
+### star § Noun
 
 **Verb**: to be a star
 

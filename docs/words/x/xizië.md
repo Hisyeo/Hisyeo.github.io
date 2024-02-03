@@ -1,12 +1,10 @@
 ---
 id: xizië
 title: xizië
-hoverText: detail
+hoverText: detail § Noun
 ---
 
-### detail
-
-**Part of Speech**: Noun
+### detail § Noun
 
 **Verb**: to be a detail
 

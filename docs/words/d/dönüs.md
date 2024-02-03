@@ -1,12 +1,10 @@
 ---
 id: dönüs
 title: dönüs
-hoverText: pig
+hoverText: pig § Noun
 ---
 
-### pig
-
-**Part of Speech**: Noun
+### pig § Noun
 
 **Verb**: to be a pig/swine
 

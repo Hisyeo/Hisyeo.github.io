@@ -1,12 +1,10 @@
 ---
 id: ȷowo
 title: ȷowo
-hoverText: dog
+hoverText: dog § Noun
 ---
 
-### dog
-
-**Part of Speech**: Noun
+### dog § Noun
 
 **Verb**: to be a dog/canine
 

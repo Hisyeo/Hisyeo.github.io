@@ -1,12 +1,10 @@
 ---
 id: wëtodü
 title: wëtodü
-hoverText: to hunt/chase (prey/chasee)
+hoverText: to hunt/chase (prey/chasee) § Verb
 ---
 
-### to hunt/chase (prey/chasee)
-
-**Part of Speech**: Verb
+### to hunt/chase (prey/chasee) § Verb
 
 **Verb**: to hunt/chase/pursue
 

@@ -1,12 +1,10 @@
 ---
 id: dëko
 title: dëko
-hoverText: to see (a view)
+hoverText: to see (a view) § Verb
 ---
 
-### to see (a view)
-
-**Part of Speech**: Verb
+### to see (a view) § Verb
 
 **Verb**: to see/look at
 

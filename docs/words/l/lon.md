@@ -1,12 +1,10 @@
 ---
 id: lon
 title: lon
-hoverText: distance/duration marker (for)
+hoverText: distance/duration marker (for) § Grammar
 ---
 
-### distance/duration marker (for)
-
-**Part of Speech**: Grammar
+### distance/duration marker (for) § Grammar
 
 **Verb**: -
 

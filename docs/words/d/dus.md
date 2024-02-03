@@ -1,12 +1,10 @@
 ---
 id: dus
 title: dus
-hoverText: 10 ten
+hoverText: 10 ten § Quantity
 ---
 
-### 10 ten
-
-**Part of Speech**: Quantity
+### 10 ten § Quantity
 
 **Verb**: to be ten
 

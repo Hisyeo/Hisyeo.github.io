@@ -1,12 +1,10 @@
 ---
 id: wıxonü
 title: wıxonü
-hoverText: virus
+hoverText: virus § Noun
 ---
 
-### virus
-
-**Part of Speech**: Noun
+### virus § Noun
 
 **Verb**: to be a virus
 

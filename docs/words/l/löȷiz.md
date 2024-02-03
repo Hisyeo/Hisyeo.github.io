@@ -1,12 +1,10 @@
 ---
 id: löȷiz
 title: löȷiz
-hoverText: to give birth to (a baby)
+hoverText: to give birth to (a baby) § Verb
 ---
 
-### to give birth to (a baby)
-
-**Part of Speech**: Verb
+### to give birth to (a baby) § Verb
 
 **Verb**: to give birth
 

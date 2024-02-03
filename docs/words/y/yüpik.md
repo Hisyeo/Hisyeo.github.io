@@ -1,12 +1,10 @@
 ---
 id: yüpik
 title: yüpik
-hoverText: to love (a lovable entity)
+hoverText: to love (a lovable entity) § Verb
 ---
 
-### to love (a lovable entity)
-
-**Part of Speech**: Verb
+### to love (a lovable entity) § Verb
 
 **Verb**: to love
 

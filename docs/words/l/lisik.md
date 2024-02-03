@@ -1,12 +1,10 @@
 ---
 id: lisik
 title: lisik
-hoverText: bread/grain
+hoverText: bread/grain § Noun
 ---
 
-### bread/grain
-
-**Part of Speech**: Noun
+### bread/grain § Noun
 
 **Verb**: to be bread/a cereal product
 

@@ -1,12 +1,10 @@
 ---
 id: oksün
 title: oksün
-hoverText: meat/muscle
+hoverText: meat/muscle § Noun
 ---
 
-### meat/muscle
-
-**Part of Speech**: Noun
+### meat/muscle § Noun
 
 **Verb**: to be meat/muscle
 

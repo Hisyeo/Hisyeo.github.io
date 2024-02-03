@@ -1,12 +1,10 @@
 ---
 id: sopüni
 title: sopüni
-hoverText: ill/sick
+hoverText: ill/sick § Modifier
 ---
 
-### ill/sick
-
-**Part of Speech**: Modifier
+### ill/sick § Modifier
 
 **Verb**: to be ill/sick
 

@@ -1,12 +1,10 @@
 ---
 id: guvuyo
 title: guvuyo
-hoverText: to exchange/trade (an exchangeable entity)
+hoverText: to exchange/trade (an exchangeable entity) § Verb
 ---
 
-### to exchange/trade (an exchangeable entity)
-
-**Part of Speech**: Verb
+### to exchange/trade (an exchangeable entity) § Verb
 
 **Verb**: to exchange/trade
 

@@ -1,12 +1,10 @@
 ---
 id: wonkük
 title: wonkük
-hoverText: curved
+hoverText: curved § Modifier
 ---
 
-### curved
-
-**Part of Speech**: Modifier
+### curved § Modifier
 
 **Verb**: to be curved
 

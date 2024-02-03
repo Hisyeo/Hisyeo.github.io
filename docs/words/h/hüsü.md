@@ -1,12 +1,10 @@
 ---
 id: hüsü
 title: hüsü
-hoverText: to be about (theme)
+hoverText: to be about (theme) § Verb
 ---
 
-### to be about (theme)
-
-**Part of Speech**: Verb
+### to be about (theme) § Verb
 
 **Verb**: to be about/concern/regard
 

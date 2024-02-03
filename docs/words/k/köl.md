@@ -1,12 +1,10 @@
 ---
 id: köl
 title: köl
-hoverText: manifest non-physical thing
+hoverText: manifest non-physical thing § Noun
 ---
 
-### manifest non-physical thing
-
-**Part of Speech**: Noun
+### manifest non-physical thing § Noun
 
 **Verb**: to be a state/condition/manifest non-physical thing
 

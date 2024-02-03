@@ -1,12 +1,10 @@
 ---
 id: kopüt
 title: kopüt
-hoverText: broken/dysfunctional
+hoverText: broken/dysfunctional § Modifier
 ---
 
-### broken/dysfunctional
-
-**Part of Speech**: Modifier
+### broken/dysfunctional § Modifier
 
 **Verb**: to be broken/dysfunctional
 

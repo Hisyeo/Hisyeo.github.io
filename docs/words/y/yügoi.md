@@ -1,12 +1,10 @@
 ---
 id: yügoi
 title: yügoi
-hoverText: hindering/detrimental
+hoverText: hindering/detrimental § Modifier
 ---
 
-### hindering/detrimental
-
-**Part of Speech**: Modifier
+### hindering/detrimental § Modifier
 
 **Verb**: to be hindering/detrimental
 

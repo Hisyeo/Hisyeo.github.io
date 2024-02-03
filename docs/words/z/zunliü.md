@@ -1,12 +1,10 @@
 ---
 id: zunliü
 title: zunliü
-hoverText: to distill (a distillable entity)
+hoverText: to distill (a distillable entity) § Verb
 ---
 
-### to distill (a distillable entity)
-
-**Part of Speech**: Verb
+### to distill (a distillable entity) § Verb
 
 **Verb**: to distill
 

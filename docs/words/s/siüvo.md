@@ -1,12 +1,10 @@
 ---
 id: siüvo
 title: siüvo
-hoverText: to digest (digestible entity)
+hoverText: to digest (digestible entity) § Verb
 ---
 
-### to digest (digestible entity)
-
-**Part of Speech**: Verb
+### to digest (digestible entity) § Verb
 
 **Verb**: to digest/dissolve
 

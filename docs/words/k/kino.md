@@ -1,12 +1,10 @@
 ---
 id: kino
 title: kino
-hoverText: rhyme/verse
+hoverText: rhyme/verse § Noun
 ---
 
-### rhyme/verse
-
-**Part of Speech**: Noun
+### rhyme/verse § Noun
 
 **Verb**: to be a rhyme/verse
 

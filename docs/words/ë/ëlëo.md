@@ -1,12 +1,10 @@
 ---
 id: ëlëo
 title: ëlëo
-hoverText: floating
+hoverText: floating § Modifier
 ---
 
-### floating
-
-**Part of Speech**: Modifier
+### floating § Modifier
 
 **Verb**: to be floating
 

@@ -1,12 +1,10 @@
 ---
 id: pön
 title: pön
-hoverText: to cause (an effect)
+hoverText: to cause (an effect) § Verb
 ---
 
-### to cause (an effect)
-
-**Part of Speech**: Verb
+### to cause (an effect) § Verb
 
 **Verb**: to cause
 

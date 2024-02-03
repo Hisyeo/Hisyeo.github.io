@@ -1,12 +1,10 @@
 ---
 id: xidëtli
 title: xidëtli
-hoverText: violent
+hoverText: violent § Modifier
 ---
 
-### violent
-
-**Part of Speech**: Modifier
+### violent § Modifier
 
 **Verb**: to be violent
 

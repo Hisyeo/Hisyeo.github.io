@@ -1,12 +1,10 @@
 ---
 id: hondöt
 title: hondöt
-hoverText: jealous
+hoverText: jealous § Modifier
 ---
 
-### jealous
-
-**Part of Speech**: Modifier
+### jealous § Modifier
 
 **Verb**: to be jealous/envious
 

@@ -1,12 +1,10 @@
 ---
 id: poholon
 title: poholon
-hoverText: closet/cupboard/cabinet
+hoverText: closet/cupboard/cabinet § Noun
 ---
 
-### closet/cupboard/cabinet
-
-**Part of Speech**: Noun
+### closet/cupboard/cabinet § Noun
 
 **Verb**: to be a closet/cupboard/cabinet
 

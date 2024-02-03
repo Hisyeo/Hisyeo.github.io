@@ -1,12 +1,10 @@
 ---
 id: mozko
 title: mozko
-hoverText: cat
+hoverText: cat § Noun
 ---
 
-### cat
-
-**Part of Speech**: Noun
+### cat § Noun
 
 **Verb**: to be a cat/feline
 

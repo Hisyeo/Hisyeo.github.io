@@ -1,12 +1,10 @@
 ---
 id: sıskin
 title: sıskin
-hoverText: sibling
+hoverText: sibling § Noun
 ---
 
-### sibling
-
-**Part of Speech**: Noun
+### sibling § Noun
 
 **Verb**: to be a sibling
 

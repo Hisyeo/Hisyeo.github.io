@@ -1,12 +1,10 @@
 ---
 id: püihi
 title: püihi
-hoverText: timid/shy
+hoverText: timid/shy § Modifier
 ---
 
-### timid/shy
-
-**Part of Speech**: Modifier
+### timid/shy § Modifier
 
 **Verb**: to be timid/shy
 

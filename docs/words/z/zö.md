@@ -1,12 +1,10 @@
 ---
 id: zö
 title: zö
-hoverText: patient/theme marker
+hoverText: patient/theme marker § Preposition
 ---
 
-### patient/theme marker
-
-**Part of Speech**: Preposition
+### patient/theme marker § Preposition
 
 **Verb**: -
 

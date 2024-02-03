@@ -1,12 +1,10 @@
 ---
 id: xönë
 title: xönë
-hoverText: different
+hoverText: different § Modifier
 ---
 
-### different
-
-**Part of Speech**: Modifier
+### different § Modifier
 
 **Verb**: to be different
 

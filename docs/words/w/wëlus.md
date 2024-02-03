@@ -1,12 +1,10 @@
 ---
 id: wëlus
 title: wëlus
-hoverText: oil
+hoverText: oil § Noun
 ---
 
-### oil
-
-**Part of Speech**: Noun
+### oil § Noun
 
 **Verb**: to be oil
 

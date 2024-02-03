@@ -1,12 +1,10 @@
 ---
 id: üzümi
 title: üzümi
-hoverText: economy
+hoverText: economy § Noun
 ---
 
-### economy
-
-**Part of Speech**: Noun
+### economy § Noun
 
 **Verb**: to be an economy
 

@@ -1,12 +1,10 @@
 ---
 id: mükno
 title: mükno
-hoverText: mature/ripe
+hoverText: mature/ripe § Modifier
 ---
 
-### mature/ripe
-
-**Part of Speech**: Modifier
+### mature/ripe § Modifier
 
 **Verb**: to be mature/ripe/adult
 

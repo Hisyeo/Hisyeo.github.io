@@ -1,12 +1,10 @@
 ---
 id: hoküxi
 title: hoküxi
-hoverText: clapping/applauding
+hoverText: clapping/applauding § Modifier
 ---
 
-### clapping/applauding
-
-**Part of Speech**: Modifier
+### clapping/applauding § Modifier
 
 **Verb**: to be clapping/appluading
 

@@ -1,12 +1,10 @@
 ---
 id: zienxin
 title: zienxin
-hoverText: alkaline
+hoverText: alkaline § Modifier
 ---
 
-### alkaline
-
-**Part of Speech**: Modifier
+### alkaline § Modifier
 
 **Verb**: to be alkaline
 

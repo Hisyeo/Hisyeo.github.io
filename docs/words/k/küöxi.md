@@ -1,12 +1,10 @@
 ---
 id: küöxi
 title: küöxi
-hoverText: fruit
+hoverText: fruit § Noun
 ---
 
-### fruit
-
-**Part of Speech**: Noun
+### fruit § Noun
 
 **Verb**: to be a fruit
 

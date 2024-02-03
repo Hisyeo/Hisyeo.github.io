@@ -1,12 +1,10 @@
 ---
 id: sötün
 title: sötün
-hoverText: column
+hoverText: column § Noun
 ---
 
-### column
-
-**Part of Speech**: Noun
+### column § Noun
 
 **Verb**: to be a column
 

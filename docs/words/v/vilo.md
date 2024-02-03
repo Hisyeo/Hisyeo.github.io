@@ -1,12 +1,10 @@
 ---
 id: vilo
 title: vilo
-hoverText: row
+hoverText: row § Noun
 ---
 
-### row
-
-**Part of Speech**: Noun
+### row § Noun
 
 **Verb**: to be a row
 

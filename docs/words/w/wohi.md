@@ -1,12 +1,10 @@
 ---
 id: wohi
 title: wohi
-hoverText: female
+hoverText: female § Modifier
 ---
 
-### female
-
-**Part of Speech**: Modifier
+### female § Modifier
 
 **Verb**: to be female/feminine
 

@@ -1,12 +1,10 @@
 ---
 id: pogö
 title: pogö
-hoverText: luck
+hoverText: luck § Noun
 ---
 
-### luck
-
-**Part of Speech**: Noun
+### luck § Noun
 
 **Verb**: to be luck/fate
 

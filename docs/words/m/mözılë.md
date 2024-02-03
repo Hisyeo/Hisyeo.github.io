@@ -1,12 +1,10 @@
 ---
 id: mözılë
 title: mözılë
-hoverText: to tie/entangle/knit/weave
+hoverText: to tie/entangle/knit/weave § Verb
 ---
 
-### to tie/entangle/knit/weave
-
-**Part of Speech**: Verb
+### to tie/entangle/knit/weave § Verb
 
 **Verb**: to tie/entangle/knit/weave
 

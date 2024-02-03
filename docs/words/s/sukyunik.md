@@ -1,12 +1,10 @@
 ---
 id: sukyunik
 title: sukyunik
-hoverText: mucus
+hoverText: mucus § Noun
 ---
 
-### mucus
-
-**Part of Speech**: Noun
+### mucus § Noun
 
 **Verb**: to be a mucus/phlegm/slime
 

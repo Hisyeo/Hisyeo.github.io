@@ -1,12 +1,10 @@
 ---
 id: kötvüso
 title: kötvüso
-hoverText: cephalapod
+hoverText: cephalapod § Noun
 ---
 
-### cephalapod
-
-**Part of Speech**: Noun
+### cephalapod § Noun
 
 **Verb**: to be a cephalapod
 

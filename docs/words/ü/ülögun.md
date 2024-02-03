@@ -1,12 +1,10 @@
 ---
 id: ülögun
 title: ülögun
-hoverText: metal
+hoverText: metal § Noun
 ---
 
-### metal
-
-**Part of Speech**: Noun
+### metal § Noun
 
 **Verb**: to be metal
 

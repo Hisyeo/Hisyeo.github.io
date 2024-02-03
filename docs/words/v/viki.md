@@ -1,12 +1,10 @@
 ---
 id: viki
 title: viki
-hoverText: fast
+hoverText: fast § Modifier
 ---
 
-### fast
-
-**Part of Speech**: Modifier
+### fast § Modifier
 
 **Verb**: to be fast/quick/speedy
 

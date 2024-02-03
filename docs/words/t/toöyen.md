@@ -1,12 +1,10 @@
 ---
 id: toöyen
 title: toöyen
-hoverText: to hate (a hated entity)
+hoverText: to hate (a hated entity) § Verb
 ---
 
-### to hate (a hated entity)
-
-**Part of Speech**: Verb
+### to hate (a hated entity) § Verb
 
 **Verb**: to hate/dislike
 

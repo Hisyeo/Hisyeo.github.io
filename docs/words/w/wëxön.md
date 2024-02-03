@@ -1,12 +1,10 @@
 ---
 id: wëxön
 title: wëxön
-hoverText: week
+hoverText: week § Noun
 ---
 
-### week
-
-**Part of Speech**: Noun
+### week § Noun
 
 **Verb**: to be a week
 

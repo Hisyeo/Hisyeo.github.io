@@ -1,12 +1,10 @@
 ---
 id: vıldonpun
 title: vıldonpun
-hoverText: evaporated/vaporized
+hoverText: evaporated/vaporized § Modifier
 ---
 
-### evaporated/vaporized
-
-**Part of Speech**: Modifier
+### evaporated/vaporized § Modifier
 
 **Verb**: to be evaporated/vaporized
 

@@ -1,12 +1,10 @@
 ---
 id: sinëxis
 title: sinëxis
-hoverText: constant
+hoverText: constant § Modifier
 ---
 
-### constant
-
-**Part of Speech**: Modifier
+### constant § Modifier
 
 **Verb**: to be constant/stable
 

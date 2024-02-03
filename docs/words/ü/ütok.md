@@ -1,12 +1,10 @@
 ---
 id: ütok
 title: ütok
-hoverText: also
+hoverText: also § Modifier
 ---
 
-### also
-
-**Part of Speech**: Modifier
+### also § Modifier
 
 **Verb**: to be included
 

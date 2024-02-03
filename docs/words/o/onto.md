@@ -1,12 +1,10 @@
 ---
 id: onto
 title: onto
-hoverText: to ready (a preparable entity)
+hoverText: to ready (a preparable entity) § Verb
 ---
 
-### to ready (a preparable entity)
-
-**Part of Speech**: Verb
+### to ready (a preparable entity) § Verb
 
 **Verb**: to (make) ready/prepare
 

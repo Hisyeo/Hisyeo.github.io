@@ -1,12 +1,10 @@
 ---
 id: döstoz
 title: döstoz
-hoverText: to receive (receivable entity)
+hoverText: to receive (receivable entity) § Verb
 ---
 
-### to receive (receivable entity)
-
-**Part of Speech**: Verb
+### to receive (receivable entity) § Verb
 
 **Verb**: to receive/obtain
 

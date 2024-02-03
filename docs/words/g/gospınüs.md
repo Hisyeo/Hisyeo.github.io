@@ -1,12 +1,10 @@
 ---
 id: gospınüs
 title: gospınüs
-hoverText: chartreuse
+hoverText: chartreuse § Modifier
 ---
 
-### chartreuse
-
-**Part of Speech**: Modifier
+### chartreuse § Modifier
 
 **Verb**: to be chartreuse
 

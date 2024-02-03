@@ -1,12 +1,10 @@
 ---
 id: hulükö
 title: hulükö
-hoverText: lightweight
+hoverText: lightweight § Modifier
 ---
 
-### lightweight
-
-**Part of Speech**: Modifier
+### lightweight § Modifier
 
 **Verb**: to be light(weight)
 

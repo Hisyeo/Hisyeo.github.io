@@ -1,12 +1,10 @@
 ---
 id: pongövi
 title: pongövi
-hoverText: endangered
+hoverText: endangered § Modifier
 ---
 
-### endangered
-
-**Part of Speech**: Modifier
+### endangered § Modifier
 
 **Verb**: to be endangered/in danger
 

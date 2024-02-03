@@ -1,12 +1,10 @@
 ---
 id: onpulë
 title: onpulë
-hoverText: amber
+hoverText: amber § Modifier
 ---
 
-### amber
-
-**Part of Speech**: Modifier
+### amber § Modifier
 
 **Verb**: to be amber
 

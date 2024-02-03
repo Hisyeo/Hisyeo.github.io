@@ -1,12 +1,10 @@
 ---
 id: wo
 title: wo
-hoverText: collapser/amender endoclitic
+hoverText: collapser/amender endoclitic § Grammar
 ---
 
-### collapser/amender endoclitic
-
-**Part of Speech**: Grammar
+### collapser/amender endoclitic § Grammar
 
 **Verb**: -
 

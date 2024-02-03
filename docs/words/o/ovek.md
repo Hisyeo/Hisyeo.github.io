@@ -1,12 +1,10 @@
 ---
 id: ovek
 title: ovek
-hoverText: collaborator marker (alongside/with)
+hoverText: collaborator marker (alongside/with) § Preposition
 ---
 
-### collaborator marker (alongside/with)
-
-**Part of Speech**: Preposition
+### collaborator marker (alongside/with) § Preposition
 
 **Verb**: -
 

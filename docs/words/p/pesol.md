@@ -1,12 +1,10 @@
 ---
 id: pesol
 title: pesol
-hoverText: to seal/lock (sealable/lockable entity)
+hoverText: to seal/lock (sealable/lockable entity) § Verb
 ---
 
-### to seal/lock (sealable/lockable entity)
-
-**Part of Speech**: Verb
+### to seal/lock (sealable/lockable entity) § Verb
 
 **Verb**: to seal/lock
 

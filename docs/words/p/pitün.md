@@ -1,12 +1,10 @@
 ---
 id: pitün
 title: pitün
-hoverText: night
+hoverText: night § Noun
 ---
 
-### night
-
-**Part of Speech**: Noun
+### night § Noun
 
 **Verb**: to be a night
 

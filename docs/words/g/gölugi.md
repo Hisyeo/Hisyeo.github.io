@@ -1,12 +1,10 @@
 ---
 id: gölugi
 title: gölugi
-hoverText: to imply (an implication)
+hoverText: to imply (an implication) § Verb
 ---
 
-### to imply (an implication)
-
-**Part of Speech**: Verb
+### to imply (an implication) § Verb
 
 **Verb**: to imply/mean
 

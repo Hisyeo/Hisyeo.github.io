@@ -1,12 +1,10 @@
 ---
 id: ȷënsi
 title: ȷënsi
-hoverText: sexual
+hoverText: sexual § Modifier
 ---
 
-### sexual
-
-**Part of Speech**: Modifier
+### sexual § Modifier
 
 **Verb**: to be sexual
 

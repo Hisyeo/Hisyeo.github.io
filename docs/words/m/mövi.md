@@ -1,12 +1,10 @@
 ---
 id: mövi
 title: mövi
-hoverText: brave/courageous
+hoverText: brave/courageous § Modifier
 ---
 
-### brave/courageous
-
-**Part of Speech**: Modifier
+### brave/courageous § Modifier
 
 **Verb**: to be brave/courageous
 

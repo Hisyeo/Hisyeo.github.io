@@ -1,12 +1,10 @@
 ---
 id: luhü
 title: luhü
-hoverText: blood
+hoverText: blood § Noun
 ---
 
-### blood
-
-**Part of Speech**: Noun
+### blood § Noun
 
 **Verb**: to be blood
 

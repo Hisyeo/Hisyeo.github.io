@@ -1,12 +1,10 @@
 ---
 id: nënko
 title: nënko
-hoverText: reason/cause marker (because of)
+hoverText: reason/cause marker (because of) § Preposition
 ---
 
-### reason/cause marker (because of)
-
-**Part of Speech**: Preposition
+### reason/cause marker (because of) § Preposition
 
 **Verb**: -
 

@@ -1,12 +1,10 @@
 ---
 id: pëüdo
 title: pëüdo
-hoverText: to learn (a learnable entity)
+hoverText: to learn (a learnable entity) § Verb
 ---
 
-### to learn (a learnable entity)
-
-**Part of Speech**: Verb
+### to learn (a learnable entity) § Verb
 
 **Verb**: to learn
 

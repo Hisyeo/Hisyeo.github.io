@@ -1,12 +1,10 @@
 ---
 id: gözidon
 title: gözidon
-hoverText: to choose (a choice)
+hoverText: to choose (a choice) § Verb
 ---
 
-### to choose (a choice)
-
-**Part of Speech**: Verb
+### to choose (a choice) § Verb
 
 **Verb**: to choose
 

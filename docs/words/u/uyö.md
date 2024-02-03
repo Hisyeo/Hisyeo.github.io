@@ -1,12 +1,10 @@
 ---
 id: uyö
 title: uyö
-hoverText: that (near)
+hoverText: that (near) § Pronoun
 ---
 
-### that (near)
-
-**Part of Speech**: Pronoun
+### that (near) § Pronoun
 
 **Verb**: to be that
 

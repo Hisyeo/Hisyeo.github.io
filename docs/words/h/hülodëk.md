@@ -1,12 +1,10 @@
 ---
 id: hülodëk
 title: hülodëk
-hoverText: waste
+hoverText: waste § Noun
 ---
 
-### waste
-
-**Part of Speech**: Noun
+### waste § Noun
 
 **Verb**: to be waste/garbage
 

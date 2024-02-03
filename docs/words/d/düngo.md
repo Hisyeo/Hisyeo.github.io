@@ -1,12 +1,10 @@
 ---
 id: düngo
 title: düngo
-hoverText: to pierce (piercable entity)
+hoverText: to pierce (piercable entity) § Verb
 ---
 
-### to pierce (piercable entity)
-
-**Part of Speech**: Verb
+### to pierce (piercable entity) § Verb
 
 **Verb**: to pierce/puncture
 

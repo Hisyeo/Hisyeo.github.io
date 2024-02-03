@@ -1,12 +1,10 @@
 ---
 id: tüguto
 title: tüguto
-hoverText: hot
+hoverText: hot § Modifier
 ---
 
-### hot
-
-**Part of Speech**: Modifier
+### hot § Modifier
 
 **Verb**: to be hot
 

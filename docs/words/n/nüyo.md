@@ -1,12 +1,10 @@
 ---
 id: nüyo
 title: nüyo
-hoverText: stick
+hoverText: stick § Noun
 ---
 
-### stick
-
-**Part of Speech**: Noun
+### stick § Noun
 
 **Verb**: to be a stick/staff/pole
 

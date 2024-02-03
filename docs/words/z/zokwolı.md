@@ -1,12 +1,10 @@
 ---
 id: zokwolı
 title: zokwolı
-hoverText: pyramid
+hoverText: pyramid § Noun
 ---
 
-### pyramid
-
-**Part of Speech**: Noun
+### pyramid § Noun
 
 **Verb**: to be a pyramid
 

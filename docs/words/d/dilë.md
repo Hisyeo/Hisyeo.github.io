@@ -1,12 +1,10 @@
 ---
 id: dilë
 title: dilë
-hoverText: slow
+hoverText: slow § Modifier
 ---
 
-### slow
-
-**Part of Speech**: Modifier
+### slow § Modifier
 
 **Verb**: to be slow
 

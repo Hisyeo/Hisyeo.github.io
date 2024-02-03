@@ -1,12 +1,10 @@
 ---
 id: xöton
 title: xöton
-hoverText: cucurbit
+hoverText: cucurbit § Noun
 ---
 
-### cucurbit
-
-**Part of Speech**: Noun
+### cucurbit § Noun
 
 **Verb**: to be a cucurbit
 

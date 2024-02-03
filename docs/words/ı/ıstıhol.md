@@ -1,12 +1,10 @@
 ---
 id: ıstıhol
 title: ıstıhol
-hoverText: honor/glory
+hoverText: honor/glory § Modifier
 ---
 
-### honor/glory
-
-**Part of Speech**: Modifier
+### honor/glory § Modifier
 
 **Verb**: to be honor/glory
 

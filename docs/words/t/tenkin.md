@@ -1,12 +1,10 @@
 ---
 id: tenkin
 title: tenkin
-hoverText: to hear (a sound)
+hoverText: to hear (a sound) § Verb
 ---
 
-### to hear (a sound)
-
-**Part of Speech**: Verb
+### to hear (a sound) § Verb
 
 **Verb**: to hear
 

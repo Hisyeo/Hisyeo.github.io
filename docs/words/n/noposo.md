@@ -1,12 +1,10 @@
 ---
 id: noposo
 title: noposo
-hoverText: wet
+hoverText: wet § Modifier
 ---
 
-### wet
-
-**Part of Speech**: Modifier
+### wet § Modifier
 
 **Verb**: to be wet
 

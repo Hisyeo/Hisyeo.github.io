@@ -1,12 +1,10 @@
 ---
 id: xopëk
 title: xopëk
-hoverText: previous
+hoverText: previous § Modifier
 ---
 
-### previous
-
-**Part of Speech**: Modifier
+### previous § Modifier
 
 **Verb**: to be the previous/past (time)
 

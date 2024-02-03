@@ -1,12 +1,10 @@
 ---
 id: yınyünzi
 title: yınyünzi
-hoverText: modifier (adjective)
+hoverText: modifier (adjective) § Noun
 ---
 
-### modifier (adjective)
-
-**Part of Speech**: Noun
+### modifier (adjective) § Noun
 
 **Verb**: to be a modifier
 

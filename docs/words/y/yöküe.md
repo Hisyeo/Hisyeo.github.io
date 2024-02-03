@@ -1,12 +1,10 @@
 ---
 id: yöküe
 title: yöküe
-hoverText: monster
+hoverText: monster § Noun
 ---
 
-### monster
-
-**Part of Speech**: Noun
+### monster § Noun
 
 **Verb**: to be a monster/devil/goblin
 

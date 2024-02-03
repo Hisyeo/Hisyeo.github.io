@@ -1,12 +1,10 @@
 ---
 id: ipüwë
 title: ipüwë
-hoverText: stone
+hoverText: stone § Noun
 ---
 
-### stone
-
-**Part of Speech**: Noun
+### stone § Noun
 
 **Verb**: to be a stone/rock
 

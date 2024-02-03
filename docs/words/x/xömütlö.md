@@ -1,12 +1,10 @@
 ---
 id: xömütlö
 title: xömütlö
-hoverText: ocean
+hoverText: ocean § Noun
 ---
 
-### ocean
-
-**Part of Speech**: Noun
+### ocean § Noun
 
 **Verb**: to be an ocean
 

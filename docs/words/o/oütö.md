@@ -1,12 +1,10 @@
 ---
 id: oütö
 title: oütö
-hoverText: to drive (a vehicle)
+hoverText: to drive (a vehicle) § Verb
 ---
 
-### to drive (a vehicle)
-
-**Part of Speech**: Verb
+### to drive (a vehicle) § Verb
 
 **Verb**: to drive
 

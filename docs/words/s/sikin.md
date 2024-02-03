@@ -1,12 +1,10 @@
 ---
 id: sikin
 title: sikin
-hoverText: event
+hoverText: event § Noun
 ---
 
-### event
-
-**Part of Speech**: Noun
+### event § Noun
 
 **Verb**: to be an event
 

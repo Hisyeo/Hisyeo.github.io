@@ -1,12 +1,10 @@
 ---
 id: wodi
 title: wodi
-hoverText: vile
+hoverText: vile § Modifier
 ---
 
-### vile
-
-**Part of Speech**: Modifier
+### vile § Modifier
 
 **Verb**: to be vile/wicked
 

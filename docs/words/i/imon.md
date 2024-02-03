@@ -1,12 +1,10 @@
 ---
 id: imon
 title: imon
-hoverText: to trust (a belief)
+hoverText: to trust (a belief) § Verb
 ---
 
-### to trust (a belief)
-
-**Part of Speech**: Verb
+### to trust (a belief) § Verb
 
 **Verb**: to trust/believe
 

@@ -1,12 +1,10 @@
 ---
 id: nosö
 title: nosö
-hoverText: puzzle/mystery
+hoverText: puzzle/mystery § Noun
 ---
 
-### puzzle/mystery
-
-**Part of Speech**: Noun
+### puzzle/mystery § Noun
 
 **Verb**: to be a puzzle/mystery
 

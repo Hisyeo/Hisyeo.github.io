@@ -1,12 +1,10 @@
 ---
 id: uskivo
 title: uskivo
-hoverText: to avoid/dodge (avoidable/dodgeable entity)
+hoverText: to avoid/dodge (avoidable/dodgeable entity) § Verb
 ---
 
-### to avoid/dodge (avoidable/dodgeable entity)
-
-**Part of Speech**: Verb
+### to avoid/dodge (avoidable/dodgeable entity) § Verb
 
 **Verb**: to avoid/dodge/evade
 

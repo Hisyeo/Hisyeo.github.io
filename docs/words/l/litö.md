@@ -1,12 +1,10 @@
 ---
 id: litö
 title: litö
-hoverText: empty/incomplete
+hoverText: empty/incomplete § Modifier
 ---
 
-### empty/incomplete
-
-**Part of Speech**: Modifier
+### empty/incomplete § Modifier
 
 **Verb**: to be empty/incomplete
 

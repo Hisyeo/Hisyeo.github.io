@@ -1,12 +1,10 @@
 ---
 id: mötowo
 title: mötowo
-hoverText: content
+hoverText: content § Noun
 ---
 
-### content
-
-**Part of Speech**: Noun
+### content § Noun
 
 **Verb**: to be content
 

@@ -1,12 +1,10 @@
 ---
 id: kontol
 title: kontol
-hoverText: to sing/play (music)
+hoverText: to sing/play (music) § Verb
 ---
 
-### to sing/play (music)
-
-**Part of Speech**: Verb
+### to sing/play (music) § Verb
 
 **Verb**: to sing/play (instrument-wise)
 

@@ -1,12 +1,10 @@
 ---
 id: zigilso
 title: zigilso
-hoverText: treatment (medical)
+hoverText: treatment (medical) § Noun
 ---
 
-### treatment (medical)
-
-**Part of Speech**: Noun
+### treatment (medical) § Noun
 
 **Verb**: to be a treatment
 

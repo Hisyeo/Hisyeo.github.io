@@ -1,12 +1,10 @@
 ---
 id: wıkse
 title: wıkse
-hoverText: belly
+hoverText: belly § Noun
 ---
 
-### belly
-
-**Part of Speech**: Noun
+### belly § Noun
 
 **Verb**: to be a belly/stomach
 

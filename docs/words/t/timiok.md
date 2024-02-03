@@ -1,12 +1,10 @@
 ---
 id: timiok
 title: timiok
-hoverText: bird
+hoverText: bird § Noun
 ---
 
-### bird
-
-**Part of Speech**: Noun
+### bird § Noun
 
 **Verb**: to be a bird
 

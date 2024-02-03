@@ -1,12 +1,10 @@
 ---
 id: züti
 title: züti
-hoverText: small
+hoverText: small § Modifier
 ---
 
-### small
-
-**Part of Speech**: Modifier
+### small § Modifier
 
 **Verb**: to be small
 

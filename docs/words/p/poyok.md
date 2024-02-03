@@ -1,12 +1,10 @@
 ---
 id: poyok
 title: poyok
-hoverText: recent
+hoverText: recent § Modifier
 ---
 
-### recent
-
-**Part of Speech**: Modifier
+### recent § Modifier
 
 **Verb**: to be recent
 

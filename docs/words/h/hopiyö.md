@@ -1,12 +1,10 @@
 ---
 id: hopiyö
 title: hopiyö
-hoverText: to announce (an announcement)
+hoverText: to announce (an announcement) § Verb
 ---
 
-### to announce (an announcement)
-
-**Part of Speech**: Verb
+### to announce (an announcement) § Verb
 
 **Verb**: to announce
 

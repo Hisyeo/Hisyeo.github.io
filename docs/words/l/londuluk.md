@@ -1,12 +1,10 @@
 ---
 id: londuluk
 title: londuluk
-hoverText: rural
+hoverText: rural § Modifier
 ---
 
-### rural
-
-**Part of Speech**: Modifier
+### rural § Modifier
 
 **Verb**: to be rural
 

@@ -1,12 +1,10 @@
 ---
 id: mınyoto
 title: mınyoto
-hoverText: gastropod
+hoverText: gastropod § Noun
 ---
 
-### gastropod
-
-**Part of Speech**: Noun
+### gastropod § Noun
 
 **Verb**: to be a slug/snail/gastropod
 

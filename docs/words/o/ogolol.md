@@ -1,12 +1,10 @@
 ---
 id: ogolol
 title: ogolol
-hoverText: to grab/hold (a hold/load/burden)
+hoverText: to grab/hold (a hold/load/burden) § Verb
 ---
 
-### to grab/hold (a hold/load/burden)
-
-**Part of Speech**: Verb
+### to grab/hold (a hold/load/burden) § Verb
 
 **Verb**: to grab/hold
 

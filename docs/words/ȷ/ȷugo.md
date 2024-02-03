@@ -1,12 +1,10 @@
 ---
 id: ȷugo
 title: ȷugo
-hoverText: place
+hoverText: place § Noun
 ---
 
-### place
-
-**Part of Speech**: Noun
+### place § Noun
 
 **Verb**: to be a place/location
 

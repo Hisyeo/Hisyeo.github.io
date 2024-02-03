@@ -1,12 +1,10 @@
 ---
 id: ȷüngö
 title: ȷüngö
-hoverText: hand
+hoverText: hand § Noun
 ---
 
-### hand
-
-**Part of Speech**: Noun
+### hand § Noun
 
 **Verb**: to be a hand
 

@@ -1,12 +1,10 @@
 ---
 id: hosin
 title: hosin
-hoverText: beautiful
+hoverText: beautiful § Modifier
 ---
 
-### beautiful
-
-**Part of Speech**: Modifier
+### beautiful § Modifier
 
 **Verb**: to be beautiful
 

@@ -1,12 +1,10 @@
 ---
 id: sopoi
 title: sopoi
-hoverText: ceiling
+hoverText: ceiling § Noun
 ---
 
-### ceiling
-
-**Part of Speech**: Noun
+### ceiling § Noun
 
 **Verb**: to be a ceiling
 

@@ -1,12 +1,10 @@
 ---
 id: pügot
 title: pügot
-hoverText: heavy
+hoverText: heavy § Modifier
 ---
 
-### heavy
-
-**Part of Speech**: Modifier
+### heavy § Modifier
 
 **Verb**: to be heavy
 

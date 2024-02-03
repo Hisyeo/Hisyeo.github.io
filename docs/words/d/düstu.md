@@ -1,12 +1,10 @@
 ---
 id: düstu
 title: düstu
-hoverText: to measure (measurable entity)
+hoverText: to measure (measurable entity) § Verb
 ---
 
-### to measure (measurable entity)
-
-**Part of Speech**: Verb
+### to measure (measurable entity) § Verb
 
 **Verb**: to measure
 

@@ -1,12 +1,10 @@
 ---
 id: ximol
 title: ximol
-hoverText: left
+hoverText: left § Noun
 ---
 
-### left
-
-**Part of Speech**: Noun
+### left § Noun
 
 **Verb**: to be the left (side)
 

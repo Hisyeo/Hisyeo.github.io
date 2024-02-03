@@ -1,12 +1,10 @@
 ---
 id: müt
 title: müt
-hoverText: direction/recipient (towards)
+hoverText: direction/recipient (towards) § Preposition
 ---
 
-### direction/recipient (towards)
-
-**Part of Speech**: Preposition
+### direction/recipient (towards) § Preposition
 
 **Verb**: -
 

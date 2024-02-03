@@ -1,12 +1,10 @@
 ---
 id: win
 title: win
-hoverText: context marker (as for/given)
+hoverText: context marker (as for/given) § Preposition
 ---
 
-### context marker (as for/given)
-
-**Part of Speech**: Preposition
+### context marker (as for/given) § Preposition
 
 **Verb**: -
 

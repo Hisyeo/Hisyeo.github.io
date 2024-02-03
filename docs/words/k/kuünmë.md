@@ -1,12 +1,10 @@
 ---
 id: kuünmë
 title: kuünmë
-hoverText: technology
+hoverText: technology § Noun
 ---
 
-### technology
-
-**Part of Speech**: Noun
+### technology § Noun
 
 **Verb**: to be a technology
 

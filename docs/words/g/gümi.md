@@ -1,12 +1,10 @@
 ---
 id: gümi
 title: gümi
-hoverText: rubber
+hoverText: rubber § Noun
 ---
 
-### rubber
-
-**Part of Speech**: Noun
+### rubber § Noun
 
 **Verb**: to be (a) rubber
 

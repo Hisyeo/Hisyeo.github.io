@@ -1,12 +1,10 @@
 ---
 id: vöyö
 title: vöyö
-hoverText: river
+hoverText: river § Noun
 ---
 
-### river
-
-**Part of Speech**: Noun
+### river § Noun
 
 **Verb**: to be a river
 

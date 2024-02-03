@@ -1,12 +1,10 @@
 ---
 id: hünsüon
 title: hünsüon
-hoverText: partner
+hoverText: partner § Noun
 ---
 
-### partner
-
-**Part of Speech**: Noun
+### partner § Noun
 
 **Verb**: to be a partner
 

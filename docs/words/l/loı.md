@@ -1,12 +1,10 @@
 ---
 id: loı
 title: loı
-hoverText: it/they
+hoverText: it/they § Pronoun
 ---
 
-### it/they
-
-**Part of Speech**: Pronoun
+### it/they § Pronoun
 
 **Verb**: to be them
 

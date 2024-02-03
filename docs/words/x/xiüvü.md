@@ -1,12 +1,10 @@
 ---
 id: xiüvü
 title: xiüvü
-hoverText: to repair (repairable entity)
+hoverText: to repair (repairable entity) § Verb
 ---
 
-### to repair (repairable entity)
-
-**Part of Speech**: Verb
+### to repair (repairable entity) § Verb
 
 **Verb**: to repair/restore
 

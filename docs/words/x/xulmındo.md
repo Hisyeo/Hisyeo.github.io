@@ -1,12 +1,10 @@
 ---
 id: xulmındo
 title: xulmındo
-hoverText: ashamed
+hoverText: ashamed § Modifier
 ---
 
-### ashamed
-
-**Part of Speech**: Modifier
+### ashamed § Modifier
 
 **Verb**: to be ashamed/embarrassed
 

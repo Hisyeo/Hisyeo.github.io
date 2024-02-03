@@ -1,12 +1,10 @@
 ---
 id: sëdu
 title: sëdu
-hoverText: station/garage
+hoverText: station/garage § Noun
 ---
 
-### station/garage
-
-**Part of Speech**: Noun
+### station/garage § Noun
 
 **Verb**: to be a station/garage
 

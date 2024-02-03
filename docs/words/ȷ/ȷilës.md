@@ -1,12 +1,10 @@
 ---
 id: ȷilës
 title: ȷilës
-hoverText: deep
+hoverText: deep § Modifier
 ---
 
-### deep
-
-**Part of Speech**: Modifier
+### deep § Modifier
 
 **Verb**: to be deep
 

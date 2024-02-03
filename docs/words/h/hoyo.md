@@ -1,12 +1,10 @@
 ---
 id: hoyo
 title: hoyo
-hoverText: alive
+hoverText: alive § Modifier
 ---
 
-### alive
-
-**Part of Speech**: Modifier
+### alive § Modifier
 
 **Verb**: to be alive
 

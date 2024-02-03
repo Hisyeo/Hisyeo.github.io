@@ -1,12 +1,10 @@
 ---
 id: homüs
 title: homüs
-hoverText: quiet
+hoverText: quiet § Modifier
 ---
 
-### quiet
-
-**Part of Speech**: Modifier
+### quiet § Modifier
 
 **Verb**: to be quiet
 

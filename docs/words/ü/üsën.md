@@ -1,12 +1,10 @@
 ---
 id: üsën
 title: üsën
-hoverText: year
+hoverText: year § Noun
 ---
 
-### year
-
-**Part of Speech**: Noun
+### year § Noun
 
 **Verb**: to be a year
 

@@ -1,12 +1,10 @@
 ---
 id: vüus
 title: vüus
-hoverText: wax
+hoverText: wax § Noun
 ---
 
-### wax
-
-**Part of Speech**: Noun
+### wax § Noun
 
 **Verb**: to be a wax
 

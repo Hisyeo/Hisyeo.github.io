@@ -1,12 +1,10 @@
 ---
 id: otıkon
 title: otıkon
-hoverText: excess
+hoverText: excess § Quantity
 ---
 
-### excess
-
-**Part of Speech**: Quantity
+### excess § Quantity
 
 **Verb**: to be excessive/too much/abundant
 

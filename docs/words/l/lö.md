@@ -1,12 +1,10 @@
 ---
 id: lö
 title: lö
-hoverText: moving
+hoverText: moving § Modifier
 ---
 
-### moving
-
-**Part of Speech**: Modifier
+### moving § Modifier
 
 **Verb**: to be moving/to go
 

@@ -1,12 +1,10 @@
 ---
 id: tönkö
 title: tönkö
-hoverText: hurting/suffering
+hoverText: hurting/suffering § Modifier
 ---
 
-### hurting/suffering
-
-**Part of Speech**: Modifier
+### hurting/suffering § Modifier
 
 **Verb**: to be hurting/suffering
 

@@ -1,12 +1,10 @@
 ---
 id: wipolo
 title: wipolo
-hoverText: flag
+hoverText: flag § Noun
 ---
 
-### flag
-
-**Part of Speech**: Noun
+### flag § Noun
 
 **Verb**: to be a flag/banner
 

@@ -1,12 +1,10 @@
 ---
 id: müësi
 title: müësi
-hoverText: moon
+hoverText: moon § Noun
 ---
 
-### moon
-
-**Part of Speech**: Noun
+### moon § Noun
 
 **Verb**: to be a moon
 

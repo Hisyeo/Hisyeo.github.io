@@ -1,12 +1,10 @@
 ---
 id: münzü
 title: münzü
-hoverText: tart
+hoverText: tart § Modifier
 ---
 
-### tart
-
-**Part of Speech**: Modifier
+### tart § Modifier
 
 **Verb**: to be tart/tangy
 

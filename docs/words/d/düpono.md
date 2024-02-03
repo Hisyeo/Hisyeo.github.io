@@ -1,12 +1,10 @@
 ---
 id: düpono
 title: düpono
-hoverText: to immerse (immersible entity)
+hoverText: to immerse (immersible entity) § Verb
 ---
 
-### to immerse (immersible entity)
-
-**Part of Speech**: Verb
+### to immerse (immersible entity) § Verb
 
 **Verb**: to immerse/submerge
 

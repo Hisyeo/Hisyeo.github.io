@@ -1,12 +1,10 @@
 ---
 id: zöt
 title: zöt
-hoverText: thick
+hoverText: thick § Modifier
 ---
 
-### thick
-
-**Part of Speech**: Modifier
+### thick § Modifier
 
 **Verb**: to be thick
 

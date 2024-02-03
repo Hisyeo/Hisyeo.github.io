@@ -1,12 +1,10 @@
 ---
 id: gelmıs
 title: gelmıs
-hoverText: stretched
+hoverText: stretched § Modifier
 ---
 
-### stretched
-
-**Part of Speech**: Modifier
+### stretched § Modifier
 
 **Verb**: to be stretched
 

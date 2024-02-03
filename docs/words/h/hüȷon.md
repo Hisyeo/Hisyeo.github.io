@@ -1,12 +1,10 @@
 ---
 id: hüȷon
 title: hüȷon
-hoverText: rain
+hoverText: rain § Noun
 ---
 
-### rain
-
-**Part of Speech**: Noun
+### rain § Noun
 
 **Verb**: to be rain
 

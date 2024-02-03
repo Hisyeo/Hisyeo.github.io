@@ -1,12 +1,10 @@
 ---
 id: köndodü
 title: köndodü
-hoverText: to celebrate (a party)
+hoverText: to celebrate (a party) § Verb
 ---
 
-### to celebrate (a party)
-
-**Part of Speech**: Verb
+### to celebrate (a party) § Verb
 
 **Verb**: to celebrate
 

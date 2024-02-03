@@ -1,12 +1,10 @@
 ---
 id: vonxin
 title: vonxin
-hoverText: square/rectangle
+hoverText: square/rectangle § Noun
 ---
 
-### square/rectangle
-
-**Part of Speech**: Noun
+### square/rectangle § Noun
 
 **Verb**: to be a square/rectangle
 

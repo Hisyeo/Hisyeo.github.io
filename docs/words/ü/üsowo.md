@@ -1,12 +1,10 @@
 ---
 id: üsowo
 title: üsowo
-hoverText: balanced
+hoverText: balanced § Modifier
 ---
 
-### balanced
-
-**Part of Speech**: Modifier
+### balanced § Modifier
 
 **Verb**: to be balanced/fair
 

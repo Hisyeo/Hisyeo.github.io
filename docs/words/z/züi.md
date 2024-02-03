@@ -1,12 +1,10 @@
 ---
 id: züi
 title: züi
-hoverText: rodent
+hoverText: rodent § Noun
 ---
 
-### rodent
-
-**Part of Speech**: Noun
+### rodent § Noun
 
 **Verb**: to be a mouse/rat/rodent
 

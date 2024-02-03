@@ -1,12 +1,10 @@
 ---
 id: dumoko
 title: dumoko
-hoverText: explosion/blast
+hoverText: explosion/blast § Noun
 ---
 
-### explosion/blast
-
-**Part of Speech**: Noun
+### explosion/blast § Noun
 
 **Verb**: to be an explosion/blast
 

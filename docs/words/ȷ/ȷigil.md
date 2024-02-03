@@ -1,12 +1,10 @@
 ---
 id: ȷigil
 title: ȷigil
-hoverText: falling
+hoverText: falling § Modifier
 ---
 
-### falling
-
-**Part of Speech**: Modifier
+### falling § Modifier
 
 **Verb**: to be falling/sinking
 

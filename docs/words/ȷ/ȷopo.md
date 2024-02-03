@@ -1,12 +1,10 @@
 ---
 id: ȷopo
 title: ȷopo
-hoverText: shoulder
+hoverText: shoulder § Noun
 ---
 
-### shoulder
-
-**Part of Speech**: Noun
+### shoulder § Noun
 
 **Verb**: to be a shoulder
 

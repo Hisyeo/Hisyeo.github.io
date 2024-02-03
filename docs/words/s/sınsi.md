@@ -1,12 +1,10 @@
 ---
 id: sınsi
 title: sınsi
-hoverText: town/city
+hoverText: town/city § Noun
 ---
 
-### town/city
-
-**Part of Speech**: Noun
+### town/city § Noun
 
 **Verb**: to be a town/city
 

@@ -1,12 +1,10 @@
 ---
 id: sunyotni
 title: sunyotni
-hoverText: interested/amused
+hoverText: interested/amused § Modifier
 ---
 
-### interested/amused
-
-**Part of Speech**: Modifier
+### interested/amused § Modifier
 
 **Verb**: to be interested/amused
 

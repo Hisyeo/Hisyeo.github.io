@@ -1,12 +1,10 @@
 ---
 id: wopi
 title: wopi
-hoverText: island
+hoverText: island § Noun
 ---
 
-### island
-
-**Part of Speech**: Noun
+### island § Noun
 
 **Verb**: to be an island
 

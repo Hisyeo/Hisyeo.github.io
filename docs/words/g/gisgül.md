@@ -1,12 +1,10 @@
 ---
 id: gisgül
 title: gisgül
-hoverText: step/rung
+hoverText: step/rung § Noun
 ---
 
-### step/rung
-
-**Part of Speech**: Noun
+### step/rung § Noun
 
 **Verb**: to be a step/rung/pedal
 

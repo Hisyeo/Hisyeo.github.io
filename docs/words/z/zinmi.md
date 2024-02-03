@@ -1,12 +1,10 @@
 ---
 id: zinmi
 title: zinmi
-hoverText: precise/specific
+hoverText: precise/specific § Modifier
 ---
 
-### precise/specific
-
-**Part of Speech**: Modifier
+### precise/specific § Modifier
 
 **Verb**: to be precise/specific
 

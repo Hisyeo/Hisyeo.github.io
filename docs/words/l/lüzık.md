@@ -1,12 +1,10 @@
 ---
 id: lüzık
 title: lüzık
-hoverText: slippery
+hoverText: slippery § Modifier
 ---
 
-### slippery
-
-**Part of Speech**: Modifier
+### slippery § Modifier
 
 **Verb**: to be slippery
 

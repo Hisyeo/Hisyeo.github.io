@@ -1,12 +1,10 @@
 ---
 id: kiösö
 title: kiösö
-hoverText: athletic
+hoverText: athletic § Modifier
 ---
 
-### athletic
-
-**Part of Speech**: Modifier
+### athletic § Modifier
 
 **Verb**: to be athletic
 

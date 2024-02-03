@@ -1,12 +1,10 @@
 ---
 id: künpi
 title: künpi
-hoverText: scene/stage
+hoverText: scene/stage § Noun
 ---
 
-### scene/stage
-
-**Part of Speech**: Noun
+### scene/stage § Noun
 
 **Verb**: to be a scene/stage
 

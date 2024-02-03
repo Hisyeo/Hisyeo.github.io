@@ -1,12 +1,10 @@
 ---
 id: münzuti
 title: münzuti
-hoverText: to release/free/drop/let go (releasable entity)
+hoverText: to release/free/drop/let go (releasable entity) § Verb
 ---
 
-### to release/free/drop/let go (releasable entity)
-
-**Part of Speech**: Verb
+### to release/free/drop/let go (releasable entity) § Verb
 
 **Verb**: to release/free/drop/let go
 

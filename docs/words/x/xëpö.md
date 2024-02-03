@@ -1,12 +1,10 @@
 ---
 id: xëpö
 title: xëpö
-hoverText: yellow
+hoverText: yellow § Modifier
 ---
 
-### yellow
-
-**Part of Speech**: Modifier
+### yellow § Modifier
 
 **Verb**: to be yellow
 

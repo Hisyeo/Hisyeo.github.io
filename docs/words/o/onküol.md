@@ -1,12 +1,10 @@
 ---
 id: onküol
 title: onküol
-hoverText: to hug (huggable entity)
+hoverText: to hug (huggable entity) § Verb
 ---
 
-### to hug (huggable entity)
-
-**Part of Speech**: Verb
+### to hug (huggable entity) § Verb
 
 **Verb**: to hug/embrace
 

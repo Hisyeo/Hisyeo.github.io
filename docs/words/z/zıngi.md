@@ -1,12 +1,10 @@
 ---
 id: zıngi
 title: zıngi
-hoverText: electricity
+hoverText: electricity § Noun
 ---
 
-### electricity
-
-**Part of Speech**: Noun
+### electricity § Noun
 
 **Verb**: to be electricity
 

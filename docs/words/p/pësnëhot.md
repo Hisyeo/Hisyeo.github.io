@@ -1,12 +1,10 @@
 ---
 id: pësnëhot
 title: pësnëhot
-hoverText: to suggest (a suggestion)
+hoverText: to suggest (a suggestion) § Verb
 ---
 
-### to suggest (a suggestion)
-
-**Part of Speech**: Verb
+### to suggest (a suggestion) § Verb
 
 **Verb**: to suggest/propose
 

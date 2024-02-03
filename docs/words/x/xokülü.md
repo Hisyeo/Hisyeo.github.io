@@ -1,12 +1,10 @@
 ---
 id: xokülü
 title: xokülü
-hoverText: to invite (inviteable entity)
+hoverText: to invite (inviteable entity) § Verb
 ---
 
-### to invite (inviteable entity)
-
-**Part of Speech**: Verb
+### to invite (inviteable entity) § Verb
 
 **Verb**: to invite/call
 

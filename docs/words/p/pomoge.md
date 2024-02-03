@@ -1,12 +1,10 @@
 ---
 id: pomoge
 title: pomoge
-hoverText: prone
+hoverText: prone § Modifier
 ---
 
-### prone
-
-**Part of Speech**: Modifier
+### prone § Modifier
 
 **Verb**: to be prone/prostrate
 

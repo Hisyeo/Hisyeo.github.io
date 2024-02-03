@@ -1,12 +1,10 @@
 ---
 id: könën
 title: könën
-hoverText: possible/likely
+hoverText: possible/likely § Modifier
 ---
 
-### possible/likely
-
-**Part of Speech**: Modifier
+### possible/likely § Modifier
 
 **Verb**: to be possible/likely
 

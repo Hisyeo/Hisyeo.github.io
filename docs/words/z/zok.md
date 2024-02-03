@@ -1,12 +1,10 @@
 ---
 id: zok
 title: zok
-hoverText: departing
+hoverText: departing § Modifier
 ---
 
-### departing
-
-**Part of Speech**: Modifier
+### departing § Modifier
 
 **Verb**: to be departing/leaving
 

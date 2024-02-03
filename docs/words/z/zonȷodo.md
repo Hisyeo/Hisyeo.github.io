@@ -1,12 +1,10 @@
 ---
 id: zonȷodo
 title: zonȷodo
-hoverText: asleep
+hoverText: asleep § Modifier
 ---
 
-### asleep
-
-**Part of Speech**: Modifier
+### asleep § Modifier
 
 **Verb**: to be asleep
 

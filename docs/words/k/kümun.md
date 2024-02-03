@@ -1,12 +1,10 @@
 ---
 id: kümun
 title: kümun
-hoverText: hole
+hoverText: hole § Noun
 ---
 
-### hole
-
-**Part of Speech**: Noun
+### hole § Noun
 
 **Verb**: to be a hole/opening
 

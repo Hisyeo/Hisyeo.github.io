@@ -1,12 +1,10 @@
 ---
 id: vixës
 title: vixës
-hoverText: special/unique
+hoverText: special/unique § Modifier
 ---
 
-### special/unique
-
-**Part of Speech**: Modifier
+### special/unique § Modifier
 
 **Verb**: to be special/unique
 

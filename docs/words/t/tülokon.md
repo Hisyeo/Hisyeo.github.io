@@ -1,12 +1,10 @@
 ---
 id: tülokon
 title: tülokon
-hoverText: to adjudge (judgement)
+hoverText: to adjudge (judgement) § Verb
 ---
 
-### to adjudge (judgement)
-
-**Part of Speech**: Verb
+### to adjudge (judgement) § Verb
 
 **Verb**: to adjudge/condemn
 

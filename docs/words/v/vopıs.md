@@ -1,12 +1,10 @@
 ---
 id: vopıs
 title: vopıs
-hoverText: to record (data/a recording)
+hoverText: to record (data/a recording) § Verb
 ---
 
-### to record (data/a recording)
-
-**Part of Speech**: Verb
+### to record (data/a recording) § Verb
 
 **Verb**: to record
 

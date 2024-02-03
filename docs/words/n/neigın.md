@@ -1,12 +1,10 @@
 ---
 id: neigın
 title: neigın
-hoverText: tendency/inclination
+hoverText: tendency/inclination § Noun
 ---
 
-### tendency/inclination
-
-**Part of Speech**: Noun
+### tendency/inclination § Noun
 
 **Verb**: to be a tendency/inclination
 

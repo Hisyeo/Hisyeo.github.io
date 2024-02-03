@@ -1,12 +1,10 @@
 ---
 id: xüxohul
 title: xüxohul
-hoverText: hell
+hoverText: hell § Noun
 ---
 
-### hell
-
-**Part of Speech**: Noun
+### hell § Noun
 
 **Verb**: to be hell
 

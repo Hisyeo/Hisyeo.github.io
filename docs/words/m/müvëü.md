@@ -1,12 +1,10 @@
 ---
 id: müvëü
 title: müvëü
-hoverText: clean
+hoverText: clean § Modifier
 ---
 
-### clean
-
-**Part of Speech**: Modifier
+### clean § Modifier
 
 **Verb**: to be clean
 

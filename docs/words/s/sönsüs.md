@@ -1,12 +1,10 @@
 ---
 id: sönsüs
 title: sönsüs
-hoverText: endless/infinite
+hoverText: endless/infinite § Modifier
 ---
 
-### endless/infinite
-
-**Part of Speech**: Modifier
+### endless/infinite § Modifier
 
 **Verb**: to be endless/infinite
 

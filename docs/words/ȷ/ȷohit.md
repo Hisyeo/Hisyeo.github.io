@@ -1,12 +1,10 @@
 ---
 id: ȷohit
 title: ȷohit
-hoverText: to sew (sewable entity)
+hoverText: to sew (sewable entity) § Verb
 ---
 
-### to sew (sewable entity)
-
-**Part of Speech**: Verb
+### to sew (sewable entity) § Verb
 
 **Verb**: to sew/stitch
 

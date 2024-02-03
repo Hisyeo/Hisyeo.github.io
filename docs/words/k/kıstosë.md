@@ -1,12 +1,10 @@
 ---
 id: kıstosë
 title: kıstosë
-hoverText: crustacean
+hoverText: crustacean § Noun
 ---
 
-### crustacean
-
-**Part of Speech**: Noun
+### crustacean § Noun
 
 **Verb**: to be a crustacian
 

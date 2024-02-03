@@ -1,12 +1,10 @@
 ---
 id: müxi
 title: müxi
-hoverText: arthropod/bug
+hoverText: arthropod/bug § Noun
 ---
 
-### arthropod/bug
-
-**Part of Speech**: Noun
+### arthropod/bug § Noun
 
 **Verb**: to be a bug/insect/arthropod
 

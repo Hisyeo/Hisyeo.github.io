@@ -1,12 +1,10 @@
 ---
 id: tüko
 title: tüko
-hoverText: interrupted
+hoverText: interrupted § Modifier
 ---
 
-### interrupted
-
-**Part of Speech**: Modifier
+### interrupted § Modifier
 
 **Verb**: to be interrupted
 

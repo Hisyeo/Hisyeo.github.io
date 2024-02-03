@@ -1,12 +1,10 @@
 ---
 id: mulö
 title: mulö
-hoverText: up
+hoverText: up § Noun
 ---
 
-### up
-
-**Part of Speech**: Noun
+### up § Noun
 
 **Verb**: to be the top/above region
 

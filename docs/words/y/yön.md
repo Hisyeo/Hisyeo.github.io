@@ -1,12 +1,10 @@
 ---
 id: yön
 title: yön
-hoverText: to use (a tool)
+hoverText: to use (a tool) § Verb
 ---
 
-### to use (a tool)
-
-**Part of Speech**: Verb
+### to use (a tool) § Verb
 
 **Verb**: to use
 

@@ -1,12 +1,10 @@
 ---
 id: hiskünzo
 title: hiskünzo
-hoverText: language
+hoverText: language § Noun
 ---
 
-### language
-
-**Part of Speech**: Noun
+### language § Noun
 
 **Verb**: to be a language
 

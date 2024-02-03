@@ -1,12 +1,10 @@
 ---
 id: güso
 title: güso
-hoverText: angry
+hoverText: angry § Modifier
 ---
 
-### angry
-
-**Part of Speech**: Modifier
+### angry § Modifier
 
 **Verb**: to be angry
 

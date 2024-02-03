@@ -1,12 +1,10 @@
 ---
 id: kiskö
 title: kiskö
-hoverText: rail/rack/bar
+hoverText: rail/rack/bar § Noun
 ---
 
-### rail/rack/bar
-
-**Part of Speech**: Noun
+### rail/rack/bar § Noun
 
 **Verb**: to be a rail/rack/bar
 

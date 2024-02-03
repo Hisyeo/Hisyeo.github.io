@@ -1,12 +1,10 @@
 ---
 id: volo
 title: volo
-hoverText: atom
+hoverText: atom § Noun
 ---
 
-### atom
-
-**Part of Speech**: Noun
+### atom § Noun
 
 **Verb**: to be a particle/atom
 

@@ -1,12 +1,10 @@
 ---
 id: dönüxın
 title: dönüxın
-hoverText: conversion
+hoverText: conversion § Noun
 ---
 
-### conversion
-
-**Part of Speech**: Noun
+### conversion § Noun
 
 **Verb**: to be a conversion/transformation
 

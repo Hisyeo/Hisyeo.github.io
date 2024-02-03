@@ -1,12 +1,10 @@
 ---
 id: öȷil
 title: öȷil
-hoverText: nut
+hoverText: nut § Noun
 ---
 
-### nut
-
-**Part of Speech**: Noun
+### nut § Noun
 
 **Verb**: to be a nut
 

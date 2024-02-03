@@ -1,12 +1,10 @@
 ---
 id: yëllë
 title: yëllë
-hoverText: problem
+hoverText: problem § Noun
 ---
 
-### problem
-
-**Part of Speech**: Noun
+### problem § Noun
 
 **Verb**: to be a problem/affair
 

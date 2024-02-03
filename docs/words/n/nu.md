@@ -1,12 +1,10 @@
 ---
 id: nu
 title: nu
-hoverText: curiosity clause ender (what about)
+hoverText: curiosity clause ender (what about) § Grammar
 ---
 
-### curiosity clause ender (what about)
-
-**Part of Speech**: Grammar
+### curiosity clause ender (what about) § Grammar
 
 **Verb**: -
 

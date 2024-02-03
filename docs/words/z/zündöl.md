@@ -1,12 +1,10 @@
 ---
 id: zündöl
 title: zündöl
-hoverText: collision
+hoverText: collision § Noun
 ---
 
-### collision
-
-**Part of Speech**: Noun
+### collision § Noun
 
 **Verb**: to be an impact/crash/collision
 

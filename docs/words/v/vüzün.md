@@ -1,12 +1,10 @@
 ---
 id: vüzün
 title: vüzün
-hoverText: to obey (a rule)
+hoverText: to obey (a rule) § Verb
 ---
 
-### to obey (a rule)
-
-**Part of Speech**: Verb
+### to obey (a rule) § Verb
 
 **Verb**: to obey
 

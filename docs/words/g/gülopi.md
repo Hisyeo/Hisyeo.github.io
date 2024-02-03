@@ -1,12 +1,10 @@
 ---
 id: gülopi
 title: gülopi
-hoverText: pink
+hoverText: pink § Modifier
 ---
 
-### pink
-
-**Part of Speech**: Modifier
+### pink § Modifier
 
 **Verb**: to be pink
 

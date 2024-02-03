@@ -1,12 +1,10 @@
 ---
 id: sëkiton
 title: sëkiton
-hoverText: coal/cinder
+hoverText: coal/cinder § Noun
 ---
 
-### coal/cinder
-
-**Part of Speech**: Noun
+### coal/cinder § Noun
 
 **Verb**: to be a coal/cinder
 

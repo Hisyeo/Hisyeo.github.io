@@ -1,12 +1,10 @@
 ---
 id: onkono
 title: onkono
-hoverText: to estimate/guess (an estimation/guess)
+hoverText: to estimate/guess (an estimation/guess) § Verb
 ---
 
-### to estimate/guess (an estimation/guess)
-
-**Part of Speech**: Verb
+### to estimate/guess (an estimation/guess) § Verb
 
 **Verb**: to estimate/guess
 

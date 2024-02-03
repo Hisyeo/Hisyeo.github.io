@@ -1,12 +1,10 @@
 ---
 id: ȷonüpi
 title: ȷonüpi
-hoverText: southern
+hoverText: southern § Modifier
 ---
 
-### southern
-
-**Part of Speech**: Modifier
+### southern § Modifier
 
 **Verb**: to be southern
 

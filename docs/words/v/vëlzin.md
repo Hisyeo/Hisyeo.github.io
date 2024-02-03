@@ -1,12 +1,10 @@
 ---
 id: vëlzin
 title: vëlzin
-hoverText: last/latest
+hoverText: last/latest § Quantity
 ---
 
-### last/latest
-
-**Part of Speech**: Quantity
+### last/latest § Quantity
 
 **Verb**: to be last
 

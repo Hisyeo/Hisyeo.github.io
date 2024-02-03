@@ -1,12 +1,10 @@
 ---
 id: gıtno
 title: gıtno
-hoverText: intermediate marker (between)
+hoverText: intermediate marker (between) § Preposition
 ---
 
-### intermediate marker (between)
-
-**Part of Speech**: Preposition
+### intermediate marker (between) § Preposition
 
 **Verb**: -
 

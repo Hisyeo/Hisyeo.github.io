@@ -1,12 +1,10 @@
 ---
 id: lukil
 title: lukil
-hoverText: line
+hoverText: line § Noun
 ---
 
-### line
-
-**Part of Speech**: Noun
+### line § Noun
 
 **Verb**: to be a line/edge
 

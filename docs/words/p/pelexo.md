@@ -1,12 +1,10 @@
 ---
 id: pelexo
 title: pelexo
-hoverText: to mark (a target)
+hoverText: to mark (a target) § Verb
 ---
 
-### to mark (a target)
-
-**Part of Speech**: Verb
+### to mark (a target) § Verb
 
 **Verb**: to mark/target
 

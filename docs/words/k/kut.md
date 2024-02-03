@@ -1,12 +1,10 @@
 ---
 id: kut
 title: kut
-hoverText: 01 one
+hoverText: 01 one § Quantity
 ---
 
-### 01 one
-
-**Part of Speech**: Quantity
+### 01 one § Quantity
 
 **Verb**: to be one
 

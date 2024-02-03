@@ -1,12 +1,10 @@
 ---
 id: lötven
 title: lötven
-hoverText: politeness clause ender
+hoverText: politeness clause ender § Grammar
 ---
 
-### politeness clause ender
-
-**Part of Speech**: Grammar
+### politeness clause ender § Grammar
 
 **Verb**: -
 

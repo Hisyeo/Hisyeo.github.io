@@ -1,12 +1,10 @@
 ---
 id: hüdol
 title: hüdol
-hoverText: false
+hoverText: false § Modifier
 ---
 
-### false
-
-**Part of Speech**: Modifier
+### false § Modifier
 
 **Verb**: to be false/fake
 

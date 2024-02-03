@@ -1,12 +1,10 @@
 ---
 id: ok
 title: ok
-hoverText: emphatic enclitic
+hoverText: emphatic enclitic § Grammar
 ---
 
-### emphatic enclitic
-
-**Part of Speech**: Grammar
+### emphatic enclitic § Grammar
 
 **Verb**: -
 

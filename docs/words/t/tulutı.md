@@ -1,12 +1,10 @@
 ---
 id: tulutı
 title: tulutı
-hoverText: to traverse (a traversable entity)
+hoverText: to traverse (a traversable entity) § Verb
 ---
 
-### to traverse (a traversable entity)
-
-**Part of Speech**: Verb
+### to traverse (a traversable entity) § Verb
 
 **Verb**: to passthrough/cross/traverse
 

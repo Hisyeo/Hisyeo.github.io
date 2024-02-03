@@ -1,12 +1,10 @@
 ---
 id: podili
 title: podili
-hoverText: changing/becoming
+hoverText: changing/becoming § Modifier
 ---
 
-### changing/becoming
-
-**Part of Speech**: Modifier
+### changing/becoming § Modifier
 
 **Verb**: to be changing/becoming
 

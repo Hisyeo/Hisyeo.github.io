@@ -1,12 +1,10 @@
 ---
 id: süwit
 title: süwit
-hoverText: sweet
+hoverText: sweet § Modifier
 ---
 
-### sweet
-
-**Part of Speech**: Modifier
+### sweet § Modifier
 
 **Verb**: to be sweet
 

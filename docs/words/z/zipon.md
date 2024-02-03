@@ -1,12 +1,10 @@
 ---
 id: zipon
 title: zipon
-hoverText: fat/grease
+hoverText: fat/grease § Noun
 ---
 
-### fat/grease
-
-**Part of Speech**: Noun
+### fat/grease § Noun
 
 **Verb**: to be a fat/grease
 

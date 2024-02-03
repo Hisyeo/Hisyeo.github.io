@@ -1,12 +1,10 @@
 ---
 id: popöun
 title: popöun
-hoverText: system
+hoverText: system § Noun
 ---
 
-### system
-
-**Part of Speech**: Noun
+### system § Noun
 
 **Verb**: to be a system
 

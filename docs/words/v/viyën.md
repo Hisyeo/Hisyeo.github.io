@@ -1,12 +1,10 @@
 ---
 id: viyën
 title: viyën
-hoverText: 100 hundred
+hoverText: 100 hundred § Quantity
 ---
 
-### 100 hundred
-
-**Part of Speech**: Quantity
+### 100 hundred § Quantity
 
 **Verb**: to be a hundred
 

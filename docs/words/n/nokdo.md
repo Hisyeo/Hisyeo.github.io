@@ -1,12 +1,10 @@
 ---
 id: nokdo
 title: nokdo
-hoverText: old
+hoverText: old § Modifier
 ---
 
-### old
-
-**Part of Speech**: Modifier
+### old § Modifier
 
 **Verb**: to be old
 

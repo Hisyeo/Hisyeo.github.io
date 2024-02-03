@@ -1,12 +1,10 @@
 ---
 id: nëxödi
 title: nëxödi
-hoverText: ethnic
+hoverText: ethnic § Modifier
 ---
 
-### ethnic
-
-**Part of Speech**: Modifier
+### ethnic § Modifier
 
 **Verb**: to be ethnic/racial
 

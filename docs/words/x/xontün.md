@@ -1,12 +1,10 @@
 ---
 id: xontün
 title: xontün
-hoverText: to provoke (provocable entity)
+hoverText: to provoke (provocable entity) § Verb
 ---
 
-### to provoke (provocable entity)
-
-**Part of Speech**: Verb
+### to provoke (provocable entity) § Verb
 
 **Verb**: to provoke/harrass
 

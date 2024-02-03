@@ -1,12 +1,10 @@
 ---
 id: süpöl
 title: süpöl
-hoverText: fertile/productive
+hoverText: fertile/productive § Modifier
 ---
 
-### fertile/productive
-
-**Part of Speech**: Modifier
+### fertile/productive § Modifier
 
 **Verb**: to be fertile/productive
 

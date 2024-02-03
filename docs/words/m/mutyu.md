@@ -1,12 +1,10 @@
 ---
 id: mutyu
 title: mutyu
-hoverText: middle
+hoverText: middle § Noun
 ---
 
-### middle
-
-**Part of Speech**: Noun
+### middle § Noun
 
 **Verb**: to be the middle/center
 

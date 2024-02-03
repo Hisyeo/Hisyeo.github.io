@@ -1,12 +1,10 @@
 ---
 id: moȷikö
 title: moȷikö
-hoverText: magical
+hoverText: magical § Modifier
 ---
 
-### magical
-
-**Part of Speech**: Modifier
+### magical § Modifier
 
 **Verb**: to be magical
 

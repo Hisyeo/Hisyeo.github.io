@@ -1,12 +1,10 @@
 ---
 id: hükün
 title: hükün
-hoverText: to order (a command)
+hoverText: to order (a command) § Verb
 ---
 
-### to order (a command)
-
-**Part of Speech**: Verb
+### to order (a command) § Verb
 
 **Verb**: to order/command
 

@@ -1,12 +1,10 @@
 ---
 id: ȷünlo
 title: ȷünlo
-hoverText: clause/sentence
+hoverText: clause/sentence § Noun
 ---
 
-### clause/sentence
-
-**Part of Speech**: Noun
+### clause/sentence § Noun
 
 **Verb**: to be a clause/sentence
 

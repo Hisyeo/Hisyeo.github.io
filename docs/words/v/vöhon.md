@@ -1,12 +1,10 @@
 ---
 id: vöhon
 title: vöhon
-hoverText: forward
+hoverText: forward § Noun
 ---
 
-### forward
-
-**Part of Speech**: Noun
+### forward § Noun
 
 **Verb**: to be the front/forward region
 

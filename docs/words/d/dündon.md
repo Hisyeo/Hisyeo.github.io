@@ -1,12 +1,10 @@
 ---
 id: dündon
 title: dündon
-hoverText: correct
+hoverText: correct § Modifier
 ---
 
-### correct
-
-**Part of Speech**: Modifier
+### correct § Modifier
 
 **Verb**: to be correct/right/accurate
 

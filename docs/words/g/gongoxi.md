@@ -1,12 +1,10 @@
 ---
 id: gongoxi
 title: gongoxi
-hoverText: alarm
+hoverText: alarm § Noun
 ---
 
-### alarm
-
-**Part of Speech**: Noun
+### alarm § Noun
 
 **Verb**: to be an alarm
 

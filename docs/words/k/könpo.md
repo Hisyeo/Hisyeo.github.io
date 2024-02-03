@@ -1,12 +1,10 @@
 ---
 id: könpo
 title: könpo
-hoverText: shaking
+hoverText: shaking § Modifier
 ---
 
-### shaking
-
-**Part of Speech**: Modifier
+### shaking § Modifier
 
 **Verb**: to be shaking/trembling/vibrating/non-traversally moving
 

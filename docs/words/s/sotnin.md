@@ -1,12 +1,10 @@
 ---
 id: sotnin
 title: sotnin
-hoverText: right
+hoverText: right § Noun
 ---
 
-### right
-
-**Part of Speech**: Noun
+### right § Noun
 
 **Verb**: to be the right (side)
 

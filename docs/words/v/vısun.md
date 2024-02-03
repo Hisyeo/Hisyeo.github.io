@@ -1,12 +1,10 @@
 ---
 id: vısun
 title: vısun
-hoverText: to know (knowledge)
+hoverText: to know (knowledge) § Verb
 ---
 
-### to know (knowledge)
-
-**Part of Speech**: Verb
+### to know (knowledge) § Verb
 
 **Verb**: to know
 

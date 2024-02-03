@@ -1,12 +1,10 @@
 ---
 id: puzono
 title: puzono
-hoverText: to save/rescue (saveable/rescuable entity)
+hoverText: to save/rescue (saveable/rescuable entity) § Verb
 ---
 
-### to save/rescue (saveable/rescuable entity)
-
-**Part of Speech**: Verb
+### to save/rescue (saveable/rescuable entity) § Verb
 
 **Verb**: to save/rescue
 

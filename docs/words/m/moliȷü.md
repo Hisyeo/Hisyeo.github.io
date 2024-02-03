@@ -1,12 +1,10 @@
 ---
 id: moliȷü
 title: moliȷü
-hoverText: and
+hoverText: and § Connector
 ---
 
-### and
-
-**Part of Speech**: Connector
+### and § Connector
 
 **Verb**: -
 

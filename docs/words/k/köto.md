@@ -1,12 +1,10 @@
 ---
 id: köto
 title: köto
-hoverText: to talk (speech)
+hoverText: to talk (speech) § Verb
 ---
 
-### to talk (speech)
-
-**Part of Speech**: Verb
+### to talk (speech) § Verb
 
 **Verb**: to talk/say
 

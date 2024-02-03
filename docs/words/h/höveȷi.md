@@ -1,12 +1,10 @@
 ---
 id: höveȷi
 title: höveȷi
-hoverText: bovine
+hoverText: bovine § Noun
 ---
 
-### bovine
-
-**Part of Speech**: Noun
+### bovine § Noun
 
 **Verb**: to be a cow/bovine
 

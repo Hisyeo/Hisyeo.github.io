@@ -1,12 +1,10 @@
 ---
 id: yök
 title: yök
-hoverText: negatitive endoclitic
+hoverText: negatitive endoclitic § Grammar
 ---
 
-### negatitive endoclitic
-
-**Part of Speech**: Grammar
+### negatitive endoclitic § Grammar
 
 **Verb**: -
 

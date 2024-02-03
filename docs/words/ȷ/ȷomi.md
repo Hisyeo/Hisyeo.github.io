@@ -1,12 +1,10 @@
 ---
 id: ȷomi
 title: ȷomi
-hoverText: society/culture
+hoverText: society/culture § Noun
 ---
 
-### society/culture
-
-**Part of Speech**: Noun
+### society/culture § Noun
 
 **Verb**: to be a society/culture
 

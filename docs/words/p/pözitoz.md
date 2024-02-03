@@ -1,12 +1,10 @@
 ---
 id: pözitoz
 title: pözitoz
-hoverText: to compute (a computation)
+hoverText: to compute (a computation) § Verb
 ---
 
-### to compute (a computation)
-
-**Part of Speech**: Verb
+### to compute (a computation) § Verb
 
 **Verb**: to compute/calculate
 

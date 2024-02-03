@@ -1,12 +1,10 @@
 ---
 id: ünzoi
 title: ünzoi
-hoverText: proud
+hoverText: proud § Modifier
 ---
 
-### proud
-
-**Part of Speech**: Modifier
+### proud § Modifier
 
 **Verb**: to be proud/vane
 

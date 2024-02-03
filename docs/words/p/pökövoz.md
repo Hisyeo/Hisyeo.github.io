@@ -1,12 +1,10 @@
 ---
 id: pökövoz
 title: pökövoz
-hoverText: to block (blockable entity)
+hoverText: to block (blockable entity) § Verb
 ---
 
-### to block (blockable entity)
-
-**Part of Speech**: Verb
+### to block (blockable entity) § Verb
 
 **Verb**: to block/obstruct
 

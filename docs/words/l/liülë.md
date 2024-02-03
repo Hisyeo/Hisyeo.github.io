@@ -1,12 +1,10 @@
 ---
 id: liülë
 title: liülë
-hoverText: laughing
+hoverText: laughing § Modifier
 ---
 
-### laughing
-
-**Part of Speech**: Modifier
+### laughing § Modifier
 
 **Verb**: to be laughing/mirthed
 

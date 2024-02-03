@@ -1,12 +1,10 @@
 ---
 id: opunyun
 title: opunyun
-hoverText: easy
+hoverText: easy § Modifier
 ---
 
-### easy
-
-**Part of Speech**: Modifier
+### easy § Modifier
 
 **Verb**: to be easy
 

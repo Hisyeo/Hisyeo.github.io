@@ -1,12 +1,10 @@
 ---
 id: yünyoü
 title: yünyoü
-hoverText: to have (a possession)
+hoverText: to have (a possession) § Verb
 ---
 
-### to have (a possession)
-
-**Part of Speech**: Verb
+### to have (a possession) § Verb
 
 **Verb**: to have/own/possess
 

@@ -1,12 +1,10 @@
 ---
 id: üz
 title: üz
-hoverText: evidence marker (or so)
+hoverText: evidence marker (or so) § Preposition
 ---
 
-### evidence marker (or so)
-
-**Part of Speech**: Preposition
+### evidence marker (or so) § Preposition
 
 **Verb**: -
 

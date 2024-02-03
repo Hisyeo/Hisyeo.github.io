@@ -1,12 +1,10 @@
 ---
 id: ëtu
 title: ëtu
-hoverText: 08 eight
+hoverText: 08 eight § Quantity
 ---
 
-### 08 eight
-
-**Part of Speech**: Quantity
+### 08 eight § Quantity
 
 **Verb**: to be eight
 

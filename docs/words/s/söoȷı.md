@@ -1,12 +1,10 @@
 ---
 id: söoȷı
 title: söoȷı
-hoverText: wing
+hoverText: wing § Noun
 ---
 
-### wing
-
-**Part of Speech**: Noun
+### wing § Noun
 
 **Verb**: to be a wing
 

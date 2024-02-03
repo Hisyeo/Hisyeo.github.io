@@ -1,12 +1,10 @@
 ---
 id: xiskılo
 title: xiskılo
-hoverText: to vocalize (a vocalization)
+hoverText: to vocalize (a vocalization) § Verb
 ---
 
-### to vocalize (a vocalization)
-
-**Part of Speech**: Verb
+### to vocalize (a vocalization) § Verb
 
 **Verb**: to vocalize/utter
 

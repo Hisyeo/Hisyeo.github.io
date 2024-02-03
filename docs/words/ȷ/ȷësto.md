@@ -1,12 +1,10 @@
 ---
 id: ȷësto
 title: ȷësto
-hoverText: feat/achievement/heroic deed
+hoverText: feat/achievement/heroic deed § Noun
 ---
 
-### feat/achievement/heroic deed
-
-**Part of Speech**: Noun
+### feat/achievement/heroic deed § Noun
 
 **Verb**: to be a feat/achievement/heroic deed
 

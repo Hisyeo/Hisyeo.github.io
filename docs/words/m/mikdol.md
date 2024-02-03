@@ -1,12 +1,10 @@
 ---
 id: mikdol
 title: mikdol
-hoverText: amount
+hoverText: amount § Noun
 ---
 
-### amount
-
-**Part of Speech**: Noun
+### amount § Noun
 
 **Verb**: to be a number/amount
 

@@ -1,12 +1,10 @@
 ---
 id: non
 title: non
-hoverText: movie/show
+hoverText: movie/show § Noun
 ---
 
-### movie/show
-
-**Part of Speech**: Noun
+### movie/show § Noun
 
 **Verb**: to be a movie/film/show/video
 

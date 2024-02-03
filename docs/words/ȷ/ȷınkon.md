@@ -1,12 +1,10 @@
 ---
 id: ȷınkon
 title: ȷınkon
-hoverText: door
+hoverText: door § Noun
 ---
 
-### door
-
-**Part of Speech**: Noun
+### door § Noun
 
 **Verb**: to be a door/gate
 

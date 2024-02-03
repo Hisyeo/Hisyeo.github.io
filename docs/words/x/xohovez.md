@@ -1,12 +1,10 @@
 ---
 id: xohovez
 title: xohovez
-hoverText: jellyfish/hydra/anemone
+hoverText: jellyfish/hydra/anemone § Noun
 ---
 
-### jellyfish/hydra/anemone
-
-**Part of Speech**: Noun
+### jellyfish/hydra/anemone § Noun
 
 **Verb**: to be a jellyfish/hydra/anemone
 

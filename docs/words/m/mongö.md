@@ -1,12 +1,10 @@
 ---
 id: mongö
 title: mongö
-hoverText: sharks/rays
+hoverText: sharks/rays § Noun
 ---
 
-### sharks/rays
-
-**Part of Speech**: Noun
+### sharks/rays § Noun
 
 **Verb**: to be a shark/ray
 

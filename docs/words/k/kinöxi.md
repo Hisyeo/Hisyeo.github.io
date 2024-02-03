@@ -1,12 +1,10 @@
 ---
 id: kinöxi
 title: kinöxi
-hoverText: functional
+hoverText: functional § Modifier
 ---
 
-### functional
-
-**Part of Speech**: Modifier
+### functional § Modifier
 
 **Verb**: to be functional
 

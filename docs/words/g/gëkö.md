@@ -1,12 +1,10 @@
 ---
 id: gëkö
 title: gëkö
-hoverText: soil/dirt
+hoverText: soil/dirt § Noun
 ---
 
-### soil/dirt
-
-**Part of Speech**: Noun
+### soil/dirt § Noun
 
 **Verb**: to be soil/dirt
 

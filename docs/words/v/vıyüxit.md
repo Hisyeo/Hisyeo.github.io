@@ -1,12 +1,10 @@
 ---
 id: vıyüxit
 title: vıyüxit
-hoverText: to employ/exploit (employable/exploitable entity)
+hoverText: to employ/exploit (employable/exploitable entity) § Verb
 ---
 
-### to employ/exploit (employable/exploitable entity)
-
-**Part of Speech**: Verb
+### to employ/exploit (employable/exploitable entity) § Verb
 
 **Verb**: to employ/exploit
 

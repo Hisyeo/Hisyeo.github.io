@@ -1,12 +1,10 @@
 ---
 id: wuto
 title: wuto
-hoverText: month
+hoverText: month § Noun
 ---
 
-### month
-
-**Part of Speech**: Noun
+### month § Noun
 
 **Verb**: to be a month
 

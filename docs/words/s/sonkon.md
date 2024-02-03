@@ -1,12 +1,10 @@
 ---
 id: sonkon
 title: sonkon
-hoverText: important
+hoverText: important § Modifier
 ---
 
-### important
-
-**Part of Speech**: Modifier
+### important § Modifier
 
 **Verb**: to be important/significant
 

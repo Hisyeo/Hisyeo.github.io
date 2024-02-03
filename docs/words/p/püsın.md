@@ -1,12 +1,10 @@
 ---
 id: püsın
 title: püsın
-hoverText: dizzy
+hoverText: dizzy § Modifier
 ---
 
-### dizzy
-
-**Part of Speech**: Modifier
+### dizzy § Modifier
 
 **Verb**: to be dizzy/confused
 

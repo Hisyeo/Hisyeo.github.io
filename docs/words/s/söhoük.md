@@ -1,12 +1,10 @@
 ---
 id: söhoük
 title: söhoük
-hoverText: arithmetic/math
+hoverText: arithmetic/math § Noun
 ---
 
-### arithmetic/math
-
-**Part of Speech**: Noun
+### arithmetic/math § Noun
 
 **Verb**: to be arithmetic/math
 

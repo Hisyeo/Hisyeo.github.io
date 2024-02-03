@@ -1,12 +1,10 @@
 ---
 id: tüwu
 title: tüwu
-hoverText: to do (an action)
+hoverText: to do (an action) § Verb
 ---
 
-### to do (an action)
-
-**Part of Speech**: Verb
+### to do (an action) § Verb
 
 **Verb**: to do/perform/execute/work
 

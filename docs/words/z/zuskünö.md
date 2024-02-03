@@ -1,12 +1,10 @@
 ---
 id: zuskünö
 title: zuskünö
-hoverText: each
+hoverText: each § Pronoun
 ---
 
-### each
-
-**Part of Speech**: Pronoun
+### each § Pronoun
 
 **Verb**: to be each
 

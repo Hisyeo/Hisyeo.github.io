@@ -1,12 +1,10 @@
 ---
 id: sovoün
 title: sovoün
-hoverText: soap
+hoverText: soap § Noun
 ---
 
-### soap
-
-**Part of Speech**: Noun
+### soap § Noun
 
 **Verb**: to be soap
 

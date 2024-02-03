@@ -1,12 +1,10 @@
 ---
 id: öpok
 title: öpok
-hoverText: opaque
+hoverText: opaque § Modifier
 ---
 
-### opaque
-
-**Part of Speech**: Modifier
+### opaque § Modifier
 
 **Verb**: to be opaque
 

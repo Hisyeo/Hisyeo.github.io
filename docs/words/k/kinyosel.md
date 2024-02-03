@@ -1,12 +1,10 @@
 ---
 id: kinyosel
 title: kinyosel
-hoverText: chemical
+hoverText: chemical § Noun
 ---
 
-### chemical
-
-**Part of Speech**: Noun
+### chemical § Noun
 
 **Verb**: to be a chemical
 

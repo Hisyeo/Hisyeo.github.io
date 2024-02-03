@@ -1,12 +1,10 @@
 ---
 id: zülzi
 title: zülzi
-hoverText: trick/scam
+hoverText: trick/scam § Noun
 ---
 
-### trick/scam
-
-**Part of Speech**: Noun
+### trick/scam § Noun
 
 **Verb**: to be a trick/scam
 

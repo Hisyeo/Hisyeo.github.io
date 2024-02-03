@@ -1,12 +1,10 @@
 ---
 id: xowosë
 title: xowosë
-hoverText: happy
+hoverText: happy § Modifier
 ---
 
-### happy
-
-**Part of Speech**: Modifier
+### happy § Modifier
 
 **Verb**: to be happy
 

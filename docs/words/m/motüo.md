@@ -1,12 +1,10 @@
 ---
 id: motüo
 title: motüo
-hoverText: parent
+hoverText: parent § Noun
 ---
 
-### parent
-
-**Part of Speech**: Noun
+### parent § Noun
 
 **Verb**: to be a parent
 

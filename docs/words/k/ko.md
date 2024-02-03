@@ -1,12 +1,10 @@
 ---
 id: ko
 title: ko
-hoverText: interrogative clause ender (yes?)
+hoverText: interrogative clause ender (yes?) § Grammar
 ---
 
-### interrogative clause ender (yes?)
-
-**Part of Speech**: Grammar
+### interrogative clause ender (yes?) § Grammar
 
 **Verb**: -
 

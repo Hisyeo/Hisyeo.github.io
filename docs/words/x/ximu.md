@@ -1,12 +1,10 @@
 ---
 id: ximu
 title: ximu
-hoverText: water
+hoverText: water § Noun
 ---
 
-### water
-
-**Part of Speech**: Noun
+### water § Noun
 
 **Verb**: to be water
 

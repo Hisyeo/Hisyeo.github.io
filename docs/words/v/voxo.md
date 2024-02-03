@@ -1,12 +1,10 @@
 ---
 id: voxo
 title: voxo
-hoverText: mirative clause ender (wow!)
+hoverText: mirative clause ender (wow!) § Grammar
 ---
 
-### mirative clause ender (wow!)
-
-**Part of Speech**: Grammar
+### mirative clause ender (wow!) § Grammar
 
 **Verb**: -
 

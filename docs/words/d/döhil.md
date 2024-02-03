@@ -1,12 +1,10 @@
 ---
 id: döhil
 title: döhil
-hoverText: dirty
+hoverText: dirty § Modifier
 ---
 
-### dirty
-
-**Part of Speech**: Modifier
+### dirty § Modifier
 
 **Verb**: to be dirty/polluted/soiled
 

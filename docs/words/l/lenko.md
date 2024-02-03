@@ -1,12 +1,10 @@
 ---
 id: lenko
 title: lenko
-hoverText: arm
+hoverText: arm § Noun
 ---
 
-### arm
-
-**Part of Speech**: Noun
+### arm § Noun
 
 **Verb**: to be an arm
 

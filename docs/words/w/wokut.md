@@ -1,12 +1,10 @@
 ---
 id: wokut
 title: wokut
-hoverText: time
+hoverText: time § Noun
 ---
 
-### time
-
-**Part of Speech**: Noun
+### time § Noun
 
 **Verb**: to be a time
 

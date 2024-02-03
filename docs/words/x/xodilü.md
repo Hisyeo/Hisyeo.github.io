@@ -1,12 +1,10 @@
 ---
 id: xodilü
 title: xodilü
-hoverText: loose
+hoverText: loose § Modifier
 ---
 
-### loose
-
-**Part of Speech**: Modifier
+### loose § Modifier
 
 **Verb**: to be loose
 

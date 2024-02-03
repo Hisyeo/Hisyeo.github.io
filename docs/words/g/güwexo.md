@@ -1,12 +1,10 @@
 ---
 id: güwexo
 title: güwexo
-hoverText: war
+hoverText: war § Noun
 ---
 
-### war
-
-**Part of Speech**: Noun
+### war § Noun
 
 **Verb**: to be a war
 

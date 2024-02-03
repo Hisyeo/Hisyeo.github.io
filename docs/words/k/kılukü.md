@@ -1,12 +1,10 @@
 ---
 id: kılukü
 title: kılukü
-hoverText: eastern
+hoverText: eastern § Modifier
 ---
 
-### eastern
-
-**Part of Speech**: Modifier
+### eastern § Modifier
 
 **Verb**: to be eastern
 

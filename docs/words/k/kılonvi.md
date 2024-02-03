@@ -1,12 +1,10 @@
 ---
 id: kılonvi
 title: kılonvi
-hoverText: brassica
+hoverText: brassica § Noun
 ---
 
-### brassica
-
-**Part of Speech**: Noun
+### brassica § Noun
 
 **Verb**: to be a brassica
 

@@ -1,12 +1,10 @@
 ---
 id: pilüs
 title: pilüs
-hoverText: victorious
+hoverText: victorious § Modifier
 ---
 
-### victorious
-
-**Part of Speech**: Modifier
+### victorious § Modifier
 
 **Verb**: to be victorious
 

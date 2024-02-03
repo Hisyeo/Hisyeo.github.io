@@ -1,12 +1,10 @@
 ---
 id: dinzi
 title: dinzi
-hoverText: block
+hoverText: block § Noun
 ---
 
-### block
-
-**Part of Speech**: Noun
+### block § Noun
 
 **Verb**: to be a block/brick
 

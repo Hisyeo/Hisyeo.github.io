@@ -1,12 +1,10 @@
 ---
 id: hëvin
 title: hëvin
-hoverText: to understand (a concept)
+hoverText: to understand (a concept) § Verb
 ---
 
-### to understand (a concept)
-
-**Part of Speech**: Verb
+### to understand (a concept) § Verb
 
 **Verb**: to understand
 

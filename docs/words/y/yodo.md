@@ -1,12 +1,10 @@
 ---
 id: yodo
 title: yodo
-hoverText: or
+hoverText: or § Connector
 ---
 
-### or
-
-**Part of Speech**: Connector
+### or § Connector
 
 **Verb**: -
 

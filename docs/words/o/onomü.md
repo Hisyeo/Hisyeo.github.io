@@ -1,12 +1,10 @@
 ---
 id: onomü
 title: onomü
-hoverText: rice
+hoverText: rice § Noun
 ---
 
-### rice
-
-**Part of Speech**: Noun
+### rice § Noun
 
 **Verb**: to be rice
 

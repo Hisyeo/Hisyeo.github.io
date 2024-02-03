@@ -1,12 +1,10 @@
 ---
 id: moxo
 title: moxo
-hoverText: decorative/ornamental
+hoverText: decorative/ornamental § Modifier
 ---
 
-### decorative/ornamental
-
-**Part of Speech**: Modifier
+### decorative/ornamental § Modifier
 
 **Verb**: to be decorative/ornamental
 

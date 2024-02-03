@@ -1,12 +1,10 @@
 ---
 id: ëmë
 title: ëmë
-hoverText: vague/imprecise
+hoverText: vague/imprecise § Modifier
 ---
 
-### vague/imprecise
-
-**Part of Speech**: Modifier
+### vague/imprecise § Modifier
 
 **Verb**: to be vague/imprecise
 

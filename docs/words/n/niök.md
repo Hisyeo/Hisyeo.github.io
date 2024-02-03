@@ -1,12 +1,10 @@
 ---
 id: niök
 title: niök
-hoverText: growing
+hoverText: growing § Modifier
 ---
 
-### growing
-
-**Part of Speech**: Modifier
+### growing § Modifier
 
 **Verb**: to be growing/sprouting
 

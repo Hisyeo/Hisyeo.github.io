@@ -1,12 +1,10 @@
 ---
 id: vunlit
 title: vunlit
-hoverText: split
+hoverText: split § Modifier
 ---
 
-### split
-
-**Part of Speech**: Modifier
+### split § Modifier
 
 **Verb**: to be split/divided
 

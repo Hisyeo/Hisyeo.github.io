@@ -1,12 +1,10 @@
 ---
 id: wëkëso
 title: wëkëso
-hoverText: to invest (investable entity)
+hoverText: to invest (investable entity) § Verb
 ---
 
-### to invest (investable entity)
-
-**Part of Speech**: Verb
+### to invest (investable entity) § Verb
 
 **Verb**: to invest
 

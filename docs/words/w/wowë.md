@@ -1,12 +1,10 @@
 ---
 id: wowë
 title: wowë
-hoverText: foot
+hoverText: foot § Noun
 ---
 
-### foot
-
-**Part of Speech**: Noun
+### foot § Noun
 
 **Verb**: to be a foot
 

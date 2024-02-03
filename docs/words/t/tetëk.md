@@ -1,12 +1,10 @@
 ---
 id: tetëk
 title: tetëk
-hoverText: breast/chest
+hoverText: breast/chest § Noun
 ---
 
-### breast/chest
-
-**Part of Speech**: Noun
+### breast/chest § Noun
 
 **Verb**: to be a breast/chest
 

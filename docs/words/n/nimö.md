@@ -1,12 +1,10 @@
 ---
 id: nimö
 title: nimö
-hoverText: you
+hoverText: you § Pronoun
 ---
 
-### you
-
-**Part of Speech**: Pronoun
+### you § Pronoun
 
 **Verb**: to be you
 

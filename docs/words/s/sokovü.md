@@ -1,12 +1,10 @@
 ---
 id: sokovü
 title: sokovü
-hoverText: floor
+hoverText: floor § Noun
 ---
 
-### floor
-
-**Part of Speech**: Noun
+### floor § Noun
 
 **Verb**: to be a floor/base
 

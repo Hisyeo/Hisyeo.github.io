@@ -1,12 +1,10 @@
 ---
 id: küu
 title: küu
-hoverText: deontic verb proclitic
+hoverText: deontic verb proclitic § Grammar
 ---
 
-### deontic verb proclitic
-
-**Part of Speech**: Grammar
+### deontic verb proclitic § Grammar
 
 **Verb**: -
 

@@ -1,12 +1,10 @@
 ---
 id: woyü
 title: woyü
-hoverText: air/gas
+hoverText: air/gas § Noun
 ---
 
-### air/gas
-
-**Part of Speech**: Noun
+### air/gas § Noun
 
 **Verb**: to be air/gas
 

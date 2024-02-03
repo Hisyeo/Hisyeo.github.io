@@ -1,12 +1,10 @@
 ---
 id: vöskultu
 title: vöskultu
-hoverText: open
+hoverText: open § Modifier
 ---
 
-### open
-
-**Part of Speech**: Modifier
+### open § Modifier
 
 **Verb**: to be open
 

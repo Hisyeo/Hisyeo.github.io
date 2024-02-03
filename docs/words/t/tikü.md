@@ -1,12 +1,10 @@
 ---
 id: tikü
 title: tikü
-hoverText: dead
+hoverText: dead § Modifier
 ---
 
-### dead
-
-**Part of Speech**: Modifier
+### dead § Modifier
 
 **Verb**: to be dead
 

@@ -1,12 +1,10 @@
 ---
 id: longı
 title: longı
-hoverText: color
+hoverText: color § Noun
 ---
 
-### color
-
-**Part of Speech**: Noun
+### color § Noun
 
 **Verb**: to be a color
 

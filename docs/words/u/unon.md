@@ -1,12 +1,10 @@
 ---
 id: unon
 title: unon
-hoverText: to smell (a scent)
+hoverText: to smell (a scent) § Verb
 ---
 
-### to smell (a scent)
-
-**Part of Speech**: Verb
+### to smell (a scent) § Verb
 
 **Verb**: to smell
 

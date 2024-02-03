@@ -1,12 +1,10 @@
 ---
 id: opoki
 title: opoki
-hoverText: glass
+hoverText: glass § Noun
 ---
 
-### glass
-
-**Part of Speech**: Noun
+### glass § Noun
 
 **Verb**: to be glass/crystal
 

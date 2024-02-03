@@ -1,12 +1,10 @@
 ---
 id: ȷöhün
 title: ȷöhün
-hoverText: nutrient
+hoverText: nutrient § Noun
 ---
 
-### nutrient
-
-**Part of Speech**: Noun
+### nutrient § Noun
 
 **Verb**: to be a nutrient
 

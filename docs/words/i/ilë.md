@@ -1,12 +1,10 @@
 ---
 id: ilë
 title: ilë
-hoverText: building
+hoverText: building § Noun
 ---
 
-### building
-
-**Part of Speech**: Noun
+### building § Noun
 
 **Verb**: to be a building
 

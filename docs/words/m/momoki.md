@@ -1,12 +1,10 @@
 ---
 id: momoki
 title: momoki
-hoverText: surprised
+hoverText: surprised § Modifier
 ---
 
-### surprised
-
-**Part of Speech**: Modifier
+### surprised § Modifier
 
 **Verb**: to be surprised/shocked
 

@@ -1,12 +1,10 @@
 ---
 id: oȷüul
 title: oȷüul
-hoverText: any/whichever
+hoverText: any/whichever § Pronoun
 ---
 
-### any/whichever
-
-**Part of Speech**: Pronoun
+### any/whichever § Pronoun
 
 **Verb**: to be whomever/whichever
 

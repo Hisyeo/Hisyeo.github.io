@@ -1,12 +1,10 @@
 ---
 id: ȷoston
 title: ȷoston
-hoverText: jump
+hoverText: jump § Noun
 ---
 
-### jump
-
-**Part of Speech**: Noun
+### jump § Noun
 
 **Verb**: to be a jump/ascent/leap
 

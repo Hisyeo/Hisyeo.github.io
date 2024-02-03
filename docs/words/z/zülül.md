@@ -1,12 +1,10 @@
 ---
 id: zülül
 title: zülül
-hoverText: coil
+hoverText: coil § Noun
 ---
 
-### coil
-
-**Part of Speech**: Noun
+### coil § Noun
 
 **Verb**: to be a coil/spiral/helix
 

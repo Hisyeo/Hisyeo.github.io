@@ -1,12 +1,10 @@
 ---
 id: venüu
 title: venüu
-hoverText: country/region
+hoverText: country/region § Noun
 ---
 
-### country/region
-
-**Part of Speech**: Noun
+### country/region § Noun
 
 **Verb**: to be a country/region/territory
 

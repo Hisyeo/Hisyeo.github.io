@@ -1,12 +1,10 @@
 ---
 id: düunzi
 title: düunzi
-hoverText: brain/mind
+hoverText: brain/mind § Noun
 ---
 
-### brain/mind
-
-**Part of Speech**: Noun
+### brain/mind § Noun
 
 **Verb**: to be a brain/mind
 

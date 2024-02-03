@@ -1,12 +1,10 @@
 ---
 id: yoskinyo
 title: yoskinyo
-hoverText: cave
+hoverText: cave § Noun
 ---
 
-### cave
-
-**Part of Speech**: Noun
+### cave § Noun
 
 **Verb**: to be a cave/cavern/den
 

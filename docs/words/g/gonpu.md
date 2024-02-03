@@ -1,12 +1,10 @@
 ---
 id: gonpu
 title: gonpu
-hoverText: leg
+hoverText: leg § Noun
 ---
 
-### leg
-
-**Part of Speech**: Noun
+### leg § Noun
 
 **Verb**: to be a leg
 

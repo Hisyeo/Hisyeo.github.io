@@ -1,12 +1,10 @@
 ---
 id: lexetko
 title: lexetko
-hoverText: lattice/array
+hoverText: lattice/array § Noun
 ---
 
-### lattice/array
-
-**Part of Speech**: Noun
+### lattice/array § Noun
 
 **Verb**: to be a lattice/array/grid
 

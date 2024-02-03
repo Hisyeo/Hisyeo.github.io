@@ -1,12 +1,10 @@
 ---
 id: völun
 title: völun
-hoverText: to want (a desire)
+hoverText: to want (a desire) § Verb
 ---
 
-### to want (a desire)
-
-**Part of Speech**: Verb
+### to want (a desire) § Verb
 
 **Verb**: to want/desire
 

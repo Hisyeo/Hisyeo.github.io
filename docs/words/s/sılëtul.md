@@ -1,12 +1,10 @@
 ---
 id: sılëtul
 title: sılëtul
-hoverText: key
+hoverText: key § Noun
 ---
 
-### key
-
-**Part of Speech**: Noun
+### key § Noun
 
 **Verb**: to be a key
 

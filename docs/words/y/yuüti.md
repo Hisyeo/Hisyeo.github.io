@@ -1,12 +1,10 @@
 ---
 id: yuüti
 title: yuüti
-hoverText: some/a few
+hoverText: some/a few § Quantity
 ---
 
-### some/a few
-
-**Part of Speech**: Quantity
+### some/a few § Quantity
 
 **Verb**: to be some/a few
 

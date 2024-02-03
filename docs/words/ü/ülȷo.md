@@ -1,12 +1,10 @@
 ---
 id: ülȷo
 title: ülȷo
-hoverText: energy/power
+hoverText: energy/power § Noun
 ---
 
-### energy/power
-
-**Part of Speech**: Noun
+### energy/power § Noun
 
 **Verb**: to be energy/power
 

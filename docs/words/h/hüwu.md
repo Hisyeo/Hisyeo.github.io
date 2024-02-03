@@ -1,12 +1,10 @@
 ---
 id: hüwu
 title: hüwu
-hoverText: egg
+hoverText: egg § Noun
 ---
 
-### egg
-
-**Part of Speech**: Noun
+### egg § Noun
 
 **Verb**: to be a egg
 

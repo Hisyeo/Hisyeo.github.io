@@ -1,12 +1,10 @@
 ---
 id: pit
 title: pit
-hoverText: conditional verb proclitic
+hoverText: conditional verb proclitic § Grammar
 ---
 
-### conditional verb proclitic
-
-**Part of Speech**: Grammar
+### conditional verb proclitic § Grammar
 
 **Verb**: -
 

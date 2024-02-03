@@ -1,12 +1,10 @@
 ---
 id: kikölö
 title: kikölö
-hoverText: bitter
+hoverText: bitter § Modifier
 ---
 
-### bitter
-
-**Part of Speech**: Modifier
+### bitter § Modifier
 
 **Verb**: to be bitter
 

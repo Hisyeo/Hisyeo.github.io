@@ -1,12 +1,10 @@
 ---
 id: zenzi
 title: zenzi
-hoverText: thin
+hoverText: thin § Modifier
 ---
 
-### thin
-
-**Part of Speech**: Modifier
+### thin § Modifier
 
 **Verb**: to be thin
 

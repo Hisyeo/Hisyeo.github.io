@@ -1,12 +1,10 @@
 ---
 id: noüku
 title: noüku
-hoverText: science
+hoverText: science § Noun
 ---
 
-### science
-
-**Part of Speech**: Noun
+### science § Noun
 
 **Verb**: to be science
 

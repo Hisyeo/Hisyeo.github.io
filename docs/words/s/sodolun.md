@@ -1,12 +1,10 @@
 ---
 id: sodolun
 title: sodolun
-hoverText: normal
+hoverText: normal § Modifier
 ---
 
-### normal
-
-**Part of Speech**: Modifier
+### normal § Modifier
 
 **Verb**: to be normal/ordinary/standard
 

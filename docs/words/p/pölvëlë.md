@@ -1,12 +1,10 @@
 ---
 id: pölvëlë
 title: pölvëlë
-hoverText: powder
+hoverText: powder § Noun
 ---
 
-### powder
-
-**Part of Speech**: Noun
+### powder § Noun
 
 **Verb**: to be powder/dust
 

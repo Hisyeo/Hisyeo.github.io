@@ -1,12 +1,10 @@
 ---
 id: son
 title: son
-hoverText: 03 three
+hoverText: 03 three § Quantity
 ---
 
-### 03 three
-
-**Part of Speech**: Quantity
+### 03 three § Quantity
 
 **Verb**: to be three
 

@@ -1,12 +1,10 @@
 ---
 id: hovo
 title: hovo
-hoverText: to plead (a plea)
+hoverText: to plead (a plea) § Verb
 ---
 
-### to plead (a plea)
-
-**Part of Speech**: Verb
+### to plead (a plea) § Verb
 
 **Verb**: to urge/plead/beg/implore
 

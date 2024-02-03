@@ -1,12 +1,10 @@
 ---
 id: diȷel
 title: diȷel
-hoverText: other
+hoverText: other § Pronoun
 ---
 
-### other
-
-**Part of Speech**: Pronoun
+### other § Pronoun
 
 **Verb**: to be an other
 

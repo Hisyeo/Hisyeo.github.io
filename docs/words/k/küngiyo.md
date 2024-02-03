@@ -1,12 +1,10 @@
 ---
 id: küngiyo
 title: küngiyo
-hoverText: organization/enterprise
+hoverText: organization/enterprise § Noun
 ---
 
-### organization/enterprise
-
-**Part of Speech**: Noun
+### organization/enterprise § Noun
 
 **Verb**: to be an organization/enterprise
 

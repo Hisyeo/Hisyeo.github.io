@@ -1,12 +1,10 @@
 ---
 id: könyëz
 title: könyëz
-hoverText: ending
+hoverText: ending § Modifier
 ---
 
-### ending
-
-**Part of Speech**: Modifier
+### ending § Modifier
 
 **Verb**: to be ending
 

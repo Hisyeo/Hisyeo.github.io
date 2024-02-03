@@ -1,12 +1,10 @@
 ---
 id: onö
 title: onö
-hoverText: that (distant)
+hoverText: that (distant) § Pronoun
 ---
 
-### that (distant)
-
-**Part of Speech**: Pronoun
+### that (distant) § Pronoun
 
 **Verb**: to be that over there
 

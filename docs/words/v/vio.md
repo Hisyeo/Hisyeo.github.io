@@ -1,12 +1,10 @@
 ---
 id: vio
 title: vio
-hoverText: instrument/manner marker (using/with)
+hoverText: instrument/manner marker (using/with) § Preposition
 ---
 
-### instrument/manner marker (using/with)
-
-**Part of Speech**: Preposition
+### instrument/manner marker (using/with) § Preposition
 
 **Verb**: -
 

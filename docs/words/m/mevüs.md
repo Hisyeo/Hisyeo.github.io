@@ -1,12 +1,10 @@
 ---
 id: mevüs
 title: mevüs
-hoverText: safe
+hoverText: safe § Modifier
 ---
 
-### safe
-
-**Part of Speech**: Modifier
+### safe § Modifier
 
 **Verb**: to be safe/protected
 

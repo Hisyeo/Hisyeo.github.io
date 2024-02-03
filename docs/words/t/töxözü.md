@@ -1,12 +1,10 @@
 ---
 id: töxözü
 title: töxözü
-hoverText: bump
+hoverText: bump § Noun
 ---
 
-### bump
-
-**Part of Speech**: Noun
+### bump § Noun
 
 **Verb**: to be a protrusion/bulge/bump
 

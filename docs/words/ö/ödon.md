@@ -1,12 +1,10 @@
 ---
 id: ödon
 title: ödon
-hoverText: orderly
+hoverText: orderly § Modifier
 ---
 
-### orderly
-
-**Part of Speech**: Modifier
+### orderly § Modifier
 
 **Verb**: to be orderly
 

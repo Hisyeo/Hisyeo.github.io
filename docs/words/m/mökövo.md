@@ -1,12 +1,10 @@
 ---
 id: mökövo
 title: mökövo
-hoverText: tube
+hoverText: tube § Noun
 ---
 
-### tube
-
-**Part of Speech**: Noun
+### tube § Noun
 
 **Verb**: to be a tube/pipe
 

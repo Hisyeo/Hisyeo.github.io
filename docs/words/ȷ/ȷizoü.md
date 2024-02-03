@@ -1,12 +1,10 @@
 ---
 id: ȷizoü
 title: ȷizoü
-hoverText: to train (a skill/ability)
+hoverText: to train (a skill/ability) § Verb
 ---
 
-### to train (a skill/ability)
-
-**Part of Speech**: Verb
+### to train (a skill/ability) § Verb
 
 **Verb**: to train
 

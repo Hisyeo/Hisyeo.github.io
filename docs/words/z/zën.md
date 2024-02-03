@@ -1,12 +1,10 @@
 ---
 id: zën
 title: zën
-hoverText: 1000 thousand
+hoverText: 1000 thousand § Quantity
 ---
 
-### 1000 thousand
-
-**Part of Speech**: Quantity
+### 1000 thousand § Quantity
 
 **Verb**: to be a thousand
 

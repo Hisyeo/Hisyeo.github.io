@@ -1,12 +1,10 @@
 ---
 id: züonwun
 title: züonwun
-hoverText: rumor
+hoverText: rumor § Noun
 ---
 
-### rumor
-
-**Part of Speech**: Noun
+### rumor § Noun
 
 **Verb**: to be a rumor
 

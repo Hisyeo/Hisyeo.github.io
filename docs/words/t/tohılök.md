@@ -1,12 +1,10 @@
 ---
 id: tohılök
 title: tohılök
-hoverText: cone
+hoverText: cone § Noun
 ---
 
-### cone
-
-**Part of Speech**: Noun
+### cone § Noun
 
 **Verb**: to be a cone
 

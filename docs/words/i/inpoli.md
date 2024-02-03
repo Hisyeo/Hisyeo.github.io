@@ -1,12 +1,10 @@
 ---
 id: inpoli
 title: inpoli
-hoverText: flower
+hoverText: flower § Noun
 ---
 
-### flower
-
-**Part of Speech**: Noun
+### flower § Noun
 
 **Verb**: to be a flower
 

@@ -1,12 +1,10 @@
 ---
 id: ümomi
 title: ümomi
-hoverText: savory
+hoverText: savory § Modifier
 ---
 
-### savory
-
-**Part of Speech**: Modifier
+### savory § Modifier
 
 **Verb**: to be savory
 

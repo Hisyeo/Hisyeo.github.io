@@ -1,12 +1,10 @@
 ---
 id: lipü
 title: lipü
-hoverText: sheet
+hoverText: sheet § Noun
 ---
 
-### sheet
-
-**Part of Speech**: Noun
+### sheet § Noun
 
 **Verb**: to be a sheet
 

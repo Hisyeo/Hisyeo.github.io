@@ -1,12 +1,10 @@
 ---
 id: ȷoko
 title: ȷoko
-hoverText: bag
+hoverText: bag § Noun
 ---
 
-### bag
-
-**Part of Speech**: Noun
+### bag § Noun
 
 **Verb**: to be a bag
 

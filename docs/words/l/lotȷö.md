@@ -1,12 +1,10 @@
 ---
 id: lotȷö
 title: lotȷö
-hoverText: ray/beam
+hoverText: ray/beam § Noun
 ---
 
-### ray/beam
-
-**Part of Speech**: Noun
+### ray/beam § Noun
 
 **Verb**: to be a ray/beam
 

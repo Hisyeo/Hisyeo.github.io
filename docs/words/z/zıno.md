@@ -1,12 +1,10 @@
 ---
 id: zıno
 title: zıno
-hoverText: charge/fee/tax
+hoverText: charge/fee/tax § Noun
 ---
 
-### charge/fee/tax
-
-**Part of Speech**: Noun
+### charge/fee/tax § Noun
 
 **Verb**: to be a charge/fee/tax
 

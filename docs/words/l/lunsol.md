@@ -1,12 +1,10 @@
 ---
 id: lunsol
 title: lunsol
-hoverText: to launch (a projectile)
+hoverText: to launch (a projectile) § Verb
 ---
 
-### to launch (a projectile)
-
-**Part of Speech**: Verb
+### to launch (a projectile) § Verb
 
 **Verb**: to launch/throw/shoot
 

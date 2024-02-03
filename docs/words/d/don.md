@@ -1,12 +1,10 @@
 ---
 id: don
 title: don
-hoverText: then
+hoverText: then § Connector
 ---
 
-### then
-
-**Part of Speech**: Connector
+### then § Connector
 
 **Verb**: -
 

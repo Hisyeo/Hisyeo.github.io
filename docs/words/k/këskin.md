@@ -1,12 +1,10 @@
 ---
 id: këskin
 title: këskin
-hoverText: sharp
+hoverText: sharp § Modifier
 ---
 
-### sharp
-
-**Part of Speech**: Modifier
+### sharp § Modifier
 
 **Verb**: to be sharp
 

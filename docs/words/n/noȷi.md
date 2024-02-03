@@ -1,12 +1,10 @@
 ---
 id: noȷi
 title: noȷi
-hoverText: venom/poison
+hoverText: venom/poison § Noun
 ---
 
-### venom/poison
-
-**Part of Speech**: Noun
+### venom/poison § Noun
 
 **Verb**: to be a venom/poison
 
