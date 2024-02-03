@@ -12,12 +12,10 @@ const parser = parse({
 const template = (w) => `---
 id: ${w['Hisyëö']}
 title: ${w['Hisyëö']}
-hoverText: ${w['Meaning']}
+hoverText: ${w['Meaning']} § ${w['Type']}
 ---
 
-### ${w['Meaning']}
-
-**Part of Speech**: ${w['Type']}
+### ${w['Meaning']} § ${w['Type']}
 
 **Verb**: ${w['Verb']}
 
