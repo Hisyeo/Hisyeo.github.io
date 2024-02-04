@@ -1,10 +1,10 @@
 ---
 id: löizök
 title: löizök
-hoverText: emphasis clause ender (again) § Grammar
+hoverText: emphasis clause ender (really/again) § Grammar
 ---
 
-### emphasis clause ender (again) § Grammar
+### emphasis clause ender (really/again) § Grammar
 
 **Verb**: -
 
