@@ -41,7 +41,8 @@ parser.on('readable', async () => {
             snippets[record['Hisyëö']] = {
                 scope: "markdown",
                 prefix: record['Hisyëö'],
-                body: `%%${record['Hisyëö']}|${record['Hisyëö']}%%`
+                body: `%%${record['Hisyëö']}|${record['Hisyëö']}%%`,
+                description: record['Meaning']
             }
         } catch (err) {
             console.error(err)
