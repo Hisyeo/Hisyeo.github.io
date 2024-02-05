@@ -21,7 +21,7 @@ possible (and a little extra to the underdogs). Additionally, there are now
 a few words that you are already familiar with from your first language that
 should give you a small anchor point for learning the language.
 
-:::caution
+:::caution Not Your Native Language
 
 While words are being taken from languages it is important to remember that this
 language is not your native language, you will need to abandon any other rules
@@ -29,14 +29,14 @@ or word changes that you might normally make. The word can be used as a noun,
 verb, or modifier so there's a good chance it will be used in a way that seems
 wrong to your native language's grammar.
 
-This is okay. Try to focus on the essence of that native language word, imagine
+**This is okay.** Try to focus on the essence of that native language word, imagine
 it being translated as the other  parts of speech. Now think of the Hisyëö word
 as covering all of these words. This is why we include all of the different
 derivation translations in each definition, so that you can familiarize yourself
-with all the ways it can be utilized. This is just at a most basic level too,
-because when you start making compound phrases including these words, the
-meaning now must be interpreted in terms of the head noun's essence or in terms
-of the head verb's activity.
+with all the ways it can be utilized. In fact, the provided descriptions are
+just at the basic level because when you start making compound phrases including 
+these words, the meaning now must be interpreted in terms of the head noun's 
+essence or in terms of the head verb's activity.
 
 :::
 
@@ -47,15 +47,22 @@ as interjections or greetings. Learning these will make it much easier to engage
 in polite conversation and get your feet wet so as to begin the immersion
 training.
 
-The following are some of the current established expressions that act as
-complete sentences:
-> %%voxo|voxo%% (*vah*-shah) (shoot!) (woah!)
-> 
-> %%mo|mo%% %%küu|küu%% %%lö|lö%% %%löizök|löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
-> 
-> %%nimö|nimö%% %%lı|lı%% %%gö|gö%% %%ëno|ëno%% (*nee*-moh lih goh *ay*-nah) (How are you doing?)
-> 
-> %%uyö|uyö%% %%lı|lı%% %%yök|yök%% %%sonkon|sonkon%% (*uh*-yoh lih yoke *san*-kan) (It doesn't matter.) 
+:::info Examples
+
+The following are some of the current established expressions that Hisyëans use
+in day-to-day conversation:
+- %%voxo|voxo%% (*vah*-shah) (shoot!) (woah!)
+- %%mo|mo%% %%küu|küu%% %%lö|lö%% %%löizök|löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
+- %%nimö|nimö%% %%lı|lı%% %%gö|gö%% %%ëno|ëno%% (*nee*-moh lih goh *ay*-nah) (How are you doing?)
+- %%uyö|uyö%% %%lı|lı%% %%yök|yök%% %%sonkon|sonkon%% (*uh*-yoh lih yoke *san*-kan) (It doesn't matter.) 
+- ...%%zi|zi%% (chee) (...agree?)
+- %%löizök|löizök%% (*loy*-choke) (definitely!)
+- %%lı|lı%% %%yünlön|yünlön%% %%zö|zö%% %%noyo|noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
+- %%küu|küu%% %%yök|yök%% %%zinȷon|zinȷon%% (Don't worry!)
+- %%lı|lı%% %%yök|yök%% %%yëllë|yëllë%% (It's not a problem.)
+- %%noyo|noyo%% %%kui|kui%% %%gö|gö%% %%hoi|hoi%% %%limien|limien%% %%ko|ko%% (Can I come in?)
+
+:::
 
 ## Pronunciation
 

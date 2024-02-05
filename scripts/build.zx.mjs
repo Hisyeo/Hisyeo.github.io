@@ -1,14 +1,7 @@
-import { parse } from 'csv-parse';
-
-const file = await fs.readFile('./static/words.csv', 'utf8')
+import csv from 'neat-csv';
 
 const words = []
-
-const parser = parse({
-    delimiter: ',',
-    columns: true,
-})
-
+const snippets = {}
 const template = (w) => `---
 id: ${w['Hisyëö']}
 title: ${w['Hisyëö']}
@@ -28,37 +21,7 @@ ${w['Origin']} ${w['IPA']}
 *${w['Family']} Language Family*`
 
 console.log('Clearing existing files...')
-
 const existingFiles = await glob(['./docs/words/**/*.md', './docs/words/**/*.mdx'])
-
-const snippets = {}
-
-parser.on('readable', async () => {
-    console.log('Saturating markdown templates...')
-    let record; while ((record = parser.read()) !== null) {
-        try {
-            await fs.outputFile(`./docs/words/${record['Hisyëö'][0]}/${record['Hisyëö']}.md`, template(record))
-            snippets[record['Hisyëö']] = {
-                scope: "markdown",
-                prefix: record['Hisyëö'],
-                body: `%%${record['Hisyëö']}|${record['Hisyëö']}%%`,
-                description: record['Meaning']
-            }
-        } catch (err) {
-            console.error(err)
-        }
-    }
-})
-parser.on('error', err => { console.error(err.message) })
-parser.on('end', async () => {
-    try {
-        await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets))
-    } catch (err) {
-        console.error(err)
-    }
-    console.log('Done!')
-})
-
 try {
     await $`rm ${existingFiles}`
     console.log('Cleared existing files!')
@@ -66,5 +29,33 @@ try {
     console.error(err)
 }
 
-parser.write(file)
-parser.end()
+console.log('Parsing csv...')
+const file = await fs.readFile('./static/words.csv', 'utf8')
+const records = await csv(file, {
+    delimiter: ',',
+    columns: true,
+})
+
+process.stdout.write(`Outputting word files...`)
+for (let data of records) {
+    try {
+        process.stdout.write(`.`)
+        await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data))
+        snippets[data['Hisyëö']] = {
+            scope: "markdown",
+            prefix: data['Hisyëö'],
+            body: `%%${data['Hisyëö']}|${data['Hisyëö']}%%`,
+            description: data['Meaning']
+        }
+    } catch (err) {
+        console.error(err)
+    }
+}
+console.log('')
+
+console.log(`Outputting snippets file...`)
+try {
+    await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets))
+} catch (err) {
+    console.error(err)
+}
