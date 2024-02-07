@@ -1,13 +1,8 @@
-import { parse } from 'csv-parse';
+import csv from 'neat-csv';
 
 const file = await fs.readFile('./static/words.csv', 'utf8')
 
 const words = []
-
-const parser = parse({
-    delimiter: ',',
-    columns: true,
-})
 
 const minPairs = {
     p:   ['v', 'm'],
@@ -38,75 +33,68 @@ const minPairs = {
 // const badSyllablesMessage = "Some words have improper syllable structure"
 const syllableRegex = /(?<onset>[ꞌhkgtzxsdȷpvmnlwy])?(?<nucleus>[oöeëıiuü])(?<coda>[tksznl](?![oöeëıiuü]))?/gi
 
-
-parser.on('readable', () => {
-    console.log('Grabbing words from records...')
-    let record; while ((record = parser.read()) !== null) {
-        // console.log(record)
-        words.push(record["Hisyëö"])
-    }
+const records = await csv(file, {
+    delimiter: ',',
+    columns: true,
 })
 
-parser.on('error', err => { console.error(err.message) })
+console.log('Grabbing words from records...')
 
-parser.on('end', () => {
-    console.log('Reviewing collisions...')
-    // console.log(words)
+for (const record of records) {
+    words.push(record["Hisyëö"])
+}
+
+console.log('Reviewing collisions...')
     
-    for (let word of words) {
-        const matches = word.matchAll(syllableRegex)
-        const sylSegments = []
-        const sylValues = []
-        Array.from(matches).forEach((m) => {
-            sylSegments.push(m.groups); sylValues.push(m[0])
-        })
-        // if (sylValues.filter((s) => s.length < 2).length > 1) {
-        //     if (!badSyllablesIdentified) {
-        //         console.log(badSyllablesMessage)
-        //         badSyllablesIdentified = true
-        //     }
-        //     console.log(`word:${word}\tmatches: ${sylValues}`)
-        // }
-        sylSegments.forEach((syllable, i) => {
-            let {onset, nucleus, coda} = syllable
-            if (!onset) onset = "'"
-            if (minPairs[onset]) for (let collider of minPairs[onset]) {
-                let collSyl = sylValues.slice()
-                collSyl[i] = makeSyllable(collider, nucleus, coda)
-                let onsetChange = collSyl.join('')
-                if (onsetChange[0] == 'q') onsetChange = onsetChange.slice(1)
-                if (words.includes(onsetChange)) collisionFound(word, onsetChange)
-            }
-            for (let collider of minPairs[nucleus]) {
-                let collSyl = sylValues.slice()
-                collSyl[i] = makeSyllable(onset, collider, coda)
-                const nucleChange = collSyl.join('')
-                if (words.includes(nucleChange)) collisionFound(word, nucleChange)
-            }
-        })
-    
-        let priorCoda = undefined
-        for (let {onset, _, coda} of sylSegments) {
-            if (priorCoda != undefined && ['q',].includes(onset)) {
-                console.log(`Bad syllable boundary: ${word}`)
-            }
-            if (priorCoda == 'k' && ['h',].includes(onset)) {
-                console.log(`Bad syllable boundary: ${word}`)
-            }
-            priorCoda = coda
+for (let word of words) {
+    const matches = word.matchAll(syllableRegex)
+    const sylSegments = []
+    const sylValues = []
+    Array.from(matches).forEach((m) => {
+        sylSegments.push(m.groups); sylValues.push(m[0])
+    })
+    // if (sylValues.filter((s) => s.length < 2).length > 1) {
+    //     if (!badSyllablesIdentified) {
+    //         console.log(badSyllablesMessage)
+    //         badSyllablesIdentified = true
+    //     }
+    //     console.log(`word:${word}\tmatches: ${sylValues}`)
+    // }
+    sylSegments.forEach((syllable, i) => {
+        let {onset, nucleus, coda} = syllable
+        if (!onset) onset = "'"
+        if (minPairs[onset]) for (let collider of minPairs[onset]) {
+            let collSyl = sylValues.slice()
+            collSyl[i] = makeSyllable(collider, nucleus, coda)
+            let onsetChange = collSyl.join('')
+            if (onsetChange[0] == 'q') onsetChange = onsetChange.slice(1)
+            if (words.includes(onsetChange)) collisionFound(word, onsetChange)
         }
-    }
-    
-    function makeSyllable(collider, nucleus, coda) {
-        return `${collider ?? ''}${nucleus ?? ''}${coda ?? ''}`
-    }
-    
-    function collisionFound(word, collision) {
-        console.log(`Collision between "${word}" and "${collision}"`)
-    }
+        for (let collider of minPairs[nucleus]) {
+            let collSyl = sylValues.slice()
+            collSyl[i] = makeSyllable(onset, collider, coda)
+            const nucleChange = collSyl.join('')
+            if (words.includes(nucleChange)) collisionFound(word, nucleChange)
+        }
+    })
 
-})
+    let priorCoda = undefined
+    for (let {onset, _, coda} of sylSegments) {
+        if (priorCoda != undefined && ['q',].includes(onset)) {
+            console.log(`Bad syllable boundary: ${word}`)
+        }
+        if (priorCoda == 'k' && ['h',].includes(onset)) {
+            console.log(`Bad syllable boundary: ${word}`)
+        }
+        priorCoda = coda
+    }
+}
 
-parser.write(file)
-parser.end()
+function makeSyllable(collider, nucleus, coda) {
+    return `${collider ?? ''}${nucleus ?? ''}${coda ?? ''}`
+}
+
+function collisionFound(word, collision) {
+    console.log(`Collision between "${word}" and "${collision}"`)
+}
 
