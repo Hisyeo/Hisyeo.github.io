@@ -6,11 +6,11 @@ hoverText: thick § Modifier
 
 ### thick § Modifier
 
-**Verb**: to be thick
+**Verb**: to be thick/wide
 
-**Noun**: thickness
+**Noun**: thickness/width
 
-**Modifier**: thick
+**Modifier**: thick/wide
 
 Mam cho't /t͡ʃʰɔtʼ/
 

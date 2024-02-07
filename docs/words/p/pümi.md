@@ -1,16 +1,16 @@
 ---
 id: pümi
 title: pümi
-hoverText: land/ground § Noun
+hoverText: ground/terrain/earth § Noun
 ---
 
-### land/ground § Noun
+### ground/terrain/earth § Noun
 
-**Verb**: to be land/earth
+**Verb**: to be ground/terrain/earth
 
-**Noun**: land/earth
+**Noun**: ground/terrain/earth
 
-**Modifier**: land/earth-related
+**Modifier**: ground/terrain/earth-related
 
 Sanskrit भूमि bhū́mi /ˈbʱuː.mi/
 

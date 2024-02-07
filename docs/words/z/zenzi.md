@@ -6,11 +6,11 @@ hoverText: thin § Modifier
 
 ### thin § Modifier
 
-**Verb**: to be thin
+**Verb**: to be thin/narrow
 
-**Noun**: thinness
+**Noun**: thinness/narrowness
 
-**Modifier**: thin
+**Modifier**: thin/narrow
 
 Kashubian cenczi [tsɛntʃi]
 
