@@ -52,8 +52,8 @@ training.
 The following are some of the current established expressions that Hisyëans use
 in day-to-day conversation:
 - %%voxo|voxo%% (*vah*-shah) (shoot!) (woah!)
-- %%mo|mo%% %%küu|küu%% %%lö|lö%% %%löizök|löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
-- %%nimö|nimö%% %%lı|lı%% %%gö|gö%% %%ëno|ëno%% (*nee*-moh lih goh *ay*-nah) (How are you doing?)
+- %%ni|ni%% %%küu|küu%% %%lö|lö%% %%löizök|löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
+- %%nimö|nimö%% %%lı|lı%% %%gö|gö%% %%ȷık|ȷık%% (*nee*-moh lih goh *ay*-nah) (How are you doing?)
 - %%uyö|uyö%% %%lı|lı%% %%yök|yök%% %%sonkon|sonkon%% (*uh*-yoh lih yoke *san*-kan) (It doesn't matter.) 
 - ...%%zi|zi%% (chee) (...agree?)
 - %%löizök|löizök%% (*loy*-choke) (definitely!)
