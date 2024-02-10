@@ -1,6 +1,6 @@
 ---
-id: tokö
-title: tokö
+id: umo
+title: umo
 hoverText: person § Noun
 ---
 
@@ -12,6 +12,6 @@ hoverText: person § Noun
 
 **Modifier**: person-related
 
-Eastern Bontoc tako [t̪äko̝]
+Takalelang Abui  ʔamˈa [ɑm'aː]
 
-*Austronesian Language Family*
+*Trans-New Guinea Language Family*

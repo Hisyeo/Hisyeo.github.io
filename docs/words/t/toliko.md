@@ -6,11 +6,11 @@ hoverText: method § Noun
 
 ### method § Noun
 
-**Verb**: to be a method
+**Verb**: to be a method/process
 
-**Noun**: method
+**Noun**: method/process
 
-**Modifier**: method-related
+**Modifier**: method/process-related
 
 Arabic طَرِيقَة ṭarīqa /tˤa.riː.qa/
 

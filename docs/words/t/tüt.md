@@ -1,6 +1,6 @@
 ---
-id: tüguto
-title: tüguto
+id: tüt
+title: tüt
 hoverText: hot § Modifier
 ---
 
@@ -12,6 +12,6 @@ hoverText: hot § Modifier
 
 **Modifier**: hot
 
-Korean 뜨겁다 tteugeopda [t͈ɯɡʌ̹p̚t͈a̠]
+Bring Klon tut [tut]
 
-*Koreic Language Family*
+*Trans-New Guinea Language Family*

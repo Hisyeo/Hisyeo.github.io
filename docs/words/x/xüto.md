@@ -1,6 +1,6 @@
 ---
-id: vöyö
-title: vöyö
+id: xüto
+title: xüto
 hoverText: river § Noun
 ---
 
@@ -12,6 +12,6 @@ hoverText: river § Noun
 
 **Modifier**: river-related
 
-Hungaria folyó [ˈfojoː]
+Mixtec yuta [ʒuta]
 
-*Uralic Language Family*
+*Oto-Manguean Language Family*

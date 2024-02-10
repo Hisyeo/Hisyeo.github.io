@@ -1,6 +1,6 @@
 ---
-id: liü
-title: liü
+id: toü
+title: toü
 hoverText: 06 six § Quantity
 ---
 
@@ -12,6 +12,6 @@ hoverText: 06 six § Quantity
 
 **Modifier**: sixth
 
-Gan 六 liuh /li̯oʊ̯/
+White Hmong rau /ʈau̯˧/
 
-*Sino-Tibetan Language Family*
+*Hmong-Mien Language Family*

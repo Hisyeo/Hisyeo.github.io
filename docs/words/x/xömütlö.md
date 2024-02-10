@@ -6,11 +6,11 @@ hoverText: ocean § Noun
 
 ### ocean § Noun
 
-**Verb**: to be an ocean
+**Verb**: to be an ocean/sea
 
-**Noun**: ocean
+**Noun**: ocean/sea
 
-**Modifier**: ocean-related
+**Modifier**: ocean/sea-related
 
 Bengali সমুদ্র śomudro /ʃo.mud.ro/
 

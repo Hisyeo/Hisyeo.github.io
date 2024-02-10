@@ -1,6 +1,6 @@
 ---
-id: söoȷı
-title: söoȷı
+id: nıxin
+title: nıxin
 hoverText: wing § Noun
 ---
 
@@ -12,6 +12,6 @@ hoverText: wing § Noun
 
 **Modifier**: wing-related
 
-Sami soadji /ˈsoɑ̯ɟɟiː/
+Mixtec ndɨxin [nᵈɨʃin]
 
-*Uralic Language Family*
+*Oto-Manguean Language Family*

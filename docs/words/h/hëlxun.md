@@ -1,6 +1,6 @@
 ---
-id: zoü
-title: zoü
+id: hëlxun
+title: hëlxun
 hoverText: early § Modifier
 ---
 
@@ -12,6 +12,6 @@ hoverText: early § Modifier
 
 **Modifier**: early-related
 
-Thai เช้า cháao /t͡ɕʰaːw˦˥/
+Albanian hershëm /'heɾ.ʃəm/
 
-*Kra-Dai Language Family*
+*Albanian Language Family*

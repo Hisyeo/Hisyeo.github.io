@@ -1,6 +1,6 @@
 ---
-id: mo
-title: mo
+id: ni
+title: ni
 hoverText: we/us § Pronoun
 ---
 
@@ -12,6 +12,6 @@ hoverText: we/us § Pronoun
 
 **Modifier**: our
 
-Edo mà /ma/
+Takalelang Abui ni /ni/
 
-*Niger-Congo Language Family*
+*Trans-New Guinea Language Family*

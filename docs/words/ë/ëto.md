@@ -1,6 +1,6 @@
 ---
-id: niü
-title: niü
+id: ëto
+title: ëto
 hoverText: many § Quantity
 ---
 
@@ -12,6 +12,6 @@ hoverText: many § Quantity
 
 **Modifier**: very/great
 
-Vietnamese nhiều [ɲiw˨˩]
+Paraguayan Guarani eta [eta]
 
-*Austro-Asiatic Language Family*
+*Tupian Language Family*

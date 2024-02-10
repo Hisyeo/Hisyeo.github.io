@@ -8,7 +8,7 @@ hoverText: to touch (a surface) § Verb
 
 **Verb**: to touch/contact/feel (physically)
 
-**Noun**: a surface/skin
+**Noun**: a surface
 
 **Modifier**: touched/contacted/felt
 

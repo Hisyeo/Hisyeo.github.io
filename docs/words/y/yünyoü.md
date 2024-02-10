@@ -12,6 +12,6 @@ hoverText: to have (a possession) § Verb
 
 **Modifier**: owned/possessed
 
-Cantonese 擁有 jung jau /jʊŋjɐu̯/
+Cantonese 擁有 jung jau /jʊŋ.jɐu̯/
 
 *Sino-Tibetan Language Family*

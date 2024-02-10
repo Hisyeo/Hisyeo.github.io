@@ -1,16 +1,16 @@
 ---
 id: köndonsë
 title: köndonsë
-hoverText: condensed/compressed/concentrated § Modifier
+hoverText: condensed/concentrated § Modifier
 ---
 
-### condensed/compressed/concentrated § Modifier
+### condensed/concentrated § Modifier
 
-**Verb**: to be condensed/compressed/concentrated
+**Verb**: to be condensed/concentrated
 
-**Noun**: concentration/compression/condensedness
+**Noun**: concentration/condensedness
 
-**Modifier**: condensed/compressed/concentrated
+**Modifier**: condensed/concentrated
 
 French condenser /kɔ̃.dɑ̃.se/
 

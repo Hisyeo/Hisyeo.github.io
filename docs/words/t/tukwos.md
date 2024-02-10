@@ -1,6 +1,6 @@
 ---
-id: ëtu
-title: ëtu
+id: tukwos
+title: tukwos
 hoverText: 08 eight § Quantity
 ---
 
@@ -12,6 +12,6 @@ hoverText: 08 eight § Quantity
 
 **Modifier**: eighth
 
-Tamil எட்டு eṭṭu [eʈːɯ]
+Hausa takwàs [tə́.kʷàs]
 
-*Dravidian Language Family*
+*Nilo-Saharan Language Family*

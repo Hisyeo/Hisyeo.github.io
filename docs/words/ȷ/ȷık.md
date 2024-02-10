@@ -1,6 +1,6 @@
 ---
-id: ëno
-title: ëno
+id: ȷık
+title: ȷık
 hoverText: what § Pronoun
 ---
 
@@ -12,6 +12,6 @@ hoverText: what § Pronoun
 
 **Modifier**: (of) what
 
-Tamil என்ன eṉṉa /enːɐ/
+Majang ǯík /dʒɪk̚/
 
-*Dravidian Language Family*
+*Nilo-Saharan Language Family*
