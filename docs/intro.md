@@ -87,7 +87,7 @@ Some basic words to get you started on sentence construction.
 Choose a subject (preceded by ü):
 - %%noyo|noyo%% (I)
 - %%nimö|nimö%% (you)
-- %%mo|mo%% (we)
+- %%ni|ni%% (we)
 - %%loı|loı%% (it/they)
 
 Choose a verb (preceded by lı):
