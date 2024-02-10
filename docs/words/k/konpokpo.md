@@ -6,9 +6,9 @@ hoverText: general/universal § Modifier
 
 ### general/universal § Modifier
 
-**Verb**: to be generic/universal
+**Verb**: to be general/universal
 
-**Noun**: genericness/universality
+**Noun**: generalness/universality
 
 **Modifier**: general/universal
 
