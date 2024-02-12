@@ -1,16 +1,16 @@
 ---
 id: mözılë
 title: mözılë
-hoverText: to tie/entangle/knit/weave § Verb
+hoverText: to tie/entangle § Verb
 ---
 
-### to tie/entangle/knit/weave § Verb
+### to tie/entangle § Verb
 
 **Verb**: to tie/entangle/knit/weave
 
-**Noun**: tie-able/entangleable/kittable/weavable
+**Noun**: tie-able/entangleable
 
-**Modifier**: tied/entangled/knitted/weaved
+**Modifier**: tied/entangled
 
 Japanese もつれ motsure [mo̞t͡sɨᵝɾe̞]
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
-# Translate your site
+# Connectors
 
 Let's translate `docs/intro.md` to French.
 
