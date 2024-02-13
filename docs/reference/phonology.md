@@ -6,6 +6,7 @@ sidebar_position: 1
 
 Docusaurus can manage multiple versions of your docs.
 
+## Phonemes
 
 ### Consonants
 
@@ -33,6 +34,14 @@ representations too.
 |   ⟨ʓ⟩   | ⟨ l ⟩ |     / l /    | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ  |
 |   ⟨ɀ⟩   |  ⟨y⟩  |     / j /    | patalal/velar approximants: j ʝ ʎ ɰ ʟ                       |
 
+- For all phonemes, there is some flexibility in the position, voicing, aspiration, etc. to accommodate learners who speak languages that may pronounce these sounds differently
+- Words beginning with a vowel can begin with or without a glottal stop [ʔ] pronounced, at the discretion of the speaker.
+- The coda-/n/ can be realized as (1) nasalization of the preceding vowel, (2) it can assimilate to the position of the following sound, i.e. /n/ → [m, n, ɲ, ŋ, ɴ] based on the position of the following or (3) coda-/n/ is pronounced [n] in all places.
+- The coda-/k/ is often realized without any audible release [k̚]
+- The coda-/t/ is often realized without any audible release [t̚]
+- The /h/ is often realized as [x] when preceding /i/ or /u/ vowels.
+
+
 ### Vowels
 
 | Hisyëö | Latin | IPA | Transliteration Sources |
@@ -46,50 +55,74 @@ representations too.
 | ⟨ ɿ ⟩ | ⟨e⟩ | /ɛ/ | unrounded open-mid vowels: ɛ ɜ æ               |
 | ⟨ ʇ ⟩ | ⟨ë⟩ | /e/ | front/central close-mid vowels: e ɘ ø         |
 
-## Create a docs version
+## Phonotactics
 
-Release a version 1.0 of your project:
+Syllable structure is (C)V(C) where only these codas are allowed:
+- /k/
+- /t/
+- / t͡ɕ/
+- /s/
+- /n/
+- /l/
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+All codas cannot be followed by their same phoneme as the onset of the next
+syllable. There are also some additional instances where certain onsets are not
+allowed following certain codas:
+- coda-/k/ cannot be followed by onset-/g/
+- coda-/t/ cannot be followed by onset-/d/
+- coda-/ t͡ɕ/ cannot be followed by onset-/s/
+- coda-/s/ cannot be followed by onset-/ʃ/
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+## Prosody
 
-Your docs now have 2 versions:
+In two syllable words, the stress is placed on the first syllable regardless of
+the vowels present. That being said, strong vowels are slightly geminated
+compared to the weak vowels.
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+|         |           Strong           |      Weak     |
+|---------|:--------------------------:|:-------------:|
+| Abugida | (null), ⟨ı⟩, ⟨ʄ⟩, ⟨ɟ⟩, ⟨ʇ⟩ | ⟨ʃ⟩, ⟨ȷ⟩, ⟨ɿ⟩ |
+| Latin   |   ⟨o⟩, ⟨ö⟩, ⟨ü⟩, ⟨i⟩, ⟨ë⟩  | ⟨u⟩, ⟨ı⟩, ⟨e⟩ |
 
-## Add a Version Dropdown
+In three syllable words, stress is placed on the second syllable if the first
+vowel is weak and the second syllable is strong.
 
-To navigate seamlessly across versions, add a version dropdown.
+Either an unvoiced pause or a voiced hu are used to mark the ending of a ta- or
+te-clause.
 
-Modify the `docusaurus.config.js` file:
+There are no specific filler words in Kokanu
 
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
+## Word restrictions
 
-The docs version dropdown appears in your navbar:
+All of the dictionary words of Hisyëö (not including proper nouns or loanwords, etc.) are either one-, two- or three-syllables long. There are no minimal pairs that contrast using any “conflicting phonemes”.
 
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
+### Consonant Conflicts
+- /p/ with /v/ and /m/
+- /k/ with /h/ and /g/
+- /g/ with /h/, /k/, and /d/
+- /t/ with /d/, /z/, /s/, and /n/
+- /z/ with /ȷ/, /t/
+- /d/ with /t/ and /g/
+- /ȷ/ with /z/
+- /s/ with /v/, /z/, and /t/
+- /x/ with /s/ and /v/
+- /v/ with /s/, /x/, and /p/
+- /h/ with Ø, /k/, and /g/
+- /m/ with /n/ and /p/
+- /n/ with /m/ and /t/
+- Ø (null onset) with /h/
+- /w/ with Ø
+- /l/ with /y/
+- /y/ with Ø and /l/
 
-## Update an existing version
+### Vowel Conflicts
+- /o/ with /u/,           
+- /e/ with /ı/ and /u/    
+- /ı/ with /o/, /i/, and /ë/
+- /u/ with /o/, /ö/, and /e/
+- /ö/ with /ü/ and /u/
+- /ë/ with /ı/ and /i/
+- /i/ with /ë/ and /ı/
+- /ü/ with /ö/
 
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+This means that two words that differ by one sound cannot have any of these conflicting phonemes as the differing sounds. For example, since %%yözno|yözno%% is a Hisyëö word, there are no words like yözmo, yözto or özno also in the language because they differ by one phoneme that conflicts with a phoneme in %%yözno|yözno%%.
