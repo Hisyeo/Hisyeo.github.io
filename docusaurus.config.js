@@ -29,9 +29,9 @@ const config = {
     [ require.resolve('docusaurus-lunr-search'), {
       languages: ['en', /* 'de' */ ], // language codes
       includeRoutes: [
-        'docs/lessons/**/*',
-        'docs/reference/**/*',
-        'docs/words/**/*',
+        '/docs/lessons/**/*',
+        '/docs/reference/**/*',
+        '/docs/words/**/*',
       ],
     }],
     ['@lunaticmuch/docusaurus-terminology', {
