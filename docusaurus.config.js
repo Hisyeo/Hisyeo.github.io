@@ -29,7 +29,7 @@ const config = {
     [ require.resolve('docusaurus-lunr-search'), {
       languages: ['en', /* 'de' */ ], // language codes
       excludeRoutes: [
-        'docs/glossary',
+        'hyo/docs/Glossary',
       ],
     }],
     ['@lunaticmuch/docusaurus-terminology', {
