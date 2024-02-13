@@ -28,7 +28,11 @@ const config = {
   plugins: [
     [ require.resolve('docusaurus-lunr-search'), {
       languages: ['en', /* 'de' */ ], // language codes
-      excludeRoutes: ['docs/Glossary.md'],
+      includeRoutes: [
+        'docs/lessons/**/*',
+        'docs/reference/**/*',
+        'docs/words/**/*',
+      ],
     }],
     ['@lunaticmuch/docusaurus-terminology', {
       termsDir: './docs/words/',
