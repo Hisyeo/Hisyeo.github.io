@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Sentences
 
-Docusaurus can manage multiple versions of your docs.
+The structure of morphemes, phrases and sentence constituents.
 
 ## Morphosyntactics
 
