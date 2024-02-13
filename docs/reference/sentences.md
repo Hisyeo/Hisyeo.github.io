@@ -6,91 +6,68 @@ sidebar_position: 2
 
 Docusaurus can manage multiple versions of your docs.
 
+## Morphosyntactics
 
+Hisyëö is called an [isolating
+language](https://en.wikipedia.org/wiki/Isolating_language) because all words
+are a single morpheme. A morpheme is a single unit of meaning. In English, the
+word "cat" is a single morpheme but the word "cats" is two morphemes: "cat" +
+"s" where the "s" is the morpheme that signifies that a noun is plural. The word
+"intwined" is three morphemes, "in" for the meaning of *interconnectedness*,
+"twine" for the verb that means to wrap or weave with a twine-like object, and
+"ed" for the past participle of the verb (the modifier form in past tense). Some
+examples of isolating languages are
+[Yoruba](https://en.wikipedia.org/wiki/Yoruba_language#Grammar),
+[Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_grammar), and
+[Thai](https://en.wikipedia.org/wiki/Thai_language#Grammar).
 
-### Consonants
+Hisyëö is also considered an [analytic
+language](https://en.wikipedia.org/wiki/Analytic_language), which means that
+prepositions, particles and modifiers are used to provide the additional meaning
+to words instead of adding prefixes and affixes to words. English is mostly an
+analytic language although there are some instances of affixes (such as "-ed",
+"-ing", "-s"). There are no prefixes and affices in Hisyëö, all meaning is
+provided via words and prepositions and particles.
 
-Hisyëö has 16 consonants and 1 null consonant which is necessary for the
-alphasyllabary but you can optionally include a ⟨ ꞌ ⟩ character in Latin
-representations too.
+### Constituent Word Order
 
-| Hisyëö  | Latin | IPA | Transliteration Sources                                        |
-|:-------:|:-----:|:------------:|----------------------------------------------------------------|
-|   ⟨ɽ⟩   | ⟨ ꞌ ⟩ |      / . /    | glottal stops & hiatus: ʔ .                                 |
-|   ⟨ɂ⟩   |  ⟨h⟩  |     / x /    | back fricatives: x χ ʁ ʀ ħ ʕ h ɦ ʢ ʜ                        |
-|   ⟨ɔ⟩   |  ⟨k⟩  |     / k /    | voiceless back plosives: k q c                              |
-|   ⟨ꜿ⟩   |  ⟨g⟩  |     / g /    | voiced back plosives: g ɢ ʡ ɣ                               |
-|   ⟨c⟩   | ⟨ t ⟩ |     / t /    | voiceless front plosives: t ʈ                               |
-|   ⟨ꞇ⟩   |  ⟨z⟩  |    / t͡ɕ /    | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ ɧ                      |
-|   ⟨ɐ⟩   |  ⟨s⟩  |     / s /    | alveolar sibilants: s z                                     |
-|   ⟨ɋ⟩   |  ⟨x⟩  |     / ʃ /    | palatal fricatives: ʃ ʒ ʂ ʐ ç ɕ ʑ                           |
-|   ⟨ʌ⟩   |  ⟨d⟩  |     / d /    | voiced alveolar plosives: d ɖ                               |
-|   ⟨ⱴ⟩   | ⟨ ȷ ⟩ |    / d͡ʑ /    | voiced affricates: d͡z d͡ʒ d͡ʑ ɖ͡ʐ ɟ                            |
-|   ⟨ʋ⟩   |  ⟨p⟩  |     / p /    | labial plosives:  b p                                       |
-|   ⟨ɤ⟩   |  ⟨v⟩  |     / v /    | labio-dental fricatives: ɸ β f v θ ð                        |
-|   ⟨ƶ⟩   |  ⟨m⟩  |     / m /    | labial nasals: m ɱ                                          |
-|   ⟨ƨ⟩   |  ⟨n⟩  |     / n /    | other nasals:  n ɳ ɲ ŋ ɴ                                    |
-|   ⟨ʒ⟩   |  ⟨w⟩  |     / w /    | labial approximants: w ɥ ʋ                                  |
-|   ⟨ʓ⟩   | ⟨ l ⟩ |     / l /    | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ  |
-|   ⟨ɀ⟩   |  ⟨y⟩  |     / j /    | patalal/velar approximants: j ʝ ʎ ɰ ʟ                       |
+The order with which you setup a clause or sentence is called [constituent
+order](https://en.wikipedia.org/wiki/Word_order#Constituent_word_orders).
+Sentences are made up of verb and noun phrases that exist within prepositional
+phrases. Let's ignore what prepositional phrases are available for the time
+being and just zoom out and think about subject phrases (with noun phrases
+within), action phrases (with verb phrases within), and semantic phrases (with
+noun phrases within). Many languages require that you order your sentence in a
+particular way such that each element along the way can be understood as a
+paritcular part of the sentence. Some of the most popular constituent orders
+that occur in natural languages include:
+[subject-object-verb](https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order),
+[subject-verb-object](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order),
+[verb-second](https://en.wikipedia.org/wiki/V2_word_order), and
+[topic-comment](https://en.wikipedia.org/wiki/Topic_and_comment). In addition to
+these sentence structure types, there also exists some languages that have no
+strict word order. Instead they use morphological elements to identify the
+different parts of the sentence. In these languages, the order in which the
+parts of a sentence are provided may indicate the theme or theme of a sentence
+as well.
 
-### Vowels
+Hisyëö has a free constituent order because all sentence parts are marked by a
+preposition. From a topic-comment lens, the order of your sentence puts the
+first provided element as the topic and the rest as successively less important
+comments about the topic. That said, there is one preferred ordering because there
+is one preposition that can be elided (skipped): the %%lı|lı%% realis verb marker.
+This marker precedes the main action of the sentence and specifically an action
+that is definitely occurring or has occurred. Because of this elision rule,
+sentences are often either
+[verb-subject-object](https://en.wikipedia.org/wiki/Verb%E2%80%93subject%E2%80%93object_word_order)
+or
+[verb-object-subject](https://en.wikipedia.org/wiki/Verb%E2%80%93object%E2%80%93subject_word_order).
 
-| Hisyëö | Latin | IPA | Transliteration Sources |
-|:---:|:---:|-----|----------------------------------------------|
-|      | ⟨o⟩ | /ɑ/ | unrounded open vowels: a ɑ ɐ                   |
-| ⟨ ı ⟩ | ⟨ö⟩ | /o/ | rounded open/back vowels: ɶ ɒ ɞ ɔ o ɵ         |
-| ⟨ ʃ ⟩ | ⟨u⟩ | /ə/ | unrounded central/back open-mid vowels: ə ʌ ɤ |
-| ⟨ ʄ ⟩ | ⟨ü⟩ | /u/ | close back vowels: u ʉ ʊ ɯ                   |
-| ⟨ ȷ ⟩ | ⟨ı⟩ | /ɪ/ | front/central close/close-mid vowels: ɪ ʏ ɨ   |
-| ⟨ ɟ ⟩ | ⟨i⟩ | /i/ | front/central close vowels: i y              |
-| ⟨ ɿ ⟩ | ⟨e⟩ | /ɛ/ | unrounded open-mid vowels: ɛ ɜ æ               |
-| ⟨ ʇ ⟩ | ⟨ë⟩ | /e/ | front/central close-mid vowels: e ɘ ø         |
+### Phrase Word Order
 
-## Create a docs version
-
-Release a version 1.0 of your project:
-
-```bash
-npm run docusaurus docs:version 1.0
-```
-
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
-
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+Within any given phrase there is always one word that is the main contents of that
+noun or verb phrase. This is known as the [nucleus](https://en.wikipedia.org/wiki/Head_(linguistics)) of the phrase.
+In some languages the nucleus is the first word and in other languages the nucleus is the last
+word in a phrase. The nucleus of an action phrase is a verb, the nucleus of a subject
+or semantic phrase is a noun. Hisyëö has a nucleus in the middle of a phrase (it *is* a nucleus, after all).
+Determiners go to the left of the nucleus and modifiers to the right.
