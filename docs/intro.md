@@ -97,7 +97,7 @@ Choose a verb (preceded by lı):
 - %%vısun|vısun%% (to know)
 
 Choose an object (preceded by %%zö|zö%%):
-- %%uyö|uyö%% (that)
+- %%ulyö|ulyö%% (that)
 - %%küöxi|küöxi%% (fruit)
 - %%pioli|pioli%% (hello) 
 - %%sütüö|sütüö%% (friend)
