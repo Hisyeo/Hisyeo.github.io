@@ -6,36 +6,47 @@ sidebar_position: 1
 
 ## What is Hisyëö?
 
-A language for international communication that is designed using these principles:
-- **Neutrality**, words are sourced from all world languages proportional to the square
-root of their world population of L1 speakers. The grammar, however, picked a side
-(analytic isolating) due to the origin of the language. There may be some things
-that will feel unintuitive to some L2 learners but this is inevitable and unavoidable.
-- **Succinctness**, words are kept to a minimum where possible but information density
-is strongly considered so that the language can still be used for translations of
-popular media.
-- **Expressivity**, the language is designed to be highly expressive and has been tested
-against a multitude of translation media to confirm that no concept is too challenging
-or too verbose to express.
-- **Experimentality**, the grammar has had a few slightly radical alterations that make it
-more expressive but at the cost of being alien compared to most common grammatical
-facilities especially amongst [International Auxiliary Languages](https://en.wikipedia.org/wiki/International_auxiliary_language) (IALs). Despite aspirations of
-being used internationally, no grammatical feature will be removed to ease learning.
+A language for international communication that is designed using these
+principles:
+- **Neutrality**, words are sourced from all world languages proportional to the
+square root of their world population of L1 speakers. The grammar is considered
+an analytic isolating language like it's forebears Kokanu and Toki Pona. The
+grammar is largely a match for Kokanu's (which bears some resemblance to its
+forebear, Toki Pona) but a few things have been tweaked and a more complete
+particle system implemented. The grammar design is considered an exception to
+the neutrality principle in order to give enough leverage to the other guiding
+principles.
+- **Succinctness**, words are kept to a minimum where possible but information
+density is strongly considered so that the language can still be used for
+translations of popular media. This principle is not the same as the more strict
+principle of minimalism in that it is meant to allow for including words from
+(1) concepts that appear in a multitude of conversations and (2) concepts that
+would derail a sentence from comprehension due to the added working memory to
+develop the understanding of the sentence.
+- **Expressivity**, the language is designed to be highly expressive in its word
+and grammar choices. With around 750 words, there's a lot more ways to express
+feelings, emotions, objects, actions and anything else you can think of. The
+language has been tested against a multitude of translation media to confirm
+that no concept is too challenging or too verbose to express. Additionally, the
+grammar has been enhanced to allow for builtin handling of tense, aspect, and
+mood, causation, and volition.
 
-Some of these principles and the language features that you will learn may seem contrary
-to the min-max tradition of IAL design but that is part of the point: too much effort within
-IAL development is spent on regularization of existing grammatical tactics of natural
-languages. Hisyëö bucks that trend and tries to go the fun route. After all, the world
-won't bend for more of what they already have—even if it is simpler.
+Some of these principles and the language features that you will learn may seem
+contrary to the min-max tradition of IAL design but that is part of the point:
+too much effort within IAL development is spent on regularization of existing
+grammatical tactics of natural languages. Hisyëö bucks that trend and tries to
+go the *fun* route. After all, the world won't bend for more of what they
+already have—even if it is simpler.
 
 ## Where did Hisyëö come from?
 
-Hisyëö was borne out of a desire from a Kokanu manager to grow the language into something
-that could truly be versatile enough to be used for scientific papers and philosophical
-treateses. Despite a small group of interested Kokanauts, the majority of the community
-didn't want the added volume of words that might be only usable in certain contexts.
-Kokanu is intended to be used for "basic communication" and this realization was the 
-primary driver for the split.
+Hisyëö was borne out of a desire from a member of the Kokanu community to grow
+the language into something that could truly be versatile enough to be used for
+translations of popular media, scientific papers and philosophical treateses.
+Despite a small group of interested Kokanauts, the majority of the community
+didn't want the added volume of words that might be only usable in certain
+contexts. Kokanu is intended to be used for "basic communication" and this
+realization was the primary driver for this language.
 
 ## The Basics
 

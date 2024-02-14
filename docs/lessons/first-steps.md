@@ -68,13 +68,13 @@ in day-to-day conversation:
 
 ## Pronunciation
 
-Learning how to pronounce the words requires learning how each of the 24 phonemes
-work and how they combine to form syllables. Each translation has a wide array
-of acceptable alternatives that you can use if certain sounds are too
+Learning how to pronounce the words requires learning how each of the 24
+phonemes work and how they combine to form syllables. Each translation has a
+wide array of acceptable alternatives that you can use if certain sounds are too
 challenging. The distance between each sound can be subtle in certain words and
-with certain speakers but the words were chosen in such a way that there won't
-be words that have a nearby pronunciation which would be too difficult to
-differentiate.
+with certain speakers but the words were chosen in such a way that there
+shouldn't be words that have a nearby pronunciation which would be too difficult
+to differentiate.
 
 
 
