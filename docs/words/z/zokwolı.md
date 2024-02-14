@@ -1,5 +1,6 @@
 ---
 id: zokwolı
+slug: zokwolı
 title: zokwolı
 hoverText: pyramid § Noun
 ---

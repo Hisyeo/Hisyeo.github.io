@@ -1,5 +1,6 @@
 ---
 id: ipüdü
+slug: ipüdü
 title: ipüdü
 hoverText: now § Modifier
 ---

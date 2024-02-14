@@ -1,5 +1,6 @@
 ---
 id: ȷütö
+slug: ȷütö
 title: ȷütö
 hoverText: to regret (a regret) § Verb
 ---

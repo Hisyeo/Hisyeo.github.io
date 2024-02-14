@@ -1,5 +1,6 @@
 ---
 id: mötö
+slug: mötö
 title: mötö
 hoverText: fire § Noun
 ---

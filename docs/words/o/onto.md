@@ -1,5 +1,6 @@
 ---
 id: onto
+slug: onto
 title: onto
 hoverText: to ready (a preparable entity) § Verb
 ---

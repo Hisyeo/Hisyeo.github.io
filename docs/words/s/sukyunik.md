@@ -1,5 +1,6 @@
 ---
 id: sukyunik
+slug: sukyunik
 title: sukyunik
 hoverText: mucus § Noun
 ---

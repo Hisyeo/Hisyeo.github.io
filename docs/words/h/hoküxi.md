@@ -1,5 +1,6 @@
 ---
 id: hoküxi
+slug: hoküxi
 title: hoküxi
 hoverText: clapping/applauding § Modifier
 ---

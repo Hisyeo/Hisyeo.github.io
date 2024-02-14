@@ -1,5 +1,6 @@
 ---
 id: nıwos
+slug: nıwos
 title: nıwos
 hoverText: to reside in (a residence) § Verb
 ---

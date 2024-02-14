@@ -1,5 +1,6 @@
 ---
 id: onö
+slug: onö
 title: onö
 hoverText: that (distant) § Pronoun
 ---

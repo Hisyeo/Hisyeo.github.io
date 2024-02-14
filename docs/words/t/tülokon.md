@@ -1,5 +1,6 @@
 ---
 id: tülokon
+slug: tülokon
 title: tülokon
 hoverText: to adjudge (judgement) § Verb
 ---

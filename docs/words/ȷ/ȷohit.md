@@ -1,5 +1,6 @@
 ---
 id: ȷohit
+slug: ȷohit
 title: ȷohit
 hoverText: to sew (sewable entity) § Verb
 ---

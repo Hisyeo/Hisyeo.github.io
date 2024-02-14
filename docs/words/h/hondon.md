@@ -1,5 +1,6 @@
 ---
 id: hondon
+slug: hondon
 title: hondon
 hoverText: family § Noun
 ---

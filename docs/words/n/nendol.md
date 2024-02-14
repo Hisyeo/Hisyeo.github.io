@@ -1,5 +1,6 @@
 ---
 id: nendol
+slug: nendol
 title: nendol
 hoverText: famous § Modifier
 ---

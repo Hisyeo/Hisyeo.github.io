@@ -1,5 +1,6 @@
 ---
 id: ȷowopü
+slug: ȷowopü
 title: ȷowopü
 hoverText: to answer (a response) § Verb
 ---

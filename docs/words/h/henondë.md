@@ -1,5 +1,6 @@
 ---
 id: henondë
+slug: henondë
 title: henondë
 hoverText: hanging § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: ȷoston
+slug: ȷoston
 title: ȷoston
 hoverText: jump § Noun
 ---

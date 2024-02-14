@@ -1,5 +1,6 @@
 ---
 id: döhil
+slug: döhil
 title: döhil
 hoverText: dirty § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: hoxopë
+slug: hoxopë
 title: hoxopë
 hoverText: beam/joist/stud § Noun
 ---

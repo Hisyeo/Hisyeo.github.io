@@ -1,5 +1,6 @@
 ---
 id: ëto
+slug: ëto
 title: ëto
 hoverText: many § Quantity
 ---

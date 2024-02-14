@@ -1,5 +1,6 @@
 ---
 id: muni
+slug: muni
 title: muni
 hoverText: money § Noun
 ---

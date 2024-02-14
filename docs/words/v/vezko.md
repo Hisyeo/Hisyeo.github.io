@@ -1,5 +1,6 @@
 ---
 id: vezko
+slug: vezko
 title: vezko
 hoverText: liquid § Noun
 ---

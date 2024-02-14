@@ -1,5 +1,6 @@
 ---
 id: güwexo
+slug: güwexo
 title: güwexo
 hoverText: war § Noun
 ---

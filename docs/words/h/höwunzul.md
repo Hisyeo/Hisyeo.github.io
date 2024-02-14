@@ -1,5 +1,6 @@
 ---
 id: höwunzul
+slug: höwunzul
 title: höwunzul
 hoverText: plastic § Noun
 ---

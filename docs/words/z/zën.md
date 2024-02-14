@@ -1,5 +1,6 @@
 ---
 id: zën
+slug: zën
 title: zën
 hoverText: 1000 thousand § Quantity
 ---

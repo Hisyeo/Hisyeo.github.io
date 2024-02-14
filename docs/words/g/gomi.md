@@ -1,5 +1,6 @@
 ---
 id: gomi
+slug: gomi
 title: gomi
 hoverText: to take (a taken entity) § Verb
 ---

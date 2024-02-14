@@ -1,5 +1,6 @@
 ---
 id: sëkiton
+slug: sëkiton
 title: sëkiton
 hoverText: coal/cinder § Noun
 ---

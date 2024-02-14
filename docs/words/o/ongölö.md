@@ -1,5 +1,6 @@
 ---
 id: ongölö
+slug: ongölö
 title: ongölö
 hoverText: corner § Noun
 ---

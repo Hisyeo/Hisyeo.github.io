@@ -1,5 +1,6 @@
 ---
 id: küdu
+slug: küdu
 title: küdu
 hoverText: horse § Noun
 ---

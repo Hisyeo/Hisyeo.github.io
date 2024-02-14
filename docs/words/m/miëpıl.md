@@ -1,5 +1,6 @@
 ---
 id: miëpıl
+slug: miëpıl
 title: miëpıl
 hoverText: furniture § Noun
 ---

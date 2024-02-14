@@ -1,5 +1,6 @@
 ---
 id: poholon
+slug: poholon
 title: poholon
 hoverText: closet/cupboard/cabinet § Noun
 ---

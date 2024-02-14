@@ -1,5 +1,6 @@
 ---
 id: hünsık
+slug: hünsık
 title: hünsık
 hoverText: red § Modifier
 ---

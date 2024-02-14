@@ -1,5 +1,6 @@
 ---
 id: pügot
+slug: pügot
 title: pügot
 hoverText: heavy § Modifier
 ---

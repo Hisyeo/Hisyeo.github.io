@@ -1,5 +1,6 @@
 ---
 id: tömös
+slug: tömös
 title: tömös
 hoverText: book § Noun
 ---

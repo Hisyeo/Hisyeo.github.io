@@ -1,5 +1,6 @@
 ---
 id: tiso
+slug: tiso
 title: tiso
 hoverText: 09 nine § Quantity
 ---

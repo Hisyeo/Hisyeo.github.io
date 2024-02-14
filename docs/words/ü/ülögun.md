@@ -1,5 +1,6 @@
 ---
 id: ülögun
+slug: ülögun
 title: ülögun
 hoverText: metal § Noun
 ---

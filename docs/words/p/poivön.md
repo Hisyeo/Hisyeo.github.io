@@ -1,5 +1,6 @@
 ---
 id: poivön
+slug: poivön
 title: poivön
 hoverText: to emit (excreta) § Verb
 ---

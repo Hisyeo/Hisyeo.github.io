@@ -1,5 +1,6 @@
 ---
 id: vëlzin
+slug: vëlzin
 title: vëlzin
 hoverText: last/latest § Quantity
 ---

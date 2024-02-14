@@ -1,5 +1,6 @@
 ---
 id: zunyü
+slug: zunyü
 title: zunyü
 hoverText: cold § Modifier
 ---

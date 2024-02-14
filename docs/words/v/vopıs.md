@@ -1,5 +1,6 @@
 ---
 id: vopıs
+slug: vopıs
 title: vopıs
 hoverText: to record (data/a recording) § Verb
 ---

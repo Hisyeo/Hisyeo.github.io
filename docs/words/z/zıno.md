@@ -1,5 +1,6 @@
 ---
 id: zıno
+slug: zıno
 title: zıno
 hoverText: charge/fee/tax § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: dökzon
+slug: dökzon
 title: dökzon
 hoverText: decent § Modifier
 ---

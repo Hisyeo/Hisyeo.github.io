@@ -1,5 +1,6 @@
 ---
 id: konxo
+slug: konxo
 title: konxo
 hoverText: thankful/grateful § Modifier
 ---

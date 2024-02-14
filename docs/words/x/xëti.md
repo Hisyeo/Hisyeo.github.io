@@ -1,5 +1,6 @@
 ---
 id: xëti
+slug: xëti
 title: xëti
 hoverText: 07 seven § Quantity
 ---

@@ -1,5 +1,6 @@
 ---
 id: müësi
+slug: müësi
 title: müësi
 hoverText: moon § Noun
 ---

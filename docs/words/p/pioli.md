@@ -1,5 +1,6 @@
 ---
 id: pioli
+slug: pioli
 title: pioli
 hoverText: hello/goodbye § Grammar
 ---

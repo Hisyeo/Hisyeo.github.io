@@ -1,5 +1,6 @@
 ---
 id: moskül
+slug: moskül
 title: moskül
 hoverText: male § Modifier
 ---

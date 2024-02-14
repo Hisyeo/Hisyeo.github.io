@@ -1,5 +1,6 @@
 ---
 id: müstokin
+slug: müstokin
 title: müstokin
 hoverText: straight § Modifier
 ---

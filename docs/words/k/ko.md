@@ -1,5 +1,6 @@
 ---
 id: ko
+slug: ko
 title: ko
 hoverText: interrogative clause ender (yes?) § Grammar
 ---

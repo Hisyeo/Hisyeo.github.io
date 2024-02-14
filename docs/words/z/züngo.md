@@ -1,5 +1,6 @@
 ---
 id: züngo
+slug: züngo
 title: züngo
 hoverText: to filter (filterable entity) § Verb
 ---

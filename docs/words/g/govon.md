@@ -1,5 +1,6 @@
 ---
 id: govon
+slug: govon
 title: govon
 hoverText: disgusted § Modifier
 ---

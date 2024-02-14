@@ -1,5 +1,6 @@
 ---
 id: kozko
+slug: kozko
 title: kozko
 hoverText: rough § Modifier
 ---

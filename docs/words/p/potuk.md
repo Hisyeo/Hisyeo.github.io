@@ -1,5 +1,6 @@
 ---
 id: potuk
+slug: potuk
 title: potuk
 hoverText: flat § Modifier
 ---

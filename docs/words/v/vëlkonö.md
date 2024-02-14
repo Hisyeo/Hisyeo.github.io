@@ -1,5 +1,6 @@
 ---
 id: vëlkonö
+slug: vëlkonö
 title: vëlkonö
 hoverText: close § Modifier
 ---

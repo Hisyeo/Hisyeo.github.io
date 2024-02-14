@@ -1,5 +1,6 @@
 ---
 id: pızko
+slug: pızko
 title: pızko
 hoverText: 05 five § Quantity
 ---

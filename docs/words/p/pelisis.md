@@ -1,5 +1,6 @@
 ---
 id: pelisis
+slug: pelisis
 title: pelisis
 hoverText: unsure § Modifier
 ---

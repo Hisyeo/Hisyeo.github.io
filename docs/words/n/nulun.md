@@ -1,5 +1,6 @@
 ---
 id: nulun
+slug: nulun
 title: nulun
 hoverText: soft § Modifier
 ---

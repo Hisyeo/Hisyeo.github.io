@@ -1,5 +1,6 @@
 ---
 id: zülzi
+slug: zülzi
 title: zülzi
 hoverText: trick/scam § Noun
 ---

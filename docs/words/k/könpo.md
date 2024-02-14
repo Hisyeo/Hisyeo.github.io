@@ -1,5 +1,6 @@
 ---
 id: könpo
+slug: könpo
 title: könpo
 hoverText: shaking § Modifier
 ---

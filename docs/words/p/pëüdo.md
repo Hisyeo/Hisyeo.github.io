@@ -1,5 +1,6 @@
 ---
 id: pëüdo
+slug: pëüdo
 title: pëüdo
 hoverText: to learn (a learnable entity) § Verb
 ---

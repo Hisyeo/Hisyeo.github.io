@@ -1,5 +1,6 @@
 ---
 id: uskivo
+slug: uskivo
 title: uskivo
 hoverText: to avoid/dodge (avoidable/dodgeable entity) § Verb
 ---

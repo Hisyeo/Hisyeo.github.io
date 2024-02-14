@@ -1,5 +1,6 @@
 ---
 id: ilziȷuk
+slug: ilziȷuk
 title: ilziȷuk
 hoverText: temporary § Modifier
 ---

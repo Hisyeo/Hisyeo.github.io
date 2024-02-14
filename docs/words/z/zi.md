@@ -1,5 +1,6 @@
 ---
 id: zi
+slug: zi
 title: zi
 hoverText: propositive clause ender (agree?) § Grammar
 ---

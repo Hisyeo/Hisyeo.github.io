@@ -1,5 +1,6 @@
 ---
 id: söltüstık
+slug: söltüstık
 title: söltüstık
 hoverText: northern § Modifier
 ---

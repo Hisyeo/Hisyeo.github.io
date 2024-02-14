@@ -1,5 +1,6 @@
 ---
 id: yoskinyo
+slug: yoskinyo
 title: yoskinyo
 hoverText: cave § Noun
 ---

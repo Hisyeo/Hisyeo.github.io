@@ -1,5 +1,6 @@
 ---
 id: kötvüso
+slug: kötvüso
 title: kötvüso
 hoverText: cephalapod § Noun
 ---

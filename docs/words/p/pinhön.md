@@ -1,5 +1,6 @@
 ---
 id: pinhön
+slug: pinhön
 title: pinhön
 hoverText: magenta § Modifier
 ---

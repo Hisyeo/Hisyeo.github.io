@@ -1,5 +1,6 @@
 ---
 id: yüpik
+slug: yüpik
 title: yüpik
 hoverText: to love (a lovable entity) § Verb
 ---

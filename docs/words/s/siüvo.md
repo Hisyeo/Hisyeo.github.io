@@ -1,5 +1,6 @@
 ---
 id: siüvo
+slug: siüvo
 title: siüvo
 hoverText: to digest (digestible entity) § Verb
 ---

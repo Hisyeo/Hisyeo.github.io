@@ -1,5 +1,6 @@
 ---
 id: zihun
+slug: zihun
 title: zihun
 hoverText: to pull/attract (a pullable entity) § Verb
 ---

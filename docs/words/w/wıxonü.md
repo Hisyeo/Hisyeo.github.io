@@ -1,5 +1,6 @@
 ---
 id: wıxonü
+slug: wıxonü
 title: wıxonü
 hoverText: virus § Noun
 ---

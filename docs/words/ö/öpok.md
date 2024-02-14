@@ -1,5 +1,6 @@
 ---
 id: öpok
+slug: öpok
 title: öpok
 hoverText: opaque § Modifier
 ---

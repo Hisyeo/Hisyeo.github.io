@@ -1,5 +1,6 @@
 ---
 id: mühoyon
+slug: mühoyon
 title: mühoyon
 hoverText: camp § Modifier
 ---

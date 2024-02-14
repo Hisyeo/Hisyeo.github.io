@@ -1,5 +1,6 @@
 ---
 id: sozok
+slug: sozok
 title: sozok
 hoverText: starting § Modifier
 ---

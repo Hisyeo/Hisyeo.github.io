@@ -1,5 +1,6 @@
 ---
 id: neigın
+slug: neigın
 title: neigın
 hoverText: tendency/inclination § Noun
 ---

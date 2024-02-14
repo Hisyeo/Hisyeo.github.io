@@ -1,5 +1,6 @@
 ---
 id: dodë
+slug: dodë
 title: dodë
 hoverText: to bathe (batheable entity) § Verb
 ---

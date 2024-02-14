@@ -1,5 +1,6 @@
 ---
 id: okoxu
+slug: okoxu
 title: okoxu
 hoverText: sky § Noun
 ---

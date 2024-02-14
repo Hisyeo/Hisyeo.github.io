@@ -1,5 +1,6 @@
 ---
 id: zülül
+slug: zülül
 title: zülül
 hoverText: coil § Noun
 ---

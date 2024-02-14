@@ -1,5 +1,6 @@
 ---
 id: ozüo
+slug: ozüo
 title: ozüo
 hoverText: skin § Noun
 ---

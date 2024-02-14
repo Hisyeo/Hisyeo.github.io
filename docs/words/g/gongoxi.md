@@ -1,5 +1,6 @@
 ---
 id: gongoxi
+slug: gongoxi
 title: gongoxi
 hoverText: alarm § Noun
 ---

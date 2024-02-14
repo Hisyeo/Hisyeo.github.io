@@ -1,5 +1,6 @@
 ---
 id: këskin
+slug: këskin
 title: këskin
 hoverText: sharp § Modifier
 ---

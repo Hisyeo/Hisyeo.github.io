@@ -1,5 +1,6 @@
 ---
 id: xınkö
+slug: xınkö
 title: xınkö
 hoverText: neck/throat § Noun
 ---

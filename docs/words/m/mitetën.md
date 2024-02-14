@@ -1,5 +1,6 @@
 ---
 id: mitetën
+slug: mitetën
 title: mitetën
 hoverText: trivial § Modifier
 ---

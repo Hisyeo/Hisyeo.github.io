@@ -1,5 +1,6 @@
 ---
 id: pınlëö
+slug: pınlëö
 title: pınlëö
 hoverText: bay/golf § Noun
 ---

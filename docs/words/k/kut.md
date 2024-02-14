@@ -1,5 +1,6 @@
 ---
 id: kut
+slug: kut
 title: kut
 hoverText: 01 one § Quantity
 ---

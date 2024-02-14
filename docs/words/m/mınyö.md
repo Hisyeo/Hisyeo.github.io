@@ -1,5 +1,6 @@
 ---
 id: mınyö
+slug: mınyö
 title: mınyö
 hoverText: worm § Noun
 ---

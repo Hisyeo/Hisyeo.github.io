@@ -1,5 +1,6 @@
 ---
 id: ȷënsi
+slug: ȷënsi
 title: ȷënsi
 hoverText: sexual § Modifier
 ---

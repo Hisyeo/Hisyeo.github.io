@@ -1,5 +1,6 @@
 ---
 id: litıwe
+slug: litıwe
 title: litıwe
 hoverText: related § Modifier
 ---

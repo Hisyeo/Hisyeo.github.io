@@ -1,5 +1,6 @@
 ---
 id: ȷünlo
+slug: ȷünlo
 title: ȷünlo
 hoverText: clause/sentence § Noun
 ---

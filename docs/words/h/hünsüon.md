@@ -1,5 +1,6 @@
 ---
 id: hünsüon
+slug: hünsüon
 title: hünsüon
 hoverText: partner § Noun
 ---

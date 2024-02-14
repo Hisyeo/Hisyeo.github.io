@@ -1,5 +1,6 @@
 ---
 id: numüno
+slug: numüno
 title: numüno
 hoverText: example § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: vixës
+slug: vixës
 title: vixës
 hoverText: special/unique § Modifier
 ---

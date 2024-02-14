@@ -1,5 +1,6 @@
 ---
 id: zëvulo
+slug: zëvulo
 title: zëvulo
 hoverText: dancing § Modifier
 ---

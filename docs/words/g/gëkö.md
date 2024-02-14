@@ -1,5 +1,6 @@
 ---
 id: gëkö
+slug: gëkö
 title: gëkö
 hoverText: soil/dirt § Noun
 ---

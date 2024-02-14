@@ -1,5 +1,6 @@
 ---
 id: tözit
+slug: tözit
 title: tözit
 hoverText: blunt § Modifier
 ---

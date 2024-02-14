@@ -1,5 +1,6 @@
 ---
 id: woton
+slug: woton
 title: woton
 hoverText: ring/circle § Noun
 ---

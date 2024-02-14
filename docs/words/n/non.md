@@ -1,5 +1,6 @@
 ---
 id: non
+slug: non
 title: non
 hoverText: movie/show § Noun
 ---

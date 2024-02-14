@@ -1,5 +1,6 @@
 ---
 id: inpoli
+slug: inpoli
 title: inpoli
 hoverText: flower § Noun
 ---

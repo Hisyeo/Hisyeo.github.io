@@ -1,5 +1,6 @@
 ---
 id: köntësto
+slug: köntësto
 title: köntësto
 hoverText: to contend (contendable entity) § Verb
 ---

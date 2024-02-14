@@ -1,5 +1,6 @@
 ---
 id: wëloı
+slug: wëloı
 title: wëloı
 hoverText: occupation § Noun
 ---

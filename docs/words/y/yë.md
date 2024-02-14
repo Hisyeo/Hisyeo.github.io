@@ -1,5 +1,6 @@
 ---
 id: yë
+slug: yë
 title: yë
 hoverText: of § Grammar
 ---

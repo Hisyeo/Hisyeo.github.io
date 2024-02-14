@@ -1,5 +1,6 @@
 ---
 id: vünpö
+slug: vünpö
 title: vünpö
 hoverText: to squeeze (squeezable entity) § Verb
 ---

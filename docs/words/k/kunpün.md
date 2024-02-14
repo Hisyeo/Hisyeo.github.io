@@ -1,5 +1,6 @@
 ---
 id: kunpün
+slug: kunpün
 title: kunpün
 hoverText: abstract verb noun proclitic § Grammar
 ---

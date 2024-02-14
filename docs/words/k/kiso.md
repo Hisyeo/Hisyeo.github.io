@@ -1,5 +1,6 @@
 ---
 id: kiso
+slug: kiso
 title: kiso
 hoverText: to narrate (a story) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: lönzön
+slug: lönzön
 title: lönzön
 hoverText: naked § Modifier
 ---

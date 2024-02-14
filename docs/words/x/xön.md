@@ -1,5 +1,6 @@
 ---
 id: xön
+slug: xön
 title: xön
 hoverText: good § Modifier
 ---

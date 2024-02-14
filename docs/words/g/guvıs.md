@@ -1,5 +1,6 @@
 ---
 id: guvıs
+slug: guvıs
 title: guvıs
 hoverText: certain § Modifier
 ---

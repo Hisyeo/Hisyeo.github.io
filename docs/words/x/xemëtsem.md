@@ -1,5 +1,6 @@
 ---
 id: xemëtsem
+slug: xemëtsem
 title: xemëtsem
 hoverText: noun § Noun
 ---

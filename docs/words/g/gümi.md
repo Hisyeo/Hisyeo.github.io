@@ -1,5 +1,6 @@
 ---
 id: gümi
+slug: gümi
 title: gümi
 hoverText: rubber § Noun
 ---

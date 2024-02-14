@@ -1,5 +1,6 @@
 ---
 id: moxo
+slug: moxo
 title: moxo
 hoverText: decorative/ornamental § Modifier
 ---

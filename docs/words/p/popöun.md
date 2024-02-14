@@ -1,5 +1,6 @@
 ---
 id: popöun
+slug: popöun
 title: popöun
 hoverText: system § Noun
 ---

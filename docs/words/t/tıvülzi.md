@@ -1,5 +1,6 @@
 ---
 id: tıvülzi
+slug: tıvülzi
 title: tıvülzi
 hoverText: creative § Modifier
 ---

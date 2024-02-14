@@ -1,5 +1,6 @@
 ---
 id: hulükö
+slug: hulükö
 title: hulükö
 hoverText: lightweight § Modifier
 ---

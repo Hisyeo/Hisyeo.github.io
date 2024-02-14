@@ -1,5 +1,6 @@
 ---
 id: sokovü
+slug: sokovü
 title: sokovü
 hoverText: floor § Noun
 ---

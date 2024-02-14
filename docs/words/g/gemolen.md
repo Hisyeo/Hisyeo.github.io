@@ -1,5 +1,6 @@
 ---
 id: gemolen
+slug: gemolen
 title: gemolen
 hoverText: milled/ground/crushed § Modifier
 ---

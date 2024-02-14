@@ -1,5 +1,6 @@
 ---
 id: pılit
+slug: pılit
 title: pılit
 hoverText: sticky § Modifier
 ---

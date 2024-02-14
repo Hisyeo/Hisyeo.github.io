@@ -1,5 +1,6 @@
 ---
 id: möi
+slug: möi
 title: möi
 hoverText: all/every § Quantity
 ---

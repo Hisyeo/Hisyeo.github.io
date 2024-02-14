@@ -1,5 +1,6 @@
 ---
 id: gisgül
+slug: gisgül
 title: gisgül
 hoverText: step/rung § Noun
 ---

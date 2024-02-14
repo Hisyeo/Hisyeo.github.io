@@ -1,5 +1,6 @@
 ---
 id: noposo
+slug: noposo
 title: noposo
 hoverText: wet § Modifier
 ---

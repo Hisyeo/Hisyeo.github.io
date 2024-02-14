@@ -1,5 +1,6 @@
 ---
 id: pön
+slug: pön
 title: pön
 hoverText: to cause (an effect) § Verb
 ---

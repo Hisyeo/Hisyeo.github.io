@@ -1,5 +1,6 @@
 ---
 id: sovoün
+slug: sovoün
 title: sovoün
 hoverText: soap § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: wëko
+slug: wëko
 title: wëko
 hoverText: to place (placeable entity) § Verb
 ---

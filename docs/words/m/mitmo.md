@@ -1,5 +1,6 @@
 ---
 id: mitmo
+slug: mitmo
 title: mitmo
 hoverText: colony § Noun
 ---

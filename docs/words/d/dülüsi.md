@@ -1,5 +1,6 @@
 ---
 id: dülüsi
+slug: dülüsi
 title: dülüsi
 hoverText: reptile § Noun
 ---

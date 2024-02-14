@@ -1,5 +1,6 @@
 ---
 id: tukwos
+slug: tukwos
 title: tukwos
 hoverText: 08 eight § Quantity
 ---

@@ -1,5 +1,6 @@
 ---
 id: muxgül
+slug: muxgül
 title: muxgül
 hoverText: occupied/engaged/busy § Modifier
 ---

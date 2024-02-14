@@ -1,5 +1,6 @@
 ---
 id: tolën
+slug: tolën
 title: tolën
 hoverText: limb § Noun
 ---

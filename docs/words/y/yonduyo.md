@@ -1,5 +1,6 @@
 ---
 id: yonduyo
+slug: yonduyo
 title: yonduyo
 hoverText: machine § Noun
 ---

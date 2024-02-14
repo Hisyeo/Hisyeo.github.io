@@ -1,5 +1,6 @@
 ---
 id: münzü
+slug: münzü
 title: münzü
 hoverText: tart § Modifier
 ---

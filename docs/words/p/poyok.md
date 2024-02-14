@@ -1,5 +1,6 @@
 ---
 id: poyok
+slug: poyok
 title: poyok
 hoverText: recent § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: mozi
+slug: mozi
 title: mozi
 hoverText: to await (an expectation) § Verb
 ---

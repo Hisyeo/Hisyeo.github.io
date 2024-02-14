@@ -1,5 +1,6 @@
 ---
 id: godi
+slug: godi
 title: godi
 hoverText: grass § Noun
 ---

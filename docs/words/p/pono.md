@@ -1,5 +1,6 @@
 ---
 id: pono
+slug: pono
 title: pono
 hoverText: facing/pointing § Modifier
 ---

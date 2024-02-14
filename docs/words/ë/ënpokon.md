@@ -1,5 +1,6 @@
 ---
 id: ënpokon
+slug: ënpokon
 title: ënpokon
 hoverText: belch/burp § Noun
 ---

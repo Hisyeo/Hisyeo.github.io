@@ -1,5 +1,6 @@
 ---
 id: ke
+slug: ke
 title: ke
 hoverText: future verb proclitic § Grammar
 ---

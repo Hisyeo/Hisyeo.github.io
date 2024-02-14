@@ -1,5 +1,6 @@
 ---
 id: mulö
+slug: mulö
 title: mulö
 hoverText: up § Noun
 ---

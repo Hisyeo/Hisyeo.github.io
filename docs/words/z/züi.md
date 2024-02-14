@@ -1,5 +1,6 @@
 ---
 id: züi
+slug: züi
 title: züi
 hoverText: rodent § Noun
 ---

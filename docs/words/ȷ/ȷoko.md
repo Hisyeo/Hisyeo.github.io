@@ -1,5 +1,6 @@
 ---
 id: ȷoko
+slug: ȷoko
 title: ȷoko
 hoverText: bag § Noun
 ---

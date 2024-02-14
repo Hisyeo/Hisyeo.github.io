@@ -1,5 +1,6 @@
 ---
 id: hüwu
+slug: hüwu
 title: hüwu
 hoverText: egg § Noun
 ---

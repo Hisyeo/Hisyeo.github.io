@@ -1,5 +1,6 @@
 ---
 id: wokto
+slug: wokto
 title: wokto
 hoverText: outside § Noun
 ---

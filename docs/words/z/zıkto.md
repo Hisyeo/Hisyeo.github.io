@@ -1,5 +1,6 @@
 ---
 id: zıkto
+slug: zıkto
 title: zıkto
 hoverText: to write (text) § Verb
 ---

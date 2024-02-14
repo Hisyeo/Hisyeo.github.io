@@ -1,5 +1,6 @@
 ---
 id: müt
+slug: müt
 title: müt
 hoverText: direction/recipient (towards) § Preposition
 ---

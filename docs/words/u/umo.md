@@ -1,5 +1,6 @@
 ---
 id: umo
+slug: umo
 title: umo
 hoverText: person § Noun
 ---

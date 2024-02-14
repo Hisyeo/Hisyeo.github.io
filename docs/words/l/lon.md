@@ -1,5 +1,6 @@
 ---
 id: lon
+slug: lon
 title: lon
 hoverText: distance/duration marker (for) § Grammar
 ---

@@ -1,5 +1,6 @@
 ---
 id: zitsë
+slug: zitsë
 title: zitsë
 hoverText: to accuse § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: isënsö
+slug: isënsö
 title: isënsö
 hoverText: verb § Noun
 ---

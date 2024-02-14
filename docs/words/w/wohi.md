@@ -1,5 +1,6 @@
 ---
 id: wohi
+slug: wohi
 title: wohi
 hoverText: female § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: ȷüntülu
+slug: ȷüntülu
 title: ȷüntülu
 hoverText: joint § Nöün
 ---

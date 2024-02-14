@@ -1,5 +1,6 @@
 ---
 id: dıpo
+slug: dıpo
 title: dıpo
 hoverText: container § Noun
 ---

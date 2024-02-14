@@ -1,5 +1,6 @@
 ---
 id: gundolë
+slug: gundolë
 title: gundolë
 hoverText: sphere § Noun
 ---

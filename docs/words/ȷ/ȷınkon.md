@@ -1,5 +1,6 @@
 ---
 id: ȷınkon
+slug: ȷınkon
 title: ȷınkon
 hoverText: door § Noun
 ---

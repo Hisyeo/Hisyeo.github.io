@@ -1,5 +1,6 @@
 ---
 id: nëxödi
+slug: nëxödi
 title: nëxödi
 hoverText: ethnic § Modifier
 ---

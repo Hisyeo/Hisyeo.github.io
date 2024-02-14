@@ -1,5 +1,6 @@
 ---
 id: künhiun
+slug: künhiun
 title: künhiun
 hoverText: step/pace § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: wilüwo
+slug: wilüwo
 title: wilüwo
 hoverText: value/cost § Noun
 ---

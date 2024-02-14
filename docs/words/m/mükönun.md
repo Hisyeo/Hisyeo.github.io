@@ -1,5 +1,6 @@
 ---
 id: mükönun
+slug: mükönun
 title: mükönun
 hoverText: triangle § Noun
 ---

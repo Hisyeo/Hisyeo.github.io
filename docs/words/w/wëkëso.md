@@ -1,5 +1,6 @@
 ---
 id: wëkëso
+slug: wëkëso
 title: wëkëso
 hoverText: to invest (investable entity) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: xömütlö
+slug: xömütlö
 title: xömütlö
 hoverText: ocean § Noun
 ---

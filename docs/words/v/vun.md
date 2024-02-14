@@ -1,5 +1,6 @@
 ---
 id: vun
+slug: vun
 title: vun
 hoverText: fraction § Quantity
 ---

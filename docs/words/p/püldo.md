@@ -1,5 +1,6 @@
 ---
 id: püldo
+slug: püldo
 title: püldo
 hoverText: to untie (untiable entity) § Verb
 ---

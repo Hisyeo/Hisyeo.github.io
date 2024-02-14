@@ -1,5 +1,6 @@
 ---
 id: noüku
+slug: noüku
 title: noüku
 hoverText: science § Noun
 ---

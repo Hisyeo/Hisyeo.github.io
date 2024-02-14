@@ -1,5 +1,6 @@
 ---
 id: lohot
+slug: lohot
 title: lohot
 hoverText: comfortable § Modifier
 ---

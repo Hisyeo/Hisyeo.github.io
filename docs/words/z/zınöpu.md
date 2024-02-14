@@ -1,5 +1,6 @@
 ---
 id: zınöpu
+slug: zınöpu
 title: zınöpu
 hoverText: vermilion § Modifier
 ---

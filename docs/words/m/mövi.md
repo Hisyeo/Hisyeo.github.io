@@ -1,5 +1,6 @@
 ---
 id: mövi
+slug: mövi
 title: mövi
 hoverText: brave/courageous § Modifier
 ---

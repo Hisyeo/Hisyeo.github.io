@@ -1,5 +1,6 @@
 ---
 id: pit
+slug: pit
 title: pit
 hoverText: conditional verb proclitic § Grammar
 ---

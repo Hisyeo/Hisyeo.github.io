@@ -1,5 +1,6 @@
 ---
 id: len
+slug: len
 title: len
 hoverText: strong § Modifier
 ---

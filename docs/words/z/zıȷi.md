@@ -1,5 +1,6 @@
 ---
 id: zıȷi
+slug: zıȷi
 title: zıȷi
 hoverText: self § Pronoun
 ---

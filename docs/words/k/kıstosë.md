@@ -1,5 +1,6 @@
 ---
 id: kıstosë
+slug: kıstosë
 title: kıstosë
 hoverText: crustacean § Noun
 ---

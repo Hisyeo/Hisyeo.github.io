@@ -1,5 +1,6 @@
 ---
 id: pöntı
+slug: pöntı
 title: pöntı
 hoverText: bridge § Noun
 ---

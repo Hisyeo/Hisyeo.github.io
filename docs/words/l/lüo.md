@@ -1,5 +1,6 @@
 ---
 id: lüo
+slug: lüo
 title: lüo
 hoverText: spirit/ghost § Noun
 ---

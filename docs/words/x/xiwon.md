@@ -1,5 +1,6 @@
 ---
 id: xiwon
+slug: xiwon
 title: xiwon
 hoverText: to hope/wish (a hope/wish) § Verb
 ---

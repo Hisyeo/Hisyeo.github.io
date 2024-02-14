@@ -1,5 +1,6 @@
 ---
 id: sıskin
+slug: sıskin
 title: sıskin
 hoverText: sibling § Noun
 ---

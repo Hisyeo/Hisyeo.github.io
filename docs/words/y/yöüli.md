@@ -1,5 +1,6 @@
 ---
 id: yöüli
+slug: yöüli
 title: yöüli
 hoverText: beneficial § Modifier
 ---

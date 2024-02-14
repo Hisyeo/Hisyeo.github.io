@@ -1,5 +1,6 @@
 ---
 id: zonwëpo
+slug: zonwëpo
 title: zonwëpo
 hoverText: to manufacture (goods) § Verb
 ---

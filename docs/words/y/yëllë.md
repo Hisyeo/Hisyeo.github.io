@@ -1,5 +1,6 @@
 ---
 id: yëllë
+slug: yëllë
 title: yëllë
 hoverText: problem § Noun
 ---

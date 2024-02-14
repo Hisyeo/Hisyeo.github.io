@@ -1,5 +1,6 @@
 ---
 id: xopëk
+slug: xopëk
 title: xopëk
 hoverText: previous § Modifier
 ---

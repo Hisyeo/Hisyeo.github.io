@@ -1,5 +1,6 @@
 ---
 id: gıtno
+slug: gıtno
 title: gıtno
 hoverText: intermediate marker (between) § Preposition
 ---

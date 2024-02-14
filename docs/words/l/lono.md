@@ -1,5 +1,6 @@
 ---
 id: lono
+slug: lono
 title: lono
 hoverText: day § Noun
 ---

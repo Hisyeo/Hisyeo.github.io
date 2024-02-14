@@ -1,5 +1,6 @@
 ---
 id: nuzoto
+slug: nuzoto
 title: nuzoto
 hoverText: planet § Noun
 ---

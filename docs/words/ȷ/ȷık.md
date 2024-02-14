@@ -1,5 +1,6 @@
 ---
 id: ȷık
+slug: ȷık
 title: ȷık
 hoverText: what § Pronoun
 ---

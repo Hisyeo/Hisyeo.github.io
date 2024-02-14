@@ -1,5 +1,6 @@
 ---
 id: mözılë
+slug: mözılë
 title: mözılë
 hoverText: to tie/entangle § Verb
 ---

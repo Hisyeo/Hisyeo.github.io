@@ -1,5 +1,6 @@
 ---
 id: ovinë
+slug: ovinë
 title: ovinë
 hoverText: cultivated/refined § Modifier
 ---

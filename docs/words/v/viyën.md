@@ -1,5 +1,6 @@
 ---
 id: viyën
+slug: viyën
 title: viyën
 hoverText: 100 hundred § Quantity
 ---

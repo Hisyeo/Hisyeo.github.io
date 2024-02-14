@@ -1,5 +1,6 @@
 ---
 id: mınyoto
+slug: mınyoto
 title: mınyoto
 hoverText: gastropod § Noun
 ---

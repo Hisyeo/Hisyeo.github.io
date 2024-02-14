@@ -1,5 +1,6 @@
 ---
 id: köto
+slug: köto
 title: köto
 hoverText: to talk (speech) § Verb
 ---

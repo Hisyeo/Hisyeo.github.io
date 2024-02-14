@@ -1,5 +1,6 @@
 ---
 id: mokon
+slug: mokon
 title: mokon
 hoverText: to eat (food) § Verb
 ---

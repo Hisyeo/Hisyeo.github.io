@@ -1,5 +1,6 @@
 ---
 id: kopüt
+slug: kopüt
 title: kopüt
 hoverText: broken/dysfunctional § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: wuto
+slug: wuto
 title: wuto
 hoverText: month § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: sünkon
+slug: sünkon
 title: sünkon
 hoverText: instantaneous § Modifier
 ---

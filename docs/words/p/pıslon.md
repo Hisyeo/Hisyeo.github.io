@@ -1,5 +1,6 @@
 ---
 id: pıslon
+slug: pıslon
 title: pıslon
 hoverText: thus far § Modifier
 ---

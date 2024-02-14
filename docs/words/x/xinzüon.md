@@ -1,5 +1,6 @@
 ---
 id: xinzüon
+slug: xinzüon
 title: xinzüon
 hoverText: shape/form § Noun
 ---

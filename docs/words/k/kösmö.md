@@ -1,5 +1,6 @@
 ---
 id: kösmö
+slug: kösmö
 title: kösmö
 hoverText: space/cosmos § Noun
 ---

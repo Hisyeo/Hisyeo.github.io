@@ -1,5 +1,6 @@
 ---
 id: düsul
+slug: düsul
 title: düsul
 hoverText: grey § Modifier
 ---

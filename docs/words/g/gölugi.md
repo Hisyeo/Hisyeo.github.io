@@ -1,5 +1,6 @@
 ---
 id: gölugi
+slug: gölugi
 title: gölugi
 hoverText: to imply (an implication) § Verb
 ---

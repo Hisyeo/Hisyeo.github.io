@@ -1,5 +1,6 @@
 ---
 id: nosö
+slug: nosö
 title: nosö
 hoverText: puzzle/mystery § Noun
 ---

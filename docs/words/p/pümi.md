@@ -1,5 +1,6 @@
 ---
 id: pümi
+slug: pümi
 title: pümi
 hoverText: ground/terrain/earth § Noun
 ---

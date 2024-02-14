@@ -1,5 +1,6 @@
 ---
 id: küöxi
+slug: küöxi
 title: küöxi
 hoverText: fruit § Noun
 ---

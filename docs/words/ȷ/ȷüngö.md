@@ -1,5 +1,6 @@
 ---
 id: ȷüngö
+slug: ȷüngö
 title: ȷüngö
 hoverText: hand § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: wëtü
+slug: wëtü
 title: wëtü
 hoverText: to cut (cuttable entity) § Verb
 ---

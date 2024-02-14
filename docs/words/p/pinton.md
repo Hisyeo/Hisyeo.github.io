@@ -1,5 +1,6 @@
 ---
 id: pinton
+slug: pinton
 title: pinton
 hoverText: star § Noun
 ---

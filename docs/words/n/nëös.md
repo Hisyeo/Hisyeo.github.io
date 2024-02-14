@@ -1,5 +1,6 @@
 ---
 id: nëös
+slug: nëös
 title: nëös
 hoverText: new/fresh § Modifier
 ---

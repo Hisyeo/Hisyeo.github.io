@@ -1,5 +1,6 @@
 ---
 id: vunlit
+slug: vunlit
 title: vunlit
 hoverText: split § Modifier
 ---

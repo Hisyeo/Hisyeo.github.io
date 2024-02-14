@@ -1,5 +1,6 @@
 ---
 id: wëlus
+slug: wëlus
 title: wëlus
 hoverText: oil § Noun
 ---

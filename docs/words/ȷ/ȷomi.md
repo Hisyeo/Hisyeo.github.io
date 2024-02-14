@@ -1,5 +1,6 @@
 ---
 id: ȷomi
+slug: ȷomi
 title: ȷomi
 hoverText: society/culture § Noun
 ---

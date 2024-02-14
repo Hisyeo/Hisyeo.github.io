@@ -1,5 +1,6 @@
 ---
 id: tolıyo
+slug: tolıyo
 title: tolıyo
 hoverText: pasta § Noun
 ---

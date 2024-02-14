@@ -1,5 +1,6 @@
 ---
 id: uklo
+slug: uklo
 title: uklo
 hoverText: next § Modifier
 ---

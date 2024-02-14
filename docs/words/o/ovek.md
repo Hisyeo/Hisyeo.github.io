@@ -1,5 +1,6 @@
 ---
 id: ovek
+slug: ovek
 title: ovek
 hoverText: collaborator marker (alongside/with) § Preposition
 ---

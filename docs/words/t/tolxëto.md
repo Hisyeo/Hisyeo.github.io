@@ -1,5 +1,6 @@
 ---
 id: tolxëto
+slug: tolxëto
 title: tolxëto
 hoverText: card § Noun
 ---

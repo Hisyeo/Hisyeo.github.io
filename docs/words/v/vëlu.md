@@ -1,5 +1,6 @@
 ---
 id: vëlu
+slug: vëlu
 title: vëlu
 hoverText: to feel (an emotion) § Verb
 ---

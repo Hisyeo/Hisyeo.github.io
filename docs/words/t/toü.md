@@ -1,5 +1,6 @@
 ---
 id: toü
+slug: toü
 title: toü
 hoverText: 06 six § Quantity
 ---

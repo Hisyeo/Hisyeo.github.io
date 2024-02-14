@@ -1,5 +1,6 @@
 ---
 id: hüȷon
+slug: hüȷon
 title: hüȷon
 hoverText: rain § Noun
 ---

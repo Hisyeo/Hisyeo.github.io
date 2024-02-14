@@ -1,5 +1,6 @@
 ---
 id: züdo
+slug: züdo
 title: züdo
 hoverText: to give (a gift) § Verb
 ---

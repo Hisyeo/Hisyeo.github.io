@@ -1,5 +1,6 @@
 ---
 id: putün
+slug: putün
 title: putün
 hoverText: unmoving § Modifier
 ---

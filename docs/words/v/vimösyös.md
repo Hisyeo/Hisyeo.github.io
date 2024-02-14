@@ -1,5 +1,6 @@
 ---
 id: vimösyös
+slug: vimösyös
 title: vimösyös
 hoverText: public/communal § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: igomo
+slug: igomo
 title: igomo
 hoverText: word/name § Noun
 ---

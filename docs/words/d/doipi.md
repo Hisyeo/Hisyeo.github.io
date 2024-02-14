@@ -1,5 +1,6 @@
 ---
 id: doipi
+slug: doipi
 title: doipi
 hoverText: ticket/pass § Noun
 ---

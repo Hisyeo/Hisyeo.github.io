@@ -1,5 +1,6 @@
 ---
 id: ëlëo
+slug: ëlëo
 title: ëlëo
 hoverText: floating § Modifier
 ---

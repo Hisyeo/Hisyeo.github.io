@@ -1,5 +1,6 @@
 ---
 id: dumoko
+slug: dumoko
 title: dumoko
 hoverText: explosion/blast § Noun
 ---

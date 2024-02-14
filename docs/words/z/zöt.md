@@ -1,5 +1,6 @@
 ---
 id: zöt
+slug: zöt
 title: zöt
 hoverText: thick § Modifier
 ---

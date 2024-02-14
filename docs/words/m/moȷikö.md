@@ -1,5 +1,6 @@
 ---
 id: moȷikö
+slug: moȷikö
 title: moȷikö
 hoverText: magical § Modifier
 ---

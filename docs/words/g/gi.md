@@ -1,5 +1,6 @@
 ---
 id: gi
+slug: gi
 title: gi
 hoverText: perfect verb endoclitic § Grammar
 ---

@@ -1,5 +1,6 @@
 ---
 id: xolu
+slug: xolu
 title: xolu
 hoverText: bowl/cup § Noun
 ---

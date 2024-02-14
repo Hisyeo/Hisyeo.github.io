@@ -1,5 +1,6 @@
 ---
 id: kolowo
+slug: kolowo
 title: kolowo
 hoverText: art § Noun
 ---

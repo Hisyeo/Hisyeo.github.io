@@ -1,5 +1,6 @@
 ---
 id: nokdo
+slug: nokdo
 title: nokdo
 hoverText: old § Modifier
 ---

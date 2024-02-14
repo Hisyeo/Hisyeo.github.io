@@ -1,5 +1,6 @@
 ---
 id: zutië
+slug: zutië
 title: zutië
 hoverText: to fold (foldable entity) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: motüo
+slug: motüo
 title: motüo
 hoverText: parent § Noun
 ---

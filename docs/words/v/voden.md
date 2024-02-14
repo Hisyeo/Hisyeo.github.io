@@ -1,5 +1,6 @@
 ---
 id: voden
+slug: voden
 title: voden
 hoverText: back § Noun
 ---

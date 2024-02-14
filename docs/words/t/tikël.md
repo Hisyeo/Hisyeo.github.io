@@ -1,5 +1,6 @@
 ---
 id: tikël
+slug: tikël
 title: tikël
 hoverText: reflected § Modifier
 ---

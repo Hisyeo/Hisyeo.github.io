@@ -1,5 +1,6 @@
 ---
 id: yönë
+slug: yönë
 title: yönë
 hoverText: caprine § Noun
 ---

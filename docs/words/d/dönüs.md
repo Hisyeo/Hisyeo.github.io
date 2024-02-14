@@ -1,5 +1,6 @@
 ---
 id: dönüs
+slug: dönüs
 title: dönüs
 hoverText: pig § Noun
 ---

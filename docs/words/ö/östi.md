@@ -1,5 +1,6 @@
 ---
 id: östi
+slug: östi
 title: östi
 hoverText: bone § Noun
 ---

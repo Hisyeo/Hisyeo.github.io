@@ -1,5 +1,6 @@
 ---
 id: zokyen
+slug: zokyen
 title: zokyen
 hoverText: almost § Modifier
 ---

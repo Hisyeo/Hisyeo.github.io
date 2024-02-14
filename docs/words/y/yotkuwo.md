@@ -1,5 +1,6 @@
 ---
 id: yotkuwo
+slug: yotkuwo
 title: yotkuwo
 hoverText: ongoing § Modifier
 ---

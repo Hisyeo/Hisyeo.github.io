@@ -1,5 +1,6 @@
 ---
 id: xolxili
+slug: xolxili
 title: xolxili
 hoverText: teal § Modifier
 ---

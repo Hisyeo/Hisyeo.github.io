@@ -1,5 +1,6 @@
 ---
 id: koli
+slug: koli
 title: koli
 hoverText: down § Noun
 ---

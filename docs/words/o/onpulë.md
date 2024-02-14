@@ -1,5 +1,6 @@
 ---
 id: onpulë
+slug: onpulë
 title: onpulë
 hoverText: amber § Modifier
 ---

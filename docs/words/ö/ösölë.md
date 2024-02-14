@@ -1,5 +1,6 @@
 ---
 id: ösölë
+slug: ösölë
 title: ösölë
 hoverText: afraid § Modifier
 ---

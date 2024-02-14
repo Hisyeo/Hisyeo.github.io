@@ -1,5 +1,6 @@
 ---
 id: göwo
+slug: göwo
 title: göwo
 hoverText: foolish/obtuse § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: wokut
+slug: wokut
 title: wokut
 hoverText: time § Noun
 ---

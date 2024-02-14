@@ -1,5 +1,6 @@
 ---
 id: gelmıs
+slug: gelmıs
 title: gelmıs
 hoverText: stretched § Modifier
 ---

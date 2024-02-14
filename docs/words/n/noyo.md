@@ -1,5 +1,6 @@
 ---
 id: noyo
+slug: noyo
 title: noyo
 hoverText: I/me § Pronoun
 ---

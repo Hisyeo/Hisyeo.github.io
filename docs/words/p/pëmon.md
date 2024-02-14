@@ -1,5 +1,6 @@
 ---
 id: pëmon
+slug: pëmon
 title: pëmon
 hoverText: to agree to (a promise) § Verb
 ---

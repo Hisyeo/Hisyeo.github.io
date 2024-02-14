@@ -1,5 +1,6 @@
 ---
 id: köndodü
+slug: köndodü
 title: köndodü
 hoverText: to celebrate (a party) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: vıldonpun
+slug: vıldonpun
 title: vıldonpun
 hoverText: evaporated/vaporized § Modifier
 ---

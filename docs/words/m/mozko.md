@@ -1,5 +1,6 @@
 ---
 id: mozko
+slug: mozko
 title: mozko
 hoverText: cat § Noun
 ---

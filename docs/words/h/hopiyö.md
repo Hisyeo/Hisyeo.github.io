@@ -1,5 +1,6 @@
 ---
 id: hopiyö
+slug: hopiyö
 title: hopiyö
 hoverText: to announce (an announcement) § Verb
 ---

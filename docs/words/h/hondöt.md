@@ -1,5 +1,6 @@
 ---
 id: hondöt
+slug: hondöt
 title: hondöt
 hoverText: jealous § Modifier
 ---

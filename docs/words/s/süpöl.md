@@ -1,5 +1,6 @@
 ---
 id: süpöl
+slug: süpöl
 title: süpöl
 hoverText: fertile/productive § Modifier
 ---

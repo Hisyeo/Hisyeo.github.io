@@ -1,5 +1,6 @@
 ---
 id: düunzi
+slug: düunzi
 title: düunzi
 hoverText: brain/mind § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: wınit
+slug: wınit
 title: wınit
 hoverText: humble § Modifier
 ---

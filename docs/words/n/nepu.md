@@ -1,5 +1,6 @@
 ---
 id: nepu
+slug: nepu
 title: nepu
 hoverText: unlikely/rare § Modifier
 ---

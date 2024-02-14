@@ -1,5 +1,6 @@
 ---
 id: noȷi
+slug: noȷi
 title: noȷi
 hoverText: venom/poison § Noun
 ---

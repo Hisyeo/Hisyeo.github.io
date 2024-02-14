@@ -1,5 +1,6 @@
 ---
 id: mienzok
+slug: mienzok
 title: mienzok
 hoverText: mollusc § Noun
 ---

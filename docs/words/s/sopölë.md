@@ -1,5 +1,6 @@
 ---
 id: sopölë
+slug: sopölë
 title: sopölë
 hoverText: to taste (a flavor) § Verb
 ---

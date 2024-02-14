@@ -1,5 +1,6 @@
 ---
 id: dözui
+slug: dözui
 title: dözui
 hoverText: toy § Noun
 ---

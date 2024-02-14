@@ -1,5 +1,6 @@
 ---
 id: zünvü
+slug: zünvü
 title: zünvü
 hoverText: repeating § Modifier
 ---

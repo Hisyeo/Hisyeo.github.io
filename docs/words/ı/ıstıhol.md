@@ -1,5 +1,6 @@
 ---
 id: ıstıhol
+slug: ıstıhol
 title: ıstıhol
 hoverText: honor/glory § Modifier
 ---

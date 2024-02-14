@@ -1,5 +1,6 @@
 ---
 id: zënpö
+slug: zënpö
 title: zënpö
 hoverText: big § Modifier
 ---

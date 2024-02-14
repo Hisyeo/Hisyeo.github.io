@@ -1,5 +1,6 @@
 ---
 id: yünyoü
+slug: yünyoü
 title: yünyoü
 hoverText: to have (a possession) § Verb
 ---

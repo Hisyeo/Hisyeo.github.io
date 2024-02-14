@@ -1,5 +1,6 @@
 ---
 id: xizië
+slug: xizië
 title: xizië
 hoverText: detail § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: zıxin
+slug: zıxin
 title: zıxin
 hoverText: to enforce (enforceable entity) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: pündüki
+slug: pündüki
 title: pündüki
 hoverText: gun § Noun
 ---

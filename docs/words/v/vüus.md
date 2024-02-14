@@ -1,5 +1,6 @@
 ---
 id: vüus
+slug: vüus
 title: vüus
 hoverText: wax § Noun
 ---

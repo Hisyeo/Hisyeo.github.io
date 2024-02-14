@@ -1,5 +1,6 @@
 ---
 id: luhü
+slug: luhü
 title: luhü
 hoverText: blood § Noun
 ---

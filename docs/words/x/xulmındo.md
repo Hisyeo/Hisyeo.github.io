@@ -1,5 +1,6 @@
 ---
 id: xulmındo
+slug: xulmındo
 title: xulmındo
 hoverText: ashamed § Modifier
 ---

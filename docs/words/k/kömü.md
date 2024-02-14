@@ -1,5 +1,6 @@
 ---
 id: kömü
+slug: kömü
 title: kömü
 hoverText: horn/spike § Noun
 ---

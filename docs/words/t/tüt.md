@@ -1,5 +1,6 @@
 ---
 id: tüt
+slug: tüt
 title: tüt
 hoverText: hot § Modifier
 ---

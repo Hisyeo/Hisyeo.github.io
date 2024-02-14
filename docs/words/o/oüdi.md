@@ -1,5 +1,6 @@
 ---
 id: oüdi
+slug: oüdi
 title: oüdi
 hoverText: seed § Noun
 ---

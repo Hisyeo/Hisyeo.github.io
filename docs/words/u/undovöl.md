@@ -1,5 +1,6 @@
 ---
 id: undovöl
+slug: undovöl
 title: undovöl
 hoverText: legume § Noun
 ---

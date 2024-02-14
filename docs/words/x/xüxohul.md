@@ -1,5 +1,6 @@
 ---
 id: xüxohul
+slug: xüxohul
 title: xüxohul
 hoverText: hell § Noun
 ---

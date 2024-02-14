@@ -1,5 +1,6 @@
 ---
 id: pöklön
+slug: pöklön
 title: pöklön
 hoverText: to govern (governable entity) § Verb
 ---

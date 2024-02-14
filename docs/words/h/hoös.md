@@ -1,5 +1,6 @@
 ---
 id: hoös
+slug: hoös
 title: hoös
 hoverText: chaotic § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: küonxün
+slug: küonxün
 title: küonxün
 hoverText: tolerant § Modifier
 ---

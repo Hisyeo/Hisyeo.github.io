@@ -1,5 +1,6 @@
 ---
 id: sëdu
+slug: sëdu
 title: sëdu
 hoverText: station/garage § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: ınvultin
+slug: ınvultin
 title: ınvultin
 hoverText: rotating/spinning § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: öni
+slug: öni
 title: öni
 hoverText: agentive verb noun proclitic § Grammar
 ---

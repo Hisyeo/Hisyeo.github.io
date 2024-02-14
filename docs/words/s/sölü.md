@@ -1,5 +1,6 @@
 ---
 id: sölü
+slug: sölü
 title: sölü
 hoverText: to ask (a question) § Verb
 ---

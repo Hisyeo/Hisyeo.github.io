@@ -1,5 +1,6 @@
 ---
 id: düngo
+slug: düngo
 title: düngo
 hoverText: to pierce (piercable entity) § Verb
 ---

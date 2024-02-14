@@ -1,5 +1,6 @@
 ---
 id: xiskılo
+slug: xiskılo
 title: xiskılo
 hoverText: to vocalize (a vocalization) § Verb
 ---

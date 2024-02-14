@@ -1,5 +1,6 @@
 ---
 id: wëxön
+slug: wëxön
 title: wëxön
 hoverText: week § Noun
 ---

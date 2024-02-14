@@ -1,5 +1,6 @@
 ---
 id: xiüvü
+slug: xiüvü
 title: xiüvü
 hoverText: to repair (repairable entity) § Verb
 ---

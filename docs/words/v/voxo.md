@@ -1,5 +1,6 @@
 ---
 id: voxo
+slug: voxo
 title: voxo
 hoverText: mirative clause ender (wow!) § Grammar
 ---

@@ -1,5 +1,6 @@
 ---
 id: eswen
+slug: eswen
 title: eswen
 hoverText: more § Quantity
 ---

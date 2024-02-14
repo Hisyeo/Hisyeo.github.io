@@ -1,5 +1,6 @@
 ---
 id: ȷıȷıme
+slug: ȷıȷıme
 title: ȷıȷıme
 hoverText: generation § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: övo
+slug: övo
 title: övo
 hoverText: this § Pronoun
 ---

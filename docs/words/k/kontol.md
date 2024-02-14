@@ -1,5 +1,6 @@
 ---
 id: kontol
+slug: kontol
 title: kontol
 hoverText: to sing/play (music) § Verb
 ---

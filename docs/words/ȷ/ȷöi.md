@@ -1,5 +1,6 @@
 ---
 id: ȷöi
+slug: ȷöi
 title: ȷöi
 hoverText: blue § Modifier
 ---

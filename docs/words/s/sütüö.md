@@ -1,5 +1,6 @@
 ---
 id: sütüö
+slug: sütüö
 title: sütüö
 hoverText: friend § Noun
 ---

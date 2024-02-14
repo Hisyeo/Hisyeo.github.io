@@ -1,5 +1,6 @@
 ---
 id: züxien
+slug: züxien
 title: züxien
 hoverText: constrained § Modifier
 ---

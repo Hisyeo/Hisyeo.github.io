@@ -1,5 +1,6 @@
 ---
 id: lenko
+slug: lenko
 title: lenko
 hoverText: arm § Noun
 ---

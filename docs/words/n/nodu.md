@@ -1,5 +1,6 @@
 ---
 id: nodu
+slug: nodu
 title: nodu
 hoverText: tone § Noun
 ---

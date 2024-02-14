@@ -1,5 +1,6 @@
 ---
 id: momoki
+slug: momoki
 title: momoki
 hoverText: surprised § Modifier
 ---

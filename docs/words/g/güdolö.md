@@ -1,5 +1,6 @@
 ---
 id: güdolö
+slug: güdolö
 title: güdolö
 hoverText: bow (weapon)/bow (music) § Noun
 ---

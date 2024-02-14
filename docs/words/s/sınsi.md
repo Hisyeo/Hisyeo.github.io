@@ -1,5 +1,6 @@
 ---
 id: sınsi
+slug: sınsi
 title: sınsi
 hoverText: town/city § Noun
 ---

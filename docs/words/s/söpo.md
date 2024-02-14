@@ -1,5 +1,6 @@
 ---
 id: söpo
+slug: söpo
 title: söpo
 hoverText: side/beside § Noun
 ---

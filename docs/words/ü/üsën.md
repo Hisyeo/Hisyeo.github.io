@@ -1,5 +1,6 @@
 ---
 id: üsën
+slug: üsën
 title: üsën
 hoverText: year § Noun
 ---

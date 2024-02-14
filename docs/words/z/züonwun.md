@@ -1,5 +1,6 @@
 ---
 id: züonwun
+slug: züonwun
 title: züonwun
 hoverText: rumor § Noun
 ---

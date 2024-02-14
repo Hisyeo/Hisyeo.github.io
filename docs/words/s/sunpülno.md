@@ -1,5 +1,6 @@
 ---
 id: sunpülno
+slug: sunpülno
 title: sunpülno
 hoverText: flawless § Modifier
 ---

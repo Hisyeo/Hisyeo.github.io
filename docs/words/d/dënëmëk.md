@@ -1,5 +1,6 @@
 ---
 id: dënëmëk
+slug: dënëmëk
 title: dënëmëk
 hoverText: to try (a trial) § Verb
 ---

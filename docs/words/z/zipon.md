@@ -1,5 +1,6 @@
 ---
 id: zipon
+slug: zipon
 title: zipon
 hoverText: fat/grease § Noun
 ---

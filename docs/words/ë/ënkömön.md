@@ -1,5 +1,6 @@
 ---
 id: ënkömön
+slug: ënkömön
 title: ënkömön
 hoverText: face § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: yodo
+slug: yodo
 title: yodo
 hoverText: or § Connector
 ---

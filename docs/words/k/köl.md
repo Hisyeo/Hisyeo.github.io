@@ -1,5 +1,6 @@
 ---
 id: köl
+slug: köl
 title: köl
 hoverText: manifest non-physical thing § Noun
 ---

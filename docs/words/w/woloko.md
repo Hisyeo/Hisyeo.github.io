@@ -1,5 +1,6 @@
 ---
 id: woloko
+slug: woloko
 title: woloko
 hoverText: leaf/petal § Noun
 ---

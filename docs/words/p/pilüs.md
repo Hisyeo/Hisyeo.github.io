@@ -1,5 +1,6 @@
 ---
 id: pilüs
+slug: pilüs
 title: pilüs
 hoverText: victorious § Modifier
 ---

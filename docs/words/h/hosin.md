@@ -1,5 +1,6 @@
 ---
 id: hosin
+slug: hosin
 title: hosin
 hoverText: beautiful § Modifier
 ---

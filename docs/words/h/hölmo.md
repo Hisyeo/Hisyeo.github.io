@@ -1,5 +1,6 @@
 ---
 id: hölmo
+slug: hölmo
 title: hölmo
 hoverText: dream § Noun
 ---

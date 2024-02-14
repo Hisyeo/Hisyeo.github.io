@@ -1,5 +1,6 @@
 ---
 id: lisik
+slug: lisik
 title: lisik
 hoverText: bread/grain § Noun
 ---

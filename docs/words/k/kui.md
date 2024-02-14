@@ -1,5 +1,6 @@
 ---
 id: kui
+slug: kui
 title: kui
 hoverText: epistemic verb proclitic § Grammar
 ---

@@ -1,5 +1,6 @@
 ---
 id: vıkwon
+slug: vıkwon
 title: vıkwon
 hoverText: bacteria/microbe § Noun
 ---

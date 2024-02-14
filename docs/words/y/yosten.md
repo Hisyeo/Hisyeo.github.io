@@ -1,5 +1,6 @@
 ---
 id: yosten
+slug: yosten
 title: yosten
 hoverText: to find (a discovery) § Verb
 ---

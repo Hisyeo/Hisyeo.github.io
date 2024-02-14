@@ -1,5 +1,6 @@
 ---
 id: inkoton
+slug: inkoton
 title: inkoton
 hoverText: to remember (a memory) § Verb
 ---

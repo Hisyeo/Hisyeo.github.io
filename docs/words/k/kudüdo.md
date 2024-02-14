@@ -1,5 +1,6 @@
 ---
 id: kudüdo
+slug: kudüdo
 title: kudüdo
 hoverText: to harvest (a harvest) § Verb
 ---

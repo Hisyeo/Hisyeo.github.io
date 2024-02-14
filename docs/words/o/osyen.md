@@ -1,5 +1,6 @@
 ---
 id: osyen
+slug: osyen
 title: osyen
 hoverText: ancient § Modifier
 ---

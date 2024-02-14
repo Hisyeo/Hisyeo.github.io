@@ -1,5 +1,6 @@
 ---
 id: ütok
+slug: ütok
 title: ütok
 hoverText: also § Modifier
 ---

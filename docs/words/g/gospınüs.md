@@ -1,5 +1,6 @@
 ---
 id: gospınüs
+slug: gospınüs
 title: gospınüs
 hoverText: chartreuse § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: mizin
+slug: mizin
 title: mizin
 hoverText: fish § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: zutnë
+slug: zutnë
 title: zutnë
 hoverText: to climb (a slope) § Verb
 ---

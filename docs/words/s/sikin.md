@@ -1,5 +1,6 @@
 ---
 id: sikin
+slug: sikin
 title: sikin
 hoverText: event § Noun
 ---

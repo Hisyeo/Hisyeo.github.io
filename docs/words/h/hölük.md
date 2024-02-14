@@ -1,5 +1,6 @@
 ---
 id: hölük
+slug: hölük
 title: hölük
 hoverText: to pump (a pumpable entity) § Noun
 ---

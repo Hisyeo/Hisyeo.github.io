@@ -1,5 +1,6 @@
 ---
 id: püȷök
+slug: püȷök
 title: püȷök
 hoverText: lack § Quantity
 ---

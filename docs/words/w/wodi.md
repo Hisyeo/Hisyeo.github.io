@@ -1,5 +1,6 @@
 ---
 id: wodi
+slug: wodi
 title: wodi
 hoverText: vile § Modifier
 ---

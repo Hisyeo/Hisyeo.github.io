@@ -1,5 +1,6 @@
 ---
 id: mevüs
+slug: mevüs
 title: mevüs
 hoverText: safe § Modifier
 ---

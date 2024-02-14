@@ -1,5 +1,6 @@
 ---
 id: sıtyo
+slug: sıtyo
 title: sıtyo
 hoverText: to sit on (a seat) § Verb
 ---

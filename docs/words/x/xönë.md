@@ -1,5 +1,6 @@
 ---
 id: xönë
+slug: xönë
 title: xönë
 hoverText: different § Modifier
 ---

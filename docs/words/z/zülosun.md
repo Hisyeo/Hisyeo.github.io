@@ -1,5 +1,6 @@
 ---
 id: zülosun
+slug: zülosun
 title: zülosun
 hoverText: to allow (allowable entity) § Verb
 ---

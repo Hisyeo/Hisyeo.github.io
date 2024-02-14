@@ -1,5 +1,6 @@
 ---
 id: vonolon
+slug: vonolon
 title: vonolon
 hoverText: monkey/ape § Noun
 ---

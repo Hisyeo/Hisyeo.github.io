@@ -1,5 +1,6 @@
 ---
 id: hokiki
+slug: hokiki
 title: hokiki
 hoverText: authentic § Modifier
 ---

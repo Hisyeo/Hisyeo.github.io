@@ -1,5 +1,6 @@
 ---
 id: günokol
+slug: günokol
 title: günokol
 hoverText: criminal § Modifier
 ---

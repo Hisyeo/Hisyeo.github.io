@@ -1,5 +1,6 @@
 ---
 id: zunzion
+slug: zunzion
 title: zunzion
 hoverText: to fortify (fortifiable entity) § Verb
 ---

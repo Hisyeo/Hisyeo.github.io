@@ -1,5 +1,6 @@
 ---
 id: köson
+slug: köson
 title: köson
 hoverText: to build (a construction) § Verb
 ---

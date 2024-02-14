@@ -1,5 +1,6 @@
 ---
 id: son
+slug: son
 title: son
 hoverText: 03 three § Quantity
 ---

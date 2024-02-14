@@ -1,5 +1,6 @@
 ---
 id: konpokpo
+slug: konpokpo
 title: konpokpo
 hoverText: general/universal § Modifier
 ---

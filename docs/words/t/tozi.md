@@ -1,5 +1,6 @@
 ---
 id: tozi
+slug: tozi
 title: tozi
 hoverText: standing § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: lotȷö
+slug: lotȷö
 title: lotȷö
 hoverText: ray/beam § Noun
 ---

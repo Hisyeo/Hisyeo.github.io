@@ -1,5 +1,6 @@
 ---
 id: ipüwë
+slug: ipüwë
 title: ipüwë
 hoverText: stone § Noun
 ---

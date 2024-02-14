@@ -1,5 +1,6 @@
 ---
 id: düi
+slug: düi
 title: düi
 hoverText: 02 two § Quantity
 ---

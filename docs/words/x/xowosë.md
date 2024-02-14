@@ -1,5 +1,6 @@
 ---
 id: xowosë
+slug: xowosë
 title: xowosë
 hoverText: happy § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: puzono
+slug: puzono
 title: puzono
 hoverText: to save/rescue (saveable/rescuable entity) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: göyu
+slug: göyu
 title: göyu
 hoverText: mouth § Noun
 ---

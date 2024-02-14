@@ -1,5 +1,6 @@
 ---
 id: woyü
+slug: woyü
 title: woyü
 hoverText: air/gas § Noun
 ---

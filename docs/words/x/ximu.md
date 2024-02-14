@@ -1,5 +1,6 @@
 ---
 id: ximu
+slug: ximu
 title: ximu
 hoverText: water § Noun
 ---

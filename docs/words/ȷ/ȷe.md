@@ -1,5 +1,6 @@
 ---
 id: ȷe
+slug: ȷe
 title: ȷe
 hoverText: aggressive/emotional clause ender § Grammar
 ---

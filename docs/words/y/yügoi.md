@@ -1,5 +1,6 @@
 ---
 id: yügoi
+slug: yügoi
 title: yügoi
 hoverText: hindering/detrimental § Modifier
 ---

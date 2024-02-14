@@ -1,5 +1,6 @@
 ---
 id: wik
+slug: wik
 title: wik
 hoverText: head § Noun
 ---

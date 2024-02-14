@@ -1,5 +1,6 @@
 ---
 id: pukü
+slug: pukü
 title: pukü
 hoverText: frozen § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: izwon
+slug: izwon
 title: izwon
 hoverText: to inherit (inheritance) § Verb
 ---

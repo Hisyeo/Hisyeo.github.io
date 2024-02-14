@@ -1,5 +1,6 @@
 ---
 id: ünzoi
+slug: ünzoi
 title: ünzoi
 hoverText: proud § Modifier
 ---

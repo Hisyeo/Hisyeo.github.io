@@ -1,5 +1,6 @@
 ---
 id: nëlö
+slug: nëlö
 title: nëlö
 hoverText: black § Modifier
 ---

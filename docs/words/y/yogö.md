@@ -1,5 +1,6 @@
 ---
 id: yogö
+slug: yogö
 title: yogö
 hoverText: part/piece § Noun
 ---

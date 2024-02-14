@@ -1,5 +1,6 @@
 ---
 id: ȷoloni
+slug: ȷoloni
 title: ȷoloni
 hoverText: fuel § Noun
 ---

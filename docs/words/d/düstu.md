@@ -1,5 +1,6 @@
 ---
 id: düstu
+slug: düstu
 title: düstu
 hoverText: to measure (measurable entity) § Verb
 ---

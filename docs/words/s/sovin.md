@@ -1,5 +1,6 @@
 ---
 id: sovin
+slug: sovin
 title: sovin
 hoverText: pure § Modifier
 ---

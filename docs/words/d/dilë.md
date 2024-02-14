@@ -1,5 +1,6 @@
 ---
 id: dilë
+slug: dilë
 title: dilë
 hoverText: slow § Modifier
 ---

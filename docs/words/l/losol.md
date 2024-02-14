@@ -1,5 +1,6 @@
 ---
 id: losol
+slug: losol
 title: losol
 hoverText: original § Modifier
 ---

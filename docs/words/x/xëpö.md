@@ -1,5 +1,6 @@
 ---
 id: xëpö
+slug: xëpö
 title: xëpö
 hoverText: yellow § Modifier
 ---

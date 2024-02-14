@@ -1,5 +1,6 @@
 ---
 id: wıkse
+slug: wıkse
 title: wıkse
 hoverText: belly § Noun
 ---

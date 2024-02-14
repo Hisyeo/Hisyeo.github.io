@@ -1,5 +1,6 @@
 ---
 id: ȷöhün
+slug: ȷöhün
 title: ȷöhün
 hoverText: nutrient § Noun
 ---

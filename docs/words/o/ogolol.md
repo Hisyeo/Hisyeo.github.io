@@ -1,5 +1,6 @@
 ---
 id: ogolol
+slug: ogolol
 title: ogolol
 hoverText: to grab/hold (a hold/load/burden) § Verb
 ---

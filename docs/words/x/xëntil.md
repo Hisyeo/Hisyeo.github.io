@@ -1,5 +1,6 @@
 ---
 id: xëntil
+slug: xëntil
 title: xëntil
 hoverText: gentle/kind § Modifier
 ---

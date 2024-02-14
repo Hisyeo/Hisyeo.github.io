@@ -1,5 +1,6 @@
 ---
 id: liülë
+slug: liülë
 title: liülë
 hoverText: laughing § Modifier
 ---

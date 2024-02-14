@@ -1,5 +1,6 @@
 ---
 id: lëso
+slug: lëso
 title: lëso
 hoverText: journery/trip/voyage § Noun
 ---

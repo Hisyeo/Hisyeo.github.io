@@ -1,5 +1,6 @@
 ---
 id: küu
+slug: küu
 title: küu
 hoverText: deontic verb proclitic § Grammar
 ---

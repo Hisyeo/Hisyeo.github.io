@@ -1,5 +1,6 @@
 ---
 id: ȷilyois
+slug: ȷilyois
 title: ȷilyois
 hoverText: deep § Modifier
 ---

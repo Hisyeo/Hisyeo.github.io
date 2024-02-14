@@ -1,5 +1,6 @@
 ---
 id: londuluk
+slug: londuluk
 title: londuluk
 hoverText: rural § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: viȷi
+slug: viȷi
 title: viȷi
 hoverText: to bury (buryable entity) § Verb
 ---

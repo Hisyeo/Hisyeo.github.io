@@ -1,5 +1,6 @@
 ---
 id: sinus
+slug: sinus
 title: sinus
 hoverText: to appear (appearance) § Verb
 ---

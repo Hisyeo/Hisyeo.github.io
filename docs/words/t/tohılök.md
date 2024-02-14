@@ -1,5 +1,6 @@
 ---
 id: tohılök
+slug: tohılök
 title: tohılök
 hoverText: cone § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: to
+slug: to
 title: to
 hoverText: relative clause proclitic § Grammar
 ---

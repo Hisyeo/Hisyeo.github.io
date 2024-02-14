@@ -1,5 +1,6 @@
 ---
 id: közün
+slug: közün
 title: közün
 hoverText: rank § Noun
 ---

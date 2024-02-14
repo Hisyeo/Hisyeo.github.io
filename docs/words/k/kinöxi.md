@@ -1,5 +1,6 @@
 ---
 id: kinöxi
+slug: kinöxi
 title: kinöxi
 hoverText: functional § Modifier
 ---

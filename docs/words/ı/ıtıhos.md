@@ -1,5 +1,6 @@
 ---
 id: ıtıhos
+slug: ıtıhos
 title: ıtıhos
 hoverText: history § Noun
 ---

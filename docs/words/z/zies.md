@@ -1,5 +1,6 @@
 ---
 id: zies
+slug: zies
 title: zies
 hoverText: tight/firm § Modifier
 ---

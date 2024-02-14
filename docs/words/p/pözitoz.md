@@ -1,5 +1,6 @@
 ---
 id: pözitoz
+slug: pözitoz
 title: pözitoz
 hoverText: to compute (a computation) § Verb
 ---

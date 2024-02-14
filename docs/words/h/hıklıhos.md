@@ -1,5 +1,6 @@
 ---
 id: hıklıhos
+slug: hıklıhos
 title: hıklıhos
 hoverText: supernatural/miraculous § Modifier
 ---

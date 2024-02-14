@@ -1,5 +1,6 @@
 ---
 id: hëlxun
+slug: hëlxun
 title: hëlxun
 hoverText: early § Modifier
 ---

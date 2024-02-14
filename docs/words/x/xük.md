@@ -1,5 +1,6 @@
 ---
 id: xük
+slug: xük
 title: xük
 hoverText: sort/type § Noun
 ---

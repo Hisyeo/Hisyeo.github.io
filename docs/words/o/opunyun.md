@@ -1,5 +1,6 @@
 ---
 id: opunyun
+slug: opunyun
 title: opunyun
 hoverText: easy § Modifier
 ---

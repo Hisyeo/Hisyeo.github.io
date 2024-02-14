@@ -1,5 +1,6 @@
 ---
 id: noi
+slug: noi
 title: noi
 hoverText: vocative marker § Preposition
 ---

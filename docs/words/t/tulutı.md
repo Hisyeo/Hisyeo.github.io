@@ -1,5 +1,6 @@
 ---
 id: tulutı
+slug: tulutı
 title: tulutı
 hoverText: to traverse (a traversable entity) § Verb
 ---

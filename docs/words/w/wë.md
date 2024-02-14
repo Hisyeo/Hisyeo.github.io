@@ -1,5 +1,6 @@
 ---
 id: wë
+slug: wë
 title: wë
 hoverText: negatitive verb modifier proclitic § Grammar
 ---

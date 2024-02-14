@@ -1,5 +1,6 @@
 ---
 id: sënȷö
+slug: sënȷö
 title: sënȷö
 hoverText: ancestral § Modifier
 ---

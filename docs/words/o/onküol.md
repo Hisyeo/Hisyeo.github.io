@@ -1,5 +1,6 @@
 ---
 id: onküol
+slug: onküol
 title: onküol
 hoverText: to hug (huggable entity) § Verb
 ---

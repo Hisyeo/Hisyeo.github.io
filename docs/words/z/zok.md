@@ -1,5 +1,6 @@
 ---
 id: zok
+slug: zok
 title: zok
 hoverText: departing § Modifier
 ---

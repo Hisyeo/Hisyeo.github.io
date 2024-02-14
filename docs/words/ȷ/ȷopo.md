@@ -1,5 +1,6 @@
 ---
 id: ȷopo
+slug: ȷopo
 title: ȷopo
 hoverText: shoulder § Noun
 ---

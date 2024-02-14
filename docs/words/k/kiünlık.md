@@ -1,5 +1,6 @@
 ---
 id: kiünlık
+slug: kiünlık
 title: kiünlık
 hoverText: authorized § Modifier
 ---

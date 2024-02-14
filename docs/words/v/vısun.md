@@ -1,5 +1,6 @@
 ---
 id: vısun
+slug: vısun
 title: vısun
 hoverText: to know (knowledge) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: hönzöü
+slug: hönzöü
 title: hönzöü
 hoverText: herb § Noun
 ---

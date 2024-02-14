@@ -1,5 +1,6 @@
 ---
 id: vostü
+slug: vostü
 title: vostü
 hoverText: thing § Noun
 ---

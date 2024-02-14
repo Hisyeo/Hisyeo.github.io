@@ -1,5 +1,6 @@
 ---
 id: zündöl
+slug: zündöl
 title: zündöl
 hoverText: collision § Noun
 ---

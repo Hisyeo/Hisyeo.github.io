@@ -1,5 +1,6 @@
 ---
 id: ȷon
+slug: ȷon
 title: ȷon
 hoverText: group § Noun
 ---

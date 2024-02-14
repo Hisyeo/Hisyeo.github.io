@@ -1,5 +1,6 @@
 ---
 id: pogö
+slug: pogö
 title: pogö
 hoverText: luck § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: sonkon
+slug: sonkon
 title: sonkon
 hoverText: important § Modifier
 ---

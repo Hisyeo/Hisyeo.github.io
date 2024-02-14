@@ -1,5 +1,6 @@
 ---
 id: hënëlö
+slug: hënëlö
 title: hënëlö
 hoverText: gender § Noun
 ---

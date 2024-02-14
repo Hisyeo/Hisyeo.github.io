@@ -1,5 +1,6 @@
 ---
 id: gonȷil
+slug: gonȷil
 title: gonȷil
 hoverText: strange § Modifier
 ---

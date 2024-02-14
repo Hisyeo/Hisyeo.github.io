@@ -1,5 +1,6 @@
 ---
 id: sopoi
+slug: sopoi
 title: sopoi
 hoverText: ceiling § Noun
 ---

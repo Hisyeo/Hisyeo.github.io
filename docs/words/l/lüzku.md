@@ -1,5 +1,6 @@
 ---
 id: lüzku
+slug: lüzku
 title: lüzku
 hoverText: lever/knob/handle § Noun
 ---

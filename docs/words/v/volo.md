@@ -1,5 +1,6 @@
 ---
 id: volo
+slug: volo
 title: volo
 hoverText: atom § Noun
 ---

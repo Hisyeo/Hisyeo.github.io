@@ -1,5 +1,6 @@
 ---
 id: nu
+slug: nu
 title: nu
 hoverText: curiosity clause ender (what about) § Grammar
 ---

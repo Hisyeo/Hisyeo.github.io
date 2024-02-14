@@ -1,5 +1,6 @@
 ---
 id: ülȷo
+slug: ülȷo
 title: ülȷo
 hoverText: energy/power § Noun
 ---

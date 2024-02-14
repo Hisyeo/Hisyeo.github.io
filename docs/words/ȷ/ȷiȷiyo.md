@@ -1,5 +1,6 @@
 ---
 id: ȷiȷiyo
+slug: ȷiȷiyo
 title: ȷiȷiyo
 hoverText: tendon/root § Noun
 ---

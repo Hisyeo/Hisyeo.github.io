@@ -1,5 +1,6 @@
 ---
 id: pökpün
+slug: pökpün
 title: pökpün
 hoverText: storm § Noun
 ---

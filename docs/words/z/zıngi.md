@@ -1,5 +1,6 @@
 ---
 id: zıngi
+slug: zıngi
 title: zıngi
 hoverText: electricity § Noun
 ---

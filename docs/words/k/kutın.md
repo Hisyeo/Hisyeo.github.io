@@ -1,5 +1,6 @@
 ---
 id: kutın
+slug: kutın
 title: kutın
 hoverText: difficult § Modifier
 ---

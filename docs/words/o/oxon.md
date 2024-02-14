@@ -1,5 +1,6 @@
 ---
 id: oxon
+slug: oxon
 title: oxon
 hoverText: beneficiary/purpose marker (for) § Preposition
 ---

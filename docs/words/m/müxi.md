@@ -1,5 +1,6 @@
 ---
 id: müxi
+slug: müxi
 title: müxi
 hoverText: arthropod/bug § Noun
 ---

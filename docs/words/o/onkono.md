@@ -1,5 +1,6 @@
 ---
 id: onkono
+slug: onkono
 title: onkono
 hoverText: to estimate/guess (an estimation/guess) § Verb
 ---

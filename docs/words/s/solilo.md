@@ -1,5 +1,6 @@
 ---
 id: solilo
+slug: solilo
 title: solilo
 hoverText: body § Noun
 ---

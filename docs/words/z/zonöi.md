@@ -1,5 +1,6 @@
 ---
 id: zonöi
+slug: zonöi
 title: zonöi
 hoverText: beak § Noun
 ---

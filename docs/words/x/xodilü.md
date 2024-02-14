@@ -1,5 +1,6 @@
 ---
 id: xodilü
+slug: xodilü
 title: xodilü
 hoverText: loose § Modifier
 ---

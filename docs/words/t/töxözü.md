@@ -1,5 +1,6 @@
 ---
 id: töxözü
+slug: töxözü
 title: töxözü
 hoverText: bump § Noun
 ---

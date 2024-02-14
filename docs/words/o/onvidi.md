@@ -1,5 +1,6 @@
 ---
 id: onvidi
+slug: onvidi
 title: onvidi
 hoverText: amphibian § Noun
 ---

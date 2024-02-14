@@ -1,5 +1,6 @@
 ---
 id: döük
+slug: döük
 title: döük
 hoverText: reference marker (compared to) § Preposition
 ---

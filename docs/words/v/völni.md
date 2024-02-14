@@ -1,5 +1,6 @@
 ---
 id: völni
+slug: völni
 title: völni
 hoverText: free § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: kuünmë
+slug: kuünmë
 title: kuünmë
 hoverText: technology § Noun
 ---

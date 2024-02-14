@@ -1,5 +1,6 @@
 ---
 id: diyondë
+slug: diyondë
 title: diyondë
 hoverText: to focus [on]/pay attention [to] § Verb
 ---

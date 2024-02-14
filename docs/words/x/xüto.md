@@ -1,5 +1,6 @@
 ---
 id: xüto
+slug: xüto
 title: xüto
 hoverText: river § Noun
 ---

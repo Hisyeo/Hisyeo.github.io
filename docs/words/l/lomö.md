@@ -1,5 +1,6 @@
 ---
 id: lomö
+slug: lomö
 title: lomö
 hoverText: long § Modifier
 ---

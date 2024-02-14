@@ -1,5 +1,6 @@
 ---
 id: zolot
+slug: zolot
 title: zolot
 hoverText: wise/clever § Modifier
 ---

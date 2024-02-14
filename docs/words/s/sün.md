@@ -1,5 +1,6 @@
 ---
 id: sün
+slug: sün
 title: sün
 hoverText: source/origin marker (from) § Preposition
 ---

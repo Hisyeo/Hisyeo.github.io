@@ -1,5 +1,6 @@
 ---
 id: hoyo
+slug: hoyo
 title: hoyo
 hoverText: alive § Modifier
 ---

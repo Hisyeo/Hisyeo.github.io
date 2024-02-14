@@ -1,5 +1,6 @@
 ---
 id: litö
+slug: litö
 title: litö
 hoverText: empty/incomplete § Modifier
 ---

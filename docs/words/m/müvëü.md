@@ -1,5 +1,6 @@
 ---
 id: müvëü
+slug: müvëü
 title: müvëü
 hoverText: clean § Modifier
 ---

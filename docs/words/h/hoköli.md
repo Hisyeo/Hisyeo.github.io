@@ -1,5 +1,6 @@
 ---
 id: hoköli
+slug: hoköli
 title: hoköli
 hoverText: tooth § Noun
 ---

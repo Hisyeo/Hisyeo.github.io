@@ -1,5 +1,6 @@
 ---
 id: kökokü
+slug: kökokü
 title: kökokü
 hoverText: skeleton § Noun
 ---

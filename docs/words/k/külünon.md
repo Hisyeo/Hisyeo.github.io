@@ -1,5 +1,6 @@
 ---
 id: külünon
+slug: külünon
 title: külünon
 hoverText: cage/kennel/jail/cell § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: könën
+slug: könën
 title: könën
 hoverText: possible/likely § Modifier
 ---

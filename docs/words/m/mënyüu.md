@@ -1,5 +1,6 @@
 ---
 id: mënyüu
+slug: mënyüu
 title: mënyüu
 hoverText: offspring § Noun
 ---

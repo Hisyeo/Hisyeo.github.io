@@ -1,5 +1,6 @@
 ---
 id: ximol
+slug: ximol
 title: ximol
 hoverText: left § Noun
 ---

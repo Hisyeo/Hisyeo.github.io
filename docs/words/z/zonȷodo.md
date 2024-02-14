@@ -1,5 +1,6 @@
 ---
 id: zonȷodo
+slug: zonȷodo
 title: zonȷodo
 hoverText: asleep § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: otıkon
+slug: otıkon
 title: otıkon
 hoverText: excess § Quantity
 ---

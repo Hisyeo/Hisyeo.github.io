@@ -1,5 +1,6 @@
 ---
 id: pikontë
+slug: pikontë
 title: pikontë
 hoverText: spicy § Modifier
 ---

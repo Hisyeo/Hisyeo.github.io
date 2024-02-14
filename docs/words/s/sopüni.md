@@ -1,5 +1,6 @@
 ---
 id: sopüni
+slug: sopüni
 title: sopüni
 hoverText: ill/sick § Modifier
 ---

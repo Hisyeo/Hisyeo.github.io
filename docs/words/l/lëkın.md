@@ -1,5 +1,6 @@
 ---
 id: lëkın
+slug: lëkın
 title: lëkın
 hoverText: but § Connector
 ---

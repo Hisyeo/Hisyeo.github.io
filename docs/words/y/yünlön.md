@@ -1,5 +1,6 @@
 ---
 id: yünlön
+slug: yünlön
 title: yünlön
 hoverText: to forgive (a forgiveable entity) § Verb
 ---

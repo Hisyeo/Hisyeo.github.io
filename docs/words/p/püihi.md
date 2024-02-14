@@ -1,5 +1,6 @@
 ---
 id: püihi
+slug: püihi
 title: püihi
 hoverText: timid/shy § Modifier
 ---

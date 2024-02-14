@@ -1,5 +1,6 @@
 ---
 id: mülü
+slug: mülü
 title: mülü
 hoverText: complete § Modifier
 ---

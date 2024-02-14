@@ -1,5 +1,6 @@
 ---
 id: vonxin
+slug: vonxin
 title: vonxin
 hoverText: square/rectangle § Noun
 ---

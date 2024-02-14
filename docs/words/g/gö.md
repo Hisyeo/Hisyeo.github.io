@@ -1,5 +1,6 @@
 ---
 id: gö
+slug: gö
 title: gö
 hoverText: existent § Modifier
 ---

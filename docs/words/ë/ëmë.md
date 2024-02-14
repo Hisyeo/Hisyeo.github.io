@@ -1,5 +1,6 @@
 ---
 id: ëmë
+slug: ëmë
 title: ëmë
 hoverText: vague/imprecise § Modifier
 ---

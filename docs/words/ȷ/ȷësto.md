@@ -1,5 +1,6 @@
 ---
 id: ȷësto
+slug: ȷësto
 title: ȷësto
 hoverText: feat/achievement/heroic deed § Noun
 ---

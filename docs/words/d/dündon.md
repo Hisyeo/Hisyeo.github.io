@@ -1,5 +1,6 @@
 ---
 id: dündon
+slug: dündon
 title: dündon
 hoverText: correct § Modifier
 ---

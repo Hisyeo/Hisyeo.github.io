@@ -1,5 +1,6 @@
 ---
 id: xıvom
+slug: xıvom
 title: xıvom
 hoverText: sponge § Noun
 ---

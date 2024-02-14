@@ -1,5 +1,6 @@
 ---
 id: ȷugo
+slug: ȷugo
 title: ȷugo
 hoverText: place § Noun
 ---

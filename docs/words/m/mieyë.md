@@ -1,5 +1,6 @@
 ---
 id: mieyë
+slug: mieyë
 title: mieyë
 hoverText: tear (of the eye) § Noun
 ---

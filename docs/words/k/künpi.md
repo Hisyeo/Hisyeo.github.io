@@ -1,5 +1,6 @@
 ---
 id: künpi
+slug: künpi
 title: künpi
 hoverText: scene/stage § Noun
 ---

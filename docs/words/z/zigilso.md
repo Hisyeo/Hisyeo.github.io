@@ -1,5 +1,6 @@
 ---
 id: zigilso
+slug: zigilso
 title: zigilso
 hoverText: treatment (medical) § Noun
 ---

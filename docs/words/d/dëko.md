@@ -1,5 +1,6 @@
 ---
 id: dëko
+slug: dëko
 title: dëko
 hoverText: to see (a view) § Verb
 ---

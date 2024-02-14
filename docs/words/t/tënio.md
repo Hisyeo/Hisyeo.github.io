@@ -1,5 +1,6 @@
 ---
 id: tënio
+slug: tënio
 title: tënio
 hoverText: strip/band § Noun
 ---

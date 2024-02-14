@@ -1,5 +1,6 @@
 ---
 id: hiȷon
+slug: hiȷon
 title: hiȷon
 hoverText: excited § Modifier
 ---

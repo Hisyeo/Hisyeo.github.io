@@ -1,5 +1,6 @@
 ---
 id: pölvëlë
+slug: pölvëlë
 title: pölvëlë
 hoverText: powder § Noun
 ---

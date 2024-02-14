@@ -1,5 +1,6 @@
 ---
 id: gülü
+slug: gülü
 title: gülü
 hoverText: wound/injury § Noun
 ---

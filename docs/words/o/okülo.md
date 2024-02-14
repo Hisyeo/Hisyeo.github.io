@@ -1,5 +1,6 @@
 ---
 id: okülo
+slug: okülo
 title: okülo
 hoverText: to touch (a surface) § Verb
 ---

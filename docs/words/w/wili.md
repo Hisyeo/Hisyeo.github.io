@@ -1,5 +1,6 @@
 ---
 id: wili
+slug: wili
 title: wili
 hoverText: awake § Modifier
 ---

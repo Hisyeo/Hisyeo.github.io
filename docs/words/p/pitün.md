@@ -1,5 +1,6 @@
 ---
 id: pitün
+slug: pitün
 title: pitün
 hoverText: night § Noun
 ---

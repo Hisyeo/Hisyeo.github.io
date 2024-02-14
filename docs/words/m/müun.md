@@ -1,5 +1,6 @@
 ---
 id: müun
+slug: müun
 title: müun
 hoverText: late § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: ulyö
+slug: ulyö
 title: ulyö
 hoverText: that (near) § Pronoun
 ---

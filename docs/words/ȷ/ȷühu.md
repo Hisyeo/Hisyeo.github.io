@@ -1,5 +1,6 @@
 ---
 id: ȷühu
+slug: ȷühu
 title: ȷühu
 hoverText: tongue § Noun
 ---

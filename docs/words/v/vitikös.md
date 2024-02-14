@@ -1,5 +1,6 @@
 ---
 id: vitikös
+slug: vitikös
 title: vitikös
 hoverText: western § Modifier
 ---

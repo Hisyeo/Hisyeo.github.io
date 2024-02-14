@@ -1,5 +1,6 @@
 ---
 id: sönsüs
+slug: sönsüs
 title: sönsüs
 hoverText: endless/infinite § Modifier
 ---

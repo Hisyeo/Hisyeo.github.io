@@ -1,5 +1,6 @@
 ---
 id: xontün
+slug: xontün
 title: xontün
 hoverText: to provoke (provocable entity) § Verb
 ---

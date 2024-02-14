@@ -1,5 +1,6 @@
 ---
 id: ıwotë
+slug: ıwotë
 title: ıwotë
 hoverText: tall § Modifier
 ---

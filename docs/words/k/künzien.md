@@ -1,5 +1,6 @@
 ---
 id: künzien
+slug: künzien
 title: künzien
 hoverText: room § Noun
 ---

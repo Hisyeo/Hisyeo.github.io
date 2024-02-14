@@ -1,5 +1,6 @@
 ---
 id: üz
+slug: üz
 title: üz
 hoverText: evidence marker (or so) § Preposition
 ---

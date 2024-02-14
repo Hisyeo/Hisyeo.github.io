@@ -1,5 +1,6 @@
 ---
 id: wo
+slug: wo
 title: wo
 hoverText: collapser/amender endoclitic § Grammar
 ---

@@ -1,5 +1,6 @@
 ---
 id: yön
+slug: yön
 title: yön
 hoverText: to use (a tool) § Verb
 ---

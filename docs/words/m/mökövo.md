@@ -1,5 +1,6 @@
 ---
 id: mökövo
+slug: mökövo
 title: mökövo
 hoverText: tube § Noun
 ---

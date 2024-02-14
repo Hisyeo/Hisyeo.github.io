@@ -1,5 +1,6 @@
 ---
 id: kikölö
+slug: kikölö
 title: kikölö
 hoverText: bitter § Modifier
 ---

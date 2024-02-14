@@ -1,5 +1,6 @@
 ---
 id: zunliü
+slug: zunliü
 title: zunliü
 hoverText: to distill (a distillable entity) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: ilë
+slug: ilë
 title: ilë
 hoverText: building § Noun
 ---

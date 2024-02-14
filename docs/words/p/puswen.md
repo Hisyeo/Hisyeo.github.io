@@ -1,5 +1,6 @@
 ---
 id: puswen
+slug: puswen
 title: puswen
 hoverText: to need (a requirement) § Verb
 ---

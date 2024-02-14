@@ -1,5 +1,6 @@
 ---
 id: xohovez
+slug: xohovez
 title: xohovez
 hoverText: jellyfish/hydra/anemone § Noun
 ---

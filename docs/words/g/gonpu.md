@@ -1,5 +1,6 @@
 ---
 id: gonpu
+slug: gonpu
 title: gonpu
 hoverText: leg § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: unon
+slug: unon
 title: unon
 hoverText: to smell (a scent) § Verb
 ---

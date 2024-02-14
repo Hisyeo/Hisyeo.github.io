@@ -1,5 +1,6 @@
 ---
 id: zuskünö
+slug: zuskünö
 title: zuskünö
 hoverText: each § Pronoun
 ---

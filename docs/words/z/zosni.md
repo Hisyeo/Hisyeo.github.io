@@ -1,5 +1,6 @@
 ---
 id: zosni
+slug: zosni
 title: zosni
 hoverText: private/confidential § Modifier
 ---

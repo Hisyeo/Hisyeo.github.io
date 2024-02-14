@@ -1,5 +1,6 @@
 ---
 id: vohoso
+slug: vohoso
 title: vohoso
 hoverText: to examine (examinable entity) § Verb
 ---

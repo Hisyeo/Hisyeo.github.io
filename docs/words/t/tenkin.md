@@ -1,5 +1,6 @@
 ---
 id: tenkin
+slug: tenkin
 title: tenkin
 hoverText: to hear (a sound) § Verb
 ---

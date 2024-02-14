@@ -1,5 +1,6 @@
 ---
 id: diȷel
+slug: diȷel
 title: diȷel
 hoverText: other § Pronoun
 ---

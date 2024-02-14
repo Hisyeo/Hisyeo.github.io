@@ -1,5 +1,6 @@
 ---
 id: sünpidü
+slug: sünpidü
 title: sünpidü
 hoverText: drone/buzz/hum § Noun
 ---

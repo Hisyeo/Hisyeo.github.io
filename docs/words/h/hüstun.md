@@ -1,5 +1,6 @@
 ---
 id: hüstun
+slug: hüstun
 title: hüstun
 hoverText: cough § Noun
 ---

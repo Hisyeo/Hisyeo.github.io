@@ -1,5 +1,6 @@
 ---
 id: vöhon
+slug: vöhon
 title: vöhon
 hoverText: forward § Noun
 ---

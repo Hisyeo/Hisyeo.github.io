@@ -1,5 +1,6 @@
 ---
 id: vonmot
+slug: vonmot
 title: vonmot
 hoverText: absent/nonexistent § Modifier
 ---

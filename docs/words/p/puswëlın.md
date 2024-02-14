@@ -1,5 +1,6 @@
 ---
 id: puswëlın
+slug: puswëlın
 title: puswëlın
 hoverText: oath/incantation § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: züti
+slug: züti
 title: züti
 hoverText: small § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: yonlüs
+slug: yonlüs
 title: yonlüs
 hoverText: wrong § Modifier
 ---

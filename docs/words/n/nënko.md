@@ -1,5 +1,6 @@
 ---
 id: nënko
+slug: nënko
 title: nënko
 hoverText: reason/cause marker (because of) § Preposition
 ---

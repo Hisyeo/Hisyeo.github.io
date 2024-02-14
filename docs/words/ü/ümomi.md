@@ -1,5 +1,6 @@
 ---
 id: ümomi
+slug: ümomi
 title: ümomi
 hoverText: savory § Modifier
 ---

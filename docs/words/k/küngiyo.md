@@ -1,5 +1,6 @@
 ---
 id: küngiyo
+slug: küngiyo
 title: küngiyo
 hoverText: organization/enterprise § Noun
 ---

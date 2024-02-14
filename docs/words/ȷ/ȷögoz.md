@@ -1,5 +1,6 @@
 ---
 id: ȷögoz
+slug: ȷögoz
 title: ȷögoz
 hoverText: pitch/tar § Modifier
 ---

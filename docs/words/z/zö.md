@@ -1,5 +1,6 @@
 ---
 id: zö
+slug: zö
 title: zö
 hoverText: patient/theme marker § Preposition
 ---

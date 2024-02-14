@@ -1,5 +1,6 @@
 ---
 id: ȷowo
+slug: ȷowo
 title: ȷowo
 hoverText: dog § Noun
 ---

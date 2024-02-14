@@ -1,5 +1,6 @@
 ---
 id: konpi
+slug: konpi
 title: konpi
 hoverText: hard § Modifier
 ---

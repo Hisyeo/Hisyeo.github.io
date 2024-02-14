@@ -1,5 +1,6 @@
 ---
 id: lunsol
+slug: lunsol
 title: lunsol
 hoverText: to launch (a projectile) § Verb
 ---

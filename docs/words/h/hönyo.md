@@ -1,5 +1,6 @@
 ---
 id: hönyo
+slug: hönyo
 title: hönyo
 hoverText: wilderness § Noun
 ---

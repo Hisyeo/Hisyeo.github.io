@@ -1,5 +1,6 @@
 ---
 id: ülonvü
+slug: ülonvü
 title: ülonvü
 hoverText: syllable § Noun
 ---

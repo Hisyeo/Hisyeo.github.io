@@ -1,5 +1,6 @@
 ---
 id: dönüxın
+slug: dönüxın
 title: dönüxın
 hoverText: conversion § Noun
 ---

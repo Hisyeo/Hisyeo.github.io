@@ -1,5 +1,6 @@
 ---
 id: gülopi
+slug: gülopi
 title: gülopi
 hoverText: pink § Modifier
 ---

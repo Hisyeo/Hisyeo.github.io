@@ -1,5 +1,6 @@
 ---
 id: hükë
+slug: hükë
 title: hükë
 hoverText: to mine (ore) § Verb
 ---

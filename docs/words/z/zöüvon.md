@@ -1,5 +1,6 @@
 ---
 id: zöüvon
+slug: zöüvon
 title: zöüvon
 hoverText: to cook (a meal) § Verb
 ---

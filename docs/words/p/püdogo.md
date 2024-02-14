@@ -1,5 +1,6 @@
 ---
 id: püdogo
+slug: püdogo
 title: püdogo
 hoverText: bubble § Noun
 ---

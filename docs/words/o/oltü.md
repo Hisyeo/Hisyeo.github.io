@@ -1,5 +1,6 @@
 ---
 id: oltü
+slug: oltü
 title: oltü
 hoverText: loud § Modifier
 ---

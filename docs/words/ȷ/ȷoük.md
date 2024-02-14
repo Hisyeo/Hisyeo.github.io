@@ -1,5 +1,6 @@
 ---
 id: ȷoük
+slug: ȷoük
 title: ȷoük
 hoverText: far § Modifier
 ---

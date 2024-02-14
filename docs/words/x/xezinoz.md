@@ -1,5 +1,6 @@
 ---
 id: xezinoz
+slug: xezinoz
 title: xezinoz
 hoverText: crossed/intersected § Modifier
 ---

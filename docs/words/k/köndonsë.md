@@ -1,5 +1,6 @@
 ---
 id: köndonsë
+slug: köndonsë
 title: köndonsë
 hoverText: condensed/concentrated § Modifier
 ---

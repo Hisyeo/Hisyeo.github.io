@@ -1,5 +1,6 @@
 ---
 id: kiskö
+slug: kiskö
 title: kiskö
 hoverText: rail/rack/bar § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: xöton
+slug: xöton
 title: xöton
 hoverText: cucurbit § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: oütö
+slug: oütö
 title: oütö
 hoverText: to drive (a vehicle) § Verb
 ---

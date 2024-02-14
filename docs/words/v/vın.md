@@ -1,5 +1,6 @@
 ---
 id: vın
+slug: vın
 title: vın
 hoverText: thing § Noun
 ---

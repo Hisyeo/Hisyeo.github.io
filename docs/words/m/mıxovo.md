@@ -1,5 +1,6 @@
 ---
 id: mıxovo
+slug: mıxovo
 title: mıxovo
 hoverText: acidic § Modifier
 ---

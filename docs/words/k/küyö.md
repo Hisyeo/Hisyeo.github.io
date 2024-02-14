@@ -1,5 +1,6 @@
 ---
 id: küyö
+slug: küyö
 title: küyö
 hoverText: sad § Modifier
 ---

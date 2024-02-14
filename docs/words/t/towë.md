@@ -1,5 +1,6 @@
 ---
 id: towë
+slug: towë
 title: towë
 hoverText: hair/fur/plumage § Noun
 ---

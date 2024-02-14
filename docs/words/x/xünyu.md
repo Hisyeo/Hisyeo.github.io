@@ -1,5 +1,6 @@
 ---
 id: xünyu
+slug: xünyu
 title: xünyu
 hoverText: 00 zero § Quantity
 ---

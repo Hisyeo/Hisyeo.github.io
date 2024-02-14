@@ -1,5 +1,6 @@
 ---
 id: hülodëk
+slug: hülodëk
 title: hülodëk
 hoverText: waste § Noun
 ---

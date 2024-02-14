@@ -1,5 +1,6 @@
 ---
 id: hızu
+slug: hızu
 title: hızu
 hoverText: crack/fissure § Noun
 ---

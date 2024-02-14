@@ -1,5 +1,6 @@
 ---
 id: tüwu
+slug: tüwu
 title: tüwu
 hoverText: to do (an action) § Verb
 ---

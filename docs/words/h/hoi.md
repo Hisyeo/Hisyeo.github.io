@@ -1,5 +1,6 @@
 ---
 id: hoi
+slug: hoi
 title: hoi
 hoverText: location/time marker (at) § Preposition
 ---

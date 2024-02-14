@@ -1,5 +1,6 @@
 ---
 id: xiülo
+slug: xiülo
 title: xiülo
 hoverText: hiss/fizz/whistle § Noun
 ---

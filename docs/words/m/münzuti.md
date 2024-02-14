@@ -1,5 +1,6 @@
 ---
 id: münzuti
+slug: münzuti
 title: münzuti
 hoverText: to release/free/drop/let go (releasable entity) § Verb
 ---

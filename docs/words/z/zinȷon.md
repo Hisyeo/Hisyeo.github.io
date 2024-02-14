@@ -1,5 +1,6 @@
 ---
 id: zinȷon
+slug: zinȷon
 title: zinȷon
 hoverText: nervous/anxious § Modifier
 ---

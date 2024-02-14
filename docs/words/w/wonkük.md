@@ -1,5 +1,6 @@
 ---
 id: wonkük
+slug: wonkük
 title: wonkük
 hoverText: curved § Modifier
 ---

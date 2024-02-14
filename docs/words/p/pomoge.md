@@ -1,5 +1,6 @@
 ---
 id: pomoge
+slug: pomoge
 title: pomoge
 hoverText: prone § Modifier
 ---

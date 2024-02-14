@@ -1,5 +1,6 @@
 ---
 id: woktomu
+slug: woktomu
 title: woktomu
 hoverText: overt/evident § Modifier
 ---

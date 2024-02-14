@@ -1,5 +1,6 @@
 ---
 id: sinëxis
+slug: sinëxis
 title: sinëxis
 hoverText: constant § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: püslö
+slug: püslö
 title: püslö
 hoverText: translucent § Modifier
 ---

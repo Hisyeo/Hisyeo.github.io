@@ -1,5 +1,6 @@
 ---
 id: nexë
+slug: nexë
 title: nexë
 hoverText: intoxicated § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: höktun
+slug: höktun
 title: höktun
 hoverText: mammal § Noun
 ---

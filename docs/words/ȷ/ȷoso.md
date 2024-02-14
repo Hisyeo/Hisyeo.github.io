@@ -1,5 +1,6 @@
 ---
 id: ȷoso
+slug: ȷoso
 title: ȷoso
 hoverText: shelf/plate § Noun
 ---

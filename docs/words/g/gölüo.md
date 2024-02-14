@@ -1,5 +1,6 @@
 ---
 id: gölüo
+slug: gölüo
 title: gölüo
 hoverText: melted § Modifier
 ---

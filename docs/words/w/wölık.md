@@ -1,5 +1,6 @@
 ---
 id: wölık
+slug: wölık
 title: wölık
 hoverText: smoke/cloud § Noun
 ---

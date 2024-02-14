@@ -1,5 +1,6 @@
 ---
 id: longı
+slug: longı
 title: longı
 hoverText: color § Noun
 ---

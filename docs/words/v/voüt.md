@@ -1,5 +1,6 @@
 ---
 id: voüt
+slug: voüt
 title: voüt
 hoverText: error § Noun
 ---

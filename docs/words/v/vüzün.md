@@ -1,5 +1,6 @@
 ---
 id: vüzün
+slug: vüzün
 title: vüzün
 hoverText: to obey (a rule) § Verb
 ---

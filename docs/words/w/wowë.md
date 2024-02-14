@@ -1,5 +1,6 @@
 ---
 id: wowë
+slug: wowë
 title: wowë
 hoverText: foot § Noun
 ---

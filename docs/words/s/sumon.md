@@ -1,5 +1,6 @@
 ---
 id: sumon
+slug: sumon
 title: sumon
 hoverText: equal/same § Modifier
 ---

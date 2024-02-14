@@ -1,5 +1,6 @@
 ---
 id: hüunhö
+slug: hüunhö
 title: hüunhö
 hoverText: mixed § Modifier
 ---

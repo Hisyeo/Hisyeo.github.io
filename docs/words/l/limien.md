@@ -1,5 +1,6 @@
 ---
 id: limien
+slug: limien
 title: limien
 hoverText: inside § Noun
 ---

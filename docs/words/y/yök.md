@@ -1,5 +1,6 @@
 ---
 id: yök
+slug: yök
 title: yök
 hoverText: negatitive endoclitic § Grammar
 ---

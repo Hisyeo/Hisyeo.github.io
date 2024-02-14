@@ -1,5 +1,6 @@
 ---
 id: nukulö
+slug: nukulö
 title: nukulö
 hoverText: copy § Noun
 ---

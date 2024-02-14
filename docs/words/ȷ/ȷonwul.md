@@ -1,5 +1,6 @@
 ---
 id: ȷonwul
+slug: ȷonwul
 title: ȷonwul
 hoverText: animal § Noun
 ---

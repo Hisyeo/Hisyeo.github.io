@@ -1,5 +1,6 @@
 ---
 id: küözyo
+slug: küözyo
 title: küözyo
 hoverText: state § Noun
 ---

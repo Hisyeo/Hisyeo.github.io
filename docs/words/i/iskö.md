@@ -1,5 +1,6 @@
 ---
 id: iskö
+slug: iskö
 title: iskö
 hoverText: to drink (a drink) § Verb
 ---

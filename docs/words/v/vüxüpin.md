@@ -1,5 +1,6 @@
 ---
 id: vüxüpin
+slug: vüxüpin
 title: vüxüpin
 hoverText: accessory § Modifier
 ---

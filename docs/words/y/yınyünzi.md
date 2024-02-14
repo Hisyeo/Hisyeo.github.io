@@ -1,5 +1,6 @@
 ---
 id: yınyünzi
+slug: yınyünzi
 title: yınyünzi
 hoverText: modifier (adjective) § Noun
 ---

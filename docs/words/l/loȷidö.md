@@ -1,5 +1,6 @@
 ---
 id: loȷidö
+slug: loȷidö
 title: loȷidö
 hoverText: heart § Noun
 ---

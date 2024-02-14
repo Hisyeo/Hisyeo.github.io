@@ -1,5 +1,6 @@
 ---
 id: süwit
+slug: süwit
 title: süwit
 hoverText: sweet § Modifier
 ---

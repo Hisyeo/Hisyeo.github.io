@@ -1,5 +1,6 @@
 ---
 id: postovis
+slug: postovis
 title: postovis
 hoverText: representative/delegate § Noun
 ---

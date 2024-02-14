@@ -1,5 +1,6 @@
 ---
 id: nüyo
+slug: nüyo
 title: nüyo
 hoverText: stick § Noun
 ---

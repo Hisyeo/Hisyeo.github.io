@@ -1,5 +1,6 @@
 ---
 id: yuüti
+slug: yuüti
 title: yuüti
 hoverText: some/a few § Quantity
 ---

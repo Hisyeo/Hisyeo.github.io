@@ -1,5 +1,6 @@
 ---
 id: mutyu
+slug: mutyu
 title: mutyu
 hoverText: middle § Noun
 ---

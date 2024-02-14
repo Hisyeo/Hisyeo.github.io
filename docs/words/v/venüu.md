@@ -1,5 +1,6 @@
 ---
 id: venüu
+slug: venüu
 title: venüu
 hoverText: country/region § Noun
 ---

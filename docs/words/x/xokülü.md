@@ -1,5 +1,6 @@
 ---
 id: xokülü
+slug: xokülü
 title: xokülü
 hoverText: to invite (inviteable entity) § Verb
 ---

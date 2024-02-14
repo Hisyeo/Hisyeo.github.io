@@ -1,5 +1,6 @@
 ---
 id: söhoük
+slug: söhoük
 title: söhoük
 hoverText: arithmetic/math § Noun
 ---

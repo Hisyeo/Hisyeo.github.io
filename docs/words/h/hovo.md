@@ -1,5 +1,6 @@
 ---
 id: hovo
+slug: hovo
 title: hovo
 hoverText: to plead (a plea) § Verb
 ---

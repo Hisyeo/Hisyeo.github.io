@@ -1,5 +1,6 @@
 ---
 id: unpü
+slug: unpü
 title: unpü
 hoverText: arrow § Noun
 ---

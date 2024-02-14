@@ -1,5 +1,6 @@
 ---
 id: toüyen
+slug: toüyen
 title: toüyen
 hoverText: to hate (a hated entity) § Verb
 ---

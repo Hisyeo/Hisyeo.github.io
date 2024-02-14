@@ -1,5 +1,6 @@
 ---
 id: lö
+slug: lö
 title: lö
 hoverText: moving § Modifier
 ---

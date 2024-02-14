@@ -1,5 +1,6 @@
 ---
 id: pelexo
+slug: pelexo
 title: pelexo
 hoverText: to mark (a target) § Verb
 ---

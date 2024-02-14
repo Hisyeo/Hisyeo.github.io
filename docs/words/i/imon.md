@@ -1,5 +1,6 @@
 ---
 id: imon
+slug: imon
 title: imon
 hoverText: to trust (a belief) § Verb
 ---

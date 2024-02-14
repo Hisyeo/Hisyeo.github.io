@@ -1,5 +1,6 @@
 ---
 id: menekxe
+slug: menekxe
 title: menekxe
 hoverText: violet § Modifier
 ---

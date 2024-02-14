@@ -1,5 +1,6 @@
 ---
 id: mötivö
+slug: mötivö
 title: mötivö
 hoverText: reason § Noun
 ---

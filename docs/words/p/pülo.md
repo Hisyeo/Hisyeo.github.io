@@ -1,5 +1,6 @@
 ---
 id: pülo
+slug: pülo
 title: pülo
 hoverText: brown § Modifier
 ---

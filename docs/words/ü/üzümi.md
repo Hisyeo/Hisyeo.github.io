@@ -1,5 +1,6 @@
 ---
 id: üzümi
+slug: üzümi
 title: üzümi
 hoverText: economy § Noun
 ---

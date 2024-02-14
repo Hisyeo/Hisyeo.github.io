@@ -1,5 +1,6 @@
 ---
 id: vilo
+slug: vilo
 title: vilo
 hoverText: row § Noun
 ---

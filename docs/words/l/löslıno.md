@@ -1,5 +1,6 @@
 ---
 id: löslıno
+slug: löslıno
 title: löslıno
 hoverText: plant § Noun
 ---

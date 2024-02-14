@@ -1,5 +1,6 @@
 ---
 id: sonti
+slug: sonti
 title: sonti
 hoverText: calm § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: zienxin
+slug: zienxin
 title: zienxin
 hoverText: alkaline § Modifier
 ---

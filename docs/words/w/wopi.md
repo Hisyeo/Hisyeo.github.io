@@ -1,5 +1,6 @@
 ---
 id: wopi
+slug: wopi
 title: wopi
 hoverText: island § Noun
 ---

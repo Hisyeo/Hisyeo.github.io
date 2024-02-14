@@ -1,5 +1,6 @@
 ---
 id: oȷüul
+slug: oȷüul
 title: oȷüul
 hoverText: any/whichever § Pronoun
 ---

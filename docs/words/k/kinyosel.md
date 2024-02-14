@@ -1,5 +1,6 @@
 ---
 id: kinyosel
+slug: kinyosel
 title: kinyosel
 hoverText: chemical § Noun
 ---

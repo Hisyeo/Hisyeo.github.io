@@ -1,5 +1,6 @@
 ---
 id: löȷiz
+slug: löȷiz
 title: löȷiz
 hoverText: to give birth to (a baby) § Verb
 ---

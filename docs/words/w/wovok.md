@@ -1,5 +1,6 @@
 ---
 id: wovok
+slug: wovok
 title: wovok
 hoverText: to accept (a right) § Verb
 ---

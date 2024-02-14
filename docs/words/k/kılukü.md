@@ -1,5 +1,6 @@
 ---
 id: kılukü
+slug: kılukü
 title: kılukü
 hoverText: eastern § Modifier
 ---

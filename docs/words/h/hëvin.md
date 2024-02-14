@@ -1,5 +1,6 @@
 ---
 id: hëvin
+slug: hëvin
 title: hëvin
 hoverText: to understand (a concept) § Verb
 ---

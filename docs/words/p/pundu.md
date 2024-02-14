@@ -1,5 +1,6 @@
 ---
 id: pundu
+slug: pundu
 title: pundu
 hoverText: closed § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: ötöstü
+slug: ötöstü
 title: ötöstü
 hoverText: opposite § Modifier
 ---

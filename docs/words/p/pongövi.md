@@ -1,5 +1,6 @@
 ---
 id: pongövi
+slug: pongövi
 title: pongövi
 hoverText: endangered § Modifier
 ---

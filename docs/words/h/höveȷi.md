@@ -1,5 +1,6 @@
 ---
 id: höveȷi
+slug: höveȷi
 title: höveȷi
 hoverText: bovine § Noun
 ---

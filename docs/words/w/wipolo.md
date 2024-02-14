@@ -1,5 +1,6 @@
 ---
 id: wipolo
+slug: wipolo
 title: wipolo
 hoverText: flag § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: ëo
+slug: ëo
 title: ëo
 hoverText: causative verb endoclitic § Grammar
 ---

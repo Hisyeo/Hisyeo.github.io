@@ -1,5 +1,6 @@
 ---
 id: öntön
+slug: öntön
 title: öntön
 hoverText: to wear (clothing) § Verb
 ---

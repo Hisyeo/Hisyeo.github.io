@@ -1,5 +1,6 @@
 ---
 id: piömo
+slug: piömo
 title: piömo
 hoverText: biome § Noun
 ---

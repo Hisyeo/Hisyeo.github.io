@@ -1,5 +1,6 @@
 ---
 id: mënüs
+slug: mënüs
 title: mënüs
 hoverText: fewer/less § Quantity
 ---

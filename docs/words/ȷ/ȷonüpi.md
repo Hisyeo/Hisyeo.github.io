@@ -1,5 +1,6 @@
 ---
 id: ȷonüpi
+slug: ȷonüpi
 title: ȷonüpi
 hoverText: southern § Modifier
 ---

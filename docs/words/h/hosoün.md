@@ -1,5 +1,6 @@
 ---
 id: hosoün
+slug: hosoün
 title: hosoün
 hoverText: ratio/proportion § Noun
 ---

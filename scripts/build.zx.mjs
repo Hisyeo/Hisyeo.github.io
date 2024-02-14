@@ -4,6 +4,7 @@ const words = []
 const snippets = {}
 const template = (w) => `---
 id: ${w['Hisyëö']}
+slug: ${w['Hisyëö']}
 title: ${w['Hisyëö']}
 hoverText: ${w['Meaning']} § ${w['Type']}
 ---

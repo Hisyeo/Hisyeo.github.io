@@ -1,5 +1,6 @@
 ---
 id: pesol
+slug: pesol
 title: pesol
 hoverText: to seal/lock (sealable/lockable entity) § Verb
 ---

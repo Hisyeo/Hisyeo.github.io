@@ -1,5 +1,6 @@
 ---
 id: konwo
+slug: konwo
 title: konwo
 hoverText: rhythm/beat § Modifier
 ---

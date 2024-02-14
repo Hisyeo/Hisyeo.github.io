@@ -1,5 +1,6 @@
 ---
 id: kotonhon
+slug: kotonhon
 title: kotonhon
 hoverText: sudden/urgent § Modifier
 ---

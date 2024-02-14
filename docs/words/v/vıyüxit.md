@@ -1,5 +1,6 @@
 ---
 id: vıyüxit
+slug: vıyüxit
 title: vıyüxit
 hoverText: to employ/exploit (employable/exploitable entity) § Verb
 ---

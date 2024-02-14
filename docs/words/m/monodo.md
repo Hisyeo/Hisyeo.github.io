@@ -1,5 +1,6 @@
 ---
 id: monodo
+slug: monodo
 title: monodo
 hoverText: to meet (meetable/visitable entity) § Verb
 ---

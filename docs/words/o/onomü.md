@@ -1,5 +1,6 @@
 ---
 id: onomü
+slug: onomü
 title: onomü
 hoverText: rice § Noun
 ---

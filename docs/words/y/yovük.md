@@ -1,5 +1,6 @@
 ---
 id: yovük
+slug: yovük
 title: yovük
 hoverText: pillow § Noun
 ---

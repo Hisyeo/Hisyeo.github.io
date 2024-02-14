@@ -1,5 +1,6 @@
 ---
 id: mikdol
+slug: mikdol
 title: mikdol
 hoverText: amount § Noun
 ---

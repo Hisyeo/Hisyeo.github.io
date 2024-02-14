@@ -1,5 +1,6 @@
 ---
 id: güso
+slug: güso
 title: güso
 hoverText: angry § Modifier
 ---

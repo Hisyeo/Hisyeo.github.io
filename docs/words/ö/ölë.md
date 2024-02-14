@@ -1,5 +1,6 @@
 ---
 id: ölë
+slug: ölë
 title: ölë
 hoverText: experiencer/causee marker § Preposition
 ---

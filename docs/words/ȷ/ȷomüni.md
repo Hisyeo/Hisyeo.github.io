@@ -1,5 +1,6 @@
 ---
 id: ȷomüni
+slug: ȷomüni
 title: ȷomüni
 hoverText: purple § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: didi
+slug: didi
 title: didi
 hoverText: counter-agent marker (against) § Preposition
 ---

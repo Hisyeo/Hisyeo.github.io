@@ -1,5 +1,6 @@
 ---
 id: helgo
+slug: helgo
 title: helgo
 hoverText: to venerate (venerable entity) § Verb
 ---

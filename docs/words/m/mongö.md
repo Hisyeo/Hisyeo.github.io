@@ -1,5 +1,6 @@
 ---
 id: mongö
+slug: mongö
 title: mongö
 hoverText: sharks/rays § Noun
 ---

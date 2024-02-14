@@ -1,5 +1,6 @@
 ---
 id: düpono
+slug: düpono
 title: düpono
 hoverText: to immerse (immersible entity) § Verb
 ---

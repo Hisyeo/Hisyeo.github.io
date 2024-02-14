@@ -1,5 +1,6 @@
 ---
 id: moȷün
+slug: moȷün
 title: moȷün
 hoverText: cream/paste § Noun
 ---

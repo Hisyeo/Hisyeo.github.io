@@ -1,5 +1,6 @@
 ---
 id: golo
+slug: golo
 title: golo
 hoverText: to read (a document) § Verb
 ---

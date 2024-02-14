@@ -1,5 +1,6 @@
 ---
 id: püsın
+slug: püsın
 title: püsın
 hoverText: dizzy § Modifier
 ---

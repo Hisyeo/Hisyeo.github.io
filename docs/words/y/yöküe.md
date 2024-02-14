@@ -1,5 +1,6 @@
 ---
 id: yöküe
+slug: yöküe
 title: yöküe
 hoverText: monster § Noun
 ---

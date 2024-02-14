@@ -1,5 +1,6 @@
 ---
 id: pësnëhot
+slug: pësnëhot
 title: pësnëhot
 hoverText: to suggest (a suggestion) § Verb
 ---

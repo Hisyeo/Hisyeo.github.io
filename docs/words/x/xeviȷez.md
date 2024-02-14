@@ -1,5 +1,6 @@
 ---
 id: xeviȷez
+slug: xeviȷez
 title: xeviȷez
 hoverText: to predict (a prediction) § Verb
 ---

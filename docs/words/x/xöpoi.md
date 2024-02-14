@@ -1,5 +1,6 @@
 ---
 id: xöpoi
+slug: xöpoi
 title: xöpoi
 hoverText: salty § Modifier
 ---

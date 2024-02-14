@@ -1,5 +1,6 @@
 ---
 id: pölutë
+slug: pölutë
 title: pölutë
 hoverText: foreign § Modifier
 ---

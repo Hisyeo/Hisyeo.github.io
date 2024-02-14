@@ -1,5 +1,6 @@
 ---
 id: zuhon
+slug: zuhon
 title: zuhon
 hoverText: resistant § Modifier
 ---

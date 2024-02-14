@@ -1,5 +1,6 @@
 ---
 id: toliko
+slug: toliko
 title: toliko
 hoverText: method § Noun
 ---

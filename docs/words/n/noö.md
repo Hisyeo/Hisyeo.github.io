@@ -1,5 +1,6 @@
 ---
 id: noö
+slug: noö
 title: noö
 hoverText: wave § Noun
 ---

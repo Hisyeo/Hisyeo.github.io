@@ -1,5 +1,6 @@
 ---
 id: mötowo
+slug: mötowo
 title: mötowo
 hoverText: content § Noun
 ---

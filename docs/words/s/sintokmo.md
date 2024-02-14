@@ -1,5 +1,6 @@
 ---
 id: sintokmo
+slug: sintokmo
 title: sintokmo
 hoverText: phrase § Noun
 ---

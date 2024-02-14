@@ -1,5 +1,6 @@
 ---
 id: opünuk
+slug: opünuk
 title: opünuk
 hoverText: to blow (a blowable entity) § Verb
 ---

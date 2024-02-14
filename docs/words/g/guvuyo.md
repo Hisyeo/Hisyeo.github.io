@@ -1,5 +1,6 @@
 ---
 id: guvuyo
+slug: guvuyo
 title: guvuyo
 hoverText: to exchange/trade (an exchangeable entity) § Verb
 ---

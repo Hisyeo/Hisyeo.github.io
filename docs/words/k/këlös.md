@@ -1,5 +1,6 @@
 ---
 id: këlös
+slug: këlös
 title: këlös
 hoverText: weather § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: mükno
+slug: mükno
 title: mükno
 hoverText: mature/ripe § Modifier
 ---

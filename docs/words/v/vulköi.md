@@ -1,5 +1,6 @@
 ---
 id: vulköi
+slug: vulköi
 title: vulköi
 hoverText: to rub (rubbable entity) § Verb
 ---

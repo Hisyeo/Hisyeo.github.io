@@ -1,5 +1,6 @@
 ---
 id: vizwo
+slug: vizwo
 title: vizwo
 hoverText: hidden/secret § Modifier
 ---

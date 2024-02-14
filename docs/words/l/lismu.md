@@ -1,5 +1,6 @@
 ---
 id: lismu
+slug: lismu
 title: lismu
 hoverText: clay § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: ölgökin
+slug: ölgökin
 title: ölgökin
 hoverText: dry § Modifier
 ---

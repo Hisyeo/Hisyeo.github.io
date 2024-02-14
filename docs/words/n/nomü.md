@@ -1,5 +1,6 @@
 ---
 id: nomü
+slug: nomü
 title: nomü
 hoverText: tree § Noun
 ---

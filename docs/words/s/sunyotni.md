@@ -1,5 +1,6 @@
 ---
 id: sunyotni
+slug: sunyotni
 title: sunyotni
 hoverText: interested/amused § Modifier
 ---

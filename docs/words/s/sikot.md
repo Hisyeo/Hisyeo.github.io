@@ -1,5 +1,6 @@
 ---
 id: sikot
+slug: sikot
 title: sikot
 hoverText: brush/comb/rake/broom § Noun
 ---

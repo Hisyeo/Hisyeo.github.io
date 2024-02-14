@@ -1,5 +1,6 @@
 ---
 id: sötün
+slug: sötün
 title: sötün
 hoverText: column § Noun
 ---

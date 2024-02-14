@@ -1,5 +1,6 @@
 ---
 id: vio
+slug: vio
 title: vio
 hoverText: instrument/manner marker (using/with) § Preposition
 ---

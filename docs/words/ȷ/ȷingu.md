@@ -1,5 +1,6 @@
 ---
 id: ȷingu
+slug: ȷingu
 title: ȷingu
 hoverText: orange § Modifier
 ---

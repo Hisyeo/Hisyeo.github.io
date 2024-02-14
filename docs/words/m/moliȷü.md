@@ -1,5 +1,6 @@
 ---
 id: moliȷü
+slug: moliȷü
 title: moliȷü
 hoverText: and § Connector
 ---

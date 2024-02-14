@@ -1,5 +1,6 @@
 ---
 id: pökövoz
+slug: pökövoz
 title: pökövoz
 hoverText: to block (blockable entity) § Verb
 ---

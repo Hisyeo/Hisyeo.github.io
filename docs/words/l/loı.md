@@ -1,5 +1,6 @@
 ---
 id: loı
+slug: loı
 title: loı
 hoverText: it/they § Pronoun
 ---

@@ -1,5 +1,6 @@
 ---
 id: dinyoüz
+slug: dinyoüz
 title: dinyoüz
 hoverText: lip/rim/edge § Noun
 ---

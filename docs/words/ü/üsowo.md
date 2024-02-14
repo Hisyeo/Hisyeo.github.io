@@ -1,5 +1,6 @@
 ---
 id: üsowo
+slug: üsowo
 title: üsowo
 hoverText: balanced § Modifier
 ---

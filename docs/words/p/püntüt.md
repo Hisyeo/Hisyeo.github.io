@@ -1,5 +1,6 @@
 ---
 id: püntüt
+slug: püntüt
 title: püntüt
 hoverText: tail § Noun
 ---

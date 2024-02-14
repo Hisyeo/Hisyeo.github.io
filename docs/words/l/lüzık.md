@@ -1,5 +1,6 @@
 ---
 id: lüzık
+slug: lüzık
 title: lüzık
 hoverText: slippery § Modifier
 ---

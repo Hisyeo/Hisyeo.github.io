@@ -1,5 +1,6 @@
 ---
 id: könyëz
+slug: könyëz
 title: könyëz
 hoverText: ending § Modifier
 ---

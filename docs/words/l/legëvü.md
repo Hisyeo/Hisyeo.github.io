@@ -1,5 +1,6 @@
 ---
 id: legëvü
+slug: legëvü
 title: legëvü
 hoverText: lazy § Modifier
 ---

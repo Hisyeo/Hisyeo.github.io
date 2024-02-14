@@ -1,5 +1,6 @@
 ---
 id: xidëtli
+slug: xidëtli
 title: xidëtli
 hoverText: violent § Modifier
 ---

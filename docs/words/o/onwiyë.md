@@ -1,5 +1,6 @@
 ---
 id: onwiyë
+slug: onwiyë
 title: onwiyë
 hoverText: bored § Modifier
 ---

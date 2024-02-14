@@ -1,5 +1,6 @@
 ---
 id: tönkö
+slug: tönkö
 title: tönkö
 hoverText: hurting/suffering § Modifier
 ---

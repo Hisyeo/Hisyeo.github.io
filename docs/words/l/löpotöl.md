@@ -1,5 +1,6 @@
 ---
 id: löpotöl
+slug: löpotöl
 title: löpotöl
 hoverText: to scoop (scoopable entity) § Verb
 ---

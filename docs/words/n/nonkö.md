@@ -1,5 +1,6 @@
 ---
 id: nonkö
+slug: nonkö
 title: nonkö
 hoverText: 04 four § Quantity
 ---

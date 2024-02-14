@@ -1,5 +1,6 @@
 ---
 id: ok
+slug: ok
 title: ok
 hoverText: emphatic enclitic § Grammar
 ---

@@ -1,5 +1,6 @@
 ---
 id: ködus
+slug: ködus
 title: ködus
 hoverText: sacred § Modifier
 ---

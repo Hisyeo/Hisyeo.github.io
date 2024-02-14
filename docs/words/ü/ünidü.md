@@ -1,5 +1,6 @@
 ---
 id: ünidü
+slug: ünidü
 title: ünidü
 hoverText: joined § Modifier
 ---

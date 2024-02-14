@@ -1,5 +1,6 @@
 ---
 id: punxın
+slug: punxın
 title: punxın
 hoverText: innate/native § Modifier
 ---

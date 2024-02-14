@@ -1,5 +1,6 @@
 ---
 id: öngö
+slug: öngö
 title: öngö
 hoverText: fungus § Noun
 ---

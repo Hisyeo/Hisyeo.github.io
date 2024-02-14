@@ -1,5 +1,6 @@
 ---
 id: opoki
+slug: opoki
 title: opoki
 hoverText: glass § Noun
 ---

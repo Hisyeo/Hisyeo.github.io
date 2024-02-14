@@ -1,5 +1,6 @@
 ---
 id: titon
+slug: titon
 title: titon
 hoverText: direction/path § Noun
 ---

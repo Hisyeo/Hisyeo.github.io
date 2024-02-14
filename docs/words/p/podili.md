@@ -1,5 +1,6 @@
 ---
 id: podili
+slug: podili
 title: podili
 hoverText: changing/becoming § Modifier
 ---

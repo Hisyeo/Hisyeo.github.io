@@ -1,5 +1,6 @@
 ---
 id: zentik
+slug: zentik
 title: zentik
 hoverText: official/formal § Modifier
 ---

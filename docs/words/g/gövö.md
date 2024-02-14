@@ -1,5 +1,6 @@
 ---
 id: gövö
+slug: gövö
 title: gövö
 hoverText: to push (a pushable entity) § Verb
 ---

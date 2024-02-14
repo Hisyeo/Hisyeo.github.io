@@ -1,5 +1,6 @@
 ---
 id: zenzi
+slug: zenzi
 title: zenzi
 hoverText: thin § Modifier
 ---

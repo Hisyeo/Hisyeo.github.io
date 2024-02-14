@@ -1,5 +1,6 @@
 ---
 id: pis
+slug: pis
 title: pis
 hoverText: bad § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: gönyumon
+slug: gönyumon
 title: gönyumon
 hoverText: grunting/growling § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: leknek
+slug: leknek
 title: leknek
 hoverText: weapon § Noun
 ---

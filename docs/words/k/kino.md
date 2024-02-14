@@ -1,5 +1,6 @@
 ---
 id: kino
+slug: kino
 title: kino
 hoverText: rhyme/verse § Noun
 ---

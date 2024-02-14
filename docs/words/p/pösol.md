@@ -1,5 +1,6 @@
 ---
 id: pösol
+slug: pösol
 title: pösol
 hoverText: to form a pose (a position) § Verb
 ---

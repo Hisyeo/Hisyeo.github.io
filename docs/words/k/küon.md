@@ -1,5 +1,6 @@
 ---
 id: küon
+slug: küon
 title: küon
 hoverText: light § Noun
 ---

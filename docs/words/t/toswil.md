@@ -1,5 +1,6 @@
 ---
 id: toswil
+slug: toswil
 title: toswil
 hoverText: to draw (a picture) § Verb
 ---

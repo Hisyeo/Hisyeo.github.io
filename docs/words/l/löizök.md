@@ -1,5 +1,6 @@
 ---
 id: löizök
+slug: löizök
 title: löizök
 hoverText: emphasis clause ender (really/again) § Grammar
 ---

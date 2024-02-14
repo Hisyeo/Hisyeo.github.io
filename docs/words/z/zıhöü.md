@@ -1,5 +1,6 @@
 ---
 id: zıhöü
+slug: zıhöü
 title: zıhöü
 hoverText: hereafter § Modifier
 ---

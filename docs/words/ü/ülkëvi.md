@@ -1,5 +1,6 @@
 ---
 id: ülkëvi
+slug: ülkëvi
 title: ülkëvi
 hoverText: adamant/stubborn § Modifier
 ---

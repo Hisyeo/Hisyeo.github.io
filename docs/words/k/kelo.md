@@ -1,5 +1,6 @@
 ---
 id: kelo
+slug: kelo
 title: kelo
 hoverText: to play (a game) § Verb
 ---

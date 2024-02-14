@@ -1,5 +1,6 @@
 ---
 id: dus
+slug: dus
 title: dus
 hoverText: 10 ten § Quantity
 ---

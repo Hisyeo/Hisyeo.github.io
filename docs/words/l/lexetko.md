@@ -1,5 +1,6 @@
 ---
 id: lexetko
+slug: lexetko
 title: lexetko
 hoverText: lattice/array § Noun
 ---

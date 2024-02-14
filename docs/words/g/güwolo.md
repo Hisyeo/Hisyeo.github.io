@@ -1,5 +1,6 @@
 ---
 id: güwolo
+slug: güwolo
 title: güwolo
 hoverText: to scratch (a scratchable entity) § Verb
 ---

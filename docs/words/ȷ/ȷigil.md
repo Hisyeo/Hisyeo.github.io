@@ -1,5 +1,6 @@
 ---
 id: ȷigil
+slug: ȷigil
 title: ȷigil
 hoverText: falling § Modifier
 ---

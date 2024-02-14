@@ -1,5 +1,6 @@
 ---
 id: yözno
+slug: yözno
 title: yözno
 hoverText: program/plan § Noun
 ---

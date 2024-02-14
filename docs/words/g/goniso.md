@@ -1,5 +1,6 @@
 ---
 id: goniso
+slug: goniso
 title: goniso
 hoverText: to think (a thought/opinion) § Verb
 ---

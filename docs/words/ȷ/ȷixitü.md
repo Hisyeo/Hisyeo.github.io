@@ -1,5 +1,6 @@
 ---
 id: ȷixitü
+slug: ȷixitü
 title: ȷixitü
 hoverText: finger/toe § Noun
 ---

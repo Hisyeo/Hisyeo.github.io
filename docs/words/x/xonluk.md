@@ -1,5 +1,6 @@
 ---
 id: xonluk
+slug: xonluk
 title: xonluk
 hoverText: young § Modifier
 ---

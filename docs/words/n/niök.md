@@ -1,5 +1,6 @@
 ---
 id: niök
+slug: niök
 title: niök
 hoverText: growing § Modifier
 ---

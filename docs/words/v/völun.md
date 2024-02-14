@@ -1,5 +1,6 @@
 ---
 id: völun
+slug: völun
 title: völun
 hoverText: to want (a desire) § Verb
 ---

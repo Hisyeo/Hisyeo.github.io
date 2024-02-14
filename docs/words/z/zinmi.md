@@ -1,5 +1,6 @@
 ---
 id: zinmi
+slug: zinmi
 title: zinmi
 hoverText: precise/specific § Modifier
 ---

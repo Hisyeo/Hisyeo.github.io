@@ -1,5 +1,6 @@
 ---
 id: möniso
+slug: möniso
 title: möniso
 hoverText: to display/show (a diplay/show) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: tüko
+slug: tüko
 title: tüko
 hoverText: interrupted § Modifier
 ---

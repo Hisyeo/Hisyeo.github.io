@@ -1,5 +1,6 @@
 ---
 id: zikinil
+slug: zikinil
 title: zikinil
 hoverText: ear § Noun
 ---

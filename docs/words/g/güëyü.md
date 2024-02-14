@@ -1,5 +1,6 @@
 ---
 id: güëyü
+slug: güëyü
 title: güëyü
 hoverText: eye § Noun
 ---

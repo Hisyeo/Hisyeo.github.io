@@ -1,5 +1,6 @@
 ---
 id: somö
+slug: somö
 title: somö
 hoverText: only § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: lis
+slug: lis
 title: lis
 hoverText: smooth § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: pëiku
+slug: pëiku
 title: pëiku
 hoverText: shell § Noun
 ---

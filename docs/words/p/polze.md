@@ -1,5 +1,6 @@
 ---
 id: polze
+slug: polze
 title: polze
 hoverText: cloth/fabric § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: kukwon
+slug: kukwon
 title: kukwon
 hoverText: organ/member § Noun
 ---

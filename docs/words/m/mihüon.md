@@ -1,5 +1,6 @@
 ---
 id: mihüon
+slug: mihüon
 title: mihüon
 hoverText: beige § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: hiskünzo
+slug: hiskünzo
 title: hiskünzo
 hoverText: language § Noun
 ---

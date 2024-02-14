@@ -1,5 +1,6 @@
 ---
 id: xovö
+slug: xovö
 title: xovö
 hoverText: guts § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: gün
+slug: gün
 title: gün
 hoverText: to perceive (a trait) § Verb
 ---

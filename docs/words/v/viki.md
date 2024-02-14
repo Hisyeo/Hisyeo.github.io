@@ -1,5 +1,6 @@
 ---
 id: viki
+slug: viki
 title: viki
 hoverText: fast § Modifier
 ---

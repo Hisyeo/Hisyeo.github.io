@@ -1,5 +1,6 @@
 ---
 id: tünzi
+slug: tünzi
 title: tünzi
 hoverText: nonbinary/queer(?) § Modifier
 ---

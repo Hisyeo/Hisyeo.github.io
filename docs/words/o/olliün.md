@@ -1,5 +1,6 @@
 ---
 id: olliün
+slug: olliün
 title: olliün
 hoverText: allium plant § Noun
 ---

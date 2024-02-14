@@ -1,5 +1,6 @@
 ---
 id: hüdol
+slug: hüdol
 title: hüdol
 hoverText: false § Modifier
 ---

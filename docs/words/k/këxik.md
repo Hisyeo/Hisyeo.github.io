@@ -1,5 +1,6 @@
 ---
 id: këxik
+slug: këxik
 title: këxik
 hoverText: variable/unstable § Modifier
 ---

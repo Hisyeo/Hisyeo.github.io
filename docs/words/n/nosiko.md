@@ -1,5 +1,6 @@
 ---
 id: nosiko
+slug: nosiko
 title: nosiko
 hoverText: nose § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: ödon
+slug: ödon
 title: ödon
 hoverText: orderly § Modifier
 ---

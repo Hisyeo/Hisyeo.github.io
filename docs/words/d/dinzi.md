@@ -1,5 +1,6 @@
 ---
 id: dinzi
+slug: dinzi
 title: dinzi
 hoverText: block § Noun
 ---

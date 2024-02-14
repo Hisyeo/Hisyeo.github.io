@@ -1,5 +1,6 @@
 ---
 id: tıgoyo
+slug: tıgoyo
 title: tıgoyo
 hoverText: supine § Modifier
 ---

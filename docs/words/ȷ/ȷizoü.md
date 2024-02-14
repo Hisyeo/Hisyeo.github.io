@@ -1,5 +1,6 @@
 ---
 id: ȷizoü
+slug: ȷizoü
 title: ȷizoü
 hoverText: to train (a skill/ability) § Verb
 ---

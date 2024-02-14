@@ -1,5 +1,6 @@
 ---
 id: tetëk
+slug: tetëk
 title: tetëk
 hoverText: breast/chest § Noun
 ---

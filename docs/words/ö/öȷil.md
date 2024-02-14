@@ -1,5 +1,6 @@
 ---
 id: öȷil
+slug: öȷil
 title: öȷil
 hoverText: nut § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: hiyöli
+slug: hiyöli
 title: hiyöli
 hoverText: weak § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: omülto
+slug: omülto
 title: omülto
 hoverText: abstract § Modifier
 ---

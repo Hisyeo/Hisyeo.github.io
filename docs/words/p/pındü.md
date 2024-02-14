@@ -1,5 +1,6 @@
 ---
 id: pındü
+slug: pındü
 title: pındü
 hoverText: dot § Noun
 ---

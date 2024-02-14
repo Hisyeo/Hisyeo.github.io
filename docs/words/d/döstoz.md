@@ -1,5 +1,6 @@
 ---
 id: döstoz
+slug: döstoz
 title: döstoz
 hoverText: to receive (receivable entity) § Verb
 ---

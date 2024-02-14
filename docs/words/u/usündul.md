@@ -1,5 +1,6 @@
 ---
 id: usündul
+slug: usündul
 title: usündul
 hoverText: ugly § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: ȷötëstö
+slug: ȷötëstö
 title: ȷötëstö
 hoverText: sufficient/enough § Modifier
 ---

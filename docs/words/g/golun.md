@@ -1,5 +1,6 @@
 ---
 id: golun
+slug: golun
 title: golun
 hoverText: to respect (a respected entity) § Verb
 ---

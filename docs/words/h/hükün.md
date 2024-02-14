@@ -1,5 +1,6 @@
 ---
 id: hükün
+slug: hükün
 title: hükün
 hoverText: to order (a command) § Verb
 ---

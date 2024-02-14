@@ -1,5 +1,6 @@
 ---
 id: yöüxin
+slug: yöüxin
 title: yöüxin
 hoverText: parade/procession § Noun
 ---

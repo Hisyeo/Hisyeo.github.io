@@ -1,5 +1,6 @@
 ---
 id: vöskultu
+slug: vöskultu
 title: vöskultu
 hoverText: open § Modifier
 ---

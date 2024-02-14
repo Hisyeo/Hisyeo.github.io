@@ -1,5 +1,6 @@
 ---
 id: nıxin
+slug: nıxin
 title: nıxin
 hoverText: wing § Noun
 ---

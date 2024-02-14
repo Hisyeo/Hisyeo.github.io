@@ -1,5 +1,6 @@
 ---
 id: modo
+slug: modo
 title: modo
 hoverText: matter/material § Noun
 ---

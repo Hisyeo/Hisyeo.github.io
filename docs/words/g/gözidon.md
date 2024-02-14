@@ -1,5 +1,6 @@
 ---
 id: gözidon
+slug: gözidon
 title: gözidon
 hoverText: to choose (a choice) § Verb
 ---

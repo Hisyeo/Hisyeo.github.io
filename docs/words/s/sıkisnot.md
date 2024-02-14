@@ -1,5 +1,6 @@
 ---
 id: sıkisnot
+slug: sıkisnot
 title: sıkisnot
 hoverText: fermented/soured § Modifier
 ---

@@ -1,5 +1,6 @@
 ---
 id: güvöxë
+slug: güvöxë
 title: güvöxë
 hoverText: irony/sarcasm § Noun
 ---

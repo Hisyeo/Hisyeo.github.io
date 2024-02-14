@@ -1,5 +1,6 @@
 ---
 id: sohoü
+slug: sohoü
 title: sohoü
 hoverText: healthy § Modifier
 ---

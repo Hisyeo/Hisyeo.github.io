@@ -1,5 +1,6 @@
 ---
 id: tikü
+slug: tikü
 title: tikü
 hoverText: dead § Modifier
 ---

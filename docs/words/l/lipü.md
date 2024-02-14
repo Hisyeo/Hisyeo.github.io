@@ -1,5 +1,6 @@
 ---
 id: lipü
+slug: lipü
 title: lipü
 hoverText: sheet § Noun
 ---

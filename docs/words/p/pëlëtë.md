@@ -1,5 +1,6 @@
 ---
 id: pëlëtë
+slug: pëlëtë
 title: pëlëtë
 hoverText: wall § Noun
 ---

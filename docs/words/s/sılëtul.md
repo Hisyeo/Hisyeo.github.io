@@ -1,5 +1,6 @@
 ---
 id: sılëtul
+slug: sılëtul
 title: sılëtul
 hoverText: key § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: oksün
+slug: oksün
 title: oksün
 hoverText: meat/muscle § Noun
 ---

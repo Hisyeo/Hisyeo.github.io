@@ -1,5 +1,6 @@
 ---
 id: sotnin
+slug: sotnin
 title: sotnin
 hoverText: right § Noun
 ---

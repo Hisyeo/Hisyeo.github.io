@@ -1,5 +1,6 @@
 ---
 id: lötven
+slug: lötven
 title: lötven
 hoverText: politeness clause ender § Grammar
 ---

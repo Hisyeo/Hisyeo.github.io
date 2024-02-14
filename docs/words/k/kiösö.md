@@ -1,5 +1,6 @@
 ---
 id: kiösö
+slug: kiösö
 title: kiösö
 hoverText: athletic § Modifier
 ---

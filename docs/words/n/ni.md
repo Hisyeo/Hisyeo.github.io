@@ -1,5 +1,6 @@
 ---
 id: ni
+slug: ni
 title: ni
 hoverText: we/us § Pronoun
 ---

@@ -1,5 +1,6 @@
 ---
 id: isipö
+slug: isipö
 title: isipö
 hoverText: claw § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: wëtodü
+slug: wëtodü
 title: wëtodü
 hoverText: to hunt/chase (prey/chasee) § Verb
 ---

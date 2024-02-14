@@ -1,5 +1,6 @@
 ---
 id: kümun
+slug: kümun
 title: kümun
 hoverText: hole § Noun
 ---

@@ -1,5 +1,6 @@
 ---
 id: önhılun
+slug: önhılun
 title: önhılun
 hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
 ---

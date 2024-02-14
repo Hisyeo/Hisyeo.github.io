@@ -1,5 +1,6 @@
 ---
 id: sodolun
+slug: sodolun
 title: sodolun
 hoverText: normal § Modifier
 ---

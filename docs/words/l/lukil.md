@@ -1,5 +1,6 @@
 ---
 id: lukil
+slug: lukil
 title: lukil
 hoverText: line § Noun
 ---

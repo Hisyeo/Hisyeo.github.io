@@ -1,5 +1,6 @@
 ---
 id: lünti
+slug: lünti
 title: lünti
 hoverText: green § Modifier
 ---

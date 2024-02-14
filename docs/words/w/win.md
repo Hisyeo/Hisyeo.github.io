@@ -1,5 +1,6 @@
 ---
 id: win
+slug: win
 title: win
 hoverText: context marker (as for/given) § Preposition
 ---

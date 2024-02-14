@@ -1,5 +1,6 @@
 ---
 id: söndonös
+slug: söndonös
 title: söndonös
 hoverText: direct/live § Modifier
 ---

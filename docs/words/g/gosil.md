@@ -1,5 +1,6 @@
 ---
 id: gosil
+slug: gosil
 title: gosil
 hoverText: short § Modifier
 ---

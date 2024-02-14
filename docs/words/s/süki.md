@@ -1,5 +1,6 @@
 ---
 id: süki
+slug: süki
 title: süki
 hoverText: to like (a preference) § Verb
 ---

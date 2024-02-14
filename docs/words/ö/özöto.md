@@ -1,5 +1,6 @@
 ---
 id: özöto
+slug: özöto
 title: özöto
 hoverText: deity § Noun
 ---

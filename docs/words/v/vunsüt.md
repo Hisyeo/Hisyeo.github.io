@@ -1,5 +1,6 @@
 ---
 id: vunsüt
+slug: vunsüt
 title: vunsüt
 hoverText: defeated § Modifier
 ---

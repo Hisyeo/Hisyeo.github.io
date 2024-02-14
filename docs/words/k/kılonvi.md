@@ -1,5 +1,6 @@
 ---
 id: kılonvi
+slug: kılonvi
 title: kılonvi
 hoverText: brassica § Noun
 ---

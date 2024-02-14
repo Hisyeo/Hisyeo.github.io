@@ -1,5 +1,6 @@
 ---
 id: homüs
+slug: homüs
 title: homüs
 hoverText: quiet § Modifier
 ---

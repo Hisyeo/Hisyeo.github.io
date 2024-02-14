@@ -1,5 +1,6 @@
 ---
 id: nimö
+slug: nimö
 title: nimö
 hoverText: you § Pronoun
 ---

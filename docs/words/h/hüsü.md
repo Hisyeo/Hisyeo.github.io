@@ -1,5 +1,6 @@
 ---
 id: hüsü
+slug: hüsü
 title: hüsü
 hoverText: to be about (theme) § Verb
 ---

@@ -1,5 +1,6 @@
 ---
 id: zomen
+slug: zomen
 title: zomen
 hoverText: lawn/meadow § Noun
 ---

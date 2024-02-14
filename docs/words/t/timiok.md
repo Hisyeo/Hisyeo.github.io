@@ -1,5 +1,6 @@
 ---
 id: timiok
+slug: timiok
 title: timiok
 hoverText: bird § Noun
 ---

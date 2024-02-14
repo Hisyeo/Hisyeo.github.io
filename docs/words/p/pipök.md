@@ -1,5 +1,6 @@
 ---
 id: pipök
+slug: pipök
 title: pipök
 hoverText: white § Modifier
 ---
