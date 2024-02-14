@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # First Steps
 
+What is this language and how do you pronounce it?
+
 ## World Language
 
 Hisyëö is a word language. It takes words from all of the world's families of

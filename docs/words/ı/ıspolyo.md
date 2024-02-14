@@ -1,6 +1,6 @@
 ---
-id: ıspoyo
-title: ıspoyo
+id: ıspolyo
+title: ıspolyo
 hoverText: to scatter (scatterable entity) § Modifier
 ---
 

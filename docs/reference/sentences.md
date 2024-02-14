@@ -71,3 +71,42 @@ In some languages the nucleus is the first word and in other languages the nucle
 word in a phrase. The nucleus of an action phrase is a verb, the nucleus of a subject
 or semantic phrase is a noun. Hisyëö has a nucleus in the middle of a phrase (it *is* a nucleus, after all).
 Determiners go to the left of the nucleus and modifiers to the right.
+
+## Sentence Types
+
+### Simple
+
+A simple sentence consists of a single independent clause with no dependent
+clauses.
+
+### Compound
+
+A compound sentence consists of multiple independent clauses with no dependent
+clauses. These clauses are joined together using conjunctions.
+
+### Complex
+
+A complex sentence consists of one independent clause and at least one dependent
+clause.
+
+### Compound-Complex
+
+A compound–complex sentence (or complex–compound sentence) consists of multiple
+independent clauses, at least one of which has at least one dependent clause.
+
+## Speech Acts
+
+### Assertives
+Speech acts that commit a speaker to the truth of the expressed proposition
+### Directives
+Speech acts that are to cause the hearer to take a particular action, e.g.
+requests, commands and advice
+### Commissives
+Speech acts that commit a speaker to some future action, e.g. promises and oaths
+### Expressives
+Speech acts that express on the speaker's attitudes and emotions towards the
+proposition, e.g. congratulations, excuses and thanks
+### Declarations
+Speech acts that change the reality in accord with the proposition of the
+declaration, e.g. baptisms, pronouncing someone guilty or pronouncing someone
+husband and wife

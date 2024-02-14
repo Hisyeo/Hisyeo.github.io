@@ -1,6 +1,6 @@
 ---
-id: ȷilës
-title: ȷilës
+id: ȷilyois
+title: ȷilyois
 hoverText: deep § Modifier
 ---
 
