@@ -80,10 +80,24 @@ for (let word of words) {
 
     let priorCoda = undefined
     for (let {onset, _, coda} of sylSegments) {
-        if (priorCoda != undefined && ['q',].includes(onset)) {
+        // coda-/k/ cannot be followed by onset-/g/
+        if (['k',].includes(priorCoda) && ['g',].includes(onset)) {
             console.log(`Bad syllable boundary: ${word}`)
         }
-        if (priorCoda == 'k' && ['h',].includes(onset)) {
+        // coda-/t/ cannot be followed by onset-/d/ or onset-/ʃ/
+        if (['t',].includes(priorCoda) && ['d', 'x',].includes(onset)) {
+            console.log(`Bad syllable boundary: ${word}`)
+        }
+        // coda-/ t͡ɕ/ cannot be followed by onset-/s/
+        if (['z',].includes(priorCoda) && ['s',].includes(onset)) {
+            console.log(`Bad syllable boundary: ${word}`)
+        }
+        // coda-/s/ cannot be followed by onset-/ʃ/
+        if (['s',].includes(priorCoda) && ['x',].includes(onset)) {
+            console.log(`Bad syllable boundary: ${word}`)
+        }
+        // onset-/h/ cannot exist after any coda
+        if (['k','t','s','z','l'].includes(priorCoda) && ['h',].includes(onset)) {
             console.log(`Bad syllable boundary: ${word}`)
         }
         priorCoda = coda
