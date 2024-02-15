@@ -2,16 +2,16 @@
 id: ȷünlo
 slug: ȷünlo
 title: ȷünlo
-hoverText: clause/sentence § Noun
+hoverText: series/sentence § Noun
 ---
 
-### clause/sentence § Noun
+### series/sentence § Noun
 
-**Verb**: to be a clause/sentence
+**Verb**: to be a series/sentence
 
-**Noun**: clause/sentence
+**Noun**: series/sentence
 
-**Modifier**: clause/sentence-related
+**Modifier**: series/sentence-related
 
 Arabic جُمْلَة jumla /d͡ʒum.la/
 

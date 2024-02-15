@@ -2,10 +2,10 @@
 id: onpulë
 slug: onpulë
 title: onpulë
-hoverText: amber § Modifier
+hoverText: amber (color) § Modifier
 ---
 
-### amber § Modifier
+### amber (color) § Modifier
 
 **Verb**: to be amber
 
