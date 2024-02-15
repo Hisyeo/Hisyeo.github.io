@@ -17,11 +17,11 @@ representations too.
 | Hisyëö  | Latin | IPA | Transliteration Sources                                        |
 |:-------:|:-----:|:------------:|----------------------------------------------------------------|
 |   ⟨ɽ⟩   | ⟨ ꞌ ⟩ |      / . /    | glottal stops & hiatus: ʔ .                                 |
-|   ⟨ɂ⟩   |  ⟨h⟩  |     /h/ ~ / x /    | back fricatives: x χ ʁ ʀ ħ ʕ h ɦ ʢ ʜ                        |
+|   ⟨ɂ⟩   |  ⟨h⟩  |     /h/ ~ / x /    | back fricatives: x χ ʁ ʀ ħ ʕ h ɦ ʢ ʜ ɧ                       |
 |   ⟨ɔ⟩   |  ⟨k⟩  |     / k / ~ /q/   | voiceless back plosives: k q c                              |
 |   ⟨ꜿ⟩   |  ⟨g⟩  |     / ɡ͈ / ~ /ɢ/   | voiced back plosives: g ɢ ʡ ɣ                               |
 |   ⟨c⟩   |  ⟨ t ⟩  |     / t /    | voiceless front plosives: t ʈ                               |
-|   ⟨ꞇ⟩   |  ⟨z⟩  |    /t͡ʃ/ ~ / t͡ɕ /    | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ ɧ                      |
+|   ⟨ꞇ⟩   |  ⟨z⟩  |    /t͡ʃ/ ~ / t͡ɕ /    | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ                       |
 |   ⟨ɐ⟩   |  ⟨s⟩  |     / s̟ /    | alveolar sibilants: s z                                     |
 |   ⟨ɋ⟩   |  ⟨x⟩  |     / ʃ / ~ /ʂ/   | palatal fricatives: ʃ ʒ ʂ ʐ ç ɕ ʑ                           |
 |   ⟨ʌ⟩   |  ⟨d⟩  |     / d /    | voiced alveolar plosives: d ɖ                               |
