@@ -7,11 +7,11 @@ hoverText: book § Noun
 
 ### book § Noun
 
-**Verb**: to be a tome/volume/book
+**Verb**: to be a tome/book
 
-**Noun**: a tome/volume/book
+**Noun**: a tome/book
 
-**Modifier**: tome-related/volume-related/book-related
+**Modifier**: tome/book-related
 
 Greek τόμος tómos /ˈto.mos/
 

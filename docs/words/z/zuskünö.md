@@ -2,14 +2,14 @@
 id: zuskünö
 slug: zuskünö
 title: zuskünö
-hoverText: each § Pronoun
+hoverText: each § Quantity
 ---
 
-### each § Pronoun
+### each § Quantity
 
 **Verb**: to be each
 
-**Noun**: each
+**Noun**: each (one)
 
 **Modifier**: each/apiece
 

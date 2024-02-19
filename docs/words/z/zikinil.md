@@ -13,6 +13,6 @@ hoverText: ear § Noun
 
 **Modifier**: ear-related
 
-Tzotzil chikinil /'tʃʰi.kʰi.nil/
+Tzotzil chikinil /'ʰi.kʰi.nil/
 
 *Mayan Language Family*

@@ -9,7 +9,7 @@ hoverText: some/a few § Quantity
 
 **Verb**: to be some/a few
 
-**Noun**: scarcity/sparseness
+**Noun**: iota/modicum
 
 **Modifier**: somewhat
 

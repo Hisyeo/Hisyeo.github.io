@@ -2,16 +2,16 @@
 id: sozok
 slug: sozok
 title: sozok
-hoverText: starting § Modifier
+hoverText: to start (startable entity) § Modifier
 ---
 
-### starting § Modifier
+### to start (startable entity) § Modifier
 
-**Verb**: to be starting
+**Verb**: to start/begin
 
-**Noun**: startingness/start
+**Noun**: startable/beginnable entity
 
-**Modifier**: starting
+**Modifier**: started/began
 
 Slovak začať [ˈzat͡ʃac]
 

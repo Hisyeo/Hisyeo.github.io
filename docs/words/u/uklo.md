@@ -7,11 +7,11 @@ hoverText: next § Modifier
 
 ### next § Modifier
 
-**Verb**: to be the next/future (time)
+**Verb**: to be next/coming (time)
 
-**Noun**: future
+**Noun**: nextness/subsequence
 
-**Modifier**: next/future
+**Modifier**: next/coming
 
 Hindi अगला aglā [əɡ.l̪äː]
 

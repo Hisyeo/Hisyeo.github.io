@@ -2,10 +2,10 @@
 id: ȷüntülu
 slug: ȷüntülu
 title: ȷüntülu
-hoverText: joint § Nöün
+hoverText: joint § Noun
 ---
 
-### joint § Nöün
+### joint § Noun
 
 **Verb**: to be a joint
 

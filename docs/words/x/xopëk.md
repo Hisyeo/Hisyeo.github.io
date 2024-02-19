@@ -7,11 +7,11 @@ hoverText: previous § Modifier
 
 ### previous § Modifier
 
-**Verb**: to be the previous/past (time)
+**Verb**: to be previous/former
 
-**Noun**: past
+**Noun**: previousness/antecedence
 
-**Modifier**: previous/past
+**Modifier**: previous/former
 
 Bengali সাবেক śabek [ɕabek]
 

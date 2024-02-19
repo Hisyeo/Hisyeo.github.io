@@ -2,16 +2,16 @@
 id: zıhöü
 slug: zıhöü
 title: zıhöü
-hoverText: hereafter § Modifier
+hoverText: after § Quantity
 ---
 
-### hereafter § Modifier
+### after § Quantity
 
-**Verb**: to be hereafter
+**Verb**: to be after
 
-**Noun**: henceforth-ness
+**Noun**: future
 
-**Modifier**: hereafter
+**Modifier**: afterwards
 
 Chinese 此後 cǐhòu 
 

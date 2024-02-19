@@ -7,11 +7,11 @@ hoverText: to cause (an effect) § Verb
 
 ### to cause (an effect) § Verb
 
-**Verb**: to cause
+**Verb**: to cause/produce
 
-**Noun**: an effect
+**Noun**: an effect/result
 
-**Modifier**: caused
+**Modifier**: caused/produced
 
 Thai ผล pǒn /pʰon˩˩˦/
 

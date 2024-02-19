@@ -1,7 +1,7 @@
 ---
-id: kunpün
-slug: kunpün
-title: kunpün
+id: kon
+slug: kon
+title: kon
 hoverText: abstract verb noun proclitic § Grammar
 ---
 
@@ -13,6 +13,6 @@ hoverText: abstract verb noun proclitic § Grammar
 
 **Modifier**: -
 
-Khmer កំពុង kɑmpung /kɑm.ˈpuŋ/
+Thai การ gaan /kaːn˧/
 
-*Austro-Asiatic Language Family*
+*Kra-Dai Language Family*

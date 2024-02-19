@@ -7,11 +7,11 @@ hoverText: hard § Modifier
 
 ### hard § Modifier
 
-**Verb**: to be hard (material-wise)
+**Verb**: to be hard/rigid/stiff
 
-**Noun**: hardness
+**Noun**: hardness/rigidness/stiffness
 
-**Modifier**: hard (material-wise)
+**Modifier**: hard/rigid/stiff
 
 Khmer កំព្រឹស kɑmprɨh /kɑmp.ˈrɨh/
 
