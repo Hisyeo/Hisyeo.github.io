@@ -7,11 +7,11 @@ hoverText: shelf/plate § Noun
 
 ### shelf/plate § Noun
 
-**Verb**: to be a shelf/plate
+**Verb**: to be a shelf
 
-**Noun**: shelf/plate
+**Noun**: shelf
 
-**Modifier**: shelf/plate-related
+**Modifier**: shelf-related
 
 Uyghur جازا jaza /d͡ʒɑzɑ/
 
