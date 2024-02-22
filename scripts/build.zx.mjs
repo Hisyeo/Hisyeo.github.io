@@ -43,7 +43,7 @@ for (let data of records) {
         process.stdout.write(`.`)
         await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data))
         snippets[data['Hisyëö']] = {
-            scope: "markdown",
+            scope: ["markdown", "mdx"],
             prefix: data['Hisyëö'],
             body: `%%${data['Hisyëö']}|${data['Hisyëö']}%%`,
             description: data['Meaning']
