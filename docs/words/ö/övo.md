@@ -2,10 +2,10 @@
 id: övo
 slug: övo
 title: övo
-hoverText: this § Pronoun
+hoverText: proximal demonstrative (this/here) § Pronoun
 ---
 
-### this § Pronoun
+### proximal demonstrative (this/here) § Pronoun
 
 **Verb**: to be this
 

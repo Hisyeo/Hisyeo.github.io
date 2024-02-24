@@ -2,10 +2,10 @@
 id: ulyö
 slug: ulyö
 title: ulyö
-hoverText: that (near) § Pronoun
+hoverText: medial demonstrative (that/there) § Pronoun
 ---
 
-### that (near) § Pronoun
+### medial demonstrative (that/there) § Pronoun
 
 **Verb**: to be that
 

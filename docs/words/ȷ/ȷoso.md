@@ -2,10 +2,10 @@
 id: ȷoso
 slug: ȷoso
 title: ȷoso
-hoverText: shelf/plate § Noun
+hoverText: shelf § Noun
 ---
 
-### shelf/plate § Noun
+### shelf § Noun
 
 **Verb**: to be a shelf
 

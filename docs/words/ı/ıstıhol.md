@@ -2,10 +2,10 @@
 id: ıstıhol
 slug: ıstıhol
 title: ıstıhol
-hoverText: honor/glory § Modifier
+hoverText: honor/glory § Noun
 ---
 
-### honor/glory § Modifier
+### honor/glory § Noun
 
 **Verb**: to be honor/glory
 

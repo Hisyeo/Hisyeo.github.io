@@ -2,10 +2,10 @@
 id: onö
 slug: onö
 title: onö
-hoverText: that (distant) § Pronoun
+hoverText: distal demonstrative (yon/yonder) § Pronoun
 ---
 
-### that (distant) § Pronoun
+### distal demonstrative (yon/yonder) § Pronoun
 
 **Verb**: to be that over there
 

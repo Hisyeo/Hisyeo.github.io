@@ -76,5 +76,8 @@ with certain speakers but the words were chosen in such a way that there
 shouldn't be words that have a nearby pronunciation which would be too difficult
 to differentiate.
 
+### Alphabet
+
+
 
 

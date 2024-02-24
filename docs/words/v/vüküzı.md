@@ -1,7 +1,7 @@
 ---
-id: vüküzi
-slug: vüküzi
-title: vüküzi
+id: vüküzı
+slug: vüküzı
+title: vüküzı
 hoverText: revenge/vengeance § Noun
 ---
 

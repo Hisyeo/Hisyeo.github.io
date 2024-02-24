@@ -1,7 +1,7 @@
 ---
-id: lovono
-slug: lovono
-title: lovono
+id: luvono
+slug: luvono
+title: luvono
 hoverText: to ship/send (a package) § Verb
 ---
 

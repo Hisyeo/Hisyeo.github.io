@@ -2,10 +2,10 @@
 id: tünzi
 slug: tünzi
 title: tünzi
-hoverText: nonbinary/queer(?) § Modifier
+hoverText: nonbinary/queer § Modifier
 ---
 
-### nonbinary/queer(?) § Modifier
+### nonbinary/queer § Modifier
 
 **Verb**: to be nonbinary/queer(?)
 
