@@ -2,7 +2,13 @@ import csv from 'neat-csv';
 
 const file = await fs.readFile('./static/words.csv', 'utf8')
 
-const words = []
+const neuVowels = {
+    o: 'o', ö: 'o',
+    e: 'e', ë: 'e',
+    i: 'i', ı: 'i',
+    u: 'u', ü: 'u',
+}
+const neutralize = (word) => word.split().map((c) => neuVowels[c] ?? c).join("")
 
 const minPairs = {
     p:   ['v', 'm'],
@@ -40,8 +46,12 @@ const records = await csv(file, {
 
 console.log('Grabbing words from records...')
 
+const words = []
+const neutrals = []
+
 for (const record of records) {
     words.push(record["Hisyëö"])
+    neutrals.push(neutralize(record["Hisyëö"]))   
 }
 
 console.log('Reviewing collisions...')
@@ -69,6 +79,7 @@ for (let word of words) {
             let onsetChange = collSyl.join('')
             if (onsetChange[0] == 'q') onsetChange = onsetChange.slice(1)
             if (words.includes(onsetChange)) collisionFound(word, onsetChange)
+            if (neutrals.includes(neutralize(onsetChange))) collisionFound(word, onsetChange)
         }
         for (let collider of minPairs[nucleus]) {
             let collSyl = sylValues.slice()
