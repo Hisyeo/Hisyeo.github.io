@@ -2,10 +2,10 @@
 id: kon
 slug: kon
 title: kon
-hoverText: abstract verb noun proclitic § Grammar
+hoverText: abstract verb noun particle § Grammar
 ---
 
-### abstract verb noun proclitic § Grammar
+### abstract verb noun particle § Grammar
 
 **Verb**: -
 

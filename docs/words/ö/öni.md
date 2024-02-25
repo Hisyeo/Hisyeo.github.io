@@ -2,10 +2,10 @@
 id: öni
 slug: öni
 title: öni
-hoverText: agentive verb noun proclitic § Grammar
+hoverText: agentive verb noun particle § Grammar
 ---
 
-### agentive verb noun proclitic § Grammar
+### agentive verb noun particle § Grammar
 
 **Verb**: -
 

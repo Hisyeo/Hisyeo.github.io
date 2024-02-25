@@ -2,10 +2,10 @@
 id: kui
 slug: kui
 title: kui
-hoverText: epistemic verb proclitic § Grammar
+hoverText: epistemic verb particle § Grammar
 ---
 
-### epistemic verb proclitic § Grammar
+### epistemic verb particle § Grammar
 
 **Verb**: -
 

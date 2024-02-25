@@ -2,10 +2,10 @@
 id: küu
 slug: küu
 title: küu
-hoverText: deontic verb proclitic § Grammar
+hoverText: deontic verb particle § Grammar
 ---
 
-### deontic verb proclitic § Grammar
+### deontic verb particle § Grammar
 
 **Verb**: -
 

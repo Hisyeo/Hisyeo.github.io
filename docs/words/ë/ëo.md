@@ -2,10 +2,10 @@
 id: ëo
 slug: ëo
 title: ëo
-hoverText: causative verb endoclitic § Grammar
+hoverText: causative verb particle § Grammar
 ---
 
-### causative verb endoclitic § Grammar
+### causative verb particle § Grammar
 
 **Verb**: -
 

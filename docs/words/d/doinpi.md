@@ -1,7 +1,7 @@
 ---
-id: doipi
-slug: doipi
-title: doipi
+id: doinpi
+slug: doinpi
+title: doinpi
 hoverText: ticket/pass § Noun
 ---
 
@@ -13,6 +13,6 @@ hoverText: ticket/pass § Noun
 
 **Modifier**: ticket/pass-related
 
-Hmong daim pib /dai.pi/
+Hmong daim pib /daĩ.pi/
 
 *Hmong-Mien Language Family*

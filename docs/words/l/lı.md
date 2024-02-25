@@ -2,10 +2,10 @@
 id: lı
 slug: lı
 title: lı
-hoverText: realis verb proclitic § Grammar
+hoverText: realis verb particle § Grammar
 ---
 
-### realis verb proclitic § Grammar
+### realis verb particle § Grammar
 
 **Verb**: -
 

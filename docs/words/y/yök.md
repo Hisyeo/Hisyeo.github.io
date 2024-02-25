@@ -2,10 +2,10 @@
 id: yök
 slug: yök
 title: yök
-hoverText: negatitive endoclitic § Grammar
+hoverText: negatitive particle § Grammar
 ---
 
-### negatitive endoclitic § Grammar
+### negatitive particle § Grammar
 
 **Verb**: -
 

@@ -2,10 +2,10 @@
 id: wo
 slug: wo
 title: wo
-hoverText: collapser/amender endoclitic § Grammar
+hoverText: collapser/amender particle § Grammar
 ---
 
-### collapser/amender endoclitic § Grammar
+### collapser/amender particle § Grammar
 
 **Verb**: -
 

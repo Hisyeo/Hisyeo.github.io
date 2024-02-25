@@ -2,10 +2,10 @@
 id: ke
 slug: ke
 title: ke
-hoverText: future verb proclitic § Grammar
+hoverText: future verb particle § Grammar
 ---
 
-### future verb proclitic § Grammar
+### future verb particle § Grammar
 
 **Verb**: -
 

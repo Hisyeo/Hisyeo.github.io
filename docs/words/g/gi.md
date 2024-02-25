@@ -2,10 +2,10 @@
 id: gi
 slug: gi
 title: gi
-hoverText: perfect verb endoclitic § Grammar
+hoverText: perfect verb particle § Grammar
 ---
 
-### perfect verb endoclitic § Grammar
+### perfect verb particle § Grammar
 
 **Verb**: -
 

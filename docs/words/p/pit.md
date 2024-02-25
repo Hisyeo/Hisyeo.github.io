@@ -2,10 +2,10 @@
 id: pit
 slug: pit
 title: pit
-hoverText: conditional verb proclitic § Grammar
+hoverText: conditional verb particle § Grammar
 ---
 
-### conditional verb proclitic § Grammar
+### conditional verb particle § Grammar
 
 **Verb**: -
 
