@@ -11,23 +11,23 @@ const neuVowels = {
 const neutralize = (word) => word.split().map((c) => neuVowels[c] ?? c).join("")
 
 const minPairs = {
-    p:   ['v', 'm'],
+    p:   ['v', 'm', 't'],
     k:   ['h', 'g'],
     g:   ['h', 'k', 'd'],
-    t:   ['d', 'z', 's', 'n'],
-    z:   ['ȷ', 't'],
-    d:   ['t', 'g'],
-    ȷ:   ['z'],
+    t:   ['d', 'z', 's', 'n', 'p'],
+    z:   ['ȷ', 't', 'd'],
+    d:   ['t', 'g', 'z'],
+    ȷ:   ['z', 't', 'd'],
     s:   ['v', 'z', 't'],
-    x:   ['s', 'v'],
+    x:   ['s', 'v', 'z'],
     v:   ['s', 'x', 'p', 'w'],
     h:   ['ꞌ', 'k', 'g'],
     m:   ['n', 'p'],
     n:   ['m', 't'],
     'ꞌ': ['h'],
-    w:   ['ꞌ', 'v'],
-    l:   ['y'],
-    y:   ['ꞌ', 'l'],
+    w:   ['ꞌ', 'v', 'y', 'l'],
+    l:   ['y', 'w'],
+    y:   ['ꞌ', 'l', 'w'],
     // Vowels
     o:   ['u'],           ö:   ['ü', 'u'],
     e:   ['ı', 'u'],      ë:   ['ı', 'i'],
@@ -78,8 +78,10 @@ for (let word of words) {
             collSyl[i] = makeSyllable(collider, nucleus, coda)
             let onsetChange = collSyl.join('')
             if (onsetChange[0] == 'q') onsetChange = onsetChange.slice(1)
-            if (words.includes(onsetChange)) collisionFound(word, onsetChange)
-            if (neutrals.includes(neutralize(onsetChange))) collisionFound(word, onsetChange)
+            if (words.includes(onsetChange))
+                collisionFound(word, onsetChange)
+            else if (neutrals.includes(neutralize(onsetChange)))
+                collisionFound(word, onsetChange)
         }
         for (let collider of minPairs[nucleus]) {
             let collSyl = sylValues.slice()
