@@ -1,4 +1,4 @@
-import csv from 'neat-csv';
+import csv from 'neat-csv'
 
 const file = await fs.readFile('./static/words.csv', 'utf8')
 
@@ -48,6 +48,7 @@ console.log('Grabbing words from records...')
 
 const words = []
 const neutrals = []
+const collisions = []
 
 for (const record of records) {
     words.push(record["Hisyëö"])
@@ -77,11 +78,10 @@ for (let word of words) {
             let collSyl = sylValues.slice()
             collSyl[i] = makeSyllable(collider, nucleus, coda)
             let onsetChange = collSyl.join('')
-            if (onsetChange[0] == 'q') onsetChange = onsetChange.slice(1)
             if (words.includes(onsetChange))
-                collisionFound(word, onsetChange)
+                collisionFound(word, onsetChange, priorLength(collSyl.slice(0, i)))
             else if (neutrals.includes(neutralize(onsetChange)))
-                collisionFound(word, onsetChange)
+                collisionFound(word, onsetChange, priorLength(collSyl.slice(0, i)))
         }
         for (let collider of minPairs[nucleus]) {
             let collSyl = sylValues.slice()
@@ -121,7 +121,31 @@ function makeSyllable(collider, nucleus, coda) {
     return `${collider ?? ''}${nucleus ?? ''}${coda ?? ''}`
 }
 
-function collisionFound(word, collision) {
-    console.log(`Collision between "${word}" and "${collision}"`)
+function collisionFound(word, collision, location) {
+    
+    if (!(collisions.includes(word) && collisions.includes(collision))) {
+        collisions.push(word, collision)
+        
+        // console.debug(
+        //     `Collision between "${word}" and "${collision}" ${chalk.grey(`(priorLength: ${location})`)}`
+        // )
+    
+        const fst1 = word.slice(0, location)
+        const loc1 = chalk.red(word.slice(location, location + 1))
+        const rst1 = word.slice(location + 1)
+    
+        const fst2 = collision.slice(0, location)
+        const loc2 = chalk.yellow(collision.slice(location, location + 1))
+        const rst2 = collision.slice(location + 1)
+    
+        console.log(`Collision between "${fst1}${loc1}${rst1}" and "${fst2}${loc2}${rst2}"`)
+
+    }
+
 }
 
+function priorLength(syllables, i) {
+    let count = 0
+    for (const syllable of syllables) count = count + syllable.length
+    return count
+}
