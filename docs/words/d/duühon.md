@@ -1,7 +1,7 @@
 ---
-id: duünhon
-slug: duünhon
-title: duünhon
+id: duühon
+slug: duühon
+title: duühon
 hoverText: to surrender (surrenderable entity) § Verb
 ---
 
