@@ -1,7 +1,7 @@
 ---
-id: onto
-slug: onto
-title: onto
+id: ondo
+slug: ondo
+title: ondo
 hoverText: to ready (a preparable entity) § Verb
 ---
 

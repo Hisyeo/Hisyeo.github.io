@@ -1,7 +1,7 @@
 ---
-id: xınkö
-slug: xınkö
-title: xınkö
+id: xıngö
+slug: xıngö
+title: xıngö
 hoverText: neck/throat § Noun
 ---
 
@@ -13,6 +13,6 @@ hoverText: neck/throat § Noun
 
 **Modifier**: neck-related/throat-related
 
-Swahili shingo 
+Swahili shingo /ʃin.goː/
 
 *Niger-Congo Language Family*

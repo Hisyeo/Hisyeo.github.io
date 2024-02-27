@@ -1,7 +1,7 @@
 ---
-id: tüko
-slug: tüko
-title: tüko
+id: lüko
+slug: lüko
+title: lüko
 hoverText: interrupted § Modifier
 ---
 
