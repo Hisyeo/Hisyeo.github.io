@@ -24,7 +24,7 @@ const minPairs = {
     h:   ['ꞌ', 'k', 'g'],
     m:   ['n'],
     n:   ['m'],
-    'ꞌ': ['h'],
+    'ꞌ': ['h', 'l'], // adding "l" for verb contractions
     w:   ['ꞌ', 'v', 'l'],
     l:   ['y', 'w'],
     y:   ['ꞌ', 'l'],
