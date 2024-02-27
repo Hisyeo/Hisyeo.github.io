@@ -97,7 +97,7 @@ Some basic words to get you started on sentence construction.
 
 Choose a subject (preceded by ü):
 - %%noyo|noyo%% (I)
-- %%nimö|nimö%% (you)
+- %%nimü|nimü%% (you)
 - %%ni|ni%% (we)
 - %%loı|loı%% (it/they)
 
@@ -109,7 +109,7 @@ Choose a verb (preceded by lı):
 
 Choose an object (preceded by %%zö|zö%%):
 - %%ulyö|ulyö%% (that)
-- %%küöxi|küöxi%% (fruit)
+- %%küöxı|küöxı%% (fruit)
 - %%pioli|pioli%% (hello) 
 - %%sütüö|sütüö%% (friend)
 
@@ -121,8 +121,8 @@ Choose a sentence ender:
 - or none
 
 Now, make a sentence...
-- %%ü|ü%% %%noyo|noyo%% %%lı|lı%% %%mokon|mokon%% %%zö|zö%% %%küöxi|küöxi%% (I eat fruit)
-- %%ü|ü%% %%nimö|nimö%% %%lı|lı%% %%vısun|vısun%% %%zö|zö%% %%sütüö|sütüö%% %%ko|ko%% (Do you know a friend?)
+- %%ü|ü%% %%noyo|noyo%% %%lı|lı%% %%mokon|mokon%% %%zö|zö%% %%küöxı|küöxı%% (I eat fruit)
+- %%ü|ü%% %%nimü|nimü%% %%lı|lı%% %%vısun|vısun%% %%zö|zö%% %%sütüö|sütüö%% %%ko|ko%% (Do you know a friend?)
 
 ## Next Steps
 
