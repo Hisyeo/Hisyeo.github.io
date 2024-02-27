@@ -100,6 +100,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Memrise',
+                to: 'https://app.memrise.com/community/course/6556458/hisyeo/',
+              },
             ],
           },
           {
