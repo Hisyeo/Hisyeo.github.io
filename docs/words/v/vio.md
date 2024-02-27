@@ -13,6 +13,6 @@ hoverText: instrument/manner marker (using/with) § Preposition
 
 **Modifier**: -
 
-Latin via [ˈu̯iä]/[ˈviːä]
+Latin via [ˈviːä]
 
 *Romance Language Family*

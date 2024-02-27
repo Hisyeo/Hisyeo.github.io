@@ -13,6 +13,6 @@ hoverText: to appear (appearance) § Verb
 
 **Modifier**: appeared/seemed
 
-Danish synes` [ˈsynəs]
+Danish synes [ˈsynəs]
 
 *Germanic Language Family*

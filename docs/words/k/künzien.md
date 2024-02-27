@@ -13,6 +13,6 @@ hoverText: room § Noun
 
 **Modifier**: room/chamber-related
 
-Chinese 空間 kōngjiān /kʰʊŋ.[tɕjɛn/
+Chinese 空間 kōngjiān /kʰʊŋ.tɕjɛn/
 
 *Sino-Tibetan Language Family*
