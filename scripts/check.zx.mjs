@@ -11,7 +11,7 @@ const neuVowels = {
 const neutralize = (word) => word.split().map((c) => neuVowels[c] ?? c).join("")
 
 const minPairs = {
-    p:   ['v', 'm', 't'],
+    p:   ['v', 't'],
     k:   ['h', 'g'],
     g:   ['h', 'k', 'd'],
     t:   ['d', 'z', 's', 'n', 'p'],
@@ -22,8 +22,8 @@ const minPairs = {
     x:   ['s', 'v', 'z'],
     v:   ['s', 'x', 'p', 'w'],
     h:   ['ꞌ', 'k', 'g'],
-    m:   ['n', 'p'],
-    n:   ['m', 't'],
+    m:   ['n'],
+    n:   ['m'],
     'ꞌ': ['h'],
     w:   ['ꞌ', 'v', 'l'],
     l:   ['y', 'w'],
