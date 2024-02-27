@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Memrise',
-                to: 'https://app.memrise.com/community/course/6556458/hisyeo/',
+                href: 'https://app.memrise.com/community/course/6556458/hisyeo/',
               },
             ],
           },
