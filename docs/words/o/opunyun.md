@@ -7,7 +7,7 @@ hoverText: easy § Modifier
 
 ### easy § Modifier
 
-**Verb**: to be easy
+**Verb**: to be easy/simple
 
 **Noun**: easiness/simplicity
 

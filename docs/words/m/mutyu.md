@@ -9,7 +9,7 @@ hoverText: middle § Noun
 
 **Verb**: to be the middle/center
 
-**Noun**: occupied-ness
+**Noun**: middleness/centralness
 
 **Modifier**: middle/center-related
 

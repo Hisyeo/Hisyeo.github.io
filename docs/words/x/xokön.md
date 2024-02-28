@@ -1,7 +1,7 @@
 ---
-id: zuskünö
-slug: zuskünö
-title: zuskünö
+id: xokön
+slug: xokön
+title: xokön
 hoverText: each § Quantity
 ---
 
@@ -13,6 +13,6 @@ hoverText: each § Quantity
 
 **Modifier**: each/apiece
 
-Italian ciascuno /t͡ʃaˈsku.no/
+French chacun /ʃa.kœ̃/
 
 *Romance Language Family*

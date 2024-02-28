@@ -7,11 +7,11 @@ hoverText: difficult § Modifier
 
 ### difficult § Modifier
 
-**Verb**: to be difficult
+**Verb**: to be difficult/complex
 
 **Noun**: difficulty/complexity
 
-**Modifier**: difficult
+**Modifier**: difficult/complex
 
 Hindi कठिन kaṭhin [kə.ʈʰɪ̃n̪]
 
