@@ -2,6 +2,7 @@
 id: köl
 slug: köl
 title: köl
+sidebar_position: 166
 hoverText: manifest non-physical thing § Noun
 ---
 

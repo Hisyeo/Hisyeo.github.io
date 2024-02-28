@@ -2,6 +2,7 @@
 id: gundolë
 slug: gundolë
 title: gundolë
+sidebar_position: 231
 hoverText: sphere § Noun
 ---
 

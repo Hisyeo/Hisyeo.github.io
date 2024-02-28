@@ -2,6 +2,7 @@
 id: xulmındo
 slug: xulmındo
 title: xulmındo
+sidebar_position: 415
 hoverText: ashamed § Modifier
 ---
 

@@ -2,6 +2,7 @@
 id: vunsüt
 slug: vunsüt
 title: vunsüt
+sidebar_position: 593
 hoverText: defeated § Modifier
 ---
 

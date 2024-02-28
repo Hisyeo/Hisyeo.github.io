@@ -2,6 +2,7 @@
 id: oüdi
 slug: oüdi
 title: oüdi
+sidebar_position: 1
 hoverText: seed § Noun
 ---
 

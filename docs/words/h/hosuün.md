@@ -2,6 +2,7 @@
 id: hosuün
 slug: hosuün
 title: hosuün
+sidebar_position: 101
 hoverText: ratio/proportion § Noun
 ---
 

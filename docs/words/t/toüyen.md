@@ -2,6 +2,7 @@
 id: toüyen
 slug: toüyen
 title: toüyen
+sidebar_position: 245
 hoverText: to hate (a hated entity) § Verb
 ---
 

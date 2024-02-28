@@ -2,6 +2,7 @@
 id: montüksol
 slug: montüksol
 title: montüksol
+sidebar_position: 613
 hoverText: logical § Modifier
 ---
 

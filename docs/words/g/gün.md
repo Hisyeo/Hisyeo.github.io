@@ -2,6 +2,7 @@
 id: gün
 slug: gün
 title: gün
+sidebar_position: 238
 hoverText: to perceive (a trait) § Verb
 ---
 

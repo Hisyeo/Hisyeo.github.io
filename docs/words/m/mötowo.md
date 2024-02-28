@@ -2,6 +2,7 @@
 id: mötowo
 slug: mötowo
 title: mötowo
+sidebar_position: 617
 hoverText: content § Noun
 ---
 

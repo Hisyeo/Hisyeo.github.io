@@ -2,6 +2,7 @@
 id: dodë
 slug: dodë
 title: dodë
+sidebar_position: 425
 hoverText: to bathe (batheable entity) § Verb
 ---
 

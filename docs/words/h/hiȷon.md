@@ -2,6 +2,7 @@
 id: hiȷon
 slug: hiȷon
 title: hiȷon
+sidebar_position: 125
 hoverText: excited § Modifier
 ---
 

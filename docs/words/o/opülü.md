@@ -2,6 +2,7 @@
 id: opülü
 slug: opülü
 title: opülü
+sidebar_position: 14
 hoverText: to overwhelm (overwhelmable entity) § Verb
 ---
 

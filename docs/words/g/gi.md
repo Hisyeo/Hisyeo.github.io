@@ -2,6 +2,7 @@
 id: gi
 slug: gi
 title: gi
+sidebar_position: 227
 hoverText: perfect verb particle § Grammar
 ---
 

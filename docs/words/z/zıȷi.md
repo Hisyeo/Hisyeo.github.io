@@ -2,6 +2,7 @@
 id: zıȷi
 slug: zıȷi
 title: zıȷi
+sidebar_position: 298
 hoverText: self § Pronoun
 ---
 

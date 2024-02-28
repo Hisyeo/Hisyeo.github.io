@@ -2,6 +2,7 @@
 id: ȷiȷiyo
 slug: ȷiȷiyo
 title: ȷiȷiyo
+sidebar_position: 480
 hoverText: tendon/root § Noun
 ---
 

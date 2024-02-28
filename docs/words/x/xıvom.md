@@ -2,6 +2,7 @@
 id: xıvom
 slug: xıvom
 title: xıvom
+sidebar_position: 405
 hoverText: sponge § Noun
 ---
 

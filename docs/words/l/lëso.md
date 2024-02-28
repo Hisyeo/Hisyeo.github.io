@@ -2,6 +2,7 @@
 id: lëso
 slug: lëso
 title: lëso
+sidebar_position: 750
 hoverText: journery/trip/voyage § Noun
 ---
 

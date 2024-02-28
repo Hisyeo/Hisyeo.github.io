@@ -2,6 +2,7 @@
 id: zıxin
 slug: zıxin
 title: zıxin
+sidebar_position: 297
 hoverText: to enforce (enforceable entity) § Verb
 ---
 

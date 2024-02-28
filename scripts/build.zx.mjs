@@ -2,10 +2,11 @@ import csv from 'neat-csv';
 
 const words = []
 const snippets = {}
-const template = (w) => `---
+const template = (w, i) => `---
 id: ${w['Hisyëö']}
 slug: ${w['Hisyëö']}
 title: ${w['Hisyëö']}
+sidebar_position: ${i}
 hoverText: ${w['Meaning']} § ${w['Type']}
 ---
 
@@ -38,10 +39,10 @@ const records = await csv(file, {
 })
 
 process.stdout.write(`Outputting word files...`)
-for (let data of records) {
+records.forEach(async (data, idx) => {
     try {
         process.stdout.write(`.`)
-        await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data))
+        await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data, idx))
         snippets[data['Hisyëö']] = {
             scope: ["markdown", "mdx"],
             prefix: data['Hisyëö'],
@@ -57,7 +58,8 @@ for (let data of records) {
     } catch (err) {
         console.error(err)
     }
-}
+
+})
 console.log('')
 
 console.log(`Outputting snippets file...`)

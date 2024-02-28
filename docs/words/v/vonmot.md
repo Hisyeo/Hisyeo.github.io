@@ -2,6 +2,7 @@
 id: vonmot
 slug: vonmot
 title: vonmot
+sidebar_position: 566
 hoverText: absent/nonexistent § Modifier
 ---
 

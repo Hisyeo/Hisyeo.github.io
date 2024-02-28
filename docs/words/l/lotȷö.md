@@ -2,6 +2,7 @@
 id: lotȷö
 slug: lotȷö
 title: lotȷö
+sidebar_position: 729
 hoverText: ray/beam § Noun
 ---
 

@@ -2,6 +2,7 @@
 id: köndonsë
 slug: köndonsë
 title: köndonsë
+sidebar_position: 163
 hoverText: condensed/concentrated § Modifier
 ---
 

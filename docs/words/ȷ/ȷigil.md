@@ -2,6 +2,7 @@
 id: ȷigil
 slug: ȷigil
 title: ȷigil
+sidebar_position: 477
 hoverText: falling § Modifier
 ---
 

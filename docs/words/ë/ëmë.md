@@ -2,6 +2,7 @@
 id: ëmë
 slug: ëmë
 title: ëmë
+sidebar_position: 47
 hoverText: vague/imprecise § Modifier
 ---
 

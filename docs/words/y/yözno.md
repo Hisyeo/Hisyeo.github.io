@@ -2,6 +2,7 @@
 id: yözno
 slug: yözno
 title: yözno
+sidebar_position: 783
 hoverText: program/plan § Noun
 ---
 

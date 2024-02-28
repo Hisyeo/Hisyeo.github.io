@@ -2,6 +2,7 @@
 id: vüzün
 slug: vüzün
 title: vüzün
+sidebar_position: 598
 hoverText: to obey (a rule) § Verb
 ---
 

@@ -2,6 +2,7 @@
 id: vimösyös
 slug: vimösyös
 title: vimösyös
+sidebar_position: 589
 hoverText: public/communal § Modifier
 ---
 

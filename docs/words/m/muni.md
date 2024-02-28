@@ -2,6 +2,7 @@
 id: muni
 slug: muni
 title: muni
+sidebar_position: 641
 hoverText: money § Noun
 ---
 

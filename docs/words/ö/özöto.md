@@ -2,6 +2,7 @@
 id: özöto
 slug: özöto
 title: özöto
+sidebar_position: 29
 hoverText: deity § Noun
 ---
 

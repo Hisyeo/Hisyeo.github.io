@@ -2,6 +2,7 @@
 id: okülo
 slug: okülo
 title: okülo
+sidebar_position: 3
 hoverText: to touch (a surface) § Verb
 ---
 

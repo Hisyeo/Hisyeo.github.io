@@ -2,6 +2,7 @@
 id: menekxe
 slug: menekxe
 title: menekxe
+sidebar_position: 624
 hoverText: violet § Modifier
 ---
 

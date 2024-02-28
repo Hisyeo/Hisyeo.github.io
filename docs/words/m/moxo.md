@@ -2,6 +2,7 @@
 id: moxo
 slug: moxo
 title: moxo
+sidebar_position: 606
 hoverText: decorative/ornamental § Modifier
 ---
 

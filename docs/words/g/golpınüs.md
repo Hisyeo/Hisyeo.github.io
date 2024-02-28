@@ -2,6 +2,7 @@
 id: golpınüs
 slug: golpınüs
 title: golpınüs
+sidebar_position: 215
 hoverText: chartreuse § Modifier
 ---
 

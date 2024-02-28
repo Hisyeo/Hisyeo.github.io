@@ -2,6 +2,7 @@
 id: kökokü
 slug: kökokü
 title: kökokü
+sidebar_position: 151
 hoverText: skeleton § Noun
 ---
 

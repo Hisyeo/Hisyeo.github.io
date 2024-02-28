@@ -2,6 +2,7 @@
 id: tünzi
 slug: tünzi
 title: tünzi
+sidebar_position: 275
 hoverText: nonbinary/queer § Modifier
 ---
 

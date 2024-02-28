@@ -2,6 +2,7 @@
 id: moȷikö
 slug: moȷikö
 title: moȷikö
+sidebar_position: 608
 hoverText: magical § Modifier
 ---
 

@@ -2,6 +2,7 @@
 id: hëvin
 slug: hëvin
 title: hëvin
+sidebar_position: 118
 hoverText: to understand (a concept) § Verb
 ---
 

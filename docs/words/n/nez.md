@@ -2,6 +2,7 @@
 id: nez
 slug: nez
 title: nez
+sidebar_position: 670
 hoverText: mesh § Noun
 ---
 

@@ -2,6 +2,7 @@
 id: otıkon
 slug: otıkon
 title: otıkon
+sidebar_position: 7
 hoverText: excess § Quantity
 ---
 

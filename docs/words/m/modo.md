@@ -2,6 +2,7 @@
 id: modo
 slug: modo
 title: modo
+sidebar_position: 607
 hoverText: matter/material § Noun
 ---
 

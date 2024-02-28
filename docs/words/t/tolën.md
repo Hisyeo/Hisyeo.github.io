@@ -2,6 +2,7 @@
 id: tolën
 slug: tolën
 title: tolën
+sidebar_position: 250
 hoverText: limb § Noun
 ---
 

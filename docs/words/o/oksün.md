@@ -2,6 +2,7 @@
 id: oksün
 slug: oksün
 title: oksün
+sidebar_position: 5
 hoverText: meat/muscle § Noun
 ---
 

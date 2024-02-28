@@ -2,6 +2,7 @@
 id: zolot
 slug: zolot
 title: zolot
+sidebar_position: 286
 hoverText: wise/clever § Modifier
 ---
 

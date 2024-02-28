@@ -2,6 +2,7 @@
 id: zigilsu
 slug: zigilsu
 title: zigilsu
+sidebar_position: 309
 hoverText: treatment (medical) § Noun
 ---
 

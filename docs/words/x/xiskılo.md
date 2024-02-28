@@ -2,6 +2,7 @@
 id: xiskılo
 slug: xiskılo
 title: xiskılo
+sidebar_position: 409
 hoverText: to vocalize (a vocalization) § Verb
 ---
 

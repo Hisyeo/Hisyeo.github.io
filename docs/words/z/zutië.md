@@ -2,6 +2,7 @@
 id: zutië
 slug: zutië
 title: zutië
+sidebar_position: 315
 hoverText: to fold (foldable entity) § Verb
 ---
 

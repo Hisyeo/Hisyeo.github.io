@@ -2,6 +2,7 @@
 id: onpulë
 slug: onpulë
 title: onpulë
+sidebar_position: 24
 hoverText: amber (color) § Modifier
 ---
 

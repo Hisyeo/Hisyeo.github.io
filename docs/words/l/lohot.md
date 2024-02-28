@@ -2,6 +2,7 @@
 id: lohot
 slug: lohot
 title: lohot
+sidebar_position: 728
 hoverText: comfortable § Modifier
 ---
 

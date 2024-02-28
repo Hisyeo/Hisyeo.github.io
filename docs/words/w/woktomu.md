@@ -2,6 +2,7 @@
 id: woktomu
 slug: woktomu
 title: woktomu
+sidebar_position: 698
 hoverText: overt/evident § Modifier
 ---
 

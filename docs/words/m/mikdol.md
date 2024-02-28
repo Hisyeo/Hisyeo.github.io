@@ -2,6 +2,7 @@
 id: mikdol
 slug: mikdol
 title: mikdol
+sidebar_position: 635
 hoverText: amount § Noun
 ---
 

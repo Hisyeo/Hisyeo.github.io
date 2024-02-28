@@ -2,6 +2,7 @@
 id: ozüo
 slug: ozüo
 title: ozüo
+sidebar_position: 8
 hoverText: skin § Noun
 ---
 

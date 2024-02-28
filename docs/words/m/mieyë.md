@@ -2,6 +2,7 @@
 id: mieyë
 slug: mieyë
 title: mieyë
+sidebar_position: 632
 hoverText: tear (of the eye) § Noun
 ---
 

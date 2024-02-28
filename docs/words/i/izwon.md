@@ -2,6 +2,7 @@
 id: izwon
 slug: izwon
 title: izwon
+sidebar_position: 58
 hoverText: to inherit (inheritance) § Verb
 ---
 

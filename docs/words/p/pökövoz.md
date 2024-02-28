@@ -2,6 +2,7 @@
 id: pökövoz
 slug: pökövoz
 title: pökövoz
+sidebar_position: 505
 hoverText: to block (blockable entity) § Verb
 ---
 

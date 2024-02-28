@@ -2,6 +2,7 @@
 id: onwiyë
 slug: onwiyë
 title: onwiyë
+sidebar_position: 26
 hoverText: bored § Modifier
 ---
 

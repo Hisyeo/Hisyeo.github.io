@@ -2,6 +2,7 @@
 id: ötöstü
 slug: ötöstü
 title: ötöstü
+sidebar_position: 28
 hoverText: opposite § Modifier
 ---
 

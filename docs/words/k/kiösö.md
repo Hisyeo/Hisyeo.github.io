@@ -2,6 +2,7 @@
 id: kiösö
 slug: kiösö
 title: kiösö
+sidebar_position: 175
 hoverText: athletic § Modifier
 ---
 

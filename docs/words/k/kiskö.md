@@ -2,6 +2,7 @@
 id: kiskö
 slug: kiskö
 title: kiskö
+sidebar_position: 180
 hoverText: rail/rack/bar § Noun
 ---
 

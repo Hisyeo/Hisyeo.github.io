@@ -2,6 +2,7 @@
 id: omülto
 slug: omülto
 title: omülto
+sidebar_position: 17
 hoverText: abstract § Modifier
 ---
 

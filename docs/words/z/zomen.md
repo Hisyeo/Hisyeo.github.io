@@ -2,6 +2,7 @@
 id: zomen
 slug: zomen
 title: zomen
+sidebar_position: 282
 hoverText: lawn/meadow § Noun
 ---
 

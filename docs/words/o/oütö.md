@@ -2,6 +2,7 @@
 id: oütö
 slug: oütö
 title: oütö
+sidebar_position: 0
 hoverText: to drive (a vehicle) § Verb
 ---
 

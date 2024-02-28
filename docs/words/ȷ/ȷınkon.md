@@ -2,6 +2,7 @@
 id: ȷınkon
 slug: ȷınkon
 title: ȷınkon
+sidebar_position: 476
 hoverText: door § Noun
 ---
 

@@ -2,6 +2,7 @@
 id: kopüt
 slug: kopüt
 title: kopüt
+sidebar_position: 142
 hoverText: broken/dysfunctional § Modifier
 ---
 

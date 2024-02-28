@@ -2,6 +2,7 @@
 id: ovinë
 slug: ovinë
 title: ovinë
+sidebar_position: 16
 hoverText: cultivated/refined § Modifier
 ---
 

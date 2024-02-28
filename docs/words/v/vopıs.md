@@ -2,6 +2,7 @@
 id: vopıs
 slug: vopıs
 title: vopıs
+sidebar_position: 563
 hoverText: to record (data/a recording) § Verb
 ---
 

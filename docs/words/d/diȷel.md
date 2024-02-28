@@ -2,6 +2,7 @@
 id: diȷel
 slug: diȷel
 title: diȷel
+sidebar_position: 439
 hoverText: other § Pronoun
 ---
 

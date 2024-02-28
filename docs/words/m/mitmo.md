@@ -2,6 +2,7 @@
 id: mitmo
 slug: mitmo
 title: mitmo
+sidebar_position: 637
 hoverText: colony § Noun
 ---
 

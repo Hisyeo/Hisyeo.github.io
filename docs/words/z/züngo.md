@@ -2,6 +2,7 @@
 id: züngo
 slug: züngo
 title: züngo
+sidebar_position: 325
 hoverText: to filter (filterable entity) § Verb
 ---
 

@@ -2,6 +2,7 @@
 id: wëko
 slug: wëko
 title: wëko
+sidebar_position: 710
 hoverText: to place (placeable entity) § Verb
 ---
 

@@ -2,6 +2,7 @@
 id: ondo
 slug: ondo
 title: ondo
+sidebar_position: 23
 hoverText: to ready (a preparable entity) § Verb
 ---
 

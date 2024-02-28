@@ -2,6 +2,7 @@
 id: hülödëk
 slug: hülödëk
 title: hülödëk
+sidebar_position: 138
 hoverText: waste § Noun
 ---
 

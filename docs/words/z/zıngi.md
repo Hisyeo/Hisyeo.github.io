@@ -2,6 +2,7 @@
 id: zıngi
 slug: zıngi
 title: zıngi
+sidebar_position: 303
 hoverText: electricity § Noun
 ---
 

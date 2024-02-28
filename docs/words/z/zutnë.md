@@ -2,6 +2,7 @@
 id: zutnë
 slug: zutnë
 title: zutnë
+sidebar_position: 316
 hoverText: to climb (a slope) § Verb
 ---
 

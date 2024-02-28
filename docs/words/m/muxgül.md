@@ -2,6 +2,7 @@
 id: muxgül
 slug: muxgül
 title: muxgül
+sidebar_position: 640
 hoverText: occupied/engaged/busy § Modifier
 ---
 

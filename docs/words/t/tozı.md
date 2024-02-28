@@ -2,6 +2,7 @@
 id: tozı
 slug: tozı
 title: tozı
+sidebar_position: 247
 hoverText: standing § Modifier
 ---
 

@@ -2,6 +2,7 @@
 id: ogolol
 slug: ogolol
 title: ogolol
+sidebar_position: 6
 hoverText: to grab/hold (a hold/load/burden) § Verb
 ---
 

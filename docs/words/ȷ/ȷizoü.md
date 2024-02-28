@@ -2,6 +2,7 @@
 id: ȷizoü
 slug: ȷizoü
 title: ȷizoü
+sidebar_position: 478
 hoverText: to train (a skill/ability) § Verb
 ---
 

@@ -2,6 +2,7 @@
 id: onö
 slug: onö
 title: onö
+sidebar_position: 19
 hoverText: distal demonstrative (yon/yonder) § Pronoun
 ---
 

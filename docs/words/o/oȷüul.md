@@ -2,6 +2,7 @@
 id: oȷüul
 slug: oȷüul
 title: oȷüul
+sidebar_position: 11
 hoverText: any/whichever § Pronoun
 ---
 

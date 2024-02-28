@@ -2,6 +2,7 @@
 id: höveȷi
 slug: höveȷi
 title: höveȷi
+sidebar_position: 110
 hoverText: bovine § Noun
 ---
 

@@ -2,6 +2,7 @@
 id: okoxu
 slug: okoxu
 title: okoxu
+sidebar_position: 2
 hoverText: sky § Noun
 ---
 
