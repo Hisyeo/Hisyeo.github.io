@@ -27,7 +27,7 @@ const config = {
 
   plugins: [
     [ require.resolve('docusaurus-lunr-search'), {
-      languages: ['en', /* 'de' */ ], // language codes
+      languages: ['en', 'de', 'nl', 'tr',], // language codes
       excludeRoutes: [
         '/hyo/docs/Glossary',
       ],
