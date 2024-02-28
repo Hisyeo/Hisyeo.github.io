@@ -1,7 +1,7 @@
 ---
-id: ȷopo
-slug: ȷopo
-title: ȷopo
+id: ëpöl
+slug: ëpöl
+title: ëpöl
 hoverText: shoulder § Noun
 ---
 
@@ -13,6 +13,6 @@ hoverText: shoulder § Noun
 
 **Modifier**: shoulder-related
 
-Telugu జబ్బ jabba /dʒabːa/
+French épaule /e.pol/
 
-*Dravidian Language Family*
+*Romance Language Family*
