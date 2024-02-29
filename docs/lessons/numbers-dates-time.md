@@ -4,54 +4,18 @@ sidebar_position: 2
 
 # Numbers, Dates, & Time
 
-Documents are **groups of pages** connected through:
+We use numbers everywhere for common tasks such as giving directions,
+determining quantities, and navigating our day. In Hisyëö even the concept of
+having multiple of something is considered apart of the same category of
+numbers. This category is called "determiners" and some determiners are
+quantities and others are concepts related to numbers.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+## Cardinal Numbers
 
-## Create your first Doc
+To express your internet usage or uber cost, we need quantifiers that will tell
+us exactly how many of something we have. The table below provides the numbers
+that you'll need to count all the way up to a trillion.
 
-Create a Markdown file at `docs/hello.md`:
+[insert table here]
 
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+## Combining Numbers
