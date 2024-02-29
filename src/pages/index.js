@@ -32,8 +32,8 @@ export default function Home() {
   return (
     <Layout
       // title={`Hello from ${siteConfig.title}`}
-      title={`Home`}
-      description="Description will go into a meta tag in <head />">
+      title={`niwos`}
+      description="Succinct IAL for Science, Letters, & the Arts">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
