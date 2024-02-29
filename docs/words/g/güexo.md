@@ -1,7 +1,7 @@
 ---
-id: güwexo
-slug: güwexo
-title: güwexo
+id: güexo
+slug: güexo
+title: güexo
 sidebar_position: 241
 hoverText: war § Noun
 ---
@@ -14,6 +14,6 @@ hoverText: war § Noun
 
 **Modifier**: war-related
 
-Sicilian guerra ˈɡwɛʐʐa]
+Sicilian guerra [ˈɡwɛʐːa]
 
 *Romance Language Family*
