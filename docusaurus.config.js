@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hisyëö',
   tagline: 'Language of the Gods',
-  favicon: 'img/hisyaeo.ico',
+  favicon: 'img/hisyeo.ico',
 
   // Set the production url of your site here
   url: 'https://govuliel.github.io',
@@ -69,11 +69,19 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      // announcementBar: {
+      //   id: 'support_us',
+      //   content:
+      //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+      //   backgroundColor: '#fafbfc',
+      //   textColor: '#091E42',
+      //   isCloseable: false,
+      // },
       navbar: {
         title: 'Hisyëö',
         logo: {
           alt: 'Hisyëö Logo',
-          src: 'img/hisyaeo_alpha.png',
+          src: 'img/hisyeo_alpha.png',
         },
         items: [
           {
