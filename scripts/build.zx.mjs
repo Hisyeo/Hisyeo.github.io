@@ -39,7 +39,7 @@ const records = await csv(file, {
 })
 
 process.stdout.write(`Outputting word files...`)
-records.forEach(async (data, idx) => {
+await Promise.all(records.map(async (data, idx) => {
     try {
         process.stdout.write(`.`)
         await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data, idx))
@@ -59,11 +59,12 @@ records.forEach(async (data, idx) => {
         console.error(err)
     }
 
-})
+}))
 console.log('')
 
 console.log(`Outputting snippets file...`)
 try {
+    console.log(snippets)
     await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets))
 } catch (err) {
     console.error(err)
