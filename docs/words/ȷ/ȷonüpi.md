@@ -2,7 +2,7 @@
 id: ȷonüpi
 slug: ȷonüpi
 title: ȷonüpi
-sidebar_position: 462
+sidebar_position: 463
 hoverText: southern § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: zö
 slug: zö
 title: zö
-sidebar_position: 287
+sidebar_position: 286
 hoverText: patient/theme marker § Preposition
 ---
 

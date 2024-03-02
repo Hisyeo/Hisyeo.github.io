@@ -2,7 +2,7 @@
 id: ȷögoz
 slug: ȷögoz
 title: ȷögoz
-sidebar_position: 469
+sidebar_position: 470
 hoverText: pitch/tar § Modifier
 ---
 

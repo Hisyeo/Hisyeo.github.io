@@ -2,7 +2,7 @@
 id: züti
 slug: züti
 title: züti
-sidebar_position: 322
+sidebar_position: 321
 hoverText: small § Modifier
 ---
 

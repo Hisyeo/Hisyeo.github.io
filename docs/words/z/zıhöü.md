@@ -2,7 +2,7 @@
 id: zıhöü
 slug: zıhöü
 title: zıhöü
-sidebar_position: 295
+sidebar_position: 294
 hoverText: after § Quantity
 ---
 

@@ -2,7 +2,7 @@
 id: zokwolı
 slug: zokwolı
 title: zokwolı
-sidebar_position: 279
+sidebar_position: 278
 hoverText: pyramid § Noun
 ---
 

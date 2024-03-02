@@ -2,7 +2,7 @@
 id: sodolun
 slug: sodolun
 title: sodolun
-sidebar_position: 335
+sidebar_position: 334
 hoverText: normal § Modifier
 ---
 

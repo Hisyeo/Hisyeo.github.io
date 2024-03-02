@@ -2,7 +2,7 @@
 id: sozok
 slug: sozok
 title: sozok
-sidebar_position: 334
+sidebar_position: 333
 hoverText: to start (startable entity) § Modifier
 ---
 

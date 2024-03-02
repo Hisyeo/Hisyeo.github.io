@@ -1,8 +1,8 @@
 ---
-id: didi
-slug: didi
-title: didi
-sidebar_position: 438
+id: dën
+slug: dën
+title: dën
+sidebar_position: 435
 hoverText: counter-agent marker (against) § Preposition
 ---
 
@@ -14,6 +14,6 @@ hoverText: counter-agent marker (against) § Preposition
 
 **Modifier**: -
 
-Swahili dhidi 
+Armenian դեմ dem [dem]
 
-*Niger-Congo Language Family*
+*Armenian Language Family*

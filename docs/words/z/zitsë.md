@@ -2,7 +2,7 @@
 id: zitsë
 slug: zitsë
 title: zitsë
-sidebar_position: 310
+sidebar_position: 309
 hoverText: to accuse § Verb
 ---
 

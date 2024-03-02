@@ -2,7 +2,7 @@
 id: zözko
 slug: zözko
 title: zözko
-sidebar_position: 290
+sidebar_position: 289
 hoverText: lens § Noun
 ---
 

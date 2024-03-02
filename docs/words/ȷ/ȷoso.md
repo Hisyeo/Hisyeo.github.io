@@ -2,7 +2,7 @@
 id: ȷoso
 slug: ȷoso
 title: ȷoso
-sidebar_position: 457
+sidebar_position: 458
 hoverText: shelf § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: sohoü
 slug: sohoü
 title: sohoü
-sidebar_position: 331
+sidebar_position: 330
 hoverText: healthy § Modifier
 ---
 

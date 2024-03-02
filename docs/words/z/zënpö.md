@@ -2,7 +2,7 @@
 id: zënpö
 slug: zënpö
 title: zënpö
-sidebar_position: 294
+sidebar_position: 293
 hoverText: big § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: tıgoyo
 slug: tıgoyo
 title: tıgoyo
-sidebar_position: 262
+sidebar_position: 261
 hoverText: supine § Modifier
 ---
 

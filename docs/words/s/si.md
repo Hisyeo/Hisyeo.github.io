@@ -1,8 +1,8 @@
 ---
-id: gi
-slug: gi
-title: gi
-sidebar_position: 227
+id: si
+slug: si
+title: si
+sidebar_position: 360
 hoverText: perfect verb particle § Grammar
 ---
 

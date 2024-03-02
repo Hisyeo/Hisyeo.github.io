@@ -2,7 +2,7 @@
 id: zies
 slug: zies
 title: zies
-sidebar_position: 305
+sidebar_position: 304
 hoverText: tight/firm § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: ȷötëstö
 slug: ȷötëstö
 title: ȷötëstö
-sidebar_position: 470
+sidebar_position: 471
 hoverText: sufficient/enough § Modifier
 ---
 

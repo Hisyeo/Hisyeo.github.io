@@ -2,7 +2,7 @@
 id: zıkto
 slug: zıkto
 title: zıkto
-sidebar_position: 296
+sidebar_position: 295
 hoverText: to write (text) § Verb
 ---
 

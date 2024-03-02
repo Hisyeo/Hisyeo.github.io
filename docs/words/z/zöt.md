@@ -2,7 +2,7 @@
 id: zöt
 slug: zöt
 title: zöt
-sidebar_position: 289
+sidebar_position: 288
 hoverText: thick § Modifier
 ---
 

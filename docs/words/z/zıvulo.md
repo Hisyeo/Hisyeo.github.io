@@ -2,7 +2,7 @@
 id: zıvulo
 slug: zıvulo
 title: zıvulo
-sidebar_position: 299
+sidebar_position: 298
 hoverText: dancing § Modifier
 ---
 

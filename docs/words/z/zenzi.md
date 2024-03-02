@@ -2,7 +2,7 @@
 id: zenzi
 slug: zenzi
 title: zenzi
-sidebar_position: 292
+sidebar_position: 291
 hoverText: thin § Modifier
 ---
 

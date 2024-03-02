@@ -2,7 +2,7 @@
 id: tönkö
 slug: tönkö
 title: tönkö
-sidebar_position: 257
+sidebar_position: 256
 hoverText: hurting/suffering § Modifier
 ---
 

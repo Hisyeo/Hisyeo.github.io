@@ -2,7 +2,7 @@
 id: ȷütö
 slug: ȷütö
 title: ȷütö
-sidebar_position: 485
+sidebar_position: 486
 hoverText: to regret (a regret) § Verb
 ---
 

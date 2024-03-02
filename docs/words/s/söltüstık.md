@@ -2,7 +2,7 @@
 id: söltüstık
 slug: söltüstık
 title: söltüstık
-sidebar_position: 351
+sidebar_position: 350
 hoverText: northern § Modifier
 ---
 

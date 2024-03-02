@@ -2,7 +2,7 @@
 id: ȷësto
 slug: ȷësto
 title: ȷësto
-sidebar_position: 472
+sidebar_position: 473
 hoverText: feat/achievement/heroic deed § Noun
 ---
 

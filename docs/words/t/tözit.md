@@ -2,7 +2,7 @@
 id: tözit
 slug: tözit
 title: tözit
-sidebar_position: 254
+sidebar_position: 253
 hoverText: blunt § Modifier
 ---
 
