@@ -10,43 +10,51 @@ A language for international communication that is designed using these
 principles:
 - **Neutrality**, words are sourced from all world languages proportional to the
 square root of their world population of L1 speakers. The grammar is considered
-an analytic isolating language like it's forebears Kokanu and Toki Pona. The
-grammar is largely a match for Kokanu's (which bears some resemblance to its
+an analytic isolating language like it's forebears
+[Kokanu](https://www.kokanu.com/) and [Toki Pona](https://tokipona.org). The
+grammar is largely a match for Kokanu's (which bears some resemblance to *its*
 forebear, Toki Pona) but a few things have been tweaked and a more complete
-particle system implemented. The grammar design is considered an exception to
+particle system implemented. The grammar design is considered an *exception* to
 the neutrality principle in order to give enough leverage to the other guiding
-principles.
+principles. That said, the exception itself helps to make Hisyëö less ambiguous
+overall which does support the neutrality principle indirectly.
 - **Succinctness**, words are kept to a minimum where possible but information
-density is strongly considered so that the language can still be used for
+density is strongly emphasized so that the language can still be used for
 translations of popular media. This principle is not the same as the more strict
-principle of minimalism in that it is meant to allow for including words from
-(1) concepts that appear in a multitude of conversations and (2) concepts that
-would derail a sentence from comprehension due to the added working memory to
-develop the understanding of the sentence.
+principle of *minimalism* in that it is meant to allow for including singular
+words from (1) concepts that appear in a multitude of conversations and (2)
+concepts that would need moderately complex relative clauses and would otherwise
+derail a sentence from comprehension due to the added working memory to develop
+the understanding of the sentence.
 - **Expressivity**, the language is designed to be highly expressive in its word
-and grammar choices. With around 750 words, there's a lot more ways to express
+and grammar choices. With around 800 words, there's a lot more ways to express
 feelings, emotions, objects, actions and anything else you can think of. The
 language has been tested against a multitude of translation media to confirm
 that no concept is too challenging or too verbose to express. Additionally, the
-grammar has been enhanced to allow for builtin handling of tense, aspect, and
-mood, causation, and volition.
+grammar has been enhanced to allow for less ambiguous handling of tense, aspect,
+and mood, causation, and volition.
 
 Some of these principles and the language features that you will learn may seem
-contrary to the min-max tradition of IAL design but that is part of the point:
-too much effort within IAL development is spent on regularization of existing
-grammatical tactics of natural languages. Hisyëö bucks that trend and tries to
-go the *fun* route. After all, the world won't bend for more of what they
-already have—even if it is simpler.
+contrary to the traditions of IAL design but that is part of the point: too much
+effort within IAL development is spent on regularization and cherrypicking
+existing lexical and grammatical tactics of natural languages. Hisyëö bucks that
+trend and tries to go the *fun* route. 
 
 ## Where did Hisyëö come from?
 
 Hisyëö was borne out of a desire from a member of the Kokanu community to grow
-the language into something that could truly be versatile enough to be used for
+that language into something that could truly be versatile enough to be used for
 translations of popular media, scientific papers and philosophical treateses.
-Despite a small group of interested Kokanauts, the majority of the community
-didn't want the added volume of words that might be only usable in certain
-contexts. Kokanu is intended to be used for "basic communication" and this
-realization was the primary driver for this language.
+Kokanu is intended to be as minimalist as possible and so the density of information
+when translating is not a concern. Translation of media nor scientific communication
+are not goals of the language. I wanted to see how little I could add and still
+create a language that was good enough for these purposes.
+
+In my opinion, *radical linguistic simplicity* as a characteristic of a
+constructed auxiliary language is not possible without removing some of the
+conventional goals of an auxiliary language. With Hisyëö, I seek to bring
+Kokanu's core *ethos* back into the realm of the possible whilst also adding my
+own personal panache.
 
 ## The Basics
 

@@ -10,7 +10,7 @@ const FeatureList = [
       <>
         Evolved from Kokanu but with a larger lexicon. Most added words
         identified in review of <a href="https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english">Minimal English</a> and <a href="https://minilanguage.com">Mini</a> materials.
-        Still relies on compound phrases for complexity but with more conciseness.
+        An emphasis on reducing of the semantic space within each word.
       </>
     ),
   },
@@ -19,9 +19,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_happy_feeling_re_e76r.svg').default,
     description: (
       <>
-        Words are considered based upon the length and understandability of
-        existing compound phrases, the commonality of the concept itself, and the
-        amount of usefulness within other compound phrases.
+        Words are considered based upon the length and comprehensibility of
+        existing phrases that represent them, the commonality of the concept
+        itself, and the usefulness within other compound phrases.
       </>
     ),
   },
