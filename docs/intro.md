@@ -9,30 +9,32 @@ sidebar_position: 1
 A language for international communication that is designed using these
 principles:
 - **Neutrality**, words are sourced from all world languages proportional to the
-square root of their world population of L1 speakers. The grammar is considered
-an analytic isolating language like it's forebears
-[Kokanu](https://www.kokanu.com/) and [Toki Pona](https://tokipona.org). The
-grammar is largely a match for Kokanu's (which bears some resemblance to *its*
-forebear, Toki Pona) but a few things have been tweaked and a more complete
-particle system implemented. The grammar design is considered an *exception* to
-the neutrality principle in order to give enough leverage to the other guiding
-principles. That said, the exception itself helps to make Hisyëö less ambiguous
-overall which does support the neutrality principle indirectly.
+square root of their world population of L1 speakers. Many people who would come
+to learn Hisyëö may have a small anchor of familiarity within the lexicon.
+Additionally, the grammar is considered an analytic isolating language like it's
+forebears [Kokanu](https://www.kokanu.com/) and [Toki
+Pona](https://tokipona.org). The grammar is largely based on Kokanu's (which
+bears some resemblance to *its* forebear, Toki Pona) but a few things have been
+tweaked and a more complete particle system implemented. The grammar design is
+considered a mild *exception* to the neutrality principle in order to give
+enough leverage to the other guiding principles. That said, the exception itself
+helps to make Hisyëö less ambiguous overall which does support the neutrality
+principle indirectly.
 - **Succinctness**, words are kept to a minimum where possible but information
 density is strongly emphasized so that the language can still be used for
 translations of popular media. This principle is not the same as the more strict
 principle of *minimalism* in that it is meant to allow for including singular
 words from (1) concepts that appear in a multitude of conversations and (2)
-concepts that would need moderately complex relative clauses and would otherwise
-derail a sentence from comprehension due to the added working memory to develop
-the understanding of the sentence.
+concepts that would need complex relative clauses that can otherwise derail a
+sentence from comprehension due to the added working memory to develop the
+understanding of the sentence.
 - **Expressivity**, the language is designed to be highly expressive in its word
 and grammar choices. With around 800 words, there's a lot more ways to express
 feelings, emotions, objects, actions and anything else you can think of. The
 language has been tested against a multitude of translation media to confirm
 that no concept is too challenging or too verbose to express. Additionally, the
 grammar has been enhanced to allow for less ambiguous handling of tense, aspect,
-and mood, causation, and volition.
+mood, causation, and volition.
 
 Some of these principles and the language features that you will learn may seem
 contrary to the traditions of IAL design but that is part of the point: too much
