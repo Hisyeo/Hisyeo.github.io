@@ -28,3 +28,7 @@
   --ifm-color-primary-lightest: #AA89BE;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+a[href^="/hyo/docs/words"] {
+  font-family: "Noto Sans", Arial, Helvetica, sans-serif
+}
