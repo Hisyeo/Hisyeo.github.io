@@ -106,33 +106,33 @@ amount of additional noun phrases.
 Some basic words to get you started on sentence construction.
 
 Choose a subject (preceded by ü):
-- %%noyo|noyo%% (I)
-- %%nimü|nimü%% (you)
-- %%ni|ni%% (we)
-- %%loı|loı%% (it/they)
+- %%noyo@noyo%% (I)
+- %%nimü@nimü%% (you)
+- %%ni@ni%% (we)
+- %%loı@loı%% (it/they)
 
 Choose a verb (preceded by lı):
-- %%köto|köto%% (to say)
-- %%monodo|monodo%% (to meet)
-- %%mokon|mokon%% (to eat)
-- %%vısun|vısun%% (to know)
+- %%köto@köto%% (to say)
+- %%monodo@monodo%% (to meet)
+- %%mokon@mokon%% (to eat)
+- %%vısun@vısun%% (to know)
 
-Choose an object (preceded by %%zö|zö%%):
-- %%ulyö|ulyö%% (that)
-- %%küöxı|küöxı%% (fruit)
-- %%pioli|pioli%% (hello) 
-- %%sütüö|sütüö%% (friend)
+Choose an object (preceded by %%zö@zö%%):
+- %%ulyö@ulyö%% (that)
+- %%küöxı@küöxı%% (fruit)
+- %%pioli@pioli%% (hello) 
+- %%sütüö@sütüö%% (friend)
 
 Choose a sentence ender:
-- %%lötven|lötven%% (polite)
-- %%voxo|voxo%% (surprise)
-- %%ko|ko%% (question)
-- %%löizök|löizök%% (confirmation)
+- %%lötven@lötven%% (polite)
+- %%voxo@voxo%% (surprise)
+- %%ko@ko%% (question)
+- %%löizök@löizök%% (confirmation)
 - or none
 
 Now, make a sentence...
-- %%ü|ü%% %%noyo|noyo%% %%lı|lı%% %%mokon|mokon%% %%zö|zö%% %%küöxı|küöxı%% (I eat fruit)
-- %%ü|ü%% %%nimü|nimü%% %%lı|lı%% %%vısun|vısun%% %%zö|zö%% %%sütüö|sütüö%% %%ko|ko%% (Do you know a friend?)
+- %%ü@ü%% %%noyo@noyo%% %%lı@lı%% %%mokon@mokon%% %%zö@zö%% %%küöxı@küöxı%% (I eat fruit)
+- %%ü@ü%% %%nimü@nimü%% %%lı@lı%% %%vısun@vısun%% %%zö@zö%% %%sütüö@sütüö%% %%ko@ko%% (Do you know a friend?)
 
 ## Next Steps
 

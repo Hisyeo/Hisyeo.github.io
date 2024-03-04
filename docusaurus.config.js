@@ -33,6 +33,7 @@ const config = {
       ],
     }],
     ['@lunaticmuch/docusaurus-terminology', {
+      patternSeparator: '@',
       termsDir: './docs/words/',
       termsUrl: "/docs/words",
       glossaryFilepath: './docs/Glossary.md',
