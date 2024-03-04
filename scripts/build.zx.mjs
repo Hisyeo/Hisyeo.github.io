@@ -46,13 +46,13 @@ await Promise.all(records.map(async (data, idx) => {
         snippets[data['Hisyëö']] = {
             scope: ["markdown", "mdx"],
             prefix: data['Hisyëö'],
-            body: `%%${data['Hisyëö']}|${data['Hisyëö']}%%`,
+            body: `%%${data['Hisyëö']}@${data['Hisyëö']}%%`,
             description: data['Meaning']
         }
         snippets[`${data['Hisyëö']}_onhukızgo`] = {
             scope: ["markdown", "mdx"],
             prefix: data['Hisyëö'],
-            body: `%%${data['ɂ́ɟɀʇɽʃ']}|${data['Hisyëö']}%%`,
+            body: `%%${data['ɂ́ɟɀʇɽʃ']}@${data['Hisyëö']}%%`,
             description: data['Meaning']
         }
     } catch (err) {
