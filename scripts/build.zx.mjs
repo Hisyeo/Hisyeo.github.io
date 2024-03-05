@@ -43,14 +43,14 @@ await Promise.all(records.map(async (data, idx) => {
     try {
         process.stdout.write(`.`)
         await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data, idx))
-        snippets[data['Hisyëö']] = {
-            scope: ["markdown", "mdx"],
+        snippets[`${data['Hisyëö']} latin`] = {
+            scope: "markdown,mdx",
             prefix: data['Hisyëö'],
             body: `%%${data['Hisyëö']}@${data['Hisyëö']}%%`,
             description: data['Meaning']
         }
-        snippets[`${data['Hisyëö']}_onhukızgo`] = {
-            scope: ["markdown", "mdx"],
+        snippets[`${data['Hisyëö']} onhukızgo`] = {
+            scope: "markdown,mdx",
             prefix: data['Hisyëö'],
             body: `%%${data['ɂ́ɟɀʇɽʃ']}@${data['Hisyëö']}%%`,
             description: data['Meaning']
@@ -64,7 +64,19 @@ console.log('')
 
 console.log(`Outputting snippets file...`)
 try {
-    console.log(snippets)
+    // console.log(snippets)
+    snippets["Latin Opügido Tabs"] = {
+        scope: "markdown,mdx",
+        prefix: "lot",
+        body: `<Tabs groupId="popöun-zıkto">
+    <TabItem value="latin" label="Latin" default>
+        $1
+    </TabItem>
+    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
+        $2
+    </TabItem>
+</Tabs>$0`
+    }
     await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets))
 } catch (err) {
     console.error(err)
