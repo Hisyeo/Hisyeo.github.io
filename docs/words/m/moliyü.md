@@ -1,7 +1,7 @@
 ---
-id: moliȷü
-slug: moliȷü
-title: moliȷü
+id: moliyü
+slug: moliyü
+title: moliyü
 sidebar_position: 614
 hoverText: and § Connector
 ---

@@ -1,7 +1,7 @@
 ---
-id: ötöstü
-slug: ötöstü
-title: ötöstü
+id: öpöstü
+slug: öpöstü
+title: öpöstü
 sidebar_position: 28
 hoverText: opposite § Modifier
 ---
