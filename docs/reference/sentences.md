@@ -55,7 +55,7 @@ Hisyëö has a free constituent order because all sentence parts are marked by a
 preposition. From a topic-comment lens, the order of your sentence puts the
 first provided element as the topic and the rest as successively less important
 comments about the topic. That said, there is one preferred ordering because there
-is one preposition that can be elided (skipped): the %%lı|lı%% realis verb marker.
+is one preposition that can be elided (skipped): the %%lı@lı%% realis verb marker.
 This marker precedes the main action of the sentence and specifically an action
 that is definitely occurring or has occurred. Because of this elision rule,
 sentences are often either
