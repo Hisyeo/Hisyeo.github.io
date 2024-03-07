@@ -3,10 +3,10 @@ id: ȷögoz
 slug: ȷögoz
 title: ȷögoz
 sidebar_position: 470
-hoverText: pitch/tar § Modifier
+hoverText: pitch/tar § Noun
 ---
 
-### pitch/tar § Modifier
+### pitch/tar § Noun
 
 **Verb**: to be pitch/tar
 

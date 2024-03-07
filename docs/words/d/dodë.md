@@ -3,16 +3,16 @@ id: dodë
 slug: dodë
 title: dodë
 sidebar_position: 425
-hoverText: to bathe (batheable entity) § Verb
+hoverText: diving § Modifier
 ---
 
-### to bathe (batheable entity) § Verb
+### diving § Modifier
 
-**Verb**: to bathe
+**Verb**: to be diving/swimming/bathing
 
-**Noun**: batheable entity
+**Noun**: dive/swim/bath
 
-**Modifier**: bathed
+**Modifier**: diving/bathing
 
 White Hmong da dej /da˧.de˥˧/
 

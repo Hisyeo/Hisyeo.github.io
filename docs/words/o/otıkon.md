@@ -8,11 +8,11 @@ hoverText: excess § Quantity
 
 ### excess § Quantity
 
-**Verb**: to be excessive/too much/abundant
+**Verb**: to be excessive/too much
 
-**Noun**: excess/surplus/abundance
+**Noun**: excess/surplus
 
-**Modifier**: excessively/too much/abundantly
+**Modifier**: excessive/too much
 
 Tamil அதிகம் atikam 
 

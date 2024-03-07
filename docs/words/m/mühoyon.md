@@ -3,10 +3,10 @@ id: mühoyon
 slug: mühoyon
 title: mühoyon
 sidebar_position: 645
-hoverText: camp § Modifier
+hoverText: camp § Noun
 ---
 
-### camp § Modifier
+### camp § Noun
 
 **Verb**: to be a camp
 
