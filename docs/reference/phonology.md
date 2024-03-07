@@ -53,7 +53,7 @@ representations too.
 | ⟨ ʄ ⟩ | ⟨ü⟩ | /u/ | close back vowels: u ʉ ʊ ɯ                   |
 | ⟨ ȷ ⟩ | ⟨ı⟩ | /ɪ/ | front/central close/close-mid vowels: ɪ ʏ ɨ   |
 | ⟨ ɟ ⟩ | ⟨i⟩ | /i/ | front/central close vowels: i y              |
-| ⟨ ɿ ⟩ | ⟨e⟩ | /æ/ | unrounded open-mid vowels: ɛ ɜ æ               |
+| ⟨ ɿ ⟩ | ⟨e⟩ | /ɛ/ | unrounded open-mid vowels: ɛ ɜ æ               |
 | ⟨ ʇ ⟩ | ⟨ë⟩ | /e/ | front/central close-mid vowels: e ɘ ø         |
 
 ## Phonotactics
