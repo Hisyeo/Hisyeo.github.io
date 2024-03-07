@@ -2,7 +2,7 @@
 id: öȷil
 slug: öȷil
 title: öȷil
-sidebar_position: 33
+sidebar_position: 32
 hoverText: nut § Noun
 ---
 

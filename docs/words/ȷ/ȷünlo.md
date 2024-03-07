@@ -2,7 +2,7 @@
 id: ȷünlo
 slug: ȷünlo
 title: ȷünlo
-sidebar_position: 489
+sidebar_position: 490
 hoverText: series/sentence § Noun
 ---
 

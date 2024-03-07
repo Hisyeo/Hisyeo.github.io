@@ -2,7 +2,7 @@
 id: gosil
 slug: gosil
 title: gosil
-sidebar_position: 205
+sidebar_position: 207
 hoverText: short § Modifier
 ---
 

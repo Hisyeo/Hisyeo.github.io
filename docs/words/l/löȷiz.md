@@ -2,7 +2,7 @@
 id: löȷiz
 slug: löȷiz
 title: löȷiz
-sidebar_position: 741
+sidebar_position: 742
 hoverText: to give birth to (a baby) § Verb
 ---
 

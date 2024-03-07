@@ -2,7 +2,7 @@
 id: kui
 slug: kui
 title: kui
-sidebar_position: 185
+sidebar_position: 187
 hoverText: epistemic verb particle § Grammar
 ---
 

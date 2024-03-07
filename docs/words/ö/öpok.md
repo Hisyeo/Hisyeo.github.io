@@ -2,7 +2,7 @@
 id: öpok
 slug: öpok
 title: öpok
-sidebar_position: 34
+sidebar_position: 33
 hoverText: opaque § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: pono
 slug: pono
 title: pono
-sidebar_position: 499
+sidebar_position: 500
 hoverText: facing/pointing § Modifier
 ---
 

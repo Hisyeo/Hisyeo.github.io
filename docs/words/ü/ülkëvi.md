@@ -2,7 +2,7 @@
 id: ülkëvi
 slug: ülkëvi
 title: ülkëvi
-sidebar_position: 92
+sidebar_position: 94
 hoverText: adamant/stubborn § Modifier
 ---
 

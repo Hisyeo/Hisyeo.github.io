@@ -2,7 +2,7 @@
 id: pızku
 slug: pızku
 title: pızku
-sidebar_position: 523
+sidebar_position: 524
 hoverText: 05 five § Quantity
 ---
 

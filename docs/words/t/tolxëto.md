@@ -2,7 +2,7 @@
 id: tolxëto
 slug: tolxëto
 title: tolxëto
-sidebar_position: 252
+sidebar_position: 254
 hoverText: card § Noun
 ---
 

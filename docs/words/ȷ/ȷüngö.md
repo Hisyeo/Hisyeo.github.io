@@ -2,7 +2,7 @@
 id: ȷüngö
 slug: ȷüngö
 title: ȷüngö
-sidebar_position: 487
+sidebar_position: 488
 hoverText: hand § Noun
 ---
 

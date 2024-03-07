@@ -3,16 +3,16 @@ id: woyü
 slug: woyü
 title: woyü
 sidebar_position: 706
-hoverText: air/gas § Noun
+hoverText: air/wind § Noun
 ---
 
-### air/gas § Noun
+### air/wind § Noun
 
-**Verb**: to be air/gas
+**Verb**: to be air/wind
 
-**Noun**: air/gas
+**Noun**: air/wind
 
-**Modifier**: air/gas-related
+**Modifier**: air/wind-related
 
 Sanskrit वायु vāyú [ʋäː.juː]
 

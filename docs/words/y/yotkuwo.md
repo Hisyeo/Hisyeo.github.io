@@ -2,7 +2,7 @@
 id: yotkuwo
 slug: yotkuwo
 title: yotkuwo
-sidebar_position: 772
+sidebar_position: 773
 hoverText: ongoing § Modifier
 ---
 

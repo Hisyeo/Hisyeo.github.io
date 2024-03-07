@@ -2,7 +2,7 @@
 id: ȷixitü
 slug: ȷixitü
 title: ȷixitü
-sidebar_position: 480
+sidebar_position: 481
 hoverText: finger/toe § Noun
 ---
 

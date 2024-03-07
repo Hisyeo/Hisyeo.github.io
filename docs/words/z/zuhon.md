@@ -2,7 +2,7 @@
 id: zuhon
 slug: zuhon
 title: zuhon
-sidebar_position: 313
+sidebar_position: 315
 hoverText: resistant § Modifier
 ---
 

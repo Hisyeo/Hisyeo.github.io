@@ -2,7 +2,7 @@
 id: vohoso
 slug: vohoso
 title: vohoso
-sidebar_position: 558
+sidebar_position: 559
 hoverText: to examine (examinable entity) § Verb
 ---
 

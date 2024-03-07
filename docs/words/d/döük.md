@@ -2,7 +2,7 @@
 id: döük
 slug: döük
 title: döük
-sidebar_position: 427
+sidebar_position: 428
 hoverText: reference marker (compared to) § Preposition
 ---
 

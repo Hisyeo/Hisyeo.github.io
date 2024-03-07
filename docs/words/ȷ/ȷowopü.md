@@ -2,7 +2,7 @@
 id: ȷowopü
 slug: ȷowopü
 title: ȷowopü
-sidebar_position: 466
+sidebar_position: 467
 hoverText: to answer (a response) § Verb
 ---
 

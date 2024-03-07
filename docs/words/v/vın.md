@@ -2,7 +2,7 @@
 id: vın
 slug: vın
 title: vın
-sidebar_position: 580
+sidebar_position: 581
 hoverText: thing § Noun
 ---
 

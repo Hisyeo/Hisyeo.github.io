@@ -1,8 +1,8 @@
 ---
-id: woktomu
-slug: woktomu
-title: woktomu
-sidebar_position: 698
+id: wuktomü
+slug: wuktomü
+title: wuktomü
+sidebar_position: 724
 hoverText: overt/evident § Modifier
 ---
 

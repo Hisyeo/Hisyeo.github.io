@@ -2,7 +2,7 @@
 id: duühon
 slug: duühon
 title: duühon
-sidebar_position: 445
+sidebar_position: 446
 hoverText: to surrender (surrenderable entity) § Verb
 ---
 

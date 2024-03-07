@@ -2,7 +2,7 @@
 id: tolıyo
 slug: tolıyo
 title: tolıyo
-sidebar_position: 250
+sidebar_position: 252
 hoverText: pasta § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: ülgükin
 slug: ülgükin
 title: ülgükin
-sidebar_position: 93
+sidebar_position: 95
 hoverText: dry § Modifier
 ---
 

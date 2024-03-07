@@ -2,7 +2,7 @@
 id: tülöno
 slug: tülöno
 title: tülöno
-sidebar_position: 276
+sidebar_position: 278
 hoverText: comparison § Noun
 ---
 

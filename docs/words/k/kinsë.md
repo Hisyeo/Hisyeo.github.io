@@ -2,7 +2,7 @@
 id: kinsë
 slug: kinsë
 title: kinsë
-sidebar_position: 183
+sidebar_position: 185
 hoverText: 15 fifteen § Quantity
 ---
 

@@ -2,7 +2,7 @@
 id: zonwëpo
 slug: zonwëpo
 title: zonwëpo
-sidebar_position: 284
+sidebar_position: 286
 hoverText: to manufacture (goods) § Verb
 ---
 

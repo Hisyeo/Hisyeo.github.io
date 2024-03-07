@@ -2,7 +2,7 @@
 id: zipon
 slug: zipon
 title: zipon
-sidebar_position: 310
+sidebar_position: 312
 hoverText: fat/grease § Noun
 ---
 

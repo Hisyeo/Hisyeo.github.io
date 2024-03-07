@@ -2,7 +2,7 @@
 id: sumon
 slug: sumon
 title: sumon
-sidebar_position: 372
+sidebar_position: 374
 hoverText: equal/same § Modifier
 ---
 

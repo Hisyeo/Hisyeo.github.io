@@ -2,7 +2,7 @@
 id: këxik
 slug: këxik
 title: këxik
-sidebar_position: 171
+sidebar_position: 173
 hoverText: variable/unstable § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: ȷe
 slug: ȷe
 title: ȷe
-sidebar_position: 472
+sidebar_position: 473
 hoverText: aggressive/emotional clause ender § Grammar
 ---
 

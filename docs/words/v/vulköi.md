@@ -2,7 +2,7 @@
 id: vulköi
 slug: vulköi
 title: vulköi
-sidebar_position: 595
+sidebar_position: 596
 hoverText: to rub (rubbable entity) § Verb
 ---
 

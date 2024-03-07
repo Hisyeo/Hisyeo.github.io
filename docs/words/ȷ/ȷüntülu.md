@@ -2,7 +2,7 @@
 id: ȷüntülu
 slug: ȷüntülu
 title: ȷüntülu
-sidebar_position: 488
+sidebar_position: 489
 hoverText: joint § Noun
 ---
 

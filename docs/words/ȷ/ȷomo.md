@@ -2,7 +2,7 @@
 id: ȷomo
 slug: ȷomo
 title: ȷomo
-sidebar_position: 460
+sidebar_position: 461
 hoverText: group § Noun
 ---
 

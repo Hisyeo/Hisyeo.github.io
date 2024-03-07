@@ -2,7 +2,7 @@
 id: xızië
 slug: xızië
 title: xızië
-sidebar_position: 404
+sidebar_position: 406
 hoverText: detail § Noun
 ---
 

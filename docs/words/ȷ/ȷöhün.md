@@ -2,7 +2,7 @@
 id: ȷöhün
 slug: ȷöhün
 title: ȷöhün
-sidebar_position: 469
+sidebar_position: 470
 hoverText: nutrient § Noun
 ---
 

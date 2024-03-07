@@ -2,7 +2,7 @@
 id: söhoük
 slug: söhoük
 title: söhoük
-sidebar_position: 344
+sidebar_position: 346
 hoverText: arithmetic/math § Noun
 ---
 

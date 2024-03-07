@@ -2,7 +2,7 @@
 id: zi
 slug: zi
 title: zi
-sidebar_position: 303
+sidebar_position: 305
 hoverText: propositive clause ender (agree?) § Grammar
 ---
 

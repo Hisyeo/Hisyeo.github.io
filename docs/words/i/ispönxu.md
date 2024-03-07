@@ -1,8 +1,8 @@
 ---
-id: xıvom
-slug: xıvom
-title: xıvom
-sidebar_position: 405
+id: ispönxu
+slug: ispönxu
+title: ispönxu
+sidebar_position: 62
 hoverText: sponge § Noun
 ---
 
@@ -14,6 +14,6 @@ hoverText: sponge § Noun
 
 **Modifier**: sponge-related
 
-German Schwamm /ʃvam/
+Portuguese esponja /isˈpõ.ʒɐ/
 
-*Germanic Language Family*
+*Romance Language Family*

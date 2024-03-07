@@ -2,7 +2,7 @@
 id: kontol
 slug: kontol
 title: kontol
-sidebar_position: 144
+sidebar_position: 146
 hoverText: to sing/play (music) § Verb
 ---
 

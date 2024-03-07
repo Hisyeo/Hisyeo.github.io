@@ -2,7 +2,7 @@
 id: gomi
 slug: gomi
 title: gomi
-sidebar_position: 208
+sidebar_position: 210
 hoverText: to take (a taken entity) § Verb
 ---
 

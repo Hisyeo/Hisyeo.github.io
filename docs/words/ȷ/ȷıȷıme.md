@@ -2,7 +2,7 @@
 id: ȷıȷıme
 slug: ȷıȷıme
 title: ȷıȷıme
-sidebar_position: 476
+sidebar_position: 477
 hoverText: generation § Noun
 ---
 

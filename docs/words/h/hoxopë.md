@@ -2,7 +2,7 @@
 id: hoxopë
 slug: hoxopë
 title: hoxopë
-sidebar_position: 102
+sidebar_position: 104
 hoverText: beam/joist/stud § Noun
 ---
 

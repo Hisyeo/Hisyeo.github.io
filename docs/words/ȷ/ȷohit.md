@@ -2,7 +2,7 @@
 id: ȷohit
 slug: ȷohit
 title: ȷohit
-sidebar_position: 457
+sidebar_position: 458
 hoverText: to sew (sewable entity) § Verb
 ---
 

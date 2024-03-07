@@ -2,7 +2,7 @@
 id: sinus
 slug: sinus
 title: sinus
-sidebar_position: 367
+sidebar_position: 369
 hoverText: to appear (appearance) § Verb
 ---
 

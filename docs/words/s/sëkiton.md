@@ -2,7 +2,7 @@
 id: sëkiton
 slug: sëkiton
 title: sëkiton
-sidebar_position: 353
+sidebar_position: 355
 hoverText: coal/cinder § Noun
 ---
 

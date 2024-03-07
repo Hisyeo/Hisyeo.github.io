@@ -2,7 +2,7 @@
 id: zentık
 slug: zentık
 title: zentık
-sidebar_position: 290
+sidebar_position: 292
 hoverText: official/formal § Modifier
 ---
 

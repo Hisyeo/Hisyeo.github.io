@@ -2,7 +2,7 @@
 id: öpöstü
 slug: öpöstü
 title: öpöstü
-sidebar_position: 28
+sidebar_position: 34
 hoverText: opposite § Modifier
 ---
 

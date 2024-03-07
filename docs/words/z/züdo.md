@@ -2,7 +2,7 @@
 id: züdo
 slug: züdo
 title: züdo
-sidebar_position: 323
+sidebar_position: 325
 hoverText: to give (a gift) § Verb
 ---
 

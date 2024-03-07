@@ -2,7 +2,7 @@
 id: viȷi
 slug: viȷi
 title: viȷi
-sidebar_position: 588
+sidebar_position: 589
 hoverText: to bury (buryable entity) § Verb
 ---
 

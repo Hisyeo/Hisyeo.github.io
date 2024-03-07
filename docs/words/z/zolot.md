@@ -2,7 +2,7 @@
 id: zolot
 slug: zolot
 title: zolot
-sidebar_position: 285
+sidebar_position: 287
 hoverText: wise/clever § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: zöüvon
 slug: zöüvon
 title: zöüvon
-sidebar_position: 287
+sidebar_position: 289
 hoverText: to cook (a meal) § Verb
 ---
 

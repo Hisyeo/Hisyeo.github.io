@@ -2,7 +2,7 @@
 id: nızu
 slug: nızu
 title: nızu
-sidebar_position: 678
+sidebar_position: 679
 hoverText: sneeze § Noun
 ---
 
