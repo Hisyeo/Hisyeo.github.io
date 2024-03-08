@@ -2,7 +2,7 @@
 id: yëllë
 slug: yëllë
 title: yëllë
-sidebar_position: 788
+sidebar_position: 787
 hoverText: problem § Noun
 ---
 

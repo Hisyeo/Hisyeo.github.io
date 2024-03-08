@@ -2,7 +2,7 @@
 id: loȷidö
 slug: loȷidö
 title: loȷidö
-sidebar_position: 732
+sidebar_position: 731
 hoverText: heart § Noun
 ---
 

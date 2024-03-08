@@ -2,7 +2,7 @@
 id: wëkëso
 slug: wëkëso
 title: wëkëso
-sidebar_position: 711
+sidebar_position: 710
 hoverText: to invest (investable entity) § Verb
 ---
 

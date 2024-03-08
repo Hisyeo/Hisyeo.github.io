@@ -2,7 +2,7 @@
 id: losol
 slug: losol
 title: losol
-sidebar_position: 731
+sidebar_position: 730
 hoverText: original § Modifier
 ---
 

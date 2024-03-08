@@ -2,7 +2,7 @@
 id: wuktomü
 slug: wuktomü
 title: wuktomü
-sidebar_position: 724
+sidebar_position: 723
 hoverText: overt/evident § Modifier
 ---
 

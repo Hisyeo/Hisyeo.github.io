@@ -2,7 +2,7 @@
 id: lüzık
 slug: lüzık
 title: lüzık
-sidebar_position: 768
+sidebar_position: 767
 hoverText: slippery § Modifier
 ---
 
