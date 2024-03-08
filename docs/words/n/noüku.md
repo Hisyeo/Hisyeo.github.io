@@ -1,7 +1,7 @@
 ---
-id: nuüku
-slug: nuüku
-title: nuüku
+id: noüku
+slug: noüku
+title: noüku
 sidebar_position: 687
 hoverText: science § Noun
 ---

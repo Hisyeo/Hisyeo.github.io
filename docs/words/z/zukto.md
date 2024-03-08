@@ -1,7 +1,7 @@
 ---
-id: zıkto
-slug: zıkto
-title: zıkto
+id: zukto
+slug: zukto
+title: zukto
 sidebar_position: 297
 hoverText: to write (text) § Verb
 ---
@@ -14,6 +14,6 @@ hoverText: to write (text) § Verb
 
 **Modifier**: written
 
-Korean 적다 jeokda [ˈt͡ɕɘ(ː)k̚t͈a̠]
+Korean 적다 jeokda [t͡ɕʌ̹k̚t͈a̠]
 
 *Koreic Language Family*

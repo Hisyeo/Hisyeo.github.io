@@ -1,7 +1,7 @@
 ---
-id: pelexu
-slug: pelexu
-title: pelexu
+id: pelëxu
+slug: pelëxu
+title: pelëxu
 sidebar_position: 516
 hoverText: to mark (a target) § Verb
 ---

@@ -1,7 +1,7 @@
 ---
-id: zën
-slug: zën
-title: zën
+id: zın
+slug: zın
+title: zın
 sidebar_position: 294
 hoverText: 1000 thousand § Quantity
 ---

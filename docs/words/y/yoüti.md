@@ -1,7 +1,7 @@
 ---
-id: yuüti
-slug: yuüti
-title: yuüti
+id: yoüti
+slug: yoüti
+title: yoüti
 sidebar_position: 790
 hoverText: some/a few § Quantity
 ---

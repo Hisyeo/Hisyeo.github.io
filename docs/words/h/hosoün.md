@@ -1,7 +1,7 @@
 ---
-id: hosuün
-slug: hosuün
-title: hosuün
+id: hosoün
+slug: hosoün
+title: hosoün
 sidebar_position: 103
 hoverText: ratio/proportion § Noun
 ---

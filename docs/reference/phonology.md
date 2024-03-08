@@ -14,25 +14,25 @@ Hisyëö has 16 consonants and 1 null consonant which is necessary for the
 alphasyllabary but you can optionally include a ⟨ ꞌ ⟩ character in Latin
 representations too.
 
-| Hisyëö  | Latin | IPA | Transliteration Sources                                        |
-|:-------:|:-----:|:------------:|----------------------------------------------------------------|
-|   ⟨ɽ⟩   | ⟨ ꞌ ⟩ |      / . /    | glottal stops & hiatus: ʔ .                                 |
-|   ⟨ɂ⟩   |  ⟨h⟩  |     /h/ ~ / x /    | back fricatives: x χ ʁ ʀ ħ ʕ h ɦ ʢ ʜ ɧ                       |
-|   ⟨ɔ⟩   |  ⟨k⟩  |     / k / ~ /q/   | voiceless back plosives: k q c                              |
-|   ⟨ꜿ⟩   |  ⟨g⟩  |     / ɡ͈ / ~ /ɢ/   | voiced back plosives: g ɢ ʡ ɣ                               |
-|   ⟨c⟩   |  ⟨ t ⟩  |     / t /    | voiceless front plosives: t ʈ                               |
-|   ⟨ꞇ⟩   |  ⟨z⟩  |    /t͡ʃ/ ~ / t͡ɕ /    | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ                       |
-|   ⟨ɐ⟩   |  ⟨s⟩  |     / s̟ /    | alveolar sibilants: s z                                     |
-|   ⟨ɋ⟩   |  ⟨x⟩  |     / ʃ / ~ /ʂ/   | palatal fricatives: ʃ ʒ ʂ ʐ ç ɕ ʑ                           |
-|   ⟨ʌ⟩   |  ⟨d⟩  |     / d /    | voiced alveolar plosives: d ɖ                               |
-|   ⟨ⱴ⟩   | ⟨ ȷ ⟩ |    /d͡ʒ/ ~ / d͡ʑ /     | voiced affricates: d͡z d͡ʒ d͡ʑ ɖ͡ʐ ɟ                            |
-|   ⟨ʋ⟩   |  ⟨p⟩  |     / p /    | labial plosives:  b p                                       |
-|   ⟨ɤ⟩   |  ⟨v⟩  |     /β/ ~ / v /    | labio-dental fricatives: ɸ β f v θ ð                        |
-|   ⟨ƶ⟩   |  ⟨m⟩  |     / m /    | labial nasals: m ɱ                                          |
-|   ⟨ƨ⟩   |  ⟨n⟩  |     / n /    | other nasals:  n ɳ ɲ ŋ ɴ                                    |
-|   ⟨ʒ⟩   |  ⟨w⟩  |     / w /    | labial approximants: w ɥ ʋ                                  |
-|   ⟨ʓ⟩   | ⟨ l ⟩  |     / l / ~ /ɺ/    | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ  |
-|   ⟨ɀ⟩   |  ⟨y⟩  |     / j /    | patalal/velar approximants: j ʝ ʎ ɰ ʟ                       |
+| Hisyëö |  Latin   |      IPA      | Transliteration Sources                                    |
+| :----: | :------: | :-----------: | ---------------------------------------------------------- |
+| ⟨ɽ⟩  | ⟨ ꞌ ⟩ |     / . /     | glottal stops & hiatus: ʔ .                                |
+| ⟨ɂ⟩  |  ⟨h⟩   |  /h/ ~ / x /  | back fricatives: x χ ʁ ʀ ħ ʕ h ɦ ʢ ʜ ɧ                     |
+| ⟨ɔ⟩  |  ⟨k⟩   |  / k / ~ /q/  | voiceless back plosives: k q c                             |
+| ⟨ꜿ⟩ |  ⟨g⟩   |  / ɡ͈ / ~ /ɢ/  | voiced back plosives: g ɢ ʡ ɣ                              |
+| ⟨c⟩  | ⟨ t ⟩  |     / t /     | voiceless front plosives: t ʈ                              |
+| ⟨ꞇ⟩ |  ⟨z⟩   | /t͡ʃ/ ~ / t͡ɕ / | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ                       |
+| ⟨ɐ⟩  |  ⟨s⟩   |     / s̟ /     | alveolar sibilants: s z                                    |
+| ⟨ɋ⟩  |  ⟨x⟩   |  / ʃ / ~ /ʂ/  | palatal fricatives: ʃ ʒ ʂ ʐ ç ɕ ʑ                          |
+| ⟨ʌ⟩  |  ⟨d⟩   |     / d /     | voiced alveolar plosives: d ɖ                              |
+| ⟨ⱴ⟩ | ⟨ ȷ ⟩  | /d͡ʒ/ ~ / d͡ʑ / | voiced affricates: d͡z d͡ʒ d͡ʑ ɖ͡ʐ ɟ                           |
+| ⟨ʋ⟩  |  ⟨p⟩   |     / p /     | labial plosives:  b p                                      |
+| ⟨ɤ⟩  |  ⟨v⟩   |  /β/ ~ / v /  | labio-dental fricatives: ɸ β f v θ ð                       |
+| ⟨ƶ⟩  |  ⟨m⟩   |     / m /     | labial nasals: m ɱ                                         |
+| ⟨ƨ⟩  |  ⟨n⟩   |     / n /     | other nasals:  n ɳ ɲ ŋ ɴ                                   |
+| ⟨ʒ⟩  |  ⟨w⟩   |     / w /     | labial approximants: w ɥ ʋ                                 |
+| ⟨ʓ⟩  | ⟨ l ⟩  |  / l / ~ /ɺ/  | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ |
+| ⟨ɀ⟩  |  ⟨y⟩   |     / j /     | patalal/velar approximants: j ʝ ʎ ɰ ʟ                      |
 
 - For all phonemes, there is some flexibility in the position, voicing, aspiration, etc. to accommodate learners who speak languages that may pronounce these sounds differently
 - Words beginning with a vowel can begin with or without a glottal stop [ʔ] pronounced, at the discretion of the speaker.
@@ -45,16 +45,15 @@ representations too.
 
 ### Vowels
 
-| Hisyëö | Latin | IPA | Transliteration Sources |
-|:---:|:---:|-----|----------------------------------------------|
-|      | ⟨o⟩ | /ɑ/ | unrounded open vowels: a ɑ ɐ                   |
-| ⟨ ı ⟩ | ⟨ö⟩ | /ɔ/ | rounded open/back vowels: ɶ ɒ ɞ ɔ o ɵ         |
-| ⟨ ʃ ⟩ | ⟨u⟩ | /ə/ | unrounded central/back open-mid vowels: ə ʌ ɤ |
-| ⟨ ʄ ⟩ | ⟨ü⟩ | /u/ | close back vowels: u ʉ ʊ ɯ                   |
-| ⟨ ȷ ⟩ | ⟨ı⟩ | /ɪ/ | front/central close/close-mid vowels: ɪ ʏ ɨ   |
-| ⟨ ɟ ⟩ | ⟨i⟩ | /i/ | front/central close vowels: i y              |
-| ⟨ ɿ ⟩ | ⟨e⟩ | /ɛ/ | unrounded open-mid vowels: ɛ ɜ æ               |
-| ⟨ ʇ ⟩ | ⟨ë⟩ | /e/ | front/central close-mid vowels: e ɘ ø         |
+| Hisyëö  | Latin | IPA | Transliteration Sources                             |
+| :-----: | :---: | --- | --------------------------------------------------- |
+|         | ⟨o⟩ | /ɑ/ | open-back unrounded vowels: a ɑ ɐ                        |
+| ⟨ ı ⟩ | ⟨ö⟩ | /ɔ/ | open-back-close-back rounded vowels: ɶ ɒ ɞ ɔ o ɵ               |
+| ⟨ ʄ ⟩ | ⟨ü⟩ | /u/ | back close vowels: u ʉ ʊ ɯ                          |
+| ⟨ ȷ ⟩ | ⟨ı⟩ | /ɪ/ | central near-close-mid vowels: ɪ ʏ ɨ ɘ       |
+| ⟨ ɟ ⟩ | ⟨i⟩ | /i/ | front close vowels: i y                     |
+| ⟨ ɿ ⟩ | ⟨e⟩ | /ɛ/ | front/central unrounded near-open-mid vowels: ɛ ɜ æ |
+| ⟨ ʇ ⟩ | ⟨ë⟩ | /e/ | front close-mid vowels: e ø                         |
 
 ## Phonotactics
 
@@ -77,10 +76,10 @@ allowed following certain codas:
 
 Strong vowels are slightly geminated compared to the weak vowels:
 
-|         |           Strong           |      Weak     |
-|---------|:--------------------------:|:-------------:|
+|         |               Strong               |        Weak         |
+| ------- | :--------------------------------: | :-----------------: |
 | Abugida | (null), ⟨ı⟩, ⟨ʄ⟩, ⟨ɟ⟩, ⟨ʇ⟩ | ⟨ʃ⟩, ⟨ȷ⟩, ⟨ɿ⟩ |
-| Latin   |   ⟨o⟩, ⟨ö⟩, ⟨ü⟩, ⟨i⟩, ⟨ë⟩  | ⟨u⟩, ⟨ı⟩, ⟨e⟩ |
+| Latin   | ⟨o⟩, ⟨ö⟩, ⟨ü⟩, ⟨i⟩, ⟨ë⟩  | ⟨u⟩, ⟨ı⟩, ⟨e⟩ |
 
 ## Prosody
 

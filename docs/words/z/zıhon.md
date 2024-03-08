@@ -1,7 +1,7 @@
 ---
-id: zuhon
-slug: zuhon
-title: zuhon
+id: zıhon
+slug: zıhon
+title: zıhon
 sidebar_position: 315
 hoverText: resistant § Modifier
 ---

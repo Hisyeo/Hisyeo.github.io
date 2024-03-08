@@ -1,7 +1,7 @@
 ---
-id: venüu
-slug: venüu
-title: venüu
+id: venüo
+slug: venüo
+title: venüo
 sidebar_position: 575
 hoverText: country/region § Noun
 ---
