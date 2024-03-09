@@ -2,7 +2,7 @@
 id: nokdo
 slug: nokdo
 title: nokdo
-sidebar_position: 659
+sidebar_position: 658
 hoverText: old § Modifier
 ---
 

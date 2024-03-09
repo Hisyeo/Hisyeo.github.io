@@ -2,7 +2,7 @@
 id: münzü
 slug: münzü
 title: münzü
-sidebar_position: 654
+sidebar_position: 653
 hoverText: tart § Modifier
 ---
 

@@ -1,8 +1,8 @@
 ---
-id: mieyë
-slug: mieyë
-title: mieyë
-sidebar_position: 633
+id: nonto
+slug: nonto
+title: nonto
+sidebar_position: 667
 hoverText: tear (of the eye) § Noun
 ---
 
@@ -14,6 +14,6 @@ hoverText: tear (of the eye) § Noun
 
 **Modifier**: tear-related
 
-Burmese မျက်ရည် myak-rany /mjɛʔjè/
+Thai น้ำตา nám-dtaa /nam˦˥.taː˧/
 
-*Sino-Tibetan Language Family*
+*Kra-Dai Language Family*
