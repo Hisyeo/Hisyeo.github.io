@@ -124,8 +124,8 @@ function makeSyllable(collider, nucleus, coda) {
 
 function collisionFound(type, word, collision, location) {
     
-    if (!(collisions.includes(word) && collisions.includes(collision))) {
-        collisions.push(word, collision)
+    if (!(collisions.includes(`${word}::${collision}`) || collisions.includes(`${collision}::${word}`))) {
+        collisions.push(`${word}::${collision}`)
         
         // console.debug(
         //     `Collision between "${word}" and "${collision}" ${chalk.grey(`(priorLength: ${location})`)}`
