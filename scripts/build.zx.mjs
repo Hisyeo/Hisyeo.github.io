@@ -77,7 +77,7 @@ try {
     </TabItem>
 </Tabs>$0`
     }
-    await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets))
+    await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets, null, " "))
 } catch (err) {
     console.error(err)
 }
