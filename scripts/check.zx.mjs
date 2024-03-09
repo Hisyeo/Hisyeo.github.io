@@ -3,25 +3,24 @@ import csv from 'neat-csv'
 const file = await fs.readFile('./static/words.csv', 'utf8')
 
 const neuVowels = {
-    o: 'o', ö: 'o',
-    e: 'e', ë: 'e',
-    i: 'i', ı: 'i',
-    u: 'u', ü: 'u',
+    o: 'a', ö: 'o',
+    e: 'e', ë: 'i',
+    ı: 'e', i: 'i',
+    u: 'a', ü: 'u',
 }
-const neutralize = (word) => word.split().map((c) => neuVowels[c] ?? c).join("")
 
 const minPairs = {
     p:   ['v', 't'],
     k:   ['h', 'g'],
-    g:   ['h', 'k', 'd'],
+    g:   ['k', 'd'],
     t:   ['d', 'z', 's', 'n', 'p'],
     z:   ['ȷ', 't'],
     d:   ['t', 'g', 'ȷ'],
     ȷ:   ['z', 'd'],
-    s:   ['v', 'z', 't'],
-    x:   ['s', 'v', 'z'],
-    v:   ['s', 'x', 'p', 'w'],
-    h:   ['ꞌ', 'k', 'g'],
+    s:   ['z', 't'],
+    x:   ['s', 'z'],
+    v:   ['p', 'w'],
+    h:   ['ꞌ', 'k'],
     m:   ['n'],
     n:   ['m'],
     'ꞌ': ['h', 'l'], // adding "l" for verb contractions
@@ -78,16 +77,18 @@ for (let word of words) {
             let collSyl = sylValues.slice()
             collSyl[i] = makeSyllable(collider, nucleus, coda)
             let onsetChange = collSyl.join('')
-            if (words.includes(onsetChange))
-                collisionFound(word, onsetChange, priorLength(collSyl.slice(0, i)))
-            else if (neutrals.includes(neutralize(onsetChange)))
-                collisionFound(word, onsetChange, priorLength(collSyl.slice(0, i)))
+            if (words.includes(onsetChange)) {
+                collisionFound('Consonant', word, onsetChange, hl(collSyl, i))
+            } else {
+                let collID = neutrals.findIndex(w => w == neutralize(onsetChange))
+                if (collID != -1) collisionFound('Neutralized', word, words[collID], hl(collSyl, i))
+            } 
         }
         for (let collider of minPairs[nucleus]) {
             let collSyl = sylValues.slice()
             collSyl[i] = makeSyllable(onset, collider, coda)
             const nucleChange = collSyl.join('')
-            if (words.includes(nucleChange)) collisionFound(word, nucleChange)
+            if (words.includes(nucleChange)) collisionFound('Vowel', word, nucleChange, 0)
         }
     })
 
@@ -121,7 +122,7 @@ function makeSyllable(collider, nucleus, coda) {
     return `${collider ?? ''}${nucleus ?? ''}${coda ?? ''}`
 }
 
-function collisionFound(word, collision, location) {
+function collisionFound(type, word, collision, location) {
     
     if (!(collisions.includes(word) && collisions.includes(collision))) {
         collisions.push(word, collision)
@@ -138,7 +139,7 @@ function collisionFound(word, collision, location) {
         const loc2 = chalk.yellow(collision.slice(location, location + 1))
         const rst2 = collision.slice(location + 1)
     
-        console.log(`Collision between "${fst1}${loc1}${rst1}" and "${fst2}${loc2}${rst2}"`)
+        console.log(`${type} Collision: "${fst1}${loc1}${rst1}" and "${fst2}${loc2}${rst2}"`)
 
     }
 
@@ -148,4 +149,15 @@ function priorLength(syllables, i) {
     let count = 0
     for (const syllable of syllables) count = count + syllable.length
     return count
+}
+
+/** 
+ * Find the location to highlight in the console.log message
+ */
+function hl(syl, i) {
+    return priorLength(syl.slice(0, i))
+}
+
+function neutralize(word) {
+    return word.split('').map((c) => neuVowels[c] ?? c).join("")
 }
