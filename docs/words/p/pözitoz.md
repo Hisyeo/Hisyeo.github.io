@@ -2,7 +2,7 @@
 id: pözitoz
 slug: pözitoz
 title: pözitoz
-sidebar_position: 509
+sidebar_position: 511
 hoverText: to compute (a computation) § Verb
 ---
 

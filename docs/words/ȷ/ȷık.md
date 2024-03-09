@@ -2,7 +2,7 @@
 id: ȷık
 slug: ȷık
 title: ȷık
-sidebar_position: 476
+sidebar_position: 477
 hoverText: what § Pronoun
 ---
 

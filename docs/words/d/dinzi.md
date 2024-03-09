@@ -2,7 +2,7 @@
 id: dinzi
 slug: dinzi
 title: dinzi
-sidebar_position: 442
+sidebar_position: 443
 hoverText: block § Noun
 ---
 

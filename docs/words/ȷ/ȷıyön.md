@@ -1,8 +1,8 @@
 ---
-id: sitsi
-slug: sitsi
-title: sitsi
-sidebar_position: 367
+id: ȷıyön
+slug: ȷıyön
+title: ȷıyön
+sidebar_position: 480
 hoverText: 14 fourteen § Quantity
 ---
 
@@ -14,6 +14,6 @@ hoverText: 14 fourteen § Quantity
 
 **Modifier**: fourteenth
 
-Shan သိပ်းသီႇ síp sìi /sʰip̚˥.sʰiː˩/
+Japanese じゅうよん jūyon [d͡ʑɨᵝːjõ̞ɴ]
 
-*Kra-Dai Language Family*
+*Japonic Language Family*

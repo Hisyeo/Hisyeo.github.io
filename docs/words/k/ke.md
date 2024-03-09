@@ -2,7 +2,7 @@
 id: ke
 slug: ke
 title: ke
-sidebar_position: 170
+sidebar_position: 173
 hoverText: future verb particle § Grammar
 ---
 

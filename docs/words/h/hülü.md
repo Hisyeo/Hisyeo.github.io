@@ -1,8 +1,8 @@
 ---
-id: godi
-slug: godi
-title: godi
-sidebar_position: 208
+id: hülü
+slug: hülü
+title: hülü
+sidebar_position: 142
 hoverText: grass § Noun
 ---
 
@@ -14,6 +14,6 @@ hoverText: grass § Noun
 
 **Modifier**: ground cover plant related
 
-Telugu గడ్డి gaḍḍi /ɡaɖːi/
+Kannada ಹುಲ್ಲು hullu /hullu/
 
 *Dravidian Language Family*

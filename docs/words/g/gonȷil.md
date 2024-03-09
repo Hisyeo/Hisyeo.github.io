@@ -2,7 +2,7 @@
 id: gonȷil
 slug: gonȷil
 title: gonȷil
-sidebar_position: 213
+sidebar_position: 215
 hoverText: strange § Modifier
 ---
 

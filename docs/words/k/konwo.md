@@ -2,7 +2,7 @@
 id: konwo
 slug: konwo
 title: konwo
-sidebar_position: 150
+sidebar_position: 152
 hoverText: rhythm/beat § Modifier
 ---
 

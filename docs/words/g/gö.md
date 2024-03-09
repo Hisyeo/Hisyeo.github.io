@@ -2,7 +2,7 @@
 id: gö
 slug: gö
 title: gö
-sidebar_position: 218
+sidebar_position: 220
 hoverText: existent § Modifier
 ---
 

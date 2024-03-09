@@ -2,7 +2,7 @@
 id: mozı
 slug: mozı
 title: mozı
-sidebar_position: 604
+sidebar_position: 605
 hoverText: to await (an expectation) § Verb
 ---
 

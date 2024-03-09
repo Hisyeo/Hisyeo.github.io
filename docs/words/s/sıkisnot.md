@@ -2,7 +2,7 @@
 id: sıkisnot
 slug: sıkisnot
 title: sıkisnot
-sidebar_position: 358
+sidebar_position: 360
 hoverText: fermented/soured § Modifier
 ---
 

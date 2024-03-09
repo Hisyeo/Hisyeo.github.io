@@ -2,7 +2,7 @@
 id: söpo
 slug: söpo
 title: söpo
-sidebar_position: 348
+sidebar_position: 350
 hoverText: side/beside § Noun
 ---
 

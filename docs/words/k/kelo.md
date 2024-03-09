@@ -2,7 +2,7 @@
 id: kelo
 slug: kelo
 title: kelo
-sidebar_position: 171
+sidebar_position: 174
 hoverText: to play (a game) § Verb
 ---
 

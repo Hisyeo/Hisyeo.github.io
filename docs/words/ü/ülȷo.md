@@ -2,7 +2,7 @@
 id: ülȷo
 slug: ülȷo
 title: ülȷo
-sidebar_position: 96
+sidebar_position: 97
 hoverText: energy/power § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: hüwu
 slug: hüwu
 title: hüwu
-sidebar_position: 139
+sidebar_position: 140
 hoverText: egg § Noun
 ---
 

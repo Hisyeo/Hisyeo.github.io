@@ -2,7 +2,7 @@
 id: zınöpu
 slug: zınöpu
 title: zınöpu
-sidebar_position: 303
+sidebar_position: 305
 hoverText: vermilion § Modifier
 ---
 

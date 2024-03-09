@@ -2,7 +2,7 @@
 id: döstoz
 slug: döstoz
 title: döstoz
-sidebar_position: 432
+sidebar_position: 433
 hoverText: to receive (receivable entity) § Verb
 ---
 

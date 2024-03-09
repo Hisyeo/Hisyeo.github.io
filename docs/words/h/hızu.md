@@ -2,7 +2,7 @@
 id: hızu
 slug: hızu
 title: hızu
-sidebar_position: 124
+sidebar_position: 125
 hoverText: crack/fissure § Noun
 ---
 

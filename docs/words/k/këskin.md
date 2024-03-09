@@ -2,7 +2,7 @@
 id: këskin
 slug: këskin
 title: këskin
-sidebar_position: 172
+sidebar_position: 175
 hoverText: sharp § Modifier
 ---
 

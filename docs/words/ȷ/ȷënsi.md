@@ -2,7 +2,7 @@
 id: ȷënsi
 slug: ȷënsi
 title: ȷënsi
-sidebar_position: 475
+sidebar_position: 476
 hoverText: sexual § Modifier
 ---
 

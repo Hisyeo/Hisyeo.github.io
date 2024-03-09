@@ -1,8 +1,8 @@
 ---
-id: kui
-slug: kui
-title: kui
-sidebar_position: 187
+id: köi
+slug: köi
+title: köi
+sidebar_position: 155
 hoverText: epistemic verb particle § Grammar
 ---
 
@@ -14,6 +14,6 @@ hoverText: epistemic verb particle § Grammar
 
 **Modifier**: -
 
-Mandarin 可以 kěyǐ /kʰɤ.i/
+Min Dong 可以 kō̤-ī /kʰɔ.i/
 
 *Sino-Tibetan Language Family*

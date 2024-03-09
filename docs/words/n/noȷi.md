@@ -2,7 +2,7 @@
 id: noȷi
 slug: noȷi
 title: noȷi
-sidebar_position: 663
+sidebar_position: 664
 hoverText: venom/poison § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: sinëxis
 slug: sinëxis
 title: sinëxis
-sidebar_position: 368
+sidebar_position: 369
 hoverText: constant § Modifier
 ---
 

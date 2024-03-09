@@ -2,7 +2,7 @@
 id: xezinoz
 slug: xezinoz
 title: xezinoz
-sidebar_position: 400
+sidebar_position: 401
 hoverText: crossed/intersected § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: gonpu
 slug: gonpu
 title: gonpu
-sidebar_position: 214
+sidebar_position: 216
 hoverText: leg § Noun
 ---
 

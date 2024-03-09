@@ -62,7 +62,7 @@ in day-to-day conversation:
 - %%lı@lı%% %%yünlön@yünlön%% %%zö@zö%% %%noyo@noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
 - %%küu@küu%% %%yök@yök%% %%zinȷon@zinȷon%% (Don't worry!)
 - %%lı@lı%% %%yök@yök%% %%yëllë@yëllë%% (It's not a problem.)
-- %%noyo@noyo%% %%kui@kui%% %%gö@gö%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
+- %%noyo@noyo%% %%köi@köi%% %%gö@gö%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
 
 :::
 

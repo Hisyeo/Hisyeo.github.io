@@ -2,7 +2,7 @@
 id: nu
 slug: nu
 title: nu
-sidebar_position: 686
+sidebar_position: 687
 hoverText: curiosity clause ender (what about) § Grammar
 ---
 

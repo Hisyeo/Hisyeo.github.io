@@ -2,7 +2,7 @@
 id: töxüzı
 slug: töxüzı
 title: töxüzı
-sidebar_position: 256
+sidebar_position: 258
 hoverText: bump § Noun
 ---
 

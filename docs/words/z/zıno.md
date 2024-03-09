@@ -2,7 +2,7 @@
 id: zıno
 slug: zıno
 title: zıno
-sidebar_position: 302
+sidebar_position: 304
 hoverText: charge/fee/tax § Noun
 ---
 

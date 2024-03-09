@@ -2,7 +2,7 @@
 id: zülosun
 slug: zülosun
 title: zülosun
-sidebar_position: 329
+sidebar_position: 331
 hoverText: to allow (allowable entity) § Verb
 ---
 

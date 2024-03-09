@@ -2,7 +2,7 @@
 id: künzien
 slug: künzien
 title: künzien
-sidebar_position: 203
+sidebar_position: 206
 hoverText: room § Noun
 ---
 

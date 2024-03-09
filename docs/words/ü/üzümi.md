@@ -2,7 +2,7 @@
 id: üzümi
 slug: üzümi
 title: üzümi
-sidebar_position: 81
+sidebar_position: 82
 hoverText: economy § Noun
 ---
 

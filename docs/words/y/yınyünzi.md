@@ -2,7 +2,7 @@
 id: yınyünzi
 slug: yınyünzi
 title: yınyünzi
-sidebar_position: 788
+sidebar_position: 789
 hoverText: modifier (adjective) § Noun
 ---
 

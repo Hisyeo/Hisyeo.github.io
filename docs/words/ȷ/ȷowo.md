@@ -2,7 +2,7 @@
 id: ȷowo
 slug: ȷowo
 title: ȷowo
-sidebar_position: 466
+sidebar_position: 467
 hoverText: dog § Noun
 ---
 

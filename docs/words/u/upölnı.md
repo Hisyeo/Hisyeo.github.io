@@ -1,8 +1,8 @@
 ---
-id: zıhon
-slug: zıhon
-title: zıhon
-sidebar_position: 315
+id: upölnı
+slug: upölnı
+title: upölnı
+sidebar_position: 73
 hoverText: resistant § Modifier
 ---
 
@@ -14,6 +14,6 @@ hoverText: resistant § Modifier
 
 **Modifier**: resistant/defiant
 
-Korean 저항 jeohang [ˈt͡ɕɘ(ː)ɦa̠ŋ]
+Polish oporny /ɔˈpɔr.nɨ/
 
-*Koreic Language Family*
+*Balto-Slavic Language Family*

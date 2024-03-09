@@ -2,7 +2,7 @@
 id: zunzion
 slug: zunzion
 title: zunzion
-sidebar_position: 318
+sidebar_position: 320
 hoverText: to fortify (fortifiable entity) § Verb
 ---
 

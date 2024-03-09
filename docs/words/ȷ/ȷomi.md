@@ -2,7 +2,7 @@
 id: ȷomi
 slug: ȷomi
 title: ȷomi
-sidebar_position: 462
+sidebar_position: 463
 hoverText: society/culture § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: közün
 slug: közün
 title: közün
-sidebar_position: 156
+sidebar_position: 159
 hoverText: rank § Noun
 ---
 

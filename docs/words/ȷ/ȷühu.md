@@ -2,7 +2,7 @@
 id: ȷühu
 slug: ȷühu
 title: ȷühu
-sidebar_position: 486
+sidebar_position: 488
 hoverText: tongue § Noun
 ---
 

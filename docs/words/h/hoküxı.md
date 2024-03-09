@@ -2,7 +2,7 @@
 id: hoküxı
 slug: hoküxı
 title: hoküxı
-sidebar_position: 101
+sidebar_position: 102
 hoverText: clapping/applauding § Modifier
 ---
 

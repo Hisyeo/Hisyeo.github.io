@@ -2,7 +2,7 @@
 id: golun
 slug: golun
 title: golun
-sidebar_position: 216
+sidebar_position: 218
 hoverText: to respect (a respected entity) § Verb
 ---
 

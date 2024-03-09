@@ -2,7 +2,7 @@
 id: zinmi
 slug: zinmi
 title: zinmi
-sidebar_position: 314
+sidebar_position: 316
 hoverText: precise/specific § Modifier
 ---
 

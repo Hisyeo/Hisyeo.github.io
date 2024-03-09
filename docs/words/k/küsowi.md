@@ -1,8 +1,8 @@
 ---
-id: modo
-slug: modo
-title: modo
-sidebar_position: 608
+id: küsowi
+slug: küsowi
+title: küsowi
+sidebar_position: 200
 hoverText: matter/material § Noun
 ---
 
@@ -14,6 +14,6 @@ hoverText: matter/material § Noun
 
 **Modifier**: matter/material-related
 
-Arabic مَادَّة mādda /maːd.da/
+Amharic ቁሳዊ k’usawī /kʼusawi/
 
 *Afroasiatic Language Family*

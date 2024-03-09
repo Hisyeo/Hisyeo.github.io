@@ -2,7 +2,7 @@
 id: zinȷon
 slug: zinȷon
 title: zinȷon
-sidebar_position: 313
+sidebar_position: 315
 hoverText: nervous/anxious § Modifier
 ---
 

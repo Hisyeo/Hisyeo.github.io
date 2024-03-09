@@ -2,7 +2,7 @@
 id: pogö
 slug: pogö
 title: pogö
-sidebar_position: 493
+sidebar_position: 495
 hoverText: luck § Noun
 ---
 

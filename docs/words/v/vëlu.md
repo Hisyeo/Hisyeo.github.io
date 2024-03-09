@@ -2,7 +2,7 @@
 id: vëlu
 slug: vëlu
 title: vëlu
-sidebar_position: 576
+sidebar_position: 577
 hoverText: to feel (an emotion) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: xinzüon
 slug: xinzüon
 title: xinzüon
-sidebar_position: 414
+sidebar_position: 415
 hoverText: shape/form § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: ünhılun
 slug: ünhılun
 title: ünhılun
-sidebar_position: 89
+sidebar_position: 90
 hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
 ---
 

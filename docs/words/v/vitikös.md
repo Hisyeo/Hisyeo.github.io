@@ -2,7 +2,7 @@
 id: vitikös
 slug: vitikös
 title: vitikös
-sidebar_position: 586
+sidebar_position: 587
 hoverText: western § Modifier
 ---
 

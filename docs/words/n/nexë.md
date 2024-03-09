@@ -2,7 +2,7 @@
 id: nexë
 slug: nexë
 title: nexë
-sidebar_position: 672
+sidebar_position: 673
 hoverText: intoxicated § Modifier
 ---
 

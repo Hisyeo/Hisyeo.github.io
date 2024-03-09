@@ -16,4 +16,4 @@ hoverText: all/every § Quantity
 
 Vietnamese mọi   [mɔj˨˩ʔ]
 
-*Dravidian Language Family*
+*Austro-Asiatic Language Family*

@@ -2,7 +2,7 @@
 id: tukwos
 slug: tukwos
 title: tukwos
-sidebar_position: 271
+sidebar_position: 274
 hoverText: 08 eight § Quantity
 ---
 
@@ -16,4 +16,4 @@ hoverText: 08 eight § Quantity
 
 Hausa takwàs [tə́.kʷàs]
 
-*Nilo-Saharan Language Family*
+*Afroasiatic Language Family*
