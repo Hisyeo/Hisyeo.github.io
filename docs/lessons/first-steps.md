@@ -8,7 +8,7 @@ What is this language and how do you pronounce it?
 
 ## World Language
 
-Hisyëö is a word language. It takes words from all of the world's families of
+Hisyëö is a *world* language. It takes words from all of the world's families of
 languages so that there is a little of everyone's language within it. Each
 language family gets a proportional amount of words. The proportion size is
 determined by taking the percentage of the total of the square roots of every
@@ -54,15 +54,15 @@ training.
 The following are some of the current established expressions that Hisyëans use
 in day-to-day conversation:
 - %%voxo@voxo%% (*vah*-shah) (shoot!) (woah!)
-- %%ni@ni%% %%küu@küu%% %%lö@lö%% %%löizök@löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
-- %%nimü@nimü%% %%lı@lı%% %%gö@gö%% %%ȷık@ȷık%% (*nee*-moh lih goh *ay*-nah) (How are you doing?)
-- %%ulyö@ulyö%% %%lı@lı%% %%yök@yök%% %%sonkon@sonkon%% (*uh*-yoh lih yoke *san*-kan) (It doesn't matter.) 
+- %%küu@küu%% %%lö@lö%% %%ü@ü%% %%ni@ni%% %%löizök@löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
+- %%gö@gö%% %%ȷık@ȷık%% %%ü@ü%% %%nimü@nimü%% (goh jick oo *nee*-moh) (How are you doing?)
+- %%yök@yök%% %%sonkon@sonkon%% %%ü@ü%% %%ulyö@ulyö%% (yoke *san*-kan oo *uhl*-yoh) (It doesn't matter.) 
 - ...%%zi@zi%% (chee) (...agree?)
 - %%löizök@löizök%% (*loy*-choke) (definitely!)
-- %%lı@lı%% %%yünlön@yünlön%% %%zö@zö%% %%noyo@noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
+- %%yünlön@yünlön%% %%zö@zö%% %%noyo@noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
 - %%küu@küu%% %%yök@yök%% %%zinȷon@zinȷon%% (Don't worry!)
-- %%lı@lı%% %%yök@yök%% %%yëllë@yëllë%% (It's not a problem.)
-- %%noyo@noyo%% %%köi@köi%% %%gö@gö%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
+- %%yök@yök%% %%yëllë@yëllë%% (It's not a problem.)
+- %%köi@köi%% %%gö@gö%% %%ü@ü%% %%noyo@noyo%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
 
 :::
 

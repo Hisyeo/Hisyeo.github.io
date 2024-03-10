@@ -39,26 +39,26 @@ mood, causation, and volition.
 Some of these principles and the language features that you will learn may seem
 contrary to the traditions of IAL design but that is part of the point: too much
 effort within IAL development is spent on regularization and cherrypicking
-existing lexical and grammatical tactics of natural languages. Hisyëö bucks that
-trend and tries to go the *fun* route. 
+existing lexical and grammatical tactics of natural languages. Instead,
+Hisyëö pushes closer to a [loglang](https://loglangs.wiki/Portal) by focusing
+less on ease-of-learning and more on the principles above.
 
 ## Where did Hisyëö come from?
 
 Hisyëö was borne out of a desire from a member of the Kokanu community to grow
-that language into something that could truly be versatile enough to be used for
+Kokanu into something that could truly be versatile enough to be used for
 translations of popular media, scientific papers and philosophical treateses.
-Kokanu is intended to be as minimalist as possible and so the density of information
-when translating is not a concern. Translation of media nor scientific communication
-are not goals of the language. I wanted to see how little I could add and still
-create a language that was good enough for these purposes.
-
-In my opinion, *radical linguistic simplicity* as a characteristic of a
-constructed auxiliary language is not possible without removing some of the
-conventional goals of an auxiliary language. With Hisyëö, I seek to bring
-Kokanu's core *ethos* back into the realm of the possible whilst also adding my
-own personal panache.
+Unfortunately for me, the Kokanu community intends the language to be as
+minimalist as possible and so the density of information when translating is not
+a consideration. Neither translation of media nor scientific communication are
+goals of the language. Having spent considerable time becoming fluent in Kokanu,
+I wanted to use it as the core of my own language and enhance it with some of my
+own ideas.
 
 ## The Basics
+
+Now that you understand why and where Hisyëö came from, let's learn enough to
+write a few basic sentences.
 
 ### Sounds
 
