@@ -13,12 +13,12 @@ const minPairs = {
     p:   ['v', 't'],
     k:   ['h', 'g'],
     g:   ['k', 'd'],
-    t:   ['d', 'z', 's', 'n', 'p'],
-    z:   ['ȷ', 't'],
-    d:   ['t', 'g', 'ȷ'],
-    ȷ:   ['z', 'd'],
-    s:   ['z', 't'],
-    x:   ['s', 'z'],
+    t:   ['d', 'c', 's', 'n', 'p'],
+    c:   ['z', 't'],
+    d:   ['t', 'g', 'z'],
+    z:   ['c', 'd'],
+    s:   ['c', 't'],
+    x:   ['s', 'c'],
     v:   ['p', 'w'],
     h:   ['ꞌ', 'k'],
     m:   ['n'],
@@ -36,7 +36,7 @@ const minPairs = {
 
 // let badSyllablesIdentified = false
 // const badSyllablesMessage = "Some words have improper syllable structure"
-const syllableRegex = /(?<onset>[ꞌhkgtzxsdȷpvmnlwy])?(?<nucleus>[oöeëıiuü])(?<coda>[tksznl](?![oöeëıiuü]))?/gi
+const syllableRegex = /(?<onset>[ꞌhkgtcxsdzpvmnlwy])?(?<nucleus>[oöeëıiuü])(?<coda>[tkscnl](?![oöeëıiuü]))?/gi
 
 const records = await csv(file, {
     delimiter: ',',
@@ -103,7 +103,7 @@ for (let word of words) {
             console.log(`Bad syllable boundary: ${word}`)
         }
         // coda-/ t͡ɕ/ cannot be followed by onset-/s/
-        if (['z',].includes(priorCoda) && ['s',].includes(onset)) {
+        if (['c',].includes(priorCoda) && ['s',].includes(onset)) {
             console.log(`Bad syllable boundary: ${word}`)
         }
         // coda-/s/ cannot be followed by onset-/ʃ/
@@ -111,7 +111,7 @@ for (let word of words) {
             console.log(`Bad syllable boundary: ${word}`)
         }
         // onset-/h/ cannot exist after any coda
-        if (['k','t','s','z','l'].includes(priorCoda) && ['h',].includes(onset)) {
+        if (['k','t','s','c','l'].includes(priorCoda) && ['h',].includes(onset)) {
             console.log(`Bad syllable boundary: ${word}`)
         }
         priorCoda = coda
