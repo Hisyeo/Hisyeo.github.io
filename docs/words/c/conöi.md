@@ -1,0 +1,19 @@
+---
+id: conöi
+slug: conöi
+title: conöi
+sidebar_position: 287
+hoverText: beak § Noun
+---
+
+### beak § Noun
+
+**Verb**: to be a beak/bill
+
+**Noun**: beak/bill
+
+**Modifier**: beak/bill-related
+
+Thai จะงอย jà-ngɔɔi /t͡ɕa˨˩.ŋɔːj˧/
+
+*Kra-Dai Language Family*

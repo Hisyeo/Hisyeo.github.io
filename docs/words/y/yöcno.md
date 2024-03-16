@@ -1,0 +1,19 @@
+---
+id: yöcno
+slug: yöcno
+title: yöcno
+sidebar_position: 784
+hoverText: program/plan § Noun
+---
+
+### program/plan § Noun
+
+**Verb**: to be a program/plan
+
+**Noun**: program/plan
+
+**Modifier**: program/plan-related
+
+Hindi  [joːd͡ʒ.n̪äː]
+
+*Indo-Iranian Language Family*

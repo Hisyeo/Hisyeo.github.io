@@ -54,13 +54,13 @@ training.
 The following are some of the current established expressions that Hisyëans use
 in day-to-day conversation:
 - %%voxo@voxo%% (*vah*-shah) (shoot!) (woah!)
-- %%küu@küu%% %%lö@lö%% %%ü@ü%% %%ni@ni%% %%löizök@löizök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
-- %%gö@gö%% %%ȷık@ȷık%% %%ü@ü%% %%nimü@nimü%% (goh jick oo *nee*-moh) (How are you doing?)
+- %%küu@küu%% %%lö@lö%% %%ü@ü%% %%ni@ni%% %%löicök@löicök%% (mah *koo*-wuh loh *loy*-choke) (Let's go!)
+- %%gö@gö%% %%zık@zık%% %%ü@ü%% %%nimü@nimü%% (goh jick oo *nee*-moh) (How are you doing?)
 - %%yök@yök%% %%sonkon@sonkon%% %%ü@ü%% %%ulyö@ulyö%% (yoke *san*-kan oo *uhl*-yoh) (It doesn't matter.) 
-- ...%%zi@zi%% (chee) (...agree?)
-- %%löizök@löizök%% (*loy*-choke) (definitely!)
-- %%yünlön@yünlön%% %%zö@zö%% %%noyo@noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
-- %%küu@küu%% %%yök@yök%% %%zinȷon@zinȷon%% (Don't worry!)
+- ...%%ci@ci%% (chee) (...agree?)
+- %%löicök@löicök%% (*loy*-choke) (definitely!)
+- %%yünlön@yünlön%% %%cö@cö%% %%noyo@noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
+- %%küu@küu%% %%yök@yök%% %%cinzon@cinzon%% (Don't worry!)
 - %%yök@yök%% %%yëllë@yëllë%% (It's not a problem.)
 - %%köi@köi%% %%gö@gö%% %%ü@ü%% %%noyo@noyo%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
 

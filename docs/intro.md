@@ -117,7 +117,7 @@ Choose a verb (preceded by lı):
 - %%mokon@mokon%% (to eat)
 - %%vısun@vısun%% (to know)
 
-Choose an object (preceded by %%zö@zö%%):
+Choose an object (preceded by %%cö@cö%%):
 - %%ulyö@ulyö%% (that)
 - %%küöxı@küöxı%% (fruit)
 - %%pioli@pioli%% (hello) 
@@ -127,12 +127,12 @@ Choose a sentence ender:
 - %%lötven@lötven%% (polite)
 - %%voxo@voxo%% (surprise)
 - %%ko@ko%% (question)
-- %%löizök@löizök%% (confirmation)
+- %%löicök@löicök%% (confirmation)
 - or none
 
 Now, make a sentence...
-- %%ü@ü%% %%noyo@noyo%% %%lı@lı%% %%mokon@mokon%% %%zö@zö%% %%küöxı@küöxı%% (I eat fruit)
-- %%ü@ü%% %%nimü@nimü%% %%lı@lı%% %%vısun@vısun%% %%zö@zö%% %%sütüö@sütüö%% %%ko@ko%% (Do you know a friend?)
+- %%ü@ü%% %%noyo@noyo%% %%lı@lı%% %%mokon@mokon%% %%cö@cö%% %%küöxı@küöxı%% (I eat fruit)
+- %%ü@ü%% %%nimü@nimü%% %%lı@lı%% %%vısun@vısun%% %%cö@cö%% %%sütüö@sütüö%% %%ko@ko%% (Do you know a friend?)
 
 ## Next Steps
 

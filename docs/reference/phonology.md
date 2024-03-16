@@ -128,4 +128,4 @@ that contrast using any “conflicting phonemes”.
 - /i/ with /e/ and /ı/
 - /u/ with /ɔ/
 
-This means that two words that differ by one sound cannot have any of these conflicting phonemes as the differing sounds. For example, since %%yözno@yözno%% is a Hisyëö word, there are no words like yözmo, yözto or özno also in the language because they differ by one phoneme that conflicts with a phoneme in %%yözno@yözno%%.
+This means that two words that differ by one sound cannot have any of these conflicting phonemes as the differing sounds. For example, since %%yöcno@yöcno%% is a Hisyëö word, there are no words like yözmo, yözto or özno also in the language because they differ by one phoneme that conflicts with a phoneme in %%yöcno@yöcno%%.
