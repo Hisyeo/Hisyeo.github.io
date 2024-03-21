@@ -2,7 +2,7 @@
 id: nec
 slug: nec
 title: nec
-sidebar_position: 672
+sidebar_position: 673
 hoverText: mesh § Noun
 ---
 

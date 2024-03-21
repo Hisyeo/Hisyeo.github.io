@@ -2,7 +2,7 @@
 id: nëxödi
 slug: nëxödi
 title: nëxödi
-sidebar_position: 677
+sidebar_position: 678
 hoverText: ethnic § Modifier
 ---
 

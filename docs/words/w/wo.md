@@ -2,7 +2,7 @@
 id: wo
 slug: wo
 title: wo
-sidebar_position: 695
+sidebar_position: 696
 hoverText: collapser/amender particle § Grammar
 ---
 

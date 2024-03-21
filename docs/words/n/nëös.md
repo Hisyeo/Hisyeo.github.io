@@ -2,7 +2,7 @@
 id: nëös
 slug: nëös
 title: nëös
-sidebar_position: 676
+sidebar_position: 677
 hoverText: new/fresh § Modifier
 ---
 

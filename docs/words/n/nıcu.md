@@ -2,7 +2,7 @@
 id: nıcu
 slug: nıcu
 title: nıcu
-sidebar_position: 680
+sidebar_position: 681
 hoverText: sneeze § Noun
 ---
 

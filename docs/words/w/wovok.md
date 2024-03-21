@@ -2,7 +2,7 @@
 id: wovok
 slug: wovok
 title: wovok
-sidebar_position: 701
+sidebar_position: 702
 hoverText: to accept (a right) § Verb
 ---
 

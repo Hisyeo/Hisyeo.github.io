@@ -2,11 +2,11 @@
 id: lëso
 slug: lëso
 title: lëso
-sidebar_position: 750
-hoverText: journery/trip/voyage § Noun
+sidebar_position: 751
+hoverText: journey/trip/voyage § Noun
 ---
 
-### journery/trip/voyage § Noun
+### journey/trip/voyage § Noun
 
 **Verb**: to be a journey/trip/voyage
 
