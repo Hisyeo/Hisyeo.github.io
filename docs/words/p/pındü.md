@@ -2,7 +2,7 @@
 id: pındü
 slug: pındü
 title: pındü
-sidebar_position: 527
+sidebar_position: 529
 hoverText: dot § Noun
 ---
 

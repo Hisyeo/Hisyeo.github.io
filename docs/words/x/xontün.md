@@ -2,7 +2,7 @@
 id: xontün
 slug: xontün
 title: xontün
-sidebar_position: 392
+sidebar_position: 394
 hoverText: to provoke (provocable entity) § Verb
 ---
 

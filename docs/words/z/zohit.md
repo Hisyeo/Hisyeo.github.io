@@ -2,7 +2,7 @@
 id: zohit
 slug: zohit
 title: zohit
-sidebar_position: 459
+sidebar_position: 461
 hoverText: to sew (sewable entity) § Verb
 ---
 

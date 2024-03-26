@@ -2,7 +2,7 @@
 id: zötëstö
 slug: zötëstö
 title: zötëstö
-sidebar_position: 473
+sidebar_position: 475
 hoverText: sufficient/enough § Quantity
 ---
 

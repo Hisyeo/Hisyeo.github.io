@@ -2,7 +2,7 @@
 id: xönë
 slug: xönë
 title: xönë
-sidebar_position: 400
+sidebar_position: 402
 hoverText: different § Modifier
 ---
 

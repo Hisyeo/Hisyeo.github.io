@@ -2,7 +2,7 @@
 id: xemëtsem
 slug: xemëtsem
 title: xemëtsem
-sidebar_position: 403
+sidebar_position: 405
 hoverText: noun § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: xidëtli
 slug: xidëtli
 title: xidëtli
-sidebar_position: 412
+sidebar_position: 414
 hoverText: violent § Modifier
 ---
 

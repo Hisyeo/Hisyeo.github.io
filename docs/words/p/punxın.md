@@ -2,7 +2,7 @@
 id: punxın
 slug: punxın
 title: punxın
-sidebar_position: 546
+sidebar_position: 548
 hoverText: innate/native § Modifier
 ---
 

@@ -1,8 +1,8 @@
 ---
-id: vopıs
-slug: vopıs
-title: vopıs
-sidebar_position: 565
+id: sopıs
+slug: sopıs
+title: sopıs
+sidebar_position: 342
 hoverText: to record (data/a recording) § Verb
 ---
 

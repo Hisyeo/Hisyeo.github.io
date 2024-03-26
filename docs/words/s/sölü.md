@@ -2,7 +2,7 @@
 id: sölü
 slug: sölü
 title: sölü
-sidebar_position: 353
+sidebar_position: 355
 hoverText: to ask (a question) § Verb
 ---
 

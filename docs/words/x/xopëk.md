@@ -2,7 +2,7 @@
 id: xopëk
 slug: xopëk
 title: xopëk
-sidebar_position: 390
+sidebar_position: 392
 hoverText: previous § Modifier
 ---
 
