@@ -6,11 +6,22 @@ tags: [hiskünzo]
 ---
 
 dënëmëk ü noyo cö do yosten cö mötowo oxon do di cö dönüxın yë hiskünco Hisyëö.
-köi gö yë poxö kon socok xön ü goniso noyo. yök. xön eswen ü do pëüdo cö ëo
-dönüxın yë ëto tüu yë öni cukto dizel. puswen somö ü noyo cö do yosten cö tüu do
-gö oxon kon yön völni.
+köi gö yë poxö kon socok xön ü goniso noyo. yök. xön eswen ü do pëüdo cö do ëo
+dönüxın yë ëto mötowo yë öni cukto dizel. puswen somö ü noyo cö do yosten cö tüu
+do gö oxon kon yön völni.
 
 goniso ü noyo cö do si yosten cö vın dündon oxon wëloı: [tömös Kiso Hıklıhos Yë
 Noüku Ëto](https://www.gutenberg.org/cache/epub/41481/pg41481-images.html). ke
-dënëmëk ü noyo cö do ëo mülü cö möi kiso sün tömös kut yë zünlo kut (wuto kut,
+dënëmëk ü noyo cö do ëo mülü ölë möi kiso sün tömös kut yë zünlo kut (wuto kut,
+1930).
+
+---
+
+I am trying to find content for translating into the Hisyëö language. My thoughts
+might be a good starting place. No. Better to learn to make translations of much
+content of other writers. I only need to find a work that is free to use.
+
+I think that I have found the correct thing for the job: [Astounding Stories of
+Super Science](https://www.gutenberg.org/cache/epub/41481/pg41481-images.html).
+I will try to complete all the stories from the volume 1, number 1 (January
 1930).
