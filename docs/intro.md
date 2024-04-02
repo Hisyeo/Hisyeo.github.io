@@ -6,8 +6,8 @@ sidebar_position: 1
 
 ## What is Hisyëö?
 
-A language for international communication that is designed using these
-principles:
+A language for people around the world to communicate with each other. Hisyëö is
+designed using these principles:
 - **Neutrality**, words are sourced from all world languages proportional to the
 square root of their world population of L1 speakers. Many people who would come
 to learn Hisyëö may have a small anchor of familiarity within the lexicon.
@@ -16,17 +16,17 @@ forebears [Kokanu](https://www.kokanu.com/) and [Toki
 Pona](https://tokipona.org). The grammar is largely based on Kokanu's (which
 bears some resemblance to *its* forebear, Toki Pona) but a few things have been
 tweaked and a more complete particle system implemented. The grammar design is
-considered a mild *exception* to the neutrality principle in order to give
-enough leverage to the other guiding principles. That said, the exception itself
-helps to make Hisyëö less ambiguous overall which does support the neutrality
-principle indirectly.
+considered an *exception* to the neutrality principle in order to give enough
+leverage to the other guiding principles. That said, the grammar helps to make
+Hisyëö less ambiguous overall which supports the neutrality principle
+indirectly.
 - **Succinctness**, words are kept to a minimum where possible but information
 density is strongly emphasized so that the language can still be used for
 translations of popular media. This principle is not the same as the more strict
 principle of *minimalism* in that it is meant to allow for including singular
 words from (1) concepts that appear in a multitude of conversations and (2)
-concepts that would need complex relative clauses that can otherwise derail a
-sentence from comprehension due to the added working memory to develop the
+concepts that would need complex nested clauses that can otherwise derail a
+sentence from comprehension due to the added working memory to develop an
 understanding of the sentence.
 - **Expressivity**, the language is designed to be highly expressive in its word
 and grammar choices. With around 800 words, there's a lot more ways to express
@@ -37,11 +37,14 @@ grammar has been enhanced to allow for less ambiguous handling of tense, aspect,
 mood, causation, and volition.
 
 Some of these principles and the language features that you will learn may seem
-contrary to the traditions of IAL design but that is part of the point: too much
-effort within IAL development is spent on regularization and cherrypicking
-existing lexical and grammatical tactics of natural languages. Instead,
-Hisyëö pushes closer to a [loglang](https://loglangs.wiki/Portal) by focusing
-less on ease-of-learning and more on the principles above.
+contrary to the traditions of [IAL](http://interlanguages.net) design but that
+is part of the point: too much effort within IAL development is spent on
+regularization and cherrypicking existing lexical and grammatical tactics of
+natural languages. Instead, Hisyëö pushes closer to a
+[loglang](https://loglangs.wiki/Portal) by focusing less on ease-of-learning and
+more on the principles above. The dream of wide adoption of an IAL is both
+farfetched and dangerous; Hisyëö is intended to celebrate the diversity of
+linguistic phenomena and not supplant any local languages.
 
 ## Where did Hisyëö come from?
 
@@ -94,24 +97,27 @@ write a few basic sentences.
 
 ### Rules
 
-1. Words do not ever mutate, special particles are used to organize the sentence.
-2. Verbs, nouns, and modifiers (adjectives/adverbs) can be
-used as each other depending on what role they play in the sentence.
-3. There is no word for "the" or "a/an".
+1. Words do not ever mutate, special particles are used to introduce phrases of
+   the sentence.
+2. Verbs, nouns, and modifiers (adjectives/adverbs) can be used as each other
+   depending on what role they play in the sentence.
+3. There is no word for "the".
 4. The basic structure of a sentence is (in any order) one verb phrase and any
-amount of additional noun phrases.
+   amount of additional noun phrases.
+5. If the verb prhase is placed as the first constituent of a sentence, then the
+   particle that introduces the phrase can be omitted.
 
 ### Usage
 
 Some basic words to get you started on sentence construction.
 
-Choose a subject (preceded by ü):
+Choose a subject (preceded by %%ü@ü%%):
 - %%noyo@noyo%% (I)
 - %%nimü@nimü%% (you)
 - %%ni@ni%% (we)
 - %%loı@loı%% (it/they)
 
-Choose a verb (preceded by lı):
+Choose a verb (preceded by %%lı@lı%% or omitted):
 - %%köto@köto%% (to say)
 - %%monodo@monodo%% (to meet)
 - %%mokon@mokon%% (to eat)
@@ -132,7 +138,7 @@ Choose a sentence ender:
 
 Now, make a sentence...
 - %%ü@ü%% %%noyo@noyo%% %%lı@lı%% %%mokon@mokon%% %%cö@cö%% %%küöxı@küöxı%% (I eat fruit)
-- %%ü@ü%% %%nimü@nimü%% %%lı@lı%% %%vısun@vısun%% %%cö@cö%% %%sütüö@sütüö%% %%ko@ko%% (Do you know a friend?)
+- %%vısun@vısun%% %%ü@ü%% %%nimü@nimü%% %%cö@cö%% %%sütüö@sütüö%% %%ko@ko%% (Do you know a friend?)
 
 ## Next Steps
 
