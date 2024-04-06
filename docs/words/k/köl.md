@@ -3,14 +3,14 @@ id: köl
 slug: köl
 title: köl
 sidebar_position: 171
-hoverText: manifest non-physical thing § Noun
+hoverText: state/condition § Noun
 ---
 
-### manifest non-physical thing § Noun
+### state/condition § Noun
 
-**Verb**: to be a state/condition/manifest non-physical thing
+**Verb**: to be a state/condition
 
-**Noun**: state/condition/manifest non-physical thing
+**Noun**: state/condition
 
 **Modifier**: state/condition-related
 

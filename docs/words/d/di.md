@@ -8,9 +8,9 @@ hoverText: to become (a trait) § Verb
 
 ### to become (a trait) § Verb
 
-**Verb**: to become
+**Verb**: to become/change
 
-**Noun**: a soon-to-be trait
+**Noun**: quality/aspect/trait
 
 **Modifier**: changed
 

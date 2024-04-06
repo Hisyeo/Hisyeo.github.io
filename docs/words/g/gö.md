@@ -8,7 +8,7 @@ hoverText: existent § Modifier
 
 ### existent § Modifier
 
-**Verb**: to be existent
+**Verb**: to be/exist
 
 **Noun**: existence
 
