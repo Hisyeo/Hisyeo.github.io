@@ -2,7 +2,7 @@
 id: pëüdo
 slug: pëüdo
 title: pëüdo
-sidebar_position: 523
+sidebar_position: 524
 hoverText: to learn (a learnable entity) § Verb
 ---
 

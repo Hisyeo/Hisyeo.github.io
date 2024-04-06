@@ -2,7 +2,7 @@
 id: kiünlık
 slug: kiünlık
 title: kiünlık
-sidebar_position: 182
+sidebar_position: 183
 hoverText: authorized § Modifier
 ---
 

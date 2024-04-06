@@ -2,7 +2,7 @@
 id: pıslon
 slug: pıslon
 title: pıslon
-sidebar_position: 528
+sidebar_position: 529
 hoverText: thus far § Modifier
 ---
 

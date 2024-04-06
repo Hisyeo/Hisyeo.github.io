@@ -2,7 +2,7 @@
 id: wınit
 slug: wınit
 title: wınit
-sidebar_position: 718
+sidebar_position: 719
 hoverText: humble § Modifier
 ---
 

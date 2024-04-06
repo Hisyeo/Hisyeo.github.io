@@ -2,7 +2,7 @@
 id: kiso
 slug: kiso
 title: kiso
-sidebar_position: 184
+sidebar_position: 185
 hoverText: to narrate (a story) § Verb
 ---
 

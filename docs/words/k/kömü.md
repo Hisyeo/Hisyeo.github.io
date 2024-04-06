@@ -2,7 +2,7 @@
 id: kömü
 slug: kömü
 title: kömü
-sidebar_position: 164
+sidebar_position: 165
 hoverText: horn/spike § Noun
 ---
 

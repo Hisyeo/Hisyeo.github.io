@@ -2,7 +2,7 @@
 id: nüyo
 slug: nüyo
 title: nüyo
-sidebar_position: 695
+sidebar_position: 696
 hoverText: stick § Noun
 ---
 

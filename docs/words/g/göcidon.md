@@ -2,7 +2,7 @@
 id: göcidon
 slug: göcidon
 title: göcidon
-sidebar_position: 221
+sidebar_position: 222
 hoverText: to choose (a choice) § Verb
 ---
 

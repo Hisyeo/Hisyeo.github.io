@@ -2,7 +2,7 @@
 id: züngö
 slug: züngö
 title: züngö
-sidebar_position: 492
+sidebar_position: 493
 hoverText: hand § Noun
 ---
 
