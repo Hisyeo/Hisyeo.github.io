@@ -2,7 +2,7 @@
 id: yüpik
 slug: yüpik
 title: yüpik
-sidebar_position: 794
+sidebar_position: 795
 hoverText: to love (a lovable entity) § Verb
 ---
 

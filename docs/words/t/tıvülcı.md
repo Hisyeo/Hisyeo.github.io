@@ -2,7 +2,7 @@
 id: tıvülcı
 slug: tıvülcı
 title: tıvülcı
-sidebar_position: 266
+sidebar_position: 267
 hoverText: creative § Modifier
 ---
 

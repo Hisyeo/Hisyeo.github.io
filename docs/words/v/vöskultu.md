@@ -2,7 +2,7 @@
 id: vöskultu
 slug: vöskultu
 title: vöskultu
-sidebar_position: 572
+sidebar_position: 573
 hoverText: open § Modifier
 ---
 

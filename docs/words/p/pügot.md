@@ -2,7 +2,7 @@
 id: pügot
 slug: pügot
 title: pügot
-sidebar_position: 552
+sidebar_position: 553
 hoverText: heavy § Modifier
 ---
 

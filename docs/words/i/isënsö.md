@@ -2,7 +2,7 @@
 id: isënsö
 slug: isënsö
 title: isënsö
-sidebar_position: 59
+sidebar_position: 60
 hoverText: verb § Noun
 ---
 

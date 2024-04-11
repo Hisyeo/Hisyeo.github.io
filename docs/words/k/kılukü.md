@@ -2,7 +2,7 @@
 id: kılukü
 slug: kılukü
 title: kılukü
-sidebar_position: 180
+sidebar_position: 181
 hoverText: eastern § Modifier
 ---
 

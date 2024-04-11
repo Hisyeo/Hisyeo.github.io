@@ -2,7 +2,7 @@
 id: cënpö
 slug: cënpö
 title: cënpö
-sidebar_position: 297
+sidebar_position: 298
 hoverText: big § Modifier
 ---
 

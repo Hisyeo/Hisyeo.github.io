@@ -2,7 +2,7 @@
 id: lunsol
 slug: lunsol
 title: lunsol
-sidebar_position: 765
+sidebar_position: 766
 hoverText: to launch (a projectile) § Verb
 ---
 

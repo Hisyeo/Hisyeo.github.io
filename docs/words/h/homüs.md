@@ -2,7 +2,7 @@
 id: homüs
 slug: homüs
 title: homüs
-sidebar_position: 108
+sidebar_position: 109
 hoverText: quiet § Modifier
 ---
 

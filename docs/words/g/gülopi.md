@@ -2,7 +2,7 @@
 id: gülopi
 slug: gülopi
 title: gülopi
-sidebar_position: 245
+sidebar_position: 246
 hoverText: pink § Modifier
 ---
 

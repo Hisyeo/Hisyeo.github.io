@@ -2,7 +2,7 @@
 id: wëtü
 slug: wëtü
 title: wëtü
-sidebar_position: 714
+sidebar_position: 715
 hoverText: to cut (cuttable entity) § Verb
 ---
 

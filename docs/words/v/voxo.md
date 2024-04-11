@@ -2,7 +2,7 @@
 id: voxo
 slug: voxo
 title: voxo
-sidebar_position: 566
+sidebar_position: 567
 hoverText: mirative clause ender (wow!) § Grammar
 ---
 

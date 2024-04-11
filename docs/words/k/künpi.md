@@ -2,7 +2,7 @@
 id: künpi
 slug: künpi
 title: künpi
-sidebar_position: 208
+sidebar_position: 209
 hoverText: scene/stage § Noun
 ---
 

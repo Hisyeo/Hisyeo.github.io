@@ -2,7 +2,7 @@
 id: xön
 slug: xön
 title: xön
-sidebar_position: 401
+sidebar_position: 402
 hoverText: good § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: könyëc
 slug: könyëc
 title: könyëc
-sidebar_position: 171
+sidebar_position: 172
 hoverText: ending § Modifier
 ---
 

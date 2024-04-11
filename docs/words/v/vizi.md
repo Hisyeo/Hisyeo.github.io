@@ -2,7 +2,7 @@
 id: vizi
 slug: vizi
 title: vizi
-sidebar_position: 590
+sidebar_position: 591
 hoverText: to bury (buryable entity) § Verb
 ---
 

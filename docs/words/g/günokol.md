@@ -2,7 +2,7 @@
 id: günokol
 slug: günokol
 title: günokol
-sidebar_position: 243
+sidebar_position: 244
 hoverText: criminal § Modifier
 ---
 

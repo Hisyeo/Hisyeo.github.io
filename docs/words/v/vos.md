@@ -2,7 +2,7 @@
 id: vos
 slug: vos
 title: vos
-sidebar_position: 565
+sidebar_position: 566
 hoverText: relative clause particle § Grammar
 ---
 

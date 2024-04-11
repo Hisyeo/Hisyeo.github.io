@@ -2,7 +2,7 @@
 id: titon
 slug: titon
 title: titon
-sidebar_position: 270
+sidebar_position: 271
 hoverText: direction/path § Noun
 ---
 

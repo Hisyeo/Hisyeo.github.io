@@ -2,7 +2,7 @@
 id: goniso
 slug: goniso
 title: goniso
-sidebar_position: 214
+sidebar_position: 215
 hoverText: to think (a thought/opinion) § Verb
 ---
 

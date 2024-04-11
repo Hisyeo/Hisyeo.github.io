@@ -2,7 +2,7 @@
 id: köntësto
 slug: köntësto
 title: köntësto
-sidebar_position: 167
+sidebar_position: 168
 hoverText: to contend (contendable entity) § Verb
 ---
 

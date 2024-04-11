@@ -2,7 +2,7 @@
 id: kölmüdul
 slug: kölmüdul
 title: kölmüdul
-sidebar_position: 173
+sidebar_position: 174
 hoverText: purchase § Noun
 ---
 

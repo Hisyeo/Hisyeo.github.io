@@ -2,7 +2,7 @@
 id: güviö
 slug: güviö
 title: güviö
-sidebar_position: 241
+sidebar_position: 242
 hoverText: to push (a pushable entity) § Verb
 ---
 

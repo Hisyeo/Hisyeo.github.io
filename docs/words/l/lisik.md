@@ -2,7 +2,7 @@
 id: lisik
 slug: lisik
 title: lisik
-sidebar_position: 759
+sidebar_position: 760
 hoverText: bread/grain § Noun
 ---
 

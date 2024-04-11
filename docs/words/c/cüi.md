@@ -2,7 +2,7 @@
 id: cüi
 slug: cüi
 title: cüi
-sidebar_position: 324
+sidebar_position: 325
 hoverText: rodent § Noun
 ---
 

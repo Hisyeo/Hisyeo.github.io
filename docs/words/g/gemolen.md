@@ -2,7 +2,7 @@
 id: gemolen
 slug: gemolen
 title: gemolen
-sidebar_position: 228
+sidebar_position: 229
 hoverText: milled/ground/crushed § Modifier
 ---
 

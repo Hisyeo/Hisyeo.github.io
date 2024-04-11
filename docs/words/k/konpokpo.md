@@ -2,7 +2,7 @@
 id: konpokpo
 slug: konpokpo
 title: konpokpo
-sidebar_position: 151
+sidebar_position: 152
 hoverText: general/universal § Modifier
 ---
 

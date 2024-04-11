@@ -2,7 +2,7 @@
 id: sukyunık
 slug: sukyunık
 title: sukyunık
-sidebar_position: 374
+sidebar_position: 375
 hoverText: mucus § Noun
 ---
 

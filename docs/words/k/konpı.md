@@ -2,7 +2,7 @@
 id: konpı
 slug: konpı
 title: konpı
-sidebar_position: 152
+sidebar_position: 153
 hoverText: hard § Modifier
 ---
 

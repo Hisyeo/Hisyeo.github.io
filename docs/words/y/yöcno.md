@@ -2,7 +2,7 @@
 id: yöcno
 slug: yöcno
 title: yöcno
-sidebar_position: 786
+sidebar_position: 787
 hoverText: program/plan § Noun
 ---
 

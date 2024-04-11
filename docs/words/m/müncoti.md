@@ -2,7 +2,7 @@
 id: müncoti
 slug: müncoti
 title: müncoti
-sidebar_position: 653
+sidebar_position: 654
 hoverText: to release/free/drop/let go (releasable entity) § Verb
 ---
 

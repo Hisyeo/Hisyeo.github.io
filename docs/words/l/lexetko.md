@@ -2,7 +2,7 @@
 id: lexetko
 slug: lexetko
 title: lexetko
-sidebar_position: 748
+sidebar_position: 749
 hoverText: lattice/array § Noun
 ---
 

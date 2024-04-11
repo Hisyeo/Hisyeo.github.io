@@ -2,7 +2,7 @@
 id: hoyo
 slug: hoyo
 title: hoyo
-sidebar_position: 111
+sidebar_position: 112
 hoverText: alive § Modifier
 ---
 

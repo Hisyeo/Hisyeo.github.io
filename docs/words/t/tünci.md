@@ -2,7 +2,7 @@
 id: tünci
 slug: tünci
 title: tünci
-sidebar_position: 279
+sidebar_position: 280
 hoverText: nonbinary/queer § Modifier
 ---
 

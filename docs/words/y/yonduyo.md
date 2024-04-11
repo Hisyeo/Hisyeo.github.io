@@ -2,7 +2,7 @@
 id: yonduyo
 slug: yonduyo
 title: yonduyo
-sidebar_position: 780
+sidebar_position: 781
 hoverText: machine § Noun
 ---
 

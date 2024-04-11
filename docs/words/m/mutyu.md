@@ -2,7 +2,7 @@
 id: mutyu
 slug: mutyu
 title: mutyu
-sidebar_position: 640
+sidebar_position: 641
 hoverText: middle § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: püldo
 slug: püldo
 title: püldo
-sidebar_position: 561
+sidebar_position: 562
 hoverText: to untie (untiable entity) § Verb
 ---
 

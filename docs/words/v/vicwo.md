@@ -2,7 +2,7 @@
 id: vicwo
 slug: vicwo
 title: vicwo
-sidebar_position: 588
+sidebar_position: 589
 hoverText: hidden/secret § Modifier
 ---
 

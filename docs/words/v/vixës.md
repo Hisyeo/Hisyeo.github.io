@@ -2,7 +2,7 @@
 id: vixës
 slug: vixës
 title: vixës
-sidebar_position: 589
+sidebar_position: 590
 hoverText: special/unique § Modifier
 ---
 

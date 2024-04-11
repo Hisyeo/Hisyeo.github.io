@@ -2,7 +2,7 @@
 id: tüu
 slug: tüu
 title: tüu
-sidebar_position: 277
+sidebar_position: 278
 hoverText: to do (an action) § Verb
 ---
 
@@ -10,7 +10,7 @@ hoverText: to do (an action) § Verb
 
 **Verb**: to do/perform/execute/work
 
-**Noun**: an action/job
+**Noun**: an action/task
 
 **Modifier**: done/performed/executed/worked
 

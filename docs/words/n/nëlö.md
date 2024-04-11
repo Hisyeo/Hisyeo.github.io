@@ -2,7 +2,7 @@
 id: nëlö
 slug: nëlö
 title: nëlö
-sidebar_position: 680
+sidebar_position: 681
 hoverText: black § Modifier
 ---
 

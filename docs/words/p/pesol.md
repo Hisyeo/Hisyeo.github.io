@@ -2,7 +2,7 @@
 id: pesol
 slug: pesol
 title: pesol
-sidebar_position: 520
+sidebar_position: 521
 hoverText: to seal/lock (sealable/lockable entity) § Verb
 ---
 

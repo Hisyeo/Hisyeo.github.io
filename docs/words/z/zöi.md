@@ -2,7 +2,7 @@
 id: zöi
 slug: zöi
 title: zöi
-sidebar_position: 472
+sidebar_position: 473
 hoverText: blue § Modifier
 ---
 

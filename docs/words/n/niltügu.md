@@ -2,7 +2,7 @@
 id: niltügu
 slug: niltügu
 title: niltügu
-sidebar_position: 688
+sidebar_position: 689
 hoverText: to stop (a stoppable entity) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: monodo
 slug: monodo
 title: monodo
-sidebar_position: 613
+sidebar_position: 614
 hoverText: to meet (meetable/visitable entity) § Verb
 ---
 
