@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       // title={`Hello from ${siteConfig.title}`}
-      title={`niwos`}
+      title={`nıwos`}
       description="Succinct IAL for Science, Letters, & the Arts">
       <HomepageHeader />
       <main>
