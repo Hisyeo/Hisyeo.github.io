@@ -2,7 +2,7 @@
 id: tupö
 slug: tupö
 title: tupö
-sidebar_position: 276
+sidebar_position: 277
 hoverText: spot/scar § Noun
 ---
 

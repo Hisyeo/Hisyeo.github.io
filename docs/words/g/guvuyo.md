@@ -2,7 +2,7 @@
 id: guvuyo
 slug: guvuyo
 title: guvuyo
-sidebar_position: 235
+sidebar_position: 236
 hoverText: to exchange/trade (an exchangeable entity) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: güwolo
 slug: güwolo
 title: güwolo
-sidebar_position: 245
+sidebar_position: 246
 hoverText: to scratch (a scratchable entity) § Verb
 ---
 

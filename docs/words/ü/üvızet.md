@@ -2,7 +2,7 @@
 id: üvızet
 slug: üvızet
 title: üvızet
-sidebar_position: 88
+sidebar_position: 89
 hoverText: to spot/notice (spottable/noticeable entity) § Verb
 ---
 

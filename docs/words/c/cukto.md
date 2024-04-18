@@ -2,7 +2,7 @@
 id: cukto
 slug: cukto
 title: cukto
-sidebar_position: 318
+sidebar_position: 319
 hoverText: to write (text) § Verb
 ---
 

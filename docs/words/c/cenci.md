@@ -2,7 +2,7 @@
 id: cenci
 slug: cenci
 title: cenci
-sidebar_position: 297
+sidebar_position: 298
 hoverText: thin § Modifier
 ---
 

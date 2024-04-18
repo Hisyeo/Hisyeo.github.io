@@ -2,7 +2,7 @@
 id: hosin
 slug: hosin
 title: hosin
-sidebar_position: 105
+sidebar_position: 106
 hoverText: beautiful § Modifier
 ---
 

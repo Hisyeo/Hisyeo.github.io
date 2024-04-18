@@ -2,7 +2,7 @@
 id: colot
 slug: colot
 title: colot
-sidebar_position: 291
+sidebar_position: 292
 hoverText: wise/clever § Modifier
 ---
 

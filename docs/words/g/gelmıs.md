@@ -2,7 +2,7 @@
 id: gelmıs
 slug: gelmıs
 title: gelmıs
-sidebar_position: 230
+sidebar_position: 231
 hoverText: stretched § Modifier
 ---
 

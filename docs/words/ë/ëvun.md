@@ -2,7 +2,7 @@
 id: ëvun
 slug: ëvun
 title: ëvun
-sidebar_position: 50
+sidebar_position: 48
 hoverText: momentary § Modifier
 ---
 

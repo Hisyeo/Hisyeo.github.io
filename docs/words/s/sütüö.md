@@ -2,7 +2,7 @@
 id: sütüö
 slug: sütüö
 title: sütüö
-sidebar_position: 381
+sidebar_position: 382
 hoverText: friend § Noun
 ---
 

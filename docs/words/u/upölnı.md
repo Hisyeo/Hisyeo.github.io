@@ -2,7 +2,7 @@
 id: upölnı
 slug: upölnı
 title: upölnı
-sidebar_position: 74
+sidebar_position: 75
 hoverText: resistant § Modifier
 ---
 

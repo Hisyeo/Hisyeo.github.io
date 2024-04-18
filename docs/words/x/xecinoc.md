@@ -2,7 +2,7 @@
 id: xecinoc
 slug: xecinoc
 title: xecinoc
-sidebar_position: 404
+sidebar_position: 405
 hoverText: crossed/intersected § Modifier
 ---
 

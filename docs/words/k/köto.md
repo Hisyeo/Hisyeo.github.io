@@ -2,7 +2,7 @@
 id: köto
 slug: köto
 title: köto
-sidebar_position: 159
+sidebar_position: 160
 hoverText: to talk (speech) § Verb
 ---
 

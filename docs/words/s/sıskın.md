@@ -2,7 +2,7 @@
 id: sıskın
 slug: sıskın
 title: sıskın
-sidebar_position: 365
+sidebar_position: 366
 hoverText: sibling § Noun
 ---
 

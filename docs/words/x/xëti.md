@@ -2,7 +2,7 @@
 id: xëti
 slug: xëti
 title: xëti
-sidebar_position: 407
+sidebar_position: 408
 hoverText: 07 seven § Quantity
 ---
 

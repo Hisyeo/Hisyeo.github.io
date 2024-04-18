@@ -2,7 +2,7 @@
 id: güso
 slug: güso
 title: güso
-sidebar_position: 239
+sidebar_position: 240
 hoverText: angry § Modifier
 ---
 

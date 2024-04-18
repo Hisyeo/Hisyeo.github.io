@@ -2,7 +2,7 @@
 id: xiüvü
 slug: xiüvü
 title: xiüvü
-sidebar_position: 412
+sidebar_position: 413
 hoverText: to repair (repairable entity) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: cöt
 slug: cöt
 title: cöt
-sidebar_position: 294
+sidebar_position: 295
 hoverText: thick § Modifier
 ---
 

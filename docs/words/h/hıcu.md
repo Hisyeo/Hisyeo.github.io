@@ -2,7 +2,7 @@
 id: hıcu
 slug: hıcu
 title: hıcu
-sidebar_position: 126
+sidebar_position: 127
 hoverText: crack/fissure § Noun
 ---
 
