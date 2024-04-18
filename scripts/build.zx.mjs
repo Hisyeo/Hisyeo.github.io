@@ -68,7 +68,7 @@ try {
     snippets["Latin Opügido Tabs"] = {
         scope: "markdown,mdx",
         prefix: "lot",
-        body: `<Tabs groupId="popöun-zıkto">
+        body: `<Tabs groupId="popöun-kon-cukto" queryString>
     <TabItem value="latin" label="Latin" default>
         $1
     </TabItem>
