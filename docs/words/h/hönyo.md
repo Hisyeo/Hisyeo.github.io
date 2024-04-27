@@ -2,7 +2,7 @@
 id: hönyo
 slug: hönyo
 title: hönyo
-sidebar_position: 117
+sidebar_position: 118
 hoverText: wilderness § Noun
 ---
 

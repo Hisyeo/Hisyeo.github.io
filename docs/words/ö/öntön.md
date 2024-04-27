@@ -2,7 +2,7 @@
 id: öntön
 slug: öntön
 title: öntön
-sidebar_position: 38
+sidebar_position: 39
 hoverText: to wear (clothing) § Verb
 ---
 

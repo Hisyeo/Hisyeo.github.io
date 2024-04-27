@@ -2,7 +2,7 @@
 id: cipon
 slug: cipon
 title: cipon
-sidebar_position: 316
+sidebar_position: 317
 hoverText: fat/grease § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: ınvultin
 slug: ınvultin
 title: ınvultin
-sidebar_position: 56
+sidebar_position: 57
 hoverText: rotating/spinning § Modifier
 ---
 

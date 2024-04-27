@@ -2,7 +2,7 @@
 id: konxo
 slug: konxo
 title: konxo
-sidebar_position: 151
+sidebar_position: 152
 hoverText: thankful/grateful § Modifier
 ---
 

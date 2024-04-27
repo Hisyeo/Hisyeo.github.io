@@ -2,7 +2,7 @@
 id: özil
 slug: özil
 title: özil
-sidebar_position: 32
+sidebar_position: 33
 hoverText: nut § Noun
 ---
 

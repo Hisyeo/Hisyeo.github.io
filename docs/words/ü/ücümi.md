@@ -2,7 +2,7 @@
 id: ücümi
 slug: ücümi
 title: ücümi
-sidebar_position: 84
+sidebar_position: 85
 hoverText: economy § Noun
 ---
 

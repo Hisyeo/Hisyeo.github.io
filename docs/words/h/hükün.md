@@ -2,7 +2,7 @@
 id: hükün
 slug: hükün
 title: hükün
-sidebar_position: 135
+sidebar_position: 136
 hoverText: to order (a command) § Verb
 ---
 

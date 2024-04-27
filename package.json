@@ -25,11 +25,11 @@
     "neat-csv": "^7.0.0",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "zx": "github:google/zx"
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.4.3"
+    "@docusaurus/module-type-aliases": "2.4.3",
+    "zx": "^8.0.2"
   },
   "browserslist": {
     "production": [

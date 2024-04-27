@@ -2,7 +2,7 @@
 id: ëto
 slug: ëto
 title: ëto
-sidebar_position: 46
+sidebar_position: 47
 hoverText: many § Quantity
 ---
 

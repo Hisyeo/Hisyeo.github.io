@@ -2,7 +2,7 @@
 id: xokülü
 slug: xokülü
 title: xokülü
-sidebar_position: 392
+sidebar_position: 393
 hoverText: to invite (inviteable entity) § Verb
 ---
 

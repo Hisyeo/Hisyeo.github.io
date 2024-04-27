@@ -2,7 +2,7 @@
 id: golo
 slug: golo
 title: golo
-sidebar_position: 220
+sidebar_position: 221
 hoverText: to read (a document) § Verb
 ---
 

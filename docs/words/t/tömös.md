@@ -2,7 +2,7 @@
 id: tömös
 slug: tömös
 title: tömös
-sidebar_position: 261
+sidebar_position: 262
 hoverText: book § Noun
 ---
 

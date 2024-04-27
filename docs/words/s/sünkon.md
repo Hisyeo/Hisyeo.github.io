@@ -2,7 +2,7 @@
 id: sünkon
 slug: sünkon
 title: sünkon
-sidebar_position: 386
+sidebar_position: 387
 hoverText: instantaneous § Modifier
 ---
 

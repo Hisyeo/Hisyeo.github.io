@@ -2,7 +2,7 @@
 id: hiskünco
 slug: hiskünco
 title: hiskünco
-sidebar_position: 129
+sidebar_position: 130
 hoverText: language § Noun
 ---
 

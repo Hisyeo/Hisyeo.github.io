@@ -2,7 +2,7 @@
 id: kinyosel
 slug: kinyosel
 title: kinyosel
-sidebar_position: 192
+sidebar_position: 193
 hoverText: chemical § Noun
 ---
 

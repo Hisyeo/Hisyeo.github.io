@@ -2,7 +2,7 @@
 id: sıtyo
 slug: sıtyo
 title: sıtyo
-sidebar_position: 365
+sidebar_position: 366
 hoverText: to sit on (a seat) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: konzilü
 slug: konzilü
 title: konzilü
-sidebar_position: 152
+sidebar_position: 153
 hoverText: to feel/sense (a phenomenon) § Verb
 ---
 

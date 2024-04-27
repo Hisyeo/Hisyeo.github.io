@@ -2,7 +2,7 @@
 id: icwon
 slug: icwon
 title: icwon
-sidebar_position: 60
+sidebar_position: 61
 hoverText: to inherit (inheritance) § Verb
 ---
 

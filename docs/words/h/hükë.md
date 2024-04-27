@@ -2,7 +2,7 @@
 id: hükë
 slug: hükë
 title: hükë
-sidebar_position: 134
+sidebar_position: 135
 hoverText: to mine (ore) § Verb
 ---
 

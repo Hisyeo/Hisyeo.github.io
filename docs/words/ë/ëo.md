@@ -2,7 +2,7 @@
 id: ëo
 slug: ëo
 title: ëo
-sidebar_position: 45
+sidebar_position: 46
 hoverText: causative verb particle § Grammar
 ---
 

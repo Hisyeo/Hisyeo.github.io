@@ -2,7 +2,7 @@
 id: tocı
 slug: tocı
 title: tocı
-sidebar_position: 252
+sidebar_position: 253
 hoverText: standing § Modifier
 ---
 

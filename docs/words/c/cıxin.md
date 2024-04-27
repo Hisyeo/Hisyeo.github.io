@@ -2,7 +2,7 @@
 id: cıxin
 slug: cıxin
 title: cıxin
-sidebar_position: 301
+sidebar_position: 302
 hoverText: to enforce (enforceable entity) § Verb
 ---
 

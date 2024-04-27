@@ -2,7 +2,7 @@
 id: inkoton
 slug: inkoton
 title: inkoton
-sidebar_position: 68
+sidebar_position: 69
 hoverText: to remember (a memory) § Verb
 ---
 

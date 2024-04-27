@@ -1,8 +1,8 @@
 ---
-id: xiskılo
-slug: xiskılo
-title: xiskılo
-sidebar_position: 415
+id: öitun
+slug: öitun
+title: öitun
+sidebar_position: 28
 hoverText: to vocalize (a vocalization) § Verb
 ---
 
@@ -14,6 +14,6 @@ hoverText: to vocalize (a vocalization) § Verb
 
 **Modifier**: vocalized/uttered
 
-Catalan xisclar /ʃisˈkla/
+Dutch uiten /ˈœy̯tə(n)/
 
-*Romance Language Family*
+*Germanic Language Family*

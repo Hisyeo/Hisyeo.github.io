@@ -2,7 +2,7 @@
 id: guvıs
 slug: guvıs
 title: guvıs
-sidebar_position: 235
+sidebar_position: 236
 hoverText: certain § Modifier
 ---
 

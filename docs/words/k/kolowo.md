@@ -2,7 +2,7 @@
 id: kolowo
 slug: kolowo
 title: kolowo
-sidebar_position: 156
+sidebar_position: 157
 hoverText: art § Noun
 ---
 

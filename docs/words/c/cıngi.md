@@ -2,7 +2,7 @@
 id: cıngi
 slug: cıngi
 title: cıngi
-sidebar_position: 308
+sidebar_position: 309
 hoverText: electricity § Noun
 ---
 
