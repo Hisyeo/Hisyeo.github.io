@@ -2,7 +2,7 @@
 id: pomoge
 slug: pomoge
 title: pomoge
-sidebar_position: 505
+sidebar_position: 506
 hoverText: prone § Modifier
 ---
 

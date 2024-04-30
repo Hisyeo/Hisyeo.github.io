@@ -2,7 +2,7 @@
 id: polimot
 slug: polimot
 title: polimot
-sidebar_position: 509
+sidebar_position: 510
 hoverText: voluminous § Modifier
 ---
 

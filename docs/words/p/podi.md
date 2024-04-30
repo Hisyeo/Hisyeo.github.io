@@ -1,8 +1,8 @@
 ---
-id: putün
-slug: putün
-title: putün
-sidebar_position: 546
+id: podi
+slug: podi
+title: podi
+sidebar_position: 504
 hoverText: unmoving § Modifier
 ---
 
@@ -14,6 +14,6 @@ hoverText: unmoving § Modifier
 
 **Modifier**: still/unmoving
 
-Cantonese 不動 bat dung /pɐt̚⁵ tʊŋ²²/
+Luo podi /pa.di/
 
-*Sino-Tibetan Language Family*
+*Nilo-Saharan Language Family*
