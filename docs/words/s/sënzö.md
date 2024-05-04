@@ -2,7 +2,7 @@
 id: sënzö
 slug: sënzö
 title: sënzö
-sidebar_position: 364
+sidebar_position: 365
 hoverText: ancestral § Modifier
 ---
 

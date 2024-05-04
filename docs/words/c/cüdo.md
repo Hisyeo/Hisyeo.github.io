@@ -2,7 +2,7 @@
 id: cüdo
 slug: cüdo
 title: cüdo
-sidebar_position: 330
+sidebar_position: 331
 hoverText: to give (a gift) § Verb
 ---
 

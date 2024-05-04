@@ -2,7 +2,7 @@
 id: conwëpo
 slug: conwëpo
 title: conwëpo
-sidebar_position: 292
+sidebar_position: 293
 hoverText: to manufacture (goods) § Verb
 ---
 

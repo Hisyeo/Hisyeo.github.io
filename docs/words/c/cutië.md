@@ -2,7 +2,7 @@
 id: cutië
 slug: cutië
 title: cutië
-sidebar_position: 321
+sidebar_position: 322
 hoverText: to fold (foldable entity) § Verb
 ---
 

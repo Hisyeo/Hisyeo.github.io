@@ -1,8 +1,8 @@
 ---
-id: pöcitoc
-slug: pöcitoc
-title: pöcitoc
-sidebar_position: 516
+id: tüek
+slug: tüek
+title: tüek
+sidebar_position: 280
 hoverText: to compute (a computation) § Verb
 ---
 
@@ -14,6 +14,6 @@ hoverText: to compute (a computation) § Verb
 
 **Modifier**: computed/calculated
 
-Czech počítač [ˈpot͡ʃiːtat͡ʃ]
+Burmese တွက် twak /twɛʔ/
 
-*Balto-Slavic Language Family*
+*Sino-Tibetan Language Family*

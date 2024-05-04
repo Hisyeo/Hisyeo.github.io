@@ -2,7 +2,7 @@
 id: zixitü
 slug: zixitü
 title: zixitü
-sidebar_position: 486
+sidebar_position: 487
 hoverText: finger/toe § Noun
 ---
 

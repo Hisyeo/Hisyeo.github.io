@@ -2,7 +2,7 @@
 id: poivön
 slug: poivön
 title: poivön
-sidebar_position: 497
+sidebar_position: 498
 hoverText: to emit (excreta) § Verb
 ---
 

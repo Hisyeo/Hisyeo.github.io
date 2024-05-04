@@ -2,7 +2,7 @@
 id: socok
 slug: socok
 title: socok
-sidebar_position: 340
+sidebar_position: 341
 hoverText: to start (startable entity) § Modifier
 ---
 

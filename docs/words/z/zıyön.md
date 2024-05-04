@@ -2,7 +2,7 @@
 id: zıyön
 slug: zıyön
 title: zıyön
-sidebar_position: 483
+sidebar_position: 484
 hoverText: 14 fourteen § Quantity
 ---
 

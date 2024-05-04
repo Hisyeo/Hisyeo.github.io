@@ -2,7 +2,7 @@
 id: sopüni
 slug: sopüni
 title: sopüni
-sidebar_position: 346
+sidebar_position: 347
 hoverText: ill/sick § Modifier
 ---
 

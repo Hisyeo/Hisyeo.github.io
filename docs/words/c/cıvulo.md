@@ -2,7 +2,7 @@
 id: cıvulo
 slug: cıvulo
 title: cıvulo
-sidebar_position: 304
+sidebar_position: 305
 hoverText: dancing § Modifier
 ---
 

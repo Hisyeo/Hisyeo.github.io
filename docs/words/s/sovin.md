@@ -2,7 +2,7 @@
 id: sovin
 slug: sovin
 title: sovin
-sidebar_position: 347
+sidebar_position: 348
 hoverText: pure § Modifier
 ---
 

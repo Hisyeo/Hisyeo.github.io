@@ -2,7 +2,7 @@
 id: cüngo
 slug: cüngo
 title: cüngo
-sidebar_position: 331
+sidebar_position: 332
 hoverText: to filter (filterable entity) § Verb
 ---
 

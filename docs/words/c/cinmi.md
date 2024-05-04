@@ -2,7 +2,7 @@
 id: cinmi
 slug: cinmi
 title: cinmi
-sidebar_position: 319
+sidebar_position: 320
 hoverText: precise/specific § Modifier
 ---
 
