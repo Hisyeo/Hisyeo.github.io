@@ -1,12 +1,14 @@
 ---
 id: lüok
 slug: lüok
-title: lüok
+title: LÜOK
 sidebar_position: 767
 hoverText: spirit/ghost § Noun
 ---
 
-### spirit/ghost § Noun
+### lüok
+
+*spirit/ghost* **§** Noun
 
 **Verb**: to be a spirit/ghost/soul
 

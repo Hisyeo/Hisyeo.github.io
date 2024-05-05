@@ -1,12 +1,14 @@
 ---
 id: cıhöü
 slug: cıhöü
-title: cıhöü
+title: CIHÖÜ
 sidebar_position: 302
 hoverText: after § Quantity
 ---
 
-### after § Quantity
+### cıhöü
+
+*after* **§** Quantity
 
 **Verb**: to be after
 

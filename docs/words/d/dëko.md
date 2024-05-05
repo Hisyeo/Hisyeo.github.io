@@ -1,12 +1,14 @@
 ---
 id: dëko
 slug: dëko
-title: dëko
+title: DËKO
 sidebar_position: 440
 hoverText: to see (a view) § Verb
 ---
 
-### to see (a view) § Verb
+### dëko
+
+*to see (a view)* **§** Verb
 
 **Verb**: to see/look at
 

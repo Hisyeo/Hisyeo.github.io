@@ -1,12 +1,14 @@
 ---
 id: cosni
 slug: cosni
-title: cosni
+title: COSNİ
 sidebar_position: 289
 hoverText: private/confidential § Modifier
 ---
 
-### private/confidential § Modifier
+### cosni
+
+*private/confidential* **§** Modifier
 
 **Verb**: to be private/confidential
 

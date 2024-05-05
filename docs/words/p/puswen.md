@@ -1,12 +1,14 @@
 ---
 id: puswen
 slug: puswen
-title: puswen
+title: PUSWEN
 sidebar_position: 548
 hoverText: to need (a requirement) § Verb
 ---
 
-### to need (a requirement) § Verb
+### puswen
+
+*to need (a requirement)* **§** Verb
 
 **Verb**: to need/require
 

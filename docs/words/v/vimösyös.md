@@ -1,12 +1,14 @@
 ---
 id: vimösyös
 slug: vimösyös
-title: vimösyös
+title: VİMÖSYÖS
 sidebar_position: 592
 hoverText: public/communal § Modifier
 ---
 
-### public/communal § Modifier
+### vimösyös
+
+*public/communal* **§** Modifier
 
 **Verb**: to be public/communal
 

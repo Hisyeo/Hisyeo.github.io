@@ -1,12 +1,14 @@
 ---
 id: omülto
 slug: omülto
-title: omülto
+title: OMÜLTO
 sidebar_position: 17
 hoverText: abstract § Modifier
 ---
 
-### abstract § Modifier
+### omülto
+
+*abstract* **§** Modifier
 
 **Verb**: to be abstract/theoretical
 

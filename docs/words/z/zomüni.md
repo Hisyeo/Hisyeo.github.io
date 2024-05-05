@@ -1,12 +1,14 @@
 ---
 id: zomüni
 slug: zomüni
-title: zomüni
+title: ZOMÜNİ
 sidebar_position: 468
 hoverText: purple § Modifier
 ---
 
-### purple § Modifier
+### zomüni
+
+*purple* **§** Modifier
 
 **Verb**: to be purple
 

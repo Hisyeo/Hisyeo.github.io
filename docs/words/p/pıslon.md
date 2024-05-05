@@ -1,12 +1,14 @@
 ---
 id: pıslon
 slug: pıslon
-title: pıslon
+title: PISLON
 sidebar_position: 531
 hoverText: thus far § Modifier
 ---
 
-### thus far § Modifier
+### pıslon
+
+*thus far* **§** Modifier
 
 **Verb**: to be thus far
 

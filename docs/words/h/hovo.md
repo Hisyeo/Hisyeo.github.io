@@ -1,12 +1,14 @@
 ---
 id: hovo
 slug: hovo
-title: hovo
+title: HOVO
 sidebar_position: 110
 hoverText: to plead (a plea) § Verb
 ---
 
-### to plead (a plea) § Verb
+### hovo
+
+*to plead (a plea)* **§** Verb
 
 **Verb**: to urge/plead/beg/implore
 

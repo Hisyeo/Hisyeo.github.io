@@ -1,12 +1,14 @@
 ---
 id: sëdu
 slug: sëdu
-title: sëdu
+title: SËDU
 sidebar_position: 364
 hoverText: station/garage § Noun
 ---
 
-### station/garage § Noun
+### sëdu
+
+*station/garage* **§** Noun
 
 **Verb**: to be a station/garage
 

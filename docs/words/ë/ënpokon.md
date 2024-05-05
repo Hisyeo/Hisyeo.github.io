@@ -1,12 +1,14 @@
 ---
 id: ënpokon
 slug: ënpokon
-title: ënpokon
+title: ËNPOKON
 sidebar_position: 52
 hoverText: belch/burp § Noun
 ---
 
-### belch/burp § Noun
+### ënpokon
+
+*belch/burp* **§** Noun
 
 **Verb**: to be a belch/burp
 

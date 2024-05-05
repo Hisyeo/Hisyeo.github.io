@@ -1,12 +1,14 @@
 ---
 id: nüyo
 slug: nüyo
-title: nüyo
+title: NÜYO
 sidebar_position: 697
 hoverText: stick § Noun
 ---
 
-### stick § Noun
+### nüyo
+
+*stick* **§** Noun
 
 **Verb**: to be a stick/staff/pole
 

@@ -1,12 +1,14 @@
 ---
 id: len
 slug: len
-title: len
+title: LEN
 sidebar_position: 750
 hoverText: strong § Modifier
 ---
 
-### strong § Modifier
+### len
+
+*strong* **§** Modifier
 
 **Verb**: to be strong/forceful
 

@@ -1,12 +1,14 @@
 ---
 id: lono
 slug: lono
-title: lono
+title: LONO
 sidebar_position: 737
 hoverText: day § Noun
 ---
 
-### day § Noun
+### lono
+
+*day* **§** Noun
 
 **Verb**: to be a day
 

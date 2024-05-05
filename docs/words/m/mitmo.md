@@ -1,12 +1,14 @@
 ---
 id: mitmo
 slug: mitmo
-title: mitmo
+title: MİTMO
 sidebar_position: 639
 hoverText: colony § Noun
 ---
 
-### colony § Noun
+### mitmo
+
+*colony* **§** Noun
 
 **Verb**: to be a colony
 

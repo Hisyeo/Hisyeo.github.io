@@ -1,12 +1,14 @@
 ---
 id: pıtün
 slug: pıtün
-title: pıtün
+title: PITÜN
 sidebar_position: 530
 hoverText: night § Noun
 ---
 
-### night § Noun
+### pıtün
+
+*night* **§** Noun
 
 **Verb**: to be a night
 

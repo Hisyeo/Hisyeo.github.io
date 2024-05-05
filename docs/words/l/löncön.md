@@ -1,12 +1,14 @@
 ---
 id: löncön
 slug: löncön
-title: löncön
+title: LÖNCÖN
 sidebar_position: 746
 hoverText: naked § Modifier
 ---
 
-### naked § Modifier
+### löncön
+
+*naked* **§** Modifier
 
 **Verb**: to be naked/bare
 

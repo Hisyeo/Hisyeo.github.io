@@ -1,12 +1,14 @@
 ---
 id: günokol
 slug: günokol
-title: günokol
+title: GÜNOKOL
 sidebar_position: 246
 hoverText: criminal § Modifier
 ---
 
-### criminal § Modifier
+### günokol
+
+*criminal* **§** Modifier
 
 **Verb**: to be criminal
 

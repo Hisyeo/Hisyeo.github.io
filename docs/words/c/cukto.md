@@ -1,12 +1,14 @@
 ---
 id: cukto
 slug: cukto
-title: cukto
+title: CUKTO
 sidebar_position: 321
 hoverText: to write (text) § Verb
 ---
 
-### to write (text) § Verb
+### cukto
+
+*to write (text)* **§** Verb
 
 **Verb**: to write
 

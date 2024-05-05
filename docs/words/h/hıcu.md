@@ -1,12 +1,14 @@
 ---
 id: hıcu
 slug: hıcu
-title: hıcu
+title: HICU
 sidebar_position: 128
 hoverText: crack/fissure § Noun
 ---
 
-### crack/fissure § Noun
+### hıcu
+
+*crack/fissure* **§** Noun
 
 **Verb**: to be a crack/fissure
 

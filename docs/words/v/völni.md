@@ -1,12 +1,14 @@
 ---
 id: völni
 slug: völni
-title: völni
+title: VÖLNİ
 sidebar_position: 576
 hoverText: free § Modifier
 ---
 
-### free § Modifier
+### völni
+
+*free* **§** Modifier
 
 **Verb**: to be free/unconstrained
 

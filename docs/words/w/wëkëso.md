@@ -1,12 +1,14 @@
 ---
 id: wëkëso
 slug: wëkëso
-title: wëkëso
+title: WËKËSO
 sidebar_position: 713
 hoverText: to invest (investable entity) § Verb
 ---
 
-### to invest (investable entity) § Verb
+### wëkëso
+
+*to invest (investable entity)* **§** Verb
 
 **Verb**: to invest
 

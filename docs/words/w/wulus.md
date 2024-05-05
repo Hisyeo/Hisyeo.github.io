@@ -1,12 +1,14 @@
 ---
 id: wulus
 slug: wulus
-title: wulus
+title: WULUS
 sidebar_position: 729
 hoverText: oil § Noun
 ---
 
-### oil § Noun
+### wulus
+
+*oil* **§** Noun
 
 **Verb**: to be oil
 

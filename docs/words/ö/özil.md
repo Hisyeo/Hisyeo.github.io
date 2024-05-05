@@ -1,12 +1,14 @@
 ---
 id: özil
 slug: özil
-title: özil
+title: ÖZİL
 sidebar_position: 33
 hoverText: nut § Noun
 ---
 
-### nut § Noun
+### özil
+
+*nut* **§** Noun
 
 **Verb**: to be a nut
 

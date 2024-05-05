@@ -1,12 +1,14 @@
 ---
 id: pëmon
 slug: pëmon
-title: pëmon
+title: PËMON
 sidebar_position: 528
 hoverText: to agree to (a promise) § Verb
 ---
 
-### to agree to (a promise) § Verb
+### pëmon
+
+*to agree to (a promise)* **§** Verb
 
 **Verb**: to agree/promise (to)
 

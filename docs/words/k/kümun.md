@@ -1,12 +1,14 @@
 ---
 id: kümun
 slug: kümun
-title: kümun
+title: KÜMUN
 sidebar_position: 206
 hoverText: hole § Noun
 ---
 
-### hole § Noun
+### kümun
+
+*hole* **§** Noun
 
 **Verb**: to be a hole/opening
 

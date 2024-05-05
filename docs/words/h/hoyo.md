@@ -1,12 +1,14 @@
 ---
 id: hoyo
 slug: hoyo
-title: hoyo
+title: HOYO
 sidebar_position: 114
 hoverText: alive § Modifier
 ---
 
-### alive § Modifier
+### hoyo
+
+*alive* **§** Modifier
 
 **Verb**: to be alive
 

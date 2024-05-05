@@ -1,12 +1,14 @@
 ---
 id: pinton
 slug: pinton
-title: pinton
+title: PİNTON
 sidebar_position: 544
 hoverText: star § Noun
 ---
 
-### star § Noun
+### pinton
+
+*star* **§** Noun
 
 **Verb**: to be a star
 

@@ -1,12 +1,14 @@
 ---
 id: kiskö
 slug: kiskö
-title: kiskö
+title: KİSKÖ
 sidebar_position: 189
 hoverText: rail/rack/bar § Noun
 ---
 
-### rail/rack/bar § Noun
+### kiskö
+
+*rail/rack/bar* **§** Noun
 
 **Verb**: to be a rail/rack/bar
 

@@ -1,12 +1,14 @@
 ---
 id: oütö
 slug: oütö
-title: oütö
+title: OÜTÖ
 sidebar_position: 0
 hoverText: to drive (a vehicle) § Verb
 ---
 
-### to drive (a vehicle) § Verb
+### oütö
+
+*to drive (a vehicle)* **§** Verb
 
 **Verb**: to drive
 

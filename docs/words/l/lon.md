@@ -1,12 +1,14 @@
 ---
 id: lon
 slug: lon
-title: lon
+title: LON
 sidebar_position: 736
 hoverText: distance/duration marker (for) § Grammar
 ---
 
-### distance/duration marker (for) § Grammar
+### lon
+
+*distance/duration marker (for)* **§** Grammar
 
 **Verb**: -
 

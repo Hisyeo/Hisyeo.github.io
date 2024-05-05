@@ -1,12 +1,14 @@
 ---
 id: vëlcin
 slug: vëlcin
-title: vëlcin
+title: VËLCİN
 sidebar_position: 580
 hoverText: last/latest § Quantity
 ---
 
-### last/latest § Quantity
+### vëlcin
+
+*last/latest* **§** Quantity
 
 **Verb**: to be last
 

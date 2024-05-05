@@ -1,12 +1,14 @@
 ---
 id: tıvülcı
 slug: tıvülcı
-title: tıvülcı
+title: TIVÜLCI
 sidebar_position: 269
 hoverText: creative § Modifier
 ---
 
-### creative § Modifier
+### tıvülcı
+
+*creative* **§** Modifier
 
 **Verb**: to be creative/inventive/imaginative
 

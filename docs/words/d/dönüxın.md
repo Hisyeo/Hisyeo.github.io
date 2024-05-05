@@ -1,12 +1,14 @@
 ---
 id: dönüxın
 slug: dönüxın
-title: dönüxın
+title: DÖNÜXIN
 sidebar_position: 439
 hoverText: conversion § Noun
 ---
 
-### conversion § Noun
+### dönüxın
+
+*conversion* **§** Noun
 
 **Verb**: to be a conversion/transformation
 

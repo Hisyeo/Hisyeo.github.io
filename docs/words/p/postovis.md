@@ -1,12 +1,14 @@
 ---
 id: postovis
 slug: postovis
-title: postovis
+title: POSTOVİS
 sidebar_position: 503
 hoverText: representative/delegate § Noun
 ---
 
-### representative/delegate § Noun
+### postovis
+
+*representative/delegate* **§** Noun
 
 **Verb**: to be a representative/delegate
 

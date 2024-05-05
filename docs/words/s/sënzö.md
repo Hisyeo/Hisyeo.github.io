@@ -1,12 +1,14 @@
 ---
 id: sënzö
 slug: sënzö
-title: sënzö
+title: SËNZÖ
 sidebar_position: 365
 hoverText: ancestral § Modifier
 ---
 
-### ancestral § Modifier
+### sënzö
+
+*ancestral* **§** Modifier
 
 **Verb**: to be ancestral
 

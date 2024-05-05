@@ -1,12 +1,14 @@
 ---
 id: zünlo
 slug: zünlo
-title: zünlo
+title: ZÜNLO
 sidebar_position: 497
 hoverText: series/sentence § Noun
 ---
 
-### series/sentence § Noun
+### zünlo
+
+*series/sentence* **§** Noun
 
 **Verb**: to be a series/sentence
 

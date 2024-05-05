@@ -1,12 +1,14 @@
 ---
 id: mozün
 slug: mozün
-title: mozün
+title: MOZÜN
 sidebar_position: 612
 hoverText: cream/paste § Noun
 ---
 
-### cream/paste § Noun
+### mozün
+
+*cream/paste* **§** Noun
 
 **Verb**: to be cream/paste
 

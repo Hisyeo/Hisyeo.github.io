@@ -1,12 +1,14 @@
 ---
 id: siëtö
 slug: siëtö
-title: siëtö
+title: SİËTÖ
 sidebar_position: 371
 hoverText: plate § Noun
 ---
 
-### plate § Noun
+### siëtö
+
+*plate* **§** Noun
 
 **Verb**: to be a plate
 

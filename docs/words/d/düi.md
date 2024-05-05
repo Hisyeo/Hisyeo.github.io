@@ -1,12 +1,14 @@
 ---
 id: düi
 slug: düi
-title: düi
+title: DÜİ
 sidebar_position: 454
 hoverText: 02 two § Quantity
 ---
 
-### 02 two § Quantity
+### düi
+
+*02 two* **§** Quantity
 
 **Verb**: to be two
 

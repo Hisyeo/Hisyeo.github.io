@@ -1,12 +1,14 @@
 ---
 id: pucono
 slug: pucono
-title: pucono
+title: PUCONO
 sidebar_position: 547
 hoverText: to save/rescue (saveable/rescuable entity) § Verb
 ---
 
-### to save/rescue (saveable/rescuable entity) § Verb
+### pucono
+
+*to save/rescue (saveable/rescuable entity)* **§** Verb
 
 **Verb**: to save/rescue
 

@@ -1,12 +1,14 @@
 ---
 id: numüno
 slug: numüno
-title: numüno
+title: NUMÜNO
 sidebar_position: 694
 hoverText: example § Noun
 ---
 
-### example § Noun
+### numüno
+
+*example* **§** Noun
 
 **Verb**: to be an example/sample
 

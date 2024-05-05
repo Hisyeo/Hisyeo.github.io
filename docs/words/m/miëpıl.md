@@ -1,12 +1,14 @@
 ---
 id: miëpıl
 slug: miëpıl
-title: miëpıl
+title: MİËPIL
 sidebar_position: 635
 hoverText: furniture § Noun
 ---
 
-### furniture § Noun
+### miëpıl
+
+*furniture* **§** Noun
 
 **Verb**: to be furniture
 

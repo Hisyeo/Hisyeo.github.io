@@ -1,12 +1,14 @@
 ---
 id: dıpo
 slug: dıpo
-title: dıpo
+title: DIPO
 sidebar_position: 443
 hoverText: container § Noun
 ---
 
-### container § Noun
+### dıpo
+
+*container* **§** Noun
 
 **Verb**: to be a container
 

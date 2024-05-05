@@ -1,12 +1,14 @@
 ---
 id: en
 slug: en
-title: en
+title: EN
 sidebar_position: 43
 hoverText: than/as § Connector
 ---
 
-### than/as § Connector
+### en
+
+*than/as* **§** Connector
 
 **Verb**: -
 

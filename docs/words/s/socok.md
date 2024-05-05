@@ -1,12 +1,14 @@
 ---
 id: socok
 slug: socok
-title: socok
+title: SOCOK
 sidebar_position: 341
 hoverText: to start (startable entity) § Modifier
 ---
 
-### to start (startable entity) § Modifier
+### socok
+
+*to start (startable entity)* **§** Modifier
 
 **Verb**: to start/begin
 

@@ -1,12 +1,14 @@
 ---
 id: nomü
 slug: nomü
-title: nomü
+title: NOMÜ
 sidebar_position: 666
 hoverText: tree § Noun
 ---
 
-### tree § Noun
+### nomü
+
+*tree* **§** Noun
 
 **Verb**: to be wood/a tree
 

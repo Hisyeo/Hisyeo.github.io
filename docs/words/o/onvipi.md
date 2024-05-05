@@ -1,12 +1,14 @@
 ---
 id: onvipi
 slug: onvipi
-title: onvipi
+title: ONVİPİ
 sidebar_position: 25
 hoverText: amphibian § Noun
 ---
 
-### amphibian § Noun
+### onvipi
+
+*amphibian* **§** Noun
 
 **Verb**: to be an amphibian
 

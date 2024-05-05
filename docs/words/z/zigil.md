@@ -1,12 +1,14 @@
 ---
 id: zigil
 slug: zigil
-title: zigil
+title: ZİGİL
 sidebar_position: 485
 hoverText: falling § Modifier
 ---
 
-### falling § Modifier
+### zigil
+
+*falling* **§** Modifier
 
 **Verb**: to be falling/sinking
 

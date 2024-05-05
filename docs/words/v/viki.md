@@ -1,12 +1,14 @@
 ---
 id: viki
 slug: viki
-title: viki
+title: VİKİ
 sidebar_position: 587
 hoverText: fast § Modifier
 ---
 
-### fast § Modifier
+### viki
+
+*fast* **§** Modifier
 
 **Verb**: to be fast/quick/speedy
 

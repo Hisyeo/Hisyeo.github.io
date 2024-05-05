@@ -1,12 +1,14 @@
 ---
 id: wëtü
 slug: wëtü
-title: wëtü
+title: WËTÜ
 sidebar_position: 715
 hoverText: to cut (cuttable entity) § Verb
 ---
 
-### to cut (cuttable entity) § Verb
+### wëtü
+
+*to cut (cuttable entity)* **§** Verb
 
 **Verb**: to cut/chop
 

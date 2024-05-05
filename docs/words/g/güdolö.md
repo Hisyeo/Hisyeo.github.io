@@ -1,12 +1,14 @@
 ---
 id: güdolö
 slug: güdolö
-title: güdolö
+title: GÜDOLÖ
 sidebar_position: 242
 hoverText: bow (weapon)/bow (music) § Noun
 ---
 
-### bow (weapon)/bow (music) § Noun
+### güdolö
+
+*bow (weapon)/bow (music)* **§** Noun
 
 **Verb**: to be a bow
 

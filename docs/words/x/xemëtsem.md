@@ -1,12 +1,14 @@
 ---
 id: xemëtsem
 slug: xemëtsem
-title: xemëtsem
+title: XEMËTSEM
 sidebar_position: 409
 hoverText: noun § Noun
 ---
 
-### noun § Noun
+### xemëtsem
+
+*noun* **§** Noun
 
 **Verb**: to be a noun
 

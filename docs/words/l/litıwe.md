@@ -1,12 +1,14 @@
 ---
 id: litıwe
 slug: litıwe
-title: litıwe
+title: LİTIWE
 sidebar_position: 758
 hoverText: related § Modifier
 ---
 
-### related § Modifier
+### litıwe
+
+*related* **§** Modifier
 
 **Verb**: to be related
 

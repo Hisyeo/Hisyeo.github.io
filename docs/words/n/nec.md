@@ -1,12 +1,14 @@
 ---
 id: nec
 slug: nec
-title: nec
+title: NEC
 sidebar_position: 674
 hoverText: mesh § Noun
 ---
 
-### mesh § Noun
+### nec
+
+*mesh* **§** Noun
 
 **Verb**: to be a net/web/mesh
 

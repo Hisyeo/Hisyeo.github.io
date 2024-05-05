@@ -1,12 +1,14 @@
 ---
 id: pipök
 slug: pipök
-title: pipök
+title: PİPÖK
 sidebar_position: 541
 hoverText: white § Modifier
 ---
 
-### white § Modifier
+### pipök
+
+*white* **§** Modifier
 
 **Verb**: to be white
 

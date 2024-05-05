@@ -1,12 +1,14 @@
 ---
 id: solilo
 slug: solilo
-title: solilo
+title: SOLİLO
 sidebar_position: 353
 hoverText: body § Noun
 ---
 
-### body § Noun
+### solilo
+
+*body* **§** Noun
 
 **Verb**: to be a body/torso
 

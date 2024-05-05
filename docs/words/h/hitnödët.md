@@ -1,12 +1,14 @@
 ---
 id: hitnödët
 slug: hitnödët
-title: hitnödët
+title: HİTNÖDËT
 sidebar_position: 129
 hoverText: oscillating § Modifier
 ---
 
-### oscillating § Modifier
+### hitnödët
+
+*oscillating* **§** Modifier
 
 **Verb**: to be oscillating/swaying
 

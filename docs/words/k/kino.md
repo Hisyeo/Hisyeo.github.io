@@ -1,12 +1,14 @@
 ---
 id: kino
 slug: kino
-title: kino
+title: KİNO
 sidebar_position: 190
 hoverText: rhyme/verse § Noun
 ---
 
-### rhyme/verse § Noun
+### kino
+
+*rhyme/verse* **§** Noun
 
 **Verb**: to be a rhyme/verse
 

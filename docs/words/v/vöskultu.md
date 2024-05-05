@@ -1,12 +1,14 @@
 ---
 id: vöskultu
 slug: vöskultu
-title: vöskultu
+title: VÖSKULTU
 sidebar_position: 573
 hoverText: open § Modifier
 ---
 
-### open § Modifier
+### vöskultu
+
+*open* **§** Modifier
 
 **Verb**: to be open
 

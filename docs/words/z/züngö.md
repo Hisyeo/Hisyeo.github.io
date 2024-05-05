@@ -1,12 +1,14 @@
 ---
 id: züngö
 slug: züngö
-title: züngö
+title: ZÜNGÖ
 sidebar_position: 495
 hoverText: hand § Noun
 ---
 
-### hand § Noun
+### züngö
+
+*hand* **§** Noun
 
 **Verb**: to be a hand
 

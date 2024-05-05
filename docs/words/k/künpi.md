@@ -1,12 +1,14 @@
 ---
 id: künpi
 slug: künpi
-title: künpi
+title: KÜNPİ
 sidebar_position: 211
 hoverText: scene/stage § Noun
 ---
 
-### scene/stage § Noun
+### künpi
+
+*scene/stage* **§** Noun
 
 **Verb**: to be a scene/stage
 

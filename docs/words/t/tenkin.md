@@ -1,12 +1,14 @@
 ---
 id: tenkin
 slug: tenkin
-title: tenkin
+title: TENKİN
 sidebar_position: 265
 hoverText: to hear (a sound) § Verb
 ---
 
-### to hear (a sound) § Verb
+### tenkin
+
+*to hear (a sound)* **§** Verb
 
 **Verb**: to hear
 

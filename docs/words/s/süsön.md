@@ -1,12 +1,14 @@
 ---
 id: süsön
 slug: süsön
-title: süsön
+title: SÜSÖN
 sidebar_position: 385
 hoverText: layer § Noun
 ---
 
-### layer § Noun
+### süsön
+
+*layer* **§** Noun
 
 **Verb**: to be a layer
 

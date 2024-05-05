@@ -1,12 +1,14 @@
 ---
 id: eswen
 slug: eswen
-title: eswen
+title: ESWEN
 sidebar_position: 42
 hoverText: more § Quantity
 ---
 
-### more § Quantity
+### eswen
+
+*more* **§** Quantity
 
 **Verb**: to be more
 

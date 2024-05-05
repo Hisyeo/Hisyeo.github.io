@@ -1,12 +1,14 @@
 ---
 id: pındü
 slug: pındü
-title: pındü
+title: PINDÜ
 sidebar_position: 532
 hoverText: dot § Noun
 ---
 
-### dot § Noun
+### pındü
+
+*dot* **§** Noun
 
 **Verb**: to be a dot/point
 

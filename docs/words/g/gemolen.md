@@ -1,12 +1,14 @@
 ---
 id: gemolen
 slug: gemolen
-title: gemolen
+title: GEMOLEN
 sidebar_position: 231
 hoverText: milled/ground/crushed § Modifier
 ---
 
-### milled/ground/crushed § Modifier
+### gemolen
+
+*milled/ground/crushed* **§** Modifier
 
 **Verb**: to be milled/ground/crushed
 

@@ -1,12 +1,14 @@
 ---
 id: yöküe
 slug: yöküe
-title: yöküe
+title: YÖKÜE
 sidebar_position: 786
 hoverText: monster § Noun
 ---
 
-### monster § Noun
+### yöküe
+
+*monster* **§** Noun
 
 **Verb**: to be a monster/devil/goblin
 

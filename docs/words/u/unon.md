@@ -1,12 +1,14 @@
 ---
 id: unon
 slug: unon
-title: unon
+title: UNON
 sidebar_position: 78
 hoverText: to smell (a scent) § Verb
 ---
 
-### to smell (a scent) § Verb
+### unon
+
+*to smell (a scent)* **§** Verb
 
 **Verb**: to smell
 

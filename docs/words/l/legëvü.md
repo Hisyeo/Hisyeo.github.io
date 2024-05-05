@@ -1,12 +1,14 @@
 ---
 id: legëvü
 slug: legëvü
-title: legëvü
+title: LEGËVÜ
 sidebar_position: 748
 hoverText: lazy § Modifier
 ---
 
-### lazy § Modifier
+### legëvü
+
+*lazy* **§** Modifier
 
 **Verb**: to be lazy
 

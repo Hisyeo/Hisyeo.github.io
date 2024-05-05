@@ -1,12 +1,14 @@
 ---
 id: xıngö
 slug: xıngö
-title: xıngö
+title: XINGÖ
 sidebar_position: 414
 hoverText: neck/throat § Noun
 ---
 
-### neck/throat § Noun
+### xıngö
+
+*neck/throat* **§** Noun
 
 **Verb**: to be a neck/throat
 

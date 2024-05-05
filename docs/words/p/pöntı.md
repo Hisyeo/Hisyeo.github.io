@@ -1,12 +1,14 @@
 ---
 id: pöntı
 slug: pöntı
-title: pöntı
+title: PÖNTI
 sidebar_position: 519
 hoverText: bridge § Noun
 ---
 
-### bridge § Noun
+### pöntı
+
+*bridge* **§** Noun
 
 **Verb**: to be a bridge
 

@@ -1,12 +1,14 @@
 ---
 id: köl
 slug: köl
-title: köl
+title: KÖL
 sidebar_position: 175
 hoverText: state/condition § Noun
 ---
 
-### state/condition § Noun
+### köl
+
+*state/condition* **§** Noun
 
 **Verb**: to be a state/condition
 

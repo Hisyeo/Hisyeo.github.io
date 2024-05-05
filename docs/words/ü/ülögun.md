@@ -1,12 +1,14 @@
 ---
 id: ülögun
 slug: ülögun
-title: ülögun
+title: ÜLÖGUN
 sidebar_position: 97
 hoverText: metal § Noun
 ---
 
-### metal § Noun
+### ülögun
+
+*metal* **§** Noun
 
 **Verb**: to be metal
 

@@ -1,12 +1,14 @@
 ---
 id: cokwolı
 slug: cokwolı
-title: cokwolı
+title: COKWOLI
 sidebar_position: 287
 hoverText: pyramid § Noun
 ---
 
-### pyramid § Noun
+### cokwolı
+
+*pyramid* **§** Noun
 
 **Verb**: to be a pyramid
 

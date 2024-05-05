@@ -1,12 +1,14 @@
 ---
 id: düsul
 slug: düsul
-title: düsul
+title: DÜSUL
 sidebar_position: 456
 hoverText: grey § Modifier
 ---
 
-### grey § Modifier
+### düsul
+
+*grey* **§** Modifier
 
 **Verb**: to be grey
 

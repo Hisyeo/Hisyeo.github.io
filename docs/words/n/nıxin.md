@@ -1,12 +1,14 @@
 ---
 id: nıxin
 slug: nıxin
-title: nıxin
+title: NIXİN
 sidebar_position: 683
 hoverText: wing § Noun
 ---
 
-### wing § Noun
+### nıxin
+
+*wing* **§** Noun
 
 **Verb**: to be a wing
 

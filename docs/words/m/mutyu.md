@@ -1,12 +1,14 @@
 ---
 id: mutyu
 slug: mutyu
-title: mutyu
+title: MUTYU
 sidebar_position: 641
 hoverText: middle § Noun
 ---
 
-### middle § Noun
+### mutyu
+
+*middle* **§** Noun
 
 **Verb**: to be the middle/center
 

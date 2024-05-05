@@ -1,12 +1,14 @@
 ---
 id: zoük
 slug: zoük
-title: zoük
+title: ZOÜK
 sidebar_position: 462
 hoverText: far § Modifier
 ---
 
-### far § Modifier
+### zoük
+
+*far* **§** Modifier
 
 **Verb**: to be far/distant
 

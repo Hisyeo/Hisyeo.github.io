@@ -1,12 +1,14 @@
 ---
 id: vünië
 slug: vünië
-title: vünië
+title: VÜNİË
 sidebar_position: 603
 hoverText: line § Noun
 ---
 
-### line § Noun
+### vünië
+
+*line* **§** Noun
 
 **Verb**: to be a line/string
 

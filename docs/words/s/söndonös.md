@@ -1,12 +1,14 @@
 ---
 id: söndonös
 slug: söndonös
-title: söndonös
+title: SÖNDONÖS
 sidebar_position: 358
 hoverText: direct/live § Modifier
 ---
 
-### direct/live § Modifier
+### söndonös
+
+*direct/live* **§** Modifier
 
 **Verb**: to be direct/live
 

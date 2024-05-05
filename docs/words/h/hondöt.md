@@ -1,12 +1,14 @@
 ---
 id: hondöt
 slug: hondöt
-title: hondöt
+title: HONDÖT
 sidebar_position: 113
 hoverText: jealous § Modifier
 ---
 
-### jealous § Modifier
+### hondöt
+
+*jealous* **§** Modifier
 
 **Verb**: to be jealous/envious
 

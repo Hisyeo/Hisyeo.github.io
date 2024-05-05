@@ -1,12 +1,14 @@
 ---
 id: konzilü
 slug: konzilü
-title: konzilü
+title: KONZİLÜ
 sidebar_position: 153
 hoverText: to feel/sense (a phenomenon) § Verb
 ---
 
-### to feel/sense (a phenomenon) § Verb
+### konzilü
+
+*to feel/sense (a phenomenon)* **§** Verb
 
 **Verb**: to feel/sense
 

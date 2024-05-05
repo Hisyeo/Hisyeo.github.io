@@ -1,12 +1,14 @@
 ---
 id: onkonu
 slug: onkonu
-title: onkonu
+title: ONKONU
 sidebar_position: 20
 hoverText: to estimate/guess (an estimation/guess) § Verb
 ---
 
-### to estimate/guess (an estimation/guess) § Verb
+### onkonu
+
+*to estimate/guess (an estimation/guess)* **§** Verb
 
 **Verb**: to estimate/guess
 

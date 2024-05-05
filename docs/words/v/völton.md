@@ -1,12 +1,14 @@
 ---
 id: völton
 slug: völton
-title: völton
+title: VÖLTON
 sidebar_position: 575
 hoverText: hereafter § Modifier
 ---
 
-### hereafter § Modifier
+### völton
+
+*hereafter* **§** Modifier
 
 **Verb**: to be hereafter
 

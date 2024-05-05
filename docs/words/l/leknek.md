@@ -1,12 +1,14 @@
 ---
 id: leknek
 slug: leknek
-title: leknek
+title: LEKNEK
 sidebar_position: 747
 hoverText: weapon § Noun
 ---
 
-### weapon § Noun
+### leknek
+
+*weapon* **§** Noun
 
 **Verb**: to be a weapon
 

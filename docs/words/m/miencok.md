@@ -1,12 +1,14 @@
 ---
 id: miencok
 slug: miencok
-title: miencok
+title: MİENCOK
 sidebar_position: 634
 hoverText: mollusc § Noun
 ---
 
-### mollusc § Noun
+### miencok
+
+*mollusc* **§** Noun
 
 **Verb**: to be a mollusc
 

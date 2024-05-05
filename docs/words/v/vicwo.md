@@ -1,12 +1,14 @@
 ---
 id: vicwo
 slug: vicwo
-title: vicwo
+title: VİCWO
 sidebar_position: 589
 hoverText: hidden/secret § Modifier
 ---
 
-### hidden/secret § Modifier
+### vicwo
+
+*hidden/secret* **§** Modifier
 
 **Verb**: to be hidden/secret
 

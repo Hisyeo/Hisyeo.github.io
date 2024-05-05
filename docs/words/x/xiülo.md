@@ -1,12 +1,14 @@
 ---
 id: xiülo
 slug: xiülo
-title: xiülo
+title: XİÜLO
 sidebar_position: 416
 hoverText: hiss/fizz/whistle § Noun
 ---
 
-### hiss/fizz/whistle § Noun
+### xiülo
+
+*hiss/fizz/whistle* **§** Noun
 
 **Verb**: to be a hiss/fizz/whistle
 

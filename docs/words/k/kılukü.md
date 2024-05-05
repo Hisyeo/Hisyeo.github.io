@@ -1,12 +1,14 @@
 ---
 id: kılukü
 slug: kılukü
-title: kılukü
+title: KILUKÜ
 sidebar_position: 183
 hoverText: eastern § Modifier
 ---
 
-### eastern § Modifier
+### kılukü
+
+*eastern* **§** Modifier
 
 **Verb**: to be eastern
 

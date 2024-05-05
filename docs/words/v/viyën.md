@@ -1,12 +1,14 @@
 ---
 id: viyën
 slug: viyën
-title: viyën
+title: VİYËN
 sidebar_position: 594
 hoverText: 100 hundred § Quantity
 ---
 
-### 100 hundred § Quantity
+### viyën
+
+*100 hundred* **§** Quantity
 
 **Verb**: to be a hundred
 

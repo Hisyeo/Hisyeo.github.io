@@ -1,12 +1,14 @@
 ---
 id: mëdüson
 slug: mëdüson
-title: mëdüson
+title: MËDÜSON
 sidebar_position: 628
 hoverText: laborious § Modifier
 ---
 
-### laborious § Modifier
+### mëdüson
+
+*laborious* **§** Modifier
 
 **Verb**: to be laborious
 

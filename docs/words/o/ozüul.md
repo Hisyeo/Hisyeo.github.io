@@ -1,12 +1,14 @@
 ---
 id: ozüul
 slug: ozüul
-title: ozüul
+title: OZÜUL
 sidebar_position: 11
 hoverText: any/whichever § Pronoun
 ---
 
-### any/whichever § Pronoun
+### ozüul
+
+*any/whichever* **§** Pronoun
 
 **Verb**: to be whomever/whichever
 

@@ -1,12 +1,14 @@
 ---
 id: sünpidü
 slug: sünpidü
-title: sünpidü
+title: SÜNPİDÜ
 sidebar_position: 389
 hoverText: drone/buzz/hum § Noun
 ---
 
-### drone/buzz/hum § Noun
+### sünpidü
+
+*drone/buzz/hum* **§** Noun
 
 **Verb**: to be a drone/buzz/hum
 

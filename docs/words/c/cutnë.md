@@ -1,12 +1,14 @@
 ---
 id: cutnë
 slug: cutnë
-title: cutnë
+title: CUTNË
 sidebar_position: 323
 hoverText: to climb (a slope) § Verb
 ---
 
-### to climb (a slope) § Verb
+### cutnë
+
+*to climb (a slope)* **§** Verb
 
 **Verb**: to climb
 

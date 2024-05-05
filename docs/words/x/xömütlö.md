@@ -1,12 +1,14 @@
 ---
 id: xömütlö
 slug: xömütlö
-title: xömütlö
+title: XÖMÜTLÖ
 sidebar_position: 404
 hoverText: ocean § Noun
 ---
 
-### ocean § Noun
+### xömütlö
+
+*ocean* **§** Noun
 
 **Verb**: to be an ocean/sea
 

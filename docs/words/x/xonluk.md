@@ -1,12 +1,14 @@
 ---
 id: xonluk
 slug: xonluk
-title: xonluk
+title: XONLUK
 sidebar_position: 399
 hoverText: young § Modifier
 ---
 
-### young § Modifier
+### xonluk
+
+*young* **§** Modifier
 
 **Verb**: to be young/youthful
 

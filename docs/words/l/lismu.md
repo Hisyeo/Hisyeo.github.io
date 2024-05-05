@@ -1,12 +1,14 @@
 ---
 id: lismu
 slug: lismu
-title: lismu
+title: LİSMU
 sidebar_position: 761
 hoverText: clay § Noun
 ---
 
-### clay § Noun
+### lismu
+
+*clay* **§** Noun
 
 **Verb**: to be clay
 

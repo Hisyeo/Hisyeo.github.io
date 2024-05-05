@@ -1,12 +1,14 @@
 ---
 id: dilë
 slug: dilë
-title: dilë
+title: DİLË
 sidebar_position: 449
 hoverText: slow § Modifier
 ---
 
-### slow § Modifier
+### dilë
+
+*slow* **§** Modifier
 
 **Verb**: to be slow
 

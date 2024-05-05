@@ -1,12 +1,14 @@
 ---
 id: ulyö
 slug: ulyö
-title: ulyö
+title: ULYÖ
 sidebar_position: 81
 hoverText: medial demonstrative (that/there) § Pronoun
 ---
 
-### medial demonstrative (that/there) § Pronoun
+### ulyö
+
+*medial demonstrative (that/there)* **§** Pronoun
 
 **Verb**: to be that
 

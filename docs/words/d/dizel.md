@@ -1,12 +1,14 @@
 ---
 id: dizel
 slug: dizel
-title: dizel
+title: DİZEL
 sidebar_position: 446
 hoverText: other § Pronoun
 ---
 
-### other § Pronoun
+### dizel
+
+*other* **§** Pronoun
 
 **Verb**: to be an other
 

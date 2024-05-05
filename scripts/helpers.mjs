@@ -1,0 +1,28 @@
+const letterMap = {
+    p: 'P',
+    k: 'K',
+    g: 'G',
+    t: 'T',
+    c: 'C',
+    d: 'D',
+    z: 'Z',
+    s: 'S',
+    x: 'X',
+    v: 'V',
+    h: 'H',
+    m: 'M',
+    n: 'N',
+    w: 'W',
+    l: 'L',
+    y: 'Y',
+    o: 'O',
+    ö: 'Ö',
+    e: 'E',
+    ë: 'Ë',
+    ı: 'I',
+    i: 'İ',
+    u: 'U',
+    ü: 'Ü',
+}
+
+export const capitalize = word => word.split('').map(l => letterMap[l]).join('')

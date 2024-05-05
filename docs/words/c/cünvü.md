@@ -1,12 +1,14 @@
 ---
 id: cünvü
 slug: cünvü
-title: cünvü
+title: CÜNVÜ
 sidebar_position: 334
 hoverText: repeating § Modifier
 ---
 
-### repeating § Modifier
+### cünvü
+
+*repeating* **§** Modifier
 
 **Verb**: to be repeating/repetitive
 

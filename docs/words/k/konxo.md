@@ -1,12 +1,14 @@
 ---
 id: konxo
 slug: konxo
-title: konxo
+title: KONXO
 sidebar_position: 152
 hoverText: thankful/grateful § Modifier
 ---
 
-### thankful/grateful § Modifier
+### konxo
+
+*thankful/grateful* **§** Modifier
 
 **Verb**: to be thankful/grateful
 

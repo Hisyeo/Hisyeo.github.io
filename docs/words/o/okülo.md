@@ -1,12 +1,14 @@
 ---
 id: okülo
 slug: okülo
-title: okülo
+title: OKÜLO
 sidebar_position: 3
 hoverText: to touch (a surface) § Verb
 ---
 
-### to touch (a surface) § Verb
+### okülo
+
+*to touch (a surface)* **§** Verb
 
 **Verb**: to touch/contact/feel (physically)
 

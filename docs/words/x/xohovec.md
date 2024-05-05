@@ -1,12 +1,14 @@
 ---
 id: xohovec
 slug: xohovec
-title: xohovec
+title: XOHOVEC
 sidebar_position: 392
 hoverText: jellyfish/hydra/anemone § Noun
 ---
 
-### jellyfish/hydra/anemone § Noun
+### xohovec
+
+*jellyfish/hydra/anemone* **§** Noun
 
 **Verb**: to be a jellyfish/hydra/anemone
 

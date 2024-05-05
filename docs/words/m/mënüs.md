@@ -1,12 +1,14 @@
 ---
 id: mënüs
 slug: mënüs
-title: mënüs
+title: MËNÜS
 sidebar_position: 629
 hoverText: fewer/less § Quantity
 ---
 
-### fewer/less § Quantity
+### mënüs
+
+*fewer/less* **§** Quantity
 
 **Verb**: to be less
 

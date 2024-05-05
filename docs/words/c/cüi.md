@@ -1,12 +1,14 @@
 ---
 id: cüi
 slug: cüi
-title: cüi
+title: CÜİ
 sidebar_position: 328
 hoverText: rodent § Noun
 ---
 
-### rodent § Noun
+### cüi
+
+*rodent* **§** Noun
 
 **Verb**: to be a mouse/rat/rodent
 

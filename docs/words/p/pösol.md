@@ -1,12 +1,14 @@
 ---
 id: pösol
 slug: pösol
-title: pösol
+title: PÖSOL
 sidebar_position: 517
 hoverText: to form a pose (a position) § Verb
 ---
 
-### to form a pose (a position) § Verb
+### pösol
+
+*to form a pose (a position)* **§** Verb
 
 **Verb**: to form (pose-wise)
 

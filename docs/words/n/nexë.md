@@ -1,12 +1,14 @@
 ---
 id: nexë
 slug: nexë
-title: nexë
+title: NEXË
 sidebar_position: 675
 hoverText: intoxicated § Modifier
 ---
 
-### intoxicated § Modifier
+### nexë
+
+*intoxicated* **§** Modifier
 
 **Verb**: to be intoxicated
 

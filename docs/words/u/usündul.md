@@ -1,12 +1,14 @@
 ---
 id: usündul
 slug: usündul
-title: usündul
+title: USÜNDUL
 sidebar_position: 74
 hoverText: ugly § Modifier
 ---
 
-### ugly § Modifier
+### usündul
+
+*ugly* **§** Modifier
 
 **Verb**: to be ugly
 

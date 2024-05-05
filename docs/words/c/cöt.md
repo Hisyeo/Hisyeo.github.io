@@ -1,12 +1,14 @@
 ---
 id: cöt
 slug: cöt
-title: cöt
+title: CÖT
 sidebar_position: 297
 hoverText: thick § Modifier
 ---
 
-### thick § Modifier
+### cöt
+
+*thick* **§** Modifier
 
 **Verb**: to be thick/wide
 

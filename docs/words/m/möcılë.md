@@ -1,12 +1,14 @@
 ---
 id: möcılë
 slug: möcılë
-title: möcılë
+title: MÖCILË
 sidebar_position: 623
 hoverText: to tie/entangle (tie-able/entangleable entity) § Verb
 ---
 
-### to tie/entangle (tie-able/entangleable entity) § Verb
+### möcılë
+
+*to tie/entangle (tie-able/entangleable entity)* **§** Verb
 
 **Verb**: to tie/entangle/knit/weave
 

@@ -1,12 +1,14 @@
 ---
 id: hizon
 slug: hizon
-title: hizon
+title: HİZON
 sidebar_position: 131
 hoverText: excited § Modifier
 ---
 
-### excited § Modifier
+### hizon
+
+*excited* **§** Modifier
 
 **Verb**: to be excited
 

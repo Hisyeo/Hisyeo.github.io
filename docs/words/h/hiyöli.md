@@ -1,12 +1,14 @@
 ---
 id: hiyöli
 slug: hiyöli
-title: hiyöli
+title: HİYÖLİ
 sidebar_position: 132
 hoverText: weak § Modifier
 ---
 
-### weak § Modifier
+### hiyöli
+
+*weak* **§** Modifier
 
 **Verb**: to be weak
 

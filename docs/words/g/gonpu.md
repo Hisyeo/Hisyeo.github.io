@@ -1,12 +1,14 @@
 ---
 id: gonpu
 slug: gonpu
-title: gonpu
+title: GONPU
 sidebar_position: 220
 hoverText: leg § Noun
 ---
 
-### leg § Noun
+### gonpu
+
+*leg* **§** Noun
 
 **Verb**: to be a leg
 

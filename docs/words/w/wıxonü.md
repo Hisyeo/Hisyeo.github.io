@@ -1,12 +1,14 @@
 ---
 id: wıxonü
 slug: wıxonü
-title: wıxonü
+title: WIXONÜ
 sidebar_position: 719
 hoverText: virus § Noun
 ---
 
-### virus § Noun
+### wıxonü
+
+*virus* **§** Noun
 
 **Verb**: to be a virus
 

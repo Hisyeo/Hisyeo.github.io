@@ -1,12 +1,14 @@
 ---
 id: hüstun
 slug: hüstun
-title: hüstun
+title: HÜSTUN
 sidebar_position: 138
 hoverText: cough § Noun
 ---
 
-### cough § Noun
+### hüstun
+
+*cough* **§** Noun
 
 **Verb**: to be a cough
 

@@ -1,12 +1,14 @@
 ---
 id: mötivö
 slug: mötivö
-title: mötivö
+title: MÖTİVÖ
 sidebar_position: 622
 hoverText: reason § Noun
 ---
 
-### reason § Noun
+### mötivö
+
+*reason* **§** Noun
 
 **Verb**: to be a reason/motive
 

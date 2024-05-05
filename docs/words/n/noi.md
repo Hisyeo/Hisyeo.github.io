@@ -1,12 +1,14 @@
 ---
 id: noi
 slug: noi
-title: noi
+title: NOİ
 sidebar_position: 658
 hoverText: vocative marker § Preposition
 ---
 
-### vocative marker § Preposition
+### noi
+
+*vocative marker* **§** Preposition
 
 **Verb**: -
 

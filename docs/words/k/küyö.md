@@ -1,12 +1,14 @@
 ---
 id: küyö
 slug: küyö
-title: küyö
+title: KÜYÖ
 sidebar_position: 213
 hoverText: sad § Modifier
 ---
 
-### sad § Modifier
+### küyö
+
+*sad* **§** Modifier
 
 **Verb**: to be sad
 

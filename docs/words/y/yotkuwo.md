@@ -1,12 +1,14 @@
 ---
 id: yotkuwo
 slug: yotkuwo
-title: yotkuwo
+title: YOTKUWO
 sidebar_position: 776
 hoverText: ongoing § Modifier
 ---
 
-### ongoing § Modifier
+### yotkuwo
+
+*ongoing* **§** Modifier
 
 **Verb**: to be ongoing
 

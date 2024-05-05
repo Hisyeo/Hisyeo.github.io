@@ -1,12 +1,14 @@
 ---
 id: dönüs
 slug: dönüs
-title: dönüs
+title: DÖNÜS
 sidebar_position: 438
 hoverText: pig § Noun
 ---
 
-### pig § Noun
+### dönüs
+
+*pig* **§** Noun
 
 **Verb**: to be a pig/swine
 

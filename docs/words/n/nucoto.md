@@ -1,12 +1,14 @@
 ---
 id: nucoto
 slug: nucoto
-title: nucoto
+title: NUCOTO
 sidebar_position: 692
 hoverText: planet § Noun
 ---
 
-### planet § Noun
+### nucoto
+
+*planet* **§** Noun
 
 **Verb**: to be a planet
 

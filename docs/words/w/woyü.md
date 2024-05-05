@@ -1,12 +1,14 @@
 ---
 id: woyü
 slug: woyü
-title: woyü
+title: WOYÜ
 sidebar_position: 708
 hoverText: air/wind § Noun
 ---
 
-### air/wind § Noun
+### woyü
+
+*air/wind* **§** Noun
 
 **Verb**: to be air/wind
 

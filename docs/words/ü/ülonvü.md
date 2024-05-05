@@ -1,12 +1,14 @@
 ---
 id: ülonvü
 slug: ülonvü
-title: ülonvü
+title: ÜLONVÜ
 sidebar_position: 96
 hoverText: syllable § Noun
 ---
 
-### syllable § Noun
+### ülonvü
+
+*syllable* **§** Noun
 
 **Verb**: to be a syllable
 

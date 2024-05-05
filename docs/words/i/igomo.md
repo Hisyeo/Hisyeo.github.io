@@ -1,12 +1,14 @@
 ---
 id: igomo
 slug: igomo
-title: igomo
+title: İGOMO
 sidebar_position: 60
 hoverText: word/name § Noun
 ---
 
-### word/name § Noun
+### igomo
+
+*word/name* **§** Noun
 
 **Verb**: to be a word/name/address
 

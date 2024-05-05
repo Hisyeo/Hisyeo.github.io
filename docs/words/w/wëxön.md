@@ -1,12 +1,14 @@
 ---
 id: wëxön
 slug: wëxön
-title: wëxön
+title: WËXÖN
 sidebar_position: 716
 hoverText: week § Noun
 ---
 
-### week § Noun
+### wëxön
+
+*week* **§** Noun
 
 **Verb**: to be a week
 

@@ -1,12 +1,14 @@
 ---
 id: ipüwë
 slug: ipüwë
-title: ipüwë
+title: İPÜWË
 sidebar_position: 67
 hoverText: stone § Noun
 ---
 
-### stone § Noun
+### ipüwë
+
+*stone* **§** Noun
 
 **Verb**: to be a stone/rock
 

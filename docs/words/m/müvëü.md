@@ -1,12 +1,14 @@
 ---
 id: müvëü
 slug: müvëü
-title: müvëü
+title: MÜVËÜ
 sidebar_position: 653
 hoverText: clean § Modifier
 ---
 
-### clean § Modifier
+### müvëü
+
+*clean* **§** Modifier
 
 **Verb**: to be clean
 

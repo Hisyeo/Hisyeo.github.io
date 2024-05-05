@@ -1,12 +1,14 @@
 ---
 id: cöcko
 slug: cöcko
-title: cöcko
+title: CÖCKO
 sidebar_position: 298
 hoverText: lens § Noun
 ---
 
-### lens § Noun
+### cöcko
+
+*lens* **§** Noun
 
 **Verb**: to be a lens
 

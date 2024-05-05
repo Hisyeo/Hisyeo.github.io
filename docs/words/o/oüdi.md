@@ -1,12 +1,14 @@
 ---
 id: oüdi
 slug: oüdi
-title: oüdi
+title: OÜDİ
 sidebar_position: 1
 hoverText: seed § Noun
 ---
 
-### seed § Noun
+### oüdi
+
+*seed* **§** Noun
 
 **Verb**: to be a seed
 

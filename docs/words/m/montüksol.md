@@ -1,12 +1,14 @@
 ---
 id: montüksol
 slug: montüksol
-title: montüksol
+title: MONTÜKSOL
 sidebar_position: 616
 hoverText: logical § Modifier
 ---
 
-### logical § Modifier
+### montüksol
+
+*logical* **§** Modifier
 
 **Verb**: to be logical
 

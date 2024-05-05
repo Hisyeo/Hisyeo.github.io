@@ -1,12 +1,14 @@
 ---
 id: wokto
 slug: wokto
-title: wokto
+title: WOKTO
 sidebar_position: 701
 hoverText: outside § Noun
 ---
 
-### outside § Noun
+### wokto
+
+*outside* **§** Noun
 
 **Verb**: to be the outside region
 

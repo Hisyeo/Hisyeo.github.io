@@ -1,12 +1,14 @@
 ---
 id: mongö
 slug: mongö
-title: mongö
+title: MONGÖ
 sidebar_position: 615
 hoverText: sharks/rays § Noun
 ---
 
-### sharks/rays § Noun
+### mongö
+
+*sharks/rays* **§** Noun
 
 **Verb**: to be a shark/ray
 

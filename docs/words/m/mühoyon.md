@@ -1,12 +1,14 @@
 ---
 id: mühoyon
 slug: mühoyon
-title: mühoyon
+title: MÜHOYON
 sidebar_position: 647
 hoverText: camp § Noun
 ---
 
-### camp § Noun
+### mühoyon
+
+*camp* **§** Noun
 
 **Verb**: to be a camp
 

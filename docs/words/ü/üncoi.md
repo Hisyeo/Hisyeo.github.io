@@ -1,12 +1,14 @@
 ---
 id: üncoi
 slug: üncoi
-title: üncoi
+title: ÜNCOİ
 sidebar_position: 94
 hoverText: proud § Modifier
 ---
 
-### proud § Modifier
+### üncoi
+
+*proud* **§** Modifier
 
 **Verb**: to be proud/vane
 

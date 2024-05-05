@@ -1,12 +1,14 @@
 ---
 id: kösmö
 slug: kösmö
-title: kösmö
+title: KÖSMÖ
 sidebar_position: 165
 hoverText: space/cosmos § Noun
 ---
 
-### space/cosmos § Noun
+### kösmö
+
+*space/cosmos* **§** Noun
 
 **Verb**: to be space/the cosmos
 

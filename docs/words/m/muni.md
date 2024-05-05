@@ -1,12 +1,14 @@
 ---
 id: muni
 slug: muni
-title: muni
+title: MUNİ
 sidebar_position: 643
 hoverText: money § Noun
 ---
 
-### money § Noun
+### muni
+
+*money* **§** Noun
 
 **Verb**: to be money
 

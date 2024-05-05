@@ -1,12 +1,14 @@
 ---
 id: titon
 slug: titon
-title: titon
+title: TİTON
 sidebar_position: 273
 hoverText: direction/path § Noun
 ---
 
-### direction/path § Noun
+### titon
+
+*direction/path* **§** Noun
 
 **Verb**: to be a direction/path
 

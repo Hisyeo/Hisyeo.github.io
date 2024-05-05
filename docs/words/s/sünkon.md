@@ -1,12 +1,14 @@
 ---
 id: sünkon
 slug: sünkon
-title: sünkon
+title: SÜNKON
 sidebar_position: 388
 hoverText: instantaneous § Modifier
 ---
 
-### instantaneous § Modifier
+### sünkon
+
+*instantaneous* **§** Modifier
 
 **Verb**: to be instantaneous
 

@@ -1,12 +1,14 @@
 ---
 id: cülül
 slug: cülül
-title: cülül
+title: CÜLÜL
 sidebar_position: 336
 hoverText: coil § Noun
 ---
 
-### coil § Noun
+### cülül
+
+*coil* **§** Noun
 
 **Verb**: to be a coil/spiral/helix
 

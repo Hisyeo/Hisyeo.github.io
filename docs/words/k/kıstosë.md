@@ -1,12 +1,14 @@
 ---
 id: kıstosë
 slug: kıstosë
-title: kıstosë
+title: KISTOSË
 sidebar_position: 182
 hoverText: crustacean § Noun
 ---
 
-### crustacean § Noun
+### kıstosë
+
+*crustacean* **§** Noun
 
 **Verb**: to be a crustacian
 

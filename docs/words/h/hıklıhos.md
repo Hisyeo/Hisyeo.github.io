@@ -1,12 +1,14 @@
 ---
 id: hıklıhos
 slug: hıklıhos
-title: hıklıhos
+title: HIKLIHOS
 sidebar_position: 127
 hoverText: supernatural/miraculous § Modifier
 ---
 
-### supernatural/miraculous § Modifier
+### hıklıhos
+
+*supernatural/miraculous* **§** Modifier
 
 **Verb**: to be supernatural/miraculous
 

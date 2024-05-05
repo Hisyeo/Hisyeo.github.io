@@ -1,12 +1,14 @@
 ---
 id: conöi
 slug: conöi
-title: conöi
+title: CONÖİ
 sidebar_position: 291
 hoverText: beak § Noun
 ---
 
-### beak § Noun
+### conöi
+
+*beak* **§** Noun
 
 **Verb**: to be a beak/bill
 

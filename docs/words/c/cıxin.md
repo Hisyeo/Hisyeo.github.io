@@ -1,12 +1,14 @@
 ---
 id: cıxin
 slug: cıxin
-title: cıxin
+title: CIXİN
 sidebar_position: 303
 hoverText: to enforce (enforceable entity) § Verb
 ---
 
-### to enforce (enforceable entity) § Verb
+### cıxin
+
+*to enforce (enforceable entity)* **§** Verb
 
 **Verb**: to enforce/impose
 

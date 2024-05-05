@@ -1,12 +1,14 @@
 ---
 id: lisik
 slug: lisik
-title: lisik
+title: LİSİK
 sidebar_position: 760
 hoverText: bread/grain § Noun
 ---
 
-### bread/grain § Noun
+### lisik
+
+*bread/grain* **§** Noun
 
 **Verb**: to be bread/a cereal product
 

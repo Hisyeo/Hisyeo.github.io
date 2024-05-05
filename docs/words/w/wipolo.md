@@ -1,12 +1,14 @@
 ---
 id: wipolo
 slug: wipolo
-title: wipolo
+title: WİPOLO
 sidebar_position: 722
 hoverText: flag § Noun
 ---
 
-### flag § Noun
+### wipolo
+
+*flag* **§** Noun
 
 **Verb**: to be a flag/banner
 

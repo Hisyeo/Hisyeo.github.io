@@ -1,12 +1,14 @@
 ---
 id: ximu
 slug: ximu
-title: ximu
+title: XİMU
 sidebar_position: 419
 hoverText: water § Noun
 ---
 
-### water § Noun
+### ximu
+
+*water* **§** Noun
 
 **Verb**: to be water
 

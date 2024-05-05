@@ -1,12 +1,14 @@
 ---
 id: köcün
 slug: köcün
-title: köcün
+title: KÖCÜN
 sidebar_position: 163
 hoverText: rank § Noun
 ---
 
-### rank § Noun
+### köcün
+
+*rank* **§** Noun
 
 **Verb**: to be a rank
 

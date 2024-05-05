@@ -1,12 +1,14 @@
 ---
 id: xönë
 slug: xönë
-title: xönë
+title: XÖNË
 sidebar_position: 406
 hoverText: different § Modifier
 ---
 
-### different § Modifier
+### xönë
+
+*different* **§** Modifier
 
 **Verb**: to be different
 

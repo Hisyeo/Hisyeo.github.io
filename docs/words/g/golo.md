@@ -1,12 +1,14 @@
 ---
 id: golo
 slug: golo
-title: golo
+title: GOLO
 sidebar_position: 221
 hoverText: to read (a document) § Verb
 ---
 
-### to read (a document) § Verb
+### golo
+
+*to read (a document)* **§** Verb
 
 **Verb**: to read
 

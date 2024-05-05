@@ -1,12 +1,14 @@
 ---
 id: gonzil
 slug: gonzil
-title: gonzil
+title: GONZİL
 sidebar_position: 219
 hoverText: strange § Modifier
 ---
 
-### strange § Modifier
+### gonzil
+
+*strange* **§** Modifier
 
 **Verb**: to be strange/weird/abnormal
 

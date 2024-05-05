@@ -1,12 +1,14 @@
 ---
 id: pëiku
 slug: pëiku
-title: pëiku
+title: PËİKU
 sidebar_position: 525
 hoverText: shell § Noun
 ---
 
-### shell § Noun
+### pëiku
+
+*shell* **§** Noun
 
 **Verb**: to be a shell
 

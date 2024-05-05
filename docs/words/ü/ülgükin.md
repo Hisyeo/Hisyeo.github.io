@@ -1,12 +1,14 @@
 ---
 id: ülgükin
 slug: ülgükin
-title: ülgükin
+title: ÜLGÜKİN
 sidebar_position: 99
 hoverText: dry § Modifier
 ---
 
-### dry § Modifier
+### ülgükin
+
+*dry* **§** Modifier
 
 **Verb**: to be dry
 

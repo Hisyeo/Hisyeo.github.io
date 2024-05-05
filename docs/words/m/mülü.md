@@ -1,12 +1,14 @@
 ---
 id: mülü
 slug: mülü
-title: mülü
+title: MÜLÜ
 sidebar_position: 656
 hoverText: complete § Modifier
 ---
 
-### complete § Modifier
+### mülü
+
+*complete* **§** Modifier
 
 **Verb**: to be full/complete
 

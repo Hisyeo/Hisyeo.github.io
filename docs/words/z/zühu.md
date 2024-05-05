@@ -1,12 +1,14 @@
 ---
 id: zühu
 slug: zühu
-title: zühu
+title: ZÜHU
 sidebar_position: 493
 hoverText: tongue § Noun
 ---
 
-### tongue § Noun
+### zühu
+
+*tongue* **§** Noun
 
 **Verb**: to be a tongue
 

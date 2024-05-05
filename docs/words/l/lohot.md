@@ -1,12 +1,14 @@
 ---
 id: lohot
 slug: lohot
-title: lohot
+title: LOHOT
 sidebar_position: 731
 hoverText: comfortable § Modifier
 ---
 
-### comfortable § Modifier
+### lohot
+
+*comfortable* **§** Modifier
 
 **Verb**: to be comfortable
 

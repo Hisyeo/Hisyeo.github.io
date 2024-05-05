@@ -1,12 +1,14 @@
 ---
 id: kiso
 slug: kiso
-title: kiso
+title: KİSO
 sidebar_position: 188
 hoverText: to narrate (a story) § Verb
 ---
 
-### to narrate (a story) § Verb
+### kiso
+
+*to narrate (a story)* **§** Verb
 
 **Verb**: to narrate
 

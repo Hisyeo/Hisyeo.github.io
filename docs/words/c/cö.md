@@ -1,12 +1,14 @@
 ---
 id: cö
 slug: cö
-title: cö
+title: CÖ
 sidebar_position: 295
 hoverText: patient/theme marker § Preposition
 ---
 
-### patient/theme marker § Preposition
+### cö
+
+*patient/theme marker* **§** Preposition
 
 **Verb**: -
 

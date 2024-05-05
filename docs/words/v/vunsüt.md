@@ -1,12 +1,14 @@
 ---
 id: vunsüt
 slug: vunsüt
-title: vunsüt
+title: VUNSÜT
 sidebar_position: 596
 hoverText: defeated § Modifier
 ---
 
-### defeated § Modifier
+### vunsüt
+
+*defeated* **§** Modifier
 
 **Verb**: to be defeated
 

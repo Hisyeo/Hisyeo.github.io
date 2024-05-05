@@ -1,12 +1,14 @@
 ---
 id: hükë
 slug: hükë
-title: hükë
+title: HÜKË
 sidebar_position: 135
 hoverText: to mine (ore) § Verb
 ---
 
-### to mine (ore) § Verb
+### hükë
+
+*to mine (ore)* **§** Verb
 
 **Verb**: to mine/extract
 

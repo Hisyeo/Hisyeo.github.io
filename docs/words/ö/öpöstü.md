@@ -1,12 +1,14 @@
 ---
 id: öpöstü
 slug: öpöstü
-title: öpöstü
+title: ÖPÖSTÜ
 sidebar_position: 35
 hoverText: opposite § Modifier
 ---
 
-### opposite § Modifier
+### öpöstü
+
+*opposite* **§** Modifier
 
 **Verb**: to be opposite
 

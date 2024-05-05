@@ -1,12 +1,14 @@
 ---
 id: cunliü
 slug: cunliü
-title: cunliü
+title: CUNLİÜ
 sidebar_position: 325
 hoverText: to distill (a distillable entity) § Verb
 ---
 
-### to distill (a distillable entity) § Verb
+### cunliü
+
+*to distill (a distillable entity)* **§** Verb
 
 **Verb**: to distill
 

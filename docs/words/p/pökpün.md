@@ -1,12 +1,14 @@
 ---
 id: pökpün
 slug: pökpün
-title: pökpün
+title: PÖKPÜN
 sidebar_position: 515
 hoverText: storm § Noun
 ---
 
-### storm § Noun
+### pökpün
+
+*storm* **§** Noun
 
 **Verb**: to be a storm
 

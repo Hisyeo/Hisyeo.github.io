@@ -1,12 +1,14 @@
 ---
 id: püslü
 slug: püslü
-title: püslü
+title: PÜSLÜ
 sidebar_position: 555
 hoverText: translucent § Modifier
 ---
 
-### translucent § Modifier
+### püslü
+
+*translucent* **§** Modifier
 
 **Verb**: to be translucent
 

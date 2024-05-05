@@ -1,12 +1,14 @@
 ---
 id: löslıno
 slug: löslıno
-title: löslıno
+title: LÖSLINO
 sidebar_position: 743
 hoverText: plant § Noun
 ---
 
-### plant § Noun
+### löslıno
+
+*plant* **§** Noun
 
 **Verb**: to be a plant
 

@@ -1,12 +1,14 @@
 ---
 id: öngö
 slug: öngö
-title: öngö
+title: ÖNGÖ
 sidebar_position: 38
 hoverText: fungus § Noun
 ---
 
-### fungus § Noun
+### öngö
+
+*fungus* **§** Noun
 
 **Verb**: to be a fungus/mushroom
 

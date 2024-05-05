@@ -1,12 +1,14 @@
 ---
 id: hoköli
 slug: hoköli
-title: hoköli
+title: HOKÖLİ
 sidebar_position: 103
 hoverText: tooth § Noun
 ---
 
-### tooth § Noun
+### hoköli
+
+*tooth* **§** Noun
 
 **Verb**: to be a tooth
 

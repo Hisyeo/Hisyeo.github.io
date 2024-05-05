@@ -1,12 +1,14 @@
 ---
 id: pongövi
 slug: pongövi
-title: pongövi
+title: PONGÖVİ
 sidebar_position: 509
 hoverText: endangered § Modifier
 ---
 
-### endangered § Modifier
+### pongövi
+
+*endangered* **§** Modifier
 
 **Verb**: to be endangered/in danger
 

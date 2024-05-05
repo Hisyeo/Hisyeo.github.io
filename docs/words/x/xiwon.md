@@ -1,12 +1,14 @@
 ---
 id: xiwon
 slug: xiwon
-title: xiwon
+title: XİWON
 sidebar_position: 421
 hoverText: to hope/wish (a hope/wish) § Verb
 ---
 
-### to hope/wish (a hope/wish) § Verb
+### xiwon
+
+*to hope/wish (a hope/wish)* **§** Verb
 
 **Verb**: to hope/wish
 

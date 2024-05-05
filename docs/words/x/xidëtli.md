@@ -1,12 +1,14 @@
 ---
 id: xidëtli
 slug: xidëtli
-title: xidëtli
+title: XİDËTLİ
 sidebar_position: 417
 hoverText: violent § Modifier
 ---
 
-### violent § Modifier
+### xidëtli
+
+*violent* **§** Modifier
 
 **Verb**: to be violent
 

@@ -1,12 +1,14 @@
 ---
 id: wutun
 slug: wutun
-title: wutun
+title: WUTUN
 sidebar_position: 728
 hoverText: ring/circle § Noun
 ---
 
-### ring/circle § Noun
+### wutun
+
+*ring/circle* **§** Noun
 
 **Verb**: to be a ring/circle/disc
 

@@ -1,12 +1,14 @@
 ---
 id: oksün
 slug: oksün
-title: oksün
+title: OKSÜN
 sidebar_position: 5
 hoverText: meat/muscle § Noun
 ---
 
-### meat/muscle § Noun
+### oksün
+
+*meat/muscle* **§** Noun
 
 **Verb**: to be meat/muscle
 

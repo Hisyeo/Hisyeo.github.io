@@ -1,12 +1,14 @@
 ---
 id: dumoko
 slug: dumoko
-title: dumoko
+title: DUMOKO
 sidebar_position: 453
 hoverText: explosion/blast § Noun
 ---
 
-### explosion/blast § Noun
+### dumoko
+
+*explosion/blast* **§** Noun
 
 **Verb**: to be an explosion/blast
 

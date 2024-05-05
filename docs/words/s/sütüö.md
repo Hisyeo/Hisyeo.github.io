@@ -1,12 +1,14 @@
 ---
 id: sütüö
 slug: sütüö
-title: sütüö
+title: SÜTÜÖ
 sidebar_position: 384
 hoverText: friend § Noun
 ---
 
-### friend § Noun
+### sütüö
+
+*friend* **§** Noun
 
 **Verb**: to be a friend
 

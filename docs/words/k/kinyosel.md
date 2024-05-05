@@ -1,12 +1,14 @@
 ---
 id: kinyosel
 slug: kinyosel
-title: kinyosel
+title: KİNYOSEL
 sidebar_position: 193
 hoverText: chemical § Noun
 ---
 
-### chemical § Noun
+### kinyosel
+
+*chemical* **§** Noun
 
 **Verb**: to be a chemical
 

@@ -1,12 +1,14 @@
 ---
 id: kökokü
 slug: kökokü
-title: kökokü
+title: KÖKOKÜ
 sidebar_position: 160
 hoverText: skeleton § Noun
 ---
 
-### skeleton § Noun
+### kökokü
+
+*skeleton* **§** Noun
 
 **Verb**: to be a frame/skeleton
 

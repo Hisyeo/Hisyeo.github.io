@@ -1,12 +1,14 @@
 ---
 id: hölmo
 slug: hölmo
-title: hölmo
+title: HÖLMO
 sidebar_position: 121
 hoverText: dream § Noun
 ---
 
-### dream § Noun
+### hölmo
+
+*dream* **§** Noun
 
 **Verb**: to be a dream
 

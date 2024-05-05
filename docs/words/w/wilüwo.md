@@ -1,12 +1,14 @@
 ---
 id: wilüwo
 slug: wilüwo
-title: wilüwo
+title: WİLÜWO
 sidebar_position: 725
 hoverText: value/cost § Noun
 ---
 
-### value/cost § Noun
+### wilüwo
+
+*value/cost* **§** Noun
 
 **Verb**: to be a value/unit/cost
 

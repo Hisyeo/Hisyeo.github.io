@@ -1,12 +1,14 @@
 ---
 id: pügot
 slug: pügot
-title: pügot
+title: PÜGOT
 sidebar_position: 553
 hoverText: heavy § Modifier
 ---
 
-### heavy § Modifier
+### pügot
+
+*heavy* **§** Modifier
 
 **Verb**: to be heavy
 

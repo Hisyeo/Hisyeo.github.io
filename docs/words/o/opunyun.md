@@ -1,12 +1,14 @@
 ---
 id: opunyun
 slug: opunyun
-title: opunyun
+title: OPUNYUN
 sidebar_position: 13
 hoverText: easy § Modifier
 ---
 
-### easy § Modifier
+### opunyun
+
+*easy* **§** Modifier
 
 **Verb**: to be easy/simple
 

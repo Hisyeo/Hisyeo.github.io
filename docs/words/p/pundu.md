@@ -1,12 +1,14 @@
 ---
 id: pundu
 slug: pundu
-title: pundu
+title: PUNDU
 sidebar_position: 551
 hoverText: closed § Modifier
 ---
 
-### closed § Modifier
+### pundu
+
+*closed* **§** Modifier
 
 **Verb**: to be closed
 

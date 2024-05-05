@@ -1,12 +1,14 @@
 ---
 id: nupuso
 slug: nupuso
-title: nupuso
+title: NUPUSO
 sidebar_position: 693
 hoverText: wet § Modifier
 ---
 
-### wet § Modifier
+### nupuso
+
+*wet* **§** Modifier
 
 **Verb**: to be wet
 

@@ -1,12 +1,14 @@
 ---
 id: uklo
 slug: uklo
-title: uklo
+title: UKLO
 sidebar_position: 73
 hoverText: next § Modifier
 ---
 
-### next § Modifier
+### uklo
+
+*next* **§** Modifier
 
 **Verb**: to be next/coming (time)
 

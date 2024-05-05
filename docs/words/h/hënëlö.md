@@ -1,12 +1,14 @@
 ---
 id: hënëlö
 slug: hënëlö
-title: hënëlö
+title: HËNËLÖ
 sidebar_position: 125
 hoverText: gender § Noun
 ---
 
-### gender § Noun
+### hënëlö
+
+*gender* **§** Noun
 
 **Verb**: to be a gender
 

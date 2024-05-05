@@ -1,12 +1,14 @@
 ---
 id: xincüon
 slug: xincüon
-title: xincüon
+title: XİNCÜON
 sidebar_position: 420
 hoverText: shape/form § Noun
 ---
 
-### shape/form § Noun
+### xincüon
+
+*shape/form* **§** Noun
 
 **Verb**: to be a shape/form
 

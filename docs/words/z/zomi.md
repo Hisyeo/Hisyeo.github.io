@@ -1,12 +1,14 @@
 ---
 id: zomi
 slug: zomi
-title: zomi
+title: ZOMİ
 sidebar_position: 467
 hoverText: society/culture § Noun
 ---
 
-### society/culture § Noun
+### zomi
+
+*society/culture* **§** Noun
 
 **Verb**: to be a society/culture
 

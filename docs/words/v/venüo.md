@@ -1,12 +1,14 @@
 ---
 id: venüo
 slug: venüo
-title: venüo
+title: VENÜO
 sidebar_position: 578
 hoverText: country/region § Noun
 ---
 
-### country/region § Noun
+### venüo
+
+*country/region* **§** Noun
 
 **Verb**: to be a country/region/territory
 

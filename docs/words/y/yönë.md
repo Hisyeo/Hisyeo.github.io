@@ -1,12 +1,14 @@
 ---
 id: yönë
 slug: yönë
-title: yönë
+title: YÖNË
 sidebar_position: 789
 hoverText: caprine § Noun
 ---
 
-### caprine § Noun
+### yönë
+
+*caprine* **§** Noun
 
 **Verb**: to be a goat/sheep/caprine
 

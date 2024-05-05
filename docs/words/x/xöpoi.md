@@ -1,12 +1,14 @@
 ---
 id: xöpoi
 slug: xöpoi
-title: xöpoi
+title: XÖPOİ
 sidebar_position: 403
 hoverText: salty § Modifier
 ---
 
-### salty § Modifier
+### xöpoi
+
+*salty* **§** Modifier
 
 **Verb**: to be salty
 

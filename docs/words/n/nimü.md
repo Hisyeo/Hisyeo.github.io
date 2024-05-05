@@ -1,12 +1,14 @@
 ---
 id: nimü
 slug: nimü
-title: nimü
+title: NİMÜ
 sidebar_position: 688
 hoverText: you § Pronoun
 ---
 
-### you § Pronoun
+### nimü
+
+*you* **§** Pronoun
 
 **Verb**: to be you
 

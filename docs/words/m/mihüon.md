@@ -1,12 +1,14 @@
 ---
 id: mihüon
 slug: mihüon
-title: mihüon
+title: MİHÜON
 sidebar_position: 636
 hoverText: beige § Modifier
 ---
 
-### beige § Modifier
+### mihüon
+
+*beige* **§** Modifier
 
 **Verb**: to be beige
 

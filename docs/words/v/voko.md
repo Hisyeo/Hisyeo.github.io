@@ -1,12 +1,14 @@
 ---
 id: voko
 slug: voko
-title: voko
+title: VOKO
 sidebar_position: 565
 hoverText: causative agentive verb noun particle § Grammar
 ---
 
-### causative agentive verb noun particle § Grammar
+### voko
+
+*causative agentive verb noun particle* **§** Grammar
 
 **Verb**: -
 

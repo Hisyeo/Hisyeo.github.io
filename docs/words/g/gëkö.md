@@ -1,12 +1,14 @@
 ---
 id: gëkö
 slug: gëkö
-title: gëkö
+title: GËKÖ
 sidebar_position: 233
 hoverText: soil/dirt § Noun
 ---
 
-### soil/dirt § Noun
+### gëkö
+
+*soil/dirt* **§** Noun
 
 **Verb**: to be soil/dirt
 

@@ -1,12 +1,14 @@
 ---
 id: zuko
 slug: zuko
-title: zuko
+title: ZUKO
 sidebar_position: 491
 hoverText: bag § Noun
 ---
 
-### bag § Noun
+### zuko
+
+*bag* **§** Noun
 
 **Verb**: to be a bag
 

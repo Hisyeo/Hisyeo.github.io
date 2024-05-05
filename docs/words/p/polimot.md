@@ -1,12 +1,14 @@
 ---
 id: polimot
 slug: polimot
-title: polimot
+title: POLİMOT
 sidebar_position: 511
 hoverText: voluminous § Modifier
 ---
 
-### voluminous § Modifier
+### polimot
+
+*voluminous* **§** Modifier
 
 **Verb**: to be voluminous
 

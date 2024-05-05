@@ -1,12 +1,14 @@
 ---
 id: pole
 slug: pole
-title: pole
+title: POLE
 sidebar_position: 510
 hoverText: 12 twelve § Quantity
 ---
 
-### 12 twelve § Quantity
+### pole
+
+*12 twelve* **§** Quantity
 
 **Verb**: to be twelve
 

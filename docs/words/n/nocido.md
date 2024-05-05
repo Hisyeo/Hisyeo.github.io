@@ -1,12 +1,14 @@
 ---
 id: nocido
 slug: nocido
-title: nocido
+title: NOCİDO
 sidebar_position: 661
 hoverText: to miss (missable entity) § Verb
 ---
 
-### to miss (missable entity) § Verb
+### nocido
+
+*to miss (missable entity)* **§** Verb
 
 **Verb**: to miss/waste
 

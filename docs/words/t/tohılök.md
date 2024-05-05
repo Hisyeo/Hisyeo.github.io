@@ -1,12 +1,14 @@
 ---
 id: tohılök
 slug: tohılök
-title: tohılök
+title: TOHILÖK
 sidebar_position: 252
 hoverText: cone § Noun
 ---
 
-### cone § Noun
+### tohılök
+
+*cone* **§** Noun
 
 **Verb**: to be a cone
 

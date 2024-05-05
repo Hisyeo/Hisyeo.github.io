@@ -1,12 +1,14 @@
 ---
 id: xünyu
 slug: xünyu
-title: xünyu
+title: XÜNYU
 sidebar_position: 427
 hoverText: 00 zero § Quantity
 ---
 
-### 00 zero § Quantity
+### xünyu
+
+*00 zero* **§** Quantity
 
 **Verb**: to be zero
 

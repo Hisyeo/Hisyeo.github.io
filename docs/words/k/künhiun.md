@@ -1,12 +1,14 @@
 ---
 id: künhiun
 slug: künhiun
-title: künhiun
+title: KÜNHİUN
 sidebar_position: 208
 hoverText: step/pace § Noun
 ---
 
-### step/pace § Noun
+### künhiun
+
+*step/pace* **§** Noun
 
 **Verb**: to be a step/pace
 

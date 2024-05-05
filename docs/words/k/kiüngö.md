@@ -1,12 +1,14 @@
 ---
 id: kiüngö
 slug: kiüngö
-title: kiüngö
+title: KİÜNGÖ
 sidebar_position: 185
 hoverText: spice § Noun
 ---
 
-### spice § Noun
+### kiüngö
+
+*spice* **§** Noun
 
 **Verb**: to be a spice
 

@@ -1,12 +1,14 @@
 ---
 id: voüt
 slug: voüt
-title: voüt
+title: VOÜT
 sidebar_position: 563
 hoverText: error § Noun
 ---
 
-### error § Noun
+### voüt
+
+*error* **§** Noun
 
 **Verb**: to be an error/mistake/defect
 

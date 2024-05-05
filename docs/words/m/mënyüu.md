@@ -1,12 +1,14 @@
 ---
 id: mënyüu
 slug: mënyüu
-title: mënyüu
+title: MËNYÜU
 sidebar_position: 630
 hoverText: offspring § Noun
 ---
 
-### offspring § Noun
+### mënyüu
+
+*offspring* **§** Noun
 
 **Verb**: to be a child/offspring
 

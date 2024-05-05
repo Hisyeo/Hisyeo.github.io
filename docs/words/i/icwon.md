@@ -1,12 +1,14 @@
 ---
 id: icwon
 slug: icwon
-title: icwon
+title: İCWON
 sidebar_position: 61
 hoverText: to inherit (inheritance) § Verb
 ---
 
-### to inherit (inheritance) § Verb
+### icwon
+
+*to inherit (inheritance)* **§** Verb
 
 **Verb**: to inherit
 

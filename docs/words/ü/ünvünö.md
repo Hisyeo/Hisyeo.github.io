@@ -1,12 +1,14 @@
 ---
 id: ünvünö
 slug: ünvünö
-title: ünvünö
+title: ÜNVÜNÖ
 sidebar_position: 95
 hoverText: vegetable § Noun
 ---
 
-### vegetable § Noun
+### ünvünö
+
+*vegetable* **§** Noun
 
 **Verb**: to be a vegetable
 

@@ -1,12 +1,14 @@
 ---
 id: güvöxë
 slug: güvöxë
-title: güvöxë
+title: GÜVÖXË
 sidebar_position: 243
 hoverText: irony/sarcasm § Noun
 ---
 
-### irony/sarcasm § Noun
+### güvöxë
+
+*irony/sarcasm* **§** Noun
 
 **Verb**: to be an irony/sarcasm
 

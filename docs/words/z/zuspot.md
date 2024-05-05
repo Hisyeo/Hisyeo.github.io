@@ -1,12 +1,14 @@
 ---
 id: zuspot
 slug: zuspot
-title: zuspot
+title: ZUSPOT
 sidebar_position: 492
 hoverText: emotion § Noun
 ---
 
-### emotion § Noun
+### zuspot
+
+*emotion* **§** Noun
 
 **Verb**: to be an emotion
 

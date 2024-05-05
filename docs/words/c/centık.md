@@ -1,12 +1,14 @@
 ---
 id: centık
 slug: centık
-title: centık
+title: CENTIK
 sidebar_position: 299
 hoverText: official/formal § Modifier
 ---
 
-### official/formal § Modifier
+### centık
+
+*official/formal* **§** Modifier
 
 **Verb**: to be official/formal
 

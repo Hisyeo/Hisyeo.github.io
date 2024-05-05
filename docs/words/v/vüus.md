@@ -1,12 +1,14 @@
 ---
 id: vüus
 slug: vüus
-title: vüus
+title: VÜUS
 sidebar_position: 599
 hoverText: wax § Noun
 ---
 
-### wax § Noun
+### vüus
+
+*wax* **§** Noun
 
 **Verb**: to be a wax
 

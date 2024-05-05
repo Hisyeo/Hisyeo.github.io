@@ -1,12 +1,14 @@
 ---
 id: kontol
 slug: kontol
-title: kontol
+title: KONTOL
 sidebar_position: 151
 hoverText: to sing/play (music) § Verb
 ---
 
-### to sing/play (music) § Verb
+### kontol
+
+*to sing/play (music)* **§** Verb
 
 **Verb**: to sing/play (instrument-wise)
 

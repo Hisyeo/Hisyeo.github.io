@@ -1,12 +1,14 @@
 ---
 id: xëpö
 slug: xëpö
-title: xëpö
+title: XËPÖ
 sidebar_position: 411
 hoverText: yellow § Modifier
 ---
 
-### yellow § Modifier
+### xëpö
+
+*yellow* **§** Modifier
 
 **Verb**: to be yellow
 

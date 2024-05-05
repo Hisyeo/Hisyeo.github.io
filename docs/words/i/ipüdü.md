@@ -1,12 +1,14 @@
 ---
 id: ipüdü
 slug: ipüdü
-title: ipüdü
+title: İPÜDÜ
 sidebar_position: 66
 hoverText: now § Modifier
 ---
 
-### now § Modifier
+### ipüdü
+
+*now* **§** Modifier
 
 **Verb**: to be the present/current (time)
 

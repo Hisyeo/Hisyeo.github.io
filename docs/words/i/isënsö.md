@@ -1,12 +1,14 @@
 ---
 id: isënsö
 slug: isënsö
-title: isënsö
+title: İSËNSÖ
 sidebar_position: 62
 hoverText: verb § Noun
 ---
 
-### verb § Noun
+### isënsö
+
+*verb* **§** Noun
 
 **Verb**: to be a verb
 

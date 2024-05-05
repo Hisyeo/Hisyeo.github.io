@@ -1,12 +1,14 @@
 ---
 id: yosten
 slug: yosten
-title: yosten
+title: YOSTEN
 sidebar_position: 778
 hoverText: to find (a discovery) § Verb
 ---
 
-### to find (a discovery) § Verb
+### yosten
+
+*to find (a discovery)* **§** Verb
 
 **Verb**: to find/discover
 

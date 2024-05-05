@@ -1,12 +1,14 @@
 ---
 id: yovük
 slug: yovük
-title: yovük
+title: YOVÜK
 sidebar_position: 780
 hoverText: pillow § Noun
 ---
 
-### pillow § Noun
+### yovük
+
+*pillow* **§** Noun
 
 **Verb**: to be a pillow/cushion
 

@@ -1,12 +1,14 @@
 ---
 id: püntüt
 slug: püntüt
-title: püntüt
+title: PÜNTÜT
 sidebar_position: 559
 hoverText: tail § Noun
 ---
 
-### tail § Noun
+### püntüt
+
+*tail* **§** Noun
 
 **Verb**: to be a tail
 

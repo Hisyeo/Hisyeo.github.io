@@ -1,12 +1,14 @@
 ---
 id: sönsüs
 slug: sönsüs
-title: sönsüs
+title: SÖNSÜS
 sidebar_position: 357
 hoverText: endless/infinite § Modifier
 ---
 
-### endless/infinite § Modifier
+### sönsüs
+
+*endless/infinite* **§** Modifier
 
 **Verb**: to be endless/infinite
 

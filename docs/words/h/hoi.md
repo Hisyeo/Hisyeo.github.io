@@ -1,12 +1,14 @@
 ---
 id: hoi
 slug: hoi
-title: hoi
+title: HOİ
 sidebar_position: 102
 hoverText: location/time marker (at) § Preposition
 ---
 
-### location/time marker (at) § Preposition
+### hoi
+
+*location/time marker (at)* **§** Preposition
 
 **Verb**: -
 

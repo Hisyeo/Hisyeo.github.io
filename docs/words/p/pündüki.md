@@ -1,12 +1,14 @@
 ---
 id: pündüki
 slug: pündüki
-title: pündüki
+title: PÜNDÜKİ
 sidebar_position: 560
 hoverText: gun § Noun
 ---
 
-### gun § Noun
+### pündüki
+
+*gun* **§** Noun
 
 **Verb**: to be a gun
 

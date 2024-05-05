@@ -1,12 +1,14 @@
 ---
 id: yınyünci
 slug: yınyünci
-title: yınyünci
+title: YINYÜNCİ
 sidebar_position: 792
 hoverText: modifier (adjective) § Noun
 ---
 
-### modifier (adjective) § Noun
+### yınyünci
+
+*modifier (adjective)* **§** Noun
 
 **Verb**: to be a modifier
 

@@ -1,12 +1,14 @@
 ---
 id: moskül
 slug: moskül
-title: moskül
+title: MOSKÜL
 sidebar_position: 609
 hoverText: male § Modifier
 ---
 
-### male § Modifier
+### moskül
+
+*male* **§** Modifier
 
 **Verb**: to be male/masculine
 

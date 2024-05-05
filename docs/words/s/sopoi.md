@@ -1,12 +1,14 @@
 ---
 id: sopoi
 slug: sopoi
-title: sopoi
+title: SOPOİ
 sidebar_position: 344
 hoverText: ceiling § Noun
 ---
 
-### ceiling § Noun
+### sopoi
+
+*ceiling* **§** Noun
 
 **Verb**: to be a ceiling
 

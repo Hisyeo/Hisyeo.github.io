@@ -1,12 +1,14 @@
 ---
 id: nosö
 slug: nosö
-title: nosö
+title: NOSÖ
 sidebar_position: 662
 hoverText: puzzle/mystery § Noun
 ---
 
-### puzzle/mystery § Noun
+### nosö
+
+*puzzle/mystery* **§** Noun
 
 **Verb**: to be a puzzle/mystery
 

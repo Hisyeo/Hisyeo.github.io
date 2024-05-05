@@ -1,12 +1,14 @@
 ---
 id: conwëpo
 slug: conwëpo
-title: conwëpo
+title: CONWËPO
 sidebar_position: 293
 hoverText: to manufacture (goods) § Verb
 ---
 
-### to manufacture (goods) § Verb
+### conwëpo
+
+*to manufacture (goods)* **§** Verb
 
 **Verb**: to manufacture
 

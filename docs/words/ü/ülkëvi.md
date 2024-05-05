@@ -1,12 +1,14 @@
 ---
 id: ülkëvi
 slug: ülkëvi
-title: ülkëvi
+title: ÜLKËVİ
 sidebar_position: 98
 hoverText: adamant/stubborn § Modifier
 ---
 
-### adamant/stubborn § Modifier
+### ülkëvi
+
+*adamant/stubborn* **§** Modifier
 
 **Verb**: to be adamant/stubborn
 

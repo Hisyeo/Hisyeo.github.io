@@ -1,12 +1,14 @@
 ---
 id: höncöü
 slug: höncöü
-title: höncöü
+title: HÖNCÖÜ
 sidebar_position: 117
 hoverText: herb § Noun
 ---
 
-### herb § Noun
+### höncöü
+
+*herb* **§** Noun
 
 **Verb**: to be an herb
 

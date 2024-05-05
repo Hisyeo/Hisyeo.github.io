@@ -1,12 +1,14 @@
 ---
 id: motüo
 slug: motüo
-title: motüo
+title: MOTÜO
 sidebar_position: 606
 hoverText: parent § Noun
 ---
 
-### parent § Noun
+### motüo
+
+*parent* **§** Noun
 
 **Verb**: to be a parent
 

@@ -1,12 +1,14 @@
 ---
 id: lis
 slug: lis
-title: lis
+title: LİS
 sidebar_position: 759
 hoverText: smooth § Modifier
 ---
 
-### smooth § Modifier
+### lis
+
+*smooth* **§** Modifier
 
 **Verb**: to be smooth/blunt
 

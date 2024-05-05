@@ -1,12 +1,14 @@
 ---
 id: müxi
 slug: müxi
-title: müxi
+title: MÜXİ
 sidebar_position: 652
 hoverText: arthropod/bug § Noun
 ---
 
-### arthropod/bug § Noun
+### müxi
+
+*arthropod/bug* **§** Noun
 
 **Verb**: to be a bug/insect/arthropod
 

@@ -1,12 +1,14 @@
 ---
 id: ispönxu
 slug: ispönxu
-title: ispönxu
+title: İSPÖNXU
 sidebar_position: 65
 hoverText: sponge § Noun
 ---
 
-### sponge § Noun
+### ispönxu
+
+*sponge* **§** Noun
 
 **Verb**: to be a sponge
 

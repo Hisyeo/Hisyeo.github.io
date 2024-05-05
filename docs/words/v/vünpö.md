@@ -1,12 +1,14 @@
 ---
 id: vünpö
 slug: vünpö
-title: vünpö
+title: VÜNPÖ
 sidebar_position: 604
 hoverText: to squeeze (squeezable entity) § Verb
 ---
 
-### to squeeze (squeezable entity) § Verb
+### vünpö
+
+*to squeeze (squeezable entity)* **§** Verb
 
 **Verb**: to clench/squeeze
 

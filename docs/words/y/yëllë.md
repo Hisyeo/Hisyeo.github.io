@@ -1,12 +1,14 @@
 ---
 id: yëllë
 slug: yëllë
-title: yëllë
+title: YËLLË
 sidebar_position: 791
 hoverText: problem § Noun
 ---
 
-### problem § Noun
+### yëllë
+
+*problem* **§** Noun
 
 **Verb**: to be a problem/affair
 

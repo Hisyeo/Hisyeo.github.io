@@ -1,12 +1,14 @@
 ---
 id: sodolun
 slug: sodolun
-title: sodolun
+title: SODOLUN
 sidebar_position: 342
 hoverText: normal § Modifier
 ---
 
-### normal § Modifier
+### sodolun
+
+*normal* **§** Modifier
 
 **Verb**: to be normal/ordinary/standard
 

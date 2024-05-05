@@ -1,12 +1,14 @@
 ---
 id: woküt
 slug: woküt
-title: woküt
+title: WOKÜT
 sidebar_position: 700
 hoverText: time § Noun
 ---
 
-### time § Noun
+### woküt
+
+*time* **§** Noun
 
 **Verb**: to be a time
 

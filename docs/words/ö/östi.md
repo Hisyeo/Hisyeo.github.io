@@ -1,12 +1,14 @@
 ---
 id: östi
 slug: östi
-title: östi
+title: ÖSTİ
 sidebar_position: 31
 hoverText: bone § Noun
 ---
 
-### bone § Noun
+### östi
+
+*bone* **§** Noun
 
 **Verb**: to be a bone
 

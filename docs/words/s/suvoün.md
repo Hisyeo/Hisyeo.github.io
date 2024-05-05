@@ -1,12 +1,14 @@
 ---
 id: suvoün
 slug: suvoün
-title: suvoün
+title: SUVOÜN
 sidebar_position: 379
 hoverText: soap § Noun
 ---
 
-### soap § Noun
+### suvoün
+
+*soap* **§** Noun
 
 **Verb**: to be soap
 

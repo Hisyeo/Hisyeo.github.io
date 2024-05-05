@@ -1,12 +1,14 @@
 ---
 id: yë
 slug: yë
-title: yë
+title: YË
 sidebar_position: 790
 hoverText: of § Grammar
 ---
 
-### of § Grammar
+### yë
+
+*of* **§** Grammar
 
 **Verb**: -
 

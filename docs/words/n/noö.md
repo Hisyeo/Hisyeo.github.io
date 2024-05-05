@@ -1,12 +1,14 @@
 ---
 id: noö
 slug: noö
-title: noö
+title: NOÖ
 sidebar_position: 657
 hoverText: wave § Noun
 ---
 
-### wave § Noun
+### noö
+
+*wave* **§** Noun
 
 **Verb**: to be a wave/undulation
 

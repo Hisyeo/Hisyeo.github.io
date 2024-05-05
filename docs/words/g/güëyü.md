@@ -1,12 +1,14 @@
 ---
 id: güëyü
 slug: güëyü
-title: güëyü
+title: GÜËYÜ
 sidebar_position: 240
 hoverText: eye § Noun
 ---
 
-### eye § Noun
+### güëyü
+
+*eye* **§** Noun
 
 **Verb**: to be an eye
 

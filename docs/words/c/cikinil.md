@@ -1,12 +1,14 @@
 ---
 id: cikinil
 slug: cikinil
-title: cikinil
+title: CİKİNİL
 sidebar_position: 315
 hoverText: ear § Noun
 ---
 
-### ear § Noun
+### cikinil
+
+*ear* **§** Noun
 
 **Verb**: to be an ear
 

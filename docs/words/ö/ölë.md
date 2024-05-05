@@ -1,12 +1,14 @@
 ---
 id: ölë
 slug: ölë
-title: ölë
+title: ÖLË
 sidebar_position: 41
 hoverText: experiencer/causee marker § Preposition
 ---
 
-### experiencer/causee marker § Preposition
+### ölë
+
+*experiencer/causee marker* **§** Preposition
 
 **Verb**: -
 

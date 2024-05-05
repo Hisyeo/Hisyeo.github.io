@@ -1,12 +1,14 @@
 ---
 id: pınlëö
 slug: pınlëö
-title: pınlëö
+title: PINLËÖ
 sidebar_position: 533
 hoverText: bay/golf § Noun
 ---
 
-### bay/golf § Noun
+### pınlëö
+
+*bay/golf* **§** Noun
 
 **Verb**: to be a bay/golf
 

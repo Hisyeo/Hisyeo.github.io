@@ -1,12 +1,14 @@
 ---
 id: tiü
 slug: tiü
-title: tiü
+title: TİÜ
 sidebar_position: 270
 hoverText: 05 five § Quantity
 ---
 
-### 05 five § Quantity
+### tiü
+
+*05 five* **§** Quantity
 
 **Verb**: to be five
 

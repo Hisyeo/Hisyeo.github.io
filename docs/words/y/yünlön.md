@@ -1,12 +1,14 @@
 ---
 id: yünlön
 slug: yünlön
-title: yünlön
+title: YÜNLÖN
 sidebar_position: 796
 hoverText: to forgive (a forgiveable entity) § Verb
 ---
 
-### to forgive (a forgiveable entity) § Verb
+### yünlön
+
+*to forgive (a forgiveable entity)* **§** Verb
 
 **Verb**: to forgive/excuse/pardon
 

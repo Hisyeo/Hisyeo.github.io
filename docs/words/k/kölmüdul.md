@@ -1,12 +1,14 @@
 ---
 id: kölmüdul
 slug: kölmüdul
-title: kölmüdul
+title: KÖLMÜDUL
 sidebar_position: 176
 hoverText: purchase § Noun
 ---
 
-### purchase § Noun
+### kölmüdul
+
+*purchase* **§** Noun
 
 **Verb**: to be a purchase
 

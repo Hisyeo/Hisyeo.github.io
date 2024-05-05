@@ -1,12 +1,14 @@
 ---
 id: wonkük
 slug: wonkük
-title: wonkük
+title: WONKÜK
 sidebar_position: 705
 hoverText: curved § Modifier
 ---
 
-### curved § Modifier
+### wonkük
+
+*curved* **§** Modifier
 
 **Verb**: to be curved
 

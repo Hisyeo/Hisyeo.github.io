@@ -1,12 +1,14 @@
 ---
 id: hülödëk
 slug: hülödëk
-title: hülödëk
+title: HÜLÖDËK
 sidebar_position: 144
 hoverText: waste § Noun
 ---
 
-### waste § Noun
+### hülödëk
+
+*waste* **§** Noun
 
 **Verb**: to be waste/garbage
 

@@ -1,12 +1,14 @@
 ---
 id: öntön
 slug: öntön
-title: öntön
+title: ÖNTÖN
 sidebar_position: 39
 hoverText: to wear (clothing) § Verb
 ---
 
-### to wear (clothing) § Verb
+### öntön
+
+*to wear (clothing)* **§** Verb
 
 **Verb**: to wear
 

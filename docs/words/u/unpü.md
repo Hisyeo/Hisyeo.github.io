@@ -1,12 +1,14 @@
 ---
 id: unpü
 slug: unpü
-title: unpü
+title: UNPÜ
 sidebar_position: 80
 hoverText: arrow § Noun
 ---
 
-### arrow § Noun
+### unpü
+
+*arrow* **§** Noun
 
 **Verb**: to be an arrow
 

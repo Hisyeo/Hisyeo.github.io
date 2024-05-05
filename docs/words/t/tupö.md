@@ -1,12 +1,14 @@
 ---
 id: tupö
 slug: tupö
-title: tupö
+title: TUPÖ
 sidebar_position: 278
 hoverText: spot/scar § Noun
 ---
 
-### spot/scar § Noun
+### tupö
+
+*spot/scar* **§** Noun
 
 **Verb**: spot/stain/scar
 

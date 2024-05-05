@@ -1,12 +1,14 @@
 ---
 id: hoös
 slug: hoös
-title: hoös
+title: HOÖS
 sidebar_position: 101
 hoverText: chaotic § Modifier
 ---
 
-### chaotic § Modifier
+### hoös
+
+*chaotic* **§** Modifier
 
 **Verb**: to be chaotic
 

@@ -1,12 +1,14 @@
 ---
 id: xovö
 slug: xovö
-title: xovö
+title: XOVÖ
 sidebar_position: 397
 hoverText: guts § Noun
 ---
 
-### guts § Noun
+### xovö
+
+*guts* **§** Noun
 
 **Verb**: to be guts/entrails/viscera
 

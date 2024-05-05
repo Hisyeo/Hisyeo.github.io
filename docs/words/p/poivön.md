@@ -1,12 +1,14 @@
 ---
 id: poivön
 slug: poivön
-title: poivön
+title: POİVÖN
 sidebar_position: 498
 hoverText: to emit (excreta) § Verb
 ---
 
-### to emit (excreta) § Verb
+### poivön
+
+*to emit (excreta)* **§** Verb
 
 **Verb**: to emit/eject/excrete
 

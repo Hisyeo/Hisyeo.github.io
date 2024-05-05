@@ -1,12 +1,14 @@
 ---
 id: xıcië
 slug: xıcië
-title: xıcië
+title: XICİË
 sidebar_position: 413
 hoverText: detail § Noun
 ---
 
-### detail § Noun
+### xıcië
+
+*detail* **§** Noun
 
 **Verb**: to be a detail
 

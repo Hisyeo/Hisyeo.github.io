@@ -1,12 +1,14 @@
 ---
 id: hülü
 slug: hülü
-title: hülü
+title: HÜLÜ
 sidebar_position: 145
 hoverText: grass § Noun
 ---
 
-### grass § Noun
+### hülü
+
+*grass* **§** Noun
 
 **Verb**: to be a ground cover plant
 

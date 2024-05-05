@@ -1,12 +1,14 @@
 ---
 id: pölutë
 slug: pölutë
-title: pölutë
+title: PÖLUTË
 sidebar_position: 520
 hoverText: foreign § Modifier
 ---
 
-### foreign § Modifier
+### pölutë
+
+*foreign* **§** Modifier
 
 **Verb**: to be foreign/exotic
 

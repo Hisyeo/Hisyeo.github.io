@@ -1,12 +1,14 @@
 ---
 id: hüdol
 slug: hüdol
-title: hüdol
+title: HÜDOL
 sidebar_position: 139
 hoverText: false § Modifier
 ---
 
-### false § Modifier
+### hüdol
+
+*false* **§** Modifier
 
 **Verb**: to be false/fake
 

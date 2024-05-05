@@ -1,12 +1,14 @@
 ---
 id: vonxin
 slug: vonxin
-title: vonxin
+title: VONXİN
 sidebar_position: 569
 hoverText: square/rectangle § Noun
 ---
 
-### square/rectangle § Noun
+### vonxin
+
+*square/rectangle* **§** Noun
 
 **Verb**: to be a square/rectangle
 

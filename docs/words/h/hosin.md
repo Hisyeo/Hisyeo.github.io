@@ -1,12 +1,14 @@
 ---
 id: hosin
 slug: hosin
-title: hosin
+title: HOSİN
 sidebar_position: 107
 hoverText: beautiful § Modifier
 ---
 
-### beautiful § Modifier
+### hosin
+
+*beautiful* **§** Modifier
 
 **Verb**: to be beautiful
 

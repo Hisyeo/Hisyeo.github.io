@@ -1,12 +1,14 @@
 ---
 id: küonxün
 slug: küonxün
-title: küonxün
+title: KÜONXÜN
 sidebar_position: 200
 hoverText: tolerant § Modifier
 ---
 
-### tolerant § Modifier
+### küonxün
+
+*tolerant* **§** Modifier
 
 **Verb**: to be tolerant
 

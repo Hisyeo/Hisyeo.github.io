@@ -1,12 +1,14 @@
 ---
 id: wik
 slug: wik
-title: wik
+title: WİK
 sidebar_position: 721
 hoverText: head § Noun
 ---
 
-### head § Noun
+### wik
+
+*head* **§** Noun
 
 **Verb**: to be a head
 

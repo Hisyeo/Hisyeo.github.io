@@ -1,12 +1,14 @@
 ---
 id: tolıyo
 slug: tolıyo
-title: tolıyo
+title: TOLIYO
 sidebar_position: 257
 hoverText: pasta § Noun
 ---
 
-### pasta § Noun
+### tolıyo
+
+*pasta* **§** Noun
 
 **Verb**: to be pasta
 

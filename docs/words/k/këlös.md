@@ -1,12 +1,14 @@
 ---
 id: këlös
 slug: këlös
-title: këlös
+title: KËLÖS
 sidebar_position: 181
 hoverText: weather § Noun
 ---
 
-### weather § Noun
+### këlös
+
+*weather* **§** Noun
 
 **Verb**: to be the weather
 

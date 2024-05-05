@@ -1,12 +1,14 @@
 ---
 id: öpok
 slug: öpok
-title: öpok
+title: ÖPOK
 sidebar_position: 34
 hoverText: opaque § Modifier
 ---
 
-### opaque § Modifier
+### öpok
+
+*opaque* **§** Modifier
 
 **Verb**: to be opaque
 

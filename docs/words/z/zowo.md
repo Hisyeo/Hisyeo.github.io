@@ -1,12 +1,14 @@
 ---
 id: zowo
 slug: zowo
-title: zowo
+title: ZOWO
 sidebar_position: 471
 hoverText: dog § Noun
 ---
 
-### dog § Noun
+### zowo
+
+*dog* **§** Noun
 
 **Verb**: to be a dog/canine
 

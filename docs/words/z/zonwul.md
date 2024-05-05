@@ -1,12 +1,14 @@
 ---
 id: zonwul
 slug: zonwul
-title: zonwul
+title: ZONWUL
 sidebar_position: 470
 hoverText: animal § Noun
 ---
 
-### animal § Noun
+### zonwul
+
+*animal* **§** Noun
 
 **Verb**: to be an animal
 

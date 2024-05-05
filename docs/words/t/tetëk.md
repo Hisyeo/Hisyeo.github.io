@@ -1,12 +1,14 @@
 ---
 id: tetëk
 slug: tetëk
-title: tetëk
+title: TETËK
 sidebar_position: 264
 hoverText: breast/chest § Noun
 ---
 
-### breast/chest § Noun
+### tetëk
+
+*breast/chest* **§** Noun
 
 **Verb**: to be a breast/chest
 

@@ -1,12 +1,14 @@
 ---
 id: hünsık
 slug: hünsık
-title: hünsık
+title: HÜNSIK
 sidebar_position: 141
 hoverText: red § Modifier
 ---
 
-### red § Modifier
+### hünsık
+
+*red* **§** Modifier
 
 **Verb**: to be red
 

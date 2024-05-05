@@ -1,12 +1,14 @@
 ---
 id: zixitü
 slug: zixitü
-title: zixitü
+title: ZİXİTÜ
 sidebar_position: 487
 hoverText: finger/toe § Noun
 ---
 
-### finger/toe § Noun
+### zixitü
+
+*finger/toe* **§** Noun
 
 **Verb**: to be a finger/toe/digit
 

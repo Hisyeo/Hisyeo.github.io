@@ -1,12 +1,14 @@
 ---
 id: xevizec
 slug: xevizec
-title: xevizec
+title: XEVİZEC
 sidebar_position: 408
 hoverText: to predict (a prediction) § Verb
 ---
 
-### to predict (a prediction) § Verb
+### xevizec
+
+*to predict (a prediction)* **§** Verb
 
 **Verb**: to predict
 

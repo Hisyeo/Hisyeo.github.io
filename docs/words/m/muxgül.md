@@ -1,12 +1,14 @@
 ---
 id: muxgül
 slug: muxgül
-title: muxgül
+title: MUXGÜL
 sidebar_position: 642
 hoverText: occupied/engaged/busy § Modifier
 ---
 
-### occupied/engaged/busy § Modifier
+### muxgül
+
+*occupied/engaged/busy* **§** Modifier
 
 **Verb**: to be occupied/engaged/busy
 

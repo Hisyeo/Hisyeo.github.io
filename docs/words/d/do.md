@@ -1,12 +1,14 @@
 ---
 id: do
 slug: do
-title: do
+title: DO
 sidebar_position: 428
 hoverText: relative clause verb particle § Grammar
 ---
 
-### relative clause verb particle § Grammar
+### do
+
+*relative clause verb particle* **§** Grammar
 
 **Verb**: -
 

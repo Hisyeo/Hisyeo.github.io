@@ -1,12 +1,14 @@
 ---
 id: tönkö
 slug: tönkö
-title: tönkö
+title: TÖNKÖ
 sidebar_position: 263
 hoverText: hurting/suffering § Modifier
 ---
 
-### hurting/suffering § Modifier
+### tönkö
+
+*hurting/suffering* **§** Modifier
 
 **Verb**: to be hurting/suffering
 

@@ -1,12 +1,14 @@
 ---
 id: didözü
 slug: didözü
-title: didözü
+title: DİDÖZÜ
 sidebar_position: 445
 hoverText: neutral § Modifier
 ---
 
-### neutral § Modifier
+### didözü
+
+*neutral* **§** Modifier
 
 **Verb**: to be neutral
 

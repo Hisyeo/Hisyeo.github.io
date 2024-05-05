@@ -1,12 +1,14 @@
 ---
 id: zütö
 slug: zütö
-title: zütö
+title: ZÜTÖ
 sidebar_position: 494
 hoverText: to regret (a regret) § Verb
 ---
 
-### to regret (a regret) § Verb
+### zütö
+
+*to regret (a regret)* **§** Verb
 
 **Verb**: to regret/symphasize
 

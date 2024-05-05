@@ -1,12 +1,14 @@
 ---
 id: künonti
 slug: künonti
-title: künonti
+title: KÜNONTİ
 sidebar_position: 207
 hoverText: communication § Noun
 ---
 
-### communication § Noun
+### künonti
+
+*communication* **§** Noun
 
 **Verb**: to be a communication
 

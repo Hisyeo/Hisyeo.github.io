@@ -1,12 +1,14 @@
 ---
 id: hölük
 slug: hölük
-title: hölük
+title: HÖLÜK
 sidebar_position: 120
 hoverText: to pump (a pumpable entity) § Noun
 ---
 
-### to pump (a pumpable entity) § Noun
+### hölük
+
+*to pump (a pumpable entity)* **§** Noun
 
 **Verb**: to pump
 

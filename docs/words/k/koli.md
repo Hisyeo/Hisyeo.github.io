@@ -1,12 +1,14 @@
 ---
 id: koli
 slug: koli
-title: koli
+title: KOLİ
 sidebar_position: 158
 hoverText: down § Noun
 ---
 
-### down § Noun
+### koli
+
+*down* **§** Noun
 
 **Verb**: to be the bottom/below region
 

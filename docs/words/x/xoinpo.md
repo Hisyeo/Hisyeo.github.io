@@ -1,12 +1,14 @@
 ---
 id: xoinpo
 slug: xoinpo
-title: xoinpo
+title: XOİNPO
 sidebar_position: 391
 hoverText: seeming § Modifier
 ---
 
-### seeming § Modifier
+### xoinpo
+
+*seeming* **§** Modifier
 
 **Verb**: to seemingly be
 

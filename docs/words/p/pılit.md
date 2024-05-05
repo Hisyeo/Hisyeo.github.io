@@ -1,12 +1,14 @@
 ---
 id: pılit
 slug: pılit
-title: pılit
+title: PILİT
 sidebar_position: 534
 hoverText: sticky § Modifier
 ---
 
-### sticky § Modifier
+### pılit
+
+*sticky* **§** Modifier
 
 **Verb**: to be sticky
 

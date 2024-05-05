@@ -1,12 +1,14 @@
 ---
 id: kocko
 slug: kocko
-title: kocko
+title: KOCKO
 sidebar_position: 148
 hoverText: rough § Modifier
 ---
 
-### rough § Modifier
+### kocko
+
+*rough* **§** Modifier
 
 **Verb**: to be rough
 

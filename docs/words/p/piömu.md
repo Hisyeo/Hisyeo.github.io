@@ -1,12 +1,14 @@
 ---
 id: piömu
 slug: piömu
-title: piömu
+title: PİÖMU
 sidebar_position: 536
 hoverText: biome § Noun
 ---
 
-### biome § Noun
+### piömu
+
+*biome* **§** Noun
 
 **Verb**: to be a biome
 

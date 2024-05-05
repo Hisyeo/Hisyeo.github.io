@@ -1,12 +1,14 @@
 ---
 id: zöhün
 slug: zöhün
-title: zöhün
+title: ZÖHÜN
 sidebar_position: 475
 hoverText: nutrient § Noun
 ---
 
-### nutrient § Noun
+### zöhün
+
+*nutrient* **§** Noun
 
 **Verb**: to be a nutrient
 

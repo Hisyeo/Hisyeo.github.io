@@ -1,12 +1,14 @@
 ---
 id: popöun
 slug: popöun
-title: popöun
+title: POPÖUN
 sidebar_position: 506
 hoverText: system § Noun
 ---
 
-### system § Noun
+### popöun
+
+*system* **§** Noun
 
 **Verb**: to be a system
 

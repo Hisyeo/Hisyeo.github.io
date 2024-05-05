@@ -1,12 +1,14 @@
 ---
 id: nozi
 slug: nozi
-title: nozi
+title: NOZİ
 sidebar_position: 665
 hoverText: venom/poison § Noun
 ---
 
-### venom/poison § Noun
+### nozi
+
+*venom/poison* **§** Noun
 
 **Verb**: to be a venom/poison
 

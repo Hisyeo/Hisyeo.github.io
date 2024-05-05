@@ -1,12 +1,14 @@
 ---
 id: nepu
 slug: nepu
-title: nepu
+title: NEPU
 sidebar_position: 676
 hoverText: unlikely/rare § Modifier
 ---
 
-### unlikely/rare § Modifier
+### nepu
+
+*unlikely/rare* **§** Modifier
 
 **Verb**: to be unlikely/rare
 

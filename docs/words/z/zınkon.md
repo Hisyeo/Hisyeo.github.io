@@ -1,12 +1,14 @@
 ---
 id: zınkon
 slug: zınkon
-title: zınkon
+title: ZINKON
 sidebar_position: 483
 hoverText: door § Noun
 ---
 
-### door § Noun
+### zınkon
+
+*door* **§** Noun
 
 **Verb**: to be a door/gate
 

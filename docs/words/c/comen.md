@@ -1,12 +1,14 @@
 ---
 id: comen
 slug: comen
-title: comen
+title: COMEN
 sidebar_position: 290
 hoverText: lawn/meadow § Noun
 ---
 
-### lawn/meadow § Noun
+### comen
+
+*lawn/meadow* **§** Noun
 
 **Verb**: to be a lawn/meadow
 

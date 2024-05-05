@@ -1,12 +1,14 @@
 ---
 id: nonto
 slug: nonto
-title: nonto
+title: NONTO
 sidebar_position: 669
 hoverText: tear (of the eye) § Noun
 ---
 
-### tear (of the eye) § Noun
+### nonto
+
+*tear (of the eye)* **§** Noun
 
 **Verb**: to be a tear
 

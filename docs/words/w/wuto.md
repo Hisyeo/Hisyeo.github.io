@@ -1,12 +1,14 @@
 ---
 id: wuto
 slug: wuto
-title: wuto
+title: WUTO
 sidebar_position: 727
 hoverText: month § Noun
 ---
 
-### month § Noun
+### wuto
+
+*month* **§** Noun
 
 **Verb**: to be a month
 

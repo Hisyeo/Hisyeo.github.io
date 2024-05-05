@@ -1,12 +1,14 @@
 ---
 id: lüko
 slug: lüko
-title: lüko
+title: LÜKO
 sidebar_position: 768
 hoverText: interrupted § Modifier
 ---
 
-### interrupted § Modifier
+### lüko
+
+*interrupted* **§** Modifier
 
 **Verb**: to be interrupted
 

@@ -1,12 +1,14 @@
 ---
 id: punxın
 slug: punxın
-title: punxın
+title: PUNXIN
 sidebar_position: 550
 hoverText: innate/native § Modifier
 ---
 
-### innate/native § Modifier
+### punxın
+
+*innate/native* **§** Modifier
 
 **Verb**: to be innate/native
 

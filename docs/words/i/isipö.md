@@ -1,12 +1,14 @@
 ---
 id: isipö
 slug: isipö
-title: isipö
+title: İSİPÖ
 sidebar_position: 63
 hoverText: claw § Noun
 ---
 
-### claw § Noun
+### isipö
+
+*claw* **§** Noun
 
 **Verb**: to be a claw/nail/hoof
 

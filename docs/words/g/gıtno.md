@@ -1,12 +1,14 @@
 ---
 id: gıtno
 slug: gıtno
-title: gıtno
+title: GITNO
 sidebar_position: 234
 hoverText: intermediate marker (between) § Preposition
 ---
 
-### intermediate marker (between) § Preposition
+### gıtno
+
+*intermediate marker (between)* **§** Preposition
 
 **Verb**: -
 

@@ -1,12 +1,14 @@
 ---
 id: onküol
 slug: onküol
-title: onküol
+title: ONKÜOL
 sidebar_position: 21
 hoverText: to hug (huggable entity) § Verb
 ---
 
-### to hug (huggable entity) § Verb
+### onküol
+
+*to hug (huggable entity)* **§** Verb
 
 **Verb**: to hug/embrace
 

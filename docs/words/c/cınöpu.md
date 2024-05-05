@@ -1,12 +1,14 @@
 ---
 id: cınöpu
 slug: cınöpu
-title: cınöpu
+title: CINÖPU
 sidebar_position: 309
 hoverText: vermilion § Modifier
 ---
 
-### vermilion § Modifier
+### cınöpu
+
+*vermilion* **§** Modifier
 
 **Verb**: to be vermilion
 

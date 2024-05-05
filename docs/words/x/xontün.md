@@ -1,12 +1,14 @@
 ---
 id: xontün
 slug: xontün
-title: xontün
+title: XONTÜN
 sidebar_position: 398
 hoverText: to provoke (provocable entity) § Verb
 ---
 
-### to provoke (provocable entity) § Verb
+### xontün
+
+*to provoke (provocable entity)* **§** Verb
 
 **Verb**: to provoke/harrass
 

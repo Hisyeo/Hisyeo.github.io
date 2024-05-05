@@ -1,12 +1,14 @@
 ---
 id: öni
 slug: öni
-title: öni
+title: ÖNİ
 sidebar_position: 37
 hoverText: agentive verb noun particle § Grammar
 ---
 
-### agentive verb noun particle § Grammar
+### öni
+
+*agentive verb noun particle* **§** Grammar
 
 **Verb**: -
 

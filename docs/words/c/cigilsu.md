@@ -1,12 +1,14 @@
 ---
 id: cigilsu
 slug: cigilsu
-title: cigilsu
+title: CİGİLSU
 sidebar_position: 316
 hoverText: treatment (medical) § Noun
 ---
 
-### treatment (medical) § Noun
+### cigilsu
+
+*treatment (medical)* **§** Noun
 
 **Verb**: to be a treatment
 

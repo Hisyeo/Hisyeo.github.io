@@ -1,12 +1,14 @@
 ---
 id: conzodo
 slug: conzodo
-title: conzodo
+title: CONZODO
 sidebar_position: 292
 hoverText: asleep § Modifier
 ---
 
-### asleep § Modifier
+### conzodo
+
+*asleep* **§** Modifier
 
 **Verb**: to be asleep
 

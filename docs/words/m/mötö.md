@@ -1,12 +1,14 @@
 ---
 id: mötö
 slug: mötö
-title: mötö
+title: MÖTÖ
 sidebar_position: 621
 hoverText: fire § Noun
 ---
 
-### fire § Noun
+### mötö
+
+*fire* **§** Noun
 
 **Verb**: to be fire
 

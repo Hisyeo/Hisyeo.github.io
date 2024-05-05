@@ -1,12 +1,14 @@
 ---
 id: luvono
 slug: luvono
-title: luvono
+title: LUVONO
 sidebar_position: 765
 hoverText: to ship/send (a package) § Verb
 ---
 
-### to ship/send (a package) § Verb
+### luvono
+
+*to ship/send (a package)* **§** Verb
 
 **Verb**: to ship/send
 

@@ -1,12 +1,14 @@
 ---
 id: ümomi
 slug: ümomi
-title: ümomi
+title: ÜMOMİ
 sidebar_position: 91
 hoverText: savory § Modifier
 ---
 
-### savory § Modifier
+### ümomi
+
+*savory* **§** Modifier
 
 **Verb**: to be savory
 

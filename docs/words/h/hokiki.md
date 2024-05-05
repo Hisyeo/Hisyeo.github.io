@@ -1,12 +1,14 @@
 ---
 id: hokiki
 slug: hokiki
-title: hokiki
+title: HOKİKİ
 sidebar_position: 104
 hoverText: authentic § Modifier
 ---
 
-### authentic § Modifier
+### hokiki
+
+*authentic* **§** Modifier
 
 **Verb**: to be authentic/true
 

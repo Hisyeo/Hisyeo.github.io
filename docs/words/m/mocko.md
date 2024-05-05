@@ -1,12 +1,14 @@
 ---
 id: mocko
 slug: mocko
-title: mocko
+title: MOCKO
 sidebar_position: 608
 hoverText: cat § Noun
 ---
 
-### cat § Noun
+### mocko
+
+*cat* **§** Noun
 
 **Verb**: to be a cat/feline
 

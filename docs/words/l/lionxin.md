@@ -1,12 +1,14 @@
 ---
 id: lionxin
 slug: lionxin
-title: lionxin
+title: LİONXİN
 sidebar_position: 755
 hoverText: conscientious § Modifier
 ---
 
-### conscientious § Modifier
+### lionxin
+
+*conscientious* **§** Modifier
 
 **Verb**: to be conscientious
 

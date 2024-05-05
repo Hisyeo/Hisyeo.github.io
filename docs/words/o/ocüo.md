@@ -1,12 +1,14 @@
 ---
 id: ocüo
 slug: ocüo
-title: ocüo
+title: OCÜO
 sidebar_position: 8
 hoverText: skin § Noun
 ---
 
-### skin § Noun
+### ocüo
+
+*skin* **§** Noun
 
 **Verb**: to be skin/hide
 

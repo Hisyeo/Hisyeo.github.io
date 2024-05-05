@@ -1,12 +1,14 @@
 ---
 id: köson
 slug: köson
-title: köson
+title: KÖSON
 sidebar_position: 164
 hoverText: to build (a construction) § Verb
 ---
 
-### to build (a construction) § Verb
+### köson
+
+*to build (a construction)* **§** Verb
 
 **Verb**: to build/construct
 

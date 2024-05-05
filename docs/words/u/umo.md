@@ -1,12 +1,14 @@
 ---
 id: umo
 slug: umo
-title: umo
+title: UMO
 sidebar_position: 77
 hoverText: person § Noun
 ---
 
-### person § Noun
+### umo
+
+*person* **§** Noun
 
 **Verb**: to be a person
 

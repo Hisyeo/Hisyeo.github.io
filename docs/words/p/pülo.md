@@ -1,12 +1,14 @@
 ---
 id: pülo
 slug: pülo
-title: pülo
+title: PÜLO
 sidebar_position: 561
 hoverText: brown § Modifier
 ---
 
-### brown § Modifier
+### pülo
+
+*brown* **§** Modifier
 
 **Verb**: to be brown
 

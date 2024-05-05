@@ -1,12 +1,14 @@
 ---
 id: köndodü
 slug: köndodü
-title: köndodü
+title: KÖNDODÜ
 sidebar_position: 171
 hoverText: to celebrate (a party) § Verb
 ---
 
-### to celebrate (a party) § Verb
+### köndodü
+
+*to celebrate (a party)* **§** Verb
 
 **Verb**: to celebrate
 

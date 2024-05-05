@@ -1,12 +1,14 @@
 ---
 id: mozikö
 slug: mozikö
-title: mozikö
+title: MOZİKÖ
 sidebar_position: 611
 hoverText: magical § Modifier
 ---
 
-### magical § Modifier
+### mozikö
+
+*magical* **§** Modifier
 
 **Verb**: to be magical
 

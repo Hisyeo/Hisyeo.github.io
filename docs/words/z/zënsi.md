@@ -1,12 +1,14 @@
 ---
 id: zënsi
 slug: zënsi
-title: zënsi
+title: ZËNSİ
 sidebar_position: 480
 hoverText: sexual § Modifier
 ---
 
-### sexual § Modifier
+### zënsi
+
+*sexual* **§** Modifier
 
 **Verb**: to be sexual
 

@@ -1,12 +1,14 @@
 ---
 id: otıkon
 slug: otıkon
-title: otıkon
+title: OTIKON
 sidebar_position: 7
 hoverText: excess § Quantity
 ---
 
-### excess § Quantity
+### otıkon
+
+*excess* **§** Quantity
 
 **Verb**: to be excessive/too much
 

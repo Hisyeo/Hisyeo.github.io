@@ -1,12 +1,14 @@
 ---
 id: zöi
 slug: zöi
-title: zöi
+title: ZÖİ
 sidebar_position: 474
 hoverText: blue § Modifier
 ---
 
-### blue § Modifier
+### zöi
+
+*blue* **§** Modifier
 
 **Verb**: to be blue
 

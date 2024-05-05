@@ -1,12 +1,14 @@
 ---
 id: zık
 slug: zık
-title: zık
+title: ZIK
 sidebar_position: 481
 hoverText: what § Pronoun
 ---
 
-### what § Pronoun
+### zık
+
+*what* **§** Pronoun
 
 **Verb**: to be what
 

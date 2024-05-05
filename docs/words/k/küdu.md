@@ -1,12 +1,14 @@
 ---
 id: küdu
 slug: küdu
-title: küdu
+title: KÜDU
 sidebar_position: 205
 hoverText: horse § Noun
 ---
 
-### horse § Noun
+### küdu
+
+*horse* **§** Noun
 
 **Verb**: to be a horse/equine
 

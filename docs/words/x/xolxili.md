@@ -1,12 +1,14 @@
 ---
 id: xolxili
 slug: xolxili
-title: xolxili
+title: XOLXİLİ
 sidebar_position: 402
 hoverText: teal § Modifier
 ---
 
-### teal § Modifier
+### xolxili
+
+*teal* **§** Modifier
 
 **Verb**: to be teal
 

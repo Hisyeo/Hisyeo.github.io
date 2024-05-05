@@ -1,12 +1,14 @@
 ---
 id: potyoto
 slug: potyoto
-title: potyoto
+title: POTYOTO
 sidebar_position: 502
 hoverText: responsible § Modifier
 ---
 
-### responsible § Modifier
+### potyoto
+
+*responsible* **§** Modifier
 
 **Verb**: to be responsible/liable
 

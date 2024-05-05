@@ -1,12 +1,14 @@
 ---
 id: yoküntik
 slug: yoküntik
-title: yoküntik
+title: YOKÜNTİK
 sidebar_position: 774
 hoverText: prize § Noun
 ---
 
-### prize § Noun
+### yoküntik
+
+*prize* **§** Noun
 
 **Verb**: to be a prize/reward
 

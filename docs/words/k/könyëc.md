@@ -1,12 +1,14 @@
 ---
 id: könyëc
 slug: könyëc
-title: könyëc
+title: KÖNYËC
 sidebar_position: 174
 hoverText: ending § Modifier
 ---
 
-### ending § Modifier
+### könyëc
+
+*ending* **§** Modifier
 
 **Verb**: to be ending
 

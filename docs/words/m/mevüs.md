@@ -1,12 +1,14 @@
 ---
 id: mevüs
 slug: mevüs
-title: mevüs
+title: MEVÜS
 sidebar_position: 626
 hoverText: safe § Modifier
 ---
 
-### safe § Modifier
+### mevüs
+
+*safe* **§** Modifier
 
 **Verb**: to be safe/protected
 

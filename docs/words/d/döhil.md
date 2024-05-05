@@ -1,12 +1,14 @@
 ---
 id: döhil
 slug: döhil
-title: döhil
+title: DÖHİL
 sidebar_position: 434
 hoverText: dirty § Modifier
 ---
 
-### dirty § Modifier
+### döhil
+
+*dirty* **§** Modifier
 
 **Verb**: to be dirty/polluted/soiled
 

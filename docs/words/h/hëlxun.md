@@ -1,12 +1,14 @@
 ---
 id: hëlxun
 slug: hëlxun
-title: hëlxun
+title: HËLXUN
 sidebar_position: 126
 hoverText: early § Modifier
 ---
 
-### early § Modifier
+### hëlxun
+
+*early* **§** Modifier
 
 **Verb**: to be early
 

@@ -1,12 +1,14 @@
 ---
 id: küngiyo
 slug: küngiyo
-title: küngiyo
+title: KÜNGİYO
 sidebar_position: 209
 hoverText: organization/enterprise § Noun
 ---
 
-### organization/enterprise § Noun
+### küngiyo
+
+*organization/enterprise* **§** Noun
 
 **Verb**: to be an organization/enterprise
 

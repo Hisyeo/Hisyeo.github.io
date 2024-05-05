@@ -1,12 +1,14 @@
 ---
 id: düuncit
 slug: düuncit
-title: düuncit
+title: DÜUNCİT
 sidebar_position: 455
 hoverText: brain/mind § Noun
 ---
 
-### brain/mind § Noun
+### düuncit
+
+*brain/mind* **§** Noun
 
 **Verb**: to be a brain/mind
 

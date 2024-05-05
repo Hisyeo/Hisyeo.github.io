@@ -1,12 +1,14 @@
 ---
 id: nodu
 slug: nodu
-title: nodu
+title: NODU
 sidebar_position: 664
 hoverText: tone § Noun
 ---
 
-### tone § Noun
+### nodu
+
+*tone* **§** Noun
 
 **Verb**: to be a tone
 

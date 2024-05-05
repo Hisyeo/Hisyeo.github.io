@@ -1,12 +1,14 @@
 ---
 id: öitun
 slug: öitun
-title: öitun
+title: ÖİTUN
 sidebar_position: 28
 hoverText: to vocalize (a vocalization) § Verb
 ---
 
-### to vocalize (a vocalization) § Verb
+### öitun
+
+*to vocalize (a vocalization)* **§** Verb
 
 **Verb**: to vocalize/utter
 

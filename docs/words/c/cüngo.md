@@ -1,12 +1,14 @@
 ---
 id: cüngo
 slug: cüngo
-title: cüngo
+title: CÜNGO
 sidebar_position: 332
 hoverText: to filter (filterable entity) § Verb
 ---
 
-### to filter (filterable entity) § Verb
+### cüngo
+
+*to filter (filterable entity)* **§** Verb
 
 **Verb**: to filter/sieve/winnow
 

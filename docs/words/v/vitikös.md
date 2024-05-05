@@ -1,12 +1,14 @@
 ---
 id: vitikös
 slug: vitikös
-title: vitikös
+title: VİTİKÖS
 sidebar_position: 588
 hoverText: western § Modifier
 ---
 
-### western § Modifier
+### vitikös
+
+*western* **§** Modifier
 
 **Verb**: to be western
 

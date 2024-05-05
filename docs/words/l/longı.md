@@ -1,12 +1,14 @@
 ---
 id: longı
 slug: longı
-title: longı
+title: LONGI
 sidebar_position: 738
 hoverText: color § Noun
 ---
 
-### color § Noun
+### longı
+
+*color* **§** Noun
 
 **Verb**: to be a color
 

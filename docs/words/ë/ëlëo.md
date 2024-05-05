@@ -1,12 +1,14 @@
 ---
 id: ëlëo
 slug: ëlëo
-title: ëlëo
+title: ËLËO
 sidebar_position: 53
 hoverText: floating § Modifier
 ---
 
-### floating § Modifier
+### ëlëo
+
+*floating* **§** Modifier
 
 **Verb**: to be floating
 

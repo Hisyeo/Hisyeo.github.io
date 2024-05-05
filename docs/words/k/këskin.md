@@ -1,12 +1,14 @@
 ---
 id: këskin
 slug: këskin
-title: këskin
+title: KËSKİN
 sidebar_position: 179
 hoverText: sharp § Modifier
 ---
 
-### sharp § Modifier
+### këskin
+
+*sharp* **§** Modifier
 
 **Verb**: to be sharp
 

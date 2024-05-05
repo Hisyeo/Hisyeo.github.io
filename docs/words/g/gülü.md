@@ -1,12 +1,14 @@
 ---
 id: gülü
 slug: gülü
-title: gülü
+title: GÜLÜ
 sidebar_position: 249
 hoverText: wound/injury § Noun
 ---
 
-### wound/injury § Noun
+### gülü
+
+*wound/injury* **§** Noun
 
 **Verb**: to be a wound/injury
 

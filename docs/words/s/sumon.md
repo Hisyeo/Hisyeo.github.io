@@ -1,12 +1,14 @@
 ---
 id: sumon
 slug: sumon
-title: sumon
+title: SUMON
 sidebar_position: 380
 hoverText: equal/same § Modifier
 ---
 
-### equal/same § Modifier
+### sumon
+
+*equal/same* **§** Modifier
 
 **Verb**: to be equal/the same
 

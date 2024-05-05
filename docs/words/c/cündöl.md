@@ -1,12 +1,14 @@
 ---
 id: cündöl
 slug: cündöl
-title: cündöl
+title: CÜNDÖL
 sidebar_position: 333
 hoverText: collision § Noun
 ---
 
-### collision § Noun
+### cündöl
+
+*collision* **§** Noun
 
 **Verb**: to be an impact/crash/collision
 

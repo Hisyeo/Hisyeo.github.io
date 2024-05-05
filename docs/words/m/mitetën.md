@@ -1,12 +1,14 @@
 ---
 id: mitetën
 slug: mitetën
-title: mitetën
+title: MİTETËN
 sidebar_position: 638
 hoverText: trivial § Modifier
 ---
 
-### trivial § Modifier
+### mitetën
+
+*trivial* **§** Modifier
 
 **Verb**: to be trivial/negligible
 

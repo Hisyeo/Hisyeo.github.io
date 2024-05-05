@@ -1,12 +1,14 @@
 ---
 id: gelmıs
 slug: gelmıs
-title: gelmıs
+title: GELMIS
 sidebar_position: 232
 hoverText: stretched § Modifier
 ---
 
-### stretched § Modifier
+### gelmıs
+
+*stretched* **§** Modifier
 
 **Verb**: to be stretched
 

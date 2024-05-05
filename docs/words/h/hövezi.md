@@ -1,12 +1,14 @@
 ---
 id: hövezi
 slug: hövezi
-title: hövezi
+title: HÖVEZİ
 sidebar_position: 116
 hoverText: bovine § Noun
 ---
 
-### bovine § Noun
+### hövezi
+
+*bovine* **§** Noun
 
 **Verb**: to be a cow/bovine
 

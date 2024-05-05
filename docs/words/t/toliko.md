@@ -1,12 +1,14 @@
 ---
 id: toliko
 slug: toliko
-title: toliko
+title: TOLİKO
 sidebar_position: 258
 hoverText: method § Noun
 ---
 
-### method § Noun
+### toliko
+
+*method* **§** Noun
 
 **Verb**: to be a method/process
 

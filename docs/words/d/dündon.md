@@ -1,12 +1,14 @@
 ---
 id: dündon
 slug: dündon
-title: dündon
+title: DÜNDON
 sidebar_position: 460
 hoverText: correct § Modifier
 ---
 
-### correct § Modifier
+### dündon
+
+*correct* **§** Modifier
 
 **Verb**: to be correct/right/accurate
 

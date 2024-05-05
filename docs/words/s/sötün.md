@@ -1,12 +1,14 @@
 ---
 id: sötün
 slug: sötün
-title: sötün
+title: SÖTÜN
 sidebar_position: 355
 hoverText: column § Noun
 ---
 
-### column § Noun
+### sötün
+
+*column* **§** Noun
 
 **Verb**: to be a column
 

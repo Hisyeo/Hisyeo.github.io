@@ -1,12 +1,14 @@
 ---
 id: lëkın
 slug: lëkın
-title: lëkın
+title: LËKIN
 sidebar_position: 752
 hoverText: but § Connector
 ---
 
-### but § Connector
+### lëkın
+
+*but* **§** Connector
 
 **Verb**: -
 

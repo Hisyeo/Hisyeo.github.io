@@ -1,12 +1,14 @@
 ---
 id: zësto
 slug: zësto
-title: zësto
+title: ZËSTO
 sidebar_position: 479
 hoverText: feat/achievement/heroic deed § Noun
 ---
 
-### feat/achievement/heroic deed § Noun
+### zësto
+
+*feat/achievement/heroic deed* **§** Noun
 
 **Verb**: to be a feat/achievement/heroic deed
 

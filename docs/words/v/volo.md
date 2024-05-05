@@ -1,12 +1,14 @@
 ---
 id: volo
 slug: volo
-title: volo
+title: VOLO
 sidebar_position: 571
 hoverText: atom § Noun
 ---
 
-### atom § Noun
+### volo
+
+*atom* **§** Noun
 
 **Verb**: to be a particle/atom
 

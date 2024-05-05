@@ -1,12 +1,14 @@
 ---
 id: imon
 slug: imon
-title: imon
+title: İMON
 sidebar_position: 68
 hoverText: to trust (a belief) § Verb
 ---
 
-### to trust (a belief) § Verb
+### imon
+
+*to trust (a belief)* **§** Verb
 
 **Verb**: to trust/believe
 

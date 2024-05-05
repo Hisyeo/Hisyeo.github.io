@@ -1,12 +1,14 @@
 ---
 id: nënko
 slug: nënko
-title: nënko
+title: NËNKO
 sidebar_position: 680
 hoverText: reason/cause marker (because of) § Preposition
 ---
 
-### reason/cause marker (because of) § Preposition
+### nënko
+
+*reason/cause marker (because of)* **§** Preposition
 
 **Verb**: -
 

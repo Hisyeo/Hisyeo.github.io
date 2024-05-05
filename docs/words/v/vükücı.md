@@ -1,12 +1,14 @@
 ---
 id: vükücı
 slug: vükücı
-title: vükücı
+title: VÜKÜCI
 sidebar_position: 600
 hoverText: revenge/vengeance § Noun
 ---
 
-### revenge/vengeance § Noun
+### vükücı
+
+*revenge/vengeance* **§** Noun
 
 **Verb**: to be a revenge/vengeance
 

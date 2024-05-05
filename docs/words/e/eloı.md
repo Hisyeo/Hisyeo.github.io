@@ -1,12 +1,14 @@
 ---
 id: eloı
 slug: eloı
-title: eloı
+title: ELOI
 sidebar_position: 44
 hoverText: boundary/border § Noun
 ---
 
-### boundary/border § Noun
+### eloı
+
+*boundary/border* **§** Noun
 
 **Verb**: to be a boundary/border
 

@@ -1,12 +1,14 @@
 ---
 id: külünun
 slug: külünun
-title: külünun
+title: KÜLÜNUN
 sidebar_position: 212
 hoverText: cage/kennel/jail/cell § Noun
 ---
 
-### cage/kennel/jail/cell § Noun
+### külünun
+
+*cage/kennel/jail/cell* **§** Noun
 
 **Verb**: to be a cage/kennel/jail/cell
 

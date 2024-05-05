@@ -1,12 +1,14 @@
 ---
 id: ximol
 slug: ximol
-title: ximol
+title: XİMOL
 sidebar_position: 418
 hoverText: left § Noun
 ---
 
-### left § Noun
+### ximol
+
+*left* **§** Noun
 
 **Verb**: to be the left (side)
 

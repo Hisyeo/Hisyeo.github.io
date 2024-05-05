@@ -1,12 +1,14 @@
 ---
 id: timiok
 slug: timiok
-title: timiok
+title: TİMİOK
 sidebar_position: 276
 hoverText: bird § Noun
 ---
 
-### bird § Noun
+### timiok
+
+*bird* **§** Noun
 
 **Verb**: to be a bird
 

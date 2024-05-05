@@ -1,12 +1,14 @@
 ---
 id: tülöno
 slug: tülöno
-title: tülöno
+title: TÜLÖNO
 sidebar_position: 285
 hoverText: comparison § Noun
 ---
 
-### comparison § Noun
+### tülöno
+
+*comparison* **§** Noun
 
 **Verb**: to be a comparison
 

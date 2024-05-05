@@ -1,12 +1,14 @@
 ---
 id: xük
 slug: xük
-title: xük
+title: XÜK
 sidebar_position: 423
 hoverText: sort/type § Noun
 ---
 
-### sort/type § Noun
+### xük
+
+*sort/type* **§** Noun
 
 **Verb**: to be a sort/type/category
 

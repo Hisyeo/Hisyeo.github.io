@@ -1,12 +1,14 @@
 ---
 id: si
 slug: si
-title: si
+title: Sİ
 sidebar_position: 370
 hoverText: perfect verb particle § Grammar
 ---
 
-### perfect verb particle § Grammar
+### si
+
+*perfect verb particle* **§** Grammar
 
 **Verb**: -
 

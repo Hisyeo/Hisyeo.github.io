@@ -1,12 +1,14 @@
 ---
 id: güexo
 slug: güexo
-title: güexo
+title: GÜEXO
 sidebar_position: 239
 hoverText: war § Noun
 ---
 
-### war § Noun
+### güexo
+
+*war* **§** Noun
 
 **Verb**: to be a war
 

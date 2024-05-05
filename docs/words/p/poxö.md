@@ -1,12 +1,14 @@
 ---
 id: poxö
 slug: poxö
-title: poxö
+title: POXÖ
 sidebar_position: 504
 hoverText: place § Noun
 ---
 
-### place § Noun
+### poxö
+
+*place* **§** Noun
 
 **Verb**: to be a place/location
 

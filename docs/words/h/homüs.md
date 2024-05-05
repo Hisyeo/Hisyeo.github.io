@@ -1,12 +1,14 @@
 ---
 id: homüs
 slug: homüs
-title: homüs
+title: HOMÜS
 sidebar_position: 111
 hoverText: quiet § Modifier
 ---
 
-### quiet § Modifier
+### homüs
+
+*quiet* **§** Modifier
 
 **Verb**: to be quiet
 

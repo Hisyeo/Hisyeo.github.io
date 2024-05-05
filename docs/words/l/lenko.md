@@ -1,12 +1,14 @@
 ---
 id: lenko
 slug: lenko
-title: lenko
+title: LENKO
 sidebar_position: 751
 hoverText: arm § Noun
 ---
 
-### arm § Noun
+### lenko
+
+*arm* **§** Noun
 
 **Verb**: to be an arm
 

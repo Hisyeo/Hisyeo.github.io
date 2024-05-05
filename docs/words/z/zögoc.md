@@ -1,12 +1,14 @@
 ---
 id: zögoc
 slug: zögoc
-title: zögoc
+title: ZÖGOC
 sidebar_position: 476
 hoverText: pitch/tar § Noun
 ---
 
-### pitch/tar § Noun
+### zögoc
+
+*pitch/tar* **§** Noun
 
 **Verb**: to be pitch/tar
 

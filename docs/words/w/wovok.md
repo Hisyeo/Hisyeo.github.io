@@ -1,12 +1,14 @@
 ---
 id: wovok
 slug: wovok
-title: wovok
+title: WOVOK
 sidebar_position: 704
 hoverText: to accept (a right) § Verb
 ---
 
-### to accept (a right) § Verb
+### wovok
+
+*to accept (a right)* **§** Verb
 
 **Verb**: to accept
 

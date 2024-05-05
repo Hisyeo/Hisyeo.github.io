@@ -1,12 +1,14 @@
 ---
 id: pëlëtë
 slug: pëlëtë
-title: pëlëtë
+title: PËLËTË
 sidebar_position: 529
 hoverText: wall § Noun
 ---
 
-### wall § Noun
+### pëlëtë
+
+*wall* **§** Noun
 
 **Verb**: to be a wall
 

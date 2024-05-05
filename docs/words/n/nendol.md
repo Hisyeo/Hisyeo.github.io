@@ -1,12 +1,14 @@
 ---
 id: nendol
 slug: nendol
-title: nendol
+title: NENDOL
 sidebar_position: 677
 hoverText: famous § Modifier
 ---
 
-### famous § Modifier
+### nendol
+
+*famous* **§** Modifier
 
 **Verb**: to be famous
 

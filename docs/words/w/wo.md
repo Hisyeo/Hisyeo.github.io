@@ -1,12 +1,14 @@
 ---
 id: wo
 slug: wo
-title: wo
+title: WO
 sidebar_position: 698
 hoverText: collapser/amender particle § Grammar
 ---
 
-### collapser/amender particle § Grammar
+### wo
+
+*collapser/amender particle* **§** Grammar
 
 **Verb**: -
 

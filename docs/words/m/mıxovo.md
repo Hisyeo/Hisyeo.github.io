@@ -1,12 +1,14 @@
 ---
 id: mıxovo
 slug: mıxovo
-title: mıxovo
+title: MIXOVO
 sidebar_position: 631
 hoverText: acidic § Modifier
 ---
 
-### acidic § Modifier
+### mıxovo
+
+*acidic* **§** Modifier
 
 **Verb**: to be acidic
 

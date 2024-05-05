@@ -1,12 +1,14 @@
 ---
 id: nëlö
 slug: nëlö
-title: nëlö
+title: NËLÖ
 sidebar_position: 681
 hoverText: black § Modifier
 ---
 
-### black § Modifier
+### nëlö
+
+*black* **§** Modifier
 
 **Verb**: to be black/dark
 

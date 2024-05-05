@@ -1,12 +1,14 @@
 ---
 id: cıvü
 slug: cıvü
-title: cıvü
+title: CIVÜ
 sidebar_position: 306
 hoverText: to pay (payment) § Verb
 ---
 
-### to pay (payment) § Verb
+### cıvü
+
+*to pay (payment)* **§** Verb
 
 **Verb**: to pay
 

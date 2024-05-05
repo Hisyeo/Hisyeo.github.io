@@ -1,12 +1,14 @@
 ---
 id: menekxe
 slug: menekxe
-title: menekxe
+title: MENEKXE
 sidebar_position: 627
 hoverText: violet § Modifier
 ---
 
-### violet § Modifier
+### menekxe
+
+*violet* **§** Modifier
 
 **Verb**: to be violet
 

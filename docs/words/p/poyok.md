@@ -1,12 +1,14 @@
 ---
 id: poyok
 slug: poyok
-title: poyok
+title: POYOK
 sidebar_position: 513
 hoverText: recent § Modifier
 ---
 
-### recent § Modifier
+### poyok
+
+*recent* **§** Modifier
 
 **Verb**: to be recent
 

@@ -1,12 +1,14 @@
 ---
 id: hiskünco
 slug: hiskünco
-title: hiskünco
+title: HİSKÜNCO
 sidebar_position: 130
 hoverText: language § Noun
 ---
 
-### language § Noun
+### hiskünco
+
+*language* **§** Noun
 
 **Verb**: to be a language
 

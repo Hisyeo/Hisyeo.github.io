@@ -1,12 +1,14 @@
 ---
 id: tülokon
 slug: tülokon
-title: tülokon
+title: TÜLOKON
 sidebar_position: 284
 hoverText: to adjudge (judgement) § Verb
 ---
 
-### to adjudge (judgement) § Verb
+### tülokon
+
+*to adjudge (judgement)* **§** Verb
 
 **Verb**: to adjudge/condemn
 

@@ -1,12 +1,14 @@
 ---
 id: elekë
 slug: elekë
-title: elekë
+title: ELEKË
 sidebar_position: 45
 hoverText: cheek § Noun
 ---
 
-### cheek § Noun
+### elekë
+
+*cheek* **§** Noun
 
 **Verb**: to be a cheek
 

@@ -1,12 +1,14 @@
 ---
 id: kötvüsu
 slug: kötvüsu
-title: kötvüsu
+title: KÖTVÜSU
 sidebar_position: 162
 hoverText: cephalapod § Noun
 ---
 
-### cephalapod § Noun
+### kötvüsu
+
+*cephalapod* **§** Noun
 
 **Verb**: to be a cephalapod
 

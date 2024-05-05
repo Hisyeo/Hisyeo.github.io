@@ -1,12 +1,14 @@
 ---
 id: towë
 slug: towë
-title: towë
+title: TOWË
 sidebar_position: 255
 hoverText: hair/fur/plumage § Noun
 ---
 
-### hair/fur/plumage § Noun
+### towë
+
+*hair/fur/plumage* **§** Noun
 
 **Verb**: to be hair/fur/plumage
 

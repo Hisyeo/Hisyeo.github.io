@@ -1,12 +1,14 @@
 ---
 id: süko
 slug: süko
-title: süko
+title: SÜKO
 sidebar_position: 383
 hoverText: to like (a preference) § Verb
 ---
 
-### to like (a preference) § Verb
+### süko
+
+*to like (a preference)* **§** Verb
 
 **Verb**: to like/enjoy
 

@@ -1,12 +1,14 @@
 ---
 id: inpoli
 slug: inpoli
-title: inpoli
+title: İNPOLİ
 sidebar_position: 70
 hoverText: flower § Noun
 ---
 
-### flower § Noun
+### inpoli
+
+*flower* **§** Noun
 
 **Verb**: to be a flower
 

@@ -1,12 +1,14 @@
 ---
 id: üsën
 slug: üsën
-title: üsën
+title: ÜSËN
 sidebar_position: 87
 hoverText: year § Noun
 ---
 
-### year § Noun
+### üsën
+
+*year* **§** Noun
 
 **Verb**: to be a year
 

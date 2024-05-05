@@ -1,12 +1,14 @@
 ---
 id: doinpi
 slug: doinpi
-title: doinpi
+title: DOİNPİ
 sidebar_position: 429
 hoverText: ticket/pass § Noun
 ---
 
-### ticket/pass § Noun
+### doinpi
+
+*ticket/pass* **§** Noun
 
 **Verb**: to be a ticket/pass
 

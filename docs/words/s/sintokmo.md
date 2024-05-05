@@ -1,12 +1,14 @@
 ---
 id: sintokmo
 slug: sintokmo
-title: sintokmo
+title: SİNTOKMO
 sidebar_position: 376
 hoverText: phrase § Noun
 ---
 
-### phrase § Noun
+### sintokmo
+
+*phrase* **§** Noun
 
 **Verb**: to be a phrase
 

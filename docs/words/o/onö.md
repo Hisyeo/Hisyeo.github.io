@@ -1,12 +1,14 @@
 ---
 id: onö
 slug: onö
-title: onö
+title: ONÖ
 sidebar_position: 19
 hoverText: distal demonstrative (yon/yonder) § Pronoun
 ---
 
-### distal demonstrative (yon/yonder) § Pronoun
+### onö
+
+*distal demonstrative (yon/yonder)* **§** Pronoun
 
 **Verb**: to be that over there
 

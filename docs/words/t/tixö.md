@@ -1,12 +1,14 @@
 ---
 id: tixö
 slug: tixö
-title: tixö
+title: TİXÖ
 sidebar_position: 275
 hoverText: threat § Noun
 ---
 
-### threat § Noun
+### tixö
+
+*threat* **§** Noun
 
 **Verb**: to be a threat
 

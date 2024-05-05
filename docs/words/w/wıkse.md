@@ -1,12 +1,14 @@
 ---
 id: wıkse
 slug: wıkse
-title: wıkse
+title: WIKSE
 sidebar_position: 718
 hoverText: belly § Noun
 ---
 
-### belly § Noun
+### wıkse
+
+*belly* **§** Noun
 
 **Verb**: to be a belly/stomach
 

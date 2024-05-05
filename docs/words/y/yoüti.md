@@ -1,12 +1,14 @@
 ---
 id: yoüti
 slug: yoüti
-title: yoüti
+title: YOÜTİ
 sidebar_position: 772
 hoverText: some/a few § Quantity
 ---
 
-### some/a few § Quantity
+### yoüti
+
+*some/a few* **§** Quantity
 
 **Verb**: to be some/a few
 

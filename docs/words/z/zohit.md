@@ -1,12 +1,14 @@
 ---
 id: zohit
 slug: zohit
-title: zohit
+title: ZOHİT
 sidebar_position: 463
 hoverText: to sew (sewable entity) § Verb
 ---
 
-### to sew (sewable entity) § Verb
+### zohit
+
+*to sew (sewable entity)* **§** Verb
 
 **Verb**: to sew/stitch
 

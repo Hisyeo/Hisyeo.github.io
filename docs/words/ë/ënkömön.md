@@ -1,12 +1,14 @@
 ---
 id: ënkömön
 slug: ënkömön
-title: ënkömön
+title: ËNKÖMÖN
 sidebar_position: 51
 hoverText: face § Noun
 ---
 
-### face § Noun
+### ënkömön
+
+*face* **§** Noun
 
 **Verb**: to be a face
 

@@ -1,12 +1,14 @@
 ---
 id: cüti
 slug: cüti
-title: cüti
+title: CÜTİ
 sidebar_position: 329
 hoverText: small § Modifier
 ---
 
-### small § Modifier
+### cüti
+
+*small* **§** Modifier
 
 **Verb**: to be small
 

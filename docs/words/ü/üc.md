@@ -1,12 +1,14 @@
 ---
 id: üc
 slug: üc
-title: üc
+title: ÜC
 sidebar_position: 84
 hoverText: evidence marker (or so) § Preposition
 ---
 
-### evidence marker (or so) § Preposition
+### üc
+
+*evidence marker (or so)* **§** Preposition
 
 **Verb**: -
 

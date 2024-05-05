@@ -1,12 +1,14 @@
 ---
 id: püdogo
 slug: püdogo
-title: püdogo
+title: PÜDOGO
 sidebar_position: 556
 hoverText: bubble § Noun
 ---
 
-### bubble § Noun
+### püdogo
+
+*bubble* **§** Noun
 
 **Verb**: to be a bubble
 

@@ -1,12 +1,14 @@
 ---
 id: nulto
 slug: nulto
-title: nulto
+title: NULTO
 sidebar_position: 696
 hoverText: wide § Modifier
 ---
 
-### wide § Modifier
+### nulto
+
+*wide* **§** Modifier
 
 **Verb**: to be wide
 

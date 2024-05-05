@@ -1,12 +1,14 @@
 ---
 id: mötowo
 slug: mötowo
-title: mötowo
+title: MÖTOWO
 sidebar_position: 620
 hoverText: content § Noun
 ---
 
-### content § Noun
+### mötowo
+
+*content* **§** Noun
 
 **Verb**: to be content
 

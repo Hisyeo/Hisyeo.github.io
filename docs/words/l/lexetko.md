@@ -1,12 +1,14 @@
 ---
 id: lexetko
 slug: lexetko
-title: lexetko
+title: LEXETKO
 sidebar_position: 749
 hoverText: lattice/array § Noun
 ---
 
-### lattice/array § Noun
+### lexetko
+
+*lattice/array* **§** Noun
 
 **Verb**: to be a lattice/array/grid
 

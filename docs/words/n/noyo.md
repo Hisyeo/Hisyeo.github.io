@@ -1,12 +1,14 @@
 ---
 id: noyo
 slug: noyo
-title: noyo
+title: NOYO
 sidebar_position: 670
 hoverText: I/me § Pronoun
 ---
 
-### I/me § Pronoun
+### noyo
+
+*I/me* **§** Pronoun
 
 **Verb**: to be me
 

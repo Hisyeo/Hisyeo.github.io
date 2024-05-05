@@ -1,12 +1,14 @@
 ---
 id: pioli
 slug: pioli
-title: pioli
+title: PİOLİ
 sidebar_position: 535
 hoverText: hello/goodbye § Grammar
 ---
 
-### hello/goodbye § Grammar
+### pioli
+
+*hello/goodbye* **§** Grammar
 
 **Verb**: -
 

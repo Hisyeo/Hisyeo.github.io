@@ -1,12 +1,14 @@
 ---
 id: sëki
 slug: sëki
-title: sëki
+title: SËKİ
 sidebar_position: 362
 hoverText: genitalia § Noun
 ---
 
-### genitalia § Noun
+### sëki
+
+*genitalia* **§** Noun
 
 **Verb**: to be genitalia
 

@@ -1,12 +1,14 @@
 ---
 id: vecko
 slug: vecko
-title: vecko
+title: VECKO
 sidebar_position: 577
 hoverText: liquid § Noun
 ---
 
-### liquid § Noun
+### vecko
+
+*liquid* **§** Noun
 
 **Verb**: to be a liquid
 

@@ -1,12 +1,14 @@
 ---
 id: vio
 slug: vio
-title: vio
+title: VİO
 sidebar_position: 586
 hoverText: instrument/manner marker (using/with) § Preposition
 ---
 
-### instrument/manner marker (using/with) § Preposition
+### vio
+
+*instrument/manner marker (using/with)* **§** Preposition
 
 **Verb**: -
 

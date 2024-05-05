@@ -1,12 +1,14 @@
 ---
 id: cıvulo
 slug: cıvulo
-title: cıvulo
+title: CIVULO
 sidebar_position: 305
 hoverText: dancing § Modifier
 ---
 
-### dancing § Modifier
+### cıvulo
+
+*dancing* **§** Modifier
 
 **Verb**: to be dancing
 

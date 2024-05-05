@@ -1,12 +1,14 @@
 ---
 id: wili
 slug: wili
-title: wili
+title: WİLİ
 sidebar_position: 724
 hoverText: awake § Modifier
 ---
 
-### awake § Modifier
+### wili
+
+*awake* **§** Modifier
 
 **Verb**: to be awake
 

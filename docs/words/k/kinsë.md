@@ -1,12 +1,14 @@
 ---
 id: kinsë
 slug: kinsë
-title: kinsë
+title: KİNSË
 sidebar_position: 192
 hoverText: 15 fifteen § Quantity
 ---
 
-### 15 fifteen § Quantity
+### kinsë
+
+*15 fifteen* **§** Quantity
 
 **Verb**: to be fifteen
 

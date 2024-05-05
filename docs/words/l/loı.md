@@ -1,12 +1,14 @@
 ---
 id: loı
 slug: loı
-title: loı
+title: LOI
 sidebar_position: 730
 hoverText: it/they § Pronoun
 ---
 
-### it/they § Pronoun
+### loı
+
+*it/they* **§** Pronoun
 
 **Verb**: to be them
 

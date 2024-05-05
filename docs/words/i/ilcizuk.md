@@ -1,12 +1,14 @@
 ---
 id: ilcizuk
 slug: ilcizuk
-title: ilcizuk
+title: İLCİZUK
 sidebar_position: 72
 hoverText: temporary § Modifier
 ---
 
-### temporary § Modifier
+### ilcizuk
+
+*temporary* **§** Modifier
 
 **Verb**: to be temporary/ephemeral
 

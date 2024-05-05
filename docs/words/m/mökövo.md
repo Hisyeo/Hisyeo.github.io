@@ -1,12 +1,14 @@
 ---
 id: mökövo
 slug: mökövo
-title: mökövo
+title: MÖKÖVO
 sidebar_position: 619
 hoverText: tube § Noun
 ---
 
-### tube § Noun
+### mökövo
+
+*tube* **§** Noun
 
 **Verb**: to be a tube/pipe
 

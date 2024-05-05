@@ -1,12 +1,14 @@
 ---
 id: pelisis
 slug: pelisis
-title: pelisis
+title: PELİSİS
 sidebar_position: 524
 hoverText: unsure § Modifier
 ---
 
-### unsure § Modifier
+### pelisis
+
+*unsure* **§** Modifier
 
 **Verb**: to be unsure/uncertain
 

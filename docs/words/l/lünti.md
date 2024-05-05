@@ -1,12 +1,14 @@
 ---
 id: lünti
 slug: lünti
-title: lünti
+title: LÜNTİ
 sidebar_position: 771
 hoverText: green § Modifier
 ---
 
-### green § Modifier
+### lünti
+
+*green* **§** Modifier
 
 **Verb**: to be green
 

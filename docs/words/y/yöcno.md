@@ -1,12 +1,14 @@
 ---
 id: yöcno
 slug: yöcno
-title: yöcno
+title: YÖCNO
 sidebar_position: 787
 hoverText: program/plan § Noun
 ---
 
-### program/plan § Noun
+### yöcno
+
+*program/plan* **§** Noun
 
 **Verb**: to be a program/plan
 

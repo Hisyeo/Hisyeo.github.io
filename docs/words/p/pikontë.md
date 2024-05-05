@@ -1,12 +1,14 @@
 ---
 id: pikontë
 slug: pikontë
-title: pikontë
+title: PİKONTË
 sidebar_position: 538
 hoverText: spicy § Modifier
 ---
 
-### spicy § Modifier
+### pikontë
+
+*spicy* **§** Modifier
 
 **Verb**: to be spicy
 

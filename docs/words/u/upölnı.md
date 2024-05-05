@@ -1,12 +1,14 @@
 ---
 id: upölnı
 slug: upölnı
-title: upölnı
+title: UPÖLNI
 sidebar_position: 76
 hoverText: resistant § Modifier
 ---
 
-### resistant § Modifier
+### upölnı
+
+*resistant* **§** Modifier
 
 **Verb**: to be resistant/defiant
 

@@ -1,12 +1,14 @@
 ---
 id: cënpö
 slug: cënpö
-title: cënpö
+title: CËNPÖ
 sidebar_position: 301
 hoverText: big § Modifier
 ---
 
-### big § Modifier
+### cënpö
+
+*big* **§** Modifier
 
 **Verb**: to be big
 

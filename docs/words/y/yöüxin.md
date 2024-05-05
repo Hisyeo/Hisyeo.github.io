@@ -1,12 +1,14 @@
 ---
 id: yöüxin
 slug: yöüxin
-title: yöüxin
+title: YÖÜXİN
 sidebar_position: 783
 hoverText: parade/procession § Noun
 ---
 
-### parade/procession § Noun
+### yöüxin
+
+*parade/procession* **§** Noun
 
 **Verb**: to be a parade/procession
 

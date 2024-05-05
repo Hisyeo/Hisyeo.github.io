@@ -1,12 +1,14 @@
 ---
 id: xëti
 slug: xëti
-title: xëti
+title: XËTİ
 sidebar_position: 410
 hoverText: 07 seven § Quantity
 ---
 
-### 07 seven § Quantity
+### xëti
+
+*07 seven* **§** Quantity
 
 **Verb**: to be seven
 

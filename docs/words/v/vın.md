@@ -1,12 +1,14 @@
 ---
 id: vın
 slug: vın
-title: vın
+title: VIN
 sidebar_position: 583
 hoverText: thing § Noun
 ---
 
-### thing § Noun
+### vın
+
+*thing* **§** Noun
 
 **Verb**: to be a thing
 

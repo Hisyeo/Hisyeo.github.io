@@ -1,12 +1,14 @@
 ---
 id: ütok
 slug: ütok
-title: ütok
+title: ÜTOK
 sidebar_position: 83
 hoverText: also § Modifier
 ---
 
-### also § Modifier
+### ütok
+
+*also* **§** Modifier
 
 **Verb**: to be included
 

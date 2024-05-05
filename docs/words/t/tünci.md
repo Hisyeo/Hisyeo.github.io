@@ -1,12 +1,14 @@
 ---
 id: tünci
 slug: tünci
-title: tünci
+title: TÜNCİ
 sidebar_position: 283
 hoverText: nonbinary/queer § Modifier
 ---
 
-### nonbinary/queer § Modifier
+### tünci
+
+*nonbinary/queer* **§** Modifier
 
 **Verb**: to be nonbinary/queer(?)
 

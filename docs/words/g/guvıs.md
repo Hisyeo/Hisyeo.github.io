@@ -1,12 +1,14 @@
 ---
 id: guvıs
 slug: guvıs
-title: guvıs
+title: GUVIS
 sidebar_position: 236
 hoverText: certain § Modifier
 ---
 
-### certain § Modifier
+### guvıs
+
+*certain* **§** Modifier
 
 **Verb**: to be certain/sure
 

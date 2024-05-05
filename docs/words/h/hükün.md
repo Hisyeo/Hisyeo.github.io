@@ -1,12 +1,14 @@
 ---
 id: hükün
 slug: hükün
-title: hükün
+title: HÜKÜN
 sidebar_position: 136
 hoverText: to order (a command) § Verb
 ---
 
-### to order (a command) § Verb
+### hükün
+
+*to order (a command)* **§** Verb
 
 **Verb**: to order/command
 

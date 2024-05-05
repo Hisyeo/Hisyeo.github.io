@@ -1,12 +1,14 @@
 ---
 id: vonmot
 slug: vonmot
-title: vonmot
+title: VONMOT
 sidebar_position: 570
 hoverText: absent/nonexistent § Modifier
 ---
 
-### absent/nonexistent § Modifier
+### vonmot
+
+*absent/nonexistent* **§** Modifier
 
 **Verb**: to be absent/nonexistent
 

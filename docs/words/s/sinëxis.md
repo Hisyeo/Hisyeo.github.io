@@ -1,12 +1,14 @@
 ---
 id: sinëxis
 slug: sinëxis
-title: sinëxis
+title: SİNËXİS
 sidebar_position: 375
 hoverText: constant § Modifier
 ---
 
-### constant § Modifier
+### sinëxis
+
+*constant* **§** Modifier
 
 **Verb**: to be constant/stable
 

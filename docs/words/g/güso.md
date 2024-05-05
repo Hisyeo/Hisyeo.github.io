@@ -1,12 +1,14 @@
 ---
 id: güso
 slug: güso
-title: güso
+title: GÜSO
 sidebar_position: 241
 hoverText: angry § Modifier
 ---
 
-### angry § Modifier
+### güso
+
+*angry* **§** Modifier
 
 **Verb**: to be angry
 

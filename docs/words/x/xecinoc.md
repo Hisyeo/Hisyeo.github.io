@@ -1,12 +1,14 @@
 ---
 id: xecinoc
 slug: xecinoc
-title: xecinoc
+title: XECİNOC
 sidebar_position: 407
 hoverText: crossed/intersected § Modifier
 ---
 
-### crossed/intersected § Modifier
+### xecinoc
+
+*crossed/intersected* **§** Modifier
 
 **Verb**: to be crossed/intersected
 

@@ -1,12 +1,14 @@
 ---
 id: göyu
 slug: göyu
-title: göyu
+title: GÖYU
 sidebar_position: 230
 hoverText: mouth § Noun
 ---
 
-### mouth § Noun
+### göyu
+
+*mouth* **§** Noun
 
 **Verb**: to be a mouth
 

@@ -1,12 +1,14 @@
 ---
 id: lunsol
 slug: lunsol
-title: lunsol
+title: LUNSOL
 sidebar_position: 766
 hoverText: to launch (a projectile) § Verb
 ---
 
-### to launch (a projectile) § Verb
+### lunsol
+
+*to launch (a projectile)* **§** Verb
 
 **Verb**: to launch/throw/shoot
 

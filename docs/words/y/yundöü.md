@@ -1,12 +1,14 @@
 ---
 id: yundöü
 slug: yundöü
-title: yundöü
+title: YUNDÖÜ
 sidebar_position: 793
 hoverText: to guide (guidable entity) § Verb
 ---
 
-### to guide (guidable entity) § Verb
+### yundöü
+
+*to guide (guidable entity)* **§** Verb
 
 **Verb**: to guide/lead/direct
 

@@ -1,12 +1,14 @@
 ---
 id: pümi
 slug: pümi
-title: pümi
+title: PÜMİ
 sidebar_position: 558
 hoverText: ground/terrain/earth § Noun
 ---
 
-### ground/terrain/earth § Noun
+### pümi
+
+*ground/terrain/earth* **§** Noun
 
 **Verb**: to be ground/terrain/earth
 

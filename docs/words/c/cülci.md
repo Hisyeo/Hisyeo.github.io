@@ -1,12 +1,14 @@
 ---
 id: cülci
 slug: cülci
-title: cülci
+title: CÜLCİ
 sidebar_position: 337
 hoverText: trick/scam § Noun
 ---
 
-### trick/scam § Noun
+### cülci
+
+*trick/scam* **§** Noun
 
 **Verb**: to be a trick/scam
 

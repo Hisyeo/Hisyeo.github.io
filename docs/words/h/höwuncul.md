@@ -1,12 +1,14 @@
 ---
 id: höwuncul
 slug: höwuncul
-title: höwuncul
+title: HÖWUNCUL
 sidebar_position: 119
 hoverText: plastic § Noun
 ---
 
-### plastic § Noun
+### höwuncul
+
+*plastic* **§** Noun
 
 **Verb**: to be a plastic
 

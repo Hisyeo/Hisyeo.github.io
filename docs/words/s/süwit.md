@@ -1,12 +1,14 @@
 ---
 id: süwit
 slug: süwit
-title: süwit
+title: SÜWİT
 sidebar_position: 390
 hoverText: sweet § Modifier
 ---
 
-### sweet § Modifier
+### süwit
+
+*sweet* **§** Modifier
 
 **Verb**: to be sweet
 

@@ -1,12 +1,14 @@
 ---
 id: hönyo
 slug: hönyo
-title: hönyo
+title: HÖNYO
 sidebar_position: 118
 hoverText: wilderness § Noun
 ---
 
-### wilderness § Noun
+### hönyo
+
+*wilderness* **§** Noun
 
 **Verb**: to be the wilderness
 

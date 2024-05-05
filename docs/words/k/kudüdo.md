@@ -1,12 +1,14 @@
 ---
 id: kudüdo
 slug: kudüdo
-title: kudüdo
+title: KUDÜDO
 sidebar_position: 198
 hoverText: to harvest (a harvest) § Verb
 ---
 
-### to harvest (a harvest) § Verb
+### kudüdo
+
+*to harvest (a harvest)* **§** Verb
 
 **Verb**: to harvest/reap
 

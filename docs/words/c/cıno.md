@@ -1,12 +1,14 @@
 ---
 id: cıno
 slug: cıno
-title: cıno
+title: CINO
 sidebar_position: 308
 hoverText: charge/fee/tax § Noun
 ---
 
-### charge/fee/tax § Noun
+### cıno
+
+*charge/fee/tax* **§** Noun
 
 **Verb**: to be a charge/fee/tax
 

@@ -1,12 +1,14 @@
 ---
 id: xüto
 slug: xüto
-title: xüto
+title: XÜTO
 sidebar_position: 424
 hoverText: river § Noun
 ---
 
-### river § Noun
+### xüto
+
+*river* **§** Noun
 
 **Verb**: to be a river
 

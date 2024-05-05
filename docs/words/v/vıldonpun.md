@@ -1,12 +1,14 @@
 ---
 id: vıldonpun
 slug: vıldonpun
-title: vıldonpun
+title: VILDONPUN
 sidebar_position: 584
 hoverText: evaporated/vaporized § Modifier
 ---
 
-### evaporated/vaporized § Modifier
+### vıldonpun
+
+*evaporated/vaporized* **§** Modifier
 
 **Verb**: to be evaporated/vaporized
 

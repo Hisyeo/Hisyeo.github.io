@@ -1,12 +1,14 @@
 ---
 id: soden
 slug: soden
-title: soden
+title: SODEN
 sidebar_position: 343
 hoverText: back § Noun
 ---
 
-### back § Noun
+### soden
+
+*back* **§** Noun
 
 **Verb**: to be the back/behind region
 

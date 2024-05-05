@@ -1,12 +1,14 @@
 ---
 id: puswëlın
 slug: puswëlın
-title: puswëlın
+title: PUSWËLIN
 sidebar_position: 549
 hoverText: oath/incantation § Noun
 ---
 
-### oath/incantation § Noun
+### puswëlın
+
+*oath/incantation* **§** Noun
 
 **Verb**: to be an oath/incantation
 

@@ -1,12 +1,14 @@
 ---
 id: nokdo
 slug: nokdo
-title: nokdo
+title: NOKDO
 sidebar_position: 660
 hoverText: old § Modifier
 ---
 
-### old § Modifier
+### nokdo
+
+*old* **§** Modifier
 
 **Verb**: to be old
 

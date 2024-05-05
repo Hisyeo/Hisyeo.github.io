@@ -1,12 +1,14 @@
 ---
 id: oltü
 slug: oltü
-title: oltü
+title: OLTÜ
 sidebar_position: 27
 hoverText: loud § Modifier
 ---
 
-### loud § Modifier
+### oltü
+
+*loud* **§** Modifier
 
 **Verb**: to be loud
 

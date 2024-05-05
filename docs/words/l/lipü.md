@@ -1,12 +1,14 @@
 ---
 id: lipü
 slug: lipü
-title: lipü
+title: LİPÜ
 sidebar_position: 762
 hoverText: sheet § Noun
 ---
 
-### sheet § Noun
+### lipü
+
+*sheet* **§** Noun
 
 **Verb**: to be a sheet
 

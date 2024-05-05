@@ -1,12 +1,14 @@
 ---
 id: nulun
 slug: nulun
-title: nulun
+title: NULUN
 sidebar_position: 695
 hoverText: soft § Modifier
 ---
 
-### soft § Modifier
+### nulun
+
+*soft* **§** Modifier
 
 **Verb**: to be soft
 

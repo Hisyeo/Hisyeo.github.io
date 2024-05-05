@@ -1,12 +1,14 @@
 ---
 id: vulköi
 slug: vulköi
-title: vulköi
+title: VULKÖİ
 sidebar_position: 598
 hoverText: to rub (rubbable entity) § Verb
 ---
 
-### to rub (rubbable entity) § Verb
+### vulköi
+
+*to rub (rubbable entity)* **§** Verb
 
 **Verb**: to rub/caress/scratch
 

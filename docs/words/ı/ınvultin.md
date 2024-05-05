@@ -1,12 +1,14 @@
 ---
 id: ınvultin
 slug: ınvultin
-title: ınvultin
+title: INVULTİN
 sidebar_position: 57
 hoverText: rotating/spinning § Modifier
 ---
 
-### rotating/spinning § Modifier
+### ınvultin
+
+*rotating/spinning* **§** Modifier
 
 **Verb**: to be rotating/spinning
 

@@ -1,12 +1,14 @@
 ---
 id: suhot
 slug: suhot
-title: suhot
+title: SUHOT
 sidebar_position: 377
 hoverText: hour § Noun
 ---
 
-### hour § Noun
+### suhot
+
+*hour* **§** Noun
 
 **Verb**: to be an hour
 

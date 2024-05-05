@@ -1,12 +1,14 @@
 ---
 id: konwo
 slug: konwo
-title: konwo
+title: KONWO
 sidebar_position: 156
 hoverText: rhythm/beat § Modifier
 ---
 
-### rhythm/beat § Modifier
+### konwo
+
+*rhythm/beat* **§** Modifier
 
 **Verb**: to be a rhythm/beat
 

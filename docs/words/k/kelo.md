@@ -1,12 +1,14 @@
 ---
 id: kelo
 slug: kelo
-title: kelo
+title: KELO
 sidebar_position: 178
 hoverText: to play (a game) § Verb
 ---
 
-### to play (a game) § Verb
+### kelo
+
+*to play (a game)* **§** Verb
 
 **Verb**: to play (game-wise)
 

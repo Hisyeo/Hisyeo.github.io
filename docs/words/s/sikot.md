@@ -1,12 +1,14 @@
 ---
 id: sikot
 slug: sikot
-title: sikot
+title: SİKOT
 sidebar_position: 373
 hoverText: brush/comb/rake/broom § Noun
 ---
 
-### brush/comb/rake/broom § Noun
+### sikot
+
+*brush/comb/rake/broom* **§** Noun
 
 **Verb**: to be a brush/comb/rake/broom
 

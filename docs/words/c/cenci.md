@@ -1,12 +1,14 @@
 ---
 id: cenci
 slug: cenci
-title: cenci
+title: CENCİ
 sidebar_position: 300
 hoverText: thin § Modifier
 ---
 
-### thin § Modifier
+### cenci
+
+*thin* **§** Modifier
 
 **Verb**: to be thin/narrow
 

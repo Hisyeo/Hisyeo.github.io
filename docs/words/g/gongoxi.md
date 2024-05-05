@@ -1,12 +1,14 @@
 ---
 id: gongoxi
 slug: gongoxi
-title: gongoxi
+title: GONGOXİ
 sidebar_position: 218
 hoverText: alarm § Noun
 ---
 
-### alarm § Noun
+### gongoxi
+
+*alarm* **§** Noun
 
 **Verb**: to be an alarm
 

@@ -1,12 +1,14 @@
 ---
 id: ködus
 slug: ködus
-title: ködus
+title: KÖDUS
 sidebar_position: 167
 hoverText: sacred § Modifier
 ---
 
-### sacred § Modifier
+### ködus
+
+*sacred* **§** Modifier
 
 **Verb**: to be sacred
 

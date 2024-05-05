@@ -1,12 +1,14 @@
 ---
 id: xowosë
 slug: xowosë
-title: xowosë
+title: XOWOSË
 sidebar_position: 400
 hoverText: happy § Modifier
 ---
 
-### happy § Modifier
+### xowosë
+
+*happy* **§** Modifier
 
 **Verb**: to be happy
 

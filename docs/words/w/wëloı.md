@@ -1,12 +1,14 @@
 ---
 id: wëloı
 slug: wëloı
-title: wëloı
+title: WËLOI
 sidebar_position: 717
 hoverText: occupation § Noun
 ---
 
-### occupation § Noun
+### wëloı
+
+*occupation* **§** Noun
 
 **Verb**: to be an occupation/job
 

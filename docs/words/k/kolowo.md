@@ -1,12 +1,14 @@
 ---
 id: kolowo
 slug: kolowo
-title: kolowo
+title: KOLOWO
 sidebar_position: 157
 hoverText: art § Noun
 ---
 
-### art § Noun
+### kolowo
+
+*art* **§** Noun
 
 **Verb**: to be art
 

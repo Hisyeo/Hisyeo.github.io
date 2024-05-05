@@ -1,12 +1,14 @@
 ---
 id: ze
 slug: ze
-title: ze
+title: ZE
 sidebar_position: 478
 hoverText: aggressive/emotional clause ender § Grammar
 ---
 
-### aggressive/emotional clause ender § Grammar
+### ze
+
+*aggressive/emotional clause ender* **§** Grammar
 
 **Verb**: -
 

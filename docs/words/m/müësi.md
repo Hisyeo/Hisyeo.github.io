@@ -1,12 +1,14 @@
 ---
 id: müësi
 slug: müësi
-title: müësi
+title: MÜËSİ
 sidebar_position: 645
 hoverText: moon § Noun
 ---
 
-### moon § Noun
+### müësi
+
+*moon* **§** Noun
 
 **Verb**: to be a moon
 

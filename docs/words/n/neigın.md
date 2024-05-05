@@ -1,12 +1,14 @@
 ---
 id: neigın
 slug: neigın
-title: neigın
+title: NEİGIN
 sidebar_position: 673
 hoverText: tendency/inclination § Noun
 ---
 
-### tendency/inclination § Noun
+### neigın
+
+*tendency/inclination* **§** Noun
 
 **Verb**: to be a tendency/inclination
 

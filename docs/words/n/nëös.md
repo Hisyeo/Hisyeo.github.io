@@ -1,12 +1,14 @@
 ---
 id: nëös
 slug: nëös
-title: nëös
+title: NËÖS
 sidebar_position: 678
 hoverText: new/fresh § Modifier
 ---
 
-### new/fresh § Modifier
+### nëös
+
+*new/fresh* **§** Modifier
 
 **Verb**: to be new/fresh
 

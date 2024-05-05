@@ -1,12 +1,14 @@
 ---
 id: pis
 slug: pis
-title: pis
+title: PİS
 sidebar_position: 540
 hoverText: bad § Modifier
 ---
 
-### bad § Modifier
+### pis
+
+*bad* **§** Modifier
 
 **Verb**: to be bad
 

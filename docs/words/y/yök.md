@@ -1,12 +1,14 @@
 ---
 id: yök
 slug: yök
-title: yök
+title: YÖK
 sidebar_position: 785
 hoverText: negatitive particle § Grammar
 ---
 
-### negatitive particle § Grammar
+### yök
+
+*negatitive particle* **§** Grammar
 
 **Verb**: -
 

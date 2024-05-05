@@ -1,12 +1,14 @@
 ---
 id: micin
 slug: micin
-title: micin
+title: MİCİN
 sidebar_position: 640
 hoverText: fish § Noun
 ---
 
-### fish § Noun
+### micin
+
+*fish* **§** Noun
 
 **Verb**: to be a fish
 

@@ -1,12 +1,14 @@
 ---
 id: müstokin
 slug: müstokin
-title: müstokin
+title: MÜSTOKİN
 sidebar_position: 651
 hoverText: straight § Modifier
 ---
 
-### straight § Modifier
+### müstokin
+
+*straight* **§** Modifier
 
 **Verb**: to be straight
 

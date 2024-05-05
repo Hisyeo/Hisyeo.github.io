@@ -1,12 +1,14 @@
 ---
 id: pinë
 slug: pinë
-title: pinë
+title: PİNË
 sidebar_position: 542
 hoverText: then § Connector
 ---
 
-### then § Connector
+### pinë
+
+*then* **§** Connector
 
 **Verb**: -
 

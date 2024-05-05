@@ -1,12 +1,14 @@
 ---
 id: dökcon
 slug: dökcon
-title: dökcon
+title: DÖKCON
 sidebar_position: 435
 hoverText: decent § Modifier
 ---
 
-### decent § Modifier
+### dökcon
+
+*decent* **§** Modifier
 
 **Verb**: to be decent/virtuous
 

@@ -1,12 +1,14 @@
 ---
 id: wohi
 slug: wohi
-title: wohi
+title: WOHİ
 sidebar_position: 699
 hoverText: female § Modifier
 ---
 
-### female § Modifier
+### wohi
+
+*female* **§** Modifier
 
 **Verb**: to be female/feminine
 

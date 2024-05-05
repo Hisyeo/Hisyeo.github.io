@@ -1,12 +1,14 @@
 ---
 id: ücümi
 slug: ücümi
-title: ücümi
+title: ÜCÜMİ
 sidebar_position: 85
 hoverText: economy § Noun
 ---
 
-### economy § Noun
+### ücümi
+
+*economy* **§** Noun
 
 **Verb**: to be an economy
 

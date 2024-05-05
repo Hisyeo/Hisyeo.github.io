@@ -1,12 +1,14 @@
 ---
 id: wowë
 slug: wowë
-title: wowë
+title: WOWË
 sidebar_position: 706
 hoverText: foot § Noun
 ---
 
-### foot § Noun
+### wowë
+
+*foot* **§** Noun
 
 **Verb**: to be a foot
 

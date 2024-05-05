@@ -1,12 +1,14 @@
 ---
 id: sınsi
 slug: sınsi
-title: sınsi
+title: SINSİ
 sidebar_position: 369
 hoverText: town/city § Noun
 ---
 
-### town/city § Noun
+### sınsi
+
+*town/city* **§** Noun
 
 **Verb**: to be a town/city
 

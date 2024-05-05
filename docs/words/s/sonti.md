@@ -1,12 +1,14 @@
 ---
 id: sonti
 slug: sonti
-title: sonti
+title: SONTİ
 sidebar_position: 352
 hoverText: calm § Modifier
 ---
 
-### calm § Modifier
+### sonti
+
+*calm* **§** Modifier
 
 **Verb**: to be calm
 

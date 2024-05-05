@@ -1,12 +1,14 @@
 ---
 id: weltö
 slug: weltö
-title: weltö
+title: WELTÖ
 sidebar_position: 710
 hoverText: limp/flaccid/flabby § Modifier
 ---
 
-### limp/flaccid/flabby § Modifier
+### weltö
+
+*limp/flaccid/flabby* **§** Modifier
 
 **Verb**: to be limp/flaccid/flabby
 

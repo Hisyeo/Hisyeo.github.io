@@ -1,12 +1,14 @@
 ---
 id: xulmındo
 slug: xulmındo
-title: xulmındo
+title: XULMINDO
 sidebar_position: 422
 hoverText: ashamed § Modifier
 ---
 
-### ashamed § Modifier
+### xulmındo
+
+*ashamed* **§** Modifier
 
 **Verb**: to be ashamed/embarrassed
 

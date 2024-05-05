@@ -1,12 +1,14 @@
 ---
 id: nukulö
 slug: nukulö
-title: nukulö
+title: NUKULÖ
 sidebar_position: 691
 hoverText: copy § Noun
 ---
 
-### copy § Noun
+### nukulö
+
+*copy* **§** Noun
 
 **Verb**: to be a copy
 

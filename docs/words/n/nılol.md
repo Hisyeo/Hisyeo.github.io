@@ -1,12 +1,14 @@
 ---
 id: nılol
 slug: nılol
-title: nılol
+title: NILOL
 sidebar_position: 685
 hoverText: shadow § Noun
 ---
 
-### shadow § Noun
+### nılol
+
+*shadow* **§** Noun
 
 **Verb**: to be a shadow
 

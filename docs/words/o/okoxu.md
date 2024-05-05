@@ -1,12 +1,14 @@
 ---
 id: okoxu
 slug: okoxu
-title: okoxu
+title: OKOXU
 sidebar_position: 2
 hoverText: sky § Noun
 ---
 
-### sky § Noun
+### okoxu
+
+*sky* **§** Noun
 
 **Verb**: to be the sky
 

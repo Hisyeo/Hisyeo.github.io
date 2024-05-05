@@ -1,12 +1,14 @@
 ---
 id: vücün
 slug: vücün
-title: vücün
+title: VÜCÜN
 sidebar_position: 601
 hoverText: to obey (a rule) § Verb
 ---
 
-### to obey (a rule) § Verb
+### vücün
+
+*to obey (a rule)* **§** Verb
 
 **Verb**: to obey
 

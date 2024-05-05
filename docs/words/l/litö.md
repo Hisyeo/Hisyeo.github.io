@@ -1,12 +1,14 @@
 ---
 id: litö
 slug: litö
-title: litö
+title: LİTÖ
 sidebar_position: 757
 hoverText: empty/incomplete § Modifier
 ---
 
-### empty/incomplete § Modifier
+### litö
+
+*empty/incomplete* **§** Modifier
 
 **Verb**: to be empty/incomplete
 

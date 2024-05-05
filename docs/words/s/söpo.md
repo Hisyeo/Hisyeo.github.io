@@ -1,12 +1,14 @@
 ---
 id: söpo
 slug: söpo
-title: söpo
+title: SÖPO
 sidebar_position: 356
 hoverText: side/beside § Noun
 ---
 
-### side/beside § Noun
+### söpo
+
+*side/beside* **§** Noun
 
 **Verb**: to be the side/beside
 

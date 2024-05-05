@@ -1,12 +1,14 @@
 ---
 id: wölık
 slug: wölık
-title: wölık
+title: WÖLIK
 sidebar_position: 709
 hoverText: smoke/cloud § Noun
 ---
 
-### smoke/cloud § Noun
+### wölık
+
+*smoke/cloud* **§** Noun
 
 **Verb**: to be smoke/a cloud
 

@@ -1,12 +1,14 @@
 ---
 id: gölüo
 slug: gölüo
-title: gölüo
+title: GÖLÜO
 sidebar_position: 229
 hoverText: melted § Modifier
 ---
 
-### melted § Modifier
+### gölüo
+
+*melted* **§** Modifier
 
 **Verb**: to be melted/liquefied
 

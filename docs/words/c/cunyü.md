@@ -1,12 +1,14 @@
 ---
 id: cunyü
 slug: cunyü
-title: cunyü
+title: CUNYÜ
 sidebar_position: 326
 hoverText: cold § Modifier
 ---
 
-### cold § Modifier
+### cunyü
+
+*cold* **§** Modifier
 
 **Verb**: to be cold
 

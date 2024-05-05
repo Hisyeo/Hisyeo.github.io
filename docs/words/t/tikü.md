@@ -1,12 +1,14 @@
 ---
 id: tikü
 slug: tikü
-title: tikü
+title: TİKÜ
 sidebar_position: 272
 hoverText: dead § Modifier
 ---
 
-### dead § Modifier
+### tikü
+
+*dead* **§** Modifier
 
 **Verb**: to be dead
 

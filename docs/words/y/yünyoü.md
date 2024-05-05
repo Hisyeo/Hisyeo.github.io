@@ -1,12 +1,14 @@
 ---
 id: yünyoü
 slug: yünyoü
-title: yünyoü
+title: YÜNYOÜ
 sidebar_position: 797
 hoverText: to have (a possession) § Verb
 ---
 
-### to have (a possession) § Verb
+### yünyoü
+
+*to have (a possession)* **§** Verb
 
 **Verb**: to have/own/possess
 

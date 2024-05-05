@@ -1,12 +1,14 @@
 ---
 id: ni
 slug: ni
-title: ni
+title: Nİ
 sidebar_position: 686
 hoverText: we/us § Pronoun
 ---
 
-### we/us § Pronoun
+### ni
+
+*we/us* **§** Pronoun
 
 **Verb**: to be us
 

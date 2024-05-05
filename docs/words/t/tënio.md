@@ -1,12 +1,14 @@
 ---
 id: tënio
 slug: tënio
-title: tënio
+title: TËNİO
 sidebar_position: 267
 hoverText: strip/band § Noun
 ---
 
-### strip/band § Noun
+### tënio
+
+*strip/band* **§** Noun
 
 **Verb**: to be a strip/band
 

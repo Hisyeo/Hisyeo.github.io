@@ -1,12 +1,14 @@
 ---
 id: losol
 slug: losol
-title: losol
+title: LOSOL
 sidebar_position: 733
 hoverText: original § Modifier
 ---
 
-### original § Modifier
+### losol
+
+*original* **§** Modifier
 
 **Verb**: to be original/prototypical
 

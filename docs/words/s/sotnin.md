@@ -1,12 +1,14 @@
 ---
 id: sotnin
 slug: sotnin
-title: sotnin
+title: SOTNİN
 sidebar_position: 340
 hoverText: right § Noun
 ---
 
-### right § Noun
+### sotnin
+
+*right* **§** Noun
 
 **Verb**: to be the right (side)
 

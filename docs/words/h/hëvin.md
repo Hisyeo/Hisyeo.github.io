@@ -1,12 +1,14 @@
 ---
 id: hëvin
 slug: hëvin
-title: hëvin
+title: HËVİN
 sidebar_position: 124
 hoverText: to understand (a concept) § Verb
 ---
 
-### to understand (a concept) § Verb
+### hëvin
+
+*to understand (a concept)* **§** Verb
 
 **Verb**: to understand
 

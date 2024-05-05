@@ -1,12 +1,14 @@
 ---
 id: löicök
 slug: löicök
-title: löicök
+title: LÖİCÖK
 sidebar_position: 741
 hoverText: emphasis clause ender (really/again) § Grammar
 ---
 
-### emphasis clause ender (really/again) § Grammar
+### löicök
+
+*emphasis clause ender (really/again)* **§** Grammar
 
 **Verb**: -
 

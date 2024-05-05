@@ -1,12 +1,14 @@
 ---
 id: gisgül
 slug: gisgül
-title: gisgül
+title: GİSGÜL
 sidebar_position: 235
 hoverText: step/rung § Noun
 ---
 
-### step/rung § Noun
+### gisgül
+
+*step/rung* **§** Noun
 
 **Verb**: to be a step/rung/pedal
 

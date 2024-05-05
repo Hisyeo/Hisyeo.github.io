@@ -1,12 +1,14 @@
 ---
 id: colot
 slug: colot
-title: colot
+title: COLOT
 sidebar_position: 294
 hoverText: wise/clever § Modifier
 ---
 
-### wise/clever § Modifier
+### colot
+
+*wise/clever* **§** Modifier
 
 **Verb**: to be wise/clever
 

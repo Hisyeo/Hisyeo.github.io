@@ -1,12 +1,14 @@
 ---
 id: hüsü
 slug: hüsü
-title: hüsü
+title: HÜSÜ
 sidebar_position: 137
 hoverText: to be about (theme) § Verb
 ---
 
-### to be about (theme) § Verb
+### hüsü
+
+*to be about (theme)* **§** Verb
 
 **Verb**: to be about/concern/regard
 

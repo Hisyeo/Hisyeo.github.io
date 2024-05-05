@@ -1,12 +1,14 @@
 ---
 id: kuünmë
 slug: kuünmë
-title: kuünmë
+title: KUÜNMË
 sidebar_position: 194
 hoverText: technology § Noun
 ---
 
-### technology § Noun
+### kuünmë
+
+*technology* **§** Noun
 
 **Verb**: to be a technology
 

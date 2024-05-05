@@ -1,12 +1,14 @@
 ---
 id: zingu
 slug: zingu
-title: zingu
+title: ZİNGU
 sidebar_position: 489
 hoverText: orange § Modifier
 ---
 
-### orange § Modifier
+### zingu
+
+*orange* **§** Modifier
 
 **Verb**: to be orange
 

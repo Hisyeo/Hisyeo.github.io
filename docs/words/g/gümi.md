@@ -1,12 +1,14 @@
 ---
 id: gümi
 slug: gümi
-title: gümi
+title: GÜMİ
 sidebar_position: 245
 hoverText: rubber § Noun
 ---
 
-### rubber § Noun
+### gümi
+
+*rubber* **§** Noun
 
 **Verb**: to be (a) rubber
 

@@ -1,12 +1,14 @@
 ---
 id: sohoü
 slug: sohoü
-title: sohoü
+title: SOHOÜ
 sidebar_position: 338
 hoverText: healthy § Modifier
 ---
 
-### healthy § Modifier
+### sohoü
+
+*healthy* **§** Modifier
 
 **Verb**: to be healthy
 

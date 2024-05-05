@@ -1,12 +1,14 @@
 ---
 id: küsowi
 slug: küsowi
-title: küsowi
+title: KÜSOWİ
 sidebar_position: 204
 hoverText: matter/material § Noun
 ---
 
-### matter/material § Noun
+### küsowi
+
+*matter/material* **§** Noun
 
 **Verb**: to be matter/a material
 

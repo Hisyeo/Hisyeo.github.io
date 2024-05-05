@@ -1,12 +1,14 @@
 ---
 id: vun
 slug: vun
-title: vun
+title: VUN
 sidebar_position: 595
 hoverText: fraction § Quantity
 ---
 
-### fraction § Quantity
+### vun
+
+*fraction* **§** Quantity
 
 **Verb**: to be a fraction
 

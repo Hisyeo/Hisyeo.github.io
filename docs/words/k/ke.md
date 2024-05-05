@@ -1,12 +1,14 @@
 ---
 id: ke
 slug: ke
-title: ke
+title: KE
 sidebar_position: 177
 hoverText: future verb particle § Grammar
 ---
 
-### future verb particle § Grammar
+### ke
+
+*future verb particle* **§** Grammar
 
 **Verb**: -
 

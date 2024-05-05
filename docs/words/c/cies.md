@@ -1,12 +1,14 @@
 ---
 id: cies
 slug: cies
-title: cies
+title: CİES
 sidebar_position: 312
 hoverText: tight/firm § Modifier
 ---
 
-### tight/firm § Modifier
+### cies
+
+*tight/firm* **§** Modifier
 
 **Verb**: to be tight/firm
 

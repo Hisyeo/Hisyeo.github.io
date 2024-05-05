@@ -1,12 +1,14 @@
 ---
 id: tulutı
 slug: tulutı
-title: tulutı
+title: TULUTI
 sidebar_position: 279
 hoverText: to traverse (a traversable entity) § Verb
 ---
 
-### to traverse (a traversable entity) § Verb
+### tulutı
+
+*to traverse (a traversable entity)* **§** Verb
 
 **Verb**: to passthrough/cross/traverse
 

@@ -1,12 +1,14 @@
 ---
 id: zoso
 slug: zoso
-title: zoso
+title: ZOSO
 sidebar_position: 464
 hoverText: shelf § Noun
 ---
 
-### shelf § Noun
+### zoso
+
+*shelf* **§** Noun
 
 **Verb**: to be a shelf
 

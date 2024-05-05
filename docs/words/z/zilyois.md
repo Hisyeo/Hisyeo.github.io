@@ -1,12 +1,14 @@
 ---
 id: zilyois
 slug: zilyois
-title: zilyois
+title: ZİLYOİS
 sidebar_position: 490
 hoverText: deep § Modifier
 ---
 
-### deep § Modifier
+### zilyois
+
+*deep* **§** Modifier
 
 **Verb**: to be deep
 

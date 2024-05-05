@@ -1,12 +1,14 @@
 ---
 id: di
 slug: di
-title: di
+title: Dİ
 sidebar_position: 444
 hoverText: to become (a trait) § Verb
 ---
 
-### to become (a trait) § Verb
+### di
+
+*to become (a trait)* **§** Verb
 
 **Verb**: to become/change
 

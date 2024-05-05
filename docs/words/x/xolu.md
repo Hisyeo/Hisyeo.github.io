@@ -1,12 +1,14 @@
 ---
 id: xolu
 slug: xolu
-title: xolu
+title: XOLU
 sidebar_position: 401
 hoverText: bowl/cup § Noun
 ---
 
-### bowl/cup § Noun
+### xolu
+
+*bowl/cup* **§** Noun
 
 **Verb**: to be a bowl/cup
 

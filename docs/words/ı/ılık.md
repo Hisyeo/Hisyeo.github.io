@@ -1,12 +1,14 @@
 ---
 id: ılık
 slug: ılık
-title: ılık
+title: ILIK
 sidebar_position: 59
 hoverText: before § Quantity
 ---
 
-### before § Quantity
+### ılık
+
+*before* **§** Quantity
 
 **Verb**: to be before
 

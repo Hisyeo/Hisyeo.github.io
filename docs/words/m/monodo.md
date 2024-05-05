@@ -1,12 +1,14 @@
 ---
 id: monodo
 slug: monodo
-title: monodo
+title: MONODO
 sidebar_position: 614
 hoverText: to meet (meetable/visitable entity) § Verb
 ---
 
-### to meet (meetable/visitable entity) § Verb
+### monodo
+
+*to meet (meetable/visitable entity)* **§** Verb
 
 **Verb**: to meet/visit
 

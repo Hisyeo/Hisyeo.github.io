@@ -1,12 +1,14 @@
 ---
 id: ülzo
 slug: ülzo
-title: ülzo
+title: ÜLZO
 sidebar_position: 100
 hoverText: energy/power § Noun
 ---
 
-### energy/power § Noun
+### ülzo
+
+*energy/power* **§** Noun
 
 **Verb**: to be energy/power
 

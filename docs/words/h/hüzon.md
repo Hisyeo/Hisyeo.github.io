@@ -1,12 +1,14 @@
 ---
 id: hüzon
 slug: hüzon
-title: hüzon
+title: HÜZON
 sidebar_position: 140
 hoverText: rain § Noun
 ---
 
-### rain § Noun
+### hüzon
+
+*rain* **§** Noun
 
 **Verb**: to be rain
 

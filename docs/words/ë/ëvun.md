@@ -1,12 +1,14 @@
 ---
 id: ëvun
 slug: ëvun
-title: ëvun
+title: ËVUN
 sidebar_position: 49
 hoverText: momentary § Modifier
 ---
 
-### momentary § Modifier
+### ëvun
+
+*momentary* **§** Modifier
 
 **Verb**: to be momentary/brief
 

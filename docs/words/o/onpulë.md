@@ -1,12 +1,14 @@
 ---
 id: onpulë
 slug: onpulë
-title: onpulë
+title: ONPULË
 sidebar_position: 24
 hoverText: amber (color) § Modifier
 ---
 
-### amber (color) § Modifier
+### onpulë
+
+*amber (color)* **§** Modifier
 
 **Verb**: to be amber
 

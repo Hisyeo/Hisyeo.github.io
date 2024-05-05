@@ -1,12 +1,14 @@
 ---
 id: ongölö
 slug: ongölö
-title: ongölö
+title: ONGÖLÖ
 sidebar_position: 22
 hoverText: corner § Noun
 ---
 
-### corner § Noun
+### ongölö
+
+*corner* **§** Noun
 
 **Verb**: to be a corner/angle
 

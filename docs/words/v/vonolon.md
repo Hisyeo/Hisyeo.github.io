@@ -1,12 +1,14 @@
 ---
 id: vonolon
 slug: vonolon
-title: vonolon
+title: VONOLON
 sidebar_position: 568
 hoverText: monkey/ape § Noun
 ---
 
-### monkey/ape § Noun
+### vonolon
+
+*monkey/ape* **§** Noun
 
 **Verb**: to be a monkey/ape
 

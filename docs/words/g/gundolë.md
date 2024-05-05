@@ -1,12 +1,14 @@
 ---
 id: gundolë
 slug: gundolë
-title: gundolë
+title: GUNDOLË
 sidebar_position: 238
 hoverText: sphere § Noun
 ---
 
-### sphere § Noun
+### gundolë
+
+*sphere* **§** Noun
 
 **Verb**: to be a sphere
 

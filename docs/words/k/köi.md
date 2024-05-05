@@ -1,12 +1,14 @@
 ---
 id: köi
 slug: köi
-title: köi
+title: KÖİ
 sidebar_position: 159
 hoverText: epistemic verb particle § Grammar
 ---
 
-### epistemic verb particle § Grammar
+### köi
+
+*epistemic verb particle* **§** Grammar
 
 **Verb**: -
 

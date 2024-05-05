@@ -1,12 +1,14 @@
 ---
 id: pön
 slug: pön
-title: pön
+title: PÖN
 sidebar_position: 518
 hoverText: to cause (an effect) § Verb
 ---
 
-### to cause (an effect) § Verb
+### pön
+
+*to cause (an effect)* **§** Verb
 
 **Verb**: to cause/produce
 

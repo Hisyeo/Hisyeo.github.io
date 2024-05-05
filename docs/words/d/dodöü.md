@@ -1,12 +1,14 @@
 ---
 id: dodöü
 slug: dodöü
-title: dodöü
+title: DODÖÜ
 sidebar_position: 431
 hoverText: to bet (a bet) § Verb
 ---
 
-### to bet (a bet) § Verb
+### dodöü
+
+*to bet (a bet)* **§** Verb
 
 **Verb**: to bet/wager
 

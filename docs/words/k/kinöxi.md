@@ -1,12 +1,14 @@
 ---
 id: kinöxi
 slug: kinöxi
-title: kinöxi
+title: KİNÖXİ
 sidebar_position: 191
 hoverText: functional § Modifier
 ---
 
-### functional § Modifier
+### kinöxi
+
+*functional* **§** Modifier
 
 **Verb**: to be functional
 

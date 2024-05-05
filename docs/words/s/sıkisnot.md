@@ -1,12 +1,14 @@
 ---
 id: sıkisnot
 slug: sıkisnot
-title: sıkisnot
+title: SIKİSNOT
 sidebar_position: 366
 hoverText: fermented/soured § Modifier
 ---
 
-### fermented/soured § Modifier
+### sıkisnot
+
+*fermented/soured* **§** Modifier
 
 **Verb**: to be fermented/soured
 

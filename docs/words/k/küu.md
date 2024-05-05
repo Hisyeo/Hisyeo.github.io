@@ -1,12 +1,14 @@
 ---
 id: küu
 slug: küu
-title: küu
+title: KÜU
 sidebar_position: 203
 hoverText: deontic verb particle § Grammar
 ---
 
-### deontic verb particle § Grammar
+### küu
+
+*deontic verb particle* **§** Grammar
 
 **Verb**: -
 

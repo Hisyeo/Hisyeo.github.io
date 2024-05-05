@@ -1,12 +1,14 @@
 ---
 id: sölü
 slug: sölü
-title: sölü
+title: SÖLÜ
 sidebar_position: 359
 hoverText: to ask (a question) § Verb
 ---
 
-### to ask (a question) § Verb
+### sölü
+
+*to ask (a question)* **§** Verb
 
 **Verb**: to ask
 

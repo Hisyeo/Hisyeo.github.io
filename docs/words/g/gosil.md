@@ -1,12 +1,14 @@
 ---
 id: gosil
 slug: gosil
-title: gosil
+title: GOSİL
 sidebar_position: 214
 hoverText: short § Modifier
 ---
 
-### short § Modifier
+### gosil
+
+*short* **§** Modifier
 
 **Verb**: to be short/low
 

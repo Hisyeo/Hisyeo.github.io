@@ -1,16 +1,20 @@
 import csv from 'neat-csv';
 
+import {capitalize} from './helpers.mjs';
+
 const words = []
 const snippets = {}
 const template = (w, i) => `---
 id: ${w['Hisyëö']}
 slug: ${w['Hisyëö']}
-title: ${w['Hisyëö']}
+title: ${capitalize(w['Hisyëö'])}
 sidebar_position: ${i}
 hoverText: ${w['Meaning']} § ${w['Type']}
 ---
 
-### ${w['Meaning']} § ${w['Type']}
+### ${w['Hisyëö']}
+
+*${w['Meaning']}* **§** ${w['Type']}
 
 **Verb**: ${w['Verb']}
 

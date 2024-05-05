@@ -1,12 +1,14 @@
 ---
 id: oksiös
 slug: oksiös
-title: oksiös
+title: OKSİÖS
 sidebar_position: 4
 hoverText: worthy § Modifier
 ---
 
-### worthy § Modifier
+### oksiös
+
+*worthy* **§** Modifier
 
 **Verb**: to be worthy/deserving
 

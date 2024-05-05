@@ -1,12 +1,14 @@
 ---
 id: püsın
 slug: püsın
-title: püsın
+title: PÜSIN
 sidebar_position: 554
 hoverText: dizzy § Modifier
 ---
 
-### dizzy § Modifier
+### püsın
+
+*dizzy* **§** Modifier
 
 **Verb**: to be dizzy/confused
 

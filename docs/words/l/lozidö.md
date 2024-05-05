@@ -1,12 +1,14 @@
 ---
 id: lozidö
 slug: lozidö
-title: lozidö
+title: LOZİDÖ
 sidebar_position: 734
 hoverText: heart § Noun
 ---
 
-### heart § Noun
+### lozidö
+
+*heart* **§** Noun
 
 **Verb**: to be a heart
 

@@ -1,12 +1,14 @@
 ---
 id: nökso
 slug: nökso
-title: nökso
+title: NÖKSO
 sidebar_position: 672
 hoverText: map/chart § Noun
 ---
 
-### map/chart § Noun
+### nökso
+
+*map/chart* **§** Noun
 
 **Verb**: to be a map/chart
 

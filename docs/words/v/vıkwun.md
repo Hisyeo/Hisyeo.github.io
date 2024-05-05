@@ -1,12 +1,14 @@
 ---
 id: vıkwun
 slug: vıkwun
-title: vıkwun
+title: VIKWUN
 sidebar_position: 581
 hoverText: bacteria/microbe § Noun
 ---
 
-### bacteria/microbe § Noun
+### vıkwun
+
+*bacteria/microbe* **§** Noun
 
 **Verb**: to be a bacteria/microbe
 

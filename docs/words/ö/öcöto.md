@@ -1,12 +1,14 @@
 ---
 id: öcöto
 slug: öcöto
-title: öcöto
+title: ÖCÖTO
 sidebar_position: 29
 hoverText: deity § Noun
 ---
 
-### deity § Noun
+### öcöto
+
+*deity* **§** Noun
 
 **Verb**: to be a deity/god
 

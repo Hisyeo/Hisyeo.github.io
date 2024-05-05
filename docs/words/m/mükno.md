@@ -1,12 +1,14 @@
 ---
 id: mükno
 slug: mükno
-title: mükno
+title: MÜKNO
 sidebar_position: 649
 hoverText: mature/ripe § Modifier
 ---
 
-### mature/ripe § Modifier
+### mükno
+
+*mature/ripe* **§** Modifier
 
 **Verb**: to be mature/ripe/adult
 

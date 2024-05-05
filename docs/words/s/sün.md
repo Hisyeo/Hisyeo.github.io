@@ -1,12 +1,14 @@
 ---
 id: sün
 slug: sün
-title: sün
+title: SÜN
 sidebar_position: 387
 hoverText: source/origin marker (from) § Preposition
 ---
 
-### source/origin marker (from) § Preposition
+### sün
+
+*source/origin marker (from)* **§** Preposition
 
 **Verb**: -
 

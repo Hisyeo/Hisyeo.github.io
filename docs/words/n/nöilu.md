@@ -1,12 +1,14 @@
 ---
 id: nöilu
 slug: nöilu
-title: nöilu
+title: NÖİLU
 sidebar_position: 671
 hoverText: key § Noun
 ---
 
-### key § Noun
+### nöilu
+
+*key* **§** Noun
 
 **Verb**: to be a key
 

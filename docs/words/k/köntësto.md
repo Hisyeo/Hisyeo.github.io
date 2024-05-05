@@ -1,12 +1,14 @@
 ---
 id: köntësto
 slug: köntësto
-title: köntësto
+title: KÖNTËSTO
 sidebar_position: 170
 hoverText: to contend (contendable entity) § Verb
 ---
 
-### to contend (contendable entity) § Verb
+### köntësto
+
+*to contend (contendable entity)* **§** Verb
 
 **Verb**: to contend/contest/oppose
 

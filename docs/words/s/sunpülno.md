@@ -1,12 +1,14 @@
 ---
 id: sunpülno
 slug: sunpülno
-title: sunpülno
+title: SUNPÜLNO
 sidebar_position: 381
 hoverText: flawless § Modifier
 ---
 
-### flawless § Modifier
+### sunpülno
+
+*flawless* **§** Modifier
 
 **Verb**: to be flawless/perfect
 

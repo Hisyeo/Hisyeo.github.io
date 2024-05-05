@@ -1,12 +1,14 @@
 ---
 id: müun
 slug: müun
-title: müun
+title: MÜUN
 sidebar_position: 646
 hoverText: late § Modifier
 ---
 
-### late § Modifier
+### müun
+
+*late* **§** Modifier
 
 **Verb**: to be late/tardy
 

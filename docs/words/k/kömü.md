@@ -1,12 +1,14 @@
 ---
 id: kömü
 slug: kömü
-title: kömü
+title: KÖMÜ
 sidebar_position: 168
 hoverText: horn/spike § Noun
 ---
 
-### horn/spike § Noun
+### kömü
+
+*horn/spike* **§** Noun
 
 **Verb**: to be a horn/spike
 

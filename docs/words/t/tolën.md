@@ -1,12 +1,14 @@
 ---
 id: tolën
 slug: tolën
-title: tolën
+title: TOLËN
 sidebar_position: 256
 hoverText: limb § Noun
 ---
 
-### limb § Noun
+### tolën
+
+*limb* **§** Noun
 
 **Verb**: to be a limb/branch
 

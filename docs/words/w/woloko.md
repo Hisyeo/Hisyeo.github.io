@@ -1,12 +1,14 @@
 ---
 id: woloko
 slug: woloko
-title: woloko
+title: WOLOKO
 sidebar_position: 707
 hoverText: leaf/petal § Noun
 ---
 
-### leaf/petal § Noun
+### woloko
+
+*leaf/petal* **§** Noun
 
 **Verb**: to be a leaf/petal
 

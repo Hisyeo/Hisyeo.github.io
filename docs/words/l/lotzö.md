@@ -1,12 +1,14 @@
 ---
 id: lotzö
 slug: lotzö
-title: lotzö
+title: LOTZÖ
 sidebar_position: 732
 hoverText: ray/beam § Noun
 ---
 
-### ray/beam § Noun
+### lotzö
+
+*ray/beam* **§** Noun
 
 **Verb**: to be a ray/beam
 

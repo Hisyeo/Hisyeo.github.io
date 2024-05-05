@@ -1,12 +1,14 @@
 ---
 id: mocı
 slug: mocı
-title: mocı
+title: MOCI
 sidebar_position: 607
 hoverText: to await (an expectation) § Verb
 ---
 
-### to await (an expectation) § Verb
+### mocı
+
+*to await (an expectation)* **§** Verb
 
 **Verb**: to await/expect
 

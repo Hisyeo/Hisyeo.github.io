@@ -1,12 +1,14 @@
 ---
 id: vunlit
 slug: vunlit
-title: vunlit
+title: VUNLİT
 sidebar_position: 597
 hoverText: split § Modifier
 ---
 
-### split § Modifier
+### vunlit
+
+*split* **§** Modifier
 
 **Verb**: to be split/divided
 

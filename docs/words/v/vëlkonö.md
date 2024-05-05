@@ -1,12 +1,14 @@
 ---
 id: vëlkonö
 slug: vëlkonö
-title: vëlkonö
+title: VËLKONÖ
 sidebar_position: 579
 hoverText: close § Modifier
 ---
 
-### close § Modifier
+### vëlkonö
+
+*close* **§** Modifier
 
 **Verb**: to be close
 

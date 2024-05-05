@@ -1,12 +1,14 @@
 ---
 id: somö
 slug: somö
-title: somö
+title: SOMÖ
 sidebar_position: 349
 hoverText: only § Modifier
 ---
 
-### only § Modifier
+### somö
+
+*only* **§** Modifier
 
 **Verb**: to be alone/exclusive
 

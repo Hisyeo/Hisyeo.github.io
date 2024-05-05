@@ -1,12 +1,14 @@
 ---
 id: zızıme
 slug: zızıme
-title: zızıme
+title: ZIZIME
 sidebar_position: 482
 hoverText: generation § Noun
 ---
 
-### generation § Noun
+### zızıme
+
+*generation* **§** Noun
 
 **Verb**: to be a generation/era
 

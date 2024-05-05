@@ -1,12 +1,14 @@
 ---
 id: sunyotni
 slug: sunyotni
-title: sunyotni
+title: SUNYOTNİ
 sidebar_position: 382
 hoverText: interested/amused § Modifier
 ---
 
-### interested/amused § Modifier
+### sunyotni
+
+*interested/amused* **§** Modifier
 
 **Verb**: to be interested/amused
 

@@ -1,12 +1,14 @@
 ---
 id: vizi
 slug: vizi
-title: vizi
+title: VİZİ
 sidebar_position: 591
 hoverText: to bury (buryable entity) § Verb
 ---
 
-### to bury (buryable entity) § Verb
+### vizi
+
+*to bury (buryable entity)* **§** Verb
 
 **Verb**: to bury
 

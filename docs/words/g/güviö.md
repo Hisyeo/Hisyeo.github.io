@@ -1,12 +1,14 @@
 ---
 id: güviö
 slug: güviö
-title: güviö
+title: GÜVİÖ
 sidebar_position: 244
 hoverText: to push (a pushable entity) § Verb
 ---
 
-### to push (a pushable entity) § Verb
+### güviö
+
+*to push (a pushable entity)* **§** Verb
 
 **Verb**: to push/repel
 

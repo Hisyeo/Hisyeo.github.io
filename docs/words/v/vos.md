@@ -1,12 +1,14 @@
 ---
 id: vos
 slug: vos
-title: vos
+title: VOS
 sidebar_position: 566
 hoverText: relative clause particle § Grammar
 ---
 
-### relative clause particle § Grammar
+### vos
+
+*relative clause particle* **§** Grammar
 
 **Verb**: -
 

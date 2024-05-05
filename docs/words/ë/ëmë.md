@@ -1,12 +1,14 @@
 ---
 id: ëmë
 slug: ëmë
-title: ëmë
+title: ËMË
 sidebar_position: 50
 hoverText: vague/imprecise § Modifier
 ---
 
-### vague/imprecise § Modifier
+### ëmë
+
+*vague/imprecise* **§** Modifier
 
 **Verb**: to be vague/imprecise
 

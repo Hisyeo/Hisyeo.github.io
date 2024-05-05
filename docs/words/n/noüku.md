@@ -1,12 +1,14 @@
 ---
 id: noüku
 slug: noüku
-title: noüku
+title: NOÜKU
 sidebar_position: 659
 hoverText: science § Noun
 ---
 
-### science § Noun
+### noüku
+
+*science* **§** Noun
 
 **Verb**: to be science
 

@@ -1,12 +1,14 @@
 ---
 id: hünsüon
 slug: hünsüon
-title: hünsüon
+title: HÜNSÜON
 sidebar_position: 142
 hoverText: partner § Noun
 ---
 
-### partner § Noun
+### hünsüon
+
+*partner* **§** Noun
 
 **Verb**: to be a partner
 

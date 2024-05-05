@@ -1,12 +1,14 @@
 ---
 id: ëpöl
 slug: ëpöl
-title: ëpöl
+title: ËPÖL
 sidebar_position: 48
 hoverText: shoulder § Noun
 ---
 
-### shoulder § Noun
+### ëpöl
+
+*shoulder* **§** Noun
 
 **Verb**: to be a shoulder
 

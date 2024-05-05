@@ -1,12 +1,14 @@
 ---
 id: pogö
 slug: pogö
-title: pogö
+title: POGÖ
 sidebar_position: 500
 hoverText: luck § Noun
 ---
 
-### luck § Noun
+### pogö
+
+*luck* **§** Noun
 
 **Verb**: to be luck/fate
 

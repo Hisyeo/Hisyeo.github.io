@@ -1,12 +1,14 @@
 ---
 id: lı
 slug: lı
-title: lı
+title: LI
 sidebar_position: 754
 hoverText: realis verb particle § Grammar
 ---
 
-### realis verb particle § Grammar
+### lı
+
+*realis verb particle* **§** Grammar
 
 **Verb**: -
 

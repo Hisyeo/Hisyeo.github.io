@@ -1,12 +1,14 @@
 ---
 id: pilüs
 slug: pilüs
-title: pilüs
+title: PİLÜS
 sidebar_position: 545
 hoverText: victorious § Modifier
 ---
 
-### victorious § Modifier
+### pilüs
+
+*victorious* **§** Modifier
 
 **Verb**: to be victorious
 

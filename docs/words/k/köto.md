@@ -1,12 +1,14 @@
 ---
 id: köto
 slug: köto
-title: köto
+title: KÖTO
 sidebar_position: 161
 hoverText: to talk (speech) § Verb
 ---
 
-### to talk (speech) § Verb
+### köto
+
+*to talk (speech)* **§** Verb
 
 **Verb**: to talk/say
 

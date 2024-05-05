@@ -1,12 +1,14 @@
 ---
 id: nonkü
 slug: nonkü
-title: nonkü
+title: NONKÜ
 sidebar_position: 668
 hoverText: 04 four § Quantity
 ---
 
-### 04 four § Quantity
+### nonkü
+
+*04 four* **§** Quantity
 
 **Verb**: to be four
 

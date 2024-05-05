@@ -1,12 +1,14 @@
 ---
 id: vüxüpin
 slug: vüxüpin
-title: vüxüpin
+title: VÜXÜPİN
 sidebar_position: 602
 hoverText: accessory § Modifier
 ---
 
-### accessory § Modifier
+### vüxüpin
+
+*accessory* **§** Modifier
 
 **Verb**: to be an accessory/attachment
 

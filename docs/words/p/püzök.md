@@ -1,12 +1,14 @@
 ---
 id: püzök
 slug: püzök
-title: püzök
+title: PÜZÖK
 sidebar_position: 557
 hoverText: lack § Quantity
 ---
 
-### lack § Quantity
+### püzök
+
+*lack* **§** Quantity
 
 **Verb**: to be lacking/short/deficient
 

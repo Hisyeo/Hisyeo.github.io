@@ -1,12 +1,14 @@
 ---
 id: höktun
 slug: höktun
-title: höktun
+title: HÖKTUN
 sidebar_position: 115
 hoverText: mammal § Noun
 ---
 
-### mammal § Noun
+### höktun
+
+*mammal* **§** Noun
 
 **Verb**: to be a mammal
 

@@ -1,12 +1,14 @@
 ---
 id: cok
 slug: cok
-title: cok
+title: COK
 sidebar_position: 286
 hoverText: departing § Modifier
 ---
 
-### departing § Modifier
+### cok
+
+*departing* **§** Modifier
 
 **Verb**: to be departing/leaving
 

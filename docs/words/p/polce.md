@@ -1,12 +1,14 @@
 ---
 id: polce
 slug: polce
-title: polce
+title: POLCE
 sidebar_position: 512
 hoverText: cloth/fabric § Noun
 ---
 
-### cloth/fabric § Noun
+### polce
+
+*cloth/fabric* **§** Noun
 
 **Verb**: to be cloth/fabric
 

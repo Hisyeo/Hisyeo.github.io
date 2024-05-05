@@ -1,12 +1,14 @@
 ---
 id: vixës
 slug: vixës
-title: vixës
+title: VİXËS
 sidebar_position: 590
 hoverText: special/unique § Modifier
 ---
 
-### special/unique § Modifier
+### vixës
+
+*special/unique* **§** Modifier
 
 **Verb**: to be special/unique
 

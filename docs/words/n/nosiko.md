@@ -1,12 +1,14 @@
 ---
 id: nosiko
 slug: nosiko
-title: nosiko
+title: NOSİKO
 sidebar_position: 663
 hoverText: nose § Noun
 ---
 
-### nose § Noun
+### nosiko
+
+*nose* **§** Noun
 
 **Verb**: to be a nose/snout/trunk
 

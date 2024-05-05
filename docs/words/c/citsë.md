@@ -1,12 +1,14 @@
 ---
 id: citsë
 slug: citsë
-title: citsë
+title: CİTSË
 sidebar_position: 317
 hoverText: to accuse § Verb
 ---
 
-### to accuse § Verb
+### citsë
+
+*to accuse* **§** Verb
 
 **Verb**: to accuse/blame
 

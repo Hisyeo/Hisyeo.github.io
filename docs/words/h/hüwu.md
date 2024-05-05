@@ -1,12 +1,14 @@
 ---
 id: hüwu
 slug: hüwu
-title: hüwu
+title: HÜWU
 sidebar_position: 143
 hoverText: egg § Noun
 ---
 
-### egg § Noun
+### hüwu
+
+*egg* **§** Noun
 
 **Verb**: to be a egg
 

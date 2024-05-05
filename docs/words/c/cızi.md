@@ -1,12 +1,14 @@
 ---
 id: cızi
 slug: cızi
-title: cızi
+title: CIZİ
 sidebar_position: 304
 hoverText: self § Pronoun
 ---
 
-### self § Pronoun
+### cızi
+
+*self* **§** Pronoun
 
 **Verb**: to be oneself
 

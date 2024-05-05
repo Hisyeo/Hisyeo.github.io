@@ -1,12 +1,14 @@
 ---
 id: undovöl
 slug: undovöl
-title: undovöl
+title: UNDOVÖL
 sidebar_position: 79
 hoverText: legume § Noun
 ---
 
-### legume § Noun
+### undovöl
+
+*legume* **§** Noun
 
 **Verb**: to be a legume
 

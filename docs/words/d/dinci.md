@@ -1,12 +1,14 @@
 ---
 id: dinci
 slug: dinci
-title: dinci
+title: DİNCİ
 sidebar_position: 447
 hoverText: block § Noun
 ---
 
-### block § Noun
+### dinci
+
+*block* **§** Noun
 
 **Verb**: to be a block/brick
 

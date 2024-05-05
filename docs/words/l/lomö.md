@@ -1,12 +1,14 @@
 ---
 id: lomö
 slug: lomö
-title: lomö
+title: LOMÖ
 sidebar_position: 735
 hoverText: long § Modifier
 ---
 
-### long § Modifier
+### lomö
+
+*long* **§** Modifier
 
 **Verb**: to be long
 

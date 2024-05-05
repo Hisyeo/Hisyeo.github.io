@@ -1,12 +1,14 @@
 ---
 id: ıstıhol
 slug: ıstıhol
-title: ıstıhol
+title: ISTIHOL
 sidebar_position: 55
 hoverText: honor/glory § Noun
 ---
 
-### honor/glory § Noun
+### ıstıhol
+
+*honor/glory* **§** Noun
 
 **Verb**: to be honor/glory
 

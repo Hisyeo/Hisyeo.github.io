@@ -1,12 +1,14 @@
 ---
 id: hoxopë
 slug: hoxopë
-title: hoxopë
+title: HOXOPË
 sidebar_position: 108
 hoverText: beam/joist/stud § Noun
 ---
 
-### beam/joist/stud § Noun
+### hoxopë
+
+*beam/joist/stud* **§** Noun
 
 **Verb**: to be a beam/joist/stud
 

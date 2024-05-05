@@ -1,12 +1,14 @@
 ---
 id: mınyoto
 slug: mınyoto
-title: mınyoto
+title: MINYOTO
 sidebar_position: 632
 hoverText: gastropod § Noun
 ---
 
-### gastropod § Noun
+### mınyoto
+
+*gastropod* **§** Noun
 
 **Verb**: to be a slug/snail/gastropod
 

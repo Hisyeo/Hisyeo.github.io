@@ -1,12 +1,14 @@
 ---
 id: tocı
 slug: tocı
-title: tocı
+title: TOCI
 sidebar_position: 253
 hoverText: standing § Modifier
 ---
 
-### standing § Modifier
+### tocı
+
+*standing* **§** Modifier
 
 **Verb**: to be standing/vertical
 

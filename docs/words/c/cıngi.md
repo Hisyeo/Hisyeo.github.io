@@ -1,12 +1,14 @@
 ---
 id: cıngi
 slug: cıngi
-title: cıngi
+title: CINGİ
 sidebar_position: 310
 hoverText: electricity § Noun
 ---
 
-### electricity § Noun
+### cıngi
+
+*electricity* **§** Noun
 
 **Verb**: to be electricity
 

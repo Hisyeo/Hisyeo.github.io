@@ -1,12 +1,14 @@
 ---
 id: tüu
 slug: tüu
-title: tüu
+title: TÜU
 sidebar_position: 281
 hoverText: to do (an action) § Verb
 ---
 
-### to do (an action) § Verb
+### tüu
+
+*to do (an action)* **§** Verb
 
 **Verb**: to do/perform/execute/work
 

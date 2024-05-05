@@ -1,12 +1,14 @@
 ---
 id: onomü
 slug: onomü
-title: onomü
+title: ONOMÜ
 sidebar_position: 18
 hoverText: rice § Noun
 ---
 
-### rice § Noun
+### onomü
+
+*rice* **§** Noun
 
 **Verb**: to be rice
 

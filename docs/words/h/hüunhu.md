@@ -1,12 +1,14 @@
 ---
 id: hüunhu
 slug: hüunhu
-title: hüunhu
+title: HÜUNHU
 sidebar_position: 134
 hoverText: mixed § Modifier
 ---
 
-### mixed § Modifier
+### hüunhu
+
+*mixed* **§** Modifier
 
 **Verb**: to be mixed/heterogenous/unsorted
 

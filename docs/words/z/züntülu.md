@@ -1,12 +1,14 @@
 ---
 id: züntülu
 slug: züntülu
-title: züntülu
+title: ZÜNTÜLU
 sidebar_position: 496
 hoverText: joint § Noun
 ---
 
-### joint § Noun
+### züntülu
+
+*joint* **§** Noun
 
 **Verb**: to be a joint
 

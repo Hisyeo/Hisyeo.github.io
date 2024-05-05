@@ -1,12 +1,14 @@
 ---
 id: yonduyo
 slug: yonduyo
-title: yonduyo
+title: YONDUYO
 sidebar_position: 781
 hoverText: machine § Noun
 ---
 
-### machine § Noun
+### yonduyo
+
+*machine* **§** Noun
 
 **Verb**: to be a machine
 

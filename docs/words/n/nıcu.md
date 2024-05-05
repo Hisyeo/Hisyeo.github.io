@@ -1,12 +1,14 @@
 ---
 id: nıcu
 slug: nıcu
-title: nıcu
+title: NICU
 sidebar_position: 682
 hoverText: sneeze § Noun
 ---
 
-### sneeze § Noun
+### nıcu
+
+*sneeze* **§** Noun
 
 **Verb**: to be a sneeze
 

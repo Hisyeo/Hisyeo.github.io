@@ -1,12 +1,14 @@
 ---
 id: dën
 slug: dën
-title: dën
+title: DËN
 sidebar_position: 441
 hoverText: counter-agent marker (against) § Preposition
 ---
 
-### counter-agent marker (against) § Preposition
+### dën
+
+*counter-agent marker (against)* **§** Preposition
 
 **Verb**: -
 

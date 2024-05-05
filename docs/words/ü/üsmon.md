@@ -1,12 +1,14 @@
 ---
 id: üsmon
 slug: üsmon
-title: üsmon
+title: ÜSMON
 sidebar_position: 88
 hoverText: gas § Noun
 ---
 
-### gas § Noun
+### üsmon
+
+*gas* **§** Noun
 
 **Verb**: to be a gas/vapor
 

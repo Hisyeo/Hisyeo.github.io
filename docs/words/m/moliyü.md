@@ -1,12 +1,14 @@
 ---
 id: moliyü
 slug: moliyü
-title: moliyü
+title: MOLİYÜ
 sidebar_position: 617
 hoverText: and § Connector
 ---
 
-### and § Connector
+### moliyü
+
+*and* **§** Connector
 
 **Verb**: -
 

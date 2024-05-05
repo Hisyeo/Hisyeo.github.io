@@ -1,12 +1,14 @@
 ---
 id: kukwon
 slug: kukwon
-title: kukwon
+title: KUKWON
 sidebar_position: 195
 hoverText: organ/member § Noun
 ---
 
-### organ/member § Noun
+### kukwon
+
+*organ/member* **§** Noun
 
 **Verb**: to be an organ/member
 

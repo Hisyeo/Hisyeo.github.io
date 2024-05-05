@@ -1,12 +1,14 @@
 ---
 id: potuk
 slug: potuk
-title: potuk
+title: POTUK
 sidebar_position: 501
 hoverText: flat § Modifier
 ---
 
-### flat § Modifier
+### potuk
+
+*flat* **§** Modifier
 
 **Verb**: to be flat
 

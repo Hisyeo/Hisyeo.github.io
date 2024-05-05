@@ -1,12 +1,14 @@
 ---
 id: xodilü
 slug: xodilü
-title: xodilü
+title: XODİLÜ
 sidebar_position: 395
 hoverText: loose § Modifier
 ---
 
-### loose § Modifier
+### xodilü
+
+*loose* **§** Modifier
 
 **Verb**: to be loose
 

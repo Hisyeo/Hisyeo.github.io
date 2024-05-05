@@ -1,12 +1,14 @@
 ---
 id: pono
 slug: pono
-title: pono
+title: PONO
 sidebar_position: 508
 hoverText: facing/pointing § Modifier
 ---
 
-### facing/pointing § Modifier
+### pono
+
+*facing/pointing* **§** Modifier
 
 **Verb**: to be facing/pointing
 

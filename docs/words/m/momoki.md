@@ -1,12 +1,14 @@
 ---
 id: momoki
 slug: momoki
-title: momoki
+title: MOMOKİ
 sidebar_position: 613
 hoverText: surprised § Modifier
 ---
 
-### surprised § Modifier
+### momoki
+
+*surprised* **§** Modifier
 
 **Verb**: to be surprised/shocked
 

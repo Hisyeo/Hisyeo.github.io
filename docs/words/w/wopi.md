@@ -1,12 +1,14 @@
 ---
 id: wopi
 slug: wopi
-title: wopi
+title: WOPİ
 sidebar_position: 703
 hoverText: island § Noun
 ---
 
-### island § Noun
+### wopi
+
+*island* **§** Noun
 
 **Verb**: to be an island
 

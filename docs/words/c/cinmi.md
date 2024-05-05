@@ -1,12 +1,14 @@
 ---
 id: cinmi
 slug: cinmi
-title: cinmi
+title: CİNMİ
 sidebar_position: 320
 hoverText: precise/specific § Modifier
 ---
 
-### precise/specific § Modifier
+### cinmi
+
+*precise/specific* **§** Modifier
 
 **Verb**: to be precise/specific
 

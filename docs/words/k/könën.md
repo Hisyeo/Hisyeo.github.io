@@ -1,12 +1,14 @@
 ---
 id: könën
 slug: könën
-title: könën
+title: KÖNËN
 sidebar_position: 169
 hoverText: possible/likely § Modifier
 ---
 
-### possible/likely § Modifier
+### könën
+
+*possible/likely* **§** Modifier
 
 **Verb**: to be possible/likely
 

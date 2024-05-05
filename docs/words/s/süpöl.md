@@ -1,12 +1,14 @@
 ---
 id: süpöl
 slug: süpöl
-title: süpöl
+title: SÜPÖL
 sidebar_position: 386
 hoverText: fertile/productive § Modifier
 ---
 
-### fertile/productive § Modifier
+### süpöl
+
+*fertile/productive* **§** Modifier
 
 **Verb**: to be fertile/productive
 

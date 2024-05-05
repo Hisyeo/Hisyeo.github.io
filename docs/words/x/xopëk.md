@@ -1,12 +1,14 @@
 ---
 id: xopëk
 slug: xopëk
-title: xopëk
+title: XOPËK
 sidebar_position: 396
 hoverText: previous § Modifier
 ---
 
-### previous § Modifier
+### xopëk
+
+*previous* **§** Modifier
 
 **Verb**: to be previous/former
 

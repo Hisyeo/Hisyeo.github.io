@@ -1,12 +1,14 @@
 ---
 id: cüonwun
 slug: cüonwun
-title: cüonwun
+title: CÜONWUN
 sidebar_position: 327
 hoverText: rumor § Noun
 ---
 
-### rumor § Noun
+### cüonwun
+
+*rumor* **§** Noun
 
 **Verb**: to be a rumor
 

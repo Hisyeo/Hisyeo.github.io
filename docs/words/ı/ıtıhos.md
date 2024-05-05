@@ -1,12 +1,14 @@
 ---
 id: ıtıhos
 slug: ıtıhos
-title: ıtıhos
+title: ITIHOS
 sidebar_position: 54
 hoverText: history § Noun
 ---
 
-### history § Noun
+### ıtıhos
+
+*history* **§** Noun
 
 **Verb**: to be a history
 

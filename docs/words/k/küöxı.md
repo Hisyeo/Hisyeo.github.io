@@ -1,12 +1,14 @@
 ---
 id: küöxı
 slug: küöxı
-title: küöxı
+title: KÜÖXI
 sidebar_position: 202
 hoverText: fruit § Noun
 ---
 
-### fruit § Noun
+### küöxı
+
+*fruit* **§** Noun
 
 **Verb**: to be a fruit
 

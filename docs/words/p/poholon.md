@@ -1,12 +1,14 @@
 ---
 id: poholon
 slug: poholon
-title: poholon
+title: POHOLON
 sidebar_position: 499
 hoverText: closet/cupboard/cabinet § Noun
 ---
 
-### closet/cupboard/cabinet § Noun
+### poholon
+
+*closet/cupboard/cabinet* **§** Noun
 
 **Verb**: to be a closet/cupboard/cabinet
 

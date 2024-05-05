@@ -1,12 +1,14 @@
 ---
 id: köndonsë
 slug: köndonsë
-title: köndonsë
+title: KÖNDONSË
 sidebar_position: 172
 hoverText: condensed/concentrated § Modifier
 ---
 
-### condensed/concentrated § Modifier
+### köndonsë
+
+*condensed/concentrated* **§** Modifier
 
 **Verb**: to be condensed/concentrated
 

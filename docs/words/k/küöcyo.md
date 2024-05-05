@@ -1,12 +1,14 @@
 ---
 id: küöcyo
 slug: küöcyo
-title: küöcyo
+title: KÜÖCYO
 sidebar_position: 201
 hoverText: state § Noun
 ---
 
-### state § Noun
+### küöcyo
+
+*state* **§** Noun
 
 **Verb**: to be a state/polity
 

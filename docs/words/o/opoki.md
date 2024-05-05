@@ -1,12 +1,14 @@
 ---
 id: opoki
 slug: opoki
-title: opoki
+title: OPOKİ
 sidebar_position: 12
 hoverText: glass § Noun
 ---
 
-### glass § Noun
+### opoki
+
+*glass* **§** Noun
 
 **Verb**: to be glass/crystal
 

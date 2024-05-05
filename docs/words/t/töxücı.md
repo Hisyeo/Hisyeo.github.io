@@ -1,12 +1,14 @@
 ---
 id: töxücı
 slug: töxücı
-title: töxücı
+title: TÖXÜCI
 sidebar_position: 261
 hoverText: bump § Noun
 ---
 
-### bump § Noun
+### töxücı
+
+*bump* **§** Noun
 
 **Verb**: to be a protrusion/bulge/bump
 

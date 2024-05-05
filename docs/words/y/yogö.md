@@ -1,12 +1,14 @@
 ---
 id: yogö
 slug: yogö
-title: yogö
+title: YOGÖ
 sidebar_position: 775
 hoverText: part/piece § Noun
 ---
 
-### part/piece § Noun
+### yogö
+
+*part/piece* **§** Noun
 
 **Verb**: to be a part/piece
 

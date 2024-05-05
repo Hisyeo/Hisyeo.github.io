@@ -1,12 +1,14 @@
 ---
 id: non
 slug: non
-title: non
+title: NON
 sidebar_position: 667
 hoverText: movie/show § Noun
 ---
 
-### movie/show § Noun
+### non
+
+*movie/show* **§** Noun
 
 **Verb**: to be a movie/film/show/video
 

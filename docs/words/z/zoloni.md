@@ -1,12 +1,14 @@
 ---
 id: zoloni
 slug: zoloni
-title: zoloni
+title: ZOLONİ
 sidebar_position: 473
 hoverText: fuel § Noun
 ---
 
-### fuel § Noun
+### zoloni
+
+*fuel* **§** Noun
 
 **Verb**: to be fuel
 

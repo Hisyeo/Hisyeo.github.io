@@ -1,12 +1,14 @@
 ---
 id: zoston
 slug: zoston
-title: zoston
+title: ZOSTON
 sidebar_position: 465
 hoverText: jump § Noun
 ---
 
-### jump § Noun
+### zoston
+
+*jump* **§** Noun
 
 **Verb**: to be a jump/ascent/leap
 

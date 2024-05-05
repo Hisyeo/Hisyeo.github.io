@@ -1,12 +1,14 @@
 ---
 id: püihi
 slug: püihi
-title: püihi
+title: PÜİHİ
 sidebar_position: 552
 hoverText: timid/shy § Modifier
 ---
 
-### timid/shy § Modifier
+### püihi
+
+*timid/shy* **§** Modifier
 
 **Verb**: to be timid/shy
 

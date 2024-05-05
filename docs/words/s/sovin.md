@@ -1,12 +1,14 @@
 ---
 id: sovin
 slug: sovin
-title: sovin
+title: SOVİN
 sidebar_position: 348
 hoverText: pure § Modifier
 ---
 
-### pure § Modifier
+### sovin
+
+*pure* **§** Modifier
 
 **Verb**: to be pure/homogeneous/sorted
 

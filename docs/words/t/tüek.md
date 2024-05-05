@@ -1,12 +1,14 @@
 ---
 id: tüek
 slug: tüek
-title: tüek
+title: TÜEK
 sidebar_position: 280
 hoverText: to compute (a computation) § Verb
 ---
 
-### to compute (a computation) § Verb
+### tüek
+
+*to compute (a computation)* **§** Verb
 
 **Verb**: to compute/calculate
 

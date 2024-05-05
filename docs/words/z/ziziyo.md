@@ -1,12 +1,14 @@
 ---
 id: ziziyo
 slug: ziziyo
-title: ziziyo
+title: ZİZİYO
 sidebar_position: 488
 hoverText: tendon/root § Noun
 ---
 
-### tendon/root § Noun
+### ziziyo
+
+*tendon/root* **§** Noun
 
 **Verb**: to be a tendon/root
 

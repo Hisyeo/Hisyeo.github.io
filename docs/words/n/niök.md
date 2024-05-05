@@ -1,12 +1,14 @@
 ---
 id: niök
 slug: niök
-title: niök
+title: NİÖK
 sidebar_position: 687
 hoverText: growing § Modifier
 ---
 
-### growing § Modifier
+### niök
+
+*growing* **§** Modifier
 
 **Verb**: to be growing/sprouting
 

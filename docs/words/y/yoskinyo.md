@@ -1,12 +1,14 @@
 ---
 id: yoskinyo
 slug: yoskinyo
-title: yoskinyo
+title: YOSKİNYO
 sidebar_position: 777
 hoverText: cave § Noun
 ---
 
-### cave § Noun
+### yoskinyo
+
+*cave* **§** Noun
 
 **Verb**: to be a cave/cavern/den
 

@@ -1,12 +1,14 @@
 ---
 id: hosoün
 slug: hosoün
-title: hosoün
+title: HOSOÜN
 sidebar_position: 106
 hoverText: ratio/proportion § Noun
 ---
 
-### ratio/proportion § Noun
+### hosoün
+
+*ratio/proportion* **§** Noun
 
 **Verb**: to be a ratio/proportion
 

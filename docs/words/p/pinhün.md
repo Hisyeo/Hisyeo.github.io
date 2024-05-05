@@ -1,12 +1,14 @@
 ---
 id: pinhün
 slug: pinhün
-title: pinhün
+title: PİNHÜN
 sidebar_position: 543
 hoverText: magenta § Modifier
 ---
 
-### magenta § Modifier
+### pinhün
+
+*magenta* **§** Modifier
 
 **Verb**: to be magenta
 

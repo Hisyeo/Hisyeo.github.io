@@ -1,12 +1,14 @@
 ---
 id: vilo
 slug: vilo
-title: vilo
+title: VİLO
 sidebar_position: 593
 hoverText: row § Noun
 ---
 
-### row § Noun
+### vilo
+
+*row* **§** Noun
 
 **Verb**: to be a row
 

@@ -1,12 +1,14 @@
 ---
 id: pökövoc
 slug: pökövoc
-title: pökövoc
+title: PÖKÖVOC
 sidebar_position: 514
 hoverText: to block (blockable entity) § Verb
 ---
 
-### to block (blockable entity) § Verb
+### pökövoc
+
+*to block (blockable entity)* **§** Verb
 
 **Verb**: to block/obstruct
 

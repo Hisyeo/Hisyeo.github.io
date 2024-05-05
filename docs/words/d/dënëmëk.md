@@ -1,12 +1,14 @@
 ---
 id: dënëmëk
 slug: dënëmëk
-title: dënëmëk
+title: DËNËMËK
 sidebar_position: 442
 hoverText: to try (a trial) § Verb
 ---
 
-### to try (a trial) § Verb
+### dënëmëk
+
+*to try (a trial)* **§** Verb
 
 **Verb**: to try/attempt
 

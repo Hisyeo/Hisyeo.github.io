@@ -1,12 +1,14 @@
 ---
 id: dülüsi
 slug: dülüsi
-title: dülüsi
+title: DÜLÜSİ
 sidebar_position: 461
 hoverText: reptile § Noun
 ---
 
-### reptile § Noun
+### dülüsi
+
+*reptile* **§** Noun
 
 **Verb**: to be a reptile
 

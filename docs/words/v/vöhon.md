@@ -1,12 +1,14 @@
 ---
 id: vöhon
 slug: vöhon
-title: vöhon
+title: VÖHON
 sidebar_position: 572
 hoverText: forward § Noun
 ---
 
-### forward § Noun
+### vöhon
+
+*forward* **§** Noun
 
 **Verb**: to be the front/forward region
 

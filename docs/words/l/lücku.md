@@ -1,12 +1,14 @@
 ---
 id: lücku
 slug: lücku
-title: lücku
+title: LÜCKU
 sidebar_position: 770
 hoverText: lever/knob/handle § Noun
 ---
 
-### lever/knob/handle § Noun
+### lücku
+
+*lever/knob/handle* **§** Noun
 
 **Verb**: to be a lever/knob/handle
 

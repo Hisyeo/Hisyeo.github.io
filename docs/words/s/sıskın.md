@@ -1,12 +1,14 @@
 ---
 id: sıskın
 slug: sıskın
-title: sıskın
+title: SISKIN
 sidebar_position: 368
 hoverText: sibling § Noun
 ---
 
-### sibling § Noun
+### sıskın
+
+*sibling* **§** Noun
 
 **Verb**: to be a sibling
 

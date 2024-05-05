@@ -1,12 +1,14 @@
 ---
 id: küon
 slug: küon
-title: küon
+title: KÜON
 sidebar_position: 199
 hoverText: light § Noun
 ---
 
-### light § Noun
+### küon
+
+*light* **§** Noun
 
 **Verb**: to be light
 

@@ -1,12 +1,14 @@
 ---
 id: xüxok
 slug: xüxok
-title: xüxok
+title: XÜXOK
 sidebar_position: 426
 hoverText: hell § Noun
 ---
 
-### hell § Noun
+### xüxok
+
+*hell* **§** Noun
 
 **Verb**: to be hell
 

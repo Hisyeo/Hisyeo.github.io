@@ -1,12 +1,14 @@
 ---
 id: nu
 slug: nu
-title: nu
+title: NU
 sidebar_position: 690
 hoverText: curiosity clause ender (what about) § Grammar
 ---
 
-### curiosity clause ender (what about) § Grammar
+### nu
+
+*curiosity clause ender (what about)* **§** Grammar
 
 **Verb**: -
 

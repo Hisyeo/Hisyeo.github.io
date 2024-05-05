@@ -1,12 +1,14 @@
 ---
 id: ëto
 slug: ëto
-title: ëto
+title: ËTO
 sidebar_position: 47
 hoverText: many § Quantity
 ---
 
-### many § Quantity
+### ëto
+
+*many* **§** Quantity
 
 **Verb**: to be many/a lot
 

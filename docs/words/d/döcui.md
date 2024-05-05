@@ -1,12 +1,14 @@
 ---
 id: döcui
 slug: döcui
-title: döcui
+title: DÖCUİ
 sidebar_position: 436
 hoverText: toy § Noun
 ---
 
-### toy § Noun
+### döcui
+
+*toy* **§** Noun
 
 **Verb**: to be a toy
 

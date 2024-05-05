@@ -1,12 +1,14 @@
 ---
 id: tüt
 slug: tüt
-title: tüt
+title: TÜT
 sidebar_position: 282
 hoverText: hot § Modifier
 ---
 
-### hot § Modifier
+### tüt
+
+*hot* **§** Modifier
 
 **Verb**: to be hot
 

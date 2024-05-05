@@ -1,12 +1,14 @@
 ---
 id: cipon
 slug: cipon
-title: cipon
+title: CİPON
 sidebar_position: 318
 hoverText: fat/grease § Noun
 ---
 
-### fat/grease § Noun
+### cipon
+
+*fat/grease* **§** Noun
 
 **Verb**: to be a fat/grease
 

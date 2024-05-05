@@ -1,12 +1,14 @@
 ---
 id: zötëstö
 slug: zötëstö
-title: zötëstö
+title: ZÖTËSTÖ
 sidebar_position: 477
 hoverText: sufficient/enough § Quantity
 ---
 
-### sufficient/enough § Quantity
+### zötëstö
+
+*sufficient/enough* **§** Quantity
 
 **Verb**: to be sufficient/enough/adequate
 

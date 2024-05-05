@@ -1,12 +1,14 @@
 ---
 id: limien
 slug: limien
-title: limien
+title: LİMİEN
 sidebar_position: 763
 hoverText: inside § Noun
 ---
 
-### inside § Noun
+### limien
+
+*inside* **§** Noun
 
 **Verb**: to be the inside region
 

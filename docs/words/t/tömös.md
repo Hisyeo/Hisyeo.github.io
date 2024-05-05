@@ -1,12 +1,14 @@
 ---
 id: tömös
 slug: tömös
-title: tömös
+title: TÖMÖS
 sidebar_position: 262
 hoverText: book § Noun
 ---
 
-### book § Noun
+### tömös
+
+*book* **§** Noun
 
 **Verb**: to be a tome/book
 

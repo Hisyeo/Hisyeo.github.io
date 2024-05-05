@@ -1,12 +1,14 @@
 ---
 id: oxon
 slug: oxon
-title: oxon
+title: OXON
 sidebar_position: 10
 hoverText: beneficiary/purpose marker (for) § Preposition
 ---
 
-### beneficiary/purpose marker (for) § Preposition
+### oxon
+
+*beneficiary/purpose marker (for)* **§** Preposition
 
 **Verb**: -
 

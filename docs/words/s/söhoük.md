@@ -1,12 +1,14 @@
 ---
 id: söhoük
 slug: söhoük
-title: söhoük
+title: SÖHOÜK
 sidebar_position: 354
 hoverText: arithmetic/math § Noun
 ---
 
-### arithmetic/math § Noun
+### söhoük
+
+*arithmetic/math* **§** Noun
 
 **Verb**: to be arithmetic/math
 

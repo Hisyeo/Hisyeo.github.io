@@ -1,12 +1,14 @@
 ---
 id: yoümok
 slug: yoümok
-title: yoümok
+title: YOÜMOK
 sidebar_position: 773
 hoverText: humorous § Modifier
 ---
 
-### humorous § Modifier
+### yoümok
+
+*humorous* **§** Modifier
 
 **Verb**: to be humorous
 

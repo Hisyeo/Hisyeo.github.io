@@ -1,12 +1,14 @@
 ---
 id: möniso
 slug: möniso
-title: möniso
+title: MÖNİSO
 sidebar_position: 625
 hoverText: to display/show (a diplay/show) § Verb
 ---
 
-### to display/show (a diplay/show) § Verb
+### möniso
+
+*to display/show (a diplay/show)* **§** Verb
 
 **Verb**: to display/show
 

@@ -1,12 +1,14 @@
 ---
 id: söltüstık
 slug: söltüstık
-title: söltüstık
+title: SÖLTÜSTIK
 sidebar_position: 360
 hoverText: northern § Modifier
 ---
 
-### northern § Modifier
+### söltüstık
+
+*northern* **§** Modifier
 
 **Verb**: to be northern
 

@@ -1,12 +1,14 @@
 ---
 id: gönyumon
 slug: gönyumon
-title: gönyumon
+title: GÖNYUMON
 sidebar_position: 226
 hoverText: grunting/growling § Modifier
 ---
 
-### grunting/growling § Modifier
+### gönyumon
+
+*grunting/growling* **§** Modifier
 
 **Verb**: to be grunting/growling
 

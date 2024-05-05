@@ -1,12 +1,14 @@
 ---
 id: gö
 slug: gö
-title: gö
+title: GÖ
 sidebar_position: 224
 hoverText: existent § Modifier
 ---
 
-### existent § Modifier
+### gö
+
+*existent* **§** Modifier
 
 **Verb**: to be/exist
 

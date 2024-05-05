@@ -1,12 +1,14 @@
 ---
 id: dondun
 slug: dondun
-title: dondun
+title: DONDUN
 sidebar_position: 433
 hoverText: traditional § Modifier
 ---
 
-### traditional § Modifier
+### dondun
+
+*traditional* **§** Modifier
 
 **Verb**: to be traditional/conventional
 

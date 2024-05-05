@@ -1,12 +1,14 @@
 ---
 id: tiso
 slug: tiso
-title: tiso
+title: TİSO
 sidebar_position: 274
 hoverText: 09 nine § Quantity
 ---
 
-### 09 nine § Quantity
+### tiso
+
+*09 nine* **§** Quantity
 
 **Verb**: to be nine
 

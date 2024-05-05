@@ -1,12 +1,14 @@
 ---
 id: xön
 slug: xön
-title: xön
+title: XÖN
 sidebar_position: 405
 hoverText: good § Modifier
 ---
 
-### good § Modifier
+### xön
+
+*good* **§** Modifier
 
 **Verb**: to be good
 

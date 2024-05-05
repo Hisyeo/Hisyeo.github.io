@@ -1,12 +1,14 @@
 ---
 id: küncien
 slug: küncien
-title: küncien
+title: KÜNCİEN
 sidebar_position: 210
 hoverText: room § Noun
 ---
 
-### room § Noun
+### küncien
+
+*room* **§** Noun
 
 **Verb**: to be a room/chamber
 

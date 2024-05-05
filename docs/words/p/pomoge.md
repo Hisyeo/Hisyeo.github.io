@@ -1,12 +1,14 @@
 ---
 id: pomoge
 slug: pomoge
-title: pomoge
+title: POMOGE
 sidebar_position: 507
 hoverText: prone § Modifier
 ---
 
-### prone § Modifier
+### pomoge
+
+*prone* **§** Modifier
 
 **Verb**: to be prone/prostrate
 

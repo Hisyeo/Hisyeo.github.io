@@ -1,12 +1,14 @@
 ---
 id: pölvëlë
 slug: pölvëlë
-title: pölvëlë
+title: PÖLVËLË
 sidebar_position: 521
 hoverText: powder § Noun
 ---
 
-### powder § Noun
+### pölvëlë
+
+*powder* **§** Noun
 
 **Verb**: to be powder/dust
 

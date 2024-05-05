@@ -1,12 +1,14 @@
 ---
 id: yodo
 slug: yodo
-title: yodo
+title: YODO
 sidebar_position: 779
 hoverText: or § Connector
 ---
 
-### or § Connector
+### yodo
+
+*or* **§** Connector
 
 **Verb**: -
 

@@ -1,12 +1,14 @@
 ---
 id: tolxëto
 slug: tolxëto
-title: tolxëto
+title: TOLXËTO
 sidebar_position: 259
 hoverText: card § Noun
 ---
 
-### card § Noun
+### tolxëto
+
+*card* **§** Noun
 
 **Verb**: to be a card
 

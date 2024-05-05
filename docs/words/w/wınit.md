@@ -1,12 +1,14 @@
 ---
 id: wınit
 slug: wınit
-title: wınit
+title: WINİT
 sidebar_position: 720
 hoverText: humble § Modifier
 ---
 
-### humble § Modifier
+### wınit
+
+*humble* **§** Modifier
 
 **Verb**: to be humble
 

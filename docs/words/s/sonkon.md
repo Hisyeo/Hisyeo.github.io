@@ -1,12 +1,14 @@
 ---
 id: sonkon
 slug: sonkon
-title: sonkon
+title: SONKON
 sidebar_position: 351
 hoverText: important § Modifier
 ---
 
-### important § Modifier
+### sonkon
+
+*important* **§** Modifier
 
 **Verb**: to be important/significant
 

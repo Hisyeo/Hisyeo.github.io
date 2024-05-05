@@ -1,12 +1,14 @@
 ---
 id: sukyunık
 slug: sukyunık
-title: sukyunık
+title: SUKYUNIK
 sidebar_position: 378
 hoverText: mucus § Noun
 ---
 
-### mucus § Noun
+### sukyunık
+
+*mucus* **§** Noun
 
 **Verb**: to be a mucus/phlegm/slime
 

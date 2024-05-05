@@ -1,12 +1,14 @@
 ---
 id: mulö
 slug: mulö
-title: mulö
+title: MULÖ
 sidebar_position: 644
 hoverText: up § Noun
 ---
 
-### up § Noun
+### mulö
+
+*up* **§** Noun
 
 **Verb**: to be the top/above region
 

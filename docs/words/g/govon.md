@@ -1,12 +1,14 @@
 ---
 id: govon
 slug: govon
-title: govon
+title: GOVON
 sidebar_position: 215
 hoverText: disgusted § Modifier
 ---
 
-### disgusted § Modifier
+### govon
+
+*disgusted* **§** Modifier
 
 **Verb**: to be disgusted
 

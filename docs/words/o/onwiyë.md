@@ -1,12 +1,14 @@
 ---
 id: onwiyë
 slug: onwiyë
-title: onwiyë
+title: ONWİYË
 sidebar_position: 26
 hoverText: bored § Modifier
 ---
 
-### bored § Modifier
+### onwiyë
+
+*bored* **§** Modifier
 
 **Verb**: to be bored
 

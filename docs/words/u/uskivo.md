@@ -1,12 +1,14 @@
 ---
 id: uskivo
 slug: uskivo
-title: uskivo
+title: USKİVO
 sidebar_position: 75
 hoverText: to avoid/dodge (avoidable/dodgeable entity) § Verb
 ---
 
-### to avoid/dodge (avoidable/dodgeable entity) § Verb
+### uskivo
+
+*to avoid/dodge (avoidable/dodgeable entity)* **§** Verb
 
 **Verb**: to avoid/dodge/evade
 

@@ -1,12 +1,14 @@
 ---
 id: düpono
 slug: düpono
-title: düpono
+title: DÜPONO
 sidebar_position: 458
 hoverText: to immerse (immersible entity) § Verb
 ---
 
-### to immerse (immersible entity) § Verb
+### düpono
+
+*to immerse (immersible entity)* **§** Verb
 
 **Verb**: to immerse/submerge
 

@@ -1,12 +1,14 @@
 ---
 id: önsu
 slug: önsu
-title: önsu
+title: ÖNSU
 sidebar_position: 40
 hoverText: 11 eleven § Quantity
 ---
 
-### 11 eleven § Quantity
+### önsu
+
+*11 eleven* **§** Quantity
 
 **Verb**: to be eleven
 

@@ -1,12 +1,14 @@
 ---
 id: konpokpo
 slug: konpokpo
-title: konpokpo
+title: KONPOKPO
 sidebar_position: 154
 hoverText: general/universal § Modifier
 ---
 
-### general/universal § Modifier
+### konpokpo
+
+*general/universal* **§** Modifier
 
 **Verb**: to be general/universal
 

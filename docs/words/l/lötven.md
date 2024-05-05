@@ -1,12 +1,14 @@
 ---
 id: lötven
 slug: lötven
-title: lötven
+title: LÖTVEN
 sidebar_position: 742
 hoverText: politeness clause ender § Grammar
 ---
 
-### politeness clause ender § Grammar
+### lötven
+
+*politeness clause ender* **§** Grammar
 
 **Verb**: -
 

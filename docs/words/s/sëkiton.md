@@ -1,12 +1,14 @@
 ---
 id: sëkiton
 slug: sëkiton
-title: sëkiton
+title: SËKİTON
 sidebar_position: 363
 hoverText: coal/cinder § Noun
 ---
 
-### coal/cinder § Noun
+### sëkiton
+
+*coal/cinder* **§** Noun
 
 **Verb**: to be a coal/cinder
 

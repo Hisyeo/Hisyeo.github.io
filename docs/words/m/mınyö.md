@@ -1,12 +1,14 @@
 ---
 id: mınyö
 slug: mınyö
-title: mınyö
+title: MINYÖ
 sidebar_position: 633
 hoverText: worm § Noun
 ---
 
-### worm § Noun
+### mınyö
+
+*worm* **§** Noun
 
 **Verb**: to be a worm
 

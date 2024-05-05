@@ -1,12 +1,14 @@
 ---
 id: zonüpi
 slug: zonüpi
-title: zonüpi
+title: ZONÜPİ
 sidebar_position: 469
 hoverText: southern § Modifier
 ---
 
-### southern § Modifier
+### zonüpi
+
+*southern* **§** Modifier
 
 **Verb**: to be southern
 

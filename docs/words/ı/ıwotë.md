@@ -1,12 +1,14 @@
 ---
 id: ıwotë
 slug: ıwotë
-title: ıwotë
+title: IWOTË
 sidebar_position: 58
 hoverText: tall § Modifier
 ---
 
-### tall § Modifier
+### ıwotë
+
+*tall* **§** Modifier
 
 **Verb**: to be tall/high
 

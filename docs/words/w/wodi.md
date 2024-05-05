@@ -1,12 +1,14 @@
 ---
 id: wodi
 slug: wodi
-title: wodi
+title: WODİ
 sidebar_position: 702
 hoverText: vile § Modifier
 ---
 
-### vile § Modifier
+### wodi
+
+*vile* **§** Modifier
 
 **Verb**: to be vile/wicked
 

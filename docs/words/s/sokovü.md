@@ -1,12 +1,14 @@
 ---
 id: sokovü
 slug: sokovü
-title: sokovü
+title: SOKOVÜ
 sidebar_position: 339
 hoverText: floor § Noun
 ---
 
-### floor § Noun
+### sokovü
+
+*floor* **§** Noun
 
 **Verb**: to be a floor/base
 

@@ -1,12 +1,14 @@
 ---
 id: sikin
 slug: sikin
-title: sikin
+title: SİKİN
 sidebar_position: 374
 hoverText: event § Noun
 ---
 
-### event § Noun
+### sikin
+
+*event* **§** Noun
 
 **Verb**: to be an event
 

@@ -1,12 +1,14 @@
 ---
 id: ödon
 slug: ödon
-title: ödon
+title: ÖDON
 sidebar_position: 32
 hoverText: orderly § Modifier
 ---
 
-### orderly § Modifier
+### ödon
+
+*orderly* **§** Modifier
 
 **Verb**: to be orderly
 

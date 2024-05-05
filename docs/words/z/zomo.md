@@ -1,12 +1,14 @@
 ---
 id: zomo
 slug: zomo
-title: zomo
+title: ZOMO
 sidebar_position: 466
 hoverText: group § Noun
 ---
 
-### group § Noun
+### zomo
+
+*group* **§** Noun
 
 **Verb**: to be a group/collection
 

@@ -1,12 +1,14 @@
 ---
 id: mikdol
 slug: mikdol
-title: mikdol
+title: MİKDOL
 sidebar_position: 637
 hoverText: amount § Noun
 ---
 
-### amount § Noun
+### mikdol
+
+*amount* **§** Noun
 
 **Verb**: to be a number/amount
 

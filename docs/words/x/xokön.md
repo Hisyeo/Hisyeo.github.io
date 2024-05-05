@@ -1,12 +1,14 @@
 ---
 id: xokön
 slug: xokön
-title: xokön
+title: XOKÖN
 sidebar_position: 393
 hoverText: each § Quantity
 ---
 
-### each § Quantity
+### xokön
+
+*each* **§** Quantity
 
 **Verb**: to be each
 
