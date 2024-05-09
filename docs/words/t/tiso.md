@@ -2,7 +2,7 @@
 id: tiso
 slug: tiso
 title: TİSO
-sidebar_position: 274
+sidebar_position: 275
 hoverText: 09 nine § Quantity
 ---
 

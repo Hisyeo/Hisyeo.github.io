@@ -2,7 +2,7 @@
 id: göwo
 slug: göwo
 title: GÖWO
-sidebar_position: 227
+sidebar_position: 228
 hoverText: foolish/obtuse § Modifier
 ---
 

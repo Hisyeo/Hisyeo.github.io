@@ -2,7 +2,7 @@
 id: noüku
 slug: noüku
 title: NOÜKU
-sidebar_position: 659
+sidebar_position: 660
 hoverText: science § Noun
 ---
 

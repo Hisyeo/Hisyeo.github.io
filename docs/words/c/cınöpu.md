@@ -2,7 +2,7 @@
 id: cınöpu
 slug: cınöpu
 title: CINÖPU
-sidebar_position: 309
+sidebar_position: 310
 hoverText: vermilion § Modifier
 ---
 

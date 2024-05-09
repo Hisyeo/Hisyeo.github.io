@@ -2,7 +2,7 @@
 id: zingu
 slug: zingu
 title: ZİNGU
-sidebar_position: 489
+sidebar_position: 490
 hoverText: orange § Modifier
 ---
 

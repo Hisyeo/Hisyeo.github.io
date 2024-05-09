@@ -2,7 +2,7 @@
 id: tikü
 slug: tikü
 title: TİKÜ
-sidebar_position: 272
+sidebar_position: 273
 hoverText: dead § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: litıwe
 slug: litıwe
 title: LİTIWE
-sidebar_position: 758
+sidebar_position: 759
 hoverText: related § Modifier
 ---
 

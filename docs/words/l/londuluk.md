@@ -2,7 +2,7 @@
 id: londuluk
 slug: londuluk
 title: LONDULUK
-sidebar_position: 739
+sidebar_position: 740
 hoverText: rural § Modifier
 ---
 

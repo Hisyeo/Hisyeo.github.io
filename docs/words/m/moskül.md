@@ -2,7 +2,7 @@
 id: moskül
 slug: moskül
 title: MOSKÜL
-sidebar_position: 609
+sidebar_position: 610
 hoverText: male § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: gümi
 slug: gümi
 title: GÜMİ
-sidebar_position: 245
+sidebar_position: 246
 hoverText: rubber § Noun
 ---
 

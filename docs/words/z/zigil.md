@@ -2,7 +2,7 @@
 id: zigil
 slug: zigil
 title: ZİGİL
-sidebar_position: 485
+sidebar_position: 486
 hoverText: falling § Modifier
 ---
 

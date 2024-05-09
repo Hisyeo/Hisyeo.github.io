@@ -2,7 +2,7 @@
 id: xëntil
 slug: xëntil
 title: XËNTİL
-sidebar_position: 412
+sidebar_position: 413
 hoverText: gentle/kind § Modifier
 ---
 

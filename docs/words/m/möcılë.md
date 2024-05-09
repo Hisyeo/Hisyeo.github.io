@@ -2,7 +2,7 @@
 id: möcılë
 slug: möcılë
 title: MÖCILË
-sidebar_position: 623
+sidebar_position: 624
 hoverText: to tie/entangle (tie-able/entangleable entity) § Verb
 ---
 

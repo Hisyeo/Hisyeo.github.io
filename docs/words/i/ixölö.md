@@ -1,12 +1,12 @@
 ---
-id: yëllë
-slug: yëllë
-title: YËLLË
-sidebar_position: 791
+id: ixölö
+slug: ixölö
+title: İXÖLÖ
+sidebar_position: 66
 hoverText: problem § Noun
 ---
 
-### yëllë
+### ixölö
 
 *problem* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: problem § Noun
 
 **Modifier**: problem/affair-related
 
-Farefare yelle /jél.lé/
+Yoruba iṣoro /ì.ʃò.ɾō/
 
 *Niger-Congo Language Family*

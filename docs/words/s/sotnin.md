@@ -2,7 +2,7 @@
 id: sotnin
 slug: sotnin
 title: SOTNİN
-sidebar_position: 340
+sidebar_position: 341
 hoverText: right § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: köl
 slug: köl
 title: KÖL
-sidebar_position: 175
+sidebar_position: 176
 hoverText: state/condition § Noun
 ---
 

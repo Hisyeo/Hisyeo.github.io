@@ -2,7 +2,7 @@
 id: könpo
 slug: könpo
 title: KÖNPO
-sidebar_position: 173
+sidebar_position: 174
 hoverText: shaking § Modifier
 ---
 

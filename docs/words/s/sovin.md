@@ -2,7 +2,7 @@
 id: sovin
 slug: sovin
 title: SOVİN
-sidebar_position: 348
+sidebar_position: 349
 hoverText: pure § Modifier
 ---
 

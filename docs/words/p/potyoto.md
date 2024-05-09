@@ -2,7 +2,7 @@
 id: potyoto
 slug: potyoto
 title: POTYOTO
-sidebar_position: 502
+sidebar_position: 503
 hoverText: responsible § Modifier
 ---
 

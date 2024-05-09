@@ -2,7 +2,7 @@
 id: cokwolı
 slug: cokwolı
 title: COKWOLI
-sidebar_position: 287
+sidebar_position: 288
 hoverText: pyramid § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: imon
 slug: imon
 title: İMON
-sidebar_position: 68
+sidebar_position: 69
 hoverText: to trust (a belief) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: koli
 slug: koli
 title: KOLİ
-sidebar_position: 158
+sidebar_position: 159
 hoverText: down § Noun
 ---
 

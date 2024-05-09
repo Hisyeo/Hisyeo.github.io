@@ -2,7 +2,7 @@
 id: podi
 slug: podi
 title: PODİ
-sidebar_position: 505
+sidebar_position: 506
 hoverText: unmoving § Modifier
 ---
 

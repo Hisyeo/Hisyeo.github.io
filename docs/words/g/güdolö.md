@@ -2,7 +2,7 @@
 id: güdolö
 slug: güdolö
 title: GÜDOLÖ
-sidebar_position: 242
+sidebar_position: 243
 hoverText: bow (weapon)/bow (music) § Noun
 ---
 

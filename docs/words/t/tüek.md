@@ -2,7 +2,7 @@
 id: tüek
 slug: tüek
 title: TÜEK
-sidebar_position: 280
+sidebar_position: 281
 hoverText: to compute (a computation) § Verb
 ---
 

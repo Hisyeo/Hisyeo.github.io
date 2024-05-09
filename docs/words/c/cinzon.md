@@ -2,7 +2,7 @@
 id: cinzon
 slug: cinzon
 title: CİNZON
-sidebar_position: 319
+sidebar_position: 320
 hoverText: nervous/anxious § Modifier
 ---
 

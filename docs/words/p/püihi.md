@@ -2,7 +2,7 @@
 id: püihi
 slug: püihi
 title: PÜİHİ
-sidebar_position: 552
+sidebar_position: 553
 hoverText: timid/shy § Modifier
 ---
 

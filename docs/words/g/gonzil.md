@@ -2,7 +2,7 @@
 id: gonzil
 slug: gonzil
 title: GONZİL
-sidebar_position: 219
+sidebar_position: 220
 hoverText: strange § Modifier
 ---
 

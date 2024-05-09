@@ -2,7 +2,7 @@
 id: yöüli
 slug: yöüli
 title: YÖÜLİ
-sidebar_position: 784
+sidebar_position: 785
 hoverText: beneficial § Modifier
 ---
 

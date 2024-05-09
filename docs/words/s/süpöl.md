@@ -2,7 +2,7 @@
 id: süpöl
 slug: süpöl
 title: SÜPÖL
-sidebar_position: 386
+sidebar_position: 387
 hoverText: fertile/productive § Modifier
 ---
 

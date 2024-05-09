@@ -2,7 +2,7 @@
 id: xöpoi
 slug: xöpoi
 title: XÖPOİ
-sidebar_position: 403
+sidebar_position: 404
 hoverText: salty § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: cünvü
 slug: cünvü
 title: CÜNVÜ
-sidebar_position: 334
+sidebar_position: 335
 hoverText: repeating § Modifier
 ---
 

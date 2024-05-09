@@ -2,7 +2,7 @@
 id: poholon
 slug: poholon
 title: POHOLON
-sidebar_position: 499
+sidebar_position: 500
 hoverText: closet/cupboard/cabinet § Noun
 ---
 

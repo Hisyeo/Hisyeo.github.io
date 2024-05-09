@@ -2,7 +2,7 @@
 id: tulutı
 slug: tulutı
 title: TULUTI
-sidebar_position: 279
+sidebar_position: 280
 hoverText: to traverse (a traversable entity) § Verb
 ---
 

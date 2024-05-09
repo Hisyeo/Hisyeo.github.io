@@ -88,7 +88,7 @@ in day-to-day conversation:
 - %%löicök@löicök%% (*loy*-choke) (definitely!)
 - %%yünlön@yünlön%% %%cö@cö%% %%noyo@noyo%% (*yoon*-lan choh *nah*-yah) (Sorry!)
 - %%küu@küu%% %%yök@yök%% %%cinzon@cinzon%% (Don't worry!)
-- %%yök@yök%% %%yëllë@yëllë%% (It's not a problem.)
+- %%yök@yök%% %%ixölö@ixölö%% (It's not a problem.)
 - %%köi@köi%% %%gö@gö%% %%ü@ü%% %%noyo@noyo%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
 
 :::

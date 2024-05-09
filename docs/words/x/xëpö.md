@@ -2,7 +2,7 @@
 id: xëpö
 slug: xëpö
 title: XËPÖ
-sidebar_position: 411
+sidebar_position: 412
 hoverText: yellow § Modifier
 ---
 

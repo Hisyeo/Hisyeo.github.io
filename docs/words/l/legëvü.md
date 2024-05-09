@@ -2,7 +2,7 @@
 id: legëvü
 slug: legëvü
 title: LEGËVÜ
-sidebar_position: 748
+sidebar_position: 749
 hoverText: lazy § Modifier
 ---
 

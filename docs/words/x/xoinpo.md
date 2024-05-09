@@ -2,7 +2,7 @@
 id: xoinpo
 slug: xoinpo
 title: XOİNPO
-sidebar_position: 391
+sidebar_position: 392
 hoverText: seeming § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: müncü
 slug: müncü
 title: MÜNCÜ
-sidebar_position: 655
+sidebar_position: 656
 hoverText: tart § Modifier
 ---
 

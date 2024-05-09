@@ -2,7 +2,7 @@
 id: köson
 slug: köson
 title: KÖSON
-sidebar_position: 164
+sidebar_position: 165
 hoverText: to build (a construction) § Verb
 ---
 

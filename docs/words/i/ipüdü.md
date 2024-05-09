@@ -2,7 +2,7 @@
 id: ipüdü
 slug: ipüdü
 title: İPÜDÜ
-sidebar_position: 66
+sidebar_position: 67
 hoverText: now § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: sonti
 slug: sonti
 title: SONTİ
-sidebar_position: 352
+sidebar_position: 353
 hoverText: calm § Modifier
 ---
 

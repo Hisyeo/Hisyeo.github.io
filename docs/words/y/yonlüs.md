@@ -2,7 +2,7 @@
 id: yonlüs
 slug: yonlüs
 title: YONLÜS
-sidebar_position: 782
+sidebar_position: 783
 hoverText: wrong § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: centık
 slug: centık
 title: CENTIK
-sidebar_position: 299
+sidebar_position: 300
 hoverText: official/formal § Modifier
 ---
 

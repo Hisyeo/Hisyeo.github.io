@@ -2,7 +2,7 @@
 id: hüsü
 slug: hüsü
 title: HÜSÜ
-sidebar_position: 137
+sidebar_position: 138
 hoverText: to be about (theme) § Verb
 ---
 

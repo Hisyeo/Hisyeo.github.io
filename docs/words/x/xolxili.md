@@ -2,7 +2,7 @@
 id: xolxili
 slug: xolxili
 title: XOLXİLİ
-sidebar_position: 402
+sidebar_position: 403
 hoverText: teal § Modifier
 ---
 

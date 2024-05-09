@@ -2,7 +2,7 @@
 id: cies
 slug: cies
 title: CİES
-sidebar_position: 312
+sidebar_position: 313
 hoverText: tight/firm § Modifier
 ---
 

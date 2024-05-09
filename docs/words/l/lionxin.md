@@ -2,7 +2,7 @@
 id: lionxin
 slug: lionxin
 title: LİONXİN
-sidebar_position: 755
+sidebar_position: 756
 hoverText: conscientious § Modifier
 ---
 

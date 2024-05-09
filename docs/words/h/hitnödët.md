@@ -2,7 +2,7 @@
 id: hitnödët
 slug: hitnödët
 title: HİTNÖDËT
-sidebar_position: 129
+sidebar_position: 130
 hoverText: oscillating § Modifier
 ---
 

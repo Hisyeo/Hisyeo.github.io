@@ -2,7 +2,7 @@
 id: lötven
 slug: lötven
 title: LÖTVEN
-sidebar_position: 742
+sidebar_position: 743
 hoverText: politeness clause ender § Grammar
 ---
 

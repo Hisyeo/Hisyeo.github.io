@@ -2,7 +2,7 @@
 id: düstu
 slug: düstu
 title: DÜSTU
-sidebar_position: 457
+sidebar_position: 458
 hoverText: to measure (measurable entity) § Verb
 ---
 

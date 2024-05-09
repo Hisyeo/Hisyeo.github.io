@@ -2,7 +2,7 @@
 id: kutın
 slug: kutın
 title: KUTIN
-sidebar_position: 197
+sidebar_position: 198
 hoverText: difficult § Modifier
 ---
 

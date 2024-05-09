@@ -2,7 +2,7 @@
 id: nepu
 slug: nepu
 title: NEPU
-sidebar_position: 676
+sidebar_position: 677
 hoverText: unlikely/rare § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: weltö
 slug: weltö
 title: WELTÖ
-sidebar_position: 710
+sidebar_position: 711
 hoverText: limp/flaccid/flabby § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: gölüo
 slug: gölüo
 title: GÖLÜO
-sidebar_position: 229
+sidebar_position: 230
 hoverText: melted § Modifier
 ---
 

@@ -2,7 +2,7 @@
 id: löpotöl
 slug: löpotöl
 title: LÖPOTÖL
-sidebar_position: 745
+sidebar_position: 746
 hoverText: to scoop (scoopable entity) § Verb
 ---
 

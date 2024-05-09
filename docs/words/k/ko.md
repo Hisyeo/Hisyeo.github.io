@@ -2,7 +2,7 @@
 id: ko
 slug: ko
 title: KO
-sidebar_position: 146
+sidebar_position: 147
 hoverText: interrogative clause ender (yes?) § Grammar
 ---
 

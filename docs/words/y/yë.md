@@ -2,7 +2,7 @@
 id: yë
 slug: yë
 title: YË
-sidebar_position: 790
+sidebar_position: 791
 hoverText: of § Grammar
 ---
 

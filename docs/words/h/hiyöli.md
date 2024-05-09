@@ -2,7 +2,7 @@
 id: hiyöli
 slug: hiyöli
 title: HİYÖLİ
-sidebar_position: 132
+sidebar_position: 133
 hoverText: weak § Modifier
 ---
 

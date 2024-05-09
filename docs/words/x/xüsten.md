@@ -2,7 +2,7 @@
 id: xüsten
 slug: xüsten
 title: XÜSTEN
-sidebar_position: 425
+sidebar_position: 426
 hoverText: to wash (washable entity) § Verb
 ---
 

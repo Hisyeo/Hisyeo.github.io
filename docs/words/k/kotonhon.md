@@ -2,7 +2,7 @@
 id: kotonhon
 slug: kotonhon
 title: KOTONHON
-sidebar_position: 147
+sidebar_position: 148
 hoverText: sudden/urgent § Modifier
 ---
 

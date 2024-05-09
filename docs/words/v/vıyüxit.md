@@ -2,7 +2,7 @@
 id: vıyüxit
 slug: vıyüxit
 title: VIYÜXİT
-sidebar_position: 585
+sidebar_position: 586
 hoverText: to employ/exploit (employable/exploitable entity) § Verb
 ---
 

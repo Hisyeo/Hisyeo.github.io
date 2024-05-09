@@ -2,7 +2,7 @@
 id: dökcon
 slug: dökcon
 title: DÖKCON
-sidebar_position: 435
+sidebar_position: 436
 hoverText: decent § Modifier
 ---
 

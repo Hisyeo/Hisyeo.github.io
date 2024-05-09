@@ -2,7 +2,7 @@
 id: xodilü
 slug: xodilü
 title: XODİLÜ
-sidebar_position: 395
+sidebar_position: 396
 hoverText: loose § Modifier
 ---
 

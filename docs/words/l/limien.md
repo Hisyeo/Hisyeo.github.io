@@ -2,7 +2,7 @@
 id: limien
 slug: limien
 title: LİMİEN
-sidebar_position: 763
+sidebar_position: 764
 hoverText: inside § Noun
 ---
 

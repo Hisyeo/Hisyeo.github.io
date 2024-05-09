@@ -2,7 +2,7 @@
 id: uskivo
 slug: uskivo
 title: USKİVO
-sidebar_position: 75
+sidebar_position: 76
 hoverText: to avoid/dodge (avoidable/dodgeable entity) § Verb
 ---
 

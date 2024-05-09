@@ -2,7 +2,7 @@
 id: gönyumon
 slug: gönyumon
 title: GÖNYUMON
-sidebar_position: 226
+sidebar_position: 227
 hoverText: grunting/growling § Modifier
 ---
 

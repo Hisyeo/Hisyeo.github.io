@@ -2,7 +2,7 @@
 id: somö
 slug: somö
 title: SOMÖ
-sidebar_position: 349
+sidebar_position: 350
 hoverText: only § Modifier
 ---
 

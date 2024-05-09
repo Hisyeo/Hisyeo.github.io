@@ -2,7 +2,7 @@
 id: kinöxi
 slug: kinöxi
 title: KİNÖXİ
-sidebar_position: 191
+sidebar_position: 192
 hoverText: functional § Modifier
 ---
 

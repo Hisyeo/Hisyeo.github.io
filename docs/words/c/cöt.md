@@ -2,7 +2,7 @@
 id: cöt
 slug: cöt
 title: CÖT
-sidebar_position: 297
+sidebar_position: 298
 hoverText: thick § Modifier
 ---
 
@@ -10,11 +10,11 @@ hoverText: thick § Modifier
 
 *thick* **§** Modifier
 
-**Verb**: to be thick/wide
+**Verb**: to be thick
 
-**Noun**: thickness/width
+**Noun**: thickness
 
-**Modifier**: thick/wide
+**Modifier**: thick
 
 Mam cho't /t͡ʃʰɔtʼ/
 

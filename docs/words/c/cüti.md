@@ -2,7 +2,7 @@
 id: cüti
 slug: cüti
 title: CÜTİ
-sidebar_position: 329
+sidebar_position: 330
 hoverText: small § Modifier
 ---
 

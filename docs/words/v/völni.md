@@ -2,7 +2,7 @@
 id: völni
 slug: völni
 title: VÖLNİ
-sidebar_position: 576
+sidebar_position: 577
 hoverText: free § Modifier
 ---
 

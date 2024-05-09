@@ -2,7 +2,7 @@
 id: hoös
 slug: hoös
 title: HOÖS
-sidebar_position: 101
+sidebar_position: 102
 hoverText: chaotic § Modifier
 ---
 

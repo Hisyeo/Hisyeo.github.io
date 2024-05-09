@@ -2,7 +2,7 @@
 id: küyö
 slug: küyö
 title: KÜYÖ
-sidebar_position: 213
+sidebar_position: 214
 hoverText: sad § Modifier
 ---
 

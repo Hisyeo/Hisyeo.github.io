@@ -2,7 +2,7 @@
 id: kıstosë
 slug: kıstosë
 title: KISTOSË
-sidebar_position: 182
+sidebar_position: 183
 hoverText: crustacean § Noun
 ---
 

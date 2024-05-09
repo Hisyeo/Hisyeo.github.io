@@ -2,7 +2,7 @@
 id: düngo
 slug: düngo
 title: DÜNGO
-sidebar_position: 459
+sidebar_position: 460
 hoverText: to pierce (piercable entity) § Verb
 ---
 
