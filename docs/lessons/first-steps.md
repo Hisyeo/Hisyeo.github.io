@@ -105,6 +105,85 @@ to differentiate.
 
 ### Alphabet
 
+#### Vowels
 
+##### o - open back unrounded vowel
+as in sl**o**t or f**a**ther
+
+##### ö - open-mid back rounded vowel
+as in r**ou**pe or Camb**o**dia
+*slightly geminated*
+
+##### e - open-mid front unrounded vowel
+as in b**e**d or c**a**t
+
+##### ë - close-mid front unrounded vowel
+as in m**a**y or f**a**ce
+*slightly geminated*
+
+##### ı - near-close near-front unrounded vowel
+as in c**i**ty or w**i**ll
+
+##### i - close front unrounded vowel
+as in happ**y** or c**ei**ling
+*slightly geminated*
+
+##### u - open-mid back unrounded vowel
+as in r**u**n or en**ou**gh
+
+##### ü - close back rounded vowel
+as in l**o**se, thr**ou**gh
+*slightly geminated*
+
+
+#### Consonants
+
+##### h - voiceless glottal fricative
+as in **h**am or **h**old
+
+##### k - voiceless velar plosive
+as in **c**up or sti**ck**
+
+##### g - voiced velar plosive
+as in **g**old or sna**g**
+
+##### t - voiceless dental/alveolar plosive
+as in **t**ip or pu**tt**
+
+##### c - voiceless postalveolar affricate
+as in **ch**ore or na**t**ure
+
+##### s - voiceless alveolar fricative
+as in mi**s**t or i**c**e
+
+##### x - voiceless postalveolar fricative
+as in a**sh** or ra**t**ion
+
+##### d - voiced dental/alveolar plosive
+as in **d**ig or ba**d** 
+
+##### z - voiced postalveolar affricate
+as in **j**og or a**g**e
+
+##### p - voiceless bilabial plosive
+as in **p**oke or si**p**
+
+##### v - voiced labiodental fricative
+as in **v**alid or ga**v**el
+
+##### m - voiced bilabial nasal
+as in la**m**b or **m**ineral
+
+##### n - voiced dental/alveolar nasal
+as in **n**od or ba**n**
+
+##### w - voiced labial–velar approximant
+as in **w**eep or a**w**ake
+
+##### l - voiced dental/alveolar lateral approximants
+as in **l**inger or ba**ll**ad
+
+##### y - voiced palatal approximant
+as in **y**earn or ma**y**o
 
 
