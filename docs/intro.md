@@ -6,8 +6,8 @@ sidebar_position: 1
 
 ## What is Hisyëö?
 
-A language for people around the world to communicate with each other. Hisyëö is
-designed using these principles:
+A constructed language for people around the world to communicate with each
+other. Hisyëö is designed using these principles:
 - **Neutrality**, words are sourced from all world languages proportional to the
 square root of their world population of L1 speakers. Many people who would come
 to learn Hisyëö may have a small anchor of familiarity within the lexicon.
@@ -37,26 +37,35 @@ grammar has been enhanced to allow for less ambiguous handling of tense, aspect,
 mood, causation, and volition.
 
 Some of these principles and the language features that you will learn may seem
-contrary to the traditions of [IAL](http://interlanguages.net) design but that
-is part of the point: too much effort within IAL development is spent on
-regularization and cherrypicking existing lexical and grammatical tactics of
-natural languages. Instead, Hisyëö pushes closer to a
+contrary to the practices of any self respecting
+[IAL](http://interlanguages.net). Hisyëö does not strictly follow the tradional
+principles. Too much effort within IAL development is spent on regularization
+and cherrypicking existing lexical and grammatical tactics of natural languages
+(while applying some first language bias regardless of the best intentions).
+Instead, Hisyëö pushes closer to an
+[artlang](https://en.wikipedia.org/wiki/Artistic_language) or a
 [loglang](https://loglangs.wiki/Portal) by focusing less on ease-of-learning and
-more on the principles above. The dream of wide adoption of an IAL is both
-farfetched and dangerous; Hisyëö is intended to celebrate the diversity of
-linguistic phenomena and not supplant any local languages.
+instead striving for a more complete linguistic system. In fact, the mission of
+an IAL to be a widely adopted secondary language for everyone, is both
+farfetched and even slightly dangerous--is purity of values enough to counteract
+the viral, or rather colonial, nature of practicing a language in the public or
+on the internet? Hisyëö accepts its place as a showpiece of absurdity by being
+both serious and artistic. We can only hope there's a place for it in the
+universe.
 
 ## Where did Hisyëö come from?
 
 Hisyëö was borne out of a desire from a member of the Kokanu community to grow
 Kokanu into something that could truly be versatile enough to be used for
 translations of popular media, scientific papers and philosophical treateses.
-Unfortunately for me, the Kokanu community intends the language to be as
+Unfortunately for him, the Kokanu community intends the language to be as
 minimalist as possible and so the density of information when translating is not
 a consideration. Neither translation of media nor scientific communication are
-goals of the language. Having spent considerable time becoming fluent in Kokanu,
-I wanted to use it as the core of my own language and enhance it with some of my
-own ideas.
+goals of the language. Having spent considerable time becoming fluent in Kokanu
+and being inspired by a new kokanido
+([koanu](https://www.parallax.net.nz/x/koanu/)) at the time, this Kokanu
+community member decided to try to create his own kokanido, enhancing it with
+some ideas taken from other constructed and natural languages.
 
 ## The Basics
 
@@ -117,7 +126,7 @@ Choose a subject (preceded by %%ü@ü%%):
 - %%ni@ni%% (we)
 - %%loı@loı%% (it/they)
 
-Choose a verb (preceded by %%lı@lı%% or omitted):
+Choose a verb (preceded by %%lı@lı%% or omitted if first):
 - %%köto@köto%% (to say)
 - %%monodo@monodo%% (to meet)
 - %%mokon@mokon%% (to eat)

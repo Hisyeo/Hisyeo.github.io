@@ -14,12 +14,12 @@ batteries-included opinionated platform for cross-cultural expression.
 It takes words from all of the world's families of languages so that there is a
 little of everyone's language within it. Each language family gets a
 proportional amount of words. The proportion size is determined by taking the
-percentage of the total of the square roots of every recent estimations of the
-L1 population (first language) speakers of each language. By using a square root
-distribution, the larger language families have a reduced proportion and the
-lesser families have a slightly increased proportion. These amounts are
-considered a tolerance marker and each family will fluctuate between position
-and negative offsets from the tolerance amount.
+percentage of the total of the square roots of recent counts of the L1
+population speakers of each language. By using a square root distribution, the
+larger language families have a reduced proportion and the lesser families have
+a slightly increased proportion. These amounts are considered a tolerance marker
+and each family will fluctuate between position and negative offsets from the
+tolerance amount.
 
 This principle allows Hisyëö to have a representation of as many people as
 possible. Since the larger language families get a large amount of words due to
@@ -57,30 +57,36 @@ believe to be
 - the fundamentals of a modern democratic society
 - the necessary critical tools to authentically discuss bad things
 - lastly, a fun and whimsical inclination that tries to bring some uniqueness
+
 That being said, there are no mythological stories to anchor you like you might
 find in a natural society. Because of this, there's a risk that these ideas will
 fade as the language gains a true living culture. The community must remain
 vigilant that the things that make Hisyëö great never fade but they must also be
-ever watchful for things that bring negativity or fascism.
+ever watchful for aspects of the culture that bring negativity or fascism.
 
 ## Common Expressions
 
-All languages have phrases that are said frequently and take on additional roles
-as interjections or greetings. Learning these will make it much easier to engage
-in polite conversation and get your feet wet so as to begin the immersion
-training.
+One important first step to engaging with a new culture is to learn the common
+phrases that are the lifeblood of any encounter. These words sometimes take on
+additional roles as interjections and simple sentences. Learning these will make
+it much easier to engage in polite and impolite conversation and get your feet
+wet so that you can begin your immersion training.
 
 :::info Examples
 
 The following are some of the current established expressions that Hisyëans use
 in day-to-day conversation:
-- %%voxo@voxo%% (*vah*-shah) (shoot!) (woah!)
-- %%küu@küu%% %%lö@lö%% %%ü@ü%% %%ni@ni%% %%löicök@löicök%% (*koo*-wuh loh oo nee *loy*-choke) (Let's go!)
+- %%voxo@voxo%% (*vah*-shah) (oh!) (woah!)
+- %%küu@küu%% %%lö@lö%% %%ü@ü%% %%ni@ni%% (*koo*-wuh loh oo nee) (Let's go!)
 - %%gö@gö%% %%zık@zık%% %%ü@ü%% %%nimü@nimü%% (goh jick oo *nee*-moo) (How are you doing?)
-- %%yök@yök%% %%sonkon@sonkon%% %%ü@ü%% %%ulyö@ulyö%% (yoke *san*-kan oo *uhl*-yoh) (It doesn't matter.) 
+- %%xön@xön%% %%ü@ü%% %%noyo@noyo%% (shone oo *nah*-yah) (I am good.)
+- %%si@si%% %%gö@gö%% %%zık@zık%% %%ü@ü%% %%lono@lono%% %%nimü@nimü%% (see goh jick oo *lah*-nah) (How has your day been?)
+- %%yök@yök%% %%xön@xön%% (yoke shone) (Not good.)
+- %%yonlüs@yonlüs%% %%ü@ü%% %%zık@zık%% (*yan*-loose oo jick) (What's wrong?)
+- %%yök@yök%% %%sonkon@sonkon%% (yoke *san*-kan) (It doesn't matter.) 
 - ...%%ci@ci%% (chee) (...agree?)
 - %%löicök@löicök%% (*loy*-choke) (definitely!)
-- %%yünlön@yünlön%% %%cö@cö%% %%noyo@noyo%% (lih *yoon*-lan choh *nah*-yah) (Sorry!)
+- %%yünlön@yünlön%% %%cö@cö%% %%noyo@noyo%% (*yoon*-lan choh *nah*-yah) (Sorry!)
 - %%küu@küu%% %%yök@yök%% %%cinzon@cinzon%% (Don't worry!)
 - %%yök@yök%% %%yëllë@yëllë%% (It's not a problem.)
 - %%köi@köi%% %%gö@gö%% %%ü@ü%% %%noyo@noyo%% %%hoi@hoi%% %%limien@limien%% %%ko@ko%% (Can I come in?)
