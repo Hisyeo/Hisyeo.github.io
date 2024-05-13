@@ -52,8 +52,39 @@ tense**.
 
 ## From...
 
+Converting from the other content types into verbs.
+
 ### Nouns
+
+When a noun acts as a verb, it means that the predicate will be *copulative*,
+meaning that the verb is the English verb "be" followed by that noun. This is
+called a **noun complement**. The subject is being described as being some noun.
+This has the effect of meaning "is a [noun]" in English.
+
 
 ### Modifiers
 
+When a modifier acts as a verb, it means that predicate will be *copulative*,
+meaning that the verb is a combination of the English verb "be" followed by that
+modifier. This is called a **modifier complement**. The subject is being
+described as being some modifier. This has the effect of meaning "is [modifier]"
+in English.
+
 ## Verb Modifiers
+
+There are three **verb modifiers** that can be mixed-and-matched in a verb phrase.
+
+### Negatitive
+
+The negatitive verb modifier (%%yök@yök%% / %%ɀ̑ı@yök%%) turns the verb phrase
+into the negated version of itself. In English, this is the "not" adverb.
+
+### Causative
+
+The causative verb modifier (%%ëo@ëo%% / %%ɽʇɽ@ëo%%) turns the verb phrase into
+the causative version of itself. In English, this is the "to make" helper verb.
+
+### Perfect
+
+The perfect verb modifier (%%si@si%% / %%ɐɟ@si%%) turns the verb phrase into the
+perfect version of itself. In English, this is the "to have" helper verb.
