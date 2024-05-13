@@ -3,18 +3,18 @@ id: xüsten
 slug: xüsten
 title: XÜSTEN
 sidebar_position: 426
-hoverText: to wash (washable entity) § Verb
+hoverText: to wash (the washed) § Verb
 ---
 
 ### xüsten
 
-*to wash (washable entity)* **§** Verb
+*to wash (the washed)* **§** Verb
 
 **Verb**: to wash/rinse
 
-**Noun**: washable/rinseable entity
+**Noun**: the washed/rinsed
 
-**Modifier**: washed/rinsed
+**Modifier**: washable/rinsable
 
 Persian ⁧شُستَن⁩ šostan [ʃʊs.t̪ʰǽn]
 

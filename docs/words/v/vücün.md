@@ -14,7 +14,7 @@ hoverText: to obey (a rule) § Verb
 
 **Noun**: a rule/law
 
-**Modifier**: obeyed
+**Modifier**: obeyable
 
 Mandarin 服從 fúcóng /fu³⁵ t͡sʰʊŋ³⁵/
 

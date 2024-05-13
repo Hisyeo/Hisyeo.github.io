@@ -14,7 +14,7 @@ hoverText: to draw (a picture) § Verb
 
 **Noun**: a drawing/picture
 
-**Modifier**: drawn
+**Modifier**: drawable
 
 Arabic تَصْوِير taṣwīr /tasˤ.wiːr/
 

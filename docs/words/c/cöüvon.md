@@ -14,7 +14,7 @@ hoverText: to cook (a meal) § Verb
 
 **Noun**: a meal
 
-**Modifier**: cooked
+**Modifier**: cookable
 
 Cantonese 做飯 zou6 faan6 /t͡sou.faːn/
 

@@ -14,7 +14,7 @@ hoverText: to build (a construction) § Verb
 
 **Noun**: a construction
 
-**Modifier**: constructed/built
+**Modifier**: construable/buildable
 
 Lao ກໍ່ສ້າງ kǭ sāng 
 

@@ -12,9 +12,9 @@ hoverText: to find (a discovery) § Verb
 
 **Verb**: to find/discover
 
-**Noun**: a findable/discoverable thing
+**Noun**: a finding/discovery
 
-**Modifier**: found/discovered
+**Modifier**: findable/discoverable
 
 Persian یافتن yâftan /jɒːfˈtæn/
 

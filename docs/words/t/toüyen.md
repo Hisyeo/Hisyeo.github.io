@@ -14,7 +14,7 @@ hoverText: to hate (a hated entity) § Verb
 
 **Noun**: a hated thing
 
-**Modifier**: hated/disliked
+**Modifier**: hatable/dislikeable
 
 Mandarin 討厭 tǎoyàn /tʰɑʊ̯jɛn/
 

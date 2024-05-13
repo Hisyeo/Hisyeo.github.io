@@ -3,18 +3,18 @@ id: duühon
 slug: duühon
 title: DUÜHON
 sidebar_position: 452
-hoverText: to surrender (surrenderable entity) § Verb
+hoverText: to surrender (the surrendered) § Verb
 ---
 
 ### duühon
 
-*to surrender (surrenderable entity)* **§** Verb
+*to surrender (the surrendered)* **§** Verb
 
 **Verb**: to surrender
 
-**Noun**: surrenderable entity
+**Noun**: the surrendered
 
-**Modifier**: surrendered
+**Modifier**: surrenderable
 
 Vietnamese đầu hàng [ʔɗəw˨˩ haːŋ˨˩]
 

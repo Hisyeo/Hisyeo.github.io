@@ -3,18 +3,18 @@ id: onküol
 slug: onküol
 title: ONKÜOL
 sidebar_position: 21
-hoverText: to hug (huggable entity) § Verb
+hoverText: to hug (the hugged) § Verb
 ---
 
 ### onküol
 
-*to hug (huggable entity)* **§** Verb
+*to hug (the hugged)* **§** Verb
 
 **Verb**: to hug/embrace
 
-**Noun**: huggable/embraceable entity
+**Noun**: the hugged/embraced
 
-**Modifier**: hugged/embraced
+**Modifier**: huggable/embracable
 
 Assamese আঁকোৱাল ãküal /ãkʊal/
 

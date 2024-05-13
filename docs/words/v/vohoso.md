@@ -3,18 +3,18 @@ id: vohoso
 slug: vohoso
 title: VOHOSO
 sidebar_position: 565
-hoverText: to examine (examinable entity) § Verb
+hoverText: to examine [for] (an examination) § Verb
 ---
 
 ### vohoso
 
-*to examine (examinable entity)* **§** Verb
+*to examine [for] (an examination)* **§** Verb
 
 **Verb**: to examine/investigate
 
-**Noun**: examinable/investigatable entity
+**Noun**: an examination
 
-**Modifier**: examined/investigated
+**Modifier**: examinable/investigatable
 
 Arabic فَحَصَ faḥaṣa /fa.ħa.sˤa/
 

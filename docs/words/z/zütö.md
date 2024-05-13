@@ -14,7 +14,7 @@ hoverText: to regret (a regret) § Verb
 
 **Noun**: a regret/sympathy
 
-**Modifier**: regretful/symphathetic
+**Modifier**: regrettable/sympathizable
 
 Swahili juto /d͡ʒuto/
 

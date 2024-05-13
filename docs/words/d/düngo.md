@@ -3,18 +3,18 @@ id: düngo
 slug: düngo
 title: DÜNGO
 sidebar_position: 460
-hoverText: to pierce (piercable entity) § Verb
+hoverText: to pierce (the pierced) § Verb
 ---
 
 ### düngo
 
-*to pierce (piercable entity)* **§** Verb
+*to pierce (the pierced)* **§** Verb
 
 **Verb**: to pierce/puncture
 
-**Noun**: piercable/puncturable entity
+**Noun**: the pierced/punctured
 
-**Modifier**: pierced/punctured
+**Modifier**: piercable/puncturable
 
 Swahili -dunga [duŋga]
 

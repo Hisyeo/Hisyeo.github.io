@@ -14,7 +14,7 @@ hoverText: to use (a tool) § Verb
 
 **Noun**: a tool
 
-**Modifier**: used
+**Modifier**: usable
 
 Min Nan 用 iōng /iɔŋ/
 

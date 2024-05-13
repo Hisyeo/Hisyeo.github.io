@@ -14,7 +14,7 @@ hoverText: to hear (a sound) § Verb
 
 **Noun**: a sound
 
-**Modifier**: heard
+**Modifier**: hearable
 
 Cantonese  聽見 teng gin /tʰɛːŋ⁵⁵ kiːn³³/
 

@@ -14,7 +14,7 @@ hoverText: to be about (theme) § Verb
 
 **Noun**: theme
 
-**Modifier**: concerned/regarded
+**Modifier**: thematic/regardable
 
 Swahili -husu 
 

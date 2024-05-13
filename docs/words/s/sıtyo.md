@@ -14,7 +14,7 @@ hoverText: to sit on (a seat) § Verb
 
 **Noun**: a seat
 
-**Modifier**: sat
+**Modifier**: sitable
 
 Icelandic sitja /ˈsɪːtja/
 

@@ -3,18 +3,18 @@ id: monodo
 slug: monodo
 title: MONODO
 sidebar_position: 615
-hoverText: to meet (meetable/visitable entity) § Verb
+hoverText: to meet (a meetee) § Verb
 ---
 
 ### monodo
 
-*to meet (meetable/visitable entity)* **§** Verb
+*to meet (a meetee)* **§** Verb
 
 **Verb**: to meet/visit
 
-**Noun**: meetable/visitable entity
+**Noun**: a meetee/visitee
 
-**Modifier**: met/visited
+**Modifier**: meetable/visitable
 
 Korean 만나다 mannada [ma̠nna̠da̠]
 

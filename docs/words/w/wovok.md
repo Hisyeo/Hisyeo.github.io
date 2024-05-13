@@ -14,7 +14,7 @@ hoverText: to accept (a right) § Verb
 
 **Noun**: a right/accepted thing
 
-**Modifier**: accepted
+**Modifier**: acceptable
 
 Hijazi وافَق wāfag /waː.faɡ/
 

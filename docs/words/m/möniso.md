@@ -14,7 +14,7 @@ hoverText: to display/show (a diplay/show) § Verb
 
 **Noun**: a diplay/show
 
-**Modifier**: display/show-related
+**Modifier**: displayable/showable
 
 Kituba monisa [monisa]
 

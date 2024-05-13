@@ -14,7 +14,7 @@ hoverText: to need (a requirement) § Verb
 
 **Noun**: a need/requirement
 
-**Modifier**: required/needed
+**Modifier**: necessary/requisite
 
 French besoin /bə.zwɛ̃/
 

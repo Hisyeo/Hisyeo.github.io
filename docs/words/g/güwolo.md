@@ -3,18 +3,18 @@ id: güwolo
 slug: güwolo
 title: GÜWOLO
 sidebar_position: 248
-hoverText: to scratch (a scratchable entity) § Verb
+hoverText: to scratch (the scratched) § Verb
 ---
 
 ### güwolo
 
-*to scratch (a scratchable entity)* **§** Verb
+*to scratch (the scratched)* **§** Verb
 
 **Verb**: to scratch/scrape
 
-**Noun**: scratchable/scrapeable entity
+**Noun**: the scratched/scraped
 
-**Modifier**: scratched/scraped
+**Modifier**: scratchable/scrapable
 
 Yegang gwaaraǃ 
 

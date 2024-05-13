@@ -14,7 +14,7 @@ hoverText: to launch (a projectile) § Verb
 
 **Noun**: a projectile
 
-**Modifier**: projected/launched/thrown
+**Modifier**: projectable/throwable/shootable
 
 Portuguese lançar /lɐ̃ˈsaɾ/
 

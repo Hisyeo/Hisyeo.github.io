@@ -14,7 +14,7 @@ hoverText: to bet (a bet) § Verb
 
 **Noun**: bet/wager
 
-**Modifier**: bet/wagered
+**Modifier**: betable/wagerable
 
 Cantonese 打賭 daa2 dou2 /daːdou̯/
 

@@ -3,18 +3,18 @@ id: müncoti
 slug: müncoti
 title: MÜNCOTİ
 sidebar_position: 655
-hoverText: to release/free/drop/let go (releasable entity) § Verb
+hoverText: to release/drop (the released/dropped) § Verb
 ---
 
 ### müncoti
 
-*to release/free/drop/let go (releasable entity)* **§** Verb
+*to release/drop (the released/dropped)* **§** Verb
 
 **Verb**: to release/free/drop/let go
 
-**Noun**: a releasable entity
+**Noun**: the released/freed/dropped
 
-**Modifier**: released/freed/dropped
+**Modifier**: releasble/freeable/droppable
 
 Sanskrit मुञ्चति muñcáti  /muɲ.t͡ɕɐ́.ti/
 

@@ -12,9 +12,9 @@ hoverText: to emit (excreta) § Verb
 
 **Verb**: to emit/eject/excrete
 
-**Noun**: excreta/an ejectable thing
+**Noun**: excreta
 
-**Modifier**: emitted/ejected/excreted
+**Modifier**: emittable/ejectable/excretable
 
 Cantonese 排放 paaifong /pʰaːi̯fɔːŋ/
 

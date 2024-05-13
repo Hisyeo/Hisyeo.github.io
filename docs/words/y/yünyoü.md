@@ -12,9 +12,9 @@ hoverText: to have (a possession) § Verb
 
 **Verb**: to have/own/possess
 
-**Noun**: a possession/ownable thing
+**Noun**: a possession
 
-**Modifier**: owned/possessed
+**Modifier**: ownable/possessable
 
 Cantonese 擁有 jung jau /jʊŋ.jɐu̯/
 

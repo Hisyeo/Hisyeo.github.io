@@ -3,18 +3,18 @@ id: düpono
 slug: düpono
 title: DÜPONO
 sidebar_position: 459
-hoverText: to immerse (immersible entity) § Verb
+hoverText: to immerse (the immersed) § Verb
 ---
 
 ### düpono
 
-*to immerse (immersible entity)* **§** Verb
+*to immerse (the immersed)* **§** Verb
 
 **Verb**: to immerse/submerge
 
-**Noun**: immersible/submergible entity
+**Noun**: the immersed/submerged
 
-**Modifier**: immersed/submerged
+**Modifier**: immersible/submersible
 
 Hindi डुबाना ḍubānā [ɖʊ.bäː.näː]
 

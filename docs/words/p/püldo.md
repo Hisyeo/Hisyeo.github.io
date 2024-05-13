@@ -3,18 +3,18 @@ id: püldo
 slug: püldo
 title: PÜLDO
 sidebar_position: 563
-hoverText: to untie (untiable entity) § Verb
+hoverText: to untie (the untied) § Verb
 ---
 
 ### püldo
 
-*to untie (untiable entity)* **§** Verb
+*to untie (the untied)* **§** Verb
 
 **Verb**: to untie/detangle
 
-**Noun**: untiable/detangleable entity
+**Noun**: the untied/detangled
 
-**Modifier**: untied/detangled
+**Modifier**: untiable/detangleable
 
 Korean 풀다 pulda [pʰuɭda̠]
 

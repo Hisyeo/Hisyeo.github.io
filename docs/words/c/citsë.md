@@ -3,18 +3,18 @@ id: citsë
 slug: citsë
 title: CİTSË
 sidebar_position: 318
-hoverText: to accuse § Verb
+hoverText: to accuse (an accusation) § Verb
 ---
 
 ### citsë
 
-*to accuse* **§** Verb
+*to accuse (an accusation)* **§** Verb
 
 **Verb**: to accuse/blame
 
-**Noun**: accusation/censure
+**Noun**: an accusation/censure
 
-**Modifier**: accused/blamed
+**Modifier**: accusable/blamable
 
 Chinese 指責 zhǐzé /ʈʂǐtsé/
 

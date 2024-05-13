@@ -14,7 +14,7 @@ hoverText: to compute (a computation) § Verb
 
 **Noun**: a computation/calculation
 
-**Modifier**: computed/calculated
+**Modifier**: computable/calculatable
 
 Burmese တွက် twak /twɛʔ/
 

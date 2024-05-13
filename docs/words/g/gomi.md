@@ -3,18 +3,18 @@ id: gomi
 slug: gomi
 title: GOMİ
 sidebar_position: 217
-hoverText: to take (a taken entity) § Verb
+hoverText: to take (the taken) § Verb
 ---
 
 ### gomi
 
-*to take (a taken entity)* **§** Verb
+*to take (the taken)* **§** Verb
 
 **Verb**: to take/retrieve
 
-**Noun**: a takeable thing
+**Noun**: the taken
 
-**Modifier**: taken
+**Modifier**: takeable
 
 Evenki гамӣ gamī /ɡamiː/
 

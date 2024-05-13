@@ -3,18 +3,18 @@ id: wëtü
 slug: wëtü
 title: WËTÜ
 sidebar_position: 716
-hoverText: to cut (cuttable entity) § Verb
+hoverText: to cut (the cut/chopped) § Verb
 ---
 
 ### wëtü
 
-*to cut (cuttable entity)* **§** Verb
+*to cut (the cut/chopped)* **§** Verb
 
 **Verb**: to cut/chop
 
-**Noun**: cuttable/choppable entity
+**Noun**: the cut/chopped
 
-**Modifier**: cut/chopped
+**Modifier**: cuttable/choppable
 
 Tamil வெட்டு veṭṭu [ʋeʈːɯ]
 

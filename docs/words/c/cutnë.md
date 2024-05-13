@@ -14,7 +14,7 @@ hoverText: to climb (a slope) § Verb
 
 **Noun**: a slope/ramp
 
-**Modifier**: climbed
+**Modifier**: climbable
 
 Marathi चढणे caḍhṇe /t͡səɖʱ.ɳe/
 

@@ -3,18 +3,18 @@ id: güviö
 slug: güviö
 title: GÜVİÖ
 sidebar_position: 245
-hoverText: to push (a pushable entity) § Verb
+hoverText: to push (the pushed/repelled) § Verb
 ---
 
 ### güviö
 
-*to push (a pushable entity)* **§** Verb
+*to push (the pushed/repelled)* **§** Verb
 
 **Verb**: to push/repel
 
-**Noun**: pushable/repellable entity
+**Noun**: the pushed/repelled
 
-**Modifier**: pushed/repelled
+**Modifier**: pushable/repellable
 
 Welsh gwthio /ˈɡʊθjɔ/
 

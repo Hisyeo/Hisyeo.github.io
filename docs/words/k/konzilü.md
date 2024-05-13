@@ -14,7 +14,7 @@ hoverText: to feel/sense (a phenomenon) § Verb
 
 **Noun**: phenomenon
 
-**Modifier**: felt/sensed
+**Modifier**: feelable/sensible
 
 Japanese 感じる kanjiru [kã̠ɲ̟d͡ʑiɾɯ̟ᵝ]
 

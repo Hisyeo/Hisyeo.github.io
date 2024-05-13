@@ -14,7 +14,7 @@ hoverText: to celebrate (a party) § Verb
 
 **Noun**: a party
 
-**Modifier**: celebrated
+**Modifier**: celebratable
 
 Tamil கொண்டாடு koṇṭāṭu [koɳɖaːɖɯ]
 

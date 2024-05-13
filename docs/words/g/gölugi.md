@@ -14,7 +14,7 @@ hoverText: to imply (an implication) § Verb
 
 **Noun**: an implication
 
-**Modifier**: implied
+**Modifier**: impliable
 
 Welsh golygu /ɡɔˈləɡi/
 

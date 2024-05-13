@@ -12,9 +12,9 @@ hoverText: to become (a trait) § Verb
 
 **Verb**: to become/change
 
-**Noun**: quality/aspect/trait
+**Noun**: a quality/aspect/trait
 
-**Modifier**: changed
+**Modifier**: aspectual/beable
 
 Yoruba di /di/
 

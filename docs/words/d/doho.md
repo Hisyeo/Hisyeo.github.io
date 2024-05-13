@@ -14,7 +14,7 @@ hoverText: to sacrifice (an offering) § Verb
 
 **Noun**: an offering
 
-**Modifier**: sacrificed
+**Modifier**: sacrificable
 
 Arabic ⁧ضَحَّى⁩ ḍaḥḥā /dˤaħ.ħaː/
 

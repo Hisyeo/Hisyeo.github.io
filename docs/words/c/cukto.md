@@ -14,7 +14,7 @@ hoverText: to write (text) § Verb
 
 **Noun**: text
 
-**Modifier**: written
+**Modifier**: writable
 
 Korean 적다 jeokda [t͡ɕʌ̹k̚t͈a̠]
 

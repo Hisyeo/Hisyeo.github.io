@@ -14,7 +14,7 @@ hoverText: to drink (a drink) § Verb
 
 **Noun**: a drink
 
-**Modifier**: drank/sucked
+**Modifier**: drinkable/suckable
 
 Chickasaw ishko  
 

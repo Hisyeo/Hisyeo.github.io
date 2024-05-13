@@ -3,18 +3,18 @@ id: löpotöl
 slug: löpotöl
 title: LÖPOTÖL
 sidebar_position: 746
-hoverText: to scoop (scoopable entity) § Verb
+hoverText: to scoop (the scooped) § Verb
 ---
 
 ### löpotöl
 
-*to scoop (scoopable entity)* **§** Verb
+*to scoop (the scooped)* **§** Verb
 
 **Verb**: to scoop/shovel
 
-**Noun**: scoopable/shovelable entity
+**Noun**: the scooped/shoveled
 
-**Modifier**: scooped/shoveled
+**Modifier**: scoopable/shovelable
 
 Hungarian lapátol [ˈlɒpaːtol]
 

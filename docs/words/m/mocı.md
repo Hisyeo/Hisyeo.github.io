@@ -14,7 +14,7 @@ hoverText: to await (an expectation) § Verb
 
 **Noun**: an expectation/awaited thing
 
-**Modifier**: expected
+**Modifier**: expectable/awaitable
 
 Japanese ま​つ matsu [ma̠t͡sɨᵝ]
 

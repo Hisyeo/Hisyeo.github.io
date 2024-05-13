@@ -3,18 +3,18 @@ id: vizi
 slug: vizi
 title: VİZİ
 sidebar_position: 592
-hoverText: to bury (buryable entity) § Verb
+hoverText: to bury (the buried) § Verb
 ---
 
 ### vizi
 
-*to bury (buryable entity)* **§** Verb
+*to bury (the buried)* **§** Verb
 
 **Verb**: to bury
 
-**Noun**: buryable entity
+**Noun**: the buried
 
-**Modifier**: buried
+**Modifier**: buryable
 
 Songhay fiji [fid͡ʒi]
 

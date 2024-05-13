@@ -10,11 +10,11 @@ hoverText: to try (a trial) § Verb
 
 *to try (a trial)* **§** Verb
 
-**Verb**: to try/attempt
+**Verb**: to attempt/try
 
-**Noun**: a trial/test
+**Noun**: an attempt/trial
 
-**Modifier**: attempted/tried
+**Modifier**: attemptable/triable
 
 Turkish denemek /de.ne.ˈmec/
 

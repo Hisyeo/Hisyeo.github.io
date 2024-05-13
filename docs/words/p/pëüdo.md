@@ -3,18 +3,18 @@ id: pëüdo
 slug: pëüdo
 title: PËÜDO
 sidebar_position: 527
-hoverText: to learn (a learnable entity) § Verb
+hoverText: to learn (a learning) § Verb
 ---
 
 ### pëüdo
 
-*to learn (a learnable entity)* **§** Verb
+*to learn (a learning)* **§** Verb
 
 **Verb**: to learn
 
-**Noun**: a learnable entity
+**Noun**: a learning
 
-**Modifier**: learned
+**Modifier**: learnable
 
 Korean 배우다 bae'uda [pe̞uda̠]
 

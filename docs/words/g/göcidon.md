@@ -14,7 +14,7 @@ hoverText: to choose (a choice) § Verb
 
 **Noun**: a choice/decision
 
-**Modifier**: chosen
+**Modifier**: choosable
 
 Persian گزیدن gozidan [ɡ̥o.ziː.d̪ǽn]
 

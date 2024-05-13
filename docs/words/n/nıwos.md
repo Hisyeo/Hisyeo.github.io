@@ -14,7 +14,7 @@ hoverText: to reside in (a residence) § Verb
 
 **Noun**: a residence/home
 
-**Modifier**: resided
+**Modifier**: residable/livable
 
 Hindi निवास nivās [n̪ɪ.ʋäːs̪]
 

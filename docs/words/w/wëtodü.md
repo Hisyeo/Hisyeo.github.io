@@ -14,7 +14,7 @@ hoverText: to hunt/chase (prey/chasee) § Verb
 
 **Noun**: prey/chasee
 
-**Modifier**: hunted/chased/pursued
+**Modifier**: huntable/chaseable/pursuable
 
 Telugu వేటాడు vēṭāḍu /ʋeːʈaːɖu/
 

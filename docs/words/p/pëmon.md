@@ -14,7 +14,7 @@ hoverText: to agree to (a promise) § Verb
 
 **Noun**: an agreement/promise
 
-**Modifier**: agreed/promised
+**Modifier**: agreeable/promisable
 
 Persian پیمان peymân /pejˈmɒːn/
 

@@ -3,18 +3,18 @@ id: xontün
 slug: xontün
 title: XONTÜN
 sidebar_position: 399
-hoverText: to provoke (provocable entity) § Verb
+hoverText: to provoke (a provocation) § Verb
 ---
 
 ### xontün
 
-*to provoke (provocable entity)* **§** Verb
+*to provoke (a provocation)* **§** Verb
 
 **Verb**: to provoke/harrass
 
-**Noun**: provocable/harrassable entity
+**Noun**: a provocation
 
-**Modifier**: provoke/harrass-related
+**Modifier**: provokable/harrassable
 
 Chinese 扇動 shāndòng [ʂantʊŋ]
 

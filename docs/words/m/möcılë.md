@@ -3,18 +3,18 @@ id: möcılë
 slug: möcılë
 title: MÖCILË
 sidebar_position: 624
-hoverText: to tie/entangle (tie-able/entangleable entity) § Verb
+hoverText: to tie (the tied) § Verb
 ---
 
 ### möcılë
 
-*to tie/entangle (tie-able/entangleable entity)* **§** Verb
+*to tie (the tied)* **§** Verb
 
 **Verb**: to tie/entangle/knit/weave
 
-**Noun**: tie-able/entangleable entity
+**Noun**: the tied/entangled
 
-**Modifier**: tied/entangled
+**Modifier**: tie-able/entangleable
 
 Japanese もつれ motsure [mo̞t͡sɨᵝɾe̞]
 

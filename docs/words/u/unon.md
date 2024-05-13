@@ -14,7 +14,7 @@ hoverText: to smell (a scent) § Verb
 
 **Noun**: a smell/scent
 
-**Modifier**: smelled
+**Modifier**: smellable
 
 Burmese အနံ့ a.nam. /ʔəna̰ɴ/
 

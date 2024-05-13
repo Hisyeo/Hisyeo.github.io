@@ -14,7 +14,7 @@ hoverText: to see (a view) § Verb
 
 **Noun**: a sight/view
 
-**Modifier**: viewed
+**Modifier**: visible
 
 Hindi देखा dekhā (perfective of देखना dekhnā) [d̪eːkʰäː]
 

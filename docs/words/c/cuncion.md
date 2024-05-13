@@ -3,18 +3,18 @@ id: cuncion
 slug: cuncion
 title: CUNCİON
 sidebar_position: 325
-hoverText: to fortify (fortifiable entity) § Verb
+hoverText: to fortify (the fortified) § Verb
 ---
 
 ### cuncion
 
-*to fortify (fortifiable entity)* **§** Verb
+*to fortify (the fortified)* **§** Verb
 
 **Verb**: to fortify/reinforce
 
-**Noun**: fortifiable/reinforceable entity
+**Noun**: the fortified/reinforced
 
-**Modifier**: fortified/reinforced
+**Modifier**: fortifiable/reinforceable
 
 Mandarin 增強 zēngqiáng /tsəŋ.tɕʰjaŋ/
 

@@ -3,18 +3,18 @@ id: wëkëso
 slug: wëkëso
 title: WËKËSO
 sidebar_position: 714
-hoverText: to invest (investable entity) § Verb
+hoverText: to invest [in] (an investee) § Verb
 ---
 
 ### wëkëso
 
-*to invest (investable entity)* **§** Verb
+*to invest [in] (an investee)* **§** Verb
 
 **Verb**: to invest
 
-**Noun**: investable entity
+**Noun**: an investee
 
-**Modifier**: invested
+**Modifier**: investable
 
 Swahili -wekeza [wekeza]
 

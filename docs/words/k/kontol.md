@@ -14,7 +14,7 @@ hoverText: to sing/play (music) § Verb
 
 **Noun**: a song/music
 
-**Modifier**: sang/played
+**Modifier**: singable/playable
 
 Spanish cantar [kãn̪ˈt̪aɾ]
 

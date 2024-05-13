@@ -14,7 +14,7 @@ hoverText: to like (a preference) § Verb
 
 **Noun**: a preference/liked thing
 
-**Modifier**: liked/enjoyed
+**Modifier**: likable/enjoyable
 
 Malay ⁧ suka سوک  [suka]
 

@@ -14,7 +14,7 @@ hoverText: to wear (clothing) § Verb
 
 **Noun**: clothing
 
-**Modifier**: worn/clothed
+**Modifier**: wearable
 
 Yiddish אָנטאָן onton /ˈɔnˌtɔn/
 

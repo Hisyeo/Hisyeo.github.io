@@ -14,7 +14,7 @@ hoverText: to play (a game) § Verb
 
 **Noun**: a game
 
-**Modifier**: played
+**Modifier**: playable
 
 Assamese খেলা khela /kʰɛ.la/
 

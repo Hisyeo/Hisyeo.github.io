@@ -3,18 +3,18 @@ id: golun
 slug: golun
 title: GOLUN
 sidebar_position: 223
-hoverText: to respect (a respected entity) § Verb
+hoverText: to respect (the respected) § Verb
 ---
 
 ### golun
 
-*to respect (a respected entity)* **§** Verb
+*to respect (the respected)* **§** Verb
 
 **Verb**: to respect
 
-**Noun**: a respecteable thing
+**Noun**: the respected
 
-**Modifier**: respected
+**Modifier**: respectable
 
 Tagalog/Bikol galang [ˈɡa.lɐŋ]
 

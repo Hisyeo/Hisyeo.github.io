@@ -3,18 +3,18 @@ id: niltügu
 slug: niltügu
 title: NİLTÜGU
 sidebar_position: 690
-hoverText: to stop (a stoppable entity) § Verb
+hoverText: to stop (the stopped) § Verb
 ---
 
 ### niltügu
 
-*to stop (a stoppable entity)* **§** Verb
+*to stop (the stopped)* **§** Verb
 
 **Verb**: to stop
 
-**Noun**: stoppable entity
+**Noun**: the stopped
 
-**Modifier**: stopped
+**Modifier**: stoppable
 
 Malayalam നിർത്തുക niṟttuka /n̪irt̪t̪uɡɐ/
 

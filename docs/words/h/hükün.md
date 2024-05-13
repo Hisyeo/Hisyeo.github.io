@@ -14,7 +14,7 @@ hoverText: to order (a command) § Verb
 
 **Noun**: an order/command
 
-**Modifier**: ordered/commanded
+**Modifier**: orderable/commandable
 
 Arabic حُكْم ḥukm 
 

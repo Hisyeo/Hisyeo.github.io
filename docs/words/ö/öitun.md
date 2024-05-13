@@ -14,7 +14,7 @@ hoverText: to vocalize (a vocalization) § Verb
 
 **Noun**: vocalization/utterance
 
-**Modifier**: vocalized/uttered
+**Modifier**: vocalizable/utterable
 
 Dutch uiten /ˈœy̯tə(n)/
 

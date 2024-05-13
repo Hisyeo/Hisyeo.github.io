@@ -14,7 +14,7 @@ hoverText: to remember (a memory) § Verb
 
 **Noun**: a memory
 
-**Modifier**: remembered
+**Modifier**: memorable
 
 Malay ingatan 
 

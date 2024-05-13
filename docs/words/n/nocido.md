@@ -3,18 +3,18 @@ id: nocido
 slug: nocido
 title: NOCİDO
 sidebar_position: 662
-hoverText: to miss (missable entity) § Verb
+hoverText: to lose/waste (the lost/wasted) § Verb
 ---
 
 ### nocido
 
-*to miss (missable entity)* **§** Verb
+*to lose/waste (the lost/wasted)* **§** Verb
 
-**Verb**: to miss/waste
+**Verb**: to lose/waste/miss
 
-**Noun**: missable/wasteable entity
+**Noun**: the lost/wasted/missed
 
-**Modifier**: missed/wasted
+**Modifier**: loseable/wasteable/missable
 
 Korean 놓치다 notchida [no̞t̚t͡ɕʰida̠]
 

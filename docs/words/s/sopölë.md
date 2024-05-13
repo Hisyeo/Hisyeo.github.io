@@ -14,7 +14,7 @@ hoverText: to taste (a flavor) § Verb
 
 **Noun**: a flavor
 
-**Modifier**: tasted
+**Modifier**: tastable
 
 Italian sapore /saˈpo.re/
 

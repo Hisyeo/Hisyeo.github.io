@@ -3,18 +3,18 @@ id: cutië
 slug: cutië
 title: CUTİË
 sidebar_position: 323
-hoverText: to fold (foldable entity) § Verb
+hoverText: to fold (the folded) § Verb
 ---
 
 ### cutië
 
-*to fold (foldable entity)* **§** Verb
+*to fold (the folded)* **§** Verb
 
 **Verb**: to fold
 
-**Noun**: foldable entity
+**Noun**: the folded
 
-**Modifier**: folded
+**Modifier**: foldable
 
 Mandarin 折疊 zhédié /ʈʂɤ.tje/
 

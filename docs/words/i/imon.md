@@ -14,7 +14,7 @@ hoverText: to trust (a belief) § Verb
 
 **Noun**: a belief
 
-**Modifier**: believed
+**Modifier**: trustable/believable
 
 Arabic إيمان ʾīmān /ʔiː.maːn/
 

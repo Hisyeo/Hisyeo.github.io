@@ -3,18 +3,18 @@ id: vulköi
 slug: vulköi
 title: VULKÖİ
 sidebar_position: 599
-hoverText: to rub (rubbable entity) § Verb
+hoverText: to rub (the rubbed) § Verb
 ---
 
 ### vulköi
 
-*to rub (rubbable entity)* **§** Verb
+*to rub (the rubbed)* **§** Verb
 
 **Verb**: to rub/caress/scratch
 
-**Noun**: rubbable/caressable/scratchable entity
+**Noun**: the rubbed/caressed/scratched
 
-**Modifier**: rubbed/caressed/scratched
+**Modifier**: rubbable/caressable/scratchable
 
 Albanian fërkoj /fəɾˈkɔj/
 

@@ -3,18 +3,18 @@ id: pesol
 slug: pesol
 title: PESOL
 sidebar_position: 523
-hoverText: to seal/lock (sealable/lockable entity) § Verb
+hoverText: to seal/lock (the sealed/locked) § Verb
 ---
 
 ### pesol
 
-*to seal/lock (sealable/lockable entity)* **§** Verb
+*to seal/lock (the sealed/locked)* **§** Verb
 
 **Verb**: to seal/lock
 
-**Noun**: sealable/lockable entity
+**Noun**: the sealed/locked
 
-**Modifier**: sealed/locked
+**Modifier**: sealable/lockable
 
 Hungarian bezár [ˈbɛzaːr]
 

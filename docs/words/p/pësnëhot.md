@@ -14,7 +14,7 @@ hoverText: to suggest (a suggestion) § Verb
 
 **Noun**: suggestion/proposal
 
-**Modifier**: suggested/proposed
+**Modifier**: suggestable/proposable
 
 Persian پیشنهاد pišnehâd [pʰeːʃ.ne̞.ɦɑ́ːd̪]
 

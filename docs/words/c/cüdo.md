@@ -14,7 +14,7 @@ hoverText: to give (a gift) § Verb
 
 **Noun**: a gift
 
-**Modifier**: given
+**Modifier**: giveable
 
 Korean 주다 juda [t͡ɕuda̠]
 

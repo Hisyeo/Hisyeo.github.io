@@ -3,18 +3,18 @@ id: uskivo
 slug: uskivo
 title: USKİVO
 sidebar_position: 76
-hoverText: to avoid/dodge (avoidable/dodgeable entity) § Verb
+hoverText: to avoid/dodge (evasion/dodge) § Verb
 ---
 
 ### uskivo
 
-*to avoid/dodge (avoidable/dodgeable entity)* **§** Verb
+*to avoid/dodge (evasion/dodge)* **§** Verb
 
 **Verb**: to avoid/dodge/evade
 
-**Noun**: avoidable/dodgeable/evadeable entity
+**Noun**: evasion/dodge/escape
 
-**Modifier**: avoided/dodged/evaded
+**Modifier**: avoidable/dodgable/evadable
 
 Catalan esquivar [əs.kiˈva]
 

@@ -14,7 +14,7 @@ hoverText: to inherit (inheritance) § Verb
 
 **Noun**: inheritance
 
-**Modifier**: inherited
+**Modifier**: inheritable
 
 Chinese 遺傳 yíchuán /ji.ʈʂʰwan/
 

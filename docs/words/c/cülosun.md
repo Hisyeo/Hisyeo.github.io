@@ -3,18 +3,18 @@ id: cülosun
 slug: cülosun
 title: CÜLOSUN
 sidebar_position: 336
-hoverText: to allow (allowable entity) § Verb
+hoverText: to allow (the allowed) § Verb
 ---
 
 ### cülosun
 
-*to allow (allowable entity)* **§** Verb
+*to allow (the allowed)* **§** Verb
 
 **Verb**: to allow/permit
 
-**Noun**: allowable/permittable entity
+**Noun**: the allowed/permitted
 
-**Modifier**: allowed/permitted
+**Modifier**: allowable/permittable
 
 German zulassen /ˈtsuːlasən/
 

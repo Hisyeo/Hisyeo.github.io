@@ -14,7 +14,7 @@ hoverText: to want (a desire) § Verb
 
 **Noun**: a desire
 
-**Modifier**: desired
+**Modifier**: wantable/desirable
 
 German wollen /ˈvɔlən/
 

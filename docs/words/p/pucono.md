@@ -3,18 +3,18 @@ id: pucono
 slug: pucono
 title: PUCONO
 sidebar_position: 548
-hoverText: to save/rescue (saveable/rescuable entity) § Verb
+hoverText: to save/rescue (the saved/rescued) § Verb
 ---
 
 ### pucono
 
-*to save/rescue (saveable/rescuable entity)* **§** Verb
+*to save/rescue (the saved/rescued)* **§** Verb
 
 **Verb**: to save/rescue
 
-**Noun**: saveable/rescuable entity
+**Noun**: the saved/rescued
 
-**Modifier**: saved/rescued
+**Modifier**: saveable/rescuable
 
 Hindi बचाना bacānā /bə.t͡ʃɑː.nɑː/
 

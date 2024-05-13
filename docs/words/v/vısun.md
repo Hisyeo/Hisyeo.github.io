@@ -14,7 +14,7 @@ hoverText: to know (knowledge) § Verb
 
 **Noun**: knowledge
 
-**Modifier**: known
+**Modifier**: knowable
 
 German Wissen /ˈvɪsən/
 

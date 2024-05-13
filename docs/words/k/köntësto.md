@@ -3,18 +3,18 @@ id: köntësto
 slug: köntësto
 title: KÖNTËSTO
 sidebar_position: 171
-hoverText: to contend (contendable entity) § Verb
+hoverText: to contend with (a contestant) § Verb
 ---
 
 ### köntësto
 
-*to contend (contendable entity)* **§** Verb
+*to contend with (a contestant)* **§** Verb
 
 **Verb**: to contend/contest/oppose
 
-**Noun**: opponent/contestant
+**Noun**: contestant/opponent
 
-**Modifier**: contended/contested/opposed
+**Modifier**: contendable/contestable/opposable
 
 Portuguese contestar [kõ.tesˈta(h)]
 

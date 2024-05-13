@@ -14,7 +14,7 @@ hoverText: to read (a document) § Verb
 
 **Noun**: a document/book/sign
 
-**Modifier**: read
+**Modifier**: readable
 
 Hijazi Arabic قرا gara /ɡara/
 

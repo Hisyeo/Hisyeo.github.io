@@ -3,18 +3,18 @@ id: pöklön
 slug: pöklön
 title: PÖKLÖN
 sidebar_position: 517
-hoverText: to govern (governable entity) § Verb
+hoverText: to govern (the governed) § Verb
 ---
 
 ### pöklön
 
-*to govern (governable entity)* **§** Verb
+*to govern (the governed)* **§** Verb
 
 **Verb**: to govern/manage
 
-**Noun**: governable/manageable entity
+**Noun**: the governed/managed
 
-**Modifier**: govern/manage-related
+**Modifier**: governable/manageable
 
 Thai ปกครอง bpòk-krɔɔng /pok̚˨˩.kʰrɔːŋ˧/
 

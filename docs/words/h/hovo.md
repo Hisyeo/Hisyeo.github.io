@@ -14,7 +14,7 @@ hoverText: to plead (a plea) § Verb
 
 **Noun**: plea/prayer/appeal
 
-**Modifier**: urged/pleaded/begged/implored
+**Modifier**: urgable/pleadable/begable/implorable
 
 Arabic حث ḥaṯṯa /ħaθ.θa/
 

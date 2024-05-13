@@ -3,18 +3,18 @@ id: opülü
 slug: opülü
 title: OPÜLÜ
 sidebar_position: 14
-hoverText: to overwhelm (overwhelmable entity) § Verb
+hoverText: to overwhelm (the overwhelmed) § Verb
 ---
 
 ### opülü
 
-*to overwhelm (overwhelmable entity)* **§** Verb
+*to overwhelm (the overwhelmed)* **§** Verb
 
 **Verb**: to overwhelm/overpower
 
-**Noun**: overwhelmable entity
+**Noun**: the overwhelmed
 
-**Modifier**: overwhelmed/overpowered
+**Modifier**: overwhelmable
 
 Maori āpuru [aːpuɾu]
 

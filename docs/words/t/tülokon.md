@@ -14,7 +14,7 @@ hoverText: to adjudge (judgement) § Verb
 
 **Noun**: judgement/condemnation
 
-**Modifier**: judgement-like/adjudication-related
+**Modifier**: judgeable/condemnable
 
 Thai ตุลาการ dtù-laa-gaan /tu˨˩.laː˧.kaːn˧/
 

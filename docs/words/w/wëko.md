@@ -3,18 +3,18 @@ id: wëko
 slug: wëko
 title: WËKO
 sidebar_position: 713
-hoverText: to place (placeable entity) § Verb
+hoverText: to place (the placed) § Verb
 ---
 
 ### wëko
 
-*to place (placeable entity)* **§** Verb
+*to place (the placed)* **§** Verb
 
 **Verb**: to place
 
-**Noun**: placeable entity
+**Noun**: the placed
 
-**Modifier**: placed
+**Modifier**: placeable
 
 Swahili -weka [weka]
 

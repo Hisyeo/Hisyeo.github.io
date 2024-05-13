@@ -3,18 +3,18 @@ id: guvuyo
 slug: guvuyo
 title: GUVUYO
 sidebar_position: 238
-hoverText: to exchange/trade (an exchangeable entity) § Verb
+hoverText: to exchange/trade (the exchanged/traded) § Verb
 ---
 
 ### guvuyo
 
-*to exchange/trade (an exchangeable entity)* **§** Verb
+*to exchange/trade (the exchanged/traded)* **§** Verb
 
 **Verb**: to exchange/trade
 
-**Noun**: an exchangeable entity
+**Noun**: the exchanged/traded
 
-**Modifier**: exchanged
+**Modifier**: exchangeable/tradable
 
 Amharic ገበያ gäbäya [gəβ̞əja]
 

@@ -14,7 +14,7 @@ hoverText: to predict (a prediction) § Verb
 
 **Noun**: a prediction
 
-**Modifier**: predicted
+**Modifier**: predictable
 
 Polish przewidzieć /pʂɛˈvi.d͡ʑɛt͡ɕ/
 

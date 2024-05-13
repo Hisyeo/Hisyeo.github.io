@@ -14,7 +14,7 @@ hoverText: to give birth to (a baby) § Verb
 
 **Noun**: a baby
 
-**Modifier**: born
+**Modifier**: birthable
 
 Polish rodzić /ˈrɔ.d͡ʑit͡ɕ/
 

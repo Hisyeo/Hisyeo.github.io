@@ -3,18 +3,18 @@ id: döstoc
 slug: döstoc
 title: DÖSTOC
 sidebar_position: 438
-hoverText: to receive (receivable entity) § Verb
+hoverText: to receive (the received) § Verb
 ---
 
 ### döstoc
 
-*to receive (receivable entity)* **§** Verb
+*to receive (the received)* **§** Verb
 
 **Verb**: to receive/obtain
 
-**Noun**: receivable/obtainable entity
+**Noun**: the received/obtained
 
-**Modifier**: received/obtained
+**Modifier**: receivable/obtainable
 
 Polish dostać /ˈdɔ.stat͡ɕ/
 

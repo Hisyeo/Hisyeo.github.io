@@ -14,7 +14,7 @@ hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
 
 **Noun**: a surrounding/enclosure
 
-**Modifier**: surrounded/enclosed
+**Modifier**: surroundable/envelopable
 
 German umhüllen /ʊmˈhʏlən/
 

@@ -3,18 +3,18 @@ id: cihun
 slug: cihun
 title: CİHUN
 sidebar_position: 315
-hoverText: to pull/attract (a pullable entity) § Verb
+hoverText: to pull/attract (the pulled/attracted) § Verb
 ---
 
 ### cihun
 
-*to pull/attract (a pullable entity)* **§** Verb
+*to pull/attract (the pulled/attracted)* **§** Verb
 
 **Verb**: to pull/attract
 
-**Noun**: a pullable/attractable entity
+**Noun**: the pulled/attracted
 
-**Modifier**: pulled/attracted
+**Modifier**: pullable/attractable
 
 German ziehen /ˈt͡siːən/
 

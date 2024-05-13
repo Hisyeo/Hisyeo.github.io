@@ -14,7 +14,7 @@ hoverText: to ship/send (a package) § Verb
 
 **Noun**: a package
 
-**Modifier**: shipped/sent
+**Modifier**: shippable/sendable
 
 Telugu రవాణా ravāṇā [rɐvaːnaː]
 

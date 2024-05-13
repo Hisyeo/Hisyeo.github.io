@@ -3,18 +3,18 @@ id: cüngo
 slug: cüngo
 title: CÜNGO
 sidebar_position: 333
-hoverText: to filter (filterable entity) § Verb
+hoverText: to filter (the filtered) § Verb
 ---
 
 ### cüngo
 
-*to filter (filterable entity)* **§** Verb
+*to filter (the filtered)* **§** Verb
 
 **Verb**: to filter/sieve/winnow
 
-**Noun**: filterable/sieveable/winnowable entity
+**Noun**: the filtered/sieved/winnowed
 
-**Modifier**: filtered/sieved/winnowed
+**Modifier**: filterable/sieveable/winnowable
 
 Swahili -chunga [tʃuᵑɡ̊ɑ]
 

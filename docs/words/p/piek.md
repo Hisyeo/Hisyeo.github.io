@@ -14,7 +14,7 @@ hoverText: to bake (a baked good) § Verb
 
 **Noun**: baked good
 
-**Modifier**: baked
+**Modifier**: bakeable
 
 Albanian pjek [pjɛk]
 

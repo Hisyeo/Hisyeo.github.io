@@ -14,7 +14,7 @@ hoverText: to grab/hold (a hold/load/burden) § Verb
 
 **Noun**: a hold/load/burden
 
-**Modifier**: held
+**Modifier**: grabable/holdable
 
 Spanish agarrar [a.ɣ̞aˈraɾ]
 

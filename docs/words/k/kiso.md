@@ -14,7 +14,7 @@ hoverText: to narrate (a story) § Verb
 
 **Noun**: a story
 
-**Modifier**: narrated/told (a story)
+**Modifier**: narratable/tellable
 
 Arabic قِصَّة qiṣṣa /qisˤ.sˤa/
 

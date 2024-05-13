@@ -14,7 +14,7 @@ hoverText: to announce (an announcement) § Verb
 
 **Noun**: an announcement/decleration
 
-**Modifier**: announced
+**Modifier**: announcable
 
 Japanese 発表 happyō [ha̠p̚ʲpʲo̞ː]
 

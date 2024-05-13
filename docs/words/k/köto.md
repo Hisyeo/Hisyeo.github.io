@@ -14,7 +14,7 @@ hoverText: to talk (speech) § Verb
 
 **Noun**: speech
 
-**Modifier**: spoken/said
+**Modifier**: sayable
 
 Bengali কথা kotha /kɔ.tʰa/
 

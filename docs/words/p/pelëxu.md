@@ -14,7 +14,7 @@ hoverText: to mark (a target) § Verb
 
 **Noun**: a target
 
-**Modifier**: marked/targeted
+**Modifier**: markable/targetable
 
 Bulgarian беле́жа beléža [bɛˈlɛʒɐ]
 

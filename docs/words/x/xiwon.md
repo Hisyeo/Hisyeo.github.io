@@ -14,7 +14,7 @@ hoverText: to hope/wish (a hope/wish) § Verb
 
 **Noun**: hope/wish
 
-**Modifier**: hoped/wished
+**Modifier**: hopable/wishable
 
 Mandarin 希望 xīwàng 
 

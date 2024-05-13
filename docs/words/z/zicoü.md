@@ -14,7 +14,7 @@ hoverText: to train (a skill/ability) § Verb
 
 **Noun**: skill/ability
 
-**Modifier**: skill/ability-like, training-related
+**Modifier**: trainable
 
 Mandarin 技巧 jìqiǎo 
 

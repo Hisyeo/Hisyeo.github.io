@@ -3,18 +3,18 @@ id: vıyüxit
 slug: vıyüxit
 title: VIYÜXİT
 sidebar_position: 586
-hoverText: to employ/exploit (employable/exploitable entity) § Verb
+hoverText: to employ [for] (employment) § Verb
 ---
 
 ### vıyüxit
 
-*to employ/exploit (employable/exploitable entity)* **§** Verb
+*to employ [for] (employment)* **§** Verb
 
 **Verb**: to employ/exploit
 
-**Noun**: employable/exploitable entity
+**Noun**: employment
 
-**Modifier**: employed/exploited
+**Modifier**: employable/exploitable
 
 Czech využít [ˈvɪjuʒiːt]
 

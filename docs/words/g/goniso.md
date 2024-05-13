@@ -14,7 +14,7 @@ hoverText: to think (a thought/opinion) § Verb
 
 **Noun**: a thought/opinion
 
-**Modifier**: thought/opined
+**Modifier**: thinkable/opinable
 
 Chichewa -ganiza /ɡaˈni.za/
 

@@ -14,7 +14,7 @@ hoverText: to drive (a vehicle) § Verb
 
 **Noun**: a vehicle
 
-**Modifier**: driven
+**Modifier**: driveable
 
 German Auto [ˈʔaʊ̯tʰoː]
 

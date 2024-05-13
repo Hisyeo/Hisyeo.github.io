@@ -3,14 +3,14 @@ id: zowopü
 slug: zowopü
 title: ZOWOPÜ
 sidebar_position: 473
-hoverText: to answer (a response) § Verb
+hoverText: to answer [with] (a response) § Verb
 ---
 
 ### zowopü
 
-*to answer (a response)* **§** Verb
+*to answer [with] (a response)* **§** Verb
 
-**Verb**: to answer/respond with
+**Verb**: to answer/respond [with]
 
 **Noun**: an answer/response
 

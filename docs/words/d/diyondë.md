@@ -14,7 +14,7 @@ hoverText: to focus [on]/pay attention [to] § Verb
 
 **Noun**: a focus/topic/center of attention
 
-**Modifier**: focused
+**Modifier**: focusable
 
 Hindi ध्यान दे dhyān de /d̪ʱjɑːn/+/d̪eː/
 

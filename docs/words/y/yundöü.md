@@ -3,18 +3,18 @@ id: yundöü
 slug: yundöü
 title: YUNDÖÜ
 sidebar_position: 793
-hoverText: to guide (guidable entity) § Verb
+hoverText: to guide (the guided) § Verb
 ---
 
 ### yundöü
 
-*to guide (guidable entity)* **§** Verb
+*to guide (the guided)* **§** Verb
 
 **Verb**: to guide/lead/direct
 
-**Noun**: guidable/leadable/directable entity
+**Noun**: the guided/lead/directed
 
-**Modifier**: guided/lead/directed
+**Modifier**: guidable/leadable/directable
 
 Cantonese 引導 jan5 dou6 /jɐn.dou̯/
 

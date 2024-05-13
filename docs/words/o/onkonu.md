@@ -14,7 +14,7 @@ hoverText: to estimate/guess (an estimation/guess) § Verb
 
 **Noun**: an estimation/guess
 
-**Modifier**: estimated/guessed
+**Modifier**: estimatable/guessable
 
 Telugu అంచనా añcanā /aṁ.ka.nɐː/
 

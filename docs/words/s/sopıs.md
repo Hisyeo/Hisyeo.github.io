@@ -14,7 +14,7 @@ hoverText: to record (data/a recording) § Verb
 
 **Noun**: data/a recording
 
-**Modifier**: recorded
+**Modifier**: recordable
 
 Russian за́пись zápisʹ [ˈzapʲɪsʲ]
 

@@ -3,18 +3,18 @@ id: xiüvü
 slug: xiüvü
 title: XİÜVÜ
 sidebar_position: 416
-hoverText: to repair (repairable entity) § Verb
+hoverText: to repair (the repaired) § Verb
 ---
 
 ### xiüvü
 
-*to repair (repairable entity)* **§** Verb
+*to repair (the repaired)* **§** Verb
 
 **Verb**: to repair/restore
 
-**Noun**: repairable/restorable entity
+**Noun**: the repaired/restored
 
-**Modifier**: repaired/restored
+**Modifier**: repairable/restorable
 
 Chinese 修復 xiūfù /ɕjou̯.fu/
 

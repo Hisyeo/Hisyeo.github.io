@@ -14,7 +14,7 @@ hoverText: to cause (an effect) § Verb
 
 **Noun**: an effect/result
 
-**Modifier**: caused/produced
+**Modifier**: casuable/producable
 
 Thai ผล pǒn /pʰon˩˩˦/
 

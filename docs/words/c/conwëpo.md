@@ -14,7 +14,7 @@ hoverText: to manufacture (goods) § Verb
 
 **Noun**: a good
 
-**Modifier**: manufactured
+**Modifier**: manufacturable
 
 Georgian წარმოება c̣armoeba [t͡sʼaɾmoeba]
 

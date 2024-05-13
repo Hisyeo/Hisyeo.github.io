@@ -12,9 +12,9 @@ hoverText: to mine (ore) § Verb
 
 **Verb**: to mine/extract
 
-**Noun**: ore/extractable
+**Noun**: ore/extracted
 
-**Modifier**: mined/extracted
+**Modifier**: minable/extractable
 
 Maori huke /huke/
 

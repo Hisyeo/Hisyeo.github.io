@@ -14,7 +14,7 @@ hoverText: to understand (a concept) § Verb
 
 **Noun**: a concept
 
-**Modifier**: understood
+**Modifier**: understandable
 
 Hebrew הֵבִין hevín /(h)eˈvin/
 

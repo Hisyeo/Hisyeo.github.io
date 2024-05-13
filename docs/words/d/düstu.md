@@ -3,18 +3,18 @@ id: düstu
 slug: düstu
 title: DÜSTU
 sidebar_position: 458
-hoverText: to measure (measurable entity) § Verb
+hoverText: to measure (the measured) § Verb
 ---
 
 ### düstu
 
-*to measure (measurable entity)* **§** Verb
+*to measure (the measured)* **§** Verb
 
 **Verb**: to measure
 
-**Noun**: measurable entity
+**Noun**: the measured
 
-**Modifier**: measured
+**Modifier**: measurable
 
 Chechen дуста dusta [ˈdustɑ]
 

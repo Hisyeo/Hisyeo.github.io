@@ -14,7 +14,7 @@ hoverText: to form a pose (a position) § Verb
 
 **Noun**: a pose/position
 
-**Modifier**: posed/positioned
+**Modifier**: posable/positionable
 
 Spanish posar [poˈsaɾ]
 

@@ -3,18 +3,18 @@ id: zohit
 slug: zohit
 title: ZOHİT
 sidebar_position: 464
-hoverText: to sew (sewable entity) § Verb
+hoverText: to sew (the sewn) § Verb
 ---
 
 ### zohit
 
-*to sew (sewable entity)* **§** Verb
+*to sew (the sewn)* **§** Verb
 
 **Verb**: to sew/stitch
 
-**Noun**: sewable/stichable entity
+**Noun**: the sewn/stitched
 
-**Modifier**: sewn/stitched
+**Modifier**: sewable/stichable
 
 Indonesian jahit /ˈd͡ʒa.hit/
 

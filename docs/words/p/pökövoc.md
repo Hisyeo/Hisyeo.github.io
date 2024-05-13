@@ -3,18 +3,18 @@ id: pökövoc
 slug: pökövoc
 title: PÖKÖVOC
 sidebar_position: 515
-hoverText: to block (blockable entity) § Verb
+hoverText: to block (the blocked) § Verb
 ---
 
 ### pökövoc
 
-*to block (blockable entity)* **§** Verb
+*to block (the blocked)* **§** Verb
 
 **Verb**: to block/obstruct
 
-**Noun**: blockable/obstructable entity
+**Noun**: the blocked/obstructed
 
-**Modifier**: blocked/obstructed
+**Modifier**: blockable/obstructable
 
 Polish blokować /blɔˈkɔ.vat͡ɕ/
 

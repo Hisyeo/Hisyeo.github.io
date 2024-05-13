@@ -14,7 +14,7 @@ hoverText: to eat (food) § Verb
 
 **Noun**: food
 
-**Modifier**: eaten
+**Modifier**: edible
 
 Indonesian makan /ma.kan/
 

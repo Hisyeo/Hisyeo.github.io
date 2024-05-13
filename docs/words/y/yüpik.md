@@ -3,18 +3,18 @@ id: yüpik
 slug: yüpik
 title: YÜPİK
 sidebar_position: 795
-hoverText: to love (a lovable entity) § Verb
+hoverText: to love (the loved) § Verb
 ---
 
 ### yüpik
 
-*to love (a lovable entity)* **§** Verb
+*to love (the loved)* **§** Verb
 
 **Verb**: to love
 
-**Noun**: a lovable thing
+**Noun**: the loved
 
-**Modifier**: loved
+**Modifier**: lovable
 
 Slovak ľúbiť [ˈʎuːbic]
 

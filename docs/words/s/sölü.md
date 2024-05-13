@@ -14,7 +14,7 @@ hoverText: to ask (a question) § Verb
 
 **Noun**: a question/query
 
-**Modifier**: asked
+**Modifier**: askable
 
 Turkish soru /ˈsɔː.ru/
 

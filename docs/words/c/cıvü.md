@@ -14,7 +14,7 @@ hoverText: to pay (payment) § Verb
 
 **Noun**: payment
 
-**Modifier**: paid
+**Modifier**: payable
 
 Mandarin 支付 zhīfù /ʈʂɨ.fu/
 

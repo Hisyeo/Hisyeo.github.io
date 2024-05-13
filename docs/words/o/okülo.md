@@ -14,7 +14,7 @@ hoverText: to touch (a surface) § Verb
 
 **Noun**: a surface
 
-**Modifier**: touched/contacted/felt
+**Modifier**: touchable/physical
 
 Dholuo akura /ɑ.kuː.ra/
 

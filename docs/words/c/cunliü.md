@@ -3,18 +3,18 @@ id: cunliü
 slug: cunliü
 title: CUNLİÜ
 sidebar_position: 326
-hoverText: to distill (a distillable entity) § Verb
+hoverText: to distill (the distilled) § Verb
 ---
 
 ### cunliü
 
-*to distill (a distillable entity)* **§** Verb
+*to distill (the distilled)* **§** Verb
 
 **Verb**: to distill
 
-**Noun**: a distillable entity
+**Noun**: the distilled
 
-**Modifier**: distilled
+**Modifier**: distillable
 
 Chinese 蒸餾 zhēngliú [ʈʂəŋljou̯]
 
