@@ -8,10 +8,84 @@ A type of word that describes a verb or noun.
 
 ## Prepositions
 
+There are only a couple prepositions applicable to the modifier class of words.
+
+### Negatitive
+
+The %%wë@wë%%/%%ʒʇ@wë%% particle allows you to specify that any content word
+which is being used as a modifier is seen as negated in meaning when applied
+as a modifier to the preceding head phrase.
+
+### Collapsing Head
+
+The %%wo@wo%%/%%ʒ@wo%% particle allows you to specify that any content word
+being used as a modifier is seen as applying meaning to the *entire* noun or
+verb phrase instead of only being applicable to the preceding head phrase.
+
 ## From...
+
+Converting from the other content types into modifiers.
 
 ### Nouns
 
+When a noun acts as a modifier, it means that the head word is somehow related
+to the noun (acting as a modifer) or shares some recognizable quality with the
+noun. Like the affix "-like" in English. One way of making a modifier out of a
+noun is to provide it as a word immediately following %%vın@vın%%/%%ɤ̃ȷ@vın%%.
+This has the effect of meaning "[noun]-like thing" in English. You can use it
+following any head word including verbs.
+
+
 ### Verbs
 
+When a verb acts as a modifier, it means that the head word can be used as an
+object in the verb's action. Like "-able" in English but also there are many
+concrete terms that English has to refer to these "able to X" modifiers. The
+modified head word can now be considered as something that can be a direct
+object, patient and theme in a sentence where you use that verb as the
+predicate.
+
+
 ## Relative Clauses
+
+You can modify a preceding verb or noun phrase by using one of the relative
+clause particles:
+
+<Tabs groupId="popöun-kon-cukto" queryString>
+    <TabItem value="latin" label="Latin" default>
+        <ol>
+          <li>%%do@do%% - Use this one when the subject is shared from the outer sentence</li>
+          <li>%%vos@vos%% - Use this one when the subject is changed from the outer sentence</li>
+        </ol>
+    </TabItem>
+    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
+        <ol>
+          <li>%%ʌ@do%% - Use this one when the subject is shared from the outer sentence</li>
+          <li>%%ɤ́@vos%% - Use this one when the subject is changed from the outer sentence</li>
+        </ol>
+    </TabItem>
+</Tabs>
+
+When you use the second form (%%vos@vos%%/%%ɤ́@vos%%), you must provide at least
+one constituent that refers to the verb or noun phrase, this is called the
+**resumptive phrase**. Hisyëö uses the demonstratives as resumptive pronouns
+within resumptive phrases. Use the proximal demonstrative
+(%%övo@övo%%/%%ɽıɤ@övo%%) when referring to the speaker or objects that the
+speaker possesses, use the medial demonstrative (%%ulyö@ulyö%%/%%ɽ͊ʃɀı@ulyö%%)
+when referring to the person being addressed or objects possesed by that person,
+use the distal demonstrative (%%onö@onö%%%%ɽƨı@onö%%) when referring to someone
+else other than the person being addressed or objects possessed by that third
+party.
+
+<Tabs groupId="popöun-kon-cukto" queryString>
+    <TabItem value="latin" label="Latin" default>
+        <p>%%vıyüxit@vıyüxit%% %%hoi@hoi%% %%sëdu@sëdu%% %%muni@muni%% %%ü@ü%% %%umo@umo%% %%wohi@wohi%% %%do@do%% %%nıwos@nıwos%% %%hoi@hoi%% %%zınkon@zınkon%% %%uklo@uklo%%. "The woman who lives next door works in a bank."</p>
+        <p>%%ü@ü%% %%ulyö@ulyö%% %%lı@lı%% %%non@non%% %%vos@vos%% %%völun@völun%% %%ü@ü%% %%noyo@noyo%% %%cö@cö%% %%do@do%% %%möniso@möniso%% %%cö@cö%% %%övo@övo%% %%müt@müt%% %%nimü@nimü%%. "This is the video that I wanted to show you."</p>
+        <p>%%yöüli@yöüli%% %%ëto@ëto%% %%ü@ü%% %%umo@umo%% %%do@do%% %%dëko@dëko%% %%xopëk@xopëk%% %%ü@ü%% %%loı@loı%% %%cö@cö%% %%onö@onö%%. "The person they spoke to was really helpful."</p>
+    </TabItem>
+    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
+        <p>%%ɤȷɀʄɋ̆ɟ@vıyüxit%% %%ɂɽɟ@hoi%% %%ɐʇʌʃ@sëdu%% %%ƶʃƨɟ@muni%% %%ɽʄ@ü%% %%ɽʃƶ@umo%% %%ʒɂɟ@wohi%% %%ʌ@do%% %%ƨȷʒ́@nıwos%% %%ɂɽɟ@hoi%% %%ⱴ̃ȷɔ̃@zınkon%% %%ɽ̑ʃʓ@uklo%%. "The woman who lives next door works in a bank."</p>
+        <p>%%ɽʄ@ü%% %%ɽ͊ʃɀı@ulyö%% %%ʓȷ@lı%% %%ƨ̃@non%% %%ɤ́@vos%% %%ɤıʓ̃ʃ@völun%% %%ɽʄ@ü%% %%ƨɀ@noyo%% %%ꞇı@cö%% %%ʌ@do%% %%ƶıƨɟɐ@möniso%% %%ꞇı@cö%% %%ɽıɤ@övo%% %%ƶ̆ʄ@müt%% %%ƨɟƶʄ@nimü%%. "This is the video that I wanted to show you."</p>
+        <p>%%ɀıɽʄʓɟ@yöüli%% %%ɽʇc@ëto%% %%ɽʄ@ü%% %%ɽʃƶ@umo%% %%ʌ@do%% %%ʌʇɔ@dëko%% %%ɋʋ̑ʇ@xopëk%% %%ɽʄ@ü%% %%ʓɽȷ@loı%% %%ꞇı@cö%% %%ɽƨı@onö%%. "The person they spoke to was really helpful."</p>
+    </TabItem>
+</Tabs>
