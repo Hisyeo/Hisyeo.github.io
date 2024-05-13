@@ -2,7 +2,7 @@
 id: vıldonpun
 slug: vıldonpun
 title: VILDONPUN
-sidebar_position: 585
+sidebar_position: 586
 hoverText: evaporated/vaporized § Modifier
 ---
 

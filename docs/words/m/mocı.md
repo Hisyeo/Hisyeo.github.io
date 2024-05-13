@@ -2,7 +2,7 @@
 id: mocı
 slug: mocı
 title: MOCI
-sidebar_position: 608
+sidebar_position: 609
 hoverText: to await (an expectation) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: wili
 slug: wili
 title: WİLİ
-sidebar_position: 725
+sidebar_position: 726
 hoverText: awake § Modifier
 ---
 

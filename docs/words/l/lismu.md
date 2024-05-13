@@ -2,7 +2,7 @@
 id: lismu
 slug: lismu
 title: LİSMU
-sidebar_position: 762
+sidebar_position: 763
 hoverText: clay § Noun
 ---
 
@@ -10,11 +10,11 @@ hoverText: clay § Noun
 
 *clay* **§** Noun
 
-**Verb**: to be clay
+**Verb**: to be clay/silt
 
-**Noun**: clay
+**Noun**: clay/silt
 
-**Modifier**: clay-related
+**Modifier**: clay/silt-related
 
 Albanian lismë [lismə]
 

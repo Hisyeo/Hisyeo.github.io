@@ -2,7 +2,7 @@
 id: lis
 slug: lis
 title: LİS
-sidebar_position: 760
+sidebar_position: 761
 hoverText: smooth § Modifier
 ---
 
@@ -10,11 +10,11 @@ hoverText: smooth § Modifier
 
 *smooth* **§** Modifier
 
-**Verb**: to be smooth/blunt
+**Verb**: to be smooth
 
-**Noun**: smoothness/bluntness
+**Noun**: smoothness
 
-**Modifier**: smooth/blunt
+**Modifier**: smooth
 
 French lisse /lis/
 

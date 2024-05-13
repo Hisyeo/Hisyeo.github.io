@@ -2,7 +2,7 @@
 id: mövi
 slug: mövi
 title: MÖVİ
-sidebar_position: 625
+sidebar_position: 626
 hoverText: brave/courageous § Modifier
 ---
 

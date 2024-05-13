@@ -2,7 +2,7 @@
 id: zomüni
 slug: zomüni
 title: ZOMÜNİ
-sidebar_position: 469
+sidebar_position: 470
 hoverText: purple § Modifier
 ---
 

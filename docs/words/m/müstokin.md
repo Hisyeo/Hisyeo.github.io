@@ -2,7 +2,7 @@
 id: müstokin
 slug: müstokin
 title: MÜSTOKİN
-sidebar_position: 652
+sidebar_position: 653
 hoverText: straight § Modifier
 ---
 

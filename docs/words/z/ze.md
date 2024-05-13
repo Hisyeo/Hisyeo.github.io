@@ -2,7 +2,7 @@
 id: ze
 slug: ze
 title: ZE
-sidebar_position: 479
+sidebar_position: 480
 hoverText: aggressive/emotional clause ender § Grammar
 ---
 

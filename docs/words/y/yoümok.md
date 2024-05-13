@@ -2,7 +2,7 @@
 id: yoümok
 slug: yoümok
 title: YOÜMOK
-sidebar_position: 774
+sidebar_position: 775
 hoverText: humorous § Modifier
 ---
 

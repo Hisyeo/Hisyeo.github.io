@@ -2,7 +2,7 @@
 id: müxi
 slug: müxi
 title: MÜXİ
-sidebar_position: 653
+sidebar_position: 654
 hoverText: arthropod/bug § Noun
 ---
 

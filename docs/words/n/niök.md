@@ -2,7 +2,7 @@
 id: niök
 slug: niök
 title: NİÖK
-sidebar_position: 688
+sidebar_position: 689
 hoverText: growing § Modifier
 ---
 

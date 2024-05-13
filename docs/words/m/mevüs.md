@@ -2,7 +2,7 @@
 id: mevüs
 slug: mevüs
 title: MEVÜS
-sidebar_position: 627
+sidebar_position: 628
 hoverText: safe § Modifier
 ---
 

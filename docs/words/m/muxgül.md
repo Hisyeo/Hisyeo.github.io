@@ -2,7 +2,7 @@
 id: muxgül
 slug: muxgül
 title: MUXGÜL
-sidebar_position: 643
+sidebar_position: 644
 hoverText: occupied/engaged/busy § Modifier
 ---
 

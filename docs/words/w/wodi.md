@@ -2,7 +2,7 @@
 id: wodi
 slug: wodi
 title: WODİ
-sidebar_position: 703
+sidebar_position: 704
 hoverText: vile § Modifier
 ---
 

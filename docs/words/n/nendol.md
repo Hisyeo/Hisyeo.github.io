@@ -2,7 +2,7 @@
 id: nendol
 slug: nendol
 title: NENDOL
-sidebar_position: 678
+sidebar_position: 679
 hoverText: famous § Modifier
 ---
 

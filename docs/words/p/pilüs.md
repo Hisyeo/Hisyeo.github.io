@@ -2,7 +2,7 @@
 id: pilüs
 slug: pilüs
 title: PİLÜS
-sidebar_position: 546
+sidebar_position: 547
 hoverText: victorious § Modifier
 ---
 

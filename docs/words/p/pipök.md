@@ -2,7 +2,7 @@
 id: pipök
 slug: pipök
 title: PİPÖK
-sidebar_position: 542
+sidebar_position: 543
 hoverText: white § Modifier
 ---
 

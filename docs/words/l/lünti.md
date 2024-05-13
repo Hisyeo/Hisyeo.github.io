@@ -2,7 +2,7 @@
 id: lünti
 slug: lünti
 title: LÜNTİ
-sidebar_position: 772
+sidebar_position: 773
 hoverText: green § Modifier
 ---
 

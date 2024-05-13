@@ -2,7 +2,7 @@
 id: yönë
 slug: yönë
 title: YÖNË
-sidebar_position: 790
+sidebar_position: 791
 hoverText: caprine § Noun
 ---
 

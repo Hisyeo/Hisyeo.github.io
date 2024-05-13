@@ -1,12 +1,12 @@
 ---
-id: ilcizuk
-slug: ilcizuk
-title: İLCİZUK
+id: ilxizuk
+slug: ilxizuk
+title: İLXİZUK
 sidebar_position: 73
 hoverText: temporary § Modifier
 ---
 
-### ilcizuk
+### ilxizuk
 
 *temporary* **§** Modifier
 

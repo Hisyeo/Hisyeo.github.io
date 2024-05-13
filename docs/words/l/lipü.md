@@ -2,7 +2,7 @@
 id: lipü
 slug: lipü
 title: LİPÜ
-sidebar_position: 763
+sidebar_position: 764
 hoverText: sheet § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: pılit
 slug: pılit
 title: PILİT
-sidebar_position: 535
+sidebar_position: 536
 hoverText: sticky § Modifier
 ---
 

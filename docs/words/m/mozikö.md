@@ -2,7 +2,7 @@
 id: mozikö
 slug: mozikö
 title: MOZİKÖ
-sidebar_position: 612
+sidebar_position: 613
 hoverText: magical § Modifier
 ---
 

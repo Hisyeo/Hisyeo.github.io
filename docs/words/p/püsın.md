@@ -2,7 +2,7 @@
 id: püsın
 slug: püsın
 title: PÜSIN
-sidebar_position: 555
+sidebar_position: 556
 hoverText: dizzy § Modifier
 ---
 

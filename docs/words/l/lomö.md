@@ -2,7 +2,7 @@
 id: lomö
 slug: lomö
 title: LOMÖ
-sidebar_position: 736
+sidebar_position: 737
 hoverText: long § Modifier
 ---
 

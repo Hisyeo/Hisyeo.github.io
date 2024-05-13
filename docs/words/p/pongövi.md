@@ -2,7 +2,7 @@
 id: pongövi
 slug: pongövi
 title: PONGÖVİ
-sidebar_position: 510
+sidebar_position: 511
 hoverText: endangered § Modifier
 ---
 

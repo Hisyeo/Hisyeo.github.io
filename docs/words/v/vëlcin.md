@@ -2,7 +2,7 @@
 id: vëlcin
 slug: vëlcin
 title: VËLCİN
-sidebar_position: 581
+sidebar_position: 582
 hoverText: last/latest § Quantity
 ---
 

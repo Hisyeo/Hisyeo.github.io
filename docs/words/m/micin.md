@@ -2,7 +2,7 @@
 id: micin
 slug: micin
 title: MİCİN
-sidebar_position: 641
+sidebar_position: 642
 hoverText: fish § Noun
 ---
 

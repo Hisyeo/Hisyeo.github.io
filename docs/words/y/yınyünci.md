@@ -2,7 +2,7 @@
 id: yınyünci
 slug: yınyünci
 title: YINYÜNCİ
-sidebar_position: 792
+sidebar_position: 793
 hoverText: modifier (adjective) § Noun
 ---
 

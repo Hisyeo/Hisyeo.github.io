@@ -2,7 +2,7 @@
 id: löicök
 slug: löicök
 title: LÖİCÖK
-sidebar_position: 742
+sidebar_position: 743
 hoverText: emphasis clause ender (really/again) § Grammar
 ---
 

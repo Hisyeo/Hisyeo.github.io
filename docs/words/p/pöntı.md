@@ -2,7 +2,7 @@
 id: pöntı
 slug: pöntı
 title: PÖNTI
-sidebar_position: 520
+sidebar_position: 521
 hoverText: bridge § Noun
 ---
 

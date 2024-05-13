@@ -2,7 +2,7 @@
 id: zonüpi
 slug: zonüpi
 title: ZONÜPİ
-sidebar_position: 470
+sidebar_position: 471
 hoverText: southern § Modifier
 ---
 

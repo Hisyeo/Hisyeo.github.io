@@ -2,7 +2,7 @@
 id: mitetën
 slug: mitetën
 title: MİTETËN
-sidebar_position: 639
+sidebar_position: 640
 hoverText: trivial § Modifier
 ---
 

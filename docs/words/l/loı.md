@@ -2,7 +2,7 @@
 id: loı
 slug: loı
 title: LOI
-sidebar_position: 731
+sidebar_position: 732
 hoverText: it/they § Pronoun
 ---
 

@@ -2,7 +2,7 @@
 id: viki
 slug: viki
 title: VİKİ
-sidebar_position: 588
+sidebar_position: 589
 hoverText: fast § Modifier
 ---
 

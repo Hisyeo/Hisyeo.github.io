@@ -2,7 +2,7 @@
 id: pinë
 slug: pinë
 title: PİNË
-sidebar_position: 543
+sidebar_position: 544
 hoverText: then § Connector
 ---
 

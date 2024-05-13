@@ -2,7 +2,7 @@
 id: pinhün
 slug: pinhün
 title: PİNHÜN
-sidebar_position: 544
+sidebar_position: 545
 hoverText: magenta § Modifier
 ---
 

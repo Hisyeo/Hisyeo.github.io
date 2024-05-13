@@ -2,7 +2,7 @@
 id: möi
 slug: möi
 title: MÖİ
-sidebar_position: 619
+sidebar_position: 620
 hoverText: all/every § Quantity
 ---
 
