@@ -2,7 +2,7 @@
 id: nulto
 slug: nulto
 title: NULTO
-sidebar_position: 698
+sidebar_position: 699
 hoverText: wide § Modifier
 ---
 

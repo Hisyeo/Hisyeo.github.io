@@ -1,12 +1,12 @@
 ---
-id: wodi
-slug: wodi
-title: WODİ
-sidebar_position: 704
+id: niecnı
+slug: niecnı
+title: NİECNI
+sidebar_position: 690
 hoverText: vile § Modifier
 ---
 
-### wodi
+### niecnı
 
 *vile* **§** Modifier
 
@@ -16,6 +16,6 @@ hoverText: vile § Modifier
 
 **Modifier**: vile/wicked
 
-Arabic وضيع‎ waḍyʕ /waːdˤiʕ/
+Polish niecny /ˈɲɛ.t͡snɨ/
 
-*Afroasiatic Language Family*
+*Balto-Slavic Language Family*
