@@ -10,11 +10,11 @@ hoverText: value/cost § Noun
 
 *value/cost* **§** Noun
 
-**Verb**: to be a value/unit/cost
+**Verb**: to be a value/cost
 
-**Noun**: value/unit/cost
+**Noun**: value/cost
 
-**Modifier**: value/unit/cost-related
+**Modifier**: value/cost-related
 
 Telugu విలువ viluva /ʋiluʋa/
 

@@ -2,7 +2,7 @@
 id: yügoi
 slug: yügoi
 title: YÜGOİ
-sidebar_position: 795
+sidebar_position: 796
 hoverText: hindering/detrimental § Modifier
 ---
 

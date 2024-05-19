@@ -12,7 +12,7 @@ hoverText: momentary § Modifier
 
 **Verb**: to be momentary/brief
 
-**Noun**: momentariness/briefness/minute
+**Noun**: momentariness/briefness/minute (unit)
 
 **Modifier**: momentary/brief
 

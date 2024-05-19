@@ -3,18 +3,18 @@ id: zowo
 slug: zowo
 title: ZOWO
 sidebar_position: 473
-hoverText: dog § Noun
+hoverText: caniform § Noun
 ---
 
 ### zowo
 
-*dog* **§** Noun
+*caniform* **§** Noun
 
-**Verb**: to be a dog/canine
+**Verb**: to be a caniform
 
-**Noun**: dog/canine
+**Noun**: caniform
 
-**Modifier**: dog/canine-related
+**Modifier**: caniform-related
 
 Guaraní jagua /d͡ʒaˈɰʷa/
 

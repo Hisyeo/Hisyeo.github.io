@@ -2,7 +2,7 @@
 id: yöküe
 slug: yöküe
 title: YÖKÜE
-sidebar_position: 788
+sidebar_position: 789
 hoverText: monster § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: yoüti
 slug: yoüti
 title: YOÜTİ
-sidebar_position: 774
+sidebar_position: 775
 hoverText: some/a few § Quantity
 ---
 
