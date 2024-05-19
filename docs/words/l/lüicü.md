@@ -16,6 +16,6 @@ hoverText: ruminant § Noun
 
 **Modifier**: ruminant-related
 
-Ayacucho Quechua Luychu /lu.i.tʃu/
+Ayacucho Quechua luychu /lu.i.tʃu/
 
 *Quechumaran Language Family*

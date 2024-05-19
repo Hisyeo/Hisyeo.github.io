@@ -1,12 +1,12 @@
 ---
-id: xemëtsem
-slug: xemëtsem
-title: XEMËTSEM
+id: xemëtsen
+slug: xemëtsen
+title: XEMËTSEN
 sidebar_position: 410
 hoverText: noun § Noun
 ---
 
-### xemëtsem
+### xemëtsen
 
 *noun* **§** Noun
 
