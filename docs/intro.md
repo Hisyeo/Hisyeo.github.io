@@ -11,7 +11,7 @@ other. Hisyëö is designed using these principles:
 - **Neutrality**, words are sourced from all world languages proportional to the
 square root of their world population of L1 speakers. Many people who would come
 to learn Hisyëö may have a small anchor of familiarity within the lexicon.
-Additionally, the grammar is considered an analytic isolating language like it's
+Additionally, the grammar is considered an analytic isolating language like its
 forebears [Kokanu](https://www.kokanu.com/) and [Toki
 Pona](https://tokipona.org). The grammar is largely based on Kokanu's (which
 bears some resemblance to *its* forebear, Toki Pona) but a few things have been
@@ -19,15 +19,15 @@ tweaked and a more complete particle system implemented. The grammar design is
 considered an *exception* to the neutrality principle in order to give enough
 leverage to the other guiding principles. That said, the grammar helps to make
 Hisyëö less ambiguous overall which supports the neutrality principle
-indirectly.
+indirectly in some ways.
 - **Succinctness**, words are kept to a minimum where possible but information
 density is strongly emphasized so that the language can still be used for
-translations of popular media. This principle is not the same as the more strict
-principle of *minimalism* in that it is meant to allow for including singular
-words from (1) concepts that appear in a multitude of conversations and (2)
-concepts that would need complex nested clauses that can otherwise derail a
-sentence from comprehension due to the added working memory to develop an
-understanding of the sentence.
+translations of scientific and artistic media. This principle is not the same as
+the more strict principle of *minimalism* in that it is meant to allow for
+including singular words from (1) concepts that appear in a multitude of
+conversations and (2) concepts that would need complex nested clauses that can
+otherwise derail a sentence from comprehension due to the added working memory
+to develop an understanding of the sentence.
 - **Expressivity**, the language is designed to be highly expressive in its word
 and grammar choices. With around 800 words, there's a lot more ways to express
 feelings, emotions, objects, actions and anything else you can think of. The
@@ -48,9 +48,9 @@ Instead, Hisyëö pushes closer to an
 instead striving for a more complete linguistic system. In fact, the mission of
 an IAL to be a widely adopted secondary language for everyone, is both
 farfetched and even slightly dangerous--is purity of values enough to counteract
-the viral, or rather colonial, nature of practicing a language in the public or
-on the internet? Hisyëö accepts its place as a showpiece of absurdity by being
-both serious and artistic. We can only hope there's a place for it in the
+the viral, or rather *colonial*, nature of practicing a language in the public
+or on the internet? Hisyëö accepts its place as a showpiece of absurdity by
+being both serious and artistic. We can only hope there's a place for it in the
 universe.
 
 ## Where did Hisyëö come from?
