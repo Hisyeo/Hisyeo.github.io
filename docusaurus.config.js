@@ -93,6 +93,11 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://www.appsheet.com/start/b51571b2-bba5-4b6e-9055-207a8d59ad4e',
+            label: 'Dictionary',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/govuliel/hyo',
             label: 'GitHub',
             position: 'right',
