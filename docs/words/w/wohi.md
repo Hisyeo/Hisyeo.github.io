@@ -3,12 +3,12 @@ id: wohi
 slug: wohi
 title: WOHİ
 sidebar_position: 702
-hoverText: female § Modifier
+hoverText: female § Adjective
 ---
 
 ### wohi
 
-*female* **§** Modifier
+*female* **§** Adjective
 
 **Verb**: to be female/feminine
 

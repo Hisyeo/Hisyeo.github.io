@@ -2,13 +2,13 @@
 id: pügot
 slug: pügot
 title: PÜGOT
-sidebar_position: 555
-hoverText: heavy § Modifier
+sidebar_position: 556
+hoverText: heavy § Adjective
 ---
 
 ### pügot
 
-*heavy* **§** Modifier
+*heavy* **§** Adjective
 
 **Verb**: to be heavy
 

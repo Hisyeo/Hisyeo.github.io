@@ -3,12 +3,12 @@ id: küyö
 slug: küyö
 title: KÜYÖ
 sidebar_position: 214
-hoverText: sad § Modifier
+hoverText: sad § Adjective
 ---
 
 ### küyö
 
-*sad* **§** Modifier
+*sad* **§** Adjective
 
 **Verb**: to be sad
 

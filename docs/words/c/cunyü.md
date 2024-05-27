@@ -3,12 +3,12 @@ id: cunyü
 slug: cunyü
 title: CUNYÜ
 sidebar_position: 327
-hoverText: cold § Modifier
+hoverText: cold § Adjective
 ---
 
 ### cunyü
 
-*cold* **§** Modifier
+*cold* **§** Adjective
 
 **Verb**: to be cold
 

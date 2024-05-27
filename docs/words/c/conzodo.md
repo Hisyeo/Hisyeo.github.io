@@ -3,12 +3,12 @@ id: conzodo
 slug: conzodo
 title: CONZODO
 sidebar_position: 293
-hoverText: asleep § Modifier
+hoverText: asleep § Adjective
 ---
 
 ### conzodo
 
-*asleep* **§** Modifier
+*asleep* **§** Adjective
 
 **Verb**: to be asleep
 

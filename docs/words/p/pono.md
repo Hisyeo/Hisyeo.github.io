@@ -2,13 +2,13 @@
 id: pono
 slug: pono
 title: PONO
-sidebar_position: 510
-hoverText: facing/pointing § Modifier
+sidebar_position: 511
+hoverText: facing/pointing § Adjective
 ---
 
 ### pono
 
-*facing/pointing* **§** Modifier
+*facing/pointing* **§** Adjective
 
 **Verb**: to be facing/pointing
 

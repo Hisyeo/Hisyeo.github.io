@@ -2,13 +2,13 @@
 id: montüksol
 slug: montüksol
 title: MONTÜKSOL
-sidebar_position: 618
-hoverText: logical § Modifier
+sidebar_position: 620
+hoverText: logical § Adjective
 ---
 
 ### montüksol
 
-*logical* **§** Modifier
+*logical* **§** Adjective
 
 **Verb**: to be logical
 

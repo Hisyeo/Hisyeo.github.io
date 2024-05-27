@@ -3,12 +3,12 @@ id: ütok
 slug: ütok
 title: ÜTOK
 sidebar_position: 84
-hoverText: also § Modifier
+hoverText: also § Adjective
 ---
 
 ### ütok
 
-*also* **§** Modifier
+*also* **§** Adjective
 
 **Verb**: to be included
 

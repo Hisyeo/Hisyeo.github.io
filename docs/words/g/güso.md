@@ -3,12 +3,12 @@ id: güso
 slug: güso
 title: GÜSO
 sidebar_position: 242
-hoverText: angry § Modifier
+hoverText: angry § Adjective
 ---
 
 ### güso
 
-*angry* **§** Modifier
+*angry* **§** Adjective
 
 **Verb**: to be angry
 

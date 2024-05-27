@@ -3,12 +3,12 @@ id: wınit
 slug: wınit
 title: WINİT
 sidebar_position: 722
-hoverText: humble § Modifier
+hoverText: humble § Adjective
 ---
 
 ### wınit
 
-*humble* **§** Modifier
+*humble* **§** Adjective
 
 **Verb**: to be humble
 

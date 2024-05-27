@@ -3,12 +3,12 @@ id: müvëü
 slug: müvëü
 title: MÜVËÜ
 sidebar_position: 655
-hoverText: clean § Modifier
+hoverText: clean § Adjective
 ---
 
 ### müvëü
 
-*clean* **§** Modifier
+*clean* **§** Adjective
 
 **Verb**: to be clean
 

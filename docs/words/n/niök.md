@@ -3,12 +3,12 @@ id: niök
 slug: niök
 title: NİÖK
 sidebar_position: 689
-hoverText: growing § Modifier
+hoverText: growing § Adjective
 ---
 
 ### niök
 
-*growing* **§** Modifier
+*growing* **§** Adjective
 
 **Verb**: to be growing/sprouting
 

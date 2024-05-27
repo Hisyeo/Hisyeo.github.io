@@ -2,13 +2,13 @@
 id: menekxe
 slug: menekxe
 title: MENEKXE
-sidebar_position: 629
-hoverText: violet § Modifier
+sidebar_position: 630
+hoverText: violet § Adjective
 ---
 
 ### menekxe
 
-*violet* **§** Modifier
+*violet* **§** Adjective
 
 **Verb**: to be violet
 

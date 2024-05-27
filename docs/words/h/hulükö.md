@@ -3,12 +3,12 @@ id: hulükö
 slug: hulükö
 title: HULÜKÖ
 sidebar_position: 134
-hoverText: lightweight § Modifier
+hoverText: lightweight § Adjective
 ---
 
 ### hulükö
 
-*lightweight* **§** Modifier
+*lightweight* **§** Adjective
 
 **Verb**: to be light(weight)
 

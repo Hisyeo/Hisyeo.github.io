@@ -2,13 +2,13 @@
 id: döhil
 slug: döhil
 title: DÖHİL
-sidebar_position: 435
-hoverText: dirty § Modifier
+sidebar_position: 436
+hoverText: dirty § Adjective
 ---
 
 ### döhil
 
-*dirty* **§** Modifier
+*dirty* **§** Adjective
 
 **Verb**: to be dirty/polluted/soiled
 

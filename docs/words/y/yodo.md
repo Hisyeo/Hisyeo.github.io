@@ -3,12 +3,12 @@ id: yodo
 slug: yodo
 title: YODO
 sidebar_position: 782
-hoverText: or § Connector
+hoverText: or § Conjunction
 ---
 
 ### yodo
 
-*or* **§** Connector
+*or* **§** Conjunction
 
 **Verb**: -
 

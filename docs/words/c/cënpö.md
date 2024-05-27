@@ -3,12 +3,12 @@ id: cënpö
 slug: cënpö
 title: CËNPÖ
 sidebar_position: 302
-hoverText: big § Modifier
+hoverText: big § Adjective
 ---
 
 ### cënpö
 
-*big* **§** Modifier
+*big* **§** Adjective
 
 **Verb**: to be big
 

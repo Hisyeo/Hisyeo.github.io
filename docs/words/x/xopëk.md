@@ -3,12 +3,12 @@ id: xopëk
 slug: xopëk
 title: XOPËK
 sidebar_position: 397
-hoverText: previous § Modifier
+hoverText: previous § Adjective
 ---
 
 ### xopëk
 
-*previous* **§** Modifier
+*previous* **§** Adjective
 
 **Verb**: to be previous/former
 

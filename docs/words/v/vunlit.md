@@ -2,13 +2,13 @@
 id: vunlit
 slug: vunlit
 title: VUNLİT
-sidebar_position: 599
-hoverText: split § Modifier
+sidebar_position: 600
+hoverText: split § Adjective
 ---
 
 ### vunlit
 
-*split* **§** Modifier
+*split* **§** Adjective
 
 **Verb**: to be split/divided
 

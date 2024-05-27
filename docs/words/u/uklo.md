@@ -3,12 +3,12 @@ id: uklo
 slug: uklo
 title: UKLO
 sidebar_position: 74
-hoverText: next § Modifier
+hoverText: next § Adjective
 ---
 
 ### uklo
 
-*next* **§** Modifier
+*next* **§** Adjective
 
 **Verb**: to be next/coming (time)
 

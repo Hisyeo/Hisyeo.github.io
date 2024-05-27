@@ -3,12 +3,12 @@ id: nupuso
 slug: nupuso
 title: NUPUSO
 sidebar_position: 696
-hoverText: wet § Modifier
+hoverText: wet § Adjective
 ---
 
 ### nupuso
 
-*wet* **§** Modifier
+*wet* **§** Adjective
 
 **Verb**: to be wet
 

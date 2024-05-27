@@ -2,13 +2,13 @@
 id: mënüs
 slug: mënüs
 title: MËNÜS
-sidebar_position: 631
-hoverText: fewer/less § Quantity
+sidebar_position: 632
+hoverText: fewer/less § Determiner
 ---
 
 ### mënüs
 
-*fewer/less* **§** Quantity
+*fewer/less* **§** Determiner
 
 **Verb**: to be less
 

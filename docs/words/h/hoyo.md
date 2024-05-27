@@ -3,12 +3,12 @@ id: hoyo
 slug: hoyo
 title: HOYO
 sidebar_position: 115
-hoverText: alive § Modifier
+hoverText: alive § Adjective
 ---
 
 ### hoyo
 
-*alive* **§** Modifier
+*alive* **§** Adjective
 
 **Verb**: to be alive
 

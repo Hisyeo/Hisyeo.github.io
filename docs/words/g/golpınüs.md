@@ -3,12 +3,12 @@ id: golpınüs
 slug: golpınüs
 title: GOLPINÜS
 sidebar_position: 224
-hoverText: chartreuse § Modifier
+hoverText: chartreuse § Adjective
 ---
 
 ### golpınüs
 
-*chartreuse* **§** Modifier
+*chartreuse* **§** Adjective
 
 **Verb**: to be chartreuse
 

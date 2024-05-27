@@ -3,12 +3,12 @@ id: küonxün
 slug: küonxün
 title: KÜONXÜN
 sidebar_position: 201
-hoverText: tolerant § Modifier
+hoverText: tolerant § Adjective
 ---
 
 ### küonxün
 
-*tolerant* **§** Modifier
+*tolerant* **§** Adjective
 
 **Verb**: to be tolerant
 

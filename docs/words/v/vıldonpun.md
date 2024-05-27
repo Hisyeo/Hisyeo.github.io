@@ -2,13 +2,13 @@
 id: vıldonpun
 slug: vıldonpun
 title: VILDONPUN
-sidebar_position: 586
-hoverText: evaporated/vaporized § Modifier
+sidebar_position: 587
+hoverText: evaporated/vaporized § Adjective
 ---
 
 ### vıldonpun
 
-*evaporated/vaporized* **§** Modifier
+*evaporated/vaporized* **§** Adjective
 
 **Verb**: to be evaporated/vaporized
 

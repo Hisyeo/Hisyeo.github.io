@@ -2,13 +2,13 @@
 id: mëdüson
 slug: mëdüson
 title: MËDÜSON
-sidebar_position: 630
-hoverText: laborious § Modifier
+sidebar_position: 631
+hoverText: laborious § Adjective
 ---
 
 ### mëdüson
 
-*laborious* **§** Modifier
+*laborious* **§** Adjective
 
 **Verb**: to be laborious
 

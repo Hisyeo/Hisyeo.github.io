@@ -2,13 +2,13 @@
 id: dilë
 slug: dilë
 title: DİLË
-sidebar_position: 450
-hoverText: slow § Modifier
+sidebar_position: 451
+hoverText: slow § Adjective
 ---
 
 ### dilë
 
-*slow* **§** Modifier
+*slow* **§** Adjective
 
 **Verb**: to be slow
 

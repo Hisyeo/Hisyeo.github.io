@@ -3,12 +3,12 @@ id: nulun
 slug: nulun
 title: NULUN
 sidebar_position: 698
-hoverText: soft § Modifier
+hoverText: soft § Adjective
 ---
 
 ### nulun
 
-*soft* **§** Modifier
+*soft* **§** Adjective
 
 **Verb**: to be soft
 

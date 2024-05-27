@@ -3,12 +3,12 @@ id: wuktomü
 slug: wuktomü
 title: WUKTOMÜ
 sidebar_position: 728
-hoverText: overt/evident § Modifier
+hoverText: overt/evident § Adjective
 ---
 
 ### wuktomü
 
-*overt/evident* **§** Modifier
+*overt/evident* **§** Adjective
 
 **Verb**: to be overt/evident
 

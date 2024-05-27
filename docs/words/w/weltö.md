@@ -3,12 +3,12 @@ id: weltö
 slug: weltö
 title: WELTÖ
 sidebar_position: 712
-hoverText: limp/flaccid/flabby § Modifier
+hoverText: limp/flaccid/flabby § Adjective
 ---
 
 ### weltö
 
-*limp/flaccid/flabby* **§** Modifier
+*limp/flaccid/flabby* **§** Adjective
 
 **Verb**: to be limp/flaccid/flabby
 

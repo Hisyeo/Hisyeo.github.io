@@ -3,12 +3,12 @@ id: xonluk
 slug: xonluk
 title: XONLUK
 sidebar_position: 400
-hoverText: young § Modifier
+hoverText: young § Adjective
 ---
 
 ### xonluk
 
-*young* **§** Modifier
+*young* **§** Adjective
 
 **Verb**: to be young/youthful
 

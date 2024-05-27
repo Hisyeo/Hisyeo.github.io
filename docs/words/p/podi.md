@@ -2,13 +2,13 @@
 id: podi
 slug: podi
 title: PODİ
-sidebar_position: 507
-hoverText: unmoving § Modifier
+sidebar_position: 508
+hoverText: unmoving § Adjective
 ---
 
 ### podi
 
-*unmoving* **§** Modifier
+*unmoving* **§** Adjective
 
 **Verb**: to be still/unmoving
 

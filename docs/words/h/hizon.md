@@ -3,12 +3,12 @@ id: hizon
 slug: hizon
 title: HİZON
 sidebar_position: 132
-hoverText: excited § Modifier
+hoverText: excited § Adjective
 ---
 
 ### hizon
 
-*excited* **§** Modifier
+*excited* **§** Adjective
 
 **Verb**: to be excited
 

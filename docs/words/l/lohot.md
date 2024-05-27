@@ -3,12 +3,12 @@ id: lohot
 slug: lohot
 title: LOHOT
 sidebar_position: 733
-hoverText: comfortable § Modifier
+hoverText: comfortable § Adjective
 ---
 
 ### lohot
 
-*comfortable* **§** Modifier
+*comfortable* **§** Adjective
 
 **Verb**: to be comfortable
 

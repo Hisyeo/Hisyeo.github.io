@@ -3,12 +3,12 @@ id: këskin
 slug: këskin
 title: KËSKİN
 sidebar_position: 180
-hoverText: sharp § Modifier
+hoverText: sharp § Adjective
 ---
 
 ### këskin
 
-*sharp* **§** Modifier
+*sharp* **§** Adjective
 
 **Verb**: to be sharp
 

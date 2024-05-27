@@ -3,12 +3,12 @@ id: ses
 slug: ses
 title: SES
 sidebar_position: 362
-hoverText: 16 sixteen § Quantity
+hoverText: 16 sixteen § Numeral
 ---
 
 ### ses
 
-*16 sixteen* **§** Quantity
+*16 sixteen* **§** Numeral
 
 **Verb**: to be sixteen
 

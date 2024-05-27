@@ -3,12 +3,12 @@ id: henondë
 slug: henondë
 title: HENONDË
 sidebar_position: 123
-hoverText: hanging § Modifier
+hoverText: hanging § Adjective
 ---
 
 ### henondë
 
-*hanging* **§** Modifier
+*hanging* **§** Adjective
 
 **Verb**: to be hanging
 

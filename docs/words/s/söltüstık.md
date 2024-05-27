@@ -3,12 +3,12 @@ id: söltüstık
 slug: söltüstık
 title: SÖLTÜSTIK
 sidebar_position: 361
-hoverText: northern § Modifier
+hoverText: northern § Adjective
 ---
 
 ### söltüstık
 
-*northern* **§** Modifier
+*northern* **§** Adjective
 
 **Verb**: to be northern
 

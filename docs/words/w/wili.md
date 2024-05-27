@@ -3,12 +3,12 @@ id: wili
 slug: wili
 title: WİLİ
 sidebar_position: 726
-hoverText: awake § Modifier
+hoverText: awake § Adjective
 ---
 
 ### wili
 
-*awake* **§** Modifier
+*awake* **§** Adjective
 
 **Verb**: to be awake
 

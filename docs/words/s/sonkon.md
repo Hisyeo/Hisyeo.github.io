@@ -3,12 +3,12 @@ id: sonkon
 slug: sonkon
 title: SONKON
 sidebar_position: 352
-hoverText: important § Modifier
+hoverText: important § Adjective
 ---
 
 ### sonkon
 
-*important* **§** Modifier
+*important* **§** Adjective
 
 **Verb**: to be important/significant
 

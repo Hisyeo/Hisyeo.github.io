@@ -3,12 +3,12 @@ id: sopüni
 slug: sopüni
 title: SOPÜNİ
 sidebar_position: 348
-hoverText: ill/sick § Modifier
+hoverText: ill/sick § Adjective
 ---
 
 ### sopüni
 
-*ill/sick* **§** Modifier
+*ill/sick* **§** Adjective
 
 **Verb**: to be ill/sick
 

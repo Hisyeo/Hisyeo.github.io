@@ -3,12 +3,12 @@ id: tıgoyo
 slug: tıgoyo
 title: TIGOYO
 sidebar_position: 269
-hoverText: supine § Modifier
+hoverText: supine § Adjective
 ---
 
 ### tıgoyo
 
-*supine* **§** Modifier
+*supine* **§** Adjective
 
 **Verb**: to be supine/reclined
 

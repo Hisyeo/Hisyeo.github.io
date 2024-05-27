@@ -3,12 +3,12 @@ id: cünvü
 slug: cünvü
 title: CÜNVÜ
 sidebar_position: 335
-hoverText: repeating § Modifier
+hoverText: repeating § Adjective
 ---
 
 ### cünvü
 
-*repeating* **§** Modifier
+*repeating* **§** Adjective
 
 **Verb**: to be repeating/repetitive
 

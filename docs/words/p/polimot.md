@@ -2,13 +2,13 @@
 id: polimot
 slug: polimot
 title: POLİMOT
-sidebar_position: 513
-hoverText: voluminous § Modifier
+sidebar_position: 514
+hoverText: voluminous § Adjective
 ---
 
 ### polimot
 
-*voluminous* **§** Modifier
+*voluminous* **§** Adjective
 
 **Verb**: to be voluminous
 

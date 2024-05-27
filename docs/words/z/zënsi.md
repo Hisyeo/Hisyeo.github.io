@@ -2,13 +2,13 @@
 id: zënsi
 slug: zënsi
 title: ZËNSİ
-sidebar_position: 482
-hoverText: sexual § Modifier
+sidebar_position: 483
+hoverText: sexual § Adjective
 ---
 
 ### zënsi
 
-*sexual* **§** Modifier
+*sexual* **§** Adjective
 
 **Verb**: to be sexual
 

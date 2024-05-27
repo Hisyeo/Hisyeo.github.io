@@ -3,12 +3,12 @@ id: sonti
 slug: sonti
 title: SONTİ
 sidebar_position: 353
-hoverText: calm § Modifier
+hoverText: calm § Adjective
 ---
 
 ### sonti
 
-*calm* **§** Modifier
+*calm* **§** Adjective
 
 **Verb**: to be calm
 

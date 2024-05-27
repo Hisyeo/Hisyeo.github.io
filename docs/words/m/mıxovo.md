@@ -2,13 +2,13 @@
 id: mıxovo
 slug: mıxovo
 title: MIXOVO
-sidebar_position: 633
-hoverText: acidic § Modifier
+sidebar_position: 634
+hoverText: acidic § Adjective
 ---
 
 ### mıxovo
 
-*acidic* **§** Modifier
+*acidic* **§** Adjective
 
 **Verb**: to be acidic
 

@@ -3,12 +3,12 @@ id: opunyun
 slug: opunyun
 title: OPUNYUN
 sidebar_position: 13
-hoverText: easy § Modifier
+hoverText: easy § Adjective
 ---
 
 ### opunyun
 
-*easy* **§** Modifier
+*easy* **§** Adjective
 
 **Verb**: to be easy/simple
 

@@ -3,12 +3,12 @@ id: hokiki
 slug: hokiki
 title: HOKİKİ
 sidebar_position: 105
-hoverText: authentic § Modifier
+hoverText: authentic § Adjective
 ---
 
 ### hokiki
 
-*authentic* **§** Modifier
+*authentic* **§** Adjective
 
 **Verb**: to be authentic/true
 

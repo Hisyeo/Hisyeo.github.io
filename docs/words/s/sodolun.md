@@ -3,12 +3,12 @@ id: sodolun
 slug: sodolun
 title: SODOLUN
 sidebar_position: 343
-hoverText: normal § Modifier
+hoverText: normal § Adjective
 ---
 
 ### sodolun
 
-*normal* **§** Modifier
+*normal* **§** Adjective
 
 **Verb**: to be normal/ordinary/standard
 

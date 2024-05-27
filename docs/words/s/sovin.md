@@ -3,12 +3,12 @@ id: sovin
 slug: sovin
 title: SOVİN
 sidebar_position: 349
-hoverText: pure § Modifier
+hoverText: pure § Adjective
 ---
 
 ### sovin
 
-*pure* **§** Modifier
+*pure* **§** Adjective
 
 **Verb**: to be pure/homogeneous/sorted
 

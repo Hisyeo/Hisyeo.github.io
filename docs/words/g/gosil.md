@@ -3,12 +3,12 @@ id: gosil
 slug: gosil
 title: GOSİL
 sidebar_position: 215
-hoverText: short § Modifier
+hoverText: short § Adjective
 ---
 
 ### gosil
 
-*short* **§** Modifier
+*short* **§** Adjective
 
 **Verb**: to be short/low
 

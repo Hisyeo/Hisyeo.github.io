@@ -2,7 +2,7 @@
 id: dizel
 slug: dizel
 title: DİZEL
-sidebar_position: 447
+sidebar_position: 448
 hoverText: other § Pronoun
 ---
 

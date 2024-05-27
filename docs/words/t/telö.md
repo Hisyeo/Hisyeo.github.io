@@ -3,12 +3,12 @@ id: telö
 slug: telö
 title: TELÖ
 sidebar_position: 267
-hoverText: 13 thirteen § Quantity
+hoverText: 13 thirteen § Numeral
 ---
 
 ### telö
 
-*13 thirteen* **§** Quantity
+*13 thirteen* **§** Numeral
 
 **Verb**: to be thirteen
 

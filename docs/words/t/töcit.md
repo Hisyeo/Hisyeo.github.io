@@ -3,12 +3,12 @@ id: töcit
 slug: töcit
 title: TÖCİT
 sidebar_position: 261
-hoverText: blunt § Modifier
+hoverText: blunt § Adjective
 ---
 
 ### töcit
 
-*blunt* **§** Modifier
+*blunt* **§** Adjective
 
 **Verb**: to be blunt/dull
 

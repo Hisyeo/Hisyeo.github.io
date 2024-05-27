@@ -3,12 +3,12 @@ id: cenci
 slug: cenci
 title: CENCİ
 sidebar_position: 301
-hoverText: thin § Modifier
+hoverText: thin § Adjective
 ---
 
 ### cenci
 
-*thin* **§** Modifier
+*thin* **§** Adjective
 
 **Verb**: to be thin/narrow
 

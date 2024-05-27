@@ -3,12 +3,12 @@ id: ci
 slug: ci
 title: Cİ
 sidebar_position: 312
-hoverText: propositive clause ender (agree?) § Grammar
+hoverText: propositive clause ender (agree?) § Postposition
 ---
 
 ### ci
 
-*propositive clause ender (agree?)* **§** Grammar
+*propositive clause ender (agree?)* **§** Postposition
 
 **Verb**: -
 

@@ -3,12 +3,12 @@ id: sohoü
 slug: sohoü
 title: SOHOÜ
 sidebar_position: 339
-hoverText: healthy § Modifier
+hoverText: healthy § Adjective
 ---
 
 ### sohoü
 
-*healthy* **§** Modifier
+*healthy* **§** Adjective
 
 **Verb**: to be healthy
 

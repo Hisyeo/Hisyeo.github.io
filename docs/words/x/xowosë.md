@@ -3,12 +3,12 @@ id: xowosë
 slug: xowosë
 title: XOWOSË
 sidebar_position: 401
-hoverText: happy § Modifier
+hoverText: happy § Adjective
 ---
 
 ### xowosë
 
-*happy* **§** Modifier
+*happy* **§** Adjective
 
 **Verb**: to be happy
 

@@ -2,13 +2,13 @@
 id: zonüpi
 slug: zonüpi
 title: ZONÜPİ
-sidebar_position: 471
-hoverText: southern § Modifier
+sidebar_position: 472
+hoverText: southern § Adjective
 ---
 
 ### zonüpi
 
-*southern* **§** Modifier
+*southern* **§** Adjective
 
 **Verb**: to be southern
 

@@ -3,12 +3,12 @@ id: ünidü
 slug: ünidü
 title: ÜNİDÜ
 sidebar_position: 93
-hoverText: joined § Modifier
+hoverText: joined § Adjective
 ---
 
 ### ünidü
 
-*joined* **§** Modifier
+*joined* **§** Adjective
 
 **Verb**: to be joined/linked/united
 

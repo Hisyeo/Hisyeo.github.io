@@ -3,12 +3,12 @@ id: ülgükin
 slug: ülgükin
 title: ÜLGÜKİN
 sidebar_position: 100
-hoverText: dry § Modifier
+hoverText: dry § Adjective
 ---
 
 ### ülgükin
 
-*dry* **§** Modifier
+*dry* **§** Adjective
 
 **Verb**: to be dry
 

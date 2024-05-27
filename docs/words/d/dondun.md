@@ -2,13 +2,13 @@
 id: dondun
 slug: dondun
 title: DONDUN
-sidebar_position: 434
-hoverText: traditional § Modifier
+sidebar_position: 435
+hoverText: traditional § Adjective
 ---
 
 ### dondun
 
-*traditional* **§** Modifier
+*traditional* **§** Adjective
 
 **Verb**: to be traditional/conventional
 

@@ -3,12 +3,12 @@ id: kiösö
 slug: kiösö
 title: KİÖSÖ
 sidebar_position: 185
-hoverText: athletic § Modifier
+hoverText: athletic § Adjective
 ---
 
 ### kiösö
 
-*athletic* **§** Modifier
+*athletic* **§** Adjective
 
 **Verb**: to be athletic
 

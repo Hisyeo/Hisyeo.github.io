@@ -3,12 +3,12 @@ id: len
 slug: len
 title: LEN
 sidebar_position: 752
-hoverText: strong § Modifier
+hoverText: strong § Adjective
 ---
 
 ### len
 
-*strong* **§** Modifier
+*strong* **§** Adjective
 
 **Verb**: to be strong/forceful
 

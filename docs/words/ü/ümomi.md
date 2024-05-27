@@ -3,12 +3,12 @@ id: ümomi
 slug: ümomi
 title: ÜMOMİ
 sidebar_position: 92
-hoverText: savory § Modifier
+hoverText: savory § Adjective
 ---
 
 ### ümomi
 
-*savory* **§** Modifier
+*savory* **§** Adjective
 
 **Verb**: to be savory
 

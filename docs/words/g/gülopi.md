@@ -3,12 +3,12 @@ id: gülopi
 slug: gülopi
 title: GÜLOPİ
 sidebar_position: 249
-hoverText: pink § Modifier
+hoverText: pink § Adjective
 ---
 
 ### gülopi
 
-*pink* **§** Modifier
+*pink* **§** Adjective
 
 **Verb**: to be pink
 

@@ -3,12 +3,12 @@ id: tocı
 slug: tocı
 title: TOCI
 sidebar_position: 254
-hoverText: standing § Modifier
+hoverText: standing § Adjective
 ---
 
 ### tocı
 
-*standing* **§** Modifier
+*standing* **§** Adjective
 
 **Verb**: to be standing/vertical
 

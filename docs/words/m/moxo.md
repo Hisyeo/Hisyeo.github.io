@@ -2,13 +2,13 @@
 id: moxo
 slug: moxo
 title: MOXO
-sidebar_position: 612
-hoverText: decorative/ornamental § Modifier
+sidebar_position: 613
+hoverText: decorative/ornamental § Adjective
 ---
 
 ### moxo
 
-*decorative/ornamental* **§** Modifier
+*decorative/ornamental* **§** Adjective
 
 **Verb**: to be decorative/ornamental
 

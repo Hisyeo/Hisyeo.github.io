@@ -3,18 +3,18 @@ id: lisik
 slug: lisik
 title: LİSİK
 sidebar_position: 762
-hoverText: bread/grain § Noun
+hoverText: cereal/grain § Noun
 ---
 
 ### lisik
 
-*bread/grain* **§** Noun
+*cereal/grain* **§** Noun
 
-**Verb**: to be bread/a cereal product
+**Verb**: to be a cereal/grain
 
-**Noun**: bread/cereal product
+**Noun**: cereal/grain
 
-**Modifier**: bread/cereal-related
+**Modifier**: cereal/grain-related
 
 Arabic رِزْق‎ riziki /rizik/
 

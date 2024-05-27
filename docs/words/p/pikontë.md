@@ -2,13 +2,13 @@
 id: pikontë
 slug: pikontë
 title: PİKONTË
-sidebar_position: 540
-hoverText: spicy § Modifier
+sidebar_position: 542
+hoverText: spicy § Adjective
 ---
 
 ### pikontë
 
-*spicy* **§** Modifier
+*spicy* **§** Adjective
 
 **Verb**: to be spicy
 

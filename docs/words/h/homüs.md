@@ -3,12 +3,12 @@ id: homüs
 slug: homüs
 title: HOMÜS
 sidebar_position: 112
-hoverText: quiet § Modifier
+hoverText: quiet § Adjective
 ---
 
 ### homüs
 
-*quiet* **§** Modifier
+*quiet* **§** Adjective
 
 **Verb**: to be quiet
 

@@ -2,13 +2,13 @@
 id: möi
 slug: möi
 title: MÖİ
-sidebar_position: 620
-hoverText: all/every § Quantity
+sidebar_position: 621
+hoverText: all/every § Determiner
 ---
 
 ### möi
 
-*all/every* **§** Quantity
+*all/every* **§** Determiner
 
 **Verb**: to be all/everything
 

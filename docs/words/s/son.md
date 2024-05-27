@@ -3,12 +3,12 @@ id: son
 slug: son
 title: SON
 sidebar_position: 351
-hoverText: 03 three § Quantity
+hoverText: 03 three § Numeral
 ---
 
 ### son
 
-*03 three* **§** Quantity
+*03 three* **§** Numeral
 
 **Verb**: to be three
 

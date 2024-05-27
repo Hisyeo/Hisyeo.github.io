@@ -3,12 +3,12 @@ id: hiyöli
 slug: hiyöli
 title: HİYÖLİ
 sidebar_position: 133
-hoverText: weak § Modifier
+hoverText: weak § Adjective
 ---
 
 ### hiyöli
 
-*weak* **§** Modifier
+*weak* **§** Adjective
 
 **Verb**: to be weak
 

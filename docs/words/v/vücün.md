@@ -2,7 +2,7 @@
 id: vücün
 slug: vücün
 title: VÜCÜN
-sidebar_position: 603
+sidebar_position: 604
 hoverText: to obey (a rule) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: pündüki
 slug: pündüki
 title: PÜNDÜKİ
-sidebar_position: 562
+sidebar_position: 563
 hoverText: gun § Noun
 ---
 

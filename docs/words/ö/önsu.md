@@ -3,12 +3,12 @@ id: önsu
 slug: önsu
 title: ÖNSU
 sidebar_position: 40
-hoverText: 11 eleven § Quantity
+hoverText: 11 eleven § Numeral
 ---
 
 ### önsu
 
-*11 eleven* **§** Quantity
+*11 eleven* **§** Numeral
 
 **Verb**: to be eleven
 

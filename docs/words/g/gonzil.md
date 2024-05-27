@@ -3,12 +3,12 @@ id: gonzil
 slug: gonzil
 title: GONZİL
 sidebar_position: 220
-hoverText: strange § Modifier
+hoverText: strange § Adjective
 ---
 
 ### gonzil
 
-*strange* **§** Modifier
+*strange* **§** Adjective
 
 **Verb**: to be strange/weird/abnormal
 

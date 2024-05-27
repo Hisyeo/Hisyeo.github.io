@@ -3,12 +3,12 @@ id: socok
 slug: socok
 title: SOCOK
 sidebar_position: 342
-hoverText: to start (startable entity) § Modifier
+hoverText: to start (startable entity) § Adjective
 ---
 
 ### socok
 
-*to start (startable entity)* **§** Modifier
+*to start (startable entity)* **§** Adjective
 
 **Verb**: to start/begin
 

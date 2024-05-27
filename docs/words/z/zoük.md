@@ -2,13 +2,13 @@
 id: zoük
 slug: zoük
 title: ZOÜK
-sidebar_position: 464
-hoverText: far § Modifier
+sidebar_position: 465
+hoverText: far § Adjective
 ---
 
 ### zoük
 
-*far* **§** Modifier
+*far* **§** Adjective
 
 **Verb**: to be far/distant
 

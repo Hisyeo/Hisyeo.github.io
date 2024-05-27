@@ -3,12 +3,12 @@ id: ëlëo
 slug: ëlëo
 title: ËLËO
 sidebar_position: 53
-hoverText: floating § Modifier
+hoverText: floating § Adjective
 ---
 
 ### ëlëo
 
-*floating* **§** Modifier
+*floating* **§** Adjective
 
 **Verb**: to be floating
 

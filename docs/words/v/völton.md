@@ -2,13 +2,13 @@
 id: völton
 slug: völton
 title: VÖLTON
-sidebar_position: 577
-hoverText: hereafter § Modifier
+sidebar_position: 578
+hoverText: hereafter § Adjective
 ---
 
 ### völton
 
-*hereafter* **§** Modifier
+*hereafter* **§** Adjective
 
 **Verb**: to be hereafter
 

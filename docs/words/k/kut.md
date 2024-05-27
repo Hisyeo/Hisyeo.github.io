@@ -3,12 +3,12 @@ id: kut
 slug: kut
 title: KUT
 sidebar_position: 197
-hoverText: 01 one § Quantity
+hoverText: 01 one § Numeral
 ---
 
 ### kut
 
-*01 one* **§** Quantity
+*01 one* **§** Numeral
 
 **Verb**: to be one
 

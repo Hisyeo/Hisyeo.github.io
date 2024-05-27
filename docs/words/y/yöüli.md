@@ -3,12 +3,12 @@ id: yöüli
 slug: yöüli
 title: YÖÜLİ
 sidebar_position: 787
-hoverText: beneficial § Modifier
+hoverText: beneficial § Adjective
 ---
 
 ### yöüli
 
-*beneficial* **§** Modifier
+*beneficial* **§** Adjective
 
 **Verb**: to be beneficial/advantageous
 

@@ -3,12 +3,12 @@ id: tiü
 slug: tiü
 title: TİÜ
 sidebar_position: 271
-hoverText: 05 five § Quantity
+hoverText: 05 five § Numeral
 ---
 
 ### tiü
 
-*05 five* **§** Quantity
+*05 five* **§** Numeral
 
 **Verb**: to be five
 

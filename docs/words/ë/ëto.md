@@ -3,12 +3,12 @@ id: ëto
 slug: ëto
 title: ËTO
 sidebar_position: 47
-hoverText: many § Quantity
+hoverText: many § Determiner
 ---
 
 ### ëto
 
-*many* **§** Quantity
+*many* **§** Determiner
 
 **Verb**: to be many/a lot
 

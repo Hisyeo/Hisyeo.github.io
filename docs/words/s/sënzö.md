@@ -3,12 +3,12 @@ id: sënzö
 slug: sënzö
 title: SËNZÖ
 sidebar_position: 366
-hoverText: ancestral § Modifier
+hoverText: ancestral § Adjective
 ---
 
 ### sënzö
 
-*ancestral* **§** Modifier
+*ancestral* **§** Adjective
 
 **Verb**: to be ancestral
 

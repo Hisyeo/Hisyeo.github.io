@@ -3,12 +3,12 @@ id: löicök
 slug: löicök
 title: LÖİCÖK
 sidebar_position: 743
-hoverText: emphasis clause ender (really/again) § Grammar
+hoverText: emphasis clause ender (really/again) § Postposition
 ---
 
 ### löicök
 
-*emphasis clause ender (really/again)* **§** Grammar
+*emphasis clause ender (really/again)* **§** Postposition
 
 **Verb**: -
 

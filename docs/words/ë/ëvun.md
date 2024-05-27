@@ -3,12 +3,12 @@ id: ëvun
 slug: ëvun
 title: ËVUN
 sidebar_position: 49
-hoverText: momentary § Modifier
+hoverText: momentary § Adjective
 ---
 
 ### ëvun
 
-*momentary* **§** Modifier
+*momentary* **§** Adjective
 
 **Verb**: to be momentary/brief
 

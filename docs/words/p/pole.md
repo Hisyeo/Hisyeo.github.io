@@ -2,13 +2,13 @@
 id: pole
 slug: pole
 title: POLE
-sidebar_position: 512
-hoverText: 12 twelve § Quantity
+sidebar_position: 513
+hoverText: 12 twelve § Numeral
 ---
 
 ### pole
 
-*12 twelve* **§** Quantity
+*12 twelve* **§** Numeral
 
 **Verb**: to be twelve
 

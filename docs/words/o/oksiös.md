@@ -3,12 +3,12 @@ id: oksiös
 slug: oksiös
 title: OKSİÖS
 sidebar_position: 4
-hoverText: worthy § Modifier
+hoverText: worthy § Adjective
 ---
 
 ### oksiös
 
-*worthy* **§** Modifier
+*worthy* **§** Adjective
 
 **Verb**: to be worthy/deserving
 

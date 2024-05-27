@@ -3,12 +3,12 @@ id: gelmıs
 slug: gelmıs
 title: GELMIS
 sidebar_position: 233
-hoverText: stretched § Modifier
+hoverText: stretched § Adjective
 ---
 
 ### gelmıs
 
-*stretched* **§** Modifier
+*stretched* **§** Adjective
 
 **Verb**: to be stretched
 

@@ -2,13 +2,13 @@
 id: vëlcin
 slug: vëlcin
 title: VËLCİN
-sidebar_position: 582
-hoverText: last/latest § Quantity
+sidebar_position: 583
+hoverText: last/latest § Adjective
 ---
 
 ### vëlcin
 
-*last/latest* **§** Quantity
+*last/latest* **§** Adjective
 
 **Verb**: to be last
 

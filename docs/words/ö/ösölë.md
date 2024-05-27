@@ -3,12 +3,12 @@ id: ösölë
 slug: ösölë
 title: ÖSÖLË
 sidebar_position: 30
-hoverText: afraid § Modifier
+hoverText: afraid § Adjective
 ---
 
 ### ösölë
 
-*afraid* **§** Modifier
+*afraid* **§** Adjective
 
 **Verb**: to be scared
 

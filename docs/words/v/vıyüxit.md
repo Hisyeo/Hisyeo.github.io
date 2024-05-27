@@ -2,7 +2,7 @@
 id: vıyüxit
 slug: vıyüxit
 title: VIYÜXİT
-sidebar_position: 587
+sidebar_position: 589
 hoverText: to employ [for] (employment) § Verb
 ---
 

@@ -3,12 +3,12 @@ id: xidëtli
 slug: xidëtli
 title: XİDËTLİ
 sidebar_position: 418
-hoverText: violent § Modifier
+hoverText: violent § Adjective
 ---
 
 ### xidëtli
 
-*violent* **§** Modifier
+*violent* **§** Adjective
 
 **Verb**: to be violent
 

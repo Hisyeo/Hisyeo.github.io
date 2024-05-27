@@ -3,12 +3,12 @@ id: lis
 slug: lis
 title: LİS
 sidebar_position: 761
-hoverText: smooth § Modifier
+hoverText: smooth § Adjective
 ---
 
 ### lis
 
-*smooth* **§** Modifier
+*smooth* **§** Adjective
 
 **Verb**: to be smooth
 

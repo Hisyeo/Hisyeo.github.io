@@ -2,13 +2,13 @@
 id: poyok
 slug: poyok
 title: POYOK
-sidebar_position: 515
-hoverText: recent § Modifier
+sidebar_position: 516
+hoverText: recent § Adjective
 ---
 
 ### poyok
 
-*recent* **§** Modifier
+*recent* **§** Adjective
 
 **Verb**: to be recent
 

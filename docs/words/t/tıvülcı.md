@@ -3,12 +3,12 @@ id: tıvülcı
 slug: tıvülcı
 title: TIVÜLCI
 sidebar_position: 270
-hoverText: creative § Modifier
+hoverText: creative § Adjective
 ---
 
 ### tıvülcı
 
-*creative* **§** Modifier
+*creative* **§** Adjective
 
 **Verb**: to be creative/inventive/imaginative
 

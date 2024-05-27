@@ -2,13 +2,13 @@
 id: zomüni
 slug: zomüni
 title: ZOMÜNİ
-sidebar_position: 470
-hoverText: purple § Modifier
+sidebar_position: 471
+hoverText: purple § Adjective
 ---
 
 ### zomüni
 
-*purple* **§** Modifier
+*purple* **§** Adjective
 
 **Verb**: to be purple
 

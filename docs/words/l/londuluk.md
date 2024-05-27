@@ -3,12 +3,12 @@ id: londuluk
 slug: londuluk
 title: LONDULUK
 sidebar_position: 741
-hoverText: rural § Modifier
+hoverText: rural § Adjective
 ---
 
 ### londuluk
 
-*rural* **§** Modifier
+*rural* **§** Adjective
 
 **Verb**: to be rural
 

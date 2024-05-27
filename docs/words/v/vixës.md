@@ -2,13 +2,13 @@
 id: vixës
 slug: vixës
 title: VİXËS
-sidebar_position: 592
-hoverText: special/unique § Modifier
+sidebar_position: 593
+hoverText: special/unique § Adjective
 ---
 
 ### vixës
 
-*special/unique* **§** Modifier
+*special/unique* **§** Adjective
 
 **Verb**: to be special/unique
 

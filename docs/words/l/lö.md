@@ -3,12 +3,12 @@ id: lö
 slug: lö
 title: LÖ
 sidebar_position: 742
-hoverText: moving § Modifier
+hoverText: moving § Adjective
 ---
 
 ### lö
 
-*moving* **§** Modifier
+*moving* **§** Adjective
 
 **Verb**: to be moving/to go
 

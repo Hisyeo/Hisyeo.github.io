@@ -2,7 +2,7 @@
 id: pësnëhot
 slug: pësnëhot
 title: PËSNËHOT
-sidebar_position: 529
+sidebar_position: 530
 hoverText: to suggest (a suggestion) § Verb
 ---
 

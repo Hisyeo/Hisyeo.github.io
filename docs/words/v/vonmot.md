@@ -2,13 +2,13 @@
 id: vonmot
 slug: vonmot
 title: VONMOT
-sidebar_position: 572
-hoverText: absent/nonexistent § Modifier
+sidebar_position: 573
+hoverText: absent/nonexistent § Adjective
 ---
 
 ### vonmot
 
-*absent/nonexistent* **§** Modifier
+*absent/nonexistent* **§** Adjective
 
 **Verb**: to be absent/nonexistent
 

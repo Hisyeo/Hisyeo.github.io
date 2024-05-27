@@ -3,12 +3,12 @@ id: yonlüs
 slug: yonlüs
 title: YONLÜS
 sidebar_position: 785
-hoverText: wrong § Modifier
+hoverText: wrong § Adjective
 ---
 
 ### yonlüs
 
-*wrong* **§** Modifier
+*wrong* **§** Adjective
 
 **Verb**: to be wrong/incorrect/unfair
 

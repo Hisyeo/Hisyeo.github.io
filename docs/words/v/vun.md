@@ -2,13 +2,13 @@
 id: vun
 slug: vun
 title: VUN
-sidebar_position: 597
-hoverText: fraction § Quantity
+sidebar_position: 598
+hoverText: fraction § Noun
 ---
 
 ### vun
 
-*fraction* **§** Quantity
+*fraction* **§** Noun
 
 **Verb**: to be a fraction
 

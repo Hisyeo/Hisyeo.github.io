@@ -3,12 +3,12 @@ id: usündul
 slug: usündul
 title: USÜNDUL
 sidebar_position: 75
-hoverText: ugly § Modifier
+hoverText: ugly § Adjective
 ---
 
 ### usündul
 
-*ugly* **§** Modifier
+*ugly* **§** Adjective
 
 **Verb**: to be ugly
 

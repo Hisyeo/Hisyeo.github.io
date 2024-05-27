@@ -3,12 +3,12 @@ id: hoös
 slug: hoös
 title: HOÖS
 sidebar_position: 102
-hoverText: chaotic § Modifier
+hoverText: chaotic § Adjective
 ---
 
 ### hoös
 
-*chaotic* **§** Modifier
+*chaotic* **§** Adjective
 
 **Verb**: to be chaotic
 

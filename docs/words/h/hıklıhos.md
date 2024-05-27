@@ -3,12 +3,12 @@ id: hıklıhos
 slug: hıklıhos
 title: HIKLIHOS
 sidebar_position: 128
-hoverText: supernatural/miraculous § Modifier
+hoverText: supernatural/miraculous § Adjective
 ---
 
 ### hıklıhos
 
-*supernatural/miraculous* **§** Modifier
+*supernatural/miraculous* **§** Adjective
 
 **Verb**: to be supernatural/miraculous
 

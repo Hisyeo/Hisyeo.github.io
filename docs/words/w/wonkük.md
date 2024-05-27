@@ -3,12 +3,12 @@ id: wonkük
 slug: wonkük
 title: WONKÜK
 sidebar_position: 707
-hoverText: curved § Modifier
+hoverText: curved § Adjective
 ---
 
 ### wonkük
 
-*curved* **§** Modifier
+*curved* **§** Adjective
 
 **Verb**: to be curved
 

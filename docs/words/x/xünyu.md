@@ -2,13 +2,13 @@
 id: xünyu
 slug: xünyu
 title: XÜNYU
-sidebar_position: 428
-hoverText: 00 zero § Quantity
+sidebar_position: 430
+hoverText: 00 zero § Numeral
 ---
 
 ### xünyu
 
-*00 zero* **§** Quantity
+*00 zero* **§** Numeral
 
 **Verb**: to be zero
 

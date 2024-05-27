@@ -3,12 +3,12 @@ id: xëpö
 slug: xëpö
 title: XËPÖ
 sidebar_position: 412
-hoverText: yellow § Modifier
+hoverText: yellow § Adjective
 ---
 
 ### xëpö
 
-*yellow* **§** Modifier
+*yellow* **§** Adjective
 
 **Verb**: to be yellow
 

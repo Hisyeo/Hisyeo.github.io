@@ -3,12 +3,12 @@ id: kocko
 slug: kocko
 title: KOCKO
 sidebar_position: 149
-hoverText: rough § Modifier
+hoverText: rough § Adjective
 ---
 
 ### kocko
 
-*rough* **§** Modifier
+*rough* **§** Adjective
 
 **Verb**: to be rough
 

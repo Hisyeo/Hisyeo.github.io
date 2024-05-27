@@ -3,12 +3,12 @@ id: cüti
 slug: cüti
 title: CÜTİ
 sidebar_position: 330
-hoverText: small § Modifier
+hoverText: small § Adjective
 ---
 
 ### cüti
 
-*small* **§** Modifier
+*small* **§** Adjective
 
 **Verb**: to be small
 

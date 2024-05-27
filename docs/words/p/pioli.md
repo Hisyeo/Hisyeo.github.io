@@ -3,12 +3,12 @@ id: pioli
 slug: pioli
 title: PİOLİ
 sidebar_position: 537
-hoverText: hello/goodbye § Grammar
+hoverText: hello/goodbye § Interjection
 ---
 
 ### pioli
 
-*hello/goodbye* **§** Grammar
+*hello/goodbye* **§** Interjection
 
 **Verb**: -
 

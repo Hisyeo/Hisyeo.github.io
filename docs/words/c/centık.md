@@ -3,12 +3,12 @@ id: centık
 slug: centık
 title: CENTIK
 sidebar_position: 300
-hoverText: official/formal § Modifier
+hoverText: official/formal § Adjective
 ---
 
 ### centık
 
-*official/formal* **§** Modifier
+*official/formal* **§** Adjective
 
 **Verb**: to be official/formal
 

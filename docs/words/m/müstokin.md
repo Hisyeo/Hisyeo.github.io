@@ -3,12 +3,12 @@ id: müstokin
 slug: müstokin
 title: MÜSTOKİN
 sidebar_position: 653
-hoverText: straight § Modifier
+hoverText: straight § Adjective
 ---
 
 ### müstokin
 
-*straight* **§** Modifier
+*straight* **§** Adjective
 
 **Verb**: to be straight
 

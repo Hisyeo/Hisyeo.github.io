@@ -3,12 +3,12 @@ id: cosni
 slug: cosni
 title: COSNİ
 sidebar_position: 290
-hoverText: private/confidential § Modifier
+hoverText: private/confidential § Adjective
 ---
 
 ### cosni
 
-*private/confidential* **§** Modifier
+*private/confidential* **§** Adjective
 
 **Verb**: to be private/confidential
 

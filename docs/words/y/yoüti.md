@@ -3,12 +3,12 @@ id: yoüti
 slug: yoüti
 title: YOÜTİ
 sidebar_position: 775
-hoverText: some/a few § Quantity
+hoverText: some/a few § Determiner
 ---
 
 ### yoüti
 
-*some/a few* **§** Quantity
+*some/a few* **§** Determiner
 
 **Verb**: to be some/a few
 

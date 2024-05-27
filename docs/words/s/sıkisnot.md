@@ -3,12 +3,12 @@ id: sıkisnot
 slug: sıkisnot
 title: SIKİSNOT
 sidebar_position: 367
-hoverText: fermented/soured § Modifier
+hoverText: fermented/soured § Adjective
 ---
 
 ### sıkisnot
 
-*fermented/soured* **§** Modifier
+*fermented/soured* **§** Adjective
 
 **Verb**: to be fermented/soured
 

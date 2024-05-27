@@ -3,12 +3,12 @@ id: üncoi
 slug: üncoi
 title: ÜNCOİ
 sidebar_position: 95
-hoverText: proud § Modifier
+hoverText: proud § Adjective
 ---
 
 ### üncoi
 
-*proud* **§** Modifier
+*proud* **§** Adjective
 
 **Verb**: to be proud/vane
 

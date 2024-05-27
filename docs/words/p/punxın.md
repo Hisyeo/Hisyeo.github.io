@@ -2,13 +2,13 @@
 id: punxın
 slug: punxın
 title: PUNXIN
-sidebar_position: 552
-hoverText: innate/native § Modifier
+sidebar_position: 553
+hoverText: innate/native § Adjective
 ---
 
 ### punxın
 
-*innate/native* **§** Modifier
+*innate/native* **§** Adjective
 
 **Verb**: to be innate/native
 

@@ -3,12 +3,12 @@ id: nonkü
 slug: nonkü
 title: NONKÜ
 sidebar_position: 670
-hoverText: 04 four § Quantity
+hoverText: 04 four § Numeral
 ---
 
 ### nonkü
 
-*04 four* **§** Quantity
+*04 four* **§** Numeral
 
 **Verb**: to be four
 

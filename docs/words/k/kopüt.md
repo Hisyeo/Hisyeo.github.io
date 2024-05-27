@@ -3,12 +3,12 @@ id: kopüt
 slug: kopüt
 title: KOPÜT
 sidebar_position: 150
-hoverText: broken/dysfunctional § Modifier
+hoverText: broken/dysfunctional § Adjective
 ---
 
 ### kopüt
 
-*broken/dysfunctional* **§** Modifier
+*broken/dysfunctional* **§** Adjective
 
 **Verb**: to be broken/dysfunctional
 

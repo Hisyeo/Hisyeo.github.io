@@ -2,13 +2,13 @@
 id: pis
 slug: pis
 title: PİS
-sidebar_position: 542
-hoverText: bad § Modifier
+sidebar_position: 543
+hoverText: bad § Adjective
 ---
 
 ### pis
 
-*bad* **§** Modifier
+*bad* **§** Adjective
 
 **Verb**: to be bad
 

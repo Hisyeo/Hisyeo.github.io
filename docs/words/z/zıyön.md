@@ -2,13 +2,13 @@
 id: zıyön
 slug: zıyön
 title: ZIYÖN
-sidebar_position: 486
-hoverText: 14 fourteen § Quantity
+sidebar_position: 487
+hoverText: 14 fourteen § Numeral
 ---
 
 ### zıyön
 
-*14 fourteen* **§** Quantity
+*14 fourteen* **§** Numeral
 
 **Verb**: to be fourteen
 

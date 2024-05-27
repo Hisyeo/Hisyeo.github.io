@@ -3,12 +3,12 @@ id: kon
 slug: kon
 title: KON
 sidebar_position: 151
-hoverText: abstract verb noun particle § Grammar
+hoverText: abstract verb noun particle § Particle
 ---
 
 ### kon
 
-*abstract verb noun particle* **§** Grammar
+*abstract verb noun particle* **§** Particle
 
 **Verb**: -
 

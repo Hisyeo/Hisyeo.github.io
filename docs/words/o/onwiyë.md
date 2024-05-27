@@ -3,12 +3,12 @@ id: onwiyë
 slug: onwiyë
 title: ONWİYË
 sidebar_position: 26
-hoverText: bored § Modifier
+hoverText: bored § Adjective
 ---
 
 ### onwiyë
 
-*bored* **§** Modifier
+*bored* **§** Adjective
 
 **Verb**: to be bored
 

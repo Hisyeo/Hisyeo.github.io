@@ -3,12 +3,12 @@ id: ëo
 slug: ëo
 title: ËO
 sidebar_position: 46
-hoverText: causative verb particle § Grammar
+hoverText: causative verb particle § Particle
 ---
 
 ### ëo
 
-*causative verb particle* **§** Grammar
+*causative verb particle* **§** Particle
 
 **Verb**: -
 

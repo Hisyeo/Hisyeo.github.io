@@ -3,12 +3,12 @@ id: litö
 slug: litö
 title: LİTÖ
 sidebar_position: 759
-hoverText: empty/incomplete § Modifier
+hoverText: empty/incomplete § Adjective
 ---
 
 ### litö
 
-*empty/incomplete* **§** Modifier
+*empty/incomplete* **§** Adjective
 
 **Verb**: to be empty/incomplete
 

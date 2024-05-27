@@ -3,12 +3,12 @@ id: guvıs
 slug: guvıs
 title: GUVIS
 sidebar_position: 237
-hoverText: certain § Modifier
+hoverText: certain § Adjective
 ---
 
 ### guvıs
 
-*certain* **§** Modifier
+*certain* **§** Adjective
 
 **Verb**: to be certain/sure
 

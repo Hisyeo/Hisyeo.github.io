@@ -3,18 +3,18 @@ id: tünci
 slug: tünci
 title: TÜNCİ
 sidebar_position: 284
-hoverText: nonbinary/queer § Modifier
+hoverText: nonbinary/queer § Adjective
 ---
 
 ### tünci
 
-*nonbinary/queer* **§** Modifier
+*nonbinary/queer* **§** Adjective
 
-**Verb**: to be nonbinary/queer(?)
+**Verb**: to be nonbinary/queer
 
-**Noun**: nonbinaryness/queerness(?)
+**Noun**: nonbinaryness/queerness
 
-**Modifier**: nonbinary/queer(?)
+**Modifier**: nonbinary/queer
 
 Cantonese 同志 tung zi /tʰʊŋ²¹ t͡siː³³/
 

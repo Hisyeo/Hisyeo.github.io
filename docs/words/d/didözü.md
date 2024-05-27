@@ -2,13 +2,13 @@
 id: didözü
 slug: didözü
 title: DİDÖZÜ
-sidebar_position: 446
-hoverText: neutral § Modifier
+sidebar_position: 447
+hoverText: neutral § Adjective
 ---
 
 ### didözü
 
-*neutral* **§** Modifier
+*neutral* **§** Adjective
 
 **Verb**: to be neutral
 

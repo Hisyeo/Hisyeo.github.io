@@ -3,12 +3,12 @@ id: omülto
 slug: omülto
 title: OMÜLTO
 sidebar_position: 17
-hoverText: abstract § Modifier
+hoverText: abstract § Adjective
 ---
 
 ### omülto
 
-*abstract* **§** Modifier
+*abstract* **§** Adjective
 
 **Verb**: to be abstract/theoretical
 

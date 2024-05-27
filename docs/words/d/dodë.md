@@ -2,13 +2,13 @@
 id: dodë
 slug: dodë
 title: DODË
-sidebar_position: 433
-hoverText: diving § Modifier
+sidebar_position: 434
+hoverText: diving § Adjective
 ---
 
 ### dodë
 
-*diving* **§** Modifier
+*diving* **§** Adjective
 
 **Verb**: to be diving/swimming/bathing
 

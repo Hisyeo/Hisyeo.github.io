@@ -3,12 +3,12 @@ id: kiünlık
 slug: kiünlık
 title: KİÜNLIK
 sidebar_position: 187
-hoverText: authorized § Modifier
+hoverText: authorized § Adjective
 ---
 
 ### kiünlık
 
-*authorized* **§** Modifier
+*authorized* **§** Adjective
 
 **Verb**: to be authorized/sovereign
 

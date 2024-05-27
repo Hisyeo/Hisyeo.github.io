@@ -3,12 +3,12 @@ id: nokdo
 slug: nokdo
 title: NOKDO
 sidebar_position: 662
-hoverText: old § Modifier
+hoverText: old § Adjective
 ---
 
 ### nokdo
 
-*old* **§** Modifier
+*old* **§** Adjective
 
 **Verb**: to be old
 

@@ -3,12 +3,12 @@ id: litıwe
 slug: litıwe
 title: LİTIWE
 sidebar_position: 760
-hoverText: related § Modifier
+hoverText: related § Adjective
 ---
 
 ### litıwe
 
-*related* **§** Modifier
+*related* **§** Adjective
 
 **Verb**: to be related
 

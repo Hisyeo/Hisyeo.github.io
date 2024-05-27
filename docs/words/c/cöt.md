@@ -3,12 +3,12 @@ id: cöt
 slug: cöt
 title: CÖT
 sidebar_position: 298
-hoverText: thick § Modifier
+hoverText: thick § Adjective
 ---
 
 ### cöt
 
-*thick* **§** Modifier
+*thick* **§** Adjective
 
 **Verb**: to be thick
 

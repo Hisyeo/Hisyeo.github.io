@@ -3,12 +3,12 @@ id: tikël
 slug: tikël
 title: TİKËL
 sidebar_position: 272
-hoverText: reflected § Modifier
+hoverText: reflected § Adjective
 ---
 
 ### tikël
 
-*reflected* **§** Modifier
+*reflected* **§** Adjective
 
 **Verb**: to be reflected
 

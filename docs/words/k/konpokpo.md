@@ -3,12 +3,12 @@ id: konpokpo
 slug: konpokpo
 title: KONPOKPO
 sidebar_position: 155
-hoverText: general/universal § Modifier
+hoverText: general/universal § Adjective
 ---
 
 ### konpokpo
 
-*general/universal* **§** Modifier
+*general/universal* **§** Adjective
 
 **Verb**: to be general/universal
 

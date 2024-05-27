@@ -2,13 +2,13 @@
 id: pukü
 slug: pukü
 title: PUKÜ
-sidebar_position: 548
-hoverText: frozen § Modifier
+sidebar_position: 549
+hoverText: frozen § Adjective
 ---
 
 ### pukü
 
-*frozen* **§** Modifier
+*frozen* **§** Adjective
 
 **Verb**: to be frozen/congealed/solidified/ossified
 

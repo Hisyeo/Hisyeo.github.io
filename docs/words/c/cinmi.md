@@ -3,12 +3,12 @@ id: cinmi
 slug: cinmi
 title: CİNMİ
 sidebar_position: 321
-hoverText: precise/specific § Modifier
+hoverText: precise/specific § Adjective
 ---
 
 ### cinmi
 
-*precise/specific* **§** Modifier
+*precise/specific* **§** Adjective
 
 **Verb**: to be precise/specific
 

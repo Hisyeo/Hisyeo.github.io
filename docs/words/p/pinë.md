@@ -3,12 +3,12 @@ id: pinë
 slug: pinë
 title: PİNË
 sidebar_position: 544
-hoverText: then § Connector
+hoverText: then § Conjunction
 ---
 
 ### pinë
 
-*then* **§** Connector
+*then* **§** Conjunction
 
 **Verb**: -
 

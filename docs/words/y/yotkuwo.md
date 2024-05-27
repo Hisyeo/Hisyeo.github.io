@@ -3,12 +3,12 @@ id: yotkuwo
 slug: yotkuwo
 title: YOTKUWO
 sidebar_position: 779
-hoverText: ongoing § Modifier
+hoverText: ongoing § Adjective
 ---
 
 ### yotkuwo
 
-*ongoing* **§** Modifier
+*ongoing* **§** Adjective
 
 **Verb**: to be ongoing
 

@@ -2,13 +2,13 @@
 id: mevüs
 slug: mevüs
 title: MEVÜS
-sidebar_position: 628
-hoverText: safe § Modifier
+sidebar_position: 629
+hoverText: safe § Adjective
 ---
 
 ### mevüs
 
-*safe* **§** Modifier
+*safe* **§** Adjective
 
 **Verb**: to be safe/protected
 

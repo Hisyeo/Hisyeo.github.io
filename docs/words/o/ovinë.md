@@ -3,12 +3,12 @@ id: ovinë
 slug: ovinë
 title: OVİNË
 sidebar_position: 16
-hoverText: cultivated/refined § Modifier
+hoverText: cultivated/refined § Adjective
 ---
 
 ### ovinë
 
-*cultivated/refined* **§** Modifier
+*cultivated/refined* **§** Adjective
 
 **Verb**: to be cultivated/refined
 

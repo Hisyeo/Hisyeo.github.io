@@ -3,12 +3,12 @@ id: xodilü
 slug: xodilü
 title: XODİLÜ
 sidebar_position: 396
-hoverText: loose § Modifier
+hoverText: loose § Adjective
 ---
 
 ### xodilü
 
-*loose* **§** Modifier
+*loose* **§** Adjective
 
 **Verb**: to be loose
 

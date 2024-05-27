@@ -3,12 +3,12 @@ id: gönyumon
 slug: gönyumon
 title: GÖNYUMON
 sidebar_position: 227
-hoverText: grunting/growling § Modifier
+hoverText: grunting/growling § Adjective
 ---
 
 ### gönyumon
 
-*grunting/growling* **§** Modifier
+*grunting/growling* **§** Adjective
 
 **Verb**: to be grunting/growling
 

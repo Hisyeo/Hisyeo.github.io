@@ -3,12 +3,12 @@ id: cıhöü
 slug: cıhöü
 title: CIHÖÜ
 sidebar_position: 303
-hoverText: after § Quantity
+hoverText: after § Determiner
 ---
 
 ### cıhöü
 
-*after* **§** Quantity
+*after* **§** Determiner
 
 **Verb**: to be after
 

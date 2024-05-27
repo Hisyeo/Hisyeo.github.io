@@ -3,12 +3,12 @@ id: kotonhon
 slug: kotonhon
 title: KOTONHON
 sidebar_position: 148
-hoverText: sudden/urgent § Modifier
+hoverText: sudden/urgent § Adjective
 ---
 
 ### kotonhon
 
-*sudden/urgent* **§** Modifier
+*sudden/urgent* **§** Adjective
 
 **Verb**: to be sudden/urgent
 

@@ -3,12 +3,12 @@ id: cienxin
 slug: cienxin
 title: CİENXİN
 sidebar_position: 314
-hoverText: alkaline § Modifier
+hoverText: alkaline § Adjective
 ---
 
 ### cienxin
 
-*alkaline* **§** Modifier
+*alkaline* **§** Adjective
 
 **Verb**: to be alkaline
 

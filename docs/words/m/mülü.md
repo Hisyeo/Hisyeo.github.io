@@ -3,12 +3,12 @@ id: mülü
 slug: mülü
 title: MÜLÜ
 sidebar_position: 658
-hoverText: complete § Modifier
+hoverText: complete § Adjective
 ---
 
 ### mülü
 
-*complete* **§** Modifier
+*complete* **§** Adjective
 
 **Verb**: to be full/complete
 

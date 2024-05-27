@@ -3,12 +3,12 @@ id: nendol
 slug: nendol
 title: NENDOL
 sidebar_position: 679
-hoverText: famous § Modifier
+hoverText: famous § Adjective
 ---
 
 ### nendol
 
-*famous* **§** Modifier
+*famous* **§** Adjective
 
 **Verb**: to be famous
 

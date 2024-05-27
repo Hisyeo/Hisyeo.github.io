@@ -3,12 +3,12 @@ id: ınvultin
 slug: ınvultin
 title: INVULTİN
 sidebar_position: 57
-hoverText: rotating/spinning § Modifier
+hoverText: rotating/spinning § Adjective
 ---
 
 ### ınvultin
 
-*rotating/spinning* **§** Modifier
+*rotating/spinning* **§** Adjective
 
 **Verb**: to be rotating/spinning
 

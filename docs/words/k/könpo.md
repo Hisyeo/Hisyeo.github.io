@@ -3,12 +3,12 @@ id: könpo
 slug: könpo
 title: KÖNPO
 sidebar_position: 174
-hoverText: shaking § Modifier
+hoverText: shaking § Adjective
 ---
 
 ### könpo
 
-*shaking* **§** Modifier
+*shaking* **§** Adjective
 
 **Verb**: to be shaking/trembling/vibrating/non-traversally moving
 

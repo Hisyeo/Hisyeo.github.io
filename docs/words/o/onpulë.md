@@ -3,12 +3,12 @@ id: onpulë
 slug: onpulë
 title: ONPULË
 sidebar_position: 24
-hoverText: amber (color) § Modifier
+hoverText: amber (color) § Adjective
 ---
 
 ### onpulë
 
-*amber (color)* **§** Modifier
+*amber (color)* **§** Adjective
 
 **Verb**: to be amber
 

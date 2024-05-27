@@ -3,12 +3,12 @@ id: löncön
 slug: löncön
 title: LÖNCÖN
 sidebar_position: 748
-hoverText: naked § Modifier
+hoverText: naked § Adjective
 ---
 
 ### löncön
 
-*naked* **§** Modifier
+*naked* **§** Adjective
 
 **Verb**: to be naked/bare
 

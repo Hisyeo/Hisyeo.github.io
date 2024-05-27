@@ -3,12 +3,12 @@ id: sünkon
 slug: sünkon
 title: SÜNKON
 sidebar_position: 389
-hoverText: instantaneous § Modifier
+hoverText: instantaneous § Adjective
 ---
 
 ### sünkon
 
-*instantaneous* **§** Modifier
+*instantaneous* **§** Adjective
 
 **Verb**: to be instantaneous
 

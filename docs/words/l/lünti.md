@@ -3,12 +3,12 @@ id: lünti
 slug: lünti
 title: LÜNTİ
 sidebar_position: 774
-hoverText: green § Modifier
+hoverText: green § Adjective
 ---
 
 ### lünti
 
-*green* **§** Modifier
+*green* **§** Adjective
 
 **Verb**: to be green
 

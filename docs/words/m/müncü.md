@@ -3,12 +3,12 @@ id: müncü
 slug: müncü
 title: MÜNCÜ
 sidebar_position: 657
-hoverText: tart § Modifier
+hoverText: tart § Adjective
 ---
 
 ### müncü
 
-*tart* **§** Modifier
+*tart* **§** Adjective
 
 **Verb**: to be tart/tangy
 

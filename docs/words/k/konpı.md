@@ -3,12 +3,12 @@ id: konpı
 slug: konpı
 title: KONPI
 sidebar_position: 156
-hoverText: hard § Modifier
+hoverText: hard § Adjective
 ---
 
 ### konpı
 
-*hard* **§** Modifier
+*hard* **§** Adjective
 
 **Verb**: to be hard/rigid/stiff
 

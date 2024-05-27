@@ -3,12 +3,12 @@ id: osyen
 slug: osyen
 title: OSYEN
 sidebar_position: 9
-hoverText: ancient § Modifier
+hoverText: ancient § Adjective
 ---
 
 ### osyen
 
-*ancient* **§** Modifier
+*ancient* **§** Adjective
 
 **Verb**: to be ancient/antique
 

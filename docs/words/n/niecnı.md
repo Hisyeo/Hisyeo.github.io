@@ -3,12 +3,12 @@ id: niecnı
 slug: niecnı
 title: NİECNI
 sidebar_position: 690
-hoverText: vile § Modifier
+hoverText: vile § Adjective
 ---
 
 ### niecnı
 
-*vile* **§** Modifier
+*vile* **§** Adjective
 
 **Verb**: to be vile/wicked
 

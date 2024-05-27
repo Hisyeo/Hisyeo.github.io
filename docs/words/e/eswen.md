@@ -3,12 +3,12 @@ id: eswen
 slug: eswen
 title: ESWEN
 sidebar_position: 42
-hoverText: more § Quantity
+hoverText: more § Determiner
 ---
 
 ### eswen
 
-*more* **§** Quantity
+*more* **§** Determiner
 
 **Verb**: to be more
 

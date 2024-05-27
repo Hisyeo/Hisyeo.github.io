@@ -2,13 +2,13 @@
 id: moskül
 slug: moskül
 title: MOSKÜL
-sidebar_position: 611
-hoverText: male § Modifier
+sidebar_position: 612
+hoverText: male § Adjective
 ---
 
 ### moskül
 
-*male* **§** Modifier
+*male* **§** Adjective
 
 **Verb**: to be male/masculine
 

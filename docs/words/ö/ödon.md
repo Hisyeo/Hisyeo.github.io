@@ -3,12 +3,12 @@ id: ödon
 slug: ödon
 title: ÖDON
 sidebar_position: 32
-hoverText: orderly § Modifier
+hoverText: orderly § Adjective
 ---
 
 ### ödon
 
-*orderly* **§** Modifier
+*orderly* **§** Adjective
 
 **Verb**: to be orderly
 

@@ -2,13 +2,13 @@
 id: mozikö
 slug: mozikö
 title: MOZİKÖ
-sidebar_position: 613
-hoverText: magical § Modifier
+sidebar_position: 614
+hoverText: magical § Adjective
 ---
 
 ### mozikö
 
-*magical* **§** Modifier
+*magical* **§** Adjective
 
 **Verb**: to be magical
 

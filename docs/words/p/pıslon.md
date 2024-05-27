@@ -2,13 +2,13 @@
 id: pıslon
 slug: pıslon
 title: PISLON
-sidebar_position: 533
-hoverText: thus far § Modifier
+sidebar_position: 534
+hoverText: thus far § Adjective
 ---
 
 ### pıslon
 
-*thus far* **§** Modifier
+*thus far* **§** Adjective
 
 **Verb**: to be thus far
 

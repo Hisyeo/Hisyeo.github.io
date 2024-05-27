@@ -2,13 +2,13 @@
 id: vicwo
 slug: vicwo
 title: VİCWO
-sidebar_position: 591
-hoverText: hidden/secret § Modifier
+sidebar_position: 592
+hoverText: hidden/secret § Adjective
 ---
 
 ### vicwo
 
-*hidden/secret* **§** Modifier
+*hidden/secret* **§** Adjective
 
 **Verb**: to be hidden/secret
 

@@ -3,12 +3,12 @@ id: pit
 slug: pit
 title: PİT
 sidebar_position: 541
-hoverText: conditional verb particle § Grammar
+hoverText: conditional verb particle § Particle
 ---
 
 ### pit
 
-*conditional verb particle* **§** Grammar
+*conditional verb particle* **§** Particle
 
 **Verb**: -
 

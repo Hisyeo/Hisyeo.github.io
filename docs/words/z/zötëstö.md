@@ -2,13 +2,13 @@
 id: zötëstö
 slug: zötëstö
 title: ZÖTËSTÖ
-sidebar_position: 479
-hoverText: sufficient/enough § Quantity
+sidebar_position: 481
+hoverText: sufficient/enough § Determiner
 ---
 
 ### zötëstö
 
-*sufficient/enough* **§** Quantity
+*sufficient/enough* **§** Determiner
 
 **Verb**: to be sufficient/enough/adequate
 

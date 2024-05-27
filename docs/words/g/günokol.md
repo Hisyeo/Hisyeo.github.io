@@ -3,12 +3,12 @@ id: günokol
 slug: günokol
 title: GÜNOKOL
 sidebar_position: 247
-hoverText: criminal § Modifier
+hoverText: criminal § Adjective
 ---
 
 ### günokol
 
-*criminal* **§** Modifier
+*criminal* **§** Adjective
 
 **Verb**: to be criminal
 

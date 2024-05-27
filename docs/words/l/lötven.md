@@ -3,12 +3,12 @@ id: lötven
 slug: lötven
 title: LÖTVEN
 sidebar_position: 744
-hoverText: politeness clause ender § Grammar
+hoverText: politeness clause ender § Postposition
 ---
 
 ### lötven
 
-*politeness clause ender* **§** Grammar
+*politeness clause ender* **§** Postposition
 
 **Verb**: -
 

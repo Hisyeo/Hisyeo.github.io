@@ -2,13 +2,13 @@
 id: pülo
 slug: pülo
 title: PÜLO
-sidebar_position: 563
-hoverText: brown § Modifier
+sidebar_position: 564
+hoverText: brown § Adjective
 ---
 
 ### pülo
 
-*brown* **§** Modifier
+*brown* **§** Adjective
 
 **Verb**: to be brown
 

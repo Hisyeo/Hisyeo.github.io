@@ -3,12 +3,12 @@ id: hoküxı
 slug: hoküxı
 title: HOKÜXI
 sidebar_position: 106
-hoverText: clapping/applauding § Modifier
+hoverText: clapping/applauding § Adjective
 ---
 
 ### hoküxı
 
-*clapping/applauding* **§** Modifier
+*clapping/applauding* **§** Adjective
 
 **Verb**: to be clapping/appluading
 

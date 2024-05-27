@@ -3,12 +3,12 @@ id: sinëxis
 slug: sinëxis
 title: SİNËXİS
 sidebar_position: 376
-hoverText: constant § Modifier
+hoverText: constant § Adjective
 ---
 
 ### sinëxis
 
-*constant* **§** Modifier
+*constant* **§** Adjective
 
 **Verb**: to be constant/stable
 

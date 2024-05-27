@@ -3,12 +3,12 @@ id: cınöpu
 slug: cınöpu
 title: CINÖPU
 sidebar_position: 310
-hoverText: vermilion § Modifier
+hoverText: vermilion § Adjective
 ---
 
 ### cınöpu
 
-*vermilion* **§** Modifier
+*vermilion* **§** Adjective
 
 **Verb**: to be vermilion
 

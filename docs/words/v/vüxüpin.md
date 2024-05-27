@@ -2,13 +2,13 @@
 id: vüxüpin
 slug: vüxüpin
 title: VÜXÜPİN
-sidebar_position: 604
-hoverText: accessory § Modifier
+sidebar_position: 605
+hoverText: accessory § Adjective
 ---
 
 ### vüxüpin
 
-*accessory* **§** Modifier
+*accessory* **§** Adjective
 
 **Verb**: to be an accessory/attachment
 

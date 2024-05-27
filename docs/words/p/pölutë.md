@@ -2,13 +2,13 @@
 id: pölutë
 slug: pölutë
 title: PÖLUTË
-sidebar_position: 522
-hoverText: foreign § Modifier
+sidebar_position: 523
+hoverText: foreign § Adjective
 ---
 
 ### pölutë
 
-*foreign* **§** Modifier
+*foreign* **§** Adjective
 
 **Verb**: to be foreign/exotic
 

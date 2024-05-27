@@ -3,12 +3,12 @@ id: yügoi
 slug: yügoi
 title: YÜGOİ
 sidebar_position: 796
-hoverText: hindering/detrimental § Modifier
+hoverText: hindering/detrimental § Adjective
 ---
 
 ### yügoi
 
-*hindering/detrimental* **§** Modifier
+*hindering/detrimental* **§** Adjective
 
 **Verb**: to be hindering/detrimental
 

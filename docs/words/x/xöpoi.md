@@ -3,12 +3,12 @@ id: xöpoi
 slug: xöpoi
 title: XÖPOİ
 sidebar_position: 404
-hoverText: salty § Modifier
+hoverText: salty § Adjective
 ---
 
 ### xöpoi
 
-*salty* **§** Modifier
+*salty* **§** Adjective
 
 **Verb**: to be salty
 

@@ -3,12 +3,12 @@ id: xokön
 slug: xokön
 title: XOKÖN
 sidebar_position: 394
-hoverText: each § Quantity
+hoverText: each § Determiner
 ---
 
 ### xokön
 
-*each* **§** Quantity
+*each* **§** Determiner
 
 **Verb**: to be each
 

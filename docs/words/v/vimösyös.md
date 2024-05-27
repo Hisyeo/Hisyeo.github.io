@@ -2,13 +2,13 @@
 id: vimösyös
 slug: vimösyös
 title: VİMÖSYÖS
-sidebar_position: 594
-hoverText: public/communal § Modifier
+sidebar_position: 595
+hoverText: public/communal § Adjective
 ---
 
 ### vimösyös
 
-*public/communal* **§** Modifier
+*public/communal* **§** Adjective
 
 **Verb**: to be public/communal
 

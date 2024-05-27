@@ -3,12 +3,12 @@ id: kikölö
 slug: kikölö
 title: KİKÖLÖ
 sidebar_position: 188
-hoverText: bitter § Modifier
+hoverText: bitter § Adjective
 ---
 
 ### kikölö
 
-*bitter* **§** Modifier
+*bitter* **§** Adjective
 
 **Verb**: to be bitter
 

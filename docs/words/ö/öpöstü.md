@@ -3,12 +3,12 @@ id: öpöstü
 slug: öpöstü
 title: ÖPÖSTÜ
 sidebar_position: 35
-hoverText: opposite § Modifier
+hoverText: opposite § Adjective
 ---
 
 ### öpöstü
 
-*opposite* **§** Modifier
+*opposite* **§** Adjective
 
 **Verb**: to be opposite
 

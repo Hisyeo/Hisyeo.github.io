@@ -2,13 +2,13 @@
 id: vöskultu
 slug: vöskultu
 title: VÖSKULTU
-sidebar_position: 575
-hoverText: open § Modifier
+sidebar_position: 576
+hoverText: open § Adjective
 ---
 
 ### vöskultu
 
-*open* **§** Modifier
+*open* **§** Adjective
 
 **Verb**: to be open
 

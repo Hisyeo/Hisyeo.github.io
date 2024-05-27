@@ -3,12 +3,12 @@ id: gö
 slug: gö
 title: GÖ
 sidebar_position: 225
-hoverText: existent § Modifier
+hoverText: existent § Adjective
 ---
 
 ### gö
 
-*existent* **§** Modifier
+*existent* **§** Adjective
 
 **Verb**: to be/exist
 

@@ -3,12 +3,12 @@ id: toü
 slug: toü
 title: TOÜ
 sidebar_position: 251
-hoverText: 06 six § Quantity
+hoverText: 06 six § Numeral
 ---
 
 ### toü
 
-*06 six* **§** Quantity
+*06 six* **§** Numeral
 
 **Verb**: to be six
 

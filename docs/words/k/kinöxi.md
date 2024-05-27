@@ -3,12 +3,12 @@ id: kinöxi
 slug: kinöxi
 title: KİNÖXİ
 sidebar_position: 192
-hoverText: functional § Modifier
+hoverText: functional § Adjective
 ---
 
 ### kinöxi
 
-*functional* **§** Modifier
+*functional* **§** Adjective
 
 **Verb**: to be functional
 

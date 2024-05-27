@@ -3,12 +3,12 @@ id: cokyen
 slug: cokyen
 title: COKYEN
 sidebar_position: 289
-hoverText: almost § Modifier
+hoverText: almost § Adjective
 ---
 
 ### cokyen
 
-*almost* **§** Modifier
+*almost* **§** Adjective
 
 **Verb**: to almost/nearly be
 

@@ -3,12 +3,12 @@ id: yë
 slug: yë
 title: YË
 sidebar_position: 793
-hoverText: of § Grammar
+hoverText: of § Preposition
 ---
 
 ### yë
 
-*of* **§** Grammar
+*of* **§** Preposition
 
 **Verb**: -
 

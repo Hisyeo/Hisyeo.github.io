@@ -3,12 +3,12 @@ id: këxik
 slug: këxik
 title: KËXİK
 sidebar_position: 181
-hoverText: variable/unstable § Modifier
+hoverText: variable/unstable § Adjective
 ---
 
 ### këxik
 
-*variable/unstable* **§** Modifier
+*variable/unstable* **§** Adjective
 
 **Verb**: to be variable/unstable
 

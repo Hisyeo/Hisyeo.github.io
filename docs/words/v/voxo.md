@@ -3,12 +3,12 @@ id: voxo
 slug: voxo
 title: VOXO
 sidebar_position: 569
-hoverText: mirative clause ender (wow!) § Grammar
+hoverText: mirative clause ender (wow!) § Postposition
 ---
 
 ### voxo
 
-*mirative clause ender (wow!)* **§** Grammar
+*mirative clause ender (wow!)* **§** Postposition
 
 **Verb**: -
 

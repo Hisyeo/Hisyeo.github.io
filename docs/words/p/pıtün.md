@@ -2,7 +2,7 @@
 id: pıtün
 slug: pıtün
 title: PITÜN
-sidebar_position: 532
+sidebar_position: 533
 hoverText: night § Noun
 ---
 

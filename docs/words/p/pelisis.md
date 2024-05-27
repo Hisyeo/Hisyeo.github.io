@@ -2,13 +2,13 @@
 id: pelisis
 slug: pelisis
 title: PELİSİS
-sidebar_position: 526
-hoverText: unsure § Modifier
+sidebar_position: 527
+hoverText: unsure § Adjective
 ---
 
 ### pelisis
 
-*unsure* **§** Modifier
+*unsure* **§** Adjective
 
 **Verb**: to be unsure/uncertain
 

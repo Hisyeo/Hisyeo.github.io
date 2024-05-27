@@ -2,13 +2,13 @@
 id: mihüon
 slug: mihüon
 title: MİHÜON
-sidebar_position: 638
-hoverText: beige § Modifier
+sidebar_position: 639
+hoverText: beige § Adjective
 ---
 
 ### mihüon
 
-*beige* **§** Modifier
+*beige* **§** Adjective
 
 **Verb**: to be beige
 

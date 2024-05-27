@@ -2,13 +2,13 @@
 id: düsul
 slug: düsul
 title: DÜSUL
-sidebar_position: 458
-hoverText: grey § Modifier
+sidebar_position: 459
+hoverText: grey § Adjective
 ---
 
 ### düsul
 
-*grey* **§** Modifier
+*grey* **§** Adjective
 
 **Verb**: to be grey
 

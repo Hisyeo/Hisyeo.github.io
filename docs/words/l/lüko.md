@@ -3,12 +3,12 @@ id: lüko
 slug: lüko
 title: LÜKO
 sidebar_position: 771
-hoverText: interrupted § Modifier
+hoverText: interrupted § Adjective
 ---
 
 ### lüko
 
-*interrupted* **§** Modifier
+*interrupted* **§** Adjective
 
 **Verb**: to be interrupted
 

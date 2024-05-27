@@ -3,12 +3,12 @@ id: otıkon
 slug: otıkon
 title: OTIKON
 sidebar_position: 7
-hoverText: excess § Quantity
+hoverText: excess § Determiner
 ---
 
 ### otıkon
 
-*excess* **§** Quantity
+*excess* **§** Determiner
 
 **Verb**: to be excessive/too much
 

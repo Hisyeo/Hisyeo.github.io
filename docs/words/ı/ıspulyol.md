@@ -3,12 +3,12 @@ id: ıspulyol
 slug: ıspulyol
 title: ISPULYOL
 sidebar_position: 56
-hoverText: to scatter (scatterable entity) § Modifier
+hoverText: to scatter (scatterable entity) § Adjective
 ---
 
 ### ıspulyol
 
-*to scatter (scatterable entity)* **§** Modifier
+*to scatter (scatterable entity)* **§** Adjective
 
 **Verb**: to spread/scatter/diffuse
 

@@ -3,12 +3,12 @@ id: sumon
 slug: sumon
 title: SUMON
 sidebar_position: 381
-hoverText: equal/same § Modifier
+hoverText: equal/same § Adjective
 ---
 
 ### sumon
 
-*equal/same* **§** Modifier
+*equal/same* **§** Adjective
 
 **Verb**: to be equal/the same
 

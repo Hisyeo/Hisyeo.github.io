@@ -2,13 +2,13 @@
 id: vunsüt
 slug: vunsüt
 title: VUNSÜT
-sidebar_position: 598
-hoverText: defeated § Modifier
+sidebar_position: 599
+hoverText: defeated § Adjective
 ---
 
 ### vunsüt
 
-*defeated* **§** Modifier
+*defeated* **§** Adjective
 
 **Verb**: to be defeated
 

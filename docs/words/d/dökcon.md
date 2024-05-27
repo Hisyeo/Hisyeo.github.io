@@ -2,13 +2,13 @@
 id: dökcon
 slug: dökcon
 title: DÖKCON
-sidebar_position: 436
-hoverText: decent § Modifier
+sidebar_position: 437
+hoverText: decent § Adjective
 ---
 
 ### dökcon
 
-*decent* **§** Modifier
+*decent* **§** Adjective
 
 **Verb**: to be decent/virtuous
 

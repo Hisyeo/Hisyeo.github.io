@@ -2,13 +2,13 @@
 id: düi
 slug: düi
 title: DÜİ
-sidebar_position: 456
-hoverText: 02 two § Quantity
+sidebar_position: 457
+hoverText: 02 two § Numeral
 ---
 
 ### düi
 
-*02 two* **§** Quantity
+*02 two* **§** Numeral
 
 **Verb**: to be two
 

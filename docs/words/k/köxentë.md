@@ -3,12 +3,12 @@ id: köxentë
 slug: köxentë
 title: KÖXENTË
 sidebar_position: 167
-hoverText: conscious § Modifier
+hoverText: conscious § Adjective
 ---
 
 ### köxentë
 
-*conscious* **§** Modifier
+*conscious* **§** Adjective
 
 **Verb**: to be conscious
 

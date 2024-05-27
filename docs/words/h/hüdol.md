@@ -3,12 +3,12 @@ id: hüdol
 slug: hüdol
 title: HÜDOL
 sidebar_position: 140
-hoverText: false § Modifier
+hoverText: false § Adjective
 ---
 
 ### hüdol
 
-*false* **§** Modifier
+*false* **§** Adjective
 
 **Verb**: to be false/fake
 

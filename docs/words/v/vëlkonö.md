@@ -2,13 +2,13 @@
 id: vëlkonö
 slug: vëlkonö
 title: VËLKONÖ
-sidebar_position: 581
-hoverText: close § Modifier
+sidebar_position: 582
+hoverText: close § Adjective
 ---
 
 ### vëlkonö
 
-*close* **§** Modifier
+*close* **§** Adjective
 
 **Verb**: to be close
 

@@ -2,13 +2,13 @@
 id: viki
 slug: viki
 title: VİKİ
-sidebar_position: 589
-hoverText: fast § Modifier
+sidebar_position: 590
+hoverText: fast § Adjective
 ---
 
 ### viki
 
-*fast* **§** Modifier
+*fast* **§** Adjective
 
 **Verb**: to be fast/quick/speedy
 

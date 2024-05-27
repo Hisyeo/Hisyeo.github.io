@@ -3,12 +3,12 @@ id: ülkëvi
 slug: ülkëvi
 title: ÜLKËVİ
 sidebar_position: 99
-hoverText: adamant/stubborn § Modifier
+hoverText: adamant/stubborn § Adjective
 ---
 
 ### ülkëvi
 
-*adamant/stubborn* **§** Modifier
+*adamant/stubborn* **§** Adjective
 
 **Verb**: to be adamant/stubborn
 

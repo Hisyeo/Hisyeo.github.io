@@ -3,12 +3,12 @@ id: nulto
 slug: nulto
 title: NULTO
 sidebar_position: 699
-hoverText: wide § Modifier
+hoverText: wide § Adjective
 ---
 
 ### nulto
 
-*wide* **§** Modifier
+*wide* **§** Adjective
 
 **Verb**: to be wide
 

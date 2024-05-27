@@ -3,12 +3,12 @@ id: nëlö
 slug: nëlö
 title: NËLÖ
 sidebar_position: 683
-hoverText: black § Modifier
+hoverText: black § Adjective
 ---
 
 ### nëlö
 
-*black* **§** Modifier
+*black* **§** Adjective
 
 **Verb**: to be black/dark
 

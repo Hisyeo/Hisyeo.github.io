@@ -3,12 +3,12 @@ id: tüt
 slug: tüt
 title: TÜT
 sidebar_position: 283
-hoverText: hot § Modifier
+hoverText: hot § Adjective
 ---
 
 ### tüt
 
-*hot* **§** Modifier
+*hot* **§** Adjective
 
 **Verb**: to be hot
 

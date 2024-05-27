@@ -3,12 +3,12 @@ id: govon
 slug: govon
 title: GOVON
 sidebar_position: 216
-hoverText: disgusted § Modifier
+hoverText: disgusted § Adjective
 ---
 
 ### govon
 
-*disgusted* **§** Modifier
+*disgusted* **§** Adjective
 
 **Verb**: to be disgusted
 

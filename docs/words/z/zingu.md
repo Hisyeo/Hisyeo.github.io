@@ -2,13 +2,13 @@
 id: zingu
 slug: zingu
 title: ZİNGU
-sidebar_position: 491
-hoverText: orange § Modifier
+sidebar_position: 492
+hoverText: orange § Adjective
 ---
 
 ### zingu
 
-*orange* **§** Modifier
+*orange* **§** Adjective
 
 **Verb**: to be orange
 

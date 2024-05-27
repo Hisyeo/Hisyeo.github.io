@@ -3,12 +3,12 @@ id: göwo
 slug: göwo
 title: GÖWO
 sidebar_position: 228
-hoverText: foolish/obtuse § Modifier
+hoverText: foolish/obtuse § Adjective
 ---
 
 ### göwo
 
-*foolish/obtuse* **§** Modifier
+*foolish/obtuse* **§** Adjective
 
 **Verb**: to be foolish/obtuse
 

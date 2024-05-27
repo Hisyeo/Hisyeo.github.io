@@ -2,13 +2,13 @@
 id: mitetën
 slug: mitetën
 title: MİTETËN
-sidebar_position: 640
-hoverText: trivial § Modifier
+sidebar_position: 641
+hoverText: trivial § Adjective
 ---
 
 ### mitetën
 
-*trivial* **§** Modifier
+*trivial* **§** Adjective
 
 **Verb**: to be trivial/negligible
 

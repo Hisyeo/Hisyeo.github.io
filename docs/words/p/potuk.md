@@ -2,13 +2,13 @@
 id: potuk
 slug: potuk
 title: POTUK
-sidebar_position: 503
-hoverText: flat § Modifier
+sidebar_position: 504
+hoverText: flat § Adjective
 ---
 
 ### potuk
 
-*flat* **§** Modifier
+*flat* **§** Adjective
 
 **Verb**: to be flat
 

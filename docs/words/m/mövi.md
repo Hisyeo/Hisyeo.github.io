@@ -2,13 +2,13 @@
 id: mövi
 slug: mövi
 title: MÖVİ
-sidebar_position: 626
-hoverText: brave/courageous § Modifier
+sidebar_position: 627
+hoverText: brave/courageous § Adjective
 ---
 
 ### mövi
 
-*brave/courageous* **§** Modifier
+*brave/courageous* **§** Adjective
 
 **Verb**: to be brave/courageous
 

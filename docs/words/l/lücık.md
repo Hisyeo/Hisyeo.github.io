@@ -3,12 +3,12 @@ id: lücık
 slug: lücık
 title: LÜCIK
 sidebar_position: 772
-hoverText: slippery § Modifier
+hoverText: slippery § Adjective
 ---
 
 ### lücık
 
-*slippery* **§** Modifier
+*slippery* **§** Adjective
 
 **Verb**: to be slippery
 

@@ -3,12 +3,12 @@ id: konwo
 slug: konwo
 title: KONWO
 sidebar_position: 157
-hoverText: rhythm/beat § Modifier
+hoverText: rhythm/beat § Adjective
 ---
 
 ### konwo
 
-*rhythm/beat* **§** Modifier
+*rhythm/beat* **§** Adjective
 
 **Verb**: to be a rhythm/beat
 

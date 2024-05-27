@@ -3,12 +3,12 @@ id: cinzon
 slug: cinzon
 title: CİNZON
 sidebar_position: 320
-hoverText: nervous/anxious § Modifier
+hoverText: nervous/anxious § Adjective
 ---
 
 ### cinzon
 
-*nervous/anxious* **§** Modifier
+*nervous/anxious* **§** Adjective
 
 **Verb**: to be nervous/anxious
 

@@ -3,12 +3,12 @@ id: moliyü
 slug: moliyü
 title: MOLİYÜ
 sidebar_position: 619
-hoverText: and § Connector
+hoverText: and § Conjunction
 ---
 
 ### moliyü
 
-*and* **§** Connector
+*and* **§** Conjunction
 
 **Verb**: -
 

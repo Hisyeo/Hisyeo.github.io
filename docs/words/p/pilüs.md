@@ -2,13 +2,13 @@
 id: pilüs
 slug: pilüs
 title: PİLÜS
-sidebar_position: 547
-hoverText: victorious § Modifier
+sidebar_position: 548
+hoverText: victorious § Adjective
 ---
 
 ### pilüs
 
-*victorious* **§** Modifier
+*victorious* **§** Adjective
 
 **Verb**: to be victorious
 

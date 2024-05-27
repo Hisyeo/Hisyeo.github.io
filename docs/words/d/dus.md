@@ -2,13 +2,13 @@
 id: dus
 slug: dus
 title: DUS
-sidebar_position: 453
-hoverText: 10 ten § Quantity
+sidebar_position: 454
+hoverText: 10 ten § Numeral
 ---
 
 ### dus
 
-*10 ten* **§** Quantity
+*10 ten* **§** Numeral
 
 **Verb**: to be ten
 

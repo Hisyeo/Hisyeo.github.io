@@ -3,12 +3,12 @@ id: lëkın
 slug: lëkın
 title: LËKIN
 sidebar_position: 754
-hoverText: but § Connector
+hoverText: but § Conjunction
 ---
 
 ### lëkın
 
-*but* **§** Connector
+*but* **§** Conjunction
 
 **Verb**: -
 

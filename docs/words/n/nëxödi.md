@@ -3,12 +3,12 @@ id: nëxödi
 slug: nëxödi
 title: NËXÖDİ
 sidebar_position: 681
-hoverText: ethnic § Modifier
+hoverText: ethnic § Adjective
 ---
 
 ### nëxödi
 
-*ethnic* **§** Modifier
+*ethnic* **§** Adjective
 
 **Verb**: to be ethnic/racial
 

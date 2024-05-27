@@ -2,13 +2,13 @@
 id: zigil
 slug: zigil
 title: ZİGİL
-sidebar_position: 487
-hoverText: falling § Modifier
+sidebar_position: 488
+hoverText: falling § Adjective
 ---
 
 ### zigil
 
-*falling* **§** Modifier
+*falling* **§** Adjective
 
 **Verb**: to be falling/sinking
 

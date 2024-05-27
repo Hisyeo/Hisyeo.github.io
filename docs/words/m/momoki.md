@@ -2,13 +2,13 @@
 id: momoki
 slug: momoki
 title: MOMOKİ
-sidebar_position: 615
-hoverText: surprised § Modifier
+sidebar_position: 616
+hoverText: surprised § Adjective
 ---
 
 ### momoki
 
-*surprised* **§** Modifier
+*surprised* **§** Adjective
 
 **Verb**: to be surprised/shocked
 

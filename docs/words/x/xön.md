@@ -3,12 +3,12 @@ id: xön
 slug: xön
 title: XÖN
 sidebar_position: 406
-hoverText: good § Modifier
+hoverText: good § Adjective
 ---
 
 ### xön
 
-*good* **§** Modifier
+*good* **§** Adjective
 
 **Verb**: to be good
 

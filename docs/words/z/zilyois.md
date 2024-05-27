@@ -2,13 +2,13 @@
 id: zilyois
 slug: zilyois
 title: ZİLYOİS
-sidebar_position: 492
-hoverText: deep § Modifier
+sidebar_position: 493
+hoverText: deep § Adjective
 ---
 
 ### zilyois
 
-*deep* **§** Modifier
+*deep* **§** Adjective
 
 **Verb**: to be deep
 

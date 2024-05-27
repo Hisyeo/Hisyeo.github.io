@@ -2,13 +2,13 @@
 id: püzök
 slug: püzök
 title: PÜZÖK
-sidebar_position: 559
-hoverText: lack § Quantity
+sidebar_position: 560
+hoverText: lack § Determiner
 ---
 
 ### püzök
 
-*lack* **§** Quantity
+*lack* **§** Determiner
 
 **Verb**: to be lacking/short/deficient
 

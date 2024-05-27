@@ -3,12 +3,12 @@ id: kutın
 slug: kutın
 title: KUTIN
 sidebar_position: 198
-hoverText: difficult § Modifier
+hoverText: difficult § Adjective
 ---
 
 ### kutın
 
-*difficult* **§** Modifier
+*difficult* **§** Adjective
 
 **Verb**: to be difficult/complex
 

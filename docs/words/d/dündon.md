@@ -2,13 +2,13 @@
 id: dündon
 slug: dündon
 title: DÜNDON
-sidebar_position: 462
-hoverText: correct § Modifier
+sidebar_position: 463
+hoverText: correct § Adjective
 ---
 
 ### dündon
 
-*correct* **§** Modifier
+*correct* **§** Adjective
 
 **Verb**: to be correct/right/accurate
 

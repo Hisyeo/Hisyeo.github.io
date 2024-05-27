@@ -3,18 +3,18 @@ id: lüicü
 slug: lüicü
 title: LÜİCÜ
 sidebar_position: 770
-hoverText: ruminant § Noun
+hoverText: deer/giraffe/pronghorn § Noun
 ---
 
 ### lüicü
 
-*ruminant* **§** Noun
+*deer/giraffe/pronghorn* **§** Noun
 
-**Verb**: to be a ruminant
+**Verb**: to be a deer/giraffe/pronghorn
 
-**Noun**: ruminant
+**Noun**: deer/giraffe/pronghorn
 
-**Modifier**: ruminant-related
+**Modifier**: deer/giraffe/pronghorn-related
 
 Ayacucho Quechua luychu /lu.i.tʃu/
 

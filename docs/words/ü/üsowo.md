@@ -3,12 +3,12 @@ id: üsowo
 slug: üsowo
 title: ÜSOWO
 sidebar_position: 87
-hoverText: balanced § Modifier
+hoverText: balanced § Adjective
 ---
 
 ### üsowo
 
-*balanced* **§** Modifier
+*balanced* **§** Adjective
 
 **Verb**: to be balanced/fair
 

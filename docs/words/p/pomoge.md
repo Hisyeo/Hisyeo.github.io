@@ -2,13 +2,13 @@
 id: pomoge
 slug: pomoge
 title: POMOGE
-sidebar_position: 509
-hoverText: prone § Modifier
+sidebar_position: 510
+hoverText: prone § Adjective
 ---
 
 ### pomoge
 
-*prone* **§** Modifier
+*prone* **§** Adjective
 
 **Verb**: to be prone/prostrate
 

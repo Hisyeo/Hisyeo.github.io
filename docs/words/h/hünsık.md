@@ -3,12 +3,12 @@ id: hünsık
 slug: hünsık
 title: HÜNSIK
 sidebar_position: 142
-hoverText: red § Modifier
+hoverText: red § Adjective
 ---
 
 ### hünsık
 
-*red* **§** Modifier
+*red* **§** Adjective
 
 **Verb**: to be red
 

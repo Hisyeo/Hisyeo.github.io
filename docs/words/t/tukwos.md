@@ -3,12 +3,12 @@ id: tukwos
 slug: tukwos
 title: TUKWOS
 sidebar_position: 278
-hoverText: 08 eight § Quantity
+hoverText: 08 eight § Numeral
 ---
 
 ### tukwos
 
-*08 eight* **§** Quantity
+*08 eight* **§** Numeral
 
 **Verb**: to be eight
 

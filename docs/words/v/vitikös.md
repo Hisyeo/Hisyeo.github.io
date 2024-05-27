@@ -2,13 +2,13 @@
 id: vitikös
 slug: vitikös
 title: VİTİKÖS
-sidebar_position: 590
-hoverText: western § Modifier
+sidebar_position: 591
+hoverText: western § Adjective
 ---
 
 ### vitikös
 
-*western* **§** Modifier
+*western* **§** Adjective
 
 **Verb**: to be western
 

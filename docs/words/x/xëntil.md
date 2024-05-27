@@ -3,12 +3,12 @@ id: xëntil
 slug: xëntil
 title: XËNTİL
 sidebar_position: 413
-hoverText: gentle/kind § Modifier
+hoverText: gentle/kind § Adjective
 ---
 
 ### xëntil
 
-*gentle/kind* **§** Modifier
+*gentle/kind* **§** Adjective
 
 **Verb**: to be gentle/kind
 

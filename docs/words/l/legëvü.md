@@ -3,12 +3,12 @@ id: legëvü
 slug: legëvü
 title: LEGËVÜ
 sidebar_position: 750
-hoverText: lazy § Modifier
+hoverText: lazy § Adjective
 ---
 
 ### legëvü
 
-*lazy* **§** Modifier
+*lazy* **§** Adjective
 
 **Verb**: to be lazy
 

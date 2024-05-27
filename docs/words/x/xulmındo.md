@@ -2,13 +2,13 @@
 id: xulmındo
 slug: xulmındo
 title: XULMINDO
-sidebar_position: 423
-hoverText: ashamed § Modifier
+sidebar_position: 424
+hoverText: ashamed § Adjective
 ---
 
 ### xulmındo
 
-*ashamed* **§** Modifier
+*ashamed* **§** Adjective
 
 **Verb**: to be ashamed/embarrassed
 

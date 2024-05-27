@@ -2,13 +2,13 @@
 id: pundu
 slug: pundu
 title: PUNDU
-sidebar_position: 553
-hoverText: closed § Modifier
+sidebar_position: 554
+hoverText: closed § Adjective
 ---
 
 ### pundu
 
-*closed* **§** Modifier
+*closed* **§** Adjective
 
 **Verb**: to be closed
 

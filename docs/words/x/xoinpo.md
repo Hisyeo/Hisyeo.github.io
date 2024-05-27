@@ -3,12 +3,12 @@ id: xoinpo
 slug: xoinpo
 title: XOİNPO
 sidebar_position: 392
-hoverText: seeming § Modifier
+hoverText: seeming § Adjective
 ---
 
 ### xoinpo
 
-*seeming* **§** Modifier
+*seeming* **§** Adjective
 
 **Verb**: to seemingly be
 

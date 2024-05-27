@@ -2,13 +2,13 @@
 id: püsın
 slug: püsın
 title: PÜSIN
-sidebar_position: 556
-hoverText: dizzy § Modifier
+sidebar_position: 557
+hoverText: dizzy § Adjective
 ---
 
 ### püsın
 
-*dizzy* **§** Modifier
+*dizzy* **§** Adjective
 
 **Verb**: to be dizzy/confused
 

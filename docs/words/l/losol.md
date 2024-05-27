@@ -3,12 +3,12 @@ id: losol
 slug: losol
 title: LOSOL
 sidebar_position: 735
-hoverText: original § Modifier
+hoverText: original § Adjective
 ---
 
 ### losol
 
-*original* **§** Modifier
+*original* **§** Adjective
 
 **Verb**: to be original/prototypical
 

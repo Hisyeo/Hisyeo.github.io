@@ -2,7 +2,7 @@
 id: doinpi
 slug: doinpi
 title: DOİNPİ
-sidebar_position: 430
+sidebar_position: 431
 hoverText: ticket/pass § Noun
 ---
 

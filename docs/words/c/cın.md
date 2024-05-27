@@ -3,12 +3,12 @@ id: cın
 slug: cın
 title: CIN
 sidebar_position: 308
-hoverText: 1000 thousand § Quantity
+hoverText: 1000 thousand § Numeral
 ---
 
 ### cın
 
-*1000 thousand* **§** Quantity
+*1000 thousand* **§** Numeral
 
 **Verb**: to be a thousand
 

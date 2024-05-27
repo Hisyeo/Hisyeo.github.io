@@ -2,13 +2,13 @@
 id: potyoto
 slug: potyoto
 title: POTYOTO
-sidebar_position: 504
-hoverText: responsible § Modifier
+sidebar_position: 505
+hoverText: responsible § Adjective
 ---
 
 ### potyoto
 
-*responsible* **§** Modifier
+*responsible* **§** Adjective
 
 **Verb**: to be responsible/liable
 

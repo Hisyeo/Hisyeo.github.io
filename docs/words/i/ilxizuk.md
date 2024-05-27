@@ -3,12 +3,12 @@ id: ilxizuk
 slug: ilxizuk
 title: İLXİZUK
 sidebar_position: 73
-hoverText: temporary § Modifier
+hoverText: temporary § Adjective
 ---
 
 ### ilxizuk
 
-*temporary* **§** Modifier
+*temporary* **§** Adjective
 
 **Verb**: to be temporary/ephemeral
 

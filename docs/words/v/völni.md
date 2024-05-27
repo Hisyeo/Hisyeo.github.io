@@ -2,13 +2,13 @@
 id: völni
 slug: völni
 title: VÖLNİ
-sidebar_position: 578
-hoverText: free § Modifier
+sidebar_position: 579
+hoverText: free § Adjective
 ---
 
 ### völni
 
-*free* **§** Modifier
+*free* **§** Adjective
 
 **Verb**: to be free/unconstrained
 

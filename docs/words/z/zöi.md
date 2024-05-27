@@ -2,13 +2,13 @@
 id: zöi
 slug: zöi
 title: ZÖİ
-sidebar_position: 476
-hoverText: blue § Modifier
+sidebar_position: 477
+hoverText: blue § Adjective
 ---
 
 ### zöi
 
-*blue* **§** Modifier
+*blue* **§** Adjective
 
 **Verb**: to be blue
 

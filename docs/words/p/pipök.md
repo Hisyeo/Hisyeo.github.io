@@ -2,13 +2,13 @@
 id: pipök
 slug: pipök
 title: PİPÖK
-sidebar_position: 543
-hoverText: white § Modifier
+sidebar_position: 545
+hoverText: white § Adjective
 ---
 
 ### pipök
 
-*white* **§** Modifier
+*white* **§** Adjective
 
 **Verb**: to be white
 

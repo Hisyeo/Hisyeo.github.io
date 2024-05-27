@@ -3,12 +3,12 @@ id: tikü
 slug: tikü
 title: TİKÜ
 sidebar_position: 273
-hoverText: dead § Modifier
+hoverText: dead § Adjective
 ---
 
 ### tikü
 
-*dead* **§** Modifier
+*dead* **§** Adjective
 
 **Verb**: to be dead
 

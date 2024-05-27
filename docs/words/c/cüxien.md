@@ -3,12 +3,12 @@ id: cüxien
 slug: cüxien
 title: CÜXİEN
 sidebar_position: 331
-hoverText: constrained § Modifier
+hoverText: constrained § Adjective
 ---
 
 ### cüxien
 
-*constrained* **§** Modifier
+*constrained* **§** Adjective
 
 **Verb**: to be constrained/bound
 

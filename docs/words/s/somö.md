@@ -3,12 +3,12 @@ id: somö
 slug: somö
 title: SOMÖ
 sidebar_position: 350
-hoverText: only § Modifier
+hoverText: only § Adjective
 ---
 
 ### somö
 
-*only* **§** Modifier
+*only* **§** Adjective
 
 **Verb**: to be alone/exclusive
 

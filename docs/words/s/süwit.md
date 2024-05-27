@@ -3,12 +3,12 @@ id: süwit
 slug: süwit
 title: SÜWİT
 sidebar_position: 391
-hoverText: sweet § Modifier
+hoverText: sweet § Adjective
 ---
 
 ### süwit
 
-*sweet* **§** Modifier
+*sweet* **§** Adjective
 
 **Verb**: to be sweet
 

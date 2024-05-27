@@ -3,12 +3,12 @@ id: lon
 slug: lon
 title: LON
 sidebar_position: 738
-hoverText: distance/duration marker (for) § Grammar
+hoverText: distance/duration marker (for) § Preposition
 ---
 
 ### lon
 
-*distance/duration marker (for)* **§** Grammar
+*distance/duration marker (for)* **§** Preposition
 
 **Verb**: -
 

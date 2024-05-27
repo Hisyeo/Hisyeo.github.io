@@ -3,12 +3,12 @@ id: colot
 slug: colot
 title: COLOT
 sidebar_position: 295
-hoverText: wise/clever § Modifier
+hoverText: wise/clever § Adjective
 ---
 
 ### colot
 
-*wise/clever* **§** Modifier
+*wise/clever* **§** Adjective
 
 **Verb**: to be wise/clever
 

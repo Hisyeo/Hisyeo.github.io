@@ -3,12 +3,12 @@ id: xolxili
 slug: xolxili
 title: XOLXİLİ
 sidebar_position: 403
-hoverText: teal § Modifier
+hoverText: teal § Adjective
 ---
 
 ### xolxili
 
-*teal* **§** Modifier
+*teal* **§** Adjective
 
 **Verb**: to be teal
 

@@ -2,13 +2,13 @@
 id: pinhün
 slug: pinhün
 title: PİNHÜN
-sidebar_position: 545
-hoverText: magenta § Modifier
+sidebar_position: 546
+hoverText: magenta § Adjective
 ---
 
 ### pinhün
 
-*magenta* **§** Modifier
+*magenta* **§** Adjective
 
 **Verb**: to be magenta
 

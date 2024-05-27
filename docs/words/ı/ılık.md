@@ -3,12 +3,12 @@ id: ılık
 slug: ılık
 title: ILIK
 sidebar_position: 59
-hoverText: before § Quantity
+hoverText: before § Determiner
 ---
 
 ### ılık
 
-*before* **§** Quantity
+*before* **§** Determiner
 
 **Verb**: to be before
 

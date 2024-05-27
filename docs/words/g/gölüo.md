@@ -3,12 +3,12 @@ id: gölüo
 slug: gölüo
 title: GÖLÜO
 sidebar_position: 230
-hoverText: melted § Modifier
+hoverText: melted § Adjective
 ---
 
 ### gölüo
 
-*melted* **§** Modifier
+*melted* **§** Adjective
 
 **Verb**: to be melted/liquefied
 

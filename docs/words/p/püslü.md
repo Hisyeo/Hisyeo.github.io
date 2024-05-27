@@ -2,13 +2,13 @@
 id: püslü
 slug: püslü
 title: PÜSLÜ
-sidebar_position: 557
-hoverText: translucent § Modifier
+sidebar_position: 558
+hoverText: translucent § Adjective
 ---
 
 ### püslü
 
-*translucent* **§** Modifier
+*translucent* **§** Adjective
 
 **Verb**: to be translucent
 

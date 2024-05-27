@@ -3,12 +3,12 @@ id: nëös
 slug: nëös
 title: NËÖS
 sidebar_position: 680
-hoverText: new/fresh § Modifier
+hoverText: new/fresh § Adjective
 ---
 
 ### nëös
 
-*new/fresh* **§** Modifier
+*new/fresh* **§** Adjective
 
 **Verb**: to be new/fresh
 

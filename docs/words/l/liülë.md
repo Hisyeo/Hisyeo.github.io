@@ -3,12 +3,12 @@ id: liülë
 slug: liülë
 title: LİÜLË
 sidebar_position: 758
-hoverText: laughing § Modifier
+hoverText: laughing § Adjective
 ---
 
 ### liülë
 
-*laughing* **§** Modifier
+*laughing* **§** Adjective
 
 **Verb**: to be laughing/mirthed
 

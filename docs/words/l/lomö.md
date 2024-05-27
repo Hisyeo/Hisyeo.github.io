@@ -3,12 +3,12 @@ id: lomö
 slug: lomö
 title: LOMÖ
 sidebar_position: 737
-hoverText: long § Modifier
+hoverText: long § Adjective
 ---
 
 ### lomö
 
-*long* **§** Modifier
+*long* **§** Adjective
 
 **Verb**: to be long
 

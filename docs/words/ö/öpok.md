@@ -3,12 +3,12 @@ id: öpok
 slug: öpok
 title: ÖPOK
 sidebar_position: 34
-hoverText: opaque § Modifier
+hoverText: opaque § Adjective
 ---
 
 ### öpok
 
-*opaque* **§** Modifier
+*opaque* **§** Adjective
 
 **Verb**: to be opaque
 

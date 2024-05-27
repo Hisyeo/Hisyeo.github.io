@@ -3,12 +3,12 @@ id: yoümok
 slug: yoümok
 title: YOÜMOK
 sidebar_position: 776
-hoverText: humorous § Modifier
+hoverText: humorous § Adjective
 ---
 
 ### yoümok
 
-*humorous* **§** Modifier
+*humorous* **§** Adjective
 
 **Verb**: to be humorous
 
