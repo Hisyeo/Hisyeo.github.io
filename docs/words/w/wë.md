@@ -2,7 +2,7 @@
 id: wë
 slug: wë
 title: WË
-sidebar_position: 716
+sidebar_position: 717
 hoverText: negatitive verb modifier particle § Particle
 ---
 

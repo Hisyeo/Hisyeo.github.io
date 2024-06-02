@@ -2,7 +2,7 @@
 id: löpotöl
 slug: löpotöl
 title: LÖPOTÖL
-sidebar_position: 751
+sidebar_position: 752
 hoverText: to scoop (the scooped) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: müncü
 slug: müncü
 title: MÜNCÜ
-sidebar_position: 661
+sidebar_position: 662
 hoverText: tart § Adjective
 ---
 

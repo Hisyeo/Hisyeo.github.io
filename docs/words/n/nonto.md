@@ -2,7 +2,7 @@
 id: nonto
 slug: nonto
 title: NONTO
-sidebar_position: 675
+sidebar_position: 676
 hoverText: tear (of the eye) § Noun
 ---
 
