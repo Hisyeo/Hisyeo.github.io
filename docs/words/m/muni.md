@@ -2,7 +2,7 @@
 id: muni
 slug: muni
 title: MUNİ
-sidebar_position: 645
+sidebar_position: 649
 hoverText: money § Noun
 ---
 

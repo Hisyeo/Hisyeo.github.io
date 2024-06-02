@@ -2,7 +2,7 @@
 id: pëüdo
 slug: pëüdo
 title: PËÜDO
-sidebar_position: 529
+sidebar_position: 531
 hoverText: to learn (a learning) § Verb
 ---
 

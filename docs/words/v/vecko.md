@@ -2,7 +2,7 @@
 id: vecko
 slug: vecko
 title: VECKO
-sidebar_position: 580
+sidebar_position: 583
 hoverText: liquid § Noun
 ---
 

@@ -1,0 +1,21 @@
+---
+id: püdikö
+slug: püdikö
+title: PÜDİKÖ
+sidebar_position: 562
+hoverText: modest/chaste § Adjective
+---
+
+### püdikö
+
+*modest/chaste* **§** Adjective
+
+**Verb**: to be modest/chaste
+
+**Noun**: modesty/chastity
+
+**Modifier**: modest/chaste
+
+talian pudico /puˈdi.ko/
+
+*Romance Language Family*

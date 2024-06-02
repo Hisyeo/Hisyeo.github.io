@@ -2,7 +2,7 @@
 id: nulun
 slug: nulun
 title: NULUN
-sidebar_position: 698
+sidebar_position: 702
 hoverText: soft § Adjective
 ---
 

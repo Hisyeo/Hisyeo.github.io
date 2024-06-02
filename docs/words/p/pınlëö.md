@@ -2,7 +2,7 @@
 id: pınlëö
 slug: pınlëö
 title: PINLËÖ
-sidebar_position: 536
+sidebar_position: 539
 hoverText: bay/golf § Noun
 ---
 

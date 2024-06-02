@@ -2,7 +2,7 @@
 id: düstu
 slug: düstu
 title: DÜSTU
-sidebar_position: 460
+sidebar_position: 462
 hoverText: to measure (the measured) § Verb
 ---
 

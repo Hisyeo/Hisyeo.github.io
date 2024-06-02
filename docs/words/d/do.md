@@ -2,7 +2,7 @@
 id: do
 slug: do
 title: DO
-sidebar_position: 429
+sidebar_position: 430
 hoverText: relative clause verb particle § Particle
 ---
 

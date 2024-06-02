@@ -2,7 +2,7 @@
 id: sopüni
 slug: sopüni
 title: SOPÜNİ
-sidebar_position: 348
+sidebar_position: 349
 hoverText: ill/sick § Adjective
 ---
 

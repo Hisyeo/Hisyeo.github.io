@@ -2,7 +2,7 @@
 id: yoüti
 slug: yoüti
 title: YOÜTİ
-sidebar_position: 775
+sidebar_position: 779
 hoverText: some/a few § Determiner
 ---
 

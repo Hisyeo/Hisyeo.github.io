@@ -2,7 +2,7 @@
 id: pongövi
 slug: pongövi
 title: PONGÖVİ
-sidebar_position: 512
+sidebar_position: 514
 hoverText: endangered § Adjective
 ---
 

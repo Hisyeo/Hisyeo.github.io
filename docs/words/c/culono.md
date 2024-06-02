@@ -1,0 +1,21 @@
+---
+id: culono
+slug: culono
+title: CULONO
+sidebar_position: 328
+hoverText: to operate (a machine) § Verb
+---
+
+### culono
+
+*to operate (a machine)* **§** Verb
+
+**Verb**: to operate/run
+
+**Noun**: a machine/operation
+
+**Modifier**: operatable/runnable
+
+Hindi चलाना calānā [t͡ʃɐ.läː.näː]
+
+*Indo-Iranian Language Family*

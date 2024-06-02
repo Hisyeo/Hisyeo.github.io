@@ -2,7 +2,7 @@
 id: yök
 slug: yök
 title: YÖK
-sidebar_position: 788
+sidebar_position: 791
 hoverText: negatitive particle § Particle
 ---
 

@@ -2,7 +2,7 @@
 id: pındü
 slug: pındü
 title: PINDÜ
-sidebar_position: 535
+sidebar_position: 537
 hoverText: dot § Noun
 ---
 
@@ -12,7 +12,7 @@ hoverText: dot § Noun
 
 **Verb**: to be a dot/point
 
-**Noun**: dor/point
+**Noun**: dot/point
 
 **Modifier**: dot/point-related
 

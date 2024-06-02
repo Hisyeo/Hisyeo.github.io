@@ -2,7 +2,7 @@
 id: wëxön
 slug: wëxön
 title: WËXÖN
-sidebar_position: 718
+sidebar_position: 722
 hoverText: week § Noun
 ---
 

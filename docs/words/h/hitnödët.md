@@ -14,7 +14,7 @@ hoverText: oscillating § Adjective
 
 **Noun**: oscillating-ness/swaying-ness
 
-**Modifier**: oscillating/swaging
+**Modifier**: oscillating/swaying
 
 Hebrew הִתְנוֹדֵד⁩ hitnodéd /hit.no'ded/
 

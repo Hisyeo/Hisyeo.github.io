@@ -2,7 +2,7 @@
 id: yügoi
 slug: yügoi
 title: YÜGOİ
-sidebar_position: 796
+sidebar_position: 799
 hoverText: hindering/detrimental § Adjective
 ---
 

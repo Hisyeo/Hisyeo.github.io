@@ -2,7 +2,7 @@
 id: vunsüt
 slug: vunsüt
 title: VUNSÜT
-sidebar_position: 599
+sidebar_position: 602
 hoverText: defeated § Adjective
 ---
 
