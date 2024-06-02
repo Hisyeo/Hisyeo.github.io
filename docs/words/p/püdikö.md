@@ -16,6 +16,6 @@ hoverText: modest/chaste § Adjective
 
 **Modifier**: modest/chaste
 
-talian pudico /puˈdi.ko/
+Italian pudico /puˈdi.ko/
 
 *Romance Language Family*

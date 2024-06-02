@@ -1,12 +1,12 @@
 ---
-id: pongövi
-slug: pongövi
-title: PONGÖVİ
+id: pongösi
+slug: pongösi
+title: PONGÖSİ
 sidebar_position: 514
 hoverText: endangered § Adjective
 ---
 
-### pongövi
+### pongösi
 
 *endangered* **§** Adjective
 
