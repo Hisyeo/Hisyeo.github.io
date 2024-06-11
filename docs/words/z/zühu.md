@@ -2,7 +2,7 @@
 id: zühu
 slug: zühu
 title: ZÜHU
-sidebar_position: 499
+sidebar_position: 498
 hoverText: tongue § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: vüxüpin
 slug: vüxüpin
 title: VÜXÜPİN
-sidebar_position: 609
+sidebar_position: 608
 hoverText: accessory § Adjective
 ---
 

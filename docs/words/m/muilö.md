@@ -1,12 +1,12 @@
 ---
-id: döhil
-slug: döhil
-title: DÖHİL
-sidebar_position: 438
+id: muilö
+slug: muilö
+title: MUİLÖ
+sidebar_position: 648
 hoverText: dirty § Adjective
 ---
 
-### döhil
+### muilö
 
 *dirty* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: dirty § Adjective
 
 **Modifier**: dirty/polluted/soiled
 
-Mongolian бохир bohir 
+Nepali मैलो mailo [mʌi̯lo]
 
-*Mongolic Language Family*
+*Indo-Iranian Language Family*

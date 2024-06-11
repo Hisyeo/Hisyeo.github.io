@@ -2,7 +2,7 @@
 id: di
 slug: di
 title: Dİ
-sidebar_position: 448
+sidebar_position: 447
 hoverText: to become (a trait) § Verb
 ---
 

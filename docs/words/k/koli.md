@@ -10,11 +10,11 @@ hoverText: down § Noun
 
 *down* **§** Noun
 
-**Verb**: to be the bottom/below region
+**Verb**: to be the below region
 
-**Noun**: bottom/below region
+**Noun**: below region
 
-**Modifier**: bottom-related/below/down
+**Modifier**: below/down
 
 Marathi खाली khālī 
 

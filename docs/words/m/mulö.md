@@ -10,11 +10,11 @@ hoverText: up § Noun
 
 *up* **§** Noun
 
-**Verb**: to be the top/above region
+**Verb**: to be the upper/above region
 
-**Noun**: top/above region
+**Noun**: upper/above region
 
-**Modifier**: top-related/above/up
+**Modifier**: over/upper/above
 
 Luo malo /mɐ.lɔ/
 

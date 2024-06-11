@@ -2,7 +2,7 @@
 id: lö
 slug: lö
 title: LÖ
-sidebar_position: 749
+sidebar_position: 747
 hoverText: moving § Adjective
 ---
 

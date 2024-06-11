@@ -2,7 +2,7 @@
 id: vükücı
 slug: vükücı
 title: VÜKÜCI
-sidebar_position: 607
+sidebar_position: 606
 hoverText: revenge/vengeance § Noun
 ---
 

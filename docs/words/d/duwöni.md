@@ -2,7 +2,7 @@
 id: duwöni
 slug: duwöni
 title: DUWÖNİ
-sidebar_position: 458
+sidebar_position: 457
 hoverText: sand § Noun
 ---
 

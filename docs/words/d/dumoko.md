@@ -2,7 +2,7 @@
 id: dumoko
 slug: dumoko
 title: DUMOKO
-sidebar_position: 457
+sidebar_position: 456
 hoverText: explosion/blast § Noun
 ---
 

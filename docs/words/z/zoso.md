@@ -2,7 +2,7 @@
 id: zoso
 slug: zoso
 title: ZOSO
-sidebar_position: 469
+sidebar_position: 468
 hoverText: shelf § Noun
 ---
 

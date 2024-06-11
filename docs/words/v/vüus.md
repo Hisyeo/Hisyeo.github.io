@@ -2,7 +2,7 @@
 id: vüus
 slug: vüus
 title: VÜUS
-sidebar_position: 606
+sidebar_position: 605
 hoverText: wax § Noun
 ---
 
