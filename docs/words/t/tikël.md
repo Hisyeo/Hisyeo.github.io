@@ -2,7 +2,7 @@
 id: tikël
 slug: tikël
 title: TİKËL
-sidebar_position: 272
+sidebar_position: 274
 hoverText: reflected § Adjective
 ---
 

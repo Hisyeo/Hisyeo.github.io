@@ -1,12 +1,12 @@
 ---
-id: wë
-slug: wë
-title: WË
-sidebar_position: 718
+id: dës
+slug: dës
+title: DËS
+sidebar_position: 446
 hoverText: negatitive verb modifier particle § Particle
 ---
 
-### wë
+### dës
 
 *negatitive verb modifier particle* **§** Particle
 
@@ -16,6 +16,6 @@ hoverText: negatitive verb modifier particle § Particle
 
 **Modifier**: -
 
-- -
+Portuguese des- -
 
-*Misc Language Family*
+*Romance Language Family*

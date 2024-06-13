@@ -2,7 +2,7 @@
 id: eswen
 slug: eswen
 title: ESWEN
-sidebar_position: 42
+sidebar_position: 44
 hoverText: more § Determiner
 ---
 

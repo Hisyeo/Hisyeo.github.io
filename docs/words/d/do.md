@@ -2,13 +2,13 @@
 id: do
 slug: do
 title: DO
-sidebar_position: 432
-hoverText: relative clause verb particle § Particle
+sidebar_position: 434
+hoverText: subjective relative clause particle § Particle
 ---
 
 ### do
 
-*relative clause verb particle* **§** Particle
+*subjective relative clause particle* **§** Particle
 
 **Verb**: -
 

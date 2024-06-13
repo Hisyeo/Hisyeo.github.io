@@ -2,7 +2,7 @@
 id: üsowo
 slug: üsowo
 title: ÜSOWO
-sidebar_position: 87
+sidebar_position: 89
 hoverText: balanced § Adjective
 ---
 

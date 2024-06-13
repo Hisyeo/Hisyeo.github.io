@@ -2,7 +2,7 @@
 id: moliyü
 slug: moliyü
 title: MOLİYÜ
-sidebar_position: 623
+sidebar_position: 627
 hoverText: and § Conjunction
 ---
 

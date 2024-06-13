@@ -2,7 +2,7 @@
 id: kon
 slug: kon
 title: KON
-sidebar_position: 151
+sidebar_position: 152
 hoverText: abstract verb noun particle § Particle
 ---
 

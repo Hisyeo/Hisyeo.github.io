@@ -2,7 +2,7 @@
 id: xemëtsen
 slug: xemëtsen
 title: XEMËTSEN
-sidebar_position: 411
+sidebar_position: 413
 hoverText: noun § Noun
 ---
 

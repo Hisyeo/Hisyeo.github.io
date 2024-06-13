@@ -2,7 +2,7 @@
 id: ilë
 slug: ilë
 title: İLË
-sidebar_position: 72
+sidebar_position: 74
 hoverText: building § Noun
 ---
 

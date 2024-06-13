@@ -2,7 +2,7 @@
 id: ongölö
 slug: ongölö
 title: ONGÖLÖ
-sidebar_position: 22
+sidebar_position: 23
 hoverText: corner § Noun
 ---
 

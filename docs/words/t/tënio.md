@@ -2,7 +2,7 @@
 id: tënio
 slug: tënio
 title: TËNİO
-sidebar_position: 268
+sidebar_position: 270
 hoverText: strip/band § Noun
 ---
 

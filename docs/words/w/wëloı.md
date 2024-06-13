@@ -2,7 +2,7 @@
 id: wëloı
 slug: wëloı
 title: WËLOI
-sidebar_position: 724
+sidebar_position: 726
 hoverText: occupation § Noun
 ---
 

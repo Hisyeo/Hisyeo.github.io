@@ -2,7 +2,7 @@
 id: ölë
 slug: ölë
 title: ÖLË
-sidebar_position: 41
+sidebar_position: 42
 hoverText: experiencer/causee marker § Preposition
 ---
 

@@ -2,7 +2,7 @@
 id: ülögun
 slug: ülögun
 title: ÜLÖGUN
-sidebar_position: 98
+sidebar_position: 99
 hoverText: metal § Noun
 ---
 

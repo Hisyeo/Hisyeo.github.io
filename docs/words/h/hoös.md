@@ -2,7 +2,7 @@
 id: hoös
 slug: hoös
 title: HOÖS
-sidebar_position: 102
+sidebar_position: 103
 hoverText: chaotic § Adjective
 ---
 

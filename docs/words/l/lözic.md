@@ -2,7 +2,7 @@
 id: lözic
 slug: lözic
 title: LÖZİC
-sidebar_position: 751
+sidebar_position: 753
 hoverText: to give birth to (a baby) § Verb
 ---
 

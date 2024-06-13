@@ -2,7 +2,7 @@
 id: onwiyë
 slug: onwiyë
 title: ONWİYË
-sidebar_position: 26
+sidebar_position: 27
 hoverText: bored § Adjective
 ---
 

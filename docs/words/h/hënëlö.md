@@ -2,7 +2,7 @@
 id: hënëlö
 slug: hënëlö
 title: HËNËLÖ
-sidebar_position: 126
+sidebar_position: 127
 hoverText: gender § Noun
 ---
 

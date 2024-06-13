@@ -2,17 +2,17 @@
 id: ogolol
 slug: ogolol
 title: OGOLOL
-sidebar_position: 6
-hoverText: to grab/hold (a hold/load/burden) § Verb
+sidebar_position: 7
+hoverText: to grab/hold (a hold/load) § Verb
 ---
 
 ### ogolol
 
-*to grab/hold (a hold/load/burden)* **§** Verb
+*to grab/hold (a hold/load)* **§** Verb
 
 **Verb**: to grab/hold
 
-**Noun**: a hold/load/burden
+**Noun**: a hold/load
 
 **Modifier**: grabable/holdable
 

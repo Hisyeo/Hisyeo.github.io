@@ -2,7 +2,7 @@
 id: nimü
 slug: nimü
 title: NİMÜ
-sidebar_position: 696
+sidebar_position: 700
 hoverText: you § Pronoun
 ---
 

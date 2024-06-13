@@ -2,7 +2,7 @@
 id: onomü
 slug: onomü
 title: ONOMÜ
-sidebar_position: 18
+sidebar_position: 19
 hoverText: rice § Noun
 ---
 

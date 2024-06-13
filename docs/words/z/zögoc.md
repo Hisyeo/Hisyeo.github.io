@@ -2,7 +2,7 @@
 id: zögoc
 slug: zögoc
 title: ZÖGOC
-sidebar_position: 481
+sidebar_position: 484
 hoverText: pitch/tar § Noun
 ---
 

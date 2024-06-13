@@ -2,7 +2,7 @@
 id: helgo
 slug: helgo
 title: HELGO
-sidebar_position: 124
+sidebar_position: 125
 hoverText: to venerate (the venerated) § Verb
 ---
 

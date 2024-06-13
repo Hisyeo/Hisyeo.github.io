@@ -2,7 +2,7 @@
 id: hoküxı
 slug: hoküxı
 title: HOKÜXI
-sidebar_position: 106
+sidebar_position: 107
 hoverText: clapping/applauding § Adjective
 ---
 

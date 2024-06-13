@@ -2,7 +2,7 @@
 id: vıldonpun
 slug: vıldonpun
 title: VILDONPUN
-sidebar_position: 590
+sidebar_position: 594
 hoverText: evaporated/vaporized § Adjective
 ---
 

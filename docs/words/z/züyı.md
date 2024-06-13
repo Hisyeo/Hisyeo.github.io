@@ -1,12 +1,12 @@
 ---
-id: üvızet
-slug: üvızet
-title: ÜVIZET
-sidebar_position: 91
+id: züyı
+slug: züyı
+title: ZÜYI
+sidebar_position: 506
 hoverText: to spot/notice (the spotted/noticed) § Verb
 ---
 
-### üvızet
+### züyı
 
 *to spot/notice (the spotted/noticed)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to spot/notice (the spotted/noticed) § Verb
 
 **Modifier**: spottable/noticable/locatable
 
-Czech uvidět [ˈuvɪɟɛt]
+Mandarin 注意 zhùyì /d͡ʒu.jɨ/
 
-*Balto-Slavic Language Family*
+*Sino-Tibetan Language Family*

@@ -2,7 +2,7 @@
 id: onpulë
 slug: onpulë
 title: ONPULË
-sidebar_position: 24
+sidebar_position: 25
 hoverText: amber (color) § Adjective
 ---
 

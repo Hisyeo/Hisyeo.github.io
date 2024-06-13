@@ -2,7 +2,7 @@
 id: hulükö
 slug: hulükö
 title: HULÜKÖ
-sidebar_position: 134
+sidebar_position: 135
 hoverText: lightweight § Adjective
 ---
 

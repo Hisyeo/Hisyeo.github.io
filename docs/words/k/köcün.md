@@ -2,7 +2,7 @@
 id: köcün
 slug: köcün
 title: KÖCÜN
-sidebar_position: 164
+sidebar_position: 165
 hoverText: rank § Noun
 ---
 

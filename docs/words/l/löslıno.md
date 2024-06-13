@@ -2,7 +2,7 @@
 id: löslıno
 slug: löslıno
 title: LÖSLINO
-sidebar_position: 750
+sidebar_position: 752
 hoverText: plant § Noun
 ---
 

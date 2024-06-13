@@ -2,7 +2,7 @@
 id: üc
 slug: üc
 title: ÜC
-sidebar_position: 85
+sidebar_position: 87
 hoverText: evidence marker (or so) § Preposition
 ---
 

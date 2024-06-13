@@ -2,13 +2,13 @@
 id: vos
 slug: vos
 title: VOS
-sidebar_position: 572
-hoverText: relative clause particle § Particle
+sidebar_position: 576
+hoverText: free relative clause particle § Particle
 ---
 
 ### vos
 
-*relative clause particle* **§** Particle
+*free relative clause particle* **§** Particle
 
 **Verb**: -
 

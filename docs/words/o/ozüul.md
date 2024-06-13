@@ -2,7 +2,7 @@
 id: ozüul
 slug: ozüul
 title: OZÜUL
-sidebar_position: 11
+sidebar_position: 12
 hoverText: any/whichever § Pronoun
 ---
 

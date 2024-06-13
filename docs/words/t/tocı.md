@@ -2,7 +2,7 @@
 id: tocı
 slug: tocı
 title: TOCI
-sidebar_position: 254
+sidebar_position: 256
 hoverText: standing § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: öngö
 slug: öngö
 title: ÖNGÖ
-sidebar_position: 38
+sidebar_position: 39
 hoverText: fungus § Noun
 ---
 

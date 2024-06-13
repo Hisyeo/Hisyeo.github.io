@@ -2,7 +2,7 @@
 id: elekë
 slug: elekë
 title: ELEKË
-sidebar_position: 45
+sidebar_position: 47
 hoverText: cheek § Noun
 ---
 

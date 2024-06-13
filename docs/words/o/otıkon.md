@@ -2,7 +2,7 @@
 id: otıkon
 slug: otıkon
 title: OTIKON
-sidebar_position: 7
+sidebar_position: 8
 hoverText: excess § Determiner
 ---
 

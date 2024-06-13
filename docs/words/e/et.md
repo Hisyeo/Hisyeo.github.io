@@ -1,12 +1,12 @@
 ---
-id: wo
-slug: wo
-title: WO
-sidebar_position: 706
+id: et
+slug: et
+title: ET
+sidebar_position: 43
 hoverText: collapser/amender particle § Particle
 ---
 
-### wo
+### et
 
 *collapser/amender particle* **§** Particle
 

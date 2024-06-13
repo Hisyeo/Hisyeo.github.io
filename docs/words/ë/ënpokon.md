@@ -2,7 +2,7 @@
 id: ënpokon
 slug: ënpokon
 title: ËNPOKON
-sidebar_position: 52
+sidebar_position: 54
 hoverText: belch/burp § Noun
 ---
 

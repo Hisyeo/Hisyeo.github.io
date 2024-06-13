@@ -2,7 +2,7 @@
 id: telö
 slug: telö
 title: TELÖ
-sidebar_position: 267
+sidebar_position: 269
 hoverText: 13 thirteen § Numeral
 ---
 

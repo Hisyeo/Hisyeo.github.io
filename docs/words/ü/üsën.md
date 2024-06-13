@@ -2,7 +2,7 @@
 id: üsën
 slug: üsën
 title: ÜSËN
-sidebar_position: 88
+sidebar_position: 90
 hoverText: year § Noun
 ---
 

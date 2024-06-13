@@ -2,7 +2,7 @@
 id: onküol
 slug: onküol
 title: ONKÜOL
-sidebar_position: 21
+sidebar_position: 22
 hoverText: to hug (the hugged) § Verb
 ---
 

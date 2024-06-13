@@ -2,7 +2,7 @@
 id: ondo
 slug: ondo
 title: ONDO
-sidebar_position: 23
+sidebar_position: 24
 hoverText: to prepare (a preparation) § Verb
 ---
 

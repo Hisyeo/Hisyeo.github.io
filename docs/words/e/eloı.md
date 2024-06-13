@@ -2,7 +2,7 @@
 id: eloı
 slug: eloı
 title: ELOI
-sidebar_position: 44
+sidebar_position: 46
 hoverText: boundary/border § Noun
 ---
 

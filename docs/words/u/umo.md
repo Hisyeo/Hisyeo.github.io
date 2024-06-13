@@ -2,7 +2,7 @@
 id: umo
 slug: umo
 title: UMO
-sidebar_position: 78
+sidebar_position: 80
 hoverText: person § Noun
 ---
 

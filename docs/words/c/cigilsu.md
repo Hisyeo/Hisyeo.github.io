@@ -2,7 +2,7 @@
 id: cigilsu
 slug: cigilsu
 title: CİGİLSU
-sidebar_position: 317
+sidebar_position: 319
 hoverText: treatment (medical) § Noun
 ---
 

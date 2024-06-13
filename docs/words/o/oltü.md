@@ -2,7 +2,7 @@
 id: oltü
 slug: oltü
 title: OLTÜ
-sidebar_position: 27
+sidebar_position: 28
 hoverText: loud § Adjective
 ---
 

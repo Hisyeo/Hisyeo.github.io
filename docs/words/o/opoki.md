@@ -2,7 +2,7 @@
 id: opoki
 slug: opoki
 title: OPOKİ
-sidebar_position: 12
+sidebar_position: 13
 hoverText: glass § Noun
 ---
 
