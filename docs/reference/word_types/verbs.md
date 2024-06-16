@@ -4,17 +4,30 @@ sidebar_position: 2
 
 # Verbs
 
-A type of word that represents an action.
+A type of word that represents an action. Each sentence will always have a verb
+phrase. The particles that introduce them are referred to as "prepositions"
+because the particle is positioned before the verb phrase. The verb phrase that
+they mark is known as the predicate or main content verb of the sentence. 
 
 ## Prepositions
 
 ### Realis
 
-The most basic form of verbal preposition is the realis form. If you start your
-sentence with this form of verb, you don't need to have a leading particle. 
-However, if you are adding another realis verb to the sentence or you placed the
-some other preposition in the leading position of the sentence, then you must
-use the realis verb marker (%%lı@lı%%/%%ʓȷ@lı%%) to introduce the verb.
+The most basic form of verbal preposition is the realis form. Using this verb
+particle (%%lı@lı%%/%%ʓȷ@lı%%) means that your verb is a true statement of an
+action or state that occurred or was experienced in reality. They can be in the
+past, present or future tense but they are, by default, considered to be
+imperfective and not perfect
+
+:::tip Skip the Particle
+
+If you start your sentence with this form of verb, you don't need to have a
+leading particle. It is implied automatically when a sentence begins without a
+particle.
+
+:::
+
+
 
 ### Irrealis
 
@@ -82,9 +95,15 @@ into the negated version of itself. In English, this is the "not" adverb.
 ### Causative
 
 The causative verb modifier (%%ëo@ëo%% / %%ɽʇɽ@ëo%%) turns the verb phrase into
-the causative version of itself. In English, this is the "to make" helper verb.
+the causative version of itself. In English, this is often accomplished using
+the "to make" helper verb but sometimes there is a completely separate verb for
+the causative version of an action.
 
-### Perfect
+### Perfective
 
-The perfect verb modifier (%%si@si%% / %%ɐɟ@si%%) turns the verb phrase into the
-perfect version of itself. In English, this is the "to have" helper verb.
+The perfective verb modifier (%%si@si%% / %%ɐɟ@si%%) turns the verb phrase into
+the perfective version of itself. This describes the action as being a complete
+whole in contrast to the default aspect of verbs which is known as
+*imperfective*. There is no equivalent helper verb in English, sometimes the
+verb used to describe a whole action is completely different from the verb used
+to describe the action in the imperfective aspect.
