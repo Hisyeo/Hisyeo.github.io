@@ -2,7 +2,7 @@
 id: köndonsë
 slug: köndonsë
 title: KÖNDONSË
-sidebar_position: 174
+sidebar_position: 173
 hoverText: condensed/concentrated § Adjective
 ---
 

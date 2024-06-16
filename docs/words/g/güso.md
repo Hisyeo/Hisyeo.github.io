@@ -2,7 +2,7 @@
 id: güso
 slug: güso
 title: GÜSO
-sidebar_position: 244
+sidebar_position: 243
 hoverText: angry § Adjective
 ---
 

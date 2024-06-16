@@ -2,7 +2,7 @@
 id: könën
 slug: könën
 title: KÖNËN
-sidebar_position: 171
+sidebar_position: 170
 hoverText: possible/likely § Adjective
 ---
 

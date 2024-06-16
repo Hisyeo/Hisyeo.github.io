@@ -2,7 +2,7 @@
 id: centık
 slug: centık
 title: CENTIK
-sidebar_position: 302
+sidebar_position: 301
 hoverText: official/formal § Adjective
 ---
 

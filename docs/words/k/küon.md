@@ -2,7 +2,7 @@
 id: küon
 slug: küon
 title: KÜON
-sidebar_position: 201
+sidebar_position: 200
 hoverText: light § Noun
 ---
 

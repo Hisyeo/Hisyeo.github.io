@@ -2,7 +2,7 @@
 id: kılukü
 slug: kılukü
 title: KILUKÜ
-sidebar_position: 185
+sidebar_position: 184
 hoverText: eastern § Adjective
 ---
 

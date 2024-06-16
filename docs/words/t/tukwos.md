@@ -2,7 +2,7 @@
 id: tukwos
 slug: tukwos
 title: TUKWOS
-sidebar_position: 280
+sidebar_position: 279
 hoverText: 08 eight § Numeral
 ---
 

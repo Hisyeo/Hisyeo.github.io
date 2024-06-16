@@ -2,7 +2,7 @@
 id: cöcko
 slug: cöcko
 title: CÖCKO
-sidebar_position: 301
+sidebar_position: 300
 hoverText: lens § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: köxentë
 slug: köxentë
 title: KÖXENTË
-sidebar_position: 168
+sidebar_position: 167
 hoverText: conscious § Adjective
 ---
 
