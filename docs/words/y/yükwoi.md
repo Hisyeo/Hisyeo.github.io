@@ -1,12 +1,12 @@
 ---
-id: yöküe
-slug: yöküe
-title: YÖKÜE
-sidebar_position: 795
+id: yükwoi
+slug: yükwoi
+title: YÜKWOİ
+sidebar_position: 807
 hoverText: monster § Noun
 ---
 
-### yöküe
+### yükwoi
 
 *monster* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: monster § Noun
 
 **Modifier**: monster/devil/goblin-related
 
-Dungan ёгуэ i͡ogue /iɔː²⁴ kuɛ⁴⁴/
+Cantonese 妖怪  jiu2 gwaai3 /jiːu̯.kʷaːi̯/
 
 *Sino-Tibetan Language Family*

@@ -2,7 +2,7 @@
 id: zomüni
 slug: zomüni
 title: ZOMÜNİ
-sidebar_position: 475
+sidebar_position: 477
 hoverText: purple § Adjective
 ---
 

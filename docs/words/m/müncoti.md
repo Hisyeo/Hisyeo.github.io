@@ -2,7 +2,7 @@
 id: müncoti
 slug: müncoti
 title: MÜNCOTİ
-sidebar_position: 665
+sidebar_position: 668
 hoverText: to release/drop (the released/dropped) § Verb
 ---
 

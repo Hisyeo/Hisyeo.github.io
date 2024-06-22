@@ -2,7 +2,7 @@
 id: xodilü
 slug: xodilü
 title: XODİLÜ
-sidebar_position: 399
+sidebar_position: 400
 hoverText: loose § Adjective
 ---
 

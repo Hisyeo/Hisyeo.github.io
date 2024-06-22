@@ -2,7 +2,7 @@
 id: zuspot
 slug: zuspot
 title: ZUSPOT
-sidebar_position: 500
+sidebar_position: 502
 hoverText: emotion § Noun
 ---
 

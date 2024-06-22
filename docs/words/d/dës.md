@@ -2,7 +2,7 @@
 id: dës
 slug: dës
 title: DËS
-sidebar_position: 446
+sidebar_position: 448
 hoverText: negatitive verb modifier particle § Particle
 ---
 
@@ -16,6 +16,6 @@ hoverText: negatitive verb modifier particle § Particle
 
 **Modifier**: -
 
-Portuguese des- -
+Portuguese des- /des/
 
 *Romance Language Family*

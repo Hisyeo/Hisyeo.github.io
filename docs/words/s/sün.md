@@ -2,7 +2,7 @@
 id: sün
 slug: sün
 title: SÜN
-sidebar_position: 391
+sidebar_position: 392
 hoverText: source/origin marker (from) § Preposition
 ---
 

@@ -2,7 +2,7 @@
 id: leknek
 slug: leknek
 title: LEKNEK
-sidebar_position: 756
+sidebar_position: 761
 hoverText: weapon § Noun
 ---
 

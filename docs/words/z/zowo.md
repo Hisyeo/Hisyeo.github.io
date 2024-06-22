@@ -2,7 +2,7 @@
 id: zowo
 slug: zowo
 title: ZOWO
-sidebar_position: 478
+sidebar_position: 480
 hoverText: caniform § Noun
 ---
 

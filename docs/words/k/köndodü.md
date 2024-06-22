@@ -2,7 +2,7 @@
 id: köndodü
 slug: köndodü
 title: KÖNDODÜ
-sidebar_position: 172
+sidebar_position: 173
 hoverText: to celebrate (a party) § Verb
 ---
 

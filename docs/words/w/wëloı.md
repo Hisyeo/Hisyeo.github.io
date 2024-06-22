@@ -2,19 +2,19 @@
 id: wëloı
 slug: wëloı
 title: WËLOI
-sidebar_position: 726
-hoverText: occupation § Noun
+sidebar_position: 730
+hoverText: to work (in an occupation) § Verb
 ---
 
 ### wëloı
 
-*occupation* **§** Noun
+*to work (in an occupation)* **§** Verb
 
-**Verb**: to be an occupation/job
+**Verb**: to work (in/on)
 
-**Noun**: occupation/job
+**Noun**: occupation/job/work
 
-**Modifier**: occupation/job-related
+**Modifier**: workable/occupation/job-like
 
 Tamil வேலை vēlai /ʋeːlaɪ̯/
 

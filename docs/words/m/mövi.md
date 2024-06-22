@@ -2,7 +2,7 @@
 id: mövi
 slug: mövi
 title: MÖVİ
-sidebar_position: 635
+sidebar_position: 638
 hoverText: brave/courageous § Adjective
 ---
 

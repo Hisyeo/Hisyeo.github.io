@@ -2,7 +2,7 @@
 id: lüok
 slug: lüok
 title: LÜOK
-sidebar_position: 776
+sidebar_position: 781
 hoverText: spirit/ghost § Noun
 ---
 

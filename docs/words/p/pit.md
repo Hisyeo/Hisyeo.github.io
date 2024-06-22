@@ -2,7 +2,7 @@
 id: pit
 slug: pit
 title: PİT
-sidebar_position: 548
+sidebar_position: 550
 hoverText: conditional verb particle § Particle
 ---
 

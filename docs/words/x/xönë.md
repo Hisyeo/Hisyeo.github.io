@@ -2,7 +2,7 @@
 id: xönë
 slug: xönë
 title: XÖNË
-sidebar_position: 410
+sidebar_position: 411
 hoverText: different § Adjective
 ---
 

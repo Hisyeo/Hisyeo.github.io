@@ -2,7 +2,7 @@
 id: nexë
 slug: nexë
 title: NEXË
-sidebar_position: 686
+sidebar_position: 689
 hoverText: intoxicated § Adjective
 ---
 

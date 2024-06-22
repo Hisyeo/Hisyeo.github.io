@@ -2,7 +2,7 @@
 id: sınsi
 slug: sınsi
 title: SINSİ
-sidebar_position: 373
+sidebar_position: 374
 hoverText: town/city § Noun
 ---
 

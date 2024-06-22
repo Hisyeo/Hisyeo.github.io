@@ -2,7 +2,7 @@
 id: pesol
 slug: pesol
 title: PESOL
-sidebar_position: 531
+sidebar_position: 533
 hoverText: to seal/lock (the sealed/locked) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: yosten
 slug: yosten
 title: YOSTEN
-sidebar_position: 788
+sidebar_position: 793
 hoverText: to find (a discovery) § Verb
 ---
 

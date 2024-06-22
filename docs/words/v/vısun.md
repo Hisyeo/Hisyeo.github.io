@@ -2,7 +2,7 @@
 id: vısun
 slug: vısun
 title: VISUN
-sidebar_position: 592
+sidebar_position: 594
 hoverText: to know (knowledge) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: voko
 slug: voko
 title: VOKO
-sidebar_position: 575
+sidebar_position: 577
 hoverText: causative agentive verb noun particle § Particle
 ---
 

@@ -2,7 +2,7 @@
 id: mongö
 slug: mongö
 title: MONGÖ
-sidebar_position: 625
+sidebar_position: 628
 hoverText: sharks/rays § Noun
 ---
 

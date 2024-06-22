@@ -2,7 +2,7 @@
 id: piek
 slug: piek
 title: PİEK
-sidebar_position: 546
+sidebar_position: 548
 hoverText: to bake (a baked good) § Verb
 ---
 

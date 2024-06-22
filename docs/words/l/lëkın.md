@@ -2,7 +2,7 @@
 id: lëkın
 slug: lëkın
 title: LËKIN
-sidebar_position: 761
+sidebar_position: 766
 hoverText: but § Conjunction
 ---
 

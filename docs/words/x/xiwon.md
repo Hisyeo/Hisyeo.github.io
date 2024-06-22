@@ -2,7 +2,7 @@
 id: xiwon
 slug: xiwon
 title: XİWON
-sidebar_position: 426
+sidebar_position: 427
 hoverText: to hope/wish (a hope/wish) § Verb
 ---
 
