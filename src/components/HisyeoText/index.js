@@ -26,6 +26,7 @@ export default function HisyeoText({ kind, children }) {
             </a>
           )
         } else {
+          console.error(`Word not found: ${match}`)
           return (
             <span key={`custom-${i}`}>{match}</span>
           )
