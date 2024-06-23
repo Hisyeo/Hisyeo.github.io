@@ -4,6 +4,9 @@ sidebar_position: 2
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import HisyeoTabs from '@site/src/components/HisyeoTabs'
+import HisyeoText from '@site/src/components/HisyeoText'
+import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
 
 # Numbers, Dates, & Time
 
@@ -19,131 +22,144 @@ To express your internet usage or uber cost, we need quantifiers that will tell
 us exactly how many of something we have. The table below provides the numbers
 that you'll need to count all the way up to a trillion.
 
+<HisyeoTabs>
+  <p>pioli. xön ü do monodo ëto cö nimü.</p>
+  <p>pioli. xön ü do monodo ëto cö nimü.</p>
+</HisyeoTabs>
+
 <Tabs groupId="popöun-kon-cukto" queryString>
   <TabItem value="latin" label="Latin" default>
     <table>
+      <thead>
         <tr><td><strong>Number</strong></td><td><strong>Hisyëö</strong></td></tr>
-        <tr><td>0</td><td>%%xünyu@xünyu%%</td></tr>
-        <tr><td>1</td><td>%%kut@kut%%</td></tr>
-        <tr><td>2</td><td>%%düi@düi%%</td></tr>
-        <tr><td>3</td><td>%%son@son%%</td></tr>
-        <tr><td>4</td><td>%%nonkü@nonkü%%</td></tr>
-        <tr><td>5</td><td>%%tiü@tiü%%</td></tr>
-        <tr><td>6</td><td>%%toü@toü%%</td></tr>
-        <tr><td>7</td><td>%%xëti@xëti%%</td></tr>
-        <tr><td>8</td><td>%%tukwos@tukwos%%</td></tr>
-        <tr><td>9</td><td>%%tiso@tiso%%</td></tr>
-        <tr><td>10</td><td>%%dus@dus%%</td></tr>
-        <tr><td>11</td><td>%%önsu@önsu%%</td></tr>
-        <tr><td>12</td><td>%%pole@pole%%</td></tr>
-        <tr><td>13</td><td>%%telö@telö%%</td></tr>
-        <tr><td>14</td><td>%%zıyön@zıyön%%</td></tr>
-        <tr><td>15</td><td>%%kinsë@kinsë%%</td></tr>
-        <tr><td>16</td><td>%%ses@ses%%</td></tr>
-        <tr><td>17</td><td>%%dus@dus%% %%xëti@xëti%%</td></tr>
-        <tr><td>18</td><td>%%dus@dus%% %%tukwos@tukwos%%</td></tr>
-        <tr><td>19</td><td>%%dus@dus%% %%tiso@tiso%%</td></tr>
-        <tr><td>20</td><td>%%düi@düi%% %%dus@dus%%</td></tr>
-        <tr><td>21</td><td>%%düi@düi%% %%dus@dus%% %%kut@kut%%</td></tr>
-        <tr><td>22</td><td>%%düi@düi%% %%dus@dus%% %%düi@düi%%</td></tr>
-        <tr><td>23</td><td>%%düi@düi%% %%dus@dus%% %%son@son%%</td></tr>
-        <tr><td>24</td><td>%%düi@düi%% %%dus@dus%% %%nonkü@nonkü%%</td></tr>
-        <tr><td>25</td><td>%%düi@düi%% %%dus@dus%% %%tiü@tiü%%</td></tr>
-        <tr><td>26</td><td>%%düi@düi%% %%dus@dus%% %%toü@toü%%</td></tr>
-        <tr><td>27</td><td>%%düi@düi%% %%dus@dus%% %%xëti@xëti%%</td></tr>
-        <tr><td>28</td><td>%%düi@düi%% %%dus@dus%% %%tukwos@tukwos%%</td></tr>
-        <tr><td>29</td><td>%%düi@düi%% %%dus@dus%% %%tiso@tiso%%</td></tr>
-        <tr><td>30</td><td>%%son@son%% %%dus@dus%%</td></tr>
-        <tr><td>31</td><td>%%son@son%% %%dus@dus%% %%kut@kut%%</td></tr>
-        <tr><td>32</td><td>%%son@son%% %%dus@dus%% %%düi@düi%%</td></tr>
-        <tr><td>33</td><td>%%son@son%% %%dus@dus%% %%son@son%%</td></tr>
-        <tr><td>34</td><td>%%son@son%% %%dus@dus%% %%nonkü@nonkü%%</td></tr>
-        <tr><td>35</td><td>%%son@son%% %%dus@dus%% %%tiü@tiü%%</td></tr>
-        <tr><td>36</td><td>%%son@son%% %%dus@dus%% %%toü@toü%%</td></tr>
-        <tr><td>37</td><td>%%son@son%% %%dus@dus%% %%xëti@xëti%%</td></tr>
-        <tr><td>38</td><td>%%son@son%% %%dus@dus%% %%tukwos@tukwos%%</td></tr>
-        <tr><td>39</td><td>%%son@son%% %%dus@dus%% %%tiso@tiso%%</td></tr>
-        <tr><td>40</td><td>%%nonkü@nonkü%% %%dus@dus%%</td></tr>
-        <tr><td>50</td><td>%%tiü@tiü%% %%dus@dus%%</td></tr>
-        <tr><td>60</td><td>%%toü@toü%% %%dus@dus%%</td></tr>
-        <tr><td>70</td><td>%%xëti@xëti%% %%dus@dus%%</td></tr>
-        <tr><td>80</td><td>%%tukwos@tukwos%% %%dus@dus%%</td></tr>
-        <tr><td>90</td><td>%%tiso@tiso%% %%dus@dus%%</td></tr>
-        <tr><td>100</td><td>%%viyën@viyën%%</td></tr>
-        <tr><td>101</td><td>%%viyën@viyën%% %%kut@kut%%</td></tr>
-        <tr><td>234</td><td>%%düi@düi%% %%viyën@viyën%% %%son@son%% %%dus@dus%% %%nonkü@nonkü%%</td></tr>
-        <tr><td>1000</td><td>%%cın@cın%% %%kut@kut%%</td></tr>
-        <tr><td>1,000,000</td><td>%%cın@cın%% %%düi@düi%%</td></tr>
-        <tr><td>1,999</td><td>%%cın@cın%% %%kut@kut%%,%%tiso@tiso%% %%viyën@viyën%% %%tiso@tiso%% %%dus@dus%% %%tiso@tiso%%</td></tr>
-        <tr><td>1,234,567</td><td>%%cın@cın%% %%düi@düi%%, %%düi@düi%% %%viyën@viyën%% %%son@son%% %%dus@dus%% %%nonkü@nonkü%% %%cın@cın%% %%kut@kut%%, %%tiü@tiü%% %%viyën@viyën%% %%toü@toü%% %%dus@dus%% %%xëti@xëti%%</td></tr>
+      </thead>
+      <tbody>
+        <tr><td>0</td><td><HisyeoText kind='latin'>xünyu</HisyeoText></td></tr>
+        <tr><td>1</td><td><HisyeoText kind='latin'>kut</HisyeoText></td></tr>
+        <tr><td>2</td><td><HisyeoText kind='latin'>düi</HisyeoText></td></tr>
+        <tr><td>3</td><td><HisyeoText kind='latin'>son</HisyeoText></td></tr>
+        <tr><td>4</td><td><HisyeoText kind='latin'>nonkü</HisyeoText></td></tr>
+        <tr><td>5</td><td><HisyeoText kind='latin'>tiü</HisyeoText></td></tr>
+        <tr><td>6</td><td><HisyeoText kind='latin'>toü</HisyeoText></td></tr>
+        <tr><td>7</td><td><HisyeoText kind='latin'>xëti</HisyeoText></td></tr>
+        <tr><td>8</td><td><HisyeoText kind='latin'>tukwos</HisyeoText></td></tr>
+        <tr><td>9</td><td><HisyeoText kind='latin'>tiso</HisyeoText></td></tr>
+        <tr><td>10</td><td><HisyeoText kind='latin'>dus</HisyeoText></td></tr>
+        <tr><td>11</td><td><HisyeoText kind='latin'>önsu</HisyeoText></td></tr>
+        <tr><td>12</td><td><HisyeoText kind='latin'>pole</HisyeoText></td></tr>
+        <tr><td>13</td><td><HisyeoText kind='latin'>telö</HisyeoText></td></tr>
+        <tr><td>14</td><td><HisyeoText kind='latin'>zıyön</HisyeoText></td></tr>
+        <tr><td>15</td><td><HisyeoText kind='latin'>kinsë</HisyeoText></td></tr>
+        <tr><td>16</td><td><HisyeoText kind='latin'>ses</HisyeoText></td></tr>
+        <tr><td>17</td><td><HisyeoText kind='latin'>dus xëti</HisyeoText></td></tr>
+        <tr><td>18</td><td><HisyeoText kind='latin'>dus tukwos</HisyeoText></td></tr>
+        <tr><td>19</td><td><HisyeoText kind='latin'>dus tiso</HisyeoText></td></tr>
+        <tr><td>20</td><td><HisyeoText kind='latin'>düi dus</HisyeoText></td></tr>
+        <tr><td>21</td><td><HisyeoText kind='latin'>düi dus kut</HisyeoText></td></tr>
+        <tr><td>22</td><td><HisyeoText kind='latin'>düi dus düi</HisyeoText></td></tr>
+        <tr><td>23</td><td><HisyeoText kind='latin'>düi dus son</HisyeoText></td></tr>
+        <tr><td>24</td><td><HisyeoText kind='latin'>düi dus nonkü</HisyeoText></td></tr>
+        <tr><td>25</td><td><HisyeoText kind='latin'>düi dus tiü</HisyeoText></td></tr>
+        <tr><td>26</td><td><HisyeoText kind='latin'>düi dus toü</HisyeoText></td></tr>
+        <tr><td>27</td><td><HisyeoText kind='latin'>düi dus xëti</HisyeoText></td></tr>
+        <tr><td>28</td><td><HisyeoText kind='latin'>düi dus tukwos</HisyeoText></td></tr>
+        <tr><td>29</td><td><HisyeoText kind='latin'>düi dus tiso</HisyeoText></td></tr>
+        <tr><td>30</td><td><HisyeoText kind='latin'>son dus</HisyeoText></td></tr>
+        <tr><td>31</td><td><HisyeoText kind='latin'>son dus kut</HisyeoText></td></tr>
+        <tr><td>32</td><td><HisyeoText kind='latin'>son dus düi</HisyeoText></td></tr>
+        <tr><td>33</td><td><HisyeoText kind='latin'>son dus son</HisyeoText></td></tr>
+        <tr><td>34</td><td><HisyeoText kind='latin'>son dus nonkü</HisyeoText></td></tr>
+        <tr><td>35</td><td><HisyeoText kind='latin'>son dus tiü</HisyeoText></td></tr>
+        <tr><td>36</td><td><HisyeoText kind='latin'>son dus toü</HisyeoText></td></tr>
+        <tr><td>37</td><td><HisyeoText kind='latin'>son dus xëti</HisyeoText></td></tr>
+        <tr><td>38</td><td><HisyeoText kind='latin'>son dus tukwos</HisyeoText></td></tr>
+        <tr><td>39</td><td><HisyeoText kind='latin'>son dus tiso</HisyeoText></td></tr>
+        <tr><td>40</td><td><HisyeoText kind='latin'>nonkü dus</HisyeoText></td></tr>
+        <tr><td>50</td><td><HisyeoText kind='latin'>tiü dus</HisyeoText></td></tr>
+        <tr><td>60</td><td><HisyeoText kind='latin'>toü dus</HisyeoText></td></tr>
+        <tr><td>70</td><td><HisyeoText kind='latin'>xëti dus</HisyeoText></td></tr>
+        <tr><td>80</td><td><HisyeoText kind='latin'>tukwos dus</HisyeoText></td></tr>
+        <tr><td>90</td><td><HisyeoText kind='latin'>tiso dus</HisyeoText></td></tr>
+        <tr><td>100</td><td><HisyeoText kind='latin'>viyën</HisyeoText></td></tr>
+        <tr><td>101</td><td><HisyeoText kind='latin'>viyën kut</HisyeoText></td></tr>
+        <tr><td>234</td><td><HisyeoText kind='latin'>düi viyën son dus nonkü</HisyeoText></td></tr>
+        <tr><td>1000</td><td><HisyeoText kind='latin'>cın kut</HisyeoText></td></tr>
+        <tr><td>1,000,000</td><td><HisyeoText kind='latin'>cın düi</HisyeoText></td></tr>
+        <tr><td>1,999</td><td><HisyeoText kind='latin'>cın kut,tiso viyën tiso dus tiso</HisyeoText></td></tr>
+        <tr><td>1,234,567</td><td><HisyeoText kind='latin'>cın düi, düi viyën son dus nonkü cın kut, tiü viyën toü dus xëti</HisyeoText></td></tr>
+      </tbody>
     </table>
   </TabItem>
   <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
     <table>
+      <thead>
         <tr>
             <td><strong>Number</strong></td>
             <td><strong>ɂ́ɟɀʇɽı</strong></td>
         </tr>
-        <tr><td>0</td><td>ɋ̃ʄɀʃ</td></tr>
-        <tr><td>1</td><td>ɔ̆ʃ</td></tr>
-        <tr><td>2</td><td>ʌʄɽɟ</td></tr>
-        <tr><td>3</td><td>ɐ̃</td></tr>
-        <tr><td>4</td><td>ƨ̃ɔʄ</td></tr>
-        <tr><td>5</td><td>ʋ̄ȷɔʃ</td></tr>
-        <tr><td>6</td><td>cɽʄ</td></tr>
-        <tr><td>7</td><td>ɋʇcɟ</td></tr>
-        <tr><td>8</td><td>c̑ʃʒ́</td></tr>
-        <tr><td>9</td><td>cɟɐ</td></tr>
-        <tr><td>10</td><td>ʌ́ʃ</td></tr>
-        <tr><td>11</td><td>ɽ̃ɐʄ</td></tr>
-        <tr><td>12</td><td>ʋʓɿ</td></tr>
-        <tr><td>13</td><td>cɿʓı</td></tr>
-        <tr><td>14</td><td>ɐ̆ɟɐɟ</td></tr>
-        <tr><td>15</td><td>ɔ̃ɟɐʇ</td></tr>
-        <tr><td>16</td><td>ɐ́ɿ</td></tr>
-        <tr><td>17</td><td>ʌ́ʃ ɋʇcɟ</td></tr>
-        <tr><td>18</td><td>ʌ́ʃ c̑ʃʒ́</td></tr>
-        <tr><td>19</td><td>ʌ́ʃ cɟɐ</td></tr>
-        <tr><td>20</td><td>ʌʄɽɟ ʌ́ʃ</td></tr>
-        <tr><td>21</td><td>ʌʄɽɟ ʌ́ʃ ɔ̆ʃ</td></tr>
-        <tr><td>22</td><td></td></tr>
-        <tr><td>23</td><td>ʌʄɽɟ ʌ́ʃ ɐ̃</td></tr>
-        <tr><td>24</td><td>ʌʄɽɟ ʌ́ʃ ƨ̃ɔʄ</td></tr>
-        <tr><td>25</td><td>ʌʄɽɟ ʌ́ʃ ʋ̄ȷɔʃ</td></tr>
-        <tr><td>26</td><td>ʌʄɽɟ ʌ́ʃ cɽʄ</td></tr>
-        <tr><td>27</td><td>ʌʄɽɟ ʌ́ʃ ɋʇcɟ</td></tr>
-        <tr><td>28</td><td>ʌʄɽɟ ʌ́ʃ c̑ʃʒ́</td></tr>
-        <tr><td>29</td><td>ʌʄɽɟ ʌ́ʃ cɟɐ</td></tr>
-        <tr><td>30</td><td>ɐ̃ ʌ́ʃ</td></tr>
-        <tr><td>31</td><td>ɐ̃ ʌ́ʃ ɔ̆ʃ</td></tr>
-        <tr><td>32</td><td>ɐ̃ ʌ́ʃ ʌʄɽɟ</td></tr>
-        <tr><td>33</td><td>ɐ̃ ʌ́ʃ ɐ̃</td></tr>
-        <tr><td>34</td><td>ɐ̃ ʌ́ʃ ƨ̃ɔʄ</td></tr>
-        <tr><td>35</td><td>ɐ̃ ʌ́ʃ ʋ̄ȷɔʃ</td></tr>
-        <tr><td>36</td><td>ɐ̃ ʌ́ʃ cɽʄ</td></tr>
-        <tr><td>37</td><td>ɐ̃ ʌ́ʃ ɋʇcɟ</td></tr>
-        <tr><td>38</td><td>ɐ̃ ʌ́ʃ c̑ʃʒ́</td></tr>
-        <tr><td>39</td><td>ɐ̃ ʌ́ʃ cɟɐ</td></tr>
-        <tr><td>40</td><td>ƨ̃ɔʄ ʌ́ʃ</td></tr>
-        <tr><td>50</td><td>ʋ̄ȷɔʃ ʌ́ʃ</td></tr>
-        <tr><td>60</td><td>cɽʄ ʌ́ʃ</td></tr>
-        <tr><td>70</td><td>ɋʇcɟ ʌ́ʃ</td></tr>
-        <tr><td>80</td><td>c̑ʃʒ́ ʌ́ʃ</td></tr>
-        <tr><td>90</td><td>cɟɐ ʌ́ʃ</td></tr>
-        <tr><td>100</td><td>ɤɟɀ̃ʇ</td></tr>
-        <tr><td>101</td><td>ɤɟɀ̃ʇ ɔ̆ʃ</td></tr>
-        <tr><td>234</td><td>ʌʄɽɟ ɤɟɀ̃ʇ ɐ̃ ʌ́ʃ ƨ̃ɔʄ</td></tr>
-        <tr><td>1000</td><td>ꞇ̃ʇ ɔ̆ʃ</td></tr>
-        <tr><td>1,000,000</td><td>ꞇ̃ʇ ʌʄɽɟ</td></tr>
-        <tr><td>1,999</td><td>ꞇ̃ʇ ɔ̆ʃ､cɟɐ ɤɟɀ̃ʇ cɟɐ ʌ́ʃ cɟɐ</td></tr>
-        <tr><td>1,234,567</td><td>ꞇ̃ʇ ʌʄɽɟ､ ʌʄɽɟ ɤɟɀ̃ʇ ɐ̃ ʌ́ʃ ƨ̃ɔʄ ꞇ̃ʇ ɔ̆ʃ､ ʋ̄ȷɔʃ ɤɟɀ̃ʇ cɽʄ ʌ́ʃ ɋʇcɟ</td></tr>
+      </thead>
+      <tbody>
+        <tr><td>0</td><td><HisyeoText kind='abugida'>xünyu</HisyeoText></td></tr>
+        <tr><td>1</td><td><HisyeoText kind='abugida'>kut</HisyeoText></td></tr>
+        <tr><td>2</td><td><HisyeoText kind='abugida'>düi</HisyeoText></td></tr>
+        <tr><td>3</td><td><HisyeoText kind='abugida'>son</HisyeoText></td></tr>
+        <tr><td>4</td><td><HisyeoText kind='abugida'>nonkü</HisyeoText></td></tr>
+        <tr><td>5</td><td><HisyeoText kind='abugida'>tiü</HisyeoText></td></tr>
+        <tr><td>6</td><td><HisyeoText kind='abugida'>toü</HisyeoText></td></tr>
+        <tr><td>7</td><td><HisyeoText kind='abugida'>xëti</HisyeoText></td></tr>
+        <tr><td>8</td><td><HisyeoText kind='abugida'>tukwos</HisyeoText></td></tr>
+        <tr><td>9</td><td><HisyeoText kind='abugida'>tiso</HisyeoText></td></tr>
+        <tr><td>10</td><td><HisyeoText kind='abugida'>dus</HisyeoText></td></tr>
+        <tr><td>11</td><td><HisyeoText kind='abugida'>önsu</HisyeoText></td></tr>
+        <tr><td>12</td><td><HisyeoText kind='abugida'>pole</HisyeoText></td></tr>
+        <tr><td>13</td><td><HisyeoText kind='abugida'>telö</HisyeoText></td></tr>
+        <tr><td>14</td><td><HisyeoText kind='abugida'>zıyön</HisyeoText></td></tr>
+        <tr><td>15</td><td><HisyeoText kind='abugida'>kinsë</HisyeoText></td></tr>
+        <tr><td>16</td><td><HisyeoText kind='abugida'>ses</HisyeoText></td></tr>
+        <tr><td>17</td><td><HisyeoText kind='abugida'>dus xëti</HisyeoText></td></tr>
+        <tr><td>18</td><td><HisyeoText kind='abugida'>dus tukwos</HisyeoText></td></tr>
+        <tr><td>19</td><td><HisyeoText kind='abugida'>dus tiso</HisyeoText></td></tr>
+        <tr><td>20</td><td><HisyeoText kind='abugida'>düi dus</HisyeoText></td></tr>
+        <tr><td>21</td><td><HisyeoText kind='abugida'>düi dus kut</HisyeoText></td></tr>
+        <tr><td>22</td><td><HisyeoText kind='abugida'>düi dus düi</HisyeoText></td></tr>
+        <tr><td>23</td><td><HisyeoText kind='abugida'>düi dus son</HisyeoText></td></tr>
+        <tr><td>24</td><td><HisyeoText kind='abugida'>düi dus nonkü</HisyeoText></td></tr>
+        <tr><td>25</td><td><HisyeoText kind='abugida'>düi dus tiü</HisyeoText></td></tr>
+        <tr><td>26</td><td><HisyeoText kind='abugida'>düi dus toü</HisyeoText></td></tr>
+        <tr><td>27</td><td><HisyeoText kind='abugida'>düi dus xëti</HisyeoText></td></tr>
+        <tr><td>28</td><td><HisyeoText kind='abugida'>düi dus tukwos</HisyeoText></td></tr>
+        <tr><td>29</td><td><HisyeoText kind='abugida'>düi dus tiso</HisyeoText></td></tr>
+        <tr><td>30</td><td><HisyeoText kind='abugida'>son dus</HisyeoText></td></tr>
+        <tr><td>31</td><td><HisyeoText kind='abugida'>son dus kut</HisyeoText></td></tr>
+        <tr><td>32</td><td><HisyeoText kind='abugida'>son dus düi</HisyeoText></td></tr>
+        <tr><td>33</td><td><HisyeoText kind='abugida'>son dus son</HisyeoText></td></tr>
+        <tr><td>34</td><td><HisyeoText kind='abugida'>son dus nonkü</HisyeoText></td></tr>
+        <tr><td>35</td><td><HisyeoText kind='abugida'>son dus tiü</HisyeoText></td></tr>
+        <tr><td>36</td><td><HisyeoText kind='abugida'>son dus toü</HisyeoText></td></tr>
+        <tr><td>37</td><td><HisyeoText kind='abugida'>son dus xëti</HisyeoText></td></tr>
+        <tr><td>38</td><td><HisyeoText kind='abugida'>son dus tukwos</HisyeoText></td></tr>
+        <tr><td>39</td><td><HisyeoText kind='abugida'>son dus tiso</HisyeoText></td></tr>
+        <tr><td>40</td><td><HisyeoText kind='abugida'>nonkü dus</HisyeoText></td></tr>
+        <tr><td>50</td><td><HisyeoText kind='abugida'>tiü dus</HisyeoText></td></tr>
+        <tr><td>60</td><td><HisyeoText kind='abugida'>toü dus</HisyeoText></td></tr>
+        <tr><td>70</td><td><HisyeoText kind='abugida'>xëti dus</HisyeoText></td></tr>
+        <tr><td>80</td><td><HisyeoText kind='abugida'>tukwos dus</HisyeoText></td></tr>
+        <tr><td>90</td><td><HisyeoText kind='abugida'>tiso dus</HisyeoText></td></tr>
+        <tr><td>100</td><td><HisyeoText kind='abugida'>viyën</HisyeoText></td></tr>
+        <tr><td>101</td><td><HisyeoText kind='abugida'>viyën kut</HisyeoText></td></tr>
+        <tr><td>234</td><td><HisyeoText kind='abugida'>düi viyën son dus nonkü</HisyeoText></td></tr>
+        <tr><td>1000</td><td><HisyeoText kind='abugida'>cın kut</HisyeoText></td></tr>
+        <tr><td>1,000,000</td><td><HisyeoText kind='abugida'>cın düi</HisyeoText></td></tr>
+        <tr><td>1,999</td><td><HisyeoText kind='abugida'>cın kut,tiso viyën tiso dus tiso</HisyeoText></td></tr>
+        <tr><td>1,234,567</td><td><HisyeoText kind='abugida'>cın düi, düi viyën son dus nonkü cın kut, tiü viyën toü dus xëti</HisyeoText></td></tr>
+      </tbody>
     </table>
   </TabItem>
 </Tabs>
 
 ## Tens, Thousands, Millions
 
-As you can see above, you use the %%cın@cın%% with the number directly following
+As you can see above, you use the cın with the number directly following
 it representing how many groups of 3 places. This is the same amount as we put
 commas or periods in our number representations.
 
@@ -154,26 +170,16 @@ determiner position), it effects whether the noun is seen as plural or singular.
 These are called **Cardinal Numbers**. You can supply any amount of number words
 here and they follow the rules shown above to generate their value or amount.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-  <TabItem value="latin" label="Latin" default>
-    %%düi@düi%% %%viyën@viyën%% %%son@son%% %%hövezi@hövezi%% "two hundred and three cows"
-  </TabItem>
-  <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-    %%ʌʄɽɟ@düi%% %%ɤɟɀ̃ʇ@viyën%% %%ɐ̃@son%% %%ɂıɤɿⱴɟ@hövezi%% "two hundred and three cows"
-  </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>düi viyën son hövezi "two hundred and three cows"</p>
+</HisyeoTabs>
 
-If you specify only the number 1 (%%kut@kut%%), it acts like the indefinite
+If you specify only the number 1 (kut), it acts like the indefinite
 article ("a/an" in English) but this is usually omitted.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-  <TabItem value="latin" label="Latin" default>
-    %%kut@kut%% %%ënpokon@ënpokon%% "one burp" or "a burp"
-  </TabItem>
-  <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-    %%ɔ̆ʃ@kut%% %%ɽ̃ʇʋɔ̃@ënpokon%% "one burp" or "a burp"
-  </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>kut ënpokon "one burp" or "a burp"</p>
+</HisyeoTabs>
 
 The language allows you to omit any sense of plurality and this frees you from
 having to worry about how to properly pluralize words. In many languages, the
@@ -189,25 +195,20 @@ modifier position), it indicates which specific value in a list of values, also
 known as the *placement*. These are called **Ordinal Numbers**.
 
 | English    | Hisyëö     | ɂ́ɟɀʇɽı  |
-| :--------- | :--------- | ------- |
-| Zeroth     | xünyu      | ɋ̃ʄɀʃ    |
-| First      | kut        | ɔ̆ʃ      |
-| Second     | düi        | ʌʄɽɟ    |
-| Twelfth    | pole       | ʋʓɿ     |
-| Eighteenth | dus tukwos | ʌ́ʃ c̑ʃʒ́  |
-| Twentieth  | düi dus    | ʌʄɽɟ ʌ́ʃ |
+| :--------- | :----------------------------------------------- | ----------------------------------------------- |
+| Zeroth     | <HisyeoText kind='latin'>xünyu</HisyeoText>      | <HisyeoText kind='abugida'>xünyu</HisyeoText>    |
+| First      | <HisyeoText kind='latin'>kut</HisyeoText>        | <HisyeoText kind='abugida'>kut</HisyeoText>      |
+| Second     | <HisyeoText kind='latin'>düi</HisyeoText>        | <HisyeoText kind='abugida'>düi</HisyeoText>    |
+| Twelfth    | <HisyeoText kind='latin'>pole</HisyeoText>       | <HisyeoText kind='abugida'>pole</HisyeoText>     |
+| Eighteenth | <HisyeoText kind='latin'>dus tukwos</HisyeoText> | <HisyeoText kind='abugida'>dus tukwos</HisyeoText>  |
+| Twentieth  | <HisyeoText kind='latin'>düi dus</HisyeoText>    | <HisyeoText kind='abugida'>düi dus</HisyeoText> |
 
 Any series of numbers can be an ordinal as long as they appear on the right-hand
 side of a noun phrase.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-  <TabItem value="latin" label="Latin" default>
-    %%nıwos@nıwos%% %%nonkü@nonkü%% %%do@do%% %%hoi@hoi%% %%ximol@ximol%% "third house on the left"
-  </TabItem>
-  <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-    %%ƨȷʒ́@nıwos%% %%ƨ̃ɔʄ@nonkü%% %%ʌ@do%% %%ɂɽɟ@hoi%% %%ɋɟƶ͊@ximol%% "third house on the left"
-  </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>nıwos nonkü do hoi ximol "third house on the left"</p>
+</HisyeoTabs>
 
 As you'll see in the next section, this ordinal-on-the-right usage how we
 communicate dates and time as well.
@@ -225,65 +226,54 @@ The Hisyëö week days are, unlike the rest of the calendar, named after the mos
 prevalent color of the planets of our solar system as seen in true color
 photography of the planet. The start of the week was chosen as Monday to
 coincide with the near majority of the world agreement on this and it allows
-Saturday and Sunday to be the "Weekend" (%%könyëc/ɔ̃ıɀ̄ʇ@könyëc%%
-%%wëxön/ʒʇɋ̃ı@wëxön%%).
+Saturday and Sunday to be the "Weekend" (könyëc/ɔ̃ıɀ̄ʇ
+wëxön/ʒʇɋ̃ı).
 
-| Planet  | True Color Photo                                                                                                                                                                                                                                                                                                                                                                         | English   | Hisyëö                            | Abugida                        |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :-------------------------------- | :----------------------------- |
-| Mercury | ![Mercury in true color (by MESSENGER in 2008) - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/240px-Mercury_in_true_color.jpg)                                                                                                                                                                                                         | Monday    | %%lono@lono%% %%düsul@düsul%%     | %%ʓƨ@lono%% %%ʌʄɐ͊ʃ@düsul%%     |
-| Venus   | ![True colour image of Venus, as captured by MESSENGER - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_2_Approach_Image.jpg/234px-Venus_2_Approach_Image.jpg)                                                                                                                                                                                               | Tuesday   | %%lono@lono%% %%mihüon@mihüon%%   | %%ʓƨ@lono%% %%ƶɟɂʄɽ̃@mihüon%%   |
-| Earth   | ![The Blue Marble, Apollo 17, December 1972](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Blue_Marble_%28remastered%29.jpg/240px-The_Blue_Marble_%28remastered%29.jpg)                                                                                                                                                                                                  | Wednesday | %%lono@lono%% %%zöi@zöi%%         | %%ʓƨ@lono%% %%ⱴıɽɟ@zöi%%      |
-| Mars    | ![Mars, as captured by the Hope orbiter](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/240px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png)                                                                                                                                                                          | Thursday  | %%lono@lono%% %%cınöpu@cınöpu%%   | %%ʓƨ@lono%% %%ꞇȷƨıʋʃ@cınöpu%% |
-| Jupiter | ![This true-color simulated view of Jupiter is composed of 4 images taken by NASA's Cassini spacecraft on December 7, 2000 - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jupiter_in_true_color.jpg/248px-Jupiter_in_true_color.jpg)                                                                                                                             | Friday    | %%lono@lono%% %%zingu@zingu%%     | %%ʓƨ@lono%% %%ⱴ̃ɟꜿʃ@zingu%%   |
-| Saturn  | ![Original Caption Released with Image: NASA's Voyager 2 took this 'true color' photograph of Saturn on July 21, 1981, when the spacecraft was 33.9 million kilometers (21 million miles) from the planet. - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Saturn_With_Rhea_and_Dione_%28true_color%29.jpg/179px-Saturn_With_Rhea_and_Dione_%28true_color%29.jpg) | Saturday  | %%lono@lono%% %%onpulë@onpulë%%   | %%ʓƨ@lono%% %%ɽ̃ʋʃʓʇ@onpulë%%   |
-| Uranus  | ![This picture of Uranus in true color was compiled from images returned Jan. 17, 1986, by the narrow-angle camera of Voyager 2. - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uranus_true_colour.jpg/240px-Uranus_true_colour.jpg)                                                                                                                             | Sunday    | %%lono@lono%% %%xolxili@xolxili%% | %%ʓƨ@lono%% %%ɋ͊ɋɟʓɟ@xolxili%%  |
+| Planet  | True Color Photo                                                                                                                                                                                                                                                                                                                                                                         | English   | Hisyëö                                             | Abugida                                              |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- | :------------------------------------------------- | :--------------------------------------------------- |
+| Mercury | ![Mercury in true color (by MESSENGER in 2008) - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/240px-Mercury_in_true_color.jpg)                                                                                                                                                                                                         | Monday    | <HisyeoText kind='latin'>lono düsul</HisyeoText>   | <HisyeoText kind='abugida'>lono düsul</HisyeoText>   |
+| Venus   | ![True colour image of Venus, as captured by MESSENGER - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_2_Approach_Image.jpg/234px-Venus_2_Approach_Image.jpg)                                                                                                                                                                                               | Tuesday   | <HisyeoText kind='latin'>lono mihüon</HisyeoText>  | <HisyeoText kind='abugida'>lono mihüon</HisyeoText>  |
+| Earth   | ![The Blue Marble, Apollo 17, December 1972](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Blue_Marble_%28remastered%29.jpg/240px-The_Blue_Marble_%28remastered%29.jpg)                                                                                                                                                                                                  | Wednesday | <HisyeoText kind='latin'>lono zöi</HisyeoText>     | <HisyeoText kind='abugida'>lono zöi</HisyeoText>     |
+| Mars    | ![Mars, as captured by the Hope orbiter](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/240px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png)                                                                                                                                                                          | Thursday  | <HisyeoText kind='latin'>lono cınöpu</HisyeoText>  | <HisyeoText kind='abugida'>lono cınöpu</HisyeoText>  |
+| Jupiter | ![This true-color simulated view of Jupiter is composed of 4 images taken by NASA's Cassini spacecraft on December 7, 2000 - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jupiter_in_true_color.jpg/248px-Jupiter_in_true_color.jpg)                                                                                                                             | Friday    | <HisyeoText kind='latin'>lono zingu</HisyeoText>   | <HisyeoText kind='abugida'>lono zingu</HisyeoText>   |
+| Saturn  | ![Original Caption Released with Image: NASA's Voyager 2 took this 'true color' photograph of Saturn on July 21, 1981, when the spacecraft was 33.9 million kilometers (21 million miles) from the planet. - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Saturn_With_Rhea_and_Dione_%28true_color%29.jpg/179px-Saturn_With_Rhea_and_Dione_%28true_color%29.jpg) | Saturday  | <HisyeoText kind='latin'>lono onpulë</HisyeoText>  | <HisyeoText kind='abugida'>lono onpulë</HisyeoText>  |
+| Uranus  | ![This picture of Uranus in true color was compiled from images returned Jan. 17, 1986, by the narrow-angle camera of Voyager 2. - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uranus_true_colour.jpg/240px-Uranus_true_colour.jpg)                                                                                                                             | Sunday    | <HisyeoText kind='latin'>lono xolxili</HisyeoText> | <HisyeoText kind='abugida'>lono xolxili</HisyeoText> |
 
 In order to indicate a specific day use one of the demonstrative pronouns
-(%%övo/ɽıɤ@övo%%, %%ulyö/ɽ͊ʃɀı@ulyö%%, %%onö/ɽƨı@onö%%). Otherwise, a weekday
-(or really any use of %%lono@lono%%) is either one or many unspecified days. You
-can use a day as a condition in a %%win@win%% prepositional phrase:
+(övo/ɽıɤ, ulyö/ɽ͊ʃɀı, onö/ɽƨı). Otherwise, a weekday
+(or really any use of lono) is either one or many unspecified days. You
+can use a day as a condition in a win prepositional phrase:
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-  <TabItem value="latin" label="Latin" default>
-    <p>%%win@win%% %%xokön@xokön%% %%lono@lono%% %%xolxili@xolxili%%, %%lı@lı%% %%si@si%% %%lö@lö%% %%xopëk@xopëk%% %%müt@müt%% %%motüo@motüo%% %%sënzö@sënzö%%</p>
-    <em>"Every Sunday, we used to go to grandpa's</em>
-  </TabItem>
-  <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-    <p>%%ʒ̃ɟ@win%% %%ɋɔ̃ı@xokön%% %%ʓƨ@lono%% %%ɋ͊ɋɟʓɟ@xolxili%% %%ʓȷ@lı%% %%ɐɟ@si%% %%ʓı@lö%% %%ɋʋ̑ʇ@xopëk%% %%ƶ̆ʄ@müt%% %%ƶcʄɽ@motüo%% %%ɐ̃ʇⱴı@sënzö%%</p>
-    <em>"Every Sunday, we used to go to grandpa's</em>
-  </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>win xokön lono xolxili, lı si lö xopëk müt motüo sënzö</p>
+  <em>"Every Sunday, we used to go to grandpa's"</em>
+</HisyeoTabs>
 
 Asking what day of the week it is can be done by asking what color of day:
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%longı@longı%% %%zık@zık%% %%ü@ü%% %%lono@lono%% %%övo@övo%%? <em>What day is today?</em>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ʓ̃ꜿȷ@longı%% %%ⱴ̑ȷ@zık%% %%ɽʄ@ü%% %%ʓƨ@lono%% %%ɽıɤ@övo%%? <em>What day is today?</em>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>longı zık ü lono övo? "What day is today?"</p>
+</HisyeoTabs>
 
 ### Months of the Year
 
 The months of the year do not use such a system, instead they rely on the
 ordinal numbers that were shown above.
 
-| Month     | Hisyëö                          | Abugida                     |
-| :-------- | :------------------------------ | :-------------------------- |
-| January   | %%wuto@wuto%% %%kut@kut%%       | %%ʒʃc@wuto%% %%ɔ̆ʃ@kut%%     |
-| February  | %%wuto@wuto%% %%düi@düi%%       | %%ʒʃc@wuto%% %%ʌʄɽɟ@düi%%   |
-| March     | %%wuto@wuto%% %%son@son%%       | %%ʒʃc@wuto%% %%ɐ̃@son%%      |
-| April     | %%wuto@wuto%% %%nonkü@nonkü%%   | %%ʒʃc@wuto%% %%ƨ̃ɔʄ@nonkü%%  |
-| May       | %%wuto@wuto%% %%tiü@tiü%%   | %%ʒʃc@wuto%% %%cɟɽʄ@tiü%% |
-| June      | %%wuto@wuto%% %%toü@toü%%       | %%ʒʃc@wuto%% %%cɽʄ@toü%%    |
-| July      | %%wuto@wuto%% %%xëti@xëti%%     | %%ʒʃc@wuto%% %%ɋʇcɟ@xëti%%  |
-| August    | %%wuto@wuto%% %%tukwos@tukwos%% | %%ʒʃc@wuto%% %%c̑ʃʒ́@tukwos%% |
-| September | %%wuto@wuto%% %%tiso@tiso%%     | %%ʒʃc@wuto%% %%cɟɐ@tiso%%   |
-| October   | %%wuto@wuto%% %%dus@dus%%       | %%ʒʃc@wuto%% %%ʌ́ʃ@dus%%     |
-| November  | %%wuto@wuto%% %%önsu@önsu%%     | %%ʒʃc@wuto%% %%ɽ̃ıɐʃ@önsu%%  |
-| December  | %%wuto@wuto%% %%pole@pole%%     | %%ʒʃc@wuto%% %%ʋʓɿ@pole%%   |
+| Month     | Hisyëö                                            | Abugida                                             |
+| :-------- | :------------------------------------------------ | :-------------------------------------------------- |
+| January   | <HisyeoText kind='latin'>wuto kut</HisyeoText>    | <HisyeoText kind='abugida'>wuto kut</HisyeoText>    |
+| February  | <HisyeoText kind='latin'>wuto düi</HisyeoText>    | <HisyeoText kind='abugida'>wuto düi</HisyeoText>    |
+| March     | <HisyeoText kind='latin'>wuto son</HisyeoText>    | <HisyeoText kind='abugida'>wuto son</HisyeoText>    |
+| April     | <HisyeoText kind='latin'>wuto nonkü</HisyeoText>  | <HisyeoText kind='abugida'>wuto nonkü</HisyeoText>  |
+| May       | <HisyeoText kind='latin'>wuto tiü</HisyeoText>    | <HisyeoText kind='abugida'>wuto tiü</HisyeoText>    |
+| June      | <HisyeoText kind='latin'>wuto toü</HisyeoText>    | <HisyeoText kind='abugida'>wuto toü</HisyeoText>    |
+| July      | <HisyeoText kind='latin'>wuto xëti</HisyeoText>   | <HisyeoText kind='abugida'>wuto xëti</HisyeoText>   |
+| August    | <HisyeoText kind='latin'>wuto tukwos</HisyeoText> | <HisyeoText kind='abugida'>wuto tukwos</HisyeoText> |
+| September | <HisyeoText kind='latin'>wuto tiso</HisyeoText>   | <HisyeoText kind='abugida'>wuto tiso</HisyeoText>   |
+| October   | <HisyeoText kind='latin'>wuto dus</HisyeoText>    | <HisyeoText kind='abugida'>wuto dus</HisyeoText>    |
+| November  | <HisyeoText kind='latin'>wuto önsu</HisyeoText>   | <HisyeoText kind='abugida'>wuto önsu</HisyeoText>   |
+| December  | <HisyeoText kind='latin'>wuto pole</HisyeoText>   | <HisyeoText kind='abugida'>wuto pole</HisyeoText>   |
 
 To remember which months have 31, 30, and 28 days, try using this children's
 rhyme:
@@ -294,12 +284,14 @@ WIP Translation
 
 :::
 
-%%cö@cö%% %%son@son%% %%dus@dus%% %%lono@lono%% %%lı@lı%% %%yünyoü@yünyoü%% %%ü@ü%% %%wuto@wuto%% %%tiso@tiso%%,
-%%wuto@wuto%% %%nonkü@nonkü%%, %%wuto@wuto%% %%toü@toü%%, %%moliyü@moliyü%% %%wuto@wuto%% %%önsu@önsu%%,
-%%ü@ü%% %%möi@möi%% %%dizel@dizel%% %%lı@lı%% %%yünyoü@yünyoü%% %%cö@cö%% %%son@son%% %%dus@dus%% %%kut@kut%%,
-%%ü@ü%% %%yök@yök%% %%wuto@wuto%% %%düi@düi%% %%do@do%% %%hoi@hoi%% %%düi@düi%% %%dus@dus%% %%tukwos@tukwos%% %%lono@lono%%,
-%%lëkın@lëkın%% %%ü@ü%% %%üsën@üsën%% %%zoston@zoston%% %%hoi@hoi%% %%xokön@xokön%% %%nonkü@nonkü%%,
-%%cö@cö%% %%eswen@eswen%% %%kut@kut%% %%lono@lono%% %%lı@lı%% %%yünyoü@yünyoü%%
+<HisyeoTabs>
+  <p>cö son dus lono lı yünyoü ü wuto tiso,
+    wuto nonkü, wuto toü, moliyü wuto önsu,
+    ü möi dizel lı yünyoü cö son dus kut,
+    ü yök wuto düi do hoi düi dus tukwos lono,
+    lëkın ü üsën zoston hoi xokön nonkü,
+    cö eswen kut lono lı yünyoü</p>
+</HisyeoTabs>
 
 [Wikipedia](https://en.wikipedia.org/wiki/Thirty_Days_Hath_September)
 
@@ -308,86 +300,59 @@ WIP Translation
 The seasons were chosen to reflect what unique characteristic each season has. We've
 also got ways to describe the seasons in equatorial regions too.
 
-| Season      | Hisyëö                                                    | Abugida                                                |
-| :---------- | :-------------------------------------------------------- | :----------------------------------------------------- |
-| Spring      | %%yogö@yogö%% %%üsën@üsën%% %%niök@niök%%                 | %%ɀꜿı@yogö%% %%ɽʄɐ̃ʇ@üsën%% %%ƨɟɽ̑ı@niök%%              |
-| Summer      | %%yogö@yogö%% %%üsën@üsën%% %%tüt@tüt%%                   | %%ɀꜿı@yogö%% %%ɽʄɐ̃ʇ@üsën%% %%c̆ʄ@tüt%%                 |
-| Autumn/Fall | %%yogö@yogö%% %%üsën@üsën%% %%kon@kon%% %%kudüdo@kudüdo%% | %%ɀꜿı@yogö%% %%ɽʄɐ̃ʇ@üsën%% %%ɔ̃@kon%% %%ɔʃʌʄʌ@kudüdo%% |
-| Winter      | %%yogö@yogö%% %%üsën@üsën%% %%cunyü@cunyü%%               | %%ɀꜿı@yogö%% %%ɽʄɐ̃ʇ@üsën%% %%ꞇ̃ʃɀʄ@cunyü%%            |
-| Wet         | %%yogö@yogö%% %%üsën@üsën%% %%nupuso@nupuso%%             | %%ɀꜿı@yogö%% %%ɽʄɐ̃ʇ@üsën%% %%ƨʃʋʃɐ@nupuso%%           |
-| Dry         | %%yogö@yogö%% %%üsën@üsën%% %%ülgükin@ülgükin%%           | %%ɀꜿı@yogö%% %%ɽʄɐ̃ʇ@üsën%% %%ɽ͊ʄꜿʄɔ̃ɟ@ülgükin%%        |
+| Season      | Hisyëö                                        | Abugida                                       |
+| :---------- | :---------------------------------------------| :---------------------------------------------|
+| Spring      | <HisyeoText kind='latin'>yogö üsën niök</HisyeoText>       | <HisyeoText kind='abugida'>yogö üsën niök</HisyeoText>       |
+| Summer      | <HisyeoText kind='latin'>yogö üsën tüt</HisyeoText>        | <HisyeoText kind='abugida'>yogö üsën tüt</HisyeoText>        |
+| Autumn/Fall | <HisyeoText kind='latin'>yogö üsën kon kudüdo</HisyeoText> | <HisyeoText kind='abugida'>yogö üsën kon kudüdo</HisyeoText> |
+| Winter      | <HisyeoText kind='latin'>yogö üsën cunyü</HisyeoText>      | <HisyeoText kind='abugida'>yogö üsën cunyü</HisyeoText>      |
+| Wet         | <HisyeoText kind='latin'>yogö üsën nupuso</HisyeoText>     | <HisyeoText kind='abugida'>yogö üsën nupuso</HisyeoText>     |
+| Dry         | <HisyeoText kind='latin'>yogö üsën ülgükin</HisyeoText>    | <HisyeoText kind='abugida'>yogö üsën ülgükin</HisyeoText>    |
 
 To say something is "in the summer" or similar, supply one of these as the
-object of a %%hoi@hoi%% preposition.
+object of a hoi preposition.
 
 ### Exact Dates
 
 Specifying an exact date involves using ordinals for the day, the week day
 terms, and ordinals for the months.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-  <TabItem value="latin" label="Latin" default>
-    <p>%%lono@lono%% %%kut@kut%% %%yë@yë%% %%wuto@wuto%% %%son@son%% %%ü@ü%% %%lono@lono%% %%övo@övo%% <em>"Today is the March 1st"</em></p>
-    <p>%%lono@lono%% %%lözic@lözic%% %%loı@loı%% %%ü@ü%% %%lono@lono%% %%mihüon@mihüon%% %%yë@yë%% %%lono@lono%% %%zıyön@zıyön%% %%yë@yë%% %%wuto@wuto%% %%tiü@tiü%% <em>"His birthday is Tuesday, May 14th"</em></p>
-  </TabItem>
-  <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-    <p>%%ʓƨ@lono%% %%ɔ̆ʃ@kut%% %%ɀʇ@yë%% %%ʒʃc@wuto%% %%ɐ̃@son%% %%ɽʄ@ü%% %%ʓƨ@lono%% %%ɽıɤ@övo%% <em>"Today is the March 1st"</em></p>
-    <p>%%ʓƨ@lono%% %%ʓıⱴ̄ɟ@lözic%% %%ʓɽȷ@loı%% %%ɽʄ@ü%% %%ʓƨ@lono%% %%ƶɟɂʄɽ̃@mihüon%% %%ɀʇ@yë%% %%ʓƨ@lono%% %%ⱴȷɀ̃ı@zıyön%% %%ɀʇ@yë%% %%ʒʃc@wuto%% %%cɟɽʄ@tiü%% <em>"His birthday is Tuesday, May 14th"</em></p>
-  </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>lono kut yë wuto son ü lono övo <em>"Today is the March 1st"</em></p>
+  <p>lono lözic loı ü lono mihüon yë lono zıyön yë wuto tiü <em>"His birthday is Tuesday, May 14th"</em></p>
+</HisyeoTabs>
 
 ### Saying Years
 
 Years are said like two segments of 2 numbers. For example, 1931 is "19" and
 "31"; 384 is "3" and "84". If the most significant segment is under 10, you can
-use %%xünyu@xünyu%% preceding the final year digit. If you are referring to a
+use xünyu preceding the final year digit. If you are referring to a
 recent date, you can often just mention the final segment.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%dus@dus%% %%tiso@tiso%% %%xëti@xëti%% %%dus@dus%% %%xëti@xëti%% <em>1977</em></p>
-        <p>%%son@son%% %%xünyu@xünyu%% %%son@son%% <em>303</em></p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ʌ́ʃ@dus%% %%cɟɐ@tiso%% %%ɋʇcɟ@xëti%% %%ʌ́ʃ@dus%% %%ɋʇcɟ@xëti%% <em>1977</em></p>
-        <p>%%ɐ̃@son%% %%ɋ̃ʄɀʃ@xünyu%% %%ɐ̃@son%% <em>303</em></p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>dus tiso xëti dus xëti <em>1977</em></p>
+  <p>son xünyu son <em>303</em></p>
+</HisyeoTabs>
       
-To say dates in "BC" or "BCE", use the phrase %%yë@yë%% %%ılık@ılık%% %%zızıme@zızıme%% %%sodolun@sodolun%%.
+To say dates in "BC" or "BCE", use the phrase yë ılık zızıme sodolun.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%köson@köson%% %%kut@kut%% %%cö@cö%% %%sınsi@sınsi%% Lömo %%hoi@hoi%%
-        %%xëti@xëti%% %%tiü@tiü%% %%dus@dus%% %%son@son%% %%yë@yë%%
-        %%ılık@ılık%% %%zızıme@zızıme%% %%sodolun@sodolun%%. <em>Rome was built in 753 BCE.</em>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ɔıɐ̃@köson%% %%ɔ̆ʃ@kut%% %%ꞇı@cö%% %%ɐ̃ȷɐɟ@sınsi%% ‹ʓıƶ› %%ɂɽɟ@hoi%%
-        %%ɋʇcɟ@xëti%% %%cɟɽʄ@tiü%% %%ʌ́ʃ@dus%% %%ɐ̃@son%% %%ɀʇ@yë%%
-        %%ɽȷʓ̑ȷ@ılık%% %%ⱴȷⱴȷƶɿ@zızıme%% %%ɐʌʓ̃ʃ@sodolun%%: <em>Rome was built in 753 BCE.</em>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>köson kut cö sınsi Lömo hoi
+     xëti tiü dus son yë
+     ılık zızıme sodolun. <em>Rome was built in 753 BCE.</em></p>
+</HisyeoTabs>
 
 When you are setting up a date or appointment, often times you want to provide which weekday
 in addition to the date.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%hoi@hoi%% %%lono@lono%% %%zingu@zingu%% %%yë@yë%% %%lono@lono%%
-        %%kinsë@kinsë%% %%yë@yë%% %%wuto@wuto%% %%son@son%% %%lı@lı%%
-        %%cok@cok%% %%ü@ü%% %%noyo@noyo%% %%müt@müt%% %%nıwos@nıwos%%.
-        <em>Friday, the 15th of March, I am departing for home.</em>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ɂɽɟ@hoi%% %%ʓƨ@lono%% %%ⱴ̃ɟꜿʃ@zingu%% %%ɀʇ@yë%% %%ʓƨ@lono%%
-        %%ɔ̃ɟɐʇ@kinsë%% %%ɀʇ@yë%% %%ʒʃc@wuto%% %%ɐ̃@son%% %%ʓȷ@lı%% %%ꞇ̑@cok%%
-        %%ɽʄ@ü%% %%ƨɀ@noyo%% %%ƶ̆ʄ@müt%% %%ƨȷʒ́@nıwos%%: <em>Friday, the 15th of
-        March, I am departing for home.</em>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>hoi lono zingu yë lono
+     kinsë yë wuto son lı
+     cok ü noyo müt nıwos.
+     <em>Friday, the 15th of March, I am departing for home.</em></p>
+</HisyeoTabs>
 
-Each segment of the date is isolated by the %%yë@yë%% genitive particle.
+Each segment of the date is isolated by the yë genitive particle.
 
 :::info Conversation Practice
 
@@ -395,48 +360,48 @@ Each segment of the date is isolated by the %%yë@yë%% genitive particle.
     <TabItem value="latin" label="Latin" default>
       <dl>
         <dt>Malina</dt>
-        <dd>%%noi@noi%% Lovoiyel, %%yünyoü@yünyoü%% %%ü@ü%% %%nimü@nimü%% %%cö@cö%% %%mikdol@mikdol%% %%zık@zık%% %%yë@yë%% %%sıskın@sıskın%%?</dd>
+        <dd><HisyeoText kind='latin'>noi Lovoiyel, yünyoü ü nimü cö mikdol zık yë sıskın?</HisyeoText></dd>
         <dd><em>Raphael, how many siblings do you have?</em></dd>
         <dt>Lovoiyel</dt>
-        <dd>%%yünyoü@yünyoü%% %%ü@ü%% %%%%noyo@noyo%% %%cö@cö%% %%düi@düi%% %%sıskın@sıskın%% %%moskül@moskül%% %%cö@cö%% %%kut@kut%% %%sıskın@sıskın%% %%wohi@wohi%%.</dd>
+        <dd><HisyeoText kind='latin'>yünyoü ü %%noyo cö düi sıskın moskül cö kut sıskın wohi.</HisyeoText></dd>
         <dd><em>I have two brothers and one sister.</em></dd>
         <dt>Malina</dt>
-        <dd>%%nokdo@nokdo%% %%zık@zık%% %%ü@ü%% %%loı@loı%%?</dd>
+        <dd><HisyeoText kind='latin'>nokdo zık ü loı?</HisyeoText></dd>
         <dd><em>How old are they?</em></dd>
         <dt>Lovoiyel</dt>
-        <dd>%%önsu@önsu%% %%üsën@üsën%% %%ü@ü%% %%nokdo@nokdo%% %%yë@yë%% %%sıskın@sıskın%% %%wohi@wohi%% %%noyo@noyo%% Somonvo.</dd>
+        <dd><HisyeoText kind='latin'>önsu üsën ü nokdo yë sıskın wohi noyo Somonvo.</HisyeoText></dd>
         <dd><em>My sister Samantha is 11 years old.</em></dd>
-        <dd>%%zıyön@zıyön%% %%üsën@üsën%% %%moliyü@moliyü%% %%düi@düi%% %%dus@dus%% %%kut@kut%% %%üsën@üsën%% %%ü@ü%% %%nokdo@nokdo%% %%yë@yë%% %%sıskın@sıskın%% %%%%moskül@moskül%%%% %%noyo@noyo%%.</dd>
+        <dd><HisyeoText kind='latin'>zıyön üsën moliyü düi dus kut üsën ü nokdo yë sıskın %%moskül %%noyo.</HisyeoText></dd>
         <dd><em>My brother's ages are 14 and 21.</em></dd>
         <dt>Malina</dt>
-        <dd>%%moliyü@moliyü%% %%lono@lono%% %%zık@zık%% %%ü@ü%% %%lono@lono%% %%lözic@lözic%% %%nimü@nimü%%?</dd>
+        <dd><HisyeoText kind='latin'>moliyü lono zık ü lono lözic nimü?</HisyeoText></dd>
         <dd><em>And when is your birthday?</em></dd>
         <dt>Lovoiyel</dt>
-        <dd>%%lono@lono%% %%düi@düi%% %%dus@dus%% %%tiso@tiso%% %%yë@yë%% %%wuto@wuto%% %%toü@toü%%.</dd>
+        <dd><HisyeoText kind='latin'>lono düi dus tiso yë wuto toü.</HisyeoText></dd>
         <dd><em>June 29th</em></dd>
       </dl>
     </TabItem>
     <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
       <dl>
         <dt>Malina</dt>
-        <dd>%%ƨɽɟ@noi%% ‹ʓɤɽɟɀ͊ɿ›, %%ɀ̃ʄɀʃɽʄ@yünyoü%% %%ɽʄ@ü%% %%ƨɟƶʄ@nimü%% %%ꞇı@cö%% %%ƶ̑ɟʌ͊@mikdol%% %%ⱴ̑ȷ@zık%% %%ɀʇ@yë%% %%ɐ́ȷɔ̃ȷ@sıskın%%?</dd>
+        <dd><HisyeoText kind='abugida'>noi Lovoiyel, yünyoü ü nimü cö mikdol zık yë sıskın?</HisyeoText></dd>
         <dd><em>Raphael, how many siblings do you have?</em></dd>
         <dt>Lovoiyel</dt>
-        <dd>%%ɀ̃ʄɀʃɽʄ@yünyoü%% %%ɽʄ@ü%% %%ƨɀ@noyo%% %%ꞇı@cö%% %%ʌʄɽɟ@düi%% %%ɐ́ȷɔ̃ȷ@sıskın%% %%ƶ́ɔ͊ʄ@moskül%% %%ꞇı@cö%% %%ɔ̆ʃ@kut%% %%ɐ́ȷɔ̃ȷ@sıskın%% %%ʒɂɟ@wohi%%.</dd>
+        <dd><HisyeoText kind='abugida'>yünyoü ü %%noyo cö düi sıskın moskül cö kut sıskın wohi.</HisyeoText></dd>
         <dd><em>I have two brothers and one sister.</em></dd>
         <dt>Malina</dt>
-        <dd>%%ƨ̑ʌ@nokdo%% %%ⱴ̑ȷ@zık%% %%ɽʄ@ü%% %%ʓɽȷ@loı%%?</dd>
+        <dd><HisyeoText kind='abugida'>nokdo zık ü loı?</HisyeoText></dd>
         <dd><em>How old are they?</em></dd>
         <dt>Lovoiyel</dt>
-        <dd>%%ɽ̃ıɐʃ@önsu%% %%ɽʄɐ̃ʇ@üsën%% %%ɽʄ@ü%% %%ƨ̑ʌ@nokdo%% %%ɀʇ@yë%% %%ɐ́ȷɔ̃ȷ@sıskın%% %%ʒɂɟ@wohi%% %%ƨɀ@noyo%% ‹ɐƶ̃ɤ›.</dd>
+        <dd><HisyeoText kind='abugida'>önsu üsën ü nokdo yë sıskın wohi noyo Somonvo.</HisyeoText></dd>
         <dd><em>My sister Samantha is 11 years old.</em></dd>
-        <dd>%%ⱴȷɀ̃ı@zıyön%% %%ɽʄɐ̃ʇ@üsën%% %%ƶʓɟɀʄ@moliyü%% %%ʌʄɽɟ@düi%% %%ʌ́ʃ@dus%% %%ɔ̆ʃ@kut%% %%ɽʄɐ̃ʇ@üsën%% %%ɽʄ@ü%% %%ƨ̑ʌ@nokdo%% %%ɀʇ@yë%% %%ɐ́ȷɔ̃ȷ@sıskın%% %%ƶ́ɔ͊ʄ@moskül%% %%ƨɀ@noyo%%.</dd>
+        <dd><HisyeoText kind='abugida'>zıyön üsën moliyü düi dus kut üsën ü nokdo yë sıskın %%moskül %%noyo.</HisyeoText></dd>
         <dd><em>My brother's ages are 14 and 21.</em></dd>
         <dt>Malina</dt>
-        <dd>%%ƶʓɟɀʄ@moliyü%% %%ʓƨ@lono%% %%ⱴ̑ȷ@zık%% %%ɽʄ@ü%% %%ʓƨ@lono%% %%ʓıⱴ̄ɟ@lözic%% %%ƨɟƶʄ@nimü%%?</dd>
+        <dd><HisyeoText kind='abugida'>moliyü lono zık ü lono lözic nimü?</HisyeoText></dd>
         <dd><em>And when is your birthday?</em></dd>
         <dt>Lovoiyel</dt>
-        <dd>%%ʓƨ@lono%% %%ʌʄɽɟ@düi%% %%ʌ́ʃ@dus%% %%cɟɐ@tiso%% %%ɀʇ@yë%% %%ʒʃc@wuto%% %%cɽʄ@toü%%.</dd>
+        <dd><HisyeoText kind='abugida'>lono düi dus tiso yë wuto toü.</HisyeoText></dd>
         <dd><em>June 29th</em></dd>
       </dl>
     </TabItem>
@@ -452,16 +417,10 @@ count to 60, then you can talk about minutes and seconds.
 To ask the time, you use the copula with a null subject. The complement uses the
 interrogative pronoun, so there is no need for a sentence ender.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%woküt@woküt%% %%zık@zık%% "What time is it?"</p>
-        <p>%%suhot@suhot%% %%zık@zık%% "What hour is it?"</p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ʒɔ̆ʄ@woküt%% %%ⱴ̑ȷ@zık%% "What time is it?"</p>
-        <p>%%ɐʃɂ̆@suhot%% %%ⱴ̑ȷ@zık%% "What hour is it?"</p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>woküt zık <em>"What time is it?"</em></p>
+  <p>suhot zık <em>"What hour is it?"</em></p>
+</HisyeoTabs>
 
 That's a complete sentence because the verb is actually a base noun being used
 as a verb which is interpreted as a [zero
@@ -473,77 +432,44 @@ sentence or from preceding sentences. In some cases, this ends up being "it" or
 "there" in English. In other cases, it ends up being the prior sentence's
 subject. Here's some examples of how to respond to these questions:
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%kut@kut%% "It is one"</p>
-        <p>%%suhot@suhot%% %%kut@kut%% "It is one o'clock"</p>
-        <p>%%suhot@suhot%% %%dus@dus%% "It is ten o'clock"</p>
-        <p>%%suhot@suhot%% %%pole@pole%% "It is twelve o'clock"</p>
-        <p>%%lono@lono%% %%mutyu@mutyu%% "It is noon"</p>
-        <p>%%pıtün@pıtün%% %%mutyu@mutyu%% "It is midnight"</p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ɔ̆ʃ@kut%% "It is one"</p>
-        <p>%%ɐʃɂ̆@suhot%% %%ɔ̆ʃ@kut%% "It is one o'clock"</p>
-        <p>%%ɐʃɂ̆@suhot%% %%ʌ́ʃ@dus%% "It is ten o'clock"</p>
-        <p>%%ɐʃɂ̆@suhot%% %%ʋʓɿ@pole%% "It is twelve o'clock"</p>
-        <p>%%ʓƨ@lono%% %%ƶ̆ʃɀʃ@mutyu%% "It is noon"</p>
-        <p>%%ʋȷc̃ʄ@pıtün%% %%ƶ̆ʃɀʃ@mutyu%% "It is midnight"</p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>kut <em>"It is one"</em></p>
+  <p>suhot kut <em>"It is one o'clock"</em></p>
+  <p>suhot dus <em>"It is ten o'clock"</em></p>
+  <p>suhot pole <em>"It is twelve o'clock"</em></p>
+  <p>lono mutyu <em>"It is noon"</em></p>
+  <p>pıtün mutyu <em>"It is midnight"</em></p>
+</HisyeoTabs>
 
 Hisyëö uses the 12-hour clock to reduce the need for multiple word ordinals to
 create times like "23:00". Often times, you can deduce which half of the day
 from context. If you need to use the equivalent of "a.m." or "p.m":
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%suhot@suhot%% %%tiso@tiso%% %%yë@yë%% %%ılık@ılık%% %%lono@lono%% %%mutyu@mutyu%% "9 o'clock before noon"</p>
-        <p>%%suhot@suhot%% %%tiü@tiü%% %%yë@yë%% %%cıhöü@cıhöü%% %%lono@lono%% %%mutyu@mutyu%% "9 o'clock after noon"</p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ɐʃɂ̆@suhot%% %%cɟɐ@tiso%% %%ɀʇ@yë%% %%ɽȷʓ̑ȷ@ılık%% %%ʓƨ@lono%% %%ƶ̆ʃɀʃ@mutyu%% "9 o'clock before noon"</p>
-        <p>%%ɐʃɂ̆@suhot%% %%cɟɽʄ@tiü%% %%ɀʇ@yë%% %%ꞇȷɂıɽʄ@cıhöü%% %%ʓƨ@lono%% %%ƶ̆ʃɀʃ@mutyu%% "9 o'clock after noon"</p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>suhot tiso yë ılık lono mutyu <em>"9 o'clock before noon"</em></p>
+  <p>suhot tiü yë cıhöü lono mutyu <em>"9 o'clock after noon"</em></p>
+</HisyeoTabs>
 
 For some specific times with importance, here's how to translate:
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%woküt@woküt%% %%kon@kon%% %%socok@socok%% %%lono@lono%% "morning time"</p>
-        <p>%%woküt@woküt%% %%yë@yë%% %%cöüvon@cöüvon%% %%kut@kut%% "breakfast time"</p>
-        <p>%%woküt@woküt%% %%yë@yë%% %%cöüvon@cöüvon%% %%mutyu@mutyu%% "lunch time"</p>
-        <p>%%woküt@woküt%% %%yë@yë%% %%cöüvon@cöüvon%% %%vëlcin@vëlcin%% "dinner time"</p>
-        <p>%%woküt@woküt%% %%yë@yë%% %%küon@küon%% %%nëös@nëös%% "dawn"</p>
-        <p>%%woküt@woküt%% %%yë@yë%% %%küon@küon%% %%könyëc@könyëc%% "dusk"</p>
-        <p>%%woküt@woküt%% %%kon@kon%% %%conzodo@conzodo%% "bedtime"</p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɔ̃@kon%% %%ɐꞇ̑@socok%% %%ʓƨ@lono%% "morning time"</p>
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɀʇ@yë%% %%ꞇıɽʄɤ̃@cöüvon%% %%ɔ̆ʃ@kut%% "breakfast time"</p>
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɀʇ@yë%% %%ꞇıɽʄɤ̃@cöüvon%% %%ƶ̆ʃɀʃ@mutyu%% "lunch time"</p>
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɀʇ@yë%% %%ꞇıɽʄɤ̃@cöüvon%% %%ɤ͊ʇꞇ̃ɟ@vëlcin%% "dinner time"</p>
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɀʇ@yë%% %%ɔʄɽ̃@küon%% %%ƨʇɽ́ı@nëös%% "dawn"</p>
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɀʇ@yë%% %%ɔʄɽ̃@küon%% %%ɔ̃ıɀ̄ʇ@könyëc%% "dusk"</p>
-        <p>%%ʒɔ̆ʄ@woküt%% %%ɔ̃@kon%% %%ꞇ̃ⱴʌ@conzodo%% "bedtime"</p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>woküt kon socok lono <em>"morning time"</em></p>
+  <p>woküt yë cöüvon kut <em>"breakfast time"</em></p>
+  <p>woküt yë cöüvon mutyu <em>"lunch time"</em></p>
+  <p>woküt yë cöüvon vëlcin <em>"dinner time"</em></p>
+  <p>woküt yë küon nëös <em>"dawn"</em></p>
+  <p>woküt yë küon könyëc <em>"dusk"</em></p>
+  <p>woküt kon conzodo <em>"bedtime"</em></p>
+</HisyeoTabs>
 
 Now you can say many things about the time of day or describe when things occur.
-In order to give any sentence a time that it occurred, we use the %%hoi@hoi%%
+In order to give any sentence a time that it occurred, we use the hoi
 preposition.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%könyëc@könyëc%% %%ü@ü%% %%woküt@woküt%% %%yë@yë%% %%cöüvon@cöüvon%%
-        %%kut@kut%% %%hoi@hoi%% %%tukwos@tukwos%% "Breakfast is ending at 8"
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ɔ̃ıɀ̄ʇ@könyëc%% %%ɽʄ@ü%% %%ʒɔ̆ʄ@woküt%% %%ɀʇ@yë%% %%ꞇıɽʄɤ̃@cöüvon%%
-        %%ɔ̆ʃ@kut%% %%ɂɽɟ@hoi%% %%c̑ʃʒ́@tukwos%% "Breakfast is ending at 8"
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>könyëc ü woküt yë cöüvon
+     kut hoi tukwos <em>"Breakfast is ending at 8"</em></p>
+</HisyeoTabs>
 
 ### Durations
 
@@ -551,16 +477,10 @@ If you need to say an amount of time rather than a point in time, you follow the
 normal approach for creating plurality: provide the number words in the
 determiner slot (left side of the head word).
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%yünyoü@yünyoü%% %%ü@ü%% %%nimü@nimü%% %%cö@cö%% %%son@son%% %%suhot@suhot%% "You have three hours"</p>
-        <p>%%puswen@puswen%% %%ü@ü%% %%tüu@tüu%% %%ulyö@ulyö%% %%cö@cö%% %%kut@kut%% %%suhot@suhot%% "That task needs an hour"</p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ɀ̃ʄɀɽʄ@yünyoü%% %%ɽʄ@ü%% %%ƨɟƶʄ@nimü%% %%ꞇı@cö%% %%ɐ̃@son%% %%ɐʃɂ̆@suhot%% "You have three hours"</p>
-        <p>%%ʋ́ʃʒ̃ɿ@puswen%% %%ɽʄ@ü%% %%cʄɽʃ@tüu%% %%ɽ͊ʃɀı@ulyö%% %%ꞇı@cö%% %%ɔ̆ʃ@kut%% %%ɐʃɂ̆@suhot%% "That task needs an hour"</p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>yünyoü ü nimü cö son suhot <em>"You have three hours"</em></p>
+  <p>puswen ü tüu ulyö cö kut suhot <em>"That task needs an hour"</em></p>
+</HisyeoTabs>
 
 Most of the time when we are referring to time, we think of it as a specific
 location on the flow of time (hence why it shares the same preposition particle
@@ -568,64 +488,43 @@ as we use for denoting the location of an action). When you need to refer to
 a duration/length of time we use a different particle meant for distances and
 durations.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%si@si%% %%tüu@tüu%% %%ü@ü%% %%ni@ni%% %%lon@lon%% %%nonkü@nonkü%% %%suhot@suhot%% "We did that for four hours"
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ɐɟ@si%% %%cʄɽʃ@tüu%% %%ɽʄ@ü%% %%ƨɟ@ni%% %%ʓ̃@lon%% %%ƨ̃ɔʄ@nonkü%% %%ɐʃɂ̆@suhot%% "We did that for four hours"
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>si tüu ü ni lon nonkü suhot <em>"We did that for four hours"</em></p>
+</HisyeoTabs>
 
 ### Exact Times
 
 If you need to talk about specific times within an hour, there is a base
 modifier content word that does double duty as a time unit for minutes.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%gö@gö%% %%somö@somö%% %%lon@lon%% %%tiü@tiü%% %%ëvun@ëvun%% "It will only be 5 minutes"
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ꜿı@gö%% %%ɐƶı@somö%% %%ʓ̃@lon%% %%cɟɽʄ@tiü%% %%ɽʇɤ̃ʃ@ëvun%% "It will only be 5 minutes"
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>gö somö lon tiü ëvun <em>"It will only be 5 minutes"</em></p>
+</HisyeoTabs>
 
 ## Measurements
 
 To indicate a measurement of something, it helps to have a way to describe a
 "unit" of measurement. There is no exact word for this in Hisyëö, although
-%%mikdol/ƶ̑ɟʌ͊@mikdol%% and %%wilüwo/ʒɟʓʄʒ@wilüwo%% come close. The word "unit"
+mikdol/ƶ̑ɟʌ͊ and wilüwo/ʒɟʓʄʒ come close. The word "unit"
 means "singular entity" which we might think to reach for the number one
-(%%kut/ɔʃʌʄʌ@kut%%). To help add some clarity, let's use "trait" as
+(kut/ɔʃʌʄʌ). To help add some clarity, let's use "trait" as
 the head word to create our own state of "oneness". Instead of adding "entities"
 as true head word, let's just leave it as-is because this matches how the words
 that stand-in for "second" and "minute" work.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%gö@gö%% %%yë@yë%% %%di@di%% %%kut@kut%% %%yë@yë%% %%di@di%% %%volo@volo%% %%möi@möi%% %%et@et%% %%yë@yë%% %%zomi@zomi%% %%ü@ü%% %%hondon@hondon%%. <em>"The family is the basic unit of society."</em></p>
-        <p>%%ondo@ondo%% %%ü@ü%% %%küngiyo@küngiyo%% %%cö@cö%% %%do@do%% %%ëo@ëo%% %%vunlit@vunlit%% %%ölë@ölë%% %%cızi@cızi%% %%müt@müt%% %%düi@düi%% %%yodo@yodo%% %%son@son%% %%di@di%% %%kut@kut%%. <em>"The company plans to split into two or three units."</em></p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ꜿı@gö%% %%ɀʇ@yë%% %%ʌɟ@di%% %%ɔ̆ʃ@kut%% %%ɀʇ@yë%% %%ʌɟ@di%% %%ɤʓ@volo%% %%ƶıɽɟ@möi%% %%ɽ̆ɿ@et%% %%ɀʇ@yë%% %%ⱴƶɟ@zomi%% ü %%ɂ̃ʌ̃@hondon%%. <em>"The family is the basic unit of society."</em></p>
-        <p>%%ɽ̃ʌ@ondo%% %%ɽʄ@ü%% %%ɔ̃ʄꜿɟɀ@küngiyo%% %%ꞇı@cö%% %%ʌ@do%% %%ɽʇɽ@ëo%% %%ɤ̃ʃʓ̆ɟ@vunlit%% %%ɽıʓʇ@ölë%% %%ꞇȷⱴɟ@cızi%% %%ƶ̆ʄ@müt%% %%ʌʄɽɟ@düi%% %%ɀʌ@yodo%% %%ɐ̃@son%% %%ʌɟ@di%% %%ɔ̆ʃ@kut%%. <em>"The company plans to split into two or three units."</em></p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>gö yë di kut yë di volo möi et yë zomi ü hondon. <em>"The family is the basic unit of society."</em></p>
+  <p>ondo ü küngiyo cö do ëo vunlit ölë cızi müt düi yodo son di kut. <em>"The company plans to split into two or three units."</em></p>
+</HisyeoTabs>
 
 Other than the time words, the rest of the measurement units are done by just
 referring to what kind of measurement the unit is for.
 
 ### Temperature
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        %%socok@socok%% %%ü@ü%% %%ximu@ximu%% %%cö@cö%% %%vıldonpun@vıldonpun%% %%lon@lon%% %%kut@kut%% %%viyën@viyën%% %%di@di%% %%kut@kut%% %%yë@yë%% %%tüt@tüt%%. <em>"Water boils at 100 degrees Celsius."</em>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        %%ɐꞇ̑@socok%% %%ɽʄ@ü%% %%ɋɟƶʃ@ximu%% %%ꞇı@cö%% %%ɤ͊ȷʌ̃ʋ̃ʃ@vıldonpun%% %%ʓ̃@lon%% %%ɔ̆ʃ@kut%% %%ɤɟɀ̃ʇ@viyën%% %%ʌɟ@di%% %%ɔ̆ʃ@kut%% %%ɀʇ@yë%% %%c̆ʄ@tüt%%. <em>"Water boils at 100 degrees Celsius."</em>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>socok ü ximu cö vıldonpun lon kut viyën di kut yë tüt. <em>"Water boils at 100 degrees Celsius."</em></p>
+</HisyeoTabs>
 
 Since "Celcius" and "Fahrenheit" are names, you can use these if needed. The
 proper spellings would be:
@@ -633,14 +532,14 @@ proper spellings would be:
 <Tabs groupId="popöun-kon-cukto" queryString>
     <TabItem value="latin" label="Latin" default>
         <ul>
-          <li>%%di@di%% %%kut@kut%% Volunhoıt</li>
-          <li>%%di@di%% %%kut@kut%% Selsius</li>
+          <li><HisyeoText kind='latin'>di kut Volunhoıt</HisyeoText></li>
+          <li><HisyeoText kind='latin'>di kut Selsius</HisyeoText></li>
         </ul>
     </TabItem>
     <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
         <ul>
-          <li>%%ʌɟ@di%% %%ɔ̆ʃ@kut%% ‹ɤʓ̃ʃɂɽ̆ȷ›</li>
-          <li>%%ʌɟ@di%% %%ɔ̆ʃ@kut%% ‹ɐ͊ɿɐɟɽ́ʃ›</li>
+          <li><HisyeoText kind='abugida'>di kut Volunhoıt</HisyeoText></li>
+          <li><HisyeoText kind='abugida'>di kut Selsius</HisyeoText></li>
         </ul>
     </TabItem>
 </Tabs>
@@ -648,22 +547,19 @@ proper spellings would be:
 ### Mass/Volume/Weight
 
 For mass, assume that measurements are in grams or pounds (depending on where
-you are in the world). Add %%cënpö/ꞇ̃ʇʋı@cënpö%% for kilograms or tons.
+you are in the world). Add cënpö/ꞇ̃ʇʋı for kilograms or tons.
 
 > It is widely recommended that adults consume 15-35 grams of fiber daily, although many Americans fall short.
 > 
 > —Casey Seiden, Verywell Health, 3 May 2024
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-      %%pësnëhot@pësnëhot%% %%nulto@nulto%% %%cö@cö%% %%vos@vos%% %%mokon@mokon%% %%ü@ü%% %%umo@umo%% %%dës@dës%% %%xonluk@xonluk%% %%gıtno@gıtno%% %%dus@dus%% %%tiü@tiü%% %%moliyü@moliyü%% %%son@son%% %%dus@dus%% %%tiü@tiü%% %%di@di%% %%kut@kut%% %%yë@yë%% %%küsowi@küsowi%% %%cö@cö%% %%zöhün@zöhün%% %%vünië@vünië%% %%dës@dës%% %%siüvo@siüvo%% %%hoi@hoi%% %%xokön@xokön%% %%lono@lono%% %%lëkın@lëkın%% %%püzök@püzök%% %%onö@onö%% %%ü@ü%% %%mikdol@mikdol%% %%yë@yë%% %%ëto@ëto%% %%umo@umo%% Umelıkın
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-      %%ʋ́ʇƨʇɂ̆@pësnëhot%% %%ƨ͊ʃc@nulto%% %%ꞇı@cö%% %%ɤ́@vos%% %%ƶɔ̃@mokon%% %%ɽʄ@ü%% %%ɽʃƶ@umo%% %%ʌ́ʇ@dës%% %%ɋ̃ʓ̑ʃ@xonluk%% %%ꜿ̆ȷƨ@gıtno%% %%ʌ́ʃ@dus%% %%cɟɽʄ@tiü%% %%ƶʓɟɀʄ@moliyü%% %%ɐ̃@son%% %%ʌ́ʃ@dus%% %%cɟɽʄ@tiü%% %%ʌɟ@di%% %%ɔ̆ʃ@kut%% %%ɀʇ@yë%% %%ɔʄɐʒɟ@küsowi%% %%ꞇı@cö%% %%ⱴıɂ̃ʄ@zöhün%% %%ɤʄƨɟɽʇ@vünië%% %%ʌ́ʇ@dës%% %%ɐɟɽʄɤ@siüvo%% %%ɂɽɟ@hoi%% %%ɋɔ̃ı@xokön%% %%ʓƨ@lono%%, %%ʓʇɔ̃ȷ@lëkın%% %%ʋʄⱴ̑ı@püzök%% %%ɽƨı@onö%% %%ɽʄ@ü%% %%ƶ̑ɟʌ͊@mikdol%% %%ɀʇ@yë%% %%ɽʇc@ëto%% %%ɽʃƶ@umo%% ‹ɽʃƶɿʓȷɔ̃ȷ›.
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+  <p>pësnëhot nulto cö vos mokon ü umo dës xonluk gıtno dus tiü moliyü son dus tiü di kut yë küsowi cö zöhün vünië dës siüvo hoi xokön lono lëkın püzök onö ü mikdol yë ëto umo Umelıkın</p>
+</HisyeoTabs>
 
 ### Length/Width/Height
 
 For mass, assume that measurements are in meters or feet (depending on where you
-are in the world). Add %%cënpö/ꞇ̃ʇʋı@cënpö%% for kilometers or miles.
+are in the world). Add cënpö/ꞇ̃ʇʋı for kilometers or miles.
+
+<HisyeoTooltip />

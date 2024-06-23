@@ -2,7 +2,7 @@ import csv from 'neat-csv';
 
 import {capitalize} from './helpers.mjs';
 
-const words = []
+const words = {}
 const snippets = {}
 const template = (w, i) => `---
 id: ${w['Hisyëö']}
@@ -47,17 +47,29 @@ await Promise.all(records.map(async (data, idx) => {
     try {
         process.stdout.write(`.`)
         await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data, idx))
-        snippets[`${data['Hisyëö']} latin`] = {
+        snippets[`${data['Hisyëö']}`] = {
             scope: "markdown,mdx",
             prefix: data['Hisyëö'],
-            body: `%%${data['Hisyëö']}@${data['Hisyëö']}%%`,
-            description: data['Meaning']
+            body: `${data['Hisyëö']}`,
+            description: data['Meaning'],
         }
-        snippets[`${data['Hisyëö']} onhukızgo`] = {
-            scope: "markdown,mdx",
-            prefix: data['Hisyëö'],
-            body: `%%${data['ɂ́ɟɀʇɽʃ']}@${data['Hisyëö']}%%`,
-            description: data['Meaning']
+        words[data["Hisyëö"]] = {
+            index: idx,
+            abugida: data["ɂ́ɟɀʇɽʃ"],
+            latin: data["Hisyëö"],
+            meaning: data["Meaning"],
+            verb: data["Verb"],
+            noun: data["Noun"],
+            modifier: data["Modifier"],
+            frequentative: data["Frequentative"],
+            type: data["Type"],
+            kokanu: data["Kokanu"],
+            origin: data["Origin"],
+            ipa: data["IPA"],
+            family: data["Family"],
+            group: data["Group"],
+            length: data["Length"],
+            rank: data["Rank"],
         }
     } catch (err) {
         console.error(err)
@@ -68,20 +80,14 @@ console.log('')
 
 console.log(`Outputting snippets file...`)
 try {
-    // console.log(snippets)
-    snippets["Latin Opügido Tabs"] = {
-        scope: "markdown,mdx",
-        prefix: "lot",
-        body: `<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        $1
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        $2
-    </TabItem>
-</Tabs>$0`
-    }
     await fs.outputFile(`./.vscode/words.code-snippets`, JSON.stringify(snippets, null, " "))
+} catch (err) {
+    console.error(err)
+}
+
+console.log(`Outputting static json file...`)
+try {
+    await fs.outputFile(`./static/words.json`, JSON.stringify(words, null, " "))
 } catch (err) {
     console.error(err)
 }
