@@ -13,13 +13,14 @@ square root of their world population of L1 speakers. Many people who would come
 to learn Hisyëö may have a small anchor of familiarity within the lexicon.
 Additionally, the grammar is considered an analytic isolating language like its
 forebears [Kokanu](https://www.kokanu.com/) and [Toki
-Pona](https://tokipona.org). The grammar is largely based on Kokanu's (which
-bears some resemblance to *its* forebear, Toki Pona) but a few things have been
-tweaked and a more complete particle system implemented. The grammar design is
-considered an *exception* to the neutrality principle in order to give enough
-leverage to the other guiding principles. That said, the grammar helps to make
-Hisyëö less ambiguous overall which supports the neutrality principle
-indirectly in some ways.
+Pona](https://tokipona.org). Analytic isolating languages like these remove the
+mutation of words by making grammatical syntax separate particle words. The
+grammar design is considered a *semi-exception* to the neutrality principle  due
+to the requirement that a language has a cohesive grammatical system with a set
+of standard conventions (and also partly due to the other pricniple of
+expressivity necessitated there being some additional grammar added). That said,
+the grammar helps to make Hisyëö less ambiguous overall which supports the
+neutrality principle indirectly in some respects.
 - **Succinctness**, words are kept to a minimum where possible but information
 density is strongly emphasized so that the language can still be used for
 translations of scientific and artistic media. This principle is not the same as
@@ -27,31 +28,42 @@ the more strict principle of *minimalism* in that it is meant to allow for
 including singular words from (1) concepts that appear in a multitude of
 conversations and (2) concepts that would need complex nested clauses that can
 otherwise derail a sentence from comprehension due to the added working memory
-to develop an understanding of the sentence.
+to develop an understanding of the sentence. Careful consideration is made that
+the semantic spaces that each individual word covers do not overlap other words
+although there will be times where you can build a similar concept by using
+compound phrases and this is okay and even useful for providing additional ways
+to clarify.
 - **Expressivity**, the language is designed to be highly expressive in its word
-and grammar choices. With around 800 words, there's a lot more ways to express
-feelings, emotions, objects, actions and anything else you can think of. The
-language has been tested against a multitude of translation media to confirm
-that no concept is too challenging or too verbose to express. Additionally, the
-grammar has been enhanced to allow for less ambiguous handling of tense, aspect,
-mood, causation, and volition.
+and grammar choices. With just over 800 words, there's a lot more ways to
+express feelings, emotions, objects, actions and anything else you can think of.
+Additionally, the grammar has been enhanced to allow for less ambiguous handling
+of tense, aspect, mood, causation, and volition. The language has been tested
+against a multitude of translation media to confirm that no concept is too
+challenging or too verbose to express.
 
 Some of these principles and the language features that you will learn may seem
-contrary to the practices of any self respecting
-[IAL](http://interlanguages.net). Hisyëö does not strictly follow the tradional
-principles. Too much effort within IAL development is spent on regularization
-and cherrypicking existing lexical and grammatical tactics of natural languages
-(while applying some first language bias regardless of the best intentions).
-Instead, Hisyëö pushes closer to an
+contrary to the practices of any self respecting [International Auxiliary
+Language](http://interlanguages.net). Hisyëö does not strictly follow the
+tradional principles. Too much effort within IAL development is spent on
+regularization and cherrypicking existing lexical and grammatical tactics of
+natural languages (while applying some first language bias regardless of the
+best intentions). Instead, Hisyëö pushes closer to an
 [artlang](https://en.wikipedia.org/wiki/Artistic_language) or a
 [loglang](https://loglangs.wiki/Portal) by focusing less on ease-of-learning and
-instead striving for a more complete linguistic system. In fact, the mission of
-an IAL to be a widely adopted secondary language for everyone, is both
-farfetched and even slightly dangerous--is purity of values enough to counteract
-the viral, or rather *colonial*, nature of practicing a language in the public
-or on the internet? Hisyëö accepts its place as a showpiece of absurdity by
-being both serious and artistic. We can only hope there's a place for it in the
-universe.
+instead striving for a more complete linguistic system.
+
+:::caution International Auxiliary Languages
+
+It is the belief of the Hisyëö creators that the mission of an IAL to be a
+widely adopted secondary language for everyone, is both farfetched and even
+slightly dangerous--is purity of values enough to counteract the viral, or
+rather *colonial*, nature of practicing a non-local language in the public or on
+the internet? Hisyëö accepts its place as a showpiece of absurdity by being both
+serious and artistic. It isn't designed with the intention of acquiring all
+world speakers but we hope that Hisyëö's cultural identity and ethos will draw
+the right people to carve out a small piece of universe for us.
+
+:::
 
 ## Where did Hisyëö come from?
 
@@ -78,7 +90,7 @@ write a few basic sentences.
 
 #### Vowels
 - o as in sl**o**t or f**a**ther
-- ö as in r**ou**pe or Camb**o**dia
+- ö as in r**o**pe or Camb**o**dia
 - e as in b**e**d or c**a**t
 - ë as in m**a**y or f**a**ce
 - ı as in c**i**ty or w**i**ll
