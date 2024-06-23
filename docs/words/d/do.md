@@ -2,7 +2,7 @@
 id: do
 slug: do
 title: DO
-sidebar_position: 435
+sidebar_position: 437
 hoverText: subjective relative clause particle § Particle
 ---
 

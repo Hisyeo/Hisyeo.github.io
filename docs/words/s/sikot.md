@@ -2,7 +2,7 @@
 id: sikot
 slug: sikot
 title: SİKOT
-sidebar_position: 378
+sidebar_position: 379
 hoverText: brush/comb/rake/broom § Noun
 ---
 

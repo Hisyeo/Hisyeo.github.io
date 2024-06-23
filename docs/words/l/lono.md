@@ -2,7 +2,7 @@
 id: lono
 slug: lono
 title: LONO
-sidebar_position: 750
+sidebar_position: 753
 hoverText: day § Noun
 ---
 

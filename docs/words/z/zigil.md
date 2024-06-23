@@ -2,7 +2,7 @@
 id: zigil
 slug: zigil
 title: ZİGİL
-sidebar_position: 495
+sidebar_position: 497
 hoverText: falling § Adjective
 ---
 

@@ -2,19 +2,19 @@
 id: müxi
 slug: müxi
 title: MÜXİ
-sidebar_position: 666
-hoverText: arthropod/bug § Noun
+sidebar_position: 669
+hoverText: insect § Noun
 ---
 
 ### müxi
 
-*arthropod/bug* **§** Noun
+*insect* **§** Noun
 
-**Verb**: to be a bug/insect/arthropod
+**Verb**: to be an insect
 
-**Noun**: bug/insect/arthropod
+**Noun**: an insect
 
-**Modifier**: bug/insect/arthropod-related
+**Modifier**: instect-like
 
 Japanese 虫 mushi /muɕi/
 

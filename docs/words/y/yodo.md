@@ -2,7 +2,7 @@
 id: yodo
 slug: yodo
 title: YODO
-sidebar_position: 794
+sidebar_position: 797
 hoverText: or § Conjunction
 ---
 

@@ -2,7 +2,7 @@
 id: nulto
 slug: nulto
 title: NULTO
-sidebar_position: 712
+sidebar_position: 715
 hoverText: wide § Adjective
 ---
 

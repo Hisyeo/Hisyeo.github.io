@@ -2,7 +2,7 @@
 id: wilüwo
 slug: wilüwo
 title: WİLÜWO
-sidebar_position: 738
+sidebar_position: 741
 hoverText: value/cost § Noun
 ---
 

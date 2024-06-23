@@ -2,7 +2,7 @@
 id: monodo
 slug: monodo
 title: MONODO
-sidebar_position: 627
+sidebar_position: 630
 hoverText: to meet (a meetee) § Verb
 ---
 

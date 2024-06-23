@@ -2,7 +2,7 @@
 id: venüo
 slug: venüo
 title: VENÜO
-sidebar_position: 590
+sidebar_position: 593
 hoverText: country/region § Noun
 ---
 

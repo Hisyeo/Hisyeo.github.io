@@ -2,7 +2,7 @@
 id: xulmındo
 slug: xulmındo
 title: XULMINDO
-sidebar_position: 429
+sidebar_position: 431
 hoverText: ashamed § Adjective
 ---
 

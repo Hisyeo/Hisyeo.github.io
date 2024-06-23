@@ -2,7 +2,7 @@
 id: mınyö
 slug: mınyö
 title: MINYÖ
-sidebar_position: 647
+sidebar_position: 650
 hoverText: worm § Noun
 ---
 

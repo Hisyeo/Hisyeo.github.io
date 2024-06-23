@@ -2,7 +2,7 @@
 id: zoük
 slug: zoük
 title: ZOÜK
-sidebar_position: 471
+sidebar_position: 473
 hoverText: far § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: zöhün
 slug: zöhün
 title: ZÖHÜN
-sidebar_position: 485
+sidebar_position: 487
 hoverText: nutrient § Noun
 ---
 

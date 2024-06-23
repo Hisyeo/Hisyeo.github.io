@@ -2,7 +2,7 @@
 id: pis
 slug: pis
 title: PİS
-sidebar_position: 551
+sidebar_position: 553
 hoverText: bad § Adjective
 ---
 

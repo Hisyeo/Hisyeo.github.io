@@ -2,7 +2,7 @@
 id: xidëtli
 slug: xidëtli
 title: XİDËTLİ
-sidebar_position: 423
+sidebar_position: 425
 hoverText: violent § Adjective
 ---
 

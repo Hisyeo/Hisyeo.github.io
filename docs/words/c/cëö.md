@@ -3,18 +3,18 @@ id: cëö
 slug: cëö
 title: CËÖ
 sidebar_position: 303
-hoverText: rank § Noun
+hoverText: rank/degree § Noun
 ---
 
 ### cëö
 
-*rank* **§** Noun
+*rank/degree* **§** Noun
 
-**Verb**: to be a rank
+**Verb**: to be a rank/degree
 
-**Noun**: rank
+**Noun**: rank/degree
 
-**Modifier**: rank-related
+**Modifier**: rank/degree-related
 
 Swahili cheo  [t͡ɕeo]
 

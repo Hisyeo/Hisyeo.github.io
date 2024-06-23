@@ -2,7 +2,7 @@
 id: poyok
 slug: poyok
 title: POYOK
-sidebar_position: 524
+sidebar_position: 526
 hoverText: recent § Adjective
 ---
 

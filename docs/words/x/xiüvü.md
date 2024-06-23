@@ -2,7 +2,7 @@
 id: xiüvü
 slug: xiüvü
 title: XİÜVÜ
-sidebar_position: 420
+sidebar_position: 422
 hoverText: to repair (the repaired) § Verb
 ---
 

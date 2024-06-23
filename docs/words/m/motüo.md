@@ -2,7 +2,7 @@
 id: motüo
 slug: motüo
 title: MOTÜO
-sidebar_position: 619
+sidebar_position: 622
 hoverText: parent § Noun
 ---
 

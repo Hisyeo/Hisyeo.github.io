@@ -2,7 +2,7 @@
 id: sëki
 slug: sëki
 title: SËKİ
-sidebar_position: 366
+sidebar_position: 367
 hoverText: genitalia § Noun
 ---
 

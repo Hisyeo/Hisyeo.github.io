@@ -2,7 +2,7 @@
 id: yovük
 slug: yovük
 title: YOVÜK
-sidebar_position: 796
+sidebar_position: 799
 hoverText: pillow § Noun
 ---
 

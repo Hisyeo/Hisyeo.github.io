@@ -2,7 +2,7 @@
 id: xincüon
 slug: xincüon
 title: XİNCÜON
-sidebar_position: 426
+sidebar_position: 428
 hoverText: shape/form § Noun
 ---
 

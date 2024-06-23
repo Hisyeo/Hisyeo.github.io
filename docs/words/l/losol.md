@@ -2,7 +2,7 @@
 id: losol
 slug: losol
 title: LOSOL
-sidebar_position: 746
+sidebar_position: 749
 hoverText: original § Adjective
 ---
 

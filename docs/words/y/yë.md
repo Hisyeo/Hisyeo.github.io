@@ -2,7 +2,7 @@
 id: yë
 slug: yë
 title: YË
-sidebar_position: 804
+sidebar_position: 807
 hoverText: of § Preposition
 ---
 

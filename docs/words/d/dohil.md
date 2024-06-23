@@ -2,7 +2,7 @@
 id: dohil
 slug: dohil
 title: DOHİL
-sidebar_position: 438
+sidebar_position: 440
 hoverText: shallow § Adjective
 ---
 

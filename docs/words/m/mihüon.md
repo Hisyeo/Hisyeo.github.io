@@ -2,7 +2,7 @@
 id: mihüon
 slug: mihüon
 title: MİHÜON
-sidebar_position: 650
+sidebar_position: 653
 hoverText: beige § Adjective
 ---
 
