@@ -2,7 +2,7 @@
 id: sünkon
 slug: sünkon
 title: SÜNKON
-sidebar_position: 394
+sidebar_position: 395
 hoverText: instantaneous § Adjective
 ---
 

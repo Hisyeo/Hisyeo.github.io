@@ -2,7 +2,7 @@
 id: sunyotni
 slug: sunyotni
 title: SUNYOTNİ
-sidebar_position: 388
+sidebar_position: 389
 hoverText: interested/amused § Adjective
 ---
 

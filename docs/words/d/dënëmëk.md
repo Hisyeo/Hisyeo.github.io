@@ -2,7 +2,7 @@
 id: dënëmëk
 slug: dënëmëk
 title: DËNËMËK
-sidebar_position: 452
+sidebar_position: 453
 hoverText: to try (a trial) § Verb
 ---
 

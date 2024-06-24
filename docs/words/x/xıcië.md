@@ -2,7 +2,7 @@
 id: xıcië
 slug: xıcië
 title: XICİË
-sidebar_position: 420
+sidebar_position: 421
 hoverText: detail § Noun
 ---
 

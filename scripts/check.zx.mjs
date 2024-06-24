@@ -23,9 +23,9 @@ const minPairs = {
     h:   ['ꞌ', 'k'],
     m:   ['n'],
     n:   ['m'],
-    'ꞌ': ['h', 'l'], // adding "l" for verb contractions
+    'ꞌ': ['h', 'w', 'l', 'y'], // adding "l" for verb contractions
     w:   ['ꞌ', 'v', 'l'],
-    l:   ['y', 'w'],
+    l:   ['ꞌ', 'y', 'w'],
     y:   ['ꞌ', 'l'],
     // Vowels
     o:   ['u'],           ö:   ['ü', 'u'],

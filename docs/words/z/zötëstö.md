@@ -2,7 +2,7 @@
 id: zötëstö
 slug: zötëstö
 title: ZÖTËSTÖ
-sidebar_position: 489
+sidebar_position: 490
 hoverText: sufficient/enough § Determiner
 ---
 

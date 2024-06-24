@@ -2,7 +2,7 @@
 id: somö
 slug: somö
 title: SOMÖ
-sidebar_position: 353
+sidebar_position: 354
 hoverText: only § Adjective
 ---
 

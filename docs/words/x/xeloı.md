@@ -2,7 +2,7 @@
 id: xeloı
 slug: xeloı
 title: XELOI
-sidebar_position: 416
+sidebar_position: 417
 hoverText: algae/moss § Noun
 ---
 

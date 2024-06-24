@@ -2,7 +2,7 @@
 id: vıkwun
 slug: vıkwun
 title: VIKWUN
-sidebar_position: 596
+sidebar_position: 597
 hoverText: bacteria/microbe § Noun
 ---
 

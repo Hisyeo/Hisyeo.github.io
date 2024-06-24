@@ -2,7 +2,7 @@
 id: xovö
 slug: xovö
 title: XOVÖ
-sidebar_position: 403
+sidebar_position: 404
 hoverText: guts § Noun
 ---
 

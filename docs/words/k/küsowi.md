@@ -2,7 +2,7 @@
 id: küsowi
 slug: küsowi
 title: KÜSOWİ
-sidebar_position: 205
+sidebar_position: 206
 hoverText: matter/material § Noun
 ---
 

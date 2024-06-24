@@ -1,12 +1,12 @@
 ---
-id: yügoi
-slug: yügoi
-title: YÜGOİ
-sidebar_position: 811
+id: kötiköl
+slug: kötiköl
+title: KÖTİKÖL
+sidebar_position: 164
 hoverText: hindering/detrimental § Adjective
 ---
 
-### yügoi
+### kötiköl
 
 *hindering/detrimental* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: hindering/detrimental § Adjective
 
 **Modifier**: hindering/detrimental
 
-Japanese 有害 yūgai [jɯ̟ᵝːɡa̠i]
+Bengali ক্ষতিকর khotikor [ˈkʰot̪ikɔɾ]
 
-*Japonic Language Family*
+*Indo-Iranian Language Family*

@@ -2,7 +2,7 @@
 id: lenko
 slug: lenko
 title: LENKO
-sidebar_position: 768
+sidebar_position: 769
 hoverText: arm § Noun
 ---
 

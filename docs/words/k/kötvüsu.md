@@ -2,7 +2,7 @@
 id: kötvüsu
 slug: kötvüsu
 title: KÖTVÜSU
-sidebar_position: 164
+sidebar_position: 165
 hoverText: cephalapod § Noun
 ---
 

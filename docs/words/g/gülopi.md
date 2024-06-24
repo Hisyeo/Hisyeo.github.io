@@ -2,7 +2,7 @@
 id: gülopi
 slug: gülopi
 title: GÜLOPİ
-sidebar_position: 250
+sidebar_position: 251
 hoverText: pink § Adjective
 ---
 

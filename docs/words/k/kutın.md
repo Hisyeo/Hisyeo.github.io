@@ -2,7 +2,7 @@
 id: kutın
 slug: kutın
 title: KUTIN
-sidebar_position: 198
+sidebar_position: 199
 hoverText: difficult § Adjective
 ---
 

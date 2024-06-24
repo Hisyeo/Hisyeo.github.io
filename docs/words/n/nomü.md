@@ -2,7 +2,7 @@
 id: nomü
 slug: nomü
 title: NOMÜ
-sidebar_position: 683
+sidebar_position: 684
 hoverText: tree § Noun
 ---
 

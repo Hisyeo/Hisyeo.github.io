@@ -2,7 +2,7 @@
 id: tikü
 slug: tikü
 title: TİKÜ
-sidebar_position: 274
+sidebar_position: 275
 hoverText: dead § Adjective
 ---
 

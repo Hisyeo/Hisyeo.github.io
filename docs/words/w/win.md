@@ -2,7 +2,7 @@
 id: win
 slug: win
 title: WİN
-sidebar_position: 739
+sidebar_position: 740
 hoverText: context marker (as for/given) § Preposition
 ---
 

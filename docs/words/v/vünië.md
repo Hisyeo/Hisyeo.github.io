@@ -2,7 +2,7 @@
 id: vünië
 slug: vünië
 title: VÜNİË
-sidebar_position: 619
+sidebar_position: 620
 hoverText: line § Noun
 ---
 

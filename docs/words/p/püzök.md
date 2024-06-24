@@ -2,7 +2,7 @@
 id: püzök
 slug: püzök
 title: PÜZÖK
-sidebar_position: 572
+sidebar_position: 573
 hoverText: lack § Determiner
 ---
 

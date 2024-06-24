@@ -2,7 +2,7 @@
 id: doho
 slug: doho
 title: DOHO
-sidebar_position: 439
+sidebar_position: 440
 hoverText: to sacrifice (an offering) § Verb
 ---
 

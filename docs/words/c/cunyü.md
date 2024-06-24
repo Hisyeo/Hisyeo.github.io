@@ -2,7 +2,7 @@
 id: cunyü
 slug: cunyü
 title: CUNYÜ
-sidebar_position: 329
+sidebar_position: 330
 hoverText: cold § Adjective
 ---
 

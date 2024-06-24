@@ -2,7 +2,7 @@
 id: tünci
 slug: tünci
 title: TÜNCİ
-sidebar_position: 285
+sidebar_position: 286
 hoverText: nonbinary/queer § Adjective
 ---
 
