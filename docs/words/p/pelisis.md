@@ -2,7 +2,7 @@
 id: pelisis
 slug: pelisis
 title: PELİSİS
-sidebar_position: 538
+sidebar_position: 540
 hoverText: unsure § Adjective
 ---
 

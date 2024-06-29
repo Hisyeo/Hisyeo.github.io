@@ -2,7 +2,7 @@
 id: cihun
 slug: cihun
 title: CİHUN
-sidebar_position: 318
+sidebar_position: 321
 hoverText: to pull/attract (the pulled/attracted) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: xisü
 slug: xisü
 title: XİSÜ
-sidebar_position: 425
+sidebar_position: 427
 hoverText: secular/profane/worldly § Adjective
 ---
 

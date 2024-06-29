@@ -2,7 +2,7 @@
 id: pinhün
 slug: pinhün
 title: PİNHÜN
-sidebar_position: 557
+sidebar_position: 559
 hoverText: magenta § Adjective
 ---
 

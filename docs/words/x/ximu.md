@@ -2,7 +2,7 @@
 id: ximu
 slug: ximu
 title: XİMU
-sidebar_position: 428
+sidebar_position: 430
 hoverText: water § Noun
 ---
 

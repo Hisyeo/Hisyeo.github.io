@@ -2,7 +2,7 @@
 id: dönüxın
 slug: dönüxın
 title: DÖNÜXIN
-sidebar_position: 449
+sidebar_position: 451
 hoverText: conversion § Noun
 ---
 

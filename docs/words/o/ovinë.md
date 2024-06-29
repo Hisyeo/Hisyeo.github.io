@@ -2,7 +2,7 @@
 id: ovinë
 slug: ovinë
 title: OVİNË
-sidebar_position: 17
+sidebar_position: 18
 hoverText: cultivated/refined § Adjective
 ---
 

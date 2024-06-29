@@ -2,7 +2,7 @@
 id: xëntil
 slug: xëntil
 title: XËNTİL
-sidebar_position: 420
+sidebar_position: 422
 hoverText: gentle/kind § Adjective
 ---
 

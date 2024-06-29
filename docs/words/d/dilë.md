@@ -2,7 +2,7 @@
 id: dilë
 slug: dilë
 title: DİLË
-sidebar_position: 460
+sidebar_position: 462
 hoverText: slow § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: et
 slug: et
 title: ET
-sidebar_position: 43
+sidebar_position: 44
 hoverText: collapser/amender particle § Particle
 ---
 

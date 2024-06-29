@@ -2,7 +2,7 @@
 id: hünsık
 slug: hünsık
 title: HÜNSIK
-sidebar_position: 143
+sidebar_position: 144
 hoverText: red § Adjective
 ---
 

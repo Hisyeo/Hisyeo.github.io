@@ -2,7 +2,7 @@
 id: dündon
 slug: dündon
 title: DÜNDON
-sidebar_position: 472
+sidebar_position: 474
 hoverText: correct § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: düngo
 slug: düngo
 title: DÜNGO
-sidebar_position: 471
+sidebar_position: 473
 hoverText: to pierce (the pierced) § Verb
 ---
 

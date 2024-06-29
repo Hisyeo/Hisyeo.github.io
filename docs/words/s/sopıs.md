@@ -2,7 +2,7 @@
 id: sopıs
 slug: sopıs
 title: SOPIS
-sidebar_position: 351
+sidebar_position: 354
 hoverText: to record (data/a recording) § Verb
 ---
 

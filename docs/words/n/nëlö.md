@@ -2,7 +2,7 @@
 id: nëlö
 slug: nëlö
 title: NËLÖ
-sidebar_position: 699
+sidebar_position: 702
 hoverText: black § Adjective
 ---
 

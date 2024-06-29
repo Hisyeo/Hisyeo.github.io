@@ -2,7 +2,7 @@
 id: düpono
 slug: düpono
 title: DÜPONO
-sidebar_position: 470
+sidebar_position: 472
 hoverText: to immerse (the immersed) § Verb
 ---
 

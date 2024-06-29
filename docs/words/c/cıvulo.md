@@ -2,7 +2,7 @@
 id: cıvulo
 slug: cıvulo
 title: CIVULO
-sidebar_position: 309
+sidebar_position: 312
 hoverText: dancing § Adjective
 ---
 

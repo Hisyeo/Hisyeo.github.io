@@ -2,7 +2,7 @@
 id: hülü
 slug: hülü
 title: HÜLÜ
-sidebar_position: 147
+sidebar_position: 148
 hoverText: grass § Noun
 ---
 

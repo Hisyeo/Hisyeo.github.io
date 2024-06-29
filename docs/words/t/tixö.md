@@ -2,7 +2,7 @@
 id: tixö
 slug: tixö
 title: TİXÖ
-sidebar_position: 278
+sidebar_position: 281
 hoverText: threat § Noun
 ---
 

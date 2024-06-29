@@ -2,7 +2,7 @@
 id: ëto
 slug: ëto
 title: ËTO
-sidebar_position: 49
+sidebar_position: 50
 hoverText: many § Determiner
 ---
 

@@ -2,7 +2,7 @@
 id: cündöl
 slug: cündöl
 title: CÜNDÖL
-sidebar_position: 338
+sidebar_position: 341
 hoverText: collision § Noun
 ---
 

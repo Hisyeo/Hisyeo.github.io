@@ -2,7 +2,7 @@
 id: igomo
 slug: igomo
 title: İGOMO
-sidebar_position: 62
+sidebar_position: 63
 hoverText: word/name § Noun
 ---
 

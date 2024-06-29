@@ -2,7 +2,7 @@
 id: sohoü
 slug: sohoü
 title: SOHOÜ
-sidebar_position: 343
+sidebar_position: 346
 hoverText: healthy § Adjective
 ---
 

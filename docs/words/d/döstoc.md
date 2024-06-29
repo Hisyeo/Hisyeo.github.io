@@ -2,7 +2,7 @@
 id: döstoc
 slug: döstoc
 title: DÖSTOC
-sidebar_position: 447
+sidebar_position: 449
 hoverText: to receive (the received) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: ılık
 slug: ılık
 title: ILIK
-sidebar_position: 61
+sidebar_position: 62
 hoverText: before § Determiner
 ---
 

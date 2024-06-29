@@ -2,7 +2,7 @@
 id: nıwos
 slug: nıwos
 title: NIWOS
-sidebar_position: 702
+sidebar_position: 705
 hoverText: to reside in (a residence) § Verb
 ---
 

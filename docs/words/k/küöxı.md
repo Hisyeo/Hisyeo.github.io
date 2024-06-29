@@ -2,7 +2,7 @@
 id: küöxı
 slug: küöxı
 title: KÜÖXI
-sidebar_position: 204
+sidebar_position: 205
 hoverText: fruit § Noun
 ---
 

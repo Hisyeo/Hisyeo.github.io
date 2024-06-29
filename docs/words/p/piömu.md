@@ -2,7 +2,7 @@
 id: piömu
 slug: piömu
 title: PİÖMU
-sidebar_position: 550
+sidebar_position: 552
 hoverText: biome § Noun
 ---
 

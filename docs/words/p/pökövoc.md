@@ -2,7 +2,7 @@
 id: pökövoc
 slug: pökövoc
 title: PÖKÖVOC
-sidebar_position: 528
+sidebar_position: 530
 hoverText: to block (the blocked) § Verb
 ---
 

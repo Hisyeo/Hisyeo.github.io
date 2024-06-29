@@ -2,7 +2,7 @@
 id: zomi
 slug: zomi
 title: ZOMİ
-sidebar_position: 479
+sidebar_position: 481
 hoverText: society/culture § Noun
 ---
 

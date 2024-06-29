@@ -2,7 +2,7 @@
 id: osyen
 slug: osyen
 title: OSYEN
-sidebar_position: 10
+sidebar_position: 11
 hoverText: ancient § Adjective
 ---
 

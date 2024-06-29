@@ -2,7 +2,7 @@
 id: cöt
 slug: cöt
 title: CÖT
-sidebar_position: 300
+sidebar_position: 303
 hoverText: thick § Adjective
 ---
 

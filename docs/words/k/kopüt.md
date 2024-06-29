@@ -2,7 +2,7 @@
 id: kopüt
 slug: kopüt
 title: KOPÜT
-sidebar_position: 151
+sidebar_position: 152
 hoverText: broken/dysfunctional § Adjective
 ---
 

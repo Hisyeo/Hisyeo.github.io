@@ -2,7 +2,7 @@
 id: xëpö
 slug: xëpö
 title: XËPÖ
-sidebar_position: 419
+sidebar_position: 421
 hoverText: yellow § Adjective
 ---
 

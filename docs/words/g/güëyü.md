@@ -2,7 +2,7 @@
 id: güëyü
 slug: güëyü
 title: GÜËYÜ
-sidebar_position: 243
+sidebar_position: 245
 hoverText: eye § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: culono
 slug: culono
 title: CULONO
-sidebar_position: 331
+sidebar_position: 334
 hoverText: to operate (a machine) § Verb
 ---
 

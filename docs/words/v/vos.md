@@ -2,7 +2,7 @@
 id: vos
 slug: vos
 title: VOS
-sidebar_position: 582
+sidebar_position: 584
 hoverText: free relative clause particle § Particle
 ---
 

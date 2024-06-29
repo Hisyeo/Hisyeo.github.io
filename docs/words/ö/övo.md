@@ -2,7 +2,7 @@
 id: övo
 slug: övo
 title: ÖVO
-sidebar_position: 37
+sidebar_position: 38
 hoverText: proximal demonstrative (this/here) § Pronoun
 ---
 

@@ -2,7 +2,7 @@
 id: zünlo
 slug: zünlo
 title: ZÜNLO
-sidebar_position: 510
+sidebar_position: 512
 hoverText: series/sentence § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: cëö
 slug: cëö
 title: CËÖ
-sidebar_position: 304
+sidebar_position: 307
 hoverText: rank/degree § Noun
 ---
 
