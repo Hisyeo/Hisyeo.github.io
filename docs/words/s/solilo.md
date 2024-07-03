@@ -2,7 +2,7 @@
 id: solilo
 slug: solilo
 title: SOLİLO
-sidebar_position: 361
+sidebar_position: 364
 hoverText: body § Noun
 ---
 

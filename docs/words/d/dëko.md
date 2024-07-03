@@ -2,7 +2,7 @@
 id: dëko
 slug: dëko
 title: DËKO
-sidebar_position: 452
+sidebar_position: 457
 hoverText: to see (a view) § Verb
 ---
 

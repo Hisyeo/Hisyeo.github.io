@@ -2,7 +2,7 @@
 id: niök
 slug: niök
 title: NİÖK
-sidebar_position: 708
+sidebar_position: 713
 hoverText: growing § Adjective
 ---
 

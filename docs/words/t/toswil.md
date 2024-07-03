@@ -2,7 +2,7 @@
 id: toswil
 slug: toswil
 title: TOSWİL
-sidebar_position: 259
+sidebar_position: 262
 hoverText: to draw (a picture) § Verb
 ---
 

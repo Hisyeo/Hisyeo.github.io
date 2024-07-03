@@ -2,7 +2,7 @@
 id: hüdol
 slug: hüdol
 title: HÜDOL
-sidebar_position: 142
+sidebar_position: 144
 hoverText: false § Adjective
 ---
 

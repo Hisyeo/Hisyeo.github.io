@@ -2,7 +2,7 @@
 id: ovek
 slug: ovek
 title: OVEK
-sidebar_position: 17
+sidebar_position: 19
 hoverText: collaborator marker (alongside/with) § Preposition
 ---
 

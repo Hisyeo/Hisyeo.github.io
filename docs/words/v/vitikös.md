@@ -2,7 +2,7 @@
 id: vitikös
 slug: vitikös
 title: VİTİKÖS
-sidebar_position: 607
+sidebar_position: 612
 hoverText: western § Adjective
 ---
 

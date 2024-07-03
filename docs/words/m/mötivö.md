@@ -2,7 +2,7 @@
 id: mötivö
 slug: mötivö
 title: MÖTİVÖ
-sidebar_position: 643
+sidebar_position: 648
 hoverText: reason § Noun
 ---
 

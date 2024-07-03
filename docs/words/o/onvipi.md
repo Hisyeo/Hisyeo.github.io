@@ -2,7 +2,7 @@
 id: onvipi
 slug: onvipi
 title: ONVİPİ
-sidebar_position: 27
+sidebar_position: 29
 hoverText: amphibian § Noun
 ---
 

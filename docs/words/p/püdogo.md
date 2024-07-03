@@ -2,7 +2,7 @@
 id: püdogo
 slug: püdogo
 title: PÜDOGO
-sidebar_position: 573
+sidebar_position: 578
 hoverText: bubble § Noun
 ---
 

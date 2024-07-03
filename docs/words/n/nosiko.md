@@ -2,7 +2,7 @@
 id: nosiko
 slug: nosiko
 title: NOSİKO
-sidebar_position: 684
+sidebar_position: 689
 hoverText: nose § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: küncien
 slug: küncien
 title: KÜNCİEN
-sidebar_position: 214
+sidebar_position: 216
 hoverText: room § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: nëxödi
 slug: nëxödi
 title: NËXÖDİ
-sidebar_position: 700
+sidebar_position: 705
 hoverText: ethnic § Adjective
 ---
 

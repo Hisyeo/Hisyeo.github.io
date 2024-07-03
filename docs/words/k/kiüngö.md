@@ -2,7 +2,7 @@
 id: kiüngö
 slug: kiüngö
 title: KİÜNGÖ
-sidebar_position: 188
+sidebar_position: 190
 hoverText: spice § Noun
 ---
 

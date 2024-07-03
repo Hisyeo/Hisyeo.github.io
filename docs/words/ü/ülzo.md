@@ -2,7 +2,7 @@
 id: ülzo
 slug: ülzo
 title: ÜLZO
-sidebar_position: 103
+sidebar_position: 105
 hoverText: energy/power § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: güvöxë
 slug: güvöxë
 title: GÜVÖXË
-sidebar_position: 248
+sidebar_position: 251
 hoverText: irony/sarcasm § Noun
 ---
 

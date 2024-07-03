@@ -2,7 +2,7 @@
 id: ostok
 slug: ostok
 title: OSTOK
-sidebar_position: 10
+sidebar_position: 11
 hoverText: sign/signal § Noun
 ---
 

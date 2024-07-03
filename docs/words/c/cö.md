@@ -2,7 +2,7 @@
 id: cö
 slug: cö
 title: CÖ
-sidebar_position: 301
+sidebar_position: 304
 hoverText: patient/theme marker § Preposition
 ---
 

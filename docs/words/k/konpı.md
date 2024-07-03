@@ -2,7 +2,7 @@
 id: konpı
 slug: konpı
 title: KONPI
-sidebar_position: 158
+sidebar_position: 160
 hoverText: hard § Adjective
 ---
 

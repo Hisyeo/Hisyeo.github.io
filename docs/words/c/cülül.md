@@ -2,7 +2,7 @@
 id: cülül
 slug: cülül
 title: CÜLÜL
-sidebar_position: 344
+sidebar_position: 347
 hoverText: coil § Noun
 ---
 

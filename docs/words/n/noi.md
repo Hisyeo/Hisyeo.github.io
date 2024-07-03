@@ -2,7 +2,7 @@
 id: noi
 slug: noi
 title: NOİ
-sidebar_position: 679
+sidebar_position: 684
 hoverText: vocative marker § Preposition
 ---
 

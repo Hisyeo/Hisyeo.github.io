@@ -2,7 +2,7 @@
 id: pökpün
 slug: pökpün
 title: PÖKPÜN
-sidebar_position: 531
+sidebar_position: 536
 hoverText: storm § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: hünsüon
 slug: hünsüon
 title: HÜNSÜON
-sidebar_position: 145
+sidebar_position: 147
 hoverText: partner § Noun
 ---
 

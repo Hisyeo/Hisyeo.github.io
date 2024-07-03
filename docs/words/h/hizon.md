@@ -2,7 +2,7 @@
 id: hizon
 slug: hizon
 title: HİZON
-sidebar_position: 134
+sidebar_position: 136
 hoverText: excited § Adjective
 ---
 

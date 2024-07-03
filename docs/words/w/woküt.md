@@ -2,7 +2,7 @@
 id: woküt
 slug: woküt
 title: WOKÜT
-sidebar_position: 722
+sidebar_position: 727
 hoverText: time § Noun
 ---
 

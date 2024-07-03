@@ -2,7 +2,7 @@
 id: pongösi
 slug: pongösi
 title: PONGÖSİ
-sidebar_position: 525
+sidebar_position: 530
 hoverText: endangered § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: lozidö
 slug: lozidö
 title: LOZİDÖ
-sidebar_position: 754
+sidebar_position: 759
 hoverText: heart § Noun
 ---
 

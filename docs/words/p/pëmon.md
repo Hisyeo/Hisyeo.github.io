@@ -2,7 +2,7 @@
 id: pëmon
 slug: pëmon
 title: PËMON
-sidebar_position: 544
+sidebar_position: 549
 hoverText: to agree to (a promise) § Verb
 ---
 

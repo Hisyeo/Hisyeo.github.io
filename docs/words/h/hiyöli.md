@@ -2,7 +2,7 @@
 id: hiyöli
 slug: hiyöli
 title: HİYÖLİ
-sidebar_position: 135
+sidebar_position: 137
 hoverText: weak § Adjective
 ---
 

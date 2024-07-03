@@ -2,7 +2,7 @@
 id: hüunhu
 slug: hüunhu
 title: HÜUNHU
-sidebar_position: 137
+sidebar_position: 139
 hoverText: mixed § Adjective
 ---
 

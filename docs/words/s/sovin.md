@@ -2,7 +2,7 @@
 id: sovin
 slug: sovin
 title: SOVİN
-sidebar_position: 356
+sidebar_position: 359
 hoverText: pure § Adjective
 ---
 

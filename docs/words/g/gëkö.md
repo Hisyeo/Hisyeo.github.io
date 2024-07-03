@@ -2,7 +2,7 @@
 id: gëkö
 slug: gëkö
 title: GËKÖ
-sidebar_position: 238
+sidebar_position: 241
 hoverText: soil/dirt § Noun
 ---
 

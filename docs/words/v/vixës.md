@@ -2,7 +2,7 @@
 id: vixës
 slug: vixës
 title: VİXËS
-sidebar_position: 609
+sidebar_position: 614
 hoverText: special/unique § Adjective
 ---
 

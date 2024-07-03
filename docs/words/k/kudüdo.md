@@ -2,7 +2,7 @@
 id: kudüdo
 slug: kudüdo
 title: KUDÜDO
-sidebar_position: 201
+sidebar_position: 203
 hoverText: to harvest (a harvest) § Verb
 ---
 

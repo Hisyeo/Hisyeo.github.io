@@ -2,7 +2,7 @@
 id: sünpidü
 slug: sünpidü
 title: SÜNPİDÜ
-sidebar_position: 399
+sidebar_position: 402
 hoverText: drone/buzz/hum § Noun
 ---
 

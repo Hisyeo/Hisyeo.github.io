@@ -2,7 +2,7 @@
 id: niecnı
 slug: niecnı
 title: NİECNI
-sidebar_position: 709
+sidebar_position: 714
 hoverText: vile § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: vilo
 slug: vilo
 title: VİLO
-sidebar_position: 612
+sidebar_position: 617
 hoverText: row § Noun
 ---
 

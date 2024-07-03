@@ -2,7 +2,7 @@
 id: hoi
 slug: hoi
 title: HOİ
-sidebar_position: 105
+sidebar_position: 107
 hoverText: location/time marker (at) § Preposition
 ---
 

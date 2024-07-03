@@ -2,7 +2,7 @@
 id: püldo
 slug: püldo
 title: PÜLDO
-sidebar_position: 580
+sidebar_position: 585
 hoverText: to untie (the untied) § Verb
 ---
 

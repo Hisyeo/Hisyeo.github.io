@@ -2,7 +2,7 @@
 id: xıngö
 slug: xıngö
 title: XINGÖ
-sidebar_position: 424
+sidebar_position: 427
 hoverText: neck/throat § Noun
 ---
 

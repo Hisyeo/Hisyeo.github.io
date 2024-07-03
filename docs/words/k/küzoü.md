@@ -2,7 +2,7 @@
 id: küzoü
 slug: küzoü
 title: KÜZOÜ
-sidebar_position: 209
+sidebar_position: 211
 hoverText: awesome § Adjective
 ---
 
@@ -10,11 +10,11 @@ hoverText: awesome § Adjective
 
 *awesome* **§** Adjective
 
-**Verb**: to be awesome
+**Verb**: to be awesome/amazing
 
-**Noun**: awe
+**Noun**: awe/amazingness
 
-**Modifier**: awesome
+**Modifier**: awesome/amazing
 
 Cebuano kuyaw ['kuː.d͡ʒaʊ̯]
 

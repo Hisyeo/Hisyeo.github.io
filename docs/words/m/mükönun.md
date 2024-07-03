@@ -2,7 +2,7 @@
 id: mükönun
 slug: mükönun
 title: MÜKÖNUN
-sidebar_position: 669
+sidebar_position: 674
 hoverText: triangle § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: gö
 slug: gö
 title: GÖ
-sidebar_position: 229
+sidebar_position: 232
 hoverText: existent § Adjective
 ---
 

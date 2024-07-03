@@ -2,7 +2,7 @@
 id: xokülü
 slug: xokülü
 title: XOKÜLÜ
-sidebar_position: 404
+sidebar_position: 407
 hoverText: to invite (an invitation) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: pösol
 slug: pösol
 title: PÖSOL
-sidebar_position: 533
+sidebar_position: 538
 hoverText: to form a pose (a position) § Verb
 ---
 

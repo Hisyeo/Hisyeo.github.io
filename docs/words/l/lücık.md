@@ -2,7 +2,7 @@
 id: lücık
 slug: lücık
 title: LÜCIK
-sidebar_position: 791
+sidebar_position: 795
 hoverText: slippery § Adjective
 ---
 

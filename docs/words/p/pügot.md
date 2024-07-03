@@ -2,7 +2,7 @@
 id: pügot
 slug: pügot
 title: PÜGOT
-sidebar_position: 570
+sidebar_position: 575
 hoverText: heavy § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: gemolen
 slug: gemolen
 title: GEMOLEN
-sidebar_position: 236
+sidebar_position: 239
 hoverText: milled/ground/crushed § Adjective
 ---
 

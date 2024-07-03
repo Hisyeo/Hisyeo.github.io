@@ -1,12 +1,12 @@
 ---
-id: üc
-slug: üc
-title: ÜC
-sidebar_position: 88
+id: oldıs
+slug: oldıs
+title: OLDIS
+sidebar_position: 32
 hoverText: evidence marker (or so) § Preposition
 ---
 
-### üc
+### oldıs
 
 *evidence marker (or so)* **§** Preposition
 
@@ -16,6 +16,6 @@ hoverText: evidence marker (or so) § Preposition
 
 **Modifier**: -
 
-Hungarian úgy [ˈuːɟ]
+Dutch aldus /ɑlˈdʏs/
 
-*Uralic Language Family*
+*Germanic Language Family*

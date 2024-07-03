@@ -2,7 +2,7 @@
 id: ocüo
 slug: ocüo
 title: OCÜO
-sidebar_position: 9
+sidebar_position: 10
 hoverText: skin § Noun
 ---
 

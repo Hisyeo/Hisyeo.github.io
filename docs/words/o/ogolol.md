@@ -2,7 +2,7 @@
 id: ogolol
 slug: ogolol
 title: OGOLOL
-sidebar_position: 7
+sidebar_position: 8
 hoverText: to grab/hold (a hold/load) § Verb
 ---
 

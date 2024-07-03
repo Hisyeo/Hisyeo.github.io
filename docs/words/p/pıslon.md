@@ -2,7 +2,7 @@
 id: pıslon
 slug: pıslon
 title: PISLON
-sidebar_position: 547
+sidebar_position: 552
 hoverText: thus far § Adjective
 ---
 

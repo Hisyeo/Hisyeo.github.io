@@ -2,7 +2,7 @@
 id: gölugi
 slug: gölugi
 title: GÖLUGİ
-sidebar_position: 233
+sidebar_position: 236
 hoverText: to imply (an implication) § Verb
 ---
 

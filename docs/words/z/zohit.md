@@ -2,7 +2,7 @@
 id: zohit
 slug: zohit
 title: ZOHİT
-sidebar_position: 477
+sidebar_position: 482
 hoverText: to sew (the sewn) § Verb
 ---
 

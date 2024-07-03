@@ -2,7 +2,7 @@
 id: mükno
 slug: mükno
 title: MÜKNO
-sidebar_position: 670
+sidebar_position: 675
 hoverText: mature/ripe § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: zicoü
 slug: zicoü
 title: ZİCOÜ
-sidebar_position: 501
+sidebar_position: 506
 hoverText: to train (a skill/ability) § Verb
 ---
 

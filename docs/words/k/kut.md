@@ -2,7 +2,7 @@
 id: kut
 slug: kut
 title: KUT
-sidebar_position: 199
+sidebar_position: 201
 hoverText: 01 one § Numeral
 ---
 

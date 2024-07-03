@@ -1,0 +1,21 @@
+---
+id: xixulko
+slug: xixulko
+title: XİXULKO
+sidebar_position: 432
+hoverText: pinecone § Noun
+---
+
+### xixulko
+
+*pinecone* **§** Noun
+
+**Verb**: to be a pinecone
+
+**Noun**: pinecone
+
+**Modifier**: pinecone-related
+
+Macedonian шишарка šišarka [ˈʃiʃarka]
+
+*Balto-Slavic Language Family*

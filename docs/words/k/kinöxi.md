@@ -2,7 +2,7 @@
 id: kinöxi
 slug: kinöxi
 title: KİNÖXİ
-sidebar_position: 194
+sidebar_position: 196
 hoverText: functional § Adjective
 ---
 

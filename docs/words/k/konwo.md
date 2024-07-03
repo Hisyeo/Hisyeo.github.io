@@ -2,7 +2,7 @@
 id: konwo
 slug: konwo
 title: KONWO
-sidebar_position: 159
+sidebar_position: 161
 hoverText: rhythm/beat § Adjective
 ---
 

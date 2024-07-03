@@ -2,7 +2,7 @@
 id: pölutë
 slug: pölutë
 title: PÖLUTË
-sidebar_position: 536
+sidebar_position: 541
 hoverText: foreign § Adjective
 ---
 

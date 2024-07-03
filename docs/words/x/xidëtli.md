@@ -2,19 +2,19 @@
 id: xidëtli
 slug: xidëtli
 title: XİDËTLİ
-sidebar_position: 428
-hoverText: violent § Adjective
+sidebar_position: 433
+hoverText: strict § Adjective
 ---
 
 ### xidëtli
 
-*violent* **§** Adjective
+*strict* **§** Adjective
 
-**Verb**: to be violent
+**Verb**: to be strict/harsh
 
-**Noun**: violence
+**Noun**: strictness/harshness
 
-**Modifier**: violent
+**Modifier**: strict/harsh
 
 Turkish şiddetli 
 
