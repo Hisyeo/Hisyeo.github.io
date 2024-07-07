@@ -2,7 +2,7 @@
 id: xidëtli
 slug: xidëtli
 title: XİDËTLİ
-sidebar_position: 433
+sidebar_position: 434
 hoverText: strict § Adjective
 ---
 

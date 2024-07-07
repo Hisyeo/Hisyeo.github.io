@@ -2,7 +2,7 @@
 id: lötven
 slug: lötven
 title: LÖTVEN
-sidebar_position: 767
+sidebar_position: 771
 hoverText: politeness clause ender § Postposition
 ---
 

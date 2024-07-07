@@ -2,7 +2,7 @@
 id: cinmi
 slug: cinmi
 title: CİNMİ
-sidebar_position: 330
+sidebar_position: 331
 hoverText: precise/specific § Adjective
 ---
 

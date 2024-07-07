@@ -2,7 +2,7 @@
 id: siëtö
 slug: siëtö
 title: SİËTÖ
-sidebar_position: 383
+sidebar_position: 384
 hoverText: plate § Noun
 ---
 

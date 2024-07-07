@@ -2,7 +2,7 @@
 id: ëmë
 slug: ëmë
 title: ËMË
-sidebar_position: 56
+sidebar_position: 57
 hoverText: vague/imprecise § Adjective
 ---
 

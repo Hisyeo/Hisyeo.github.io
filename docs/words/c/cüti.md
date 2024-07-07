@@ -2,7 +2,7 @@
 id: cüti
 slug: cüti
 title: CÜTİ
-sidebar_position: 340
+sidebar_position: 341
 hoverText: small § Adjective
 ---
 

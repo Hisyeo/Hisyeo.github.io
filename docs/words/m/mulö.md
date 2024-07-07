@@ -2,7 +2,7 @@
 id: mulö
 slug: mulö
 title: MULÖ
-sidebar_position: 670
+sidebar_position: 672
 hoverText: up § Noun
 ---
 

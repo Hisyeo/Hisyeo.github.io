@@ -2,7 +2,7 @@
 id: ınvultin
 slug: ınvultin
 title: INVULTİN
-sidebar_position: 63
+sidebar_position: 64
 hoverText: rotating/spinning § Adjective
 ---
 

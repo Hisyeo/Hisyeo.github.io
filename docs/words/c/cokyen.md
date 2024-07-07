@@ -2,7 +2,7 @@
 id: cokyen
 slug: cokyen
 title: COKYEN
-sidebar_position: 297
+sidebar_position: 298
 hoverText: almost § Adjective
 ---
 

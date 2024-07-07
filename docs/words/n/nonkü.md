@@ -2,7 +2,7 @@
 id: nonkü
 slug: nonkü
 title: NONKÜ
-sidebar_position: 694
+sidebar_position: 696
 hoverText: 04 four § Numeral
 ---
 

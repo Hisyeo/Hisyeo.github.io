@@ -2,7 +2,7 @@
 id: öpöstü
 slug: öpöstü
 title: ÖPÖSTÜ
-sidebar_position: 40
+sidebar_position: 41
 hoverText: opposite § Adjective
 ---
 

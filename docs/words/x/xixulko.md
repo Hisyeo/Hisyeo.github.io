@@ -2,7 +2,7 @@
 id: xixulko
 slug: xixulko
 title: XİXULKO
-sidebar_position: 432
+sidebar_position: 433
 hoverText: pinecone § Noun
 ---
 

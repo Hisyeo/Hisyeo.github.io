@@ -2,7 +2,7 @@
 id: zıyön
 slug: zıyön
 title: ZIYÖN
-sidebar_position: 504
+sidebar_position: 505
 hoverText: 14 fourteen § Numeral
 ---
 

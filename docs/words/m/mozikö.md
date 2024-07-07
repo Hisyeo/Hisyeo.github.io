@@ -2,7 +2,7 @@
 id: mozikö
 slug: mozikö
 title: MOZİKÖ
-sidebar_position: 636
+sidebar_position: 637
 hoverText: magical § Adjective
 ---
 

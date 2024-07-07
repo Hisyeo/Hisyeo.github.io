@@ -1,12 +1,12 @@
 ---
-id: somö
-slug: somö
-title: SOMÖ
-sidebar_position: 360
+id: tolki
+slug: tolki
+title: TOLKİ
+sidebar_position: 268
 hoverText: only § Adjective
 ---
 
-### somö
+### tolki
 
 *only* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: only § Adjective
 
 **Modifier**: alone/only/exclusively
 
-Serbo-Croatian са̏мо sȁmo [ˈsamo]
+Belarusian то́лькі tólʹki [ˈtolʲkʲi]
 
 *Balto-Slavic Language Family*

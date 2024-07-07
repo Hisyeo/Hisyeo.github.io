@@ -2,7 +2,7 @@
 id: xük
 slug: xük
 title: XÜK
-sidebar_position: 440
+sidebar_position: 441
 hoverText: sort/type § Noun
 ---
 

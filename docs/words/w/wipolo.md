@@ -2,7 +2,7 @@
 id: wipolo
 slug: wipolo
 title: WİPOLO
-sidebar_position: 747
+sidebar_position: 750
 hoverText: flag § Noun
 ---
 

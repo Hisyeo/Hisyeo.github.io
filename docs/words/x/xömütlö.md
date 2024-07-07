@@ -2,7 +2,7 @@
 id: xömütlö
 slug: xömütlö
 title: XÖMÜTLÖ
-sidebar_position: 417
+sidebar_position: 418
 hoverText: ocean § Noun
 ---
 

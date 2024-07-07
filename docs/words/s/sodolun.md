@@ -2,7 +2,7 @@
 id: sodolun
 slug: sodolun
 title: SODOLUN
-sidebar_position: 353
+sidebar_position: 354
 hoverText: normal § Adjective
 ---
 
@@ -10,11 +10,11 @@ hoverText: normal § Adjective
 
 *normal* **§** Adjective
 
-**Verb**: to be normal/ordinary/standard
+**Verb**: to be normal/standard
 
-**Noun**: normality/ordinariness/standardness
+**Noun**: normality/standardness
 
-**Modifier**: normal/ordinary/standard
+**Modifier**: normal/standard
 
 Hindi साधारण sādhāraṇ [s̪äː.d̪ʱäː.ɾə̃ɳ]
 

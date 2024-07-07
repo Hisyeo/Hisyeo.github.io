@@ -2,7 +2,7 @@
 id: ılık
 slug: ılık
 title: ILIK
-sidebar_position: 65
+sidebar_position: 66
 hoverText: before § Determiner
 ---
 
@@ -14,7 +14,7 @@ hoverText: before § Determiner
 
 **Noun**: past
 
-**Modifier**: beforehand
+**Modifier**: beforehand/ago
 
 Bashkir элек elek [ɪ̞ˈlɪ̞k]
 

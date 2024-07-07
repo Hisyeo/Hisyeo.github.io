@@ -2,7 +2,7 @@
 id: nöilu
 slug: nöilu
 title: NÖİLU
-sidebar_position: 697
+sidebar_position: 699
 hoverText: key § Noun
 ---
 

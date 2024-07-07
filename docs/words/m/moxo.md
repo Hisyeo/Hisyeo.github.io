@@ -2,7 +2,7 @@
 id: moxo
 slug: moxo
 title: MOXO
-sidebar_position: 635
+sidebar_position: 636
 hoverText: decorative/ornamental § Adjective
 ---
 

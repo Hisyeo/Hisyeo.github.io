@@ -2,7 +2,7 @@
 id: öitun
 slug: öitun
 title: ÖİTUN
-sidebar_position: 33
+sidebar_position: 34
 hoverText: to vocalize (a vocalization) § Verb
 ---
 

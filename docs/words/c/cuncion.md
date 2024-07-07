@@ -2,7 +2,7 @@
 id: cuncion
 slug: cuncion
 title: CUNCİON
-sidebar_position: 334
+sidebar_position: 335
 hoverText: to fortify (the fortified) § Verb
 ---
 

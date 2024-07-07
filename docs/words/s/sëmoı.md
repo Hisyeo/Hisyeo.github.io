@@ -2,7 +2,7 @@
 id: sëmoı
 slug: sëmoı
 title: SËMOI
-sidebar_position: 376
+sidebar_position: 377
 hoverText: heaven § Noun
 ---
 

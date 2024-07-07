@@ -2,7 +2,7 @@
 id: sovin
 slug: sovin
 title: SOVİN
-sidebar_position: 359
+sidebar_position: 360
 hoverText: pure § Adjective
 ---
 
@@ -18,4 +18,4 @@ hoverText: pure § Adjective
 
 Arabic صَافٍ ṣāfin [sˤɑ.fin]
 
-*Indo-Iranian Language Family*
+*Afroasiatic Language Family*

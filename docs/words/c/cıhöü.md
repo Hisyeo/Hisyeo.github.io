@@ -2,7 +2,7 @@
 id: cıhöü
 slug: cıhöü
 title: CIHÖÜ
-sidebar_position: 312
+sidebar_position: 313
 hoverText: after § Determiner
 ---
 
@@ -14,7 +14,7 @@ hoverText: after § Determiner
 
 **Noun**: future
 
-**Modifier**: afterwards
+**Modifier**: afterwards/later
 
 Chinese 此後 cǐhòu 
 

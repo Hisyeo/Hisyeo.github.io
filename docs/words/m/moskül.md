@@ -2,7 +2,7 @@
 id: moskül
 slug: moskül
 title: MOSKÜL
-sidebar_position: 634
+sidebar_position: 635
 hoverText: male § Adjective
 ---
 

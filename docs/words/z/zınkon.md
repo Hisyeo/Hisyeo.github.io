@@ -2,7 +2,7 @@
 id: zınkon
 slug: zınkon
 title: ZINKON
-sidebar_position: 503
+sidebar_position: 504
 hoverText: door § Noun
 ---
 

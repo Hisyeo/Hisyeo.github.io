@@ -2,7 +2,7 @@
 id: oldıs
 slug: oldıs
 title: OLDIS
-sidebar_position: 32
+sidebar_position: 33
 hoverText: evidence marker (or so) § Preposition
 ---
 

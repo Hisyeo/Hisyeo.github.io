@@ -2,7 +2,7 @@
 id: töcit
 slug: töcit
 title: TÖCİT
-sidebar_position: 269
+sidebar_position: 270
 hoverText: blunt § Adjective
 ---
 
