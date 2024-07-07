@@ -48,7 +48,7 @@ await Promise.all(records.map(async (data, idx) => {
         process.stdout.write(`.`)
         await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data, idx))
         snippets[`${data['Hisyëö']}`] = {
-            scope: "markdown,mdx",
+            scope: "markdown,mdx,fountain",
             prefix: data['Hisyëö'],
             body: `${data['Hisyëö']}`,
             description: data['Meaning'],

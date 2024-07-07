@@ -1,12 +1,12 @@
 ---
-id: tolki
-slug: tolki
-title: TOLKİ
-sidebar_position: 268
+id: tölki
+slug: tölki
+title: TÖLKİ
+sidebar_position: 273
 hoverText: only § Adjective
 ---
 
-### tolki
+### tölki
 
 *only* **§** Adjective
 
