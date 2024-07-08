@@ -10,9 +10,11 @@ import words from '@site/static/words.json'
  */
 export default function HisyeoWord({ is }) {
   if (words[is] != undefined) { return (
-    <>
-      <a data-tooltip-id='hisyeo' data-tooltip-content={is}>{words[is]['latin']}</a> / <a data-tooltip-id='hisyeo' data-tooltip-content={is}>{words[is]['abugida']}</a>
-    </>
+    <a data-tooltip-id='hisyeo' data-tooltip-content={is}>{''.concat(
+      words[is]['latin'],
+      ' / ',
+      words[is]['abugida']
+    )}</a>
   ) } else { return (
     <span>{is}</span>
   ) }
