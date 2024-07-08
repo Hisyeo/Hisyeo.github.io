@@ -15,7 +15,6 @@ export default function HisyeoTooltip() {
   const {colorMode, setColorMode} = useColorMode()
   return (
     <Tooltip id='hisyeo' variant={colorMode == 'dark' ? 'light' : 'dark'} render={({ content }) => {
-      console.log(content)
       const word = words[content]
       return (
         <div>
