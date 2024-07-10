@@ -1,12 +1,12 @@
 ---
-id: xodilü
-slug: xodilü
-title: XODİLÜ
-sidebar_position: 410
+id: sodılü
+slug: sodılü
+title: SODILÜ
+sidebar_position: 357
 hoverText: loose § Adjective
 ---
 
-### xodilü
+### sodılü
 
 *loose* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: loose § Adjective
 
 **Modifier**: loose
 
-Kannada ಸಡಿಲು saḍilu 
+Kannada ಸಡಿಲು saḍilu [sɐ.ɖɪ.lu]
 
 *Dravidian Language Family*

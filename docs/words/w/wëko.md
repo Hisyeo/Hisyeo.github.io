@@ -2,7 +2,7 @@
 id: wëko
 slug: wëko
 title: WËKO
-sidebar_position: 742
+sidebar_position: 743
 hoverText: to place (the placed) § Verb
 ---
 

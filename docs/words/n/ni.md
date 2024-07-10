@@ -2,7 +2,7 @@
 id: ni
 slug: ni
 title: Nİ
-sidebar_position: 716
+sidebar_position: 717
 hoverText: we/us § Pronoun
 ---
 

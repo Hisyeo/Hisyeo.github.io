@@ -2,7 +2,7 @@
 id: vöskultu
 slug: vöskultu
 title: VÖSKULTU
-sidebar_position: 598
+sidebar_position: 599
 hoverText: open § Adjective
 ---
 

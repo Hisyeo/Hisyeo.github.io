@@ -2,7 +2,7 @@
 id: püsın
 slug: püsın
 title: PÜSIN
-sidebar_position: 578
+sidebar_position: 579
 hoverText: dizzy § Adjective
 ---
 

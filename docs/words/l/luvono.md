@@ -2,7 +2,7 @@
 id: luvono
 slug: luvono
 title: LUVONO
-sidebar_position: 796
+sidebar_position: 797
 hoverText: to ship/send (a package) § Verb
 ---
 

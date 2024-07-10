@@ -2,7 +2,7 @@
 id: pölvëlë
 slug: pölvëlë
 title: PÖLVËLË
-sidebar_position: 544
+sidebar_position: 545
 hoverText: powder § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: polimot
 slug: polimot
 title: POLİMOT
-sidebar_position: 534
+sidebar_position: 535
 hoverText: voluminous § Adjective
 ---
 

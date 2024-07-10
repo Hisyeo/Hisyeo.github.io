@@ -2,7 +2,7 @@
 id: sonti
 slug: sonti
 title: SONTİ
-sidebar_position: 365
+sidebar_position: 366
 hoverText: calm § Adjective
 ---
 

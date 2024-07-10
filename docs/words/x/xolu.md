@@ -2,7 +2,7 @@
 id: xolu
 slug: xolu
 title: XOLU
-sidebar_position: 416
+sidebar_position: 417
 hoverText: bowl/cup § Noun
 ---
 

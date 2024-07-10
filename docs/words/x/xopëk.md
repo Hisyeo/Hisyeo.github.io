@@ -2,7 +2,7 @@
 id: xopëk
 slug: xopëk
 title: XOPËK
-sidebar_position: 411
+sidebar_position: 412
 hoverText: previous § Adjective
 ---
 

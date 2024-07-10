@@ -2,7 +2,7 @@
 id: luhü
 slug: luhü
 title: LUHÜ
-sidebar_position: 795
+sidebar_position: 796
 hoverText: blood § Noun
 ---
 

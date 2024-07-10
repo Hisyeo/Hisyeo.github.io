@@ -14,7 +14,7 @@ hoverText: before § Determiner
 
 **Noun**: past
 
-**Modifier**: beforehand/ago
+**Modifier**: beforehand/ago/earlier
 
 Bashkir элек elek [ɪ̞ˈlɪ̞k]
 

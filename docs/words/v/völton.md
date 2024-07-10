@@ -2,7 +2,7 @@
 id: völton
 slug: völton
 title: VÖLTON
-sidebar_position: 601
+sidebar_position: 602
 hoverText: hereafter § Adjective
 ---
 

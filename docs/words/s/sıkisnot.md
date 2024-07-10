@@ -2,7 +2,7 @@
 id: sıkisnot
 slug: sıkisnot
 title: SIKİSNOT
-sidebar_position: 380
+sidebar_position: 381
 hoverText: fermented/soured § Adjective
 ---
 

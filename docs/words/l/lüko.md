@@ -2,7 +2,7 @@
 id: lüko
 slug: lüko
 title: LÜKO
-sidebar_position: 800
+sidebar_position: 801
 hoverText: interrupted § Adjective
 ---
 
