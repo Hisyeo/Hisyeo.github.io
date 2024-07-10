@@ -2,7 +2,7 @@
 id: nılol
 slug: nılol
 title: NILOL
-sidebar_position: 713
+sidebar_position: 715
 hoverText: shadow § Noun
 ---
 

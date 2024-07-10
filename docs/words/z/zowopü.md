@@ -2,7 +2,7 @@
 id: zowopü
 slug: zowopü
 title: ZOWOPÜ
-sidebar_position: 492
+sidebar_position: 493
 hoverText: to answer [with] (a response) § Verb
 ---
 

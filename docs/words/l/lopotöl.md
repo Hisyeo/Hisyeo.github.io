@@ -1,12 +1,12 @@
 ---
-id: löpotöl
-slug: löpotöl
-title: LÖPOTÖL
-sidebar_position: 773
+id: lopotöl
+slug: lopotöl
+title: LOPOTÖL
+sidebar_position: 765
 hoverText: to scoop (the scooped) § Verb
 ---
 
-### löpotöl
+### lopotöl
 
 *to scoop (the scooped)* **§** Verb
 

@@ -2,7 +2,7 @@
 id: yotkuwo
 slug: yotkuwo
 title: YOTKUWO
-sidebar_position: 806
+sidebar_position: 808
 hoverText: ongoing § Adjective
 ---
 

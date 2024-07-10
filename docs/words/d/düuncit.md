@@ -2,7 +2,7 @@
 id: düuncit
 slug: düuncit
 title: DÜUNCİT
-sidebar_position: 475
+sidebar_position: 476
 hoverText: brain/mind § Noun
 ---
 

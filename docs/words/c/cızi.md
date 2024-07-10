@@ -2,7 +2,7 @@
 id: cızi
 slug: cızi
 title: CIZİ
-sidebar_position: 315
+sidebar_position: 316
 hoverText: self § Pronoun
 ---
 

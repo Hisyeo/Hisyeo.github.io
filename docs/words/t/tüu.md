@@ -10,11 +10,11 @@ hoverText: to do (an action) § Verb
 
 *to do (an action)* **§** Verb
 
-**Verb**: to do/perform/execute/work
+**Verb**: to do/perform/execute
 
 **Noun**: an action/task
 
-**Modifier**: doable/performable/executable/workable
+**Modifier**: doable/performable/executable
 
 Khmer ធ្វើ thvəə /tʰʋəː/
 

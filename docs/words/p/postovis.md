@@ -2,7 +2,7 @@
 id: postovis
 slug: postovis
 title: POSTOVİS
-sidebar_position: 525
+sidebar_position: 526
 hoverText: representative/delegate § Noun
 ---
 

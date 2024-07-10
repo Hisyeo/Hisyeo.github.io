@@ -1,12 +1,12 @@
 ---
-id: hülödëk
-slug: hülödëk
-title: HÜLÖDËK
+id: hülodëk
+slug: hülodëk
+title: HÜLODËK
 sidebar_position: 149
 hoverText: waste § Noun
 ---
 
-### hülödëk
+### hülodëk
 
 *waste* **§** Noun
 

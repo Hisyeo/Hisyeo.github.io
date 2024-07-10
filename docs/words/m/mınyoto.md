@@ -2,7 +2,7 @@
 id: mınyoto
 slug: mınyoto
 title: MINYOTO
-sidebar_position: 660
+sidebar_position: 662
 hoverText: gastropod § Noun
 ---
 

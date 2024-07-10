@@ -2,7 +2,7 @@
 id: mökövo
 slug: mökövo
 title: MÖKÖVO
-sidebar_position: 645
+sidebar_position: 646
 hoverText: tube § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: tube § Noun
 
 **Modifier**: tube/pipe-related
 
-Estonian toru /mokova/
+Zimakani mokova /mokova/
 
 *Trans-New Guinea Language Family*

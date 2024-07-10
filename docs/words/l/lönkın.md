@@ -2,7 +2,7 @@
 id: lönkın
 slug: lönkın
 title: LÖNKIN
-sidebar_position: 774
+sidebar_position: 776
 hoverText: bulb § Noun
 ---
 

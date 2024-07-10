@@ -2,7 +2,7 @@
 id: vizi
 slug: vizi
 title: VİZİ
-sidebar_position: 616
+sidebar_position: 617
 hoverText: to bury (the buried) § Verb
 ---
 

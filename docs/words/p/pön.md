@@ -2,7 +2,7 @@
 id: pön
 slug: pön
 title: PÖN
-sidebar_position: 540
+sidebar_position: 541
 hoverText: to cause (an effect) § Verb
 ---
 

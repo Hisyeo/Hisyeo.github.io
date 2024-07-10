@@ -2,7 +2,7 @@
 id: pinton
 slug: pinton
 title: PİNTON
-sidebar_position: 566
+sidebar_position: 567
 hoverText: star § Noun
 ---
 

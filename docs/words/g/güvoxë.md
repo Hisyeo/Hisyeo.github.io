@@ -1,12 +1,12 @@
 ---
-id: güvöxë
-slug: güvöxë
-title: GÜVÖXË
+id: güvoxë
+slug: güvoxë
+title: GÜVOXË
 sidebar_position: 251
 hoverText: irony/sarcasm § Noun
 ---
 
-### güvöxë
+### güvoxë
 
 *irony/sarcasm* **§** Noun
 

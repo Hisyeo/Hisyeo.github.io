@@ -2,7 +2,7 @@
 id: dinyoüc
 slug: dinyoüc
 title: DİNYOÜC
-sidebar_position: 467
+sidebar_position: 468
 hoverText: lip/rim/edge § Noun
 ---
 

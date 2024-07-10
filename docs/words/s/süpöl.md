@@ -2,7 +2,7 @@
 id: süpöl
 slug: süpöl
 title: SÜPÖL
-sidebar_position: 400
+sidebar_position: 401
 hoverText: fertile/productive § Adjective
 ---
 

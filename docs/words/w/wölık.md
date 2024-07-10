@@ -2,7 +2,7 @@
 id: wölık
 slug: wölık
 title: WÖLIK
-sidebar_position: 737
+sidebar_position: 739
 hoverText: smoke/cloud § Noun
 ---
 

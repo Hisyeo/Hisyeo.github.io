@@ -2,7 +2,7 @@
 id: lionxin
 slug: lionxin
 title: LİONXİN
-sidebar_position: 784
+sidebar_position: 786
 hoverText: conscientious § Adjective
 ---
 

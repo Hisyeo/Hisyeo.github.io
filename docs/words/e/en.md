@@ -3,12 +3,12 @@ id: en
 slug: en
 title: EN
 sidebar_position: 50
-hoverText: than/as § Conjunction
+hoverText: than § Conjunction
 ---
 
 ### en
 
-*than/as* **§** Conjunction
+*than* **§** Conjunction
 
 **Verb**: -
 
