@@ -1,12 +1,12 @@
 ---
-id: onpulë
-slug: onpulë
-title: ONPULË
-sidebar_position: 28
+id: unpol
+slug: unpol
+title: UNPOL
+sidebar_position: 87
 hoverText: amber (color) § Adjective
 ---
 
-### onpulë
+### unpol
 
 *amber (color)* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: amber (color) § Adjective
 
 **Modifier**: amber
 
-French ambré 
+Portuguese âmbar /ˈɐ̃.baɾ/
 
 *Romance Language Family*

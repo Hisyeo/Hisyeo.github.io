@@ -3,12 +3,12 @@ id: yë
 slug: yë
 title: YË
 sidebar_position: 822
-hoverText: of § Preposition
+hoverText: genitive marker (of) § Preposition
 ---
 
 ### yë
 
-*of* **§** Preposition
+*genitive marker (of)* **§** Preposition
 
 **Verb**: -
 

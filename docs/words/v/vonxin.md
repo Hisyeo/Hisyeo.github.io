@@ -2,7 +2,7 @@
 id: vonxin
 slug: vonxin
 title: VONXİN
-sidebar_position: 595
+sidebar_position: 597
 hoverText: square/rectangle § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: vimösyös
 slug: vimösyös
 title: VİMÖSYÖS
-sidebar_position: 619
+sidebar_position: 620
 hoverText: public/communal § Adjective
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: hüdol
-slug: hüdol
-title: HÜDOL
+id: hüdul
+slug: hüdul
+title: HÜDUL
 sidebar_position: 144
 hoverText: false § Adjective
 ---
 
-### hüdol
+### hüdul
 
 *false* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: false § Adjective
 
 **Modifier**: false/fake
 
-Mongolian худал hudal 
+Mongolian худал hudal /xʊtəɮ/
 
 *Mongolic Language Family*

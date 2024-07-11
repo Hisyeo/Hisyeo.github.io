@@ -1,12 +1,12 @@
 ---
-id: höwuncul
-slug: höwuncul
-title: HÖWUNCUL
-sidebar_position: 124
+id: hüwuncul
+slug: hüwuncul
+title: HÜWUNCUL
+sidebar_position: 149
 hoverText: plastic § Noun
 ---
 
-### höwuncul
+### hüwuncul
 
 *plastic* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: plastic § Noun
 
 **Modifier**: plastic-related
 
-Mongolian хуванцар qubančir  
+Mongolian хуванцар qubančir  /ˈxʊw̜ənt͡sər/
 
 *Mongolic Language Family*

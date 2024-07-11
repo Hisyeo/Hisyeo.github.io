@@ -2,7 +2,7 @@
 id: kotonhon
 slug: kotonhon
 title: KOTONHON
-sidebar_position: 152
+sidebar_position: 153
 hoverText: sudden/urgent § Adjective
 ---
 

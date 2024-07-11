@@ -1,12 +1,12 @@
 ---
-id: sıkisnot
-slug: sıkisnot
-title: SIKİSNOT
-sidebar_position: 381
+id: cüpü
+slug: cüpü
+title: CÜPÜ
+sidebar_position: 345
 hoverText: fermented/soured § Adjective
 ---
 
-### sıkisnot
+### cüpü
 
 *fermented/soured* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: fermented/soured § Adjective
 
 **Modifier**: fermented/soured
 
-Macedonian [ˈskisnat]
+Tibetan སྐྱུར་མོ skyur mo /ɕu˥.pʊ˥˧/
 
-*Balto-Slavic Language Family*
+*Sino-Tibetan Language Family*

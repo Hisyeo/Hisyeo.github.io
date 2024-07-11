@@ -1,12 +1,12 @@
 ---
-id: hıcu
-slug: hıcu
-title: HICU
+id: hıtsu
+slug: hıtsu
+title: HITSU
 sidebar_position: 133
 hoverText: crack/fissure § Noun
 ---
 
-### hıcu
+### hıtsu
 
 *crack/fissure* **§** Noun
 

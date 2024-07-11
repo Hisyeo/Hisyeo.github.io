@@ -2,7 +2,7 @@
 id: koli
 slug: koli
 title: KOLİ
-sidebar_position: 163
+sidebar_position: 164
 hoverText: down § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: down § Noun
 
 **Modifier**: below/down
 
-Marathi खाली khālī 
+Marathi खाली khālī [kʰäː.liː]
 
 *Indo-Iranian Language Family*

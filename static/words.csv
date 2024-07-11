@@ -21,13 +21,13 @@
 ɽɤ̑ɿ,ovek,collaborator marker (alongside/with),-,-,-,-,Preposition,kan,o,French avec,/a.vɛk/,Romance,ovek,Grammar 3,1,0,0,0,0,0,1,0,avek,4,01.19.03.10.00
 ɽɤɟƨʇ,ovinë,cultivated/refined,to be cultivated/refined,cultivatedness/refinedness,cultivated/refined,,Adjective,,o,French affiné,/a.fi.ne/,Romance,ovinë,Evaluation,1,0,0,0,0,1,0,1,aveenae,5,01.19.06.21.04
 ɽƶ͊ʄc,omülto,abstract,to be abstract/theoretical,abstractness/theoreticality,abstract/theoretical,,Adjective,,o,Malayalam അമൂർത്ത amūṟtta,/amuːrt̪ːa/,Dravidian,omülto,Evaluation,2,0,0,1,0,0,0,0,amoolta,6,01.20.08.23.12
+ɽ̃,on,vocative/appositive marker,-,-,-,-,Preposition,he,o,Irish eadhon,/aːn/,Celtic,on,Grammar 1,1,0,0,0,0,0,0,0,an,2,01.21.00.00.00
 ɽƨƶʄ,onomü,rice,to be rice,rice,rice-related,,Noun,,o,Telugu అన్నము annamu,/an̪n̪amu/,Dravidian,onomü,Food & Drink,2,0,0,1,0,0,0,0,anamoo,5,01.21.01.20.08
 ɽƨı,onö,distal demonstrative (yon/yonder),to be that over there,that over there,yon/yonder,-,Pronoun,,o,Japanese あの ano,[a̠no̞],Japonic,onö,Grammar 2,1,1,0,0,0,0,0,0,ano,3,01.21.02.00.00
 ɽ̃ɔƨʃ,onkonu,to estimate/guess (an estimation/guess),to estimate/guess,an estimation/guess,estimatable/guessable,,Verb,,o,Telugu అంచనా añcanā,/aṁ.ka.nɐː/,Dravidian,onkonu,Science & Medical,2,0,1,0,0,0,0,0,ankanu,6,01.21.10.01.21
 ɽ̃ɔʄɽ͊,onküol,to hug (the hugged),to hug/embrace,the hugged/embraced,huggable/embracable,,Verb,,o,Assamese আঁকোৱাল ãküal,/ãkʊal/,Indo-Iranian,onküol,Senses & Motion,2,0,0,1,0,0,0,0,ankwal,6,01.21.10.08.01
 ɽ̃ꜿıʓı,ongölö,corner,to be a corner/angle,corner/angle,corner/angle-related,-,Noun,ankolo,o,Italian angolo,/ˈan.ɡo.lo/,Romance,ongölö,"Structures, Geometry, & Dimensions",1,2,0,0,0,0,0,0,angolo,6,01.21.11.02.23
 ɽ̃ʌ,ondo,to prepare (a preparation),to prepare/ready,a preparation,preparable/readyable,,Verb,anta,o,Swahili -andaa,,Niger-Congo,ondo,Abstract & Communication,2,0,0,0,0,0,0,0,anda,4,01.21.16.01.00
-ɽ̃ʋʃʓʇ,onpulë,amber (color),to be amber,amber-ness,amber,,Adjective,,o,French ambré,,Romance,onpulë,Color,1,0,1,0,0,0,0,1,anpulae,6,01.21.18.07.23
 ɽ̃ɤɟʋɟ,onvipi,amphibian,to be an amphibian,amphibian,amphibian-related,,Noun,anpipi,o,Catalan amfibi,/amˈfi.bi/,Romance,onvipi,Biology,1,0,0,0,0,2,0,0,anveepee,6,01.21.19.06.18
 ɽ̃ʒƨɟ,onwoni,address,to be an address,address,address-related,,Noun,,o,Swahili anwani,/'ɑn.wɑ.ni/,Niger-Congo,onwoni,Abstract & Communication,2,0,0,0,0,1,0,0,anwanee,6,01.21.22.01.21
 ɽ̃ʒɟɀʇ,onwiyë,bored,to be bored,boredom,bored,,Adjective,anwije,o,French ennuyé,/ɑ̃.nɥi.je/ (/ɒ̃.nɥi.je/),Romance,onwiyë,Emotion,1,0,0,0,0,1,0,1,anweeyae,6,01.21.22.06.24
@@ -57,8 +57,8 @@
 ɽʇʋ͊ı,ëpöl,shoulder,to be a shoulder,shoulder,shoulder-related,,Noun,,ë,French épaule,/e.pol/,Romance,ëpöl,Body,0,1,0,0,0,0,0,1,aepol,4,04.18.02.23.00
 ɽʇɤ̃ʃ,ëvun,momentary,to be momentary/brief,momentariness/briefness/minute (unit),momentary/brief,,Adjective,,ë,Dutch even,/ˈeː.və(n)/,Germanic,ëvun,Numbers & Time,0,0,1,0,0,0,0,1,aevun,4,04.19.07.21.00
 ɽʇƶʇ,ëmë,vague/imprecise,to be vague/imprecise,vagueness/imprecision,vague/imprecise,-,Adjective,eme,ë,from Wu 曖昧 e-me,/e̞³³ me̞⁴⁴/,Sino-Tibetan,ëmë,Evaluation,0,0,0,0,0,0,0,2,aemae,3,04.20.04.00.00
-ɽ̃ʇɔıƶ̃ı,ënkömön,face,to be a face,face,facial,-,Noun,,ë,Maasai enk-omóm,,Nilo-Saharan,ënkömön,Body,0,2,0,0,0,0,0,1,aenkomon,7,04.21.10.02.20
-ɽ̃ʇʋɔ̃,ënpokon,belch/burp,to be a belch/burp,belch/burp,belch/burp-related,,Noun,,ë,Malayalam ഏമ്പക്കം ēmpakkaṁ,,Dravidian,ënpokon,Body,2,0,0,0,0,0,0,1,aenpakan,7,04.21.18.01.10
+ɽ̃ʇɔıƶ̃ı,ënkömön,face,to be a face,face,facial,-,Noun,,ë,Maasai enk-omóm,/ēnkōmón,Nilo-Saharan,ënkömön,Body,0,2,0,0,0,0,0,1,aenkomon,7,04.21.10.02.20
+ɽ̃ʇʋʃɔ̃ʃ,ënpukun,belch/burp,to be a belch/burp,belch/burp,belch/burp-related,,Noun,,ë,Malayalam ഏമ്പക്കം ēmpakkaṁ,/eːmbɐkkɐm/,Dravidian,ënpukun,Body,0,0,2,0,0,0,0,1,aenpukun,7,04.21.18.07.10
 ɽʇʓʇɽ,ëlëo,floating,to be floating,bouyancy,floating,,Adjective,,ë,Swahili -elea,/ɛ.le.ɑ/,Niger-Congo,ëlëo,Senses & Motion,1,0,0,0,0,0,0,2,aelaea,4,04.23.04.01.00
 ɽȷcȷɂ́,ıtıhos,history,to be a history,history,history-related,,Noun,,ı,Hindi इतिहास itihās,[ɪ.t̪ɪ.ɦäːs],Indo-Iranian,ıtıhos,Sociology,1,0,0,0,2,0,0,0,itihas,6,05.12.05.09.01
 ɽ́ȷcȷɂ͊,ıstıhol,honor/glory,to be honor/glory,honor/glory,honor/glory-related,,Noun,,ı,Dari Persian افتخار eftexâr,[ʔɪf.t̪ʰɪ.xɑ́ːɾ],Indo-Iranian,ıstıhol,Sociology,1,0,0,0,2,0,0,0,istihal,7,05.14.12.05.09
@@ -72,10 +72,10 @@
 ɽ́ɟɔı,iskö,to drink (a drink),to drink/suck,a drink,drinkable/suckable,to slurp/guzzle/pound,Verb,,i,Chickasaw ishko ,,Muskogean,iskö,Food & Drink,0,1,0,0,0,1,0,0,eesko,4,06.14.10.02.00
 ɽ́ɟʋ̃ıɋʃ,ispönxu,sponge,to be a sponge,sponge,sponge-related,,Noun,,i,Portuguese esponja,/isˈpõ.ʒɐ/,Romance,ispönxu,Biology,0,1,1,0,0,1,0,0,eesponshu,7,06.14.18.02.21
 ɽɟɋıʓı,ixölö,problem,to be a problem/affair,problem/affair,problem/affair-related,,Noun,,i,Yoruba iṣoro,/ì.ʃò.ɾō/,Niger-Congo,ixölö,Abstract & Communication,0,2,0,0,0,1,0,0,eesholo,5,06.15.02.23.02
-ɽɟʋʄʌʄ,ipüdü,now,to be the present/current (time),present (time),present/current,,Adjective,iputu,i,Telugu ఇప్పుడు ippuḍu,,Dravidian,ipüdü,Numbers & Time,0,0,0,2,0,1,0,0,eepoodoo,5,06.18.08.16.08
+ɽɟʋʄʌʄ,ipüdü,now,to be the present/current (time),present (time),present/current,,Adjective,iputu,i,Telugu ఇప్పుడు ippuḍu,/ipːuɖu/,Dravidian,ipüdü,Numbers & Time,0,0,0,2,0,1,0,0,eepoodoo,5,06.18.08.16.08
 ɽɟʋʄʒʇ,ipüwë,stone,to be a stone/rock,stone/rock,stone/rock-related,,Noun,ipuwe,i,Shona ibwe,,Niger-Congo,ipüwë,Material,0,0,0,1,0,1,0,1,eepoowae,5,06.18.08.22.04
 ɽɟƶ̃,imon,to trust (a belief),to trust/believe,a belief,trustable/believable,to be trustful/convinced,Verb,iman,i,Arabic إيمان ʾīmān,/ʔiː.maːn/,Afroasiatic,imon,Emotion,1,0,0,0,0,1,0,0,eeman,4,06.20.01.21.00
-ɽ̃ɟɔc̃,inkoton,to remember (a memory),to remember/recall,a memory,memorable,to reminisce,Verb,inkatan,i,Malay ingatan,,Austronesian,inkoton,"Language, Mind, & Identity",2,0,0,0,0,1,0,0,eenkatan,7,06.21.10.01.12
+ɽ̃ɟꜿc̃,ingoton,to remember (a memory),to remember/recall,a memory,memorable,to reminisce,Verb,inkatan,i,Malay ingatan,/iŋatan/,Austronesian,ingoton,"Language, Mind, & Identity",2,0,0,0,0,1,0,0,eengatan,7,06.21.11.01.12
 ɽ̃ɟʋʓɟ,inpoli,flower,to be a flower,flower,flower-related,,Noun,inpali,i,Zulu ímbali,/ímbaːli/,Niger-Congo,inpoli,Biology,1,0,0,0,0,2,0,0,eenpalee,6,06.21.18.01.23
 ɽɟʓʇ,ilë,building,to be a building,building,building-related,,Noun,insu,i,Yoruba ilé ,,Niger-Congo,ilë,"Structures, Geometry, & Dimensions",0,0,0,0,0,1,0,1,eelae,3,06.23.04.00.00
 ɽ͊ɟɋɟⱴ̑ʃ,ilxizuk,temporary,to be temporary/ephemeral,temporariness/ephemerality,temporary/ephemeral,,Adjective,,i,Korean 일시적 ilsijeok,[iɭɕʰid͡ʑʌ̹k̚],Koreic,ilxizuk,Evaluation,0,0,1,0,0,2,0,0,eelsheechuk,7,06.23.15.06.17
@@ -86,6 +86,7 @@
 ɽʃƶ,umo,person,to be a person,person,person-related,,Noun,nin,u,Takalelang Abui  ʔamˈa,[ɑm'aː],Trans-New Guinea,umo,"Language, Mind, & Identity",1,0,1,0,0,0,0,0,uma,3,07.20.01.00.00
 ɽʃƨ̃,unon,to smell (a scent),to smell,a smell/scent,smellable,,Verb,anan,u,Burmese အနံ့ a.nam.,/ʔəna̰ɴ/,Sino-Tibetan,unon,Senses & Motion,1,0,1,0,0,0,0,0,unan,4,07.21.01.21.00
 ɽ̃ʃʌɤ͊ı,undovöl,legume,to be a legume,legume,legume-related,,Noun,,u,Armenian ընդավոր əndavor,[əndɑˈvoɾ],Armenian,undovöl,Food & Drink,1,1,1,0,0,0,0,0,undavol,7,07.21.16.01.19
+ɽ̃ʃʋ͊,unpol,amber (color),to be amber,amber-ness,amber,,Adjective,,u,Portuguese âmbar,/ˈɐ̃.baɾ/,Romance,unpol,Color,1,0,1,0,0,0,0,0,unpal,5,07.21.18.01.23
 ɽ̃ʃʋʄ,unpü,arrow,to be an arrow,arrow,arrow-related,,Noun,,u,Tamil அம்பு ampu,[ɐmbɯ],Dravidian,unpü,"Arts, Crafts, Objects, & Tools",0,0,1,1,0,0,0,0,unpoo,4,07.21.18.08.00
 ɽ͊ʃɀı,ulyö,medial demonstrative (that/there),to be that,that,that,-,Pronoun,na,u,Catalan allò,/əˈʎɔ/,Romance,ulyö,Grammar 2,0,1,1,0,0,0,0,0,ulyo,4,07.23.24.02.00
 ɽʄ,ü,agent/causer marker,-,-,-,-,Preposition,men,ü,Czech u,/u/,Balto-Slavic,ü,Grammar 1,0,0,0,1,0,0,0,0,oo,1,08.00.00.00.00
@@ -123,7 +124,6 @@
 ɂıɤɿⱴɟ,hövezi,bovine,to be a cow/bovine,cow/bovine,cow/bovine-related,,Noun,momu,h,Slovak hovädzí,/ˈɦɔvɛd͡ziː/,Balto-Slavic,hövezi,Biology,0,1,0,0,0,1,1,0,hovechee,6,09.02.19.03.17
 ɂ̃ıꞇıɽʄ,höncöü,herb,to be an herb,herb,herb-related,,Noun,,h,Cantonese 香草 hoeng1 cou2,/hɔːŋ˥ tsʰou̯˧˥/,Sino-Tibetan,höncöü,Biology,0,2,0,1,0,0,0,0,honcow,6,09.02.21.13.02
 ɂ̃ıɀ,hönyo,wilderness,to be the wilderness,wilderness,wild,,Noun,honja,h,Min Nan 荒野 hong-iá,/hɔŋia/,Sino-Tibetan,hönyo,"Geography, Environment, & Location",1,1,0,0,0,0,0,0,honya,5,09.02.21.24.01
-ɂıʒ̃ʃꞇ͊ʃ,höwuncul,plastic,to be a plastic,plastic,plastic-related,,Noun,,h,Mongolian хуванцар qubančir ,,Mongolic,höwuncul,Material,0,1,2,0,0,0,0,0,howuncul,8,09.02.22.07.21
 ɂıʓ̑ʄ,hölük,to pump (a pumpable entity),to pump,pumpable entity,pumped,,Noun,,h,Mongolian хөөрөг xöörög,[ˈxoːɾʊk],Mongolic,hölük,"Arts, Crafts, Objects, & Tools",0,1,0,1,0,0,0,0,holook,5,09.02.23.08.10
 ɂ͊ıƶ,hölmo,dream,to be a dream,dream,dream-related,,Noun,,h,Maltese ħolma,/ˈħɔl.ma/,Afroasiatic,hölmo,"Language, Mind, & Identity",1,1,0,0,0,0,0,0,holma,5,09.02.23.20.01
 ɂɿƨ̃ʌʇ,henondë,hanging,to be hanging,hanging-ness,hanging-related,,Adjective,,h,Swedish hängande,/hɛːŋɑːndeː/,Germanic,henondë,Senses & Motion,1,0,0,0,0,0,1,1,henandae,7,09.03.21.01.21
@@ -132,7 +132,7 @@
 ɂʇƨʇʓı,hënëlö,gender,to be a gender,gender,gender-related,,Noun,henelo,h,Spanish género,[ˈxe.ne.ɾo],Romance,hënëlö,Sociology,0,1,0,0,0,0,0,2,haenaelo,6,09.04.21.04.23
 ɂ͊ʇɋ̃ʃ,hëlxun,early,to be early,earliness,early-related,,Adjective,,h,Albanian hershëm,/'heɾ.ʃəm/,Albanian,hëlxun,Numbers & Time,0,0,1,0,0,0,0,1,haelshun,6,09.04.23.15.07
 ɂ̑ȷʓȷɂ́,hıklıhos,supernatural/miraculous,to be supernatural/miraculous,supernaturalness/miraculousness,supernatural/miraculous,,Adjective,,h,Tagalog higlikás,[hɪɡ.lɪˈxas],Austronesian,hıklıhos,Sociology,1,0,0,0,2,0,0,0,hiklihas,8,09.05.10.23.05
-ɂȷꞇʃ,hıcu,crack/fissure,to be a crack/fissure,crack/fissure,crack/fissure-related,,Noun,,h,German Ritze,/ˈʁɪt͡sə/,Germanic,hıcu,Material,0,0,1,0,1,0,0,0,hicu,4,09.05.13.07.00
+ɂ̆ȷɐʃ,hıtsu,crack/fissure,to be a crack/fissure,crack/fissure,crack/fissure-related,,Noun,,h,German Ritze,/ˈʁɪt͡sə/,Germanic,hıtsu,Material,0,0,1,0,1,0,0,0,hitsu,5,09.05.12.14.07
 ɂ̆ɟƨıʌ̆ʇ,hitnödët,oscillating,to be oscillating/swaying,oscillating-ness/swaying-ness,oscillating/swaying,,Adjective,,h,Hebrew הִתְנוֹדֵד⁩ hitnodéd,/hit.no'ded/,Afroasiatic,hitnödët,Senses & Motion,0,1,0,0,0,1,0,1,heetnodaet,8,09.06.12.21.02
 ɂ́ɟɔ̃ʄꞇ,hiskünco,language,to be a language,a language,language-related,,Noun,,h,Basque hizkuntza,[his̻.kũn.t͡s̻a],Basque,hiskünco,"Language, Mind, & Identity",1,0,0,1,0,1,0,0,heeskoonca,8,09.06.14.10.08
 ɂɟⱴ̃,hizon,excited,to be excited,excitement,excited,,Adjective,tutu,h,Persian هیجان hayajân ,[hiːˈdʒɒːn],Indo-Iranian,hizon,Emotion,1,0,0,0,0,1,0,0,heechan,5,09.06.17.01.21
@@ -140,14 +140,15 @@
 ɂʃʓʄɔı,hulükö,lightweight,to be light(weight),lightness (weight-wise),light(weight),,Adjective,haluko,h,Nepali हलुको haluko,[ɦʌluko],Indo-Iranian,hulükö,"Structures, Geometry, & Dimensions",0,1,1,1,0,0,0,0,hulooko,6,09.07.23.08.10
 ɂʄɽ̃ʃɂʃ,hüunhu,mixed,to be mixed/heterogenous/unsorted,mixedness/heterogeneity/unsortedness,mixed/heterogenous/unsorted,,Adjective,huwanho,h,Mandarin 混合 hùnhé,/xu̯ənxɤ/,Sino-Tibetan,hüunhu,Evaluation,0,0,2,1,0,0,0,0,hwunhu,6,09.08.07.21.09
 ɂʄɔʇ,hükë,to mine (ore),to mine/extract,ore/extracted,minable/extractable,,Verb,,h,Maori huke,/huke/,Austronesian,hükë,"Arts, Crafts, Objects, & Tools",0,0,0,1,0,0,0,1,hookae,4,09.08.10.04.00
-ɂʄɔ̃ʄ,hükün,to order (a command),to order/command,an order/command,orderable/commandable,to micromanage,Verb,hukun,h,Arabic حُكْم ḥukm,,Afroasiatic,hükün,Abstract & Communication,0,0,0,2,0,0,0,0,hookoon,5,09.08.10.08.21
+ɂʄɔ̃ʃ,hükun,to order (a command),to order/command,an order/command,orderable/commandable,to micromanage,Verb,hukun,h,Arabic حُكْم ḥukm,/ħukm/,Afroasiatic,hükun,Abstract & Communication,0,0,1,1,0,0,0,0,hookun,5,09.08.10.07.21
 ɂʄɐʄ,hüsü,to be about (theme),to be about/concern/regard,theme,thematic/regardable,,Verb,husu,h,Swahili -husu,,Niger-Congo,hüsü,Abstract & Communication,0,0,0,2,0,0,0,0,hoosoo,4,09.08.14.08.00
 ɂ́ʄc̃ʃ,hüstun,cough,to be a cough,cough,cough-related,,Noun,,h,German Husten,/ˈhuːstən/,Germanic,hüstun,Body,0,0,1,1,0,0,0,0,hoostun,6,09.08.14.12.07
-ɂʄʌ͊,hüdol,false,to be false/fake,falseness/fakeness,false/fake,,Adjective,pasu,h,Mongolian худал hudal,,Mongolic,hüdol,Evaluation,1,0,0,1,0,0,0,0,hoodal,5,09.08.16.01.23
+ɂʄʌ͊ʃ,hüdul,false,to be false/fake,falseness/fakeness,false/fake,,Adjective,pasu,h,Mongolian худал hudal,/xʊtəɮ/,Mongolic,hüdul,Evaluation,0,0,1,1,0,0,0,0,hoodul,5,09.08.16.07.23
 ɂʄⱴ̃,hüzon,rain,to be rain,rain,rain-like,,Noun,,h,Malay هوجن hujan,/hud͡ʒan/,Austronesian,hüzon,"Geography, Environment, & Location",1,0,0,1,0,0,0,0,hoochan,5,09.08.17.01.21
 ɂ̃ʄɐ̑ȷ,hünsık,red,to be red,redness,red,,Adjective,hunsi,h,Cantonese 紅色 hung sik,/hʊŋ²¹ sɪk̚⁵/,Sino-Tibetan,hünsık,Color,0,0,0,1,1,0,0,0,hoonsik,6,09.08.21.14.05
 ɂ̃ʄɐʄɽ̃,hünsüon,partner,to be a partner,partner,partner-related,,Noun,,h,Thai หุ้นส่วน hûn-sùuan,/hun˥˩.sua̯n˨˩/,Kra-Dai,hünsüon,Sociology,1,0,0,2,0,0,0,0,hoonswan,7,09.08.21.14.08
 ɂʄʒʃ,hüwu,egg,to be a egg,egg,egg-related,,Noun,huwa,h,Hawaiian hua,[ˈhuwə],Austronesian,hüwu,Body,0,0,1,1,0,0,0,0,hoowu,4,09.08.22.07.00
+ɂʄʒ̃ʃꞇ͊ʃ,hüwuncul,plastic,to be a plastic,plastic,plastic-related,,Noun,,h,Mongolian хуванцар qubančir ,/ˈxʊw̜ənt͡sər/,Mongolic,hüwuncul,Material,0,0,2,1,0,0,0,0,hoowuncul,8,09.08.22.07.21
 ɂʄʓʌ̑ʇ,hülodëk,waste,to be waste/garbage,waste/garbage,waste/garbage-related,,Noun,,h,Hungarian hulladék,[ˈhulːɒdeːk],Uralic,hülodëk,Material,1,0,0,1,0,0,0,1,hooladaek,7,09.08.23.01.16
 ɂʄʓʄ,hülü,grass,to be a ground cover plant,a ground cover plant,ground cover plant related,,Noun,,h,Kannada ಹುಲ್ಲು hullu,/hullu/,Dravidian,hülü,Biology,0,0,0,2,0,0,0,0,hooloo,4,09.08.23.08.00
 ɔ,ko,interrogative clause ender (yes?),-,-,-,-,Postposition,ka,k,Japanese か ka,[ka̠],Japonic,ko,Grammar 2,1,0,0,0,0,0,0,0,ka,2,10.01.00.00.00
@@ -162,7 +163,7 @@
 ɔ̃ʋȷ,konpı,hard,to be hard/rigid/stiff,hardness/rigidness/stiffness,hard/rigid/stiff,,Adjective,kijeta,k,Khmer កំព្រឹស kɑmprɨh,/kɑmp.ˈrɨh/,Austro-Asiatic,konpı,Material,1,0,0,0,1,0,0,0,kanpi,5,10.01.21.18.05
 ɔ̃ʒ,konwo,rhythm/beat,to be a rhythm/beat,rhythm/beat,rhythm/beat-related,,Adjective,,k,Khmer ចង្វាក់ cɑngvak,/cɑŋ.ˈʋaʔ/,Austro-Asiatic,konwo,"Arts, Crafts, Objects, & Tools",2,0,0,0,0,0,0,0,kanwa,5,10.01.21.22.01
 ɔʓʒ,kolowo,art,to be art,art,art-related/artistic,,Noun,kalawa,k,Sinhalese කලාව kalāwa,,Indo-Iranian,kolowo,"Arts, Crafts, Objects, & Tools",3,0,0,0,0,0,0,0,kalawa,6,10.01.23.01.22
-ɔʓɟ,koli,down,to be the below region,below region,below/down,,Noun,kali,k,Marathi खाली khālī,,Indo-Iranian,koli,"Geography, Environment, & Location",1,0,0,0,0,1,0,0,kalee,4,10.01.23.06.00
+ɔʓɟ,koli,down,to be the below region,below region,below/down,,Noun,kali,k,Marathi खाली khālī,[kʰäː.liː],Indo-Iranian,koli,"Geography, Environment, & Location",1,0,0,0,0,1,0,0,kalee,4,10.01.23.06.00
 ɔıɽɟ,köi,epistemic verb particle,-,-,-,-,Particle,,k,Min Dong 可以 kō̤-ī,/kʰɔ.i/,Sino-Tibetan,köi,Grammar 2,0,1,0,0,0,1,0,0,koy,3,10.02.06.00.00
 ɔıɔɔʄ,kökokü,skeleton,to be a frame/skeleton,frame/skeleton,frame-related/skeleton-related,,Noun,,k,Japonese こっかく kokkaku,[ko̞k̚ka̠kɯ̟ᵝ],Japonic,kökokü,Body,1,1,0,1,0,0,0,0,kokakoo,6,10.02.10.01.10
 ɔıc,köto,to talk (speech),to talk/say,speech,sayable,to prattle/gab/babble,Verb,kota,k,Bengali কথা kotha,/kɔ.tʰa/,Indo-Iranian,köto,Abstract & Communication,1,1,0,0,0,0,0,0,kota,4,10.02.12.01.00
@@ -235,7 +236,6 @@
 ꜿıꞇɟʌ̃,göcidon,to choose (a choice),to choose,a choice/decision,choosable,,Verb,cakuwa,g,Persian گزیدن gozidan,[ɡ̥o.ziː.d̪ǽn],Indo-Iranian,göcidon,Evaluation,1,1,0,0,0,1,0,0,goceedan,7,11.02.13.06.16
 ꜿ̃ıɀʃƶ̃,gönyumon,grunting/growling,to be grunting/growling,gruntiness/growliness,grunting/growling,,Adjective,,g,French grognement,/ɡʁɔ.ɲ(ə).mɑ̃/,Romance,gönyumon,Senses & Motion,1,1,1,0,0,0,0,0,gonyuman,8,11.02.21.24.07
 ꜿıʒ,göwo,foolish/obtuse,to be foolish/obtuse,foolishness/obtuseness,foolish/obtuse,,Adjective,,g,Oromo gowwaa,/gɔwːɑː/,Afroasiatic,göwo,Emotion,1,1,0,0,0,0,0,0,gowa,4,11.02.22.01.00
-ꜿıʓʃꜿɟ,gölugi,to imply (an implication),to imply/mean,an implication,impliable,to be meaningful,Verb,iwe,g,Welsh golygu,/ɡɔˈləɡi/,Celtic,gölugi,Abstract & Communication,0,1,1,0,0,1,0,0,golugee,6,11.02.23.07.11
 ꜿıʓʄɽ,gölüo,melted,to be melted/liquefied,meltedness/liquefiedness,melted/liquefied,,Adjective,,g,Assamese গলোৱা golüa,/ɡɔ.lʊa/,Indo-Iranian,gölüo,Properties,1,1,0,1,0,0,0,0,golwa,5,11.02.23.08.01
 ꜿıɀʃ,göyu,mouth,to be a mouth,mouth,mouth-related,-,Noun,muku,g,Albanian gojë,/ˈɡojə/,Albanian,göyu,Body,0,1,1,0,0,0,0,0,goyu,4,11.02.24.07.00
 ꜿɿƶʓ̃ɿ,gemolen,milled/ground/crushed,to be milled/ground/crushed,milledness/groundness/crushedness,milled/ground/crushed,,Adjective,,g,German gemahlen,,Germanic,gemolen,Material,1,0,0,0,0,0,2,0,gemalen,7,11.03.20.01.23
@@ -260,7 +260,7 @@
 cɽʄ,toü,06 six,to be six,six,sixth,,Numeral,lijo,t,White Hmong rau,/ʈau̯˧/,Hmong-Mien,toü,Numbers & Time,1,0,0,1,0,0,0,0,taw,3,12.01.08.00.00
 cɽʄɀ̃ɿ,toüyen,to hate (a hated entity),to hate/dislike,a hated thing,hatable/dislikeable,,Verb,tajen,t,Mandarin 討厭 tǎoyàn,/tʰɑʊ̯jɛn/,Sino-Tibetan,toüyen,Emotion,1,0,0,1,0,0,1,0,tawyen,6,12.01.08.24.03
 cɂȷʓ̑ı,tohılök,cone,to be a cone,cone,cone-related,,Noun,takilo,t,Tagalog tagilog,[tɐ.ɣɪˈloɡ],Austronesian,tohılök,"Structures, Geometry, & Dimensions",1,1,0,0,1,0,0,0,tahilok,7,12.01.09.05.23
-cꞇȷ,tocı,standing,to be standing/vertical,verticality,standing/vertical,,Adjective,inalo,t,Japanese 立つ tatsu,[ta̠t͡sɨᵝ],Japonic,tocı,Properties,1,0,0,0,1,0,0,0,taci,4,12.01.13.05.00
+c̆ɐȷ,totsı,standing,to be standing/vertical,verticality,standing/vertical,,Adjective,inalo,t,Japanese 立つ tatsu,[ta̠t͡sɨᵝ],Japonic,totsı,Properties,1,0,0,0,1,0,0,0,tatsi,5,12.01.12.14.05
 ćʒ͊ɟ,toswil,to draw (a picture),to draw,a drawing/picture,drawable,,Verb,tasuwi,t,Arabic تَصْوِير taṣwīr,/tasˤ.wiːr/,Afroasiatic,toswil,"Arts, Crafts, Objects, & Tools",1,0,0,0,0,1,0,0,tasweel,6,12.01.14.22.06
 c̃ʋ̑ꞇ̆ʃ,tonpokcut,protein,to be a protein,a protein,protein-related,,Noun,,t,Hakka 蛋白質 tan4 pag6 zed5,/tʰan.pʰak.tse̞t/,Sino-Tibetan,tonpokcut,Biology,2,0,1,0,0,0,0,0,tanpakcut,9,12.01.21.18.01
 cʒʇ,towë,hair/fur/plumage,to be hair/fur/plumage,hair/fur/plumage,hair/fur/plumage-related,,Noun,tawe,t,Guaraní tague,/ta.ˈɰʷe/,Tupian,towë,Body,1,0,0,0,0,0,0,1,tawae,4,12.01.22.04.00
@@ -269,7 +269,7 @@ cʓȷɀ,tolıyo,pasta,to be pasta,pasta,pasta-related,,Noun,,t,Hausa taliya,/ta.
 cʓɟɔ,toliko,method,to be a method/process,method/process,method/process-related,,Noun,talika,t,Arabic طَرِيقَة ṭarīqa,/tˤa.riː.qa/,Afroasiatic,toliko,Abstract & Communication,2,0,0,0,0,1,0,0,taleeka,6,12.01.23.06.10
 c͊ɋʇc,tolxëto,card,to be a card,card,card-related,,Noun,,t,Galician tarxeta,[taɾʃeta],Romance,tolxëto,"Arts, Crafts, Objects, & Tools",2,0,0,0,0,0,0,1,talshaeta,7,12.01.23.15.04
 cıꞇ̆ɟ,töcit,blunt,to be blunt/dull,bluntness/dullness,blunt/dull,,Adjective,,t,Romanian tocit,/toˈt͡ʃit/,Romance,töcit,Properties,0,1,0,0,0,1,0,0,toceet,5,12.02.13.06.12
-cıɋʄꞇȷ,töxücı,bump,to be a protrusion/bulge/bump,a protrusion/bulge/bump,protrusion-like/bulge-like/bump-like,,Noun,,t,Japanese とっしゅつ tosshutsu,[to̞ɕːɯ̟̊ᵝt͡sɨᵝ],Japonic,töxücı,"Geography, Environment, & Location",0,1,0,1,1,0,0,0,toshooci,6,12.02.15.08.13
+cıɋ̆ʄɐȷ,töxütsı,bump,to be a protrusion/bulge/bump,a protrusion/bulge/bump,protrusion-like/bulge-like/bump-like,,Noun,,t,Japanese とっしゅつ tosshutsu,[to̞ɕːɯ̟̊ᵝt͡sɨᵝ],Japonic,töxütsı,"Geography, Environment, & Location",0,1,0,1,1,0,0,0,toshootsi,7,12.02.15.08.12
 cıƶ́ı,tömös,book,to be a tome/book,a tome/book,tome/book-related,,Noun,,t,Greek τόμος tómos,/ˈto.mos/,Hellenic,tömös,"Arts, Crafts, Objects, & Tools",0,2,0,0,0,0,0,0,tomos,5,12.02.20.02.14
 c̃ıɔı,tönkö,hurting/suffering,to be hurting/suffering,pain/suffering,hurting/suffering,,Adjective,tonko,t,Min Nan 痛苦 thòng-khó͘ ,/tʰɔŋkʰɔ/,Sino-Tibetan,tönkö,Properties,0,2,0,0,0,0,0,0,tonko,5,12.02.21.10.02
 c͊ıɔɟ,tölki,only,to be alone/exclusive,aloneness/exclusiveness,alone/only/exclusively,,Adjective,samo,t,Belarusian то́лькі tólʹki,[ˈtolʲkʲi],Balto-Slavic,tölki,Evaluation,0,1,0,0,0,1,0,0,tolkee,5,12.02.23.10.06
@@ -344,6 +344,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ꞇʄcɟ,cüti,small,to be small,smallness,small,,Adjective,cina,c,K'iche' ch'uti,[t͡ʃuti],Mayan,cüti,"Structures, Geometry, & Dimensions",0,0,0,1,0,1,0,0,cootee,4,13.08.12.06.00
 ꞇʄɋɟɽ̃ɿ,cüxien,constrained,to be constrained/bound,constrainedness/boundness,constrained/bound,,Adjective,,c,Mandarin 局限 júxiàn,/tɕu.ɕjɛn/,Sino-Tibetan,cüxien,Evaluation,0,0,0,1,0,1,1,0,cooshyen,6,13.08.15.06.03
 ꞇʄʌ,cüdo,to give (a gift),to give,a gift,giveable,,Verb,tene,c,Korean 주다 juda,[t͡ɕuda̠],Koreic,cüdo,Abstract & Communication,1,0,0,1,0,0,0,0,cooda,4,13.08.16.01.00
+ɐȷɔ́ɟƨ̆,cüpü,fermented/soured,to be fermented/soured,rancidness/sourness,fermented/soured,,Adjective,,c,Tibetan སྐྱུར་མོ skyur mo,/ɕu˥.pʊ˥˧/,Sino-Tibetan,cüpü,Food & Drink,0,0,0,2,0,0,0,0,coopoo,4,13.08.18.08.00
 ꞇ̃ʄꜿ,cüngo,to filter (the filtered),to filter/sieve/winnow,the filtered/sieved/winnowed,filterable/sieveable/winnowable,,Verb,,c,Swahili -chunga,[tʃuᵑɡ̊ɑ],Niger-Congo,cüngo,Science & Medical,1,0,0,1,0,0,0,0,coonga,5,13.08.21.11.01
 ꞇ̃ʄʌ͊ı,cündöl,collision,to be an impact/crash/collision,impact/crash/collision,impact/crash/collision-related,,Noun,,c,Korean 충돌 chungdo,[t͡ɕʰuŋdo̞ɭ],Koreic,cündöl,Senses & Motion,0,1,0,1,0,0,0,0,coondol,6,13.08.21.16.02
 ꞇ̃ʄɤʄ,cünvü,repeating,to be repeating/repetitive,repetitiveness/repetition/cycle,repeating/repetitive,,Adjective,cunpu,c,Mandarin 重複 chóngfù,/ʈ͡ʂʰʊŋfu/,Sino-Tibetan,cünvü,Evaluation,0,0,0,2,0,0,0,0,coonvoo,5,13.08.21.19.08
@@ -380,7 +381,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɐʇʌʃ,sëdu,station/garage,to be a station/garage,station/garage,station/garage-related,,Noun,,s,Wu 站頭 ze-deu,/ze.dɤ/,Sino-Tibetan,sëdu,"Structures, Geometry, & Dimensions",0,0,1,0,0,0,0,1,saedu,4,14.04.16.07.00
 ɐʇƶɽȷ,sëmoı,heaven,to be heaven/paradise,heaven/paradise,heavenly/paradise-like,,Noun,,s,Tigrinya ሰማይ sämay,/semaɪ̯/,Afroasiatic,sëmoı,Sociology,1,0,0,0,1,0,0,1,saemai,5,14.04.20.01.05
 ɐ̃ʇⱴı,sënzö,ancestral,to be ancestral,ancestrality,ancestral,,Adjective,,s,Japanese 先せん祖ぞ senzo,[sẽ̞nd͡zo̞],Japonic,sënzö,Sociology,0,1,0,0,0,0,0,1,saencho,5,14.04.21.17.02
-ɐȷɔ́ɟƨ̆,sıkisnot,fermented/soured,to be fermented/soured,rancidness/sourness,fermented/soured,,Adjective,,s,Macedonian,[ˈskisnat],Balto-Slavic,sıkisnot,Food & Drink,1,0,0,0,1,1,0,0,sikeesnat,8,14.05.10.06.14
+ɐ͊ʇʋı,sëlpö,yellow,to be yellow,yellowness,yellow,,Adjective,sepo,s,Tibetan སེར་པོ ser po,/ser.po/,Sino-Tibetan,sëlpö,Color,0,1,0,0,0,0,0,1,saelpo,5,14.04.23.18.02
 ɐ̆ȷɀ,sıtyo,to sit on (a seat),to sit (on),a seat,sitable,,Verb,sitija,s,Icelandic sitja,/ˈsɪːtja/,Germanic,sıtyo,"Arts, Crafts, Objects, & Tools",1,0,0,0,1,0,0,0,sitya,5,14.05.12.24.01
 ɐ́ȷɔ̃ȷ,sıskın,sibling,to be a sibling,sibling,sibling/related,,Noun,wala,s,Iclandic systkin,/ˈsɪs(t)kɪːn/,Germanic,sıskın,Sociology,0,0,0,0,2,0,0,0,siskin,6,14.05.14.10.05
 ɐ̃ȷɐɟ,sınsi,town/city,to be a town/city,town/city,town/city-related,,Noun,sinsi,s,Cantonese 城市 sing si,/sɪŋsiː/,Sino-Tibetan,sınsi,Sociology,0,0,0,0,1,1,0,0,sinsee,5,14.05.21.14.06
@@ -420,13 +421,12 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɋ͊ɋɟʓɟ,xolxili,teal,to be teal,teal-ness,teal,,Adjective,,x,Arabic شَرْشِيرِيّ šaršīriyy,/ʃar.ʃiː.rijj/,Afroasiatic,xolxili,Color,1,0,0,0,0,2,0,0,shalsheelee,7,15.01.23.15.06
 ɋıʋɽɟ,xöpoi,salty,to be salty,saltiness,salty,,Adjective,nankin,x,Japanese 塩っぱい shoppai,[ɕo̞p̚pa̠i],Japonic,xöpoi,Food & Drink,1,1,0,0,0,1,0,0,shopai,5,15.02.18.01.06
 ɋıƶ̆ʄʓı,xömütlö,ocean,to be an ocean/sea,ocean/sea,ocean/sea-related,,Noun,,x,Bengali সমুদ্র śomudro,/ʃo.mud.ro/,Indo-Iranian,xömütlö,"Geography, Environment, & Location",0,2,0,1,0,0,0,0,shomootlo,7,15.02.20.08.12
-ɋ̃ı,xön,good,to be good,goodness,good,,Adjective,tope,x,White Hmong zoo,/ʐɒ̃˧/,Hmong-Mien,xön,Evaluation,0,1,0,0,0,0,0,0,shon,3,15.02.21.00.00
+ɋ̃ı,xön,good,to be good,goodness,good,,Adjective,tope,x,White Hmong zoo,/ʐɔŋ˧/,Hmong-Mien,xön,Evaluation,0,1,0,0,0,0,0,0,shon,3,15.02.21.00.00
 ɋıƨʇ,xönë,different,to be different,difference,different,,Adjective,sone,x,Hebrew שׁוֹנֶה shoné,,Afroasiatic,xönë,Evaluation,0,1,0,0,0,0,0,1,shonae,4,15.02.21.04.00
 ɋɿꞇɟƨ̄,xecinoc,crossed/intersected,to be crossed/intersected,crossed-ness/intersected-ness/intersection,crossed/intersected,,Adjective,kisowa,x,Polish przecinać,/pʂɛˈt͡ɕi.nat͡ɕ/,Balto-Slavic,xecinoc,Evaluation,1,0,0,0,0,1,1,0,sheceenac,7,15.03.13.06.21
 ɋɿɤɟⱴ̄ɿ,xevizec,to predict (a prediction),to predict,a prediction,predictable,,Verb,,x,Polish przewidzieć,/pʂɛˈvi.d͡ʑɛt͡ɕ/,Balto-Slavic,xevizec,Abstract & Communication,0,0,0,0,0,1,2,0,sheveechec,7,15.03.19.06.17
 ɋɿƶ̆ʇɐ̃ɿ,xemëtsen,noun,to be a noun,noun,noun-related,,Noun,,x,Hebrew שֵׁם עֶצֶם‎ shem étsem,/ʃɛm ˈɛtsɛm/,Afroasiatic,xemëtsen,"Language, Mind, & Identity",0,0,0,0,0,0,2,1,shemaetsen,8,15.03.20.04.12
 ɋʇcɟ,xëti,07 seven,to be seven,seven,seventh,,Numeral,setan,x,Kazakh жеті jetı,[ʒeˈti],Turkic,xëti,Numbers & Time,0,0,0,0,0,1,0,1,shaetee,4,15.04.12.06.00
-ɋʇʋı,xëpö,yellow,to be yellow,yellowness,yellow,,Adjective,sepo,x,Tibetan སེར་པོ ser po,,Sino-Tibetan,xëpö,Color,0,1,0,0,0,0,0,1,shaepo,4,15.04.18.02.00
 ɋ̃ʇc͊ɟ,xëntil,gentle/kind,to be gentle/kind,gentleness/kindness,gentle/kind,,Adjective,,x,Portuguese gentil,[ʒẽˈtiɫ],Romance,xëntil,Emotion,0,0,0,0,0,1,0,1,shaenteel,6,15.04.21.12.06
 ɋȷꞇɟɽʇ,xıcië,detail,to be a detail,detail,detail-related,,Noun,,x,Chinese 細節 xìjié,/ɕɨ.t͡ɕje/,Sino-Tibetan,xıcië,Abstract & Communication,0,0,0,0,1,1,0,1,shiceeae,5,15.05.13.06.04
 ɋ̃ȷꜿı,xıngö,neck/throat,to be a neck/throat,a neck/throat,neck-related/throat-related,,Noun,,x,Swahili shingo,/ʃin.goː/,Niger-Congo,xıngö,Body,0,1,0,0,1,0,0,0,shingo,5,15.05.21.11.02
@@ -468,7 +468,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ʌɟʌıⱴʄ,didözü,neutral,to be neutral,neutrality,neutral,,Adjective,,d,Yoruba didoju,/di.do.d͡ʒu/,Niger-Congo,didözü,Evaluation,0,1,0,1,0,1,0,0,deedochoo,6,16.06.16.02.17
 ʌɟⱴ͊ɿ,dizel,other,to be an other,an other,raveres,-,Pronoun,,d,Azerbaijani digər,[ˈdid͡ʒær],Turkic,dizel,"Language, Mind, & Identity",0,0,0,0,0,1,1,0,deechel,5,16.06.17.03.23
 ʌ̃ɟꞇɟ,dinci,block,to be a block/brick,block/brick,block/brick-related,,Noun,poloko,d,Lao ດິນຈີ່ din chī,[din˩(˧).t͡ɕiː˧],Kra-Dai,dinci,"Structures, Geometry, & Dimensions",0,0,0,0,0,2,0,0,deencee,5,16.06.21.13.06
-ʌ̃ɟɀɽ̄ʄ,dinyoüc,lip/rim/edge,to be a lip/rim/edge,lip/rim/edge,labial/rim-like/edge-like,,Noun,,d,Whtie Hmong di ncauj,,Hmong-Mien,dinyoüc,"Structures, Geometry, & Dimensions",1,0,0,1,0,1,0,0,deenyawc,7,16.06.21.24.01
+ʌ̃ɟⱴɽʄ,dinzoü,lip/rim/edge,to be a lip/rim/edge,lip/rim/edge,labial/rim-like/edge-like,,Noun,,d,Whtie Hmong di ncauj,/di˧.ᶮɟau̯˥˧/,Hmong-Mien,dinzoü,"Structures, Geometry, & Dimensions",1,0,0,1,0,1,0,0,deenchaw,6,16.06.21.17.01
 ʌɟʓʇ,dilë,slow,to be slow,slowness,slow,,Adjective,tile,d,Hindi धीरे dhīre,/d̪ʱiː.ɾeː/,Indo-Iranian,dilë,Senses & Motion,0,0,0,0,0,1,0,1,deelae,4,16.06.23.04.00
 ʌɟɀ̃ʌʇ,diyondë,to focus [on]/pay attention [to],to focus [on]/pay attention [to],a focus/topic/center of attention,focusable,to be attentive,Verb,tijante,d,Hindi ध्यान दे dhyān de,/d̪ʱjɑːn/+/d̪eː/,Indo-Iranian,diyondë,"Language, Mind, & Identity",1,0,0,0,0,1,0,1,deeyandae,7,16.06.24.01.21
 ʌʃɽʄɂ̃,duühon,to surrender (the surrendered),to surrender,the surrendered,surrenderable,,Verb,,d,Vietnamese đầu hàng,[ʔɗəw˨˩ haːŋ˨˩],Austro-Asiatic,duühon,Abstract & Communication,1,0,1,1,0,0,0,0,duoohan,6,16.07.08.09.01
@@ -490,11 +490,10 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ⱴƶ,zomo,group,to be a group/collection,group/collection considered as a whole,group/collection-related,,Noun,non,z,Arabic جَمَاعَة⁩ jamāʕa,/d͡ʒa.maː.ʕa/,Afroasiatic,zomo,Abstract & Communication,2,0,0,0,0,0,0,0,chama,4,17.01.20.01.00
 ⱴƶɟ,zomi,society/culture,to be a society/culture,society/culture,society/culture-related,,Noun,,z,Swahili jamii,/dʒɑ'miː/,Niger-Congo,zomi,Sociology,1,0,0,0,0,1,0,0,chamee,4,17.01.20.06.00
 ⱴƶʄƨɟ,zomüni,purple,to be purple,purpleness,purple,,Adjective,sunaja,z,Hindi जामुनी jāmunī,[d͡ʒäː.mʊ.n̪iː],Sino-Tibetan,zomüni,Color,1,0,0,1,0,1,0,0,chamoonee,6,17.01.20.08.21
-ⱴƨʄʋɟ,zonüpi,southern,to be southern,southerliness,southern,,Adjective,,z,Arabic جَنُوبِيّ janūbiyy,,Afroasiatic,zonüpi,"Geography, Environment, & Location",1,0,0,1,0,1,0,0,chanoopee,6,17.01.21.08.18
+ⱴƨʄʋɟ,zonüpi,southern,to be southern,southerliness,southern,,Adjective,,z,Arabic جَنُوبِيّ janūbiyy,[d͡ʒä.nuː.bíː],Afroasiatic,zonüpi,"Geography, Environment, & Location",1,0,0,1,0,1,0,0,chanoopee,6,17.01.21.08.18
 ⱴ̃ʒ͊ʃ,zonwul,animal,to be an animal,animal,animal-related,,Noun,canwa,z,Hindi जानवर jānvar,[d͡ʒä̃ːn̪.wəɾ],Indo-Iranian,zonwul,Biology,1,0,1,0,0,0,0,0,chanwul,6,17.01.21.22.07
 ⱴʒ,zowo,caniform,to be a caniform,caniform,caniform-related,,Noun,pawo,z,Guaraní jagua,/d͡ʒaˈɰʷa/,Tupian,zowo,Biology,2,0,0,0,0,0,0,0,chawa,4,17.01.22.01.00
-ⱴʒʋʄ,zowopü,to answer [with] (a response),to answer/respond [with],an answer/response,answered/responded,,Verb,cawapu,z,Swahili jawabu,,Niger-Congo,zowopü,Abstract & Communication,2,0,0,1,0,0,0,0,chawapoo,6,17.01.22.01.18
-ⱴʓƨɟ,zoloni,fuel,to be fuel,fuel,fuel-related,,Noun,,z,Bengali জ্বালানি jalani,,Indo-Iranian,zoloni,Material,2,0,0,0,0,1,0,0,chalanee,6,17.01.23.01.21
+ⱴʓƨɟ,zoloni,fuel,to be fuel,fuel,fuel-related,,Noun,,z,Bengali জ্বালানি jalani,[ˈd͡ʒalani],Indo-Iranian,zoloni,Material,2,0,0,0,0,1,0,0,chalanee,6,17.01.23.01.21
 ⱴʓɟ,zoli,bush/shrub,to be a bush/shrub,bush/shrub,bush/shrub-like,,Noun,,z,Hindi झाड़ी jhāṛī,[d͡ʒʱäː.ɽiː],Indo-Iranian,zoli,Biology,1,0,0,0,0,1,0,0,chalee,4,17.01.23.06.00
 ⱴıɽɟ,zöi,blue,to be blue,blueness,blue,,Adjective,nile,z,Azerbaijani göy,[d͡ʒœj],Turkic,zöi,Color,0,1,0,0,0,1,0,0,choy,3,17.02.06.00.00
 ⱴıɂ̃ʄ,zöhün,nutrient,to be a nutrient,nutrient,nutrient-related,,Noun,,z,Khazak жұғым jūğym,[ʑo̙ʁʊwm],Turkic,zöhün,Food & Drink,0,1,0,1,0,0,0,0,chohoon,5,17.02.09.08.21
@@ -515,6 +514,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ⱴ͊ɟɀɽ́ɟ,zilyois,deep,to be deep,depth,deep,,Adjective,,z,Latvian dziļais,[d̪͡z̪iʎɑis̪],Balto-Slavic,zilyois,Evaluation,1,0,0,0,0,2,0,0,cheelyais,7,17.06.23.24.01
 ⱴʃɔ,zuko,bag,to be a bag,bag,bag-related,,Noun,,z,Hausa jàkā,[d͡ʒə̀.káː],Afroasiatic,zuko,"Arts, Crafts, Objects, & Tools",1,0,1,0,0,0,0,0,chuka,4,17.07.10.01.00
 ⱴ́ʃʋ̆,zuspot,emotion,to be an emotion,an emotion,emotion-related,,Noun,pela,z,Urdu  جَذْبَات jaẕbāt,[ˈd͡ʒəzbaːt],Indo-Iranian,zuspot,Emotion,1,0,1,0,0,0,0,0,chuspat,6,17.07.14.18.01
+ⱴʃʒʋʄ,zuwopü,to answer [with] (a response),to answer/respond [with],an answer/response,answered/responded,,Verb,cawapu,z,Swahili jawabu,/d͡ʒa'wa.bu/,Niger-Congo,zuwopü,Abstract & Communication,1,0,1,1,0,0,0,0,chuwapoo,6,17.07.22.01.18
 ⱴʄɂʃ,zühu,tongue,to be a tongue,tongue,tongue-related,,Noun,,z,Albanian gjuhë,/ˈɟuhə/,Albanian,zühu,Body,0,0,1,1,0,0,0,0,choohu,4,17.08.09.07.00
 ⱴʄcı,zütö,to regret (a regret),to regret/symphasize,a regret/sympathy,regrettable/sympathizable,,Verb,,z,Swahili juto,/d͡ʒuto/,Niger-Congo,zütö,Emotion,0,1,0,1,0,0,0,0,chooto,4,17.08.12.02.00
 ⱴ̃ʄꜿı,züngö,hand,to be a hand,hand,hand-related,,Noun,,z,Fula junngo,[d͡ʒuŋᵑɡɔ],Niger-Congo,züngö,Body,0,1,0,1,0,0,0,0,choongo,5,17.08.21.11.02
@@ -545,6 +545,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ʋ̃ıcȷ,pöntı,bridge,to be a bridge,bridge,bridge-related,,Noun,,p,Galician ponte,[ˈpɔntɪ],Romance,pöntı,"Structures, Geometry, & Dimensions",0,1,0,0,1,0,0,0,ponti,5,18.02.21.12.05
 ʋıʓʃcʇ,pölutë,foreign,to be foreign/exotic,foreignness/exoticness,foreign/exotic,,Adjective,,p,Khmer បរទេស bɑɑrĕəʼteih,/ɓɑː.rĕəʔ.teih/,Austro-Asiatic,pölutë,Sociology,0,1,1,0,0,0,0,1,polutae,6,18.02.23.07.12
 ʋ͊ıɤʇʓʇ,pölvëlë,powder,to be powder/dust,powder/dust,powder/dust-related,,Noun,powele,p,Italian polvere,/ˈpol.ve.re/,Romance,pölvëlë,Material,0,1,0,0,0,0,0,2,polvaelae,7,18.02.23.19.04
+ʋɿcɟʌ,petido,to mean (a meaning),to mean/convey,a meaning,conveyable/meaning-like,to be meaningful,Verb,iwe,p,Swedish betyda,/bɛ¹tyːda/,Germanic,petido,Abstract & Communication,1,0,0,0,0,1,1,0,peteeda,6,18.03.12.06.16
 ʋɿɐ͊,pesol,to seal/lock (the sealed/locked),to seal/lock,the sealed/locked,sealable/lockable,,Verb,,p,Hungarian bezár,[ˈbɛzaːr],Uralic,pesol,Properties,1,0,0,0,0,0,1,0,pesal,5,18.03.14.01.23
 ʋɿʓʇɋʃ,pelëxu,to mark (a target),to mark/target,a target,markable/targetable,,Verb,,p,Bulgarian беле́жа beléža,[bɛˈlɛʒɐ],Balto-Slavic,pelëxu,Abstract & Communication,0,0,1,0,0,0,1,1,pelaeshu,6,18.03.23.04.15
 ʋɿʓɟɐ́ɟ,pelisis,unsure,to be unsure/uncertain,unsureness/uncertainty,unsure/uncertain,,Adjective,,p,Turkish bellisiz,/bɛl.li'siz/,Turkic,pelisis,Emotion,0,0,0,0,0,2,1,0,peleesees,7,18.03.23.06.14
@@ -570,6 +571,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ʋ̃ɟc̃,pinton,star,to be a star,star,star-like,,Noun,pintan,p,Malay bintang,/bintaŋ/,Austronesian,pinton,Science & Medical,1,0,0,0,0,1,0,0,peentan,6,18.06.21.12.01
 ʋɟʓ́ʄ,pilüs,victorious,to be victorious,victoriousness/victory,victorious,,Adjective,pilu,p,Persian پیروز piruz,[pʰiː.ɹúːz],Indo-Iranian,pilüs,Sociology,0,0,0,1,0,1,0,0,peeloos,5,18.06.23.08.14
 ʋʃɔʄ,pukü,frozen,to be frozen/congealed/solidified/ossified,frozenness/congealedness/solidity,frozen/congealed/solidified/ossified,,Adjective,,p,Malay,[bəˈku],Austronesian,pukü,Properties,0,0,1,1,0,0,0,0,pukoo,4,18.07.10.08.00
+ʋ̆ʃ,put,open,to be open,openness,open,,Adjective,kula,p,Thai เปิด bpə̀ət,/pɤːt̚˨˩/,Kra-Dai,put,Properties,0,0,1,0,0,0,0,0,put,3,18.07.12.00.00
 ʋʃꞇƨ,pucono,to save/rescue (the saved/rescued),to save/rescue,the saved/rescued,saveable/rescuable,,Verb,,p,Hindi बचाना bacānā,/bə.t͡ʃɑː.nɑː/,Indo-Iranian,pucono,Abstract & Communication,2,0,1,0,0,0,0,0,pucana,6,18.07.13.01.21
 ʋ́ʃʒ̃ɿ,puswen,to need (a requirement),to need/require,a need/requirement,necessary/requisite,,Verb,pesuwan,p,French besoin,/bə.zwɛ̃/,Romance,puswen,Abstract & Communication,0,0,1,0,0,0,1,0,puswen,6,18.07.14.22.03
 ʋ́ʃʒʇʓ̃ȷ,puswëlın,oath/incantation,to be an oath/incantation,oath/incancation,oath/incantation-related,,Noun,,p,Dutch bezwering,/bəˈzʋeː.rɪŋ/,Germanic,puswëlın,Sociology,0,0,1,0,1,0,0,1,puswaelin,8,18.07.14.22.04
@@ -598,7 +600,6 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɤ̃ƶ̆,vonmot,absent/nonexistent,to be absent/nonexistent,absentness/nonexistentness,absent/nonexistent,,Adjective,lipan,v,Vietnamese vắng mặt,[vaŋ˧˦ mat̚˧˨ʔ],Austro-Asiatic,vonmot,"Geography, Environment, & Location",2,0,0,0,0,0,0,0,vanmat,6,19.01.21.20.01
 ɤʓ,volo,atom,to be a particle/atom,particle/atom,to be a particle/atom,,Noun,sala,v,Arabic ذَرَّة ḏarra,/ðar.ra/,Afroasiatic,volo,Science & Medical,2,0,0,0,0,0,0,0,vala,4,19.01.23.01.00
 ɤıɂ̃,vöhon,forward,to be the front/forward region,front/forward region,front-related/forward,,Noun,polan,v,German voran,/foˈʁan/,Germanic,vöhon,"Geography, Environment, & Location",1,1,0,0,0,0,0,0,vohan,5,19.02.09.01.21
-ɤ́ıɔ͊ʃcʃ,vöskultu,open,to be open,openness,open,,Adjective,kula,v,Scottish Gaelic fosgailte,[ˈfoskəlʲtʲə],Celtic,vöskultu,Properties,0,1,2,0,0,0,0,0,voskultu,8,19.02.14.10.07
 ɤıʌʓ̄,vödoloc,algae/moss,to be algae/moss,algae/moss,algae/moss-like,,Noun,,v,Belarusian во́дарасць vódarascʹ,[ˈvodarasʲt͡sʲ],Balto-Slavic,vödoloc,Biology,2,1,0,0,0,0,0,0,vodalac,7,19.02.16.01.23
 ɤıʓ̃ʃ,völun,to want (a desire),to want/desire,a desire,wantable/desirable,,Verb,ju,v,German wollen,/ˈvɔlən/,Germanic,völun,Emotion,0,1,1,0,0,0,0,0,volun,5,19.02.23.07.21
 ɤ͊ıc̃,völton,hereafter,to be hereafter,henceforth-ness,hereafter,,Adjective,,v,Dutch voortaan,/ˈvoːrtaːn/,Germanic,völton,Numbers & Time,1,1,0,0,0,0,0,0,voltan,6,19.02.23.12.01
@@ -628,13 +629,13 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɤʄɽ̃ꜿ̑,vüongok,illusion,to be an illusion/hallucination,an illusion/hallucination,illusion/hallucination-related,,Noun,,v,Korean 환각 hwan'gak,[ˈɸwa̠(ː)nɡa̠k̚],Koreic,vüongok,Abstract & Communication,2,0,0,1,0,0,0,0,vwangak,7,19.08.01.21.11
 ɤʄɽ́ʃ,vüus,wax,to be a wax,wax,wax-related,,Noun,,v,Luxembourgish wuess,/vuəs/,Germanic,vüus,Material,0,0,1,1,0,0,0,0,vwus,4,19.08.07.14.00
 ɤʄɔʄꞇȷ,vükücı,revenge/vengeance,to be a revenge/vengeance,revenge/vengeance,revenge/vengeance-related,,Noun,,v,Japanese ふくしゅう fukushū,[ɸɯ̟̊ᵝkɯ̟ᵝɕɨᵝː],Japonic,vükücı,Sociology,0,0,0,2,1,0,0,0,vookooci,6,19.08.10.08.13
-ɤʄꞇ̃ʄ,vücün,to obey (a rule),to obey,a rule/law,obeyable,,Verb,pucun,v,Mandarin 服從 fúcóng,/fu³⁵ t͡sʰʊŋ³⁵/,Sino-Tibetan,vücün,Abstract & Communication,0,0,0,2,0,0,0,0,voocoon,5,19.08.13.08.21
+ɤ̆ʄɐ̃ʄ,vütsün,to obey (a rule),to obey,a rule/law,obeyable,,Verb,pucun,v,Mandarin 服從 fúcóng,/fu³⁵ t͡sʰʊŋ³⁵/,Sino-Tibetan,vütsün,Abstract & Communication,0,0,0,2,0,0,0,0,vootsoon,6,19.08.12.14.08
 ɤʄɋʄʋ̃ɟ,vüxüpin,accessory,to be an accessory/attachment,accessory/attachment,accessory/attachment-related,,Adjective,,v,Chinese 附屬品,/fùʂǔpʰǐn/,Sino-Tibetan,vüxüpin,"Arts, Crafts, Objects, & Tools",0,0,0,2,0,1,0,0,vooshoopeen,7,19.08.15.08.18
 ɤʄƨɟɽʇ,vünië,line,to be a line/string,line/string,line/string-related,,Noun,laki,v,Romanian funie,/fu.nje/,Romance,vünië,"Structures, Geometry, & Dimensions",0,0,0,1,0,1,0,1,vooneeae,5,19.08.21.06.04
 ɤ̃ʄʋı,vünpö,to squeeze (squeezable entity),to clench/squeeze,clenchable/squeezable entity,clenched/squeezed,,Verb,,v,Yoruba fún pọ̀,[fũpɔ̄],Niger-Congo,vünpö,Senses & Motion,0,1,0,1,0,0,0,0,voonpo,5,19.08.21.18.02
 ƶɔ̃,mokon,to eat (food),to eat,food,edible,to scarf/gobble,Verb,makan,m,Indonesian makan,/ma.kan/,Austronesian,mokon,Food & Drink,2,0,0,0,0,0,0,0,makan,5,20.01.10.01.21
 ƶcʄɽ,motüo,parent,to be a parent,parent,parent-related,,Noun,matuwa,m,Māori matua,/ma.ˈtu.a/,Austronesian,motüo,Sociology,2,0,0,1,0,0,0,0,matwa,5,20.01.12.08.01
-ƶꞇȷ,mocı,to await (an expectation),to await/expect,an expectation/awaited thing,expectable/awaitable,,Verb,pese,m,Japanese ま​つ matsu,[ma̠t͡sɨᵝ],Japonic,mocı,Abstract & Communication,1,0,0,0,1,0,0,0,maci,4,20.01.13.05.00
+ƶ̆ɐȷ,motsı,to await (an expectation),to await/expect,an expectation/awaited thing,expectable/awaitable,,Verb,pese,m,Japanese ま​つ matsu,[ma̠t͡sɨᵝ],Japonic,motsı,Abstract & Communication,1,0,0,0,1,0,0,0,matsi,5,20.01.12.14.05
 ƶ̄ɔ,mocko,cat,to be a cat/feline,cat/feline,cat/feline-related,,Noun,meja,m,Czech/Serbo-Croatian/Slovak mačka,/mât͡ʃka/,Balto-Slavic,mocko,Biology,2,0,0,0,0,0,0,0,macka,5,20.01.13.10.01
 ƶ́ɔ͊ʄ,moskül,male,to be male/masculine,maleness/masculinity,male/masculine,,Adjective,maku,m,Romanian mascul,[masˈkul],Romance,moskül,Body,1,0,0,1,0,0,0,0,maskool,6,20.01.14.10.08
 ƶɋ,moxo,decorative/ornamental,to be decorative/ornamental,decorative-ness/ornamentality,decorative/ornamental,,Adjective,,m,Irish maiseach,/ˈmˠaʃa(h)/,Celtic,moxo,Evaluation,2,0,0,0,0,0,0,0,masha,4,20.01.15.01.00
@@ -651,7 +652,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ƶıcʒ,mötowo,content,to be content,content,content-related,,Noun,,m,Persian محتوا mohtavâ,[mo̞ɦ.t̪ʰä.wɑ́ː],Indo-Iranian,mötowo,Abstract & Communication,2,1,0,0,0,0,0,0,motawa,6,20.02.12.01.22
 ƶıcı,mötö,fire,to be fire,fire,fire-related,,Noun,moto,m,Chichewa/Mwani/Ngungwel/Shona/Swahili moto,/ˈmó.to/,Niger-Congo,mötö,Science & Medical,0,2,0,0,0,0,0,0,moto,4,20.02.12.02.00
 ƶıcɟɤı,mötivö,reason,to be a reason/motive,reason/motive,reason/motive-related,,Noun,,m,Spanish motivo,[moˈt̪i.β̞o],Romance,mötivö,Abstract & Communication,0,2,0,0,0,1,0,0,moteevo,6,20.02.12.06.19
-ƶıꞇȷʓʇ,möcılë,to tie (the tied),to tie/entangle/knit/weave,the tied/entangled,tie-able/entangleable,to knit/weave,Verb,,m,Japanese もつれ motsure,[mo̞t͡sɨᵝɾe̞],Japonic,möcılë,Senses & Motion,0,1,0,0,1,0,0,1,mocilae,6,20.02.13.05.23
+ƶ̆ıɐȷʓʇ,mötsılë,to tie (the tied),to tie/entangle/knit/weave,the tied/entangled,tie-able/entangleable,to knit/weave,Verb,,m,Japanese もつれ motsure,[mo̞t͡sɨᵝɾe̞],Japonic,mötsılë,Senses & Motion,0,1,0,0,1,0,0,1,motsilae,7,20.02.12.14.05
 ƶıɤɟ,mövi,brave/courageous,to be brave/courageous,bravery/courageousness,brave/courageous,,Adjective,,m,Danish modig,[ˈmoːði],Germanic,mövi,Emotion,0,1,0,0,0,1,0,0,movee,4,20.02.19.06.00
 ƶıƨɟɐ,möniso,to display/show (a diplay/show),to display/show,a diplay/show,displayable/showable,,Verb,,m,Kituba monisa,[monisa],Niger-Congo,möniso,Abstract & Communication,1,1,0,0,0,1,0,0,moneesa,6,20.02.21.06.14
 ƶɿɤ́ʄ,mevüs,safe,to be safe/protected,safety/protection,safe/protected,to be secured,Adjective,mepu,m,Hindi महफ़ूज़ mahfūz,[mɛɦ.fuːz],Indo-Iranian,mevüs,Evaluation,0,0,0,1,0,0,1,0,mevoos,5,20.03.19.08.14
@@ -688,7 +689,6 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ƶ̃ʄꞇʄ,müncü,tart,to be tart/tangy,tartness/tanginess,tart/tangy,,Adjective,muncu,m,Xhosa -muncu,/mu.ᵑǀu/,Niger-Congo,müncü,Food & Drink,0,0,0,2,0,0,0,0,mooncoo,5,20.08.21.13.08
 ƶʄʓʄ,mülü,complete,to be full/complete,fullness/completeness,full/complete,,Adjective,mulu,m,Tamil முழு muḻu,[muɻɯ],Dravidian,mülü,Evaluation,0,0,0,2,0,0,0,0,mooloo,4,20.08.23.08.00
 ƨɽı,noö,wave,to be a wave/undulation,wave/undulation,wave/undulation-related,,Noun,,n,Gilbertese nao,/näo/,Austronesian,noö,Science & Medical,1,1,0,0,0,0,0,0,nao,3,21.01.02.00.00
-ƨɽɟ,noi,vocative marker,-,-,-,-,Preposition,he,n,Vietnamese này,[naj˨˩],Austro-Asiatic,noi,Grammar 1,1,0,0,0,0,1,0,0,nai,3,21.01.06.00.00
 ƨɽʄɔʃ,noüku,science,to be science,science,science-related,,Noun,,n,Ukrainian нау́ка naúka,[nɐˈukɐ],Balto-Slavic,noüku,Science & Medical,1,0,1,1,0,0,0,0,nawku,5,21.01.08.10.07
 ƨ̑ʌ,nokdo,old,to be old,oldness/age,old,,Adjective,cune,n,Korean 낡다 nakda,[na̠k̚t͈a̠],Koreic,nokdo,Body,2,0,0,0,0,0,0,0,nakda,5,21.01.10.16.01
 ƨꞇɟʌ,nocido,to lose/waste (the lost/wasted),to lose/waste/miss,the lost/wasted/missed,loseable/wasteable/missable,,Verb,,n,Korean 놓치다 notchida,[no̞t̚t͡ɕʰida̠],Koreic,nocido,Evaluation,2,0,0,0,0,1,0,0,naceeda,6,21.01.13.06.16
@@ -821,7 +821,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɀ̄ıƨ,yöcno,program/plan,to be a program/plan,program/plan,program/plan-related,,Noun,,y,Hindi ,[joːd͡ʒ.n̪äː],Indo-Iranian,yöcno,Abstract & Communication,1,1,0,0,0,0,0,0,yocna,5,24.02.13.21.01
 ɀ̃ı,yön,to use (a tool),to use,a tool,usable,,Verb,jon,y,Min Nan 用 iōng,/iɔŋ/,Sino-Tibetan,yön,"Arts, Crafts, Objects, & Tools",0,1,0,0,0,0,0,0,yon,3,24.02.21.00.00
 ɀıƨʇ,yönë,caprine,to be a goat/sheep/caprine,goat/sheep/caprine,goat/sheep/caprine-related,,Noun,jone,y,Hakka 羊仔 iòng-é,/iɔŋŋe/,Sino-Tibetan,yönë,Biology,0,1,0,0,0,0,0,1,yonae,4,24.02.21.04.00
-ɀʇ,yë,of,-,-,-,-,Preposition,je,y,Persian ی -ye,[je],Indo-Iranian,yë,Grammar 2,0,0,0,0,0,0,0,1,yae,2,24.04.00.00.00
+ɀʇ,yë,genitive marker (of),-,-,-,-,Preposition,je,y,Persian ی -ye,[je],Indo-Iranian,yë,Grammar 2,0,0,0,0,0,0,0,1,yae,2,24.04.00.00.00
 ɀ̃ȷɀ̃ʄꞇɟ,yınyünci,modifier (adjective),to be a modifier,modifier,modifier-related,,Noun,,y,Cantonese 形容詞 jing4 jung4 ci4,/jɪŋ.jʊŋ.tsʰiː/,Sino-Tibetan,yınyünci,"Language, Mind, & Identity",0,0,0,1,1,1,0,0,yinyooncee,8,24.05.21.24.08
 ɀʃƶ̃,yumon,brutal,to be brutal/vicious,brutality/viciousness,brutal/vicious,,Adjective,,y,Mandarin 野蠻 yěmán,[jɤ˨˩˦.man˧˥],Sino-Tibetan,yumon,Biology,1,0,1,0,0,0,0,0,yuman,5,24.07.20.01.21
 ɀ̃ʃʌıɽʄ,yundöü,to guide (the guided),to guide/lead/direct,the guided/lead/directed,guidable/leadable/directable,,Verb,,y,Cantonese 引導 jan5 dou6,/jɐn.dou̯/,Sino-Tibetan,yundöü,"Geography, Environment, & Location",0,1,1,1,0,0,0,0,yundow,6,24.07.21.16.02

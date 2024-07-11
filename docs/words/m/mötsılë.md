@@ -1,12 +1,12 @@
 ---
-id: möcılë
-slug: möcılë
-title: MÖCILË
-sidebar_position: 652
+id: mötsılë
+slug: mötsılë
+title: MÖTSILË
+sidebar_position: 653
 hoverText: to tie (the tied) § Verb
 ---
 
-### möcılë
+### mötsılë
 
 *to tie (the tied)* **§** Verb
 

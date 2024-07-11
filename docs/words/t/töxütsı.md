@@ -1,12 +1,12 @@
 ---
-id: töxücı
-slug: töxücı
-title: TÖXÜCI
+id: töxütsı
+slug: töxütsı
+title: TÖXÜTSI
 sidebar_position: 270
 hoverText: bump § Noun
 ---
 
-### töxücı
+### töxütsı
 
 *bump* **§** Noun
 

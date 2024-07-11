@@ -2,7 +2,7 @@
 id: möniso
 slug: möniso
 title: MÖNİSO
-sidebar_position: 654
+sidebar_position: 655
 hoverText: to display/show (a diplay/show) § Verb
 ---
 

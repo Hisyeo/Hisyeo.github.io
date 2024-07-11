@@ -16,6 +16,6 @@ hoverText: southern § Adjective
 
 **Modifier**: southern
 
-Arabic جَنُوبِيّ janūbiyy 
+Arabic جَنُوبِيّ janūbiyy [d͡ʒä.nuː.bíː]
 
 *Afroasiatic Language Family*

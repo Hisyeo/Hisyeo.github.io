@@ -16,6 +16,6 @@ hoverText: now § Adjective
 
 **Modifier**: present/current
 
-Telugu ఇప్పుడు ippuḍu 
+Telugu ఇప్పుడు ippuḍu /ipːuɖu/
 
 *Dravidian Language Family*

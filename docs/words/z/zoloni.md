@@ -2,7 +2,7 @@
 id: zoloni
 slug: zoloni
 title: ZOLONİ
-sidebar_position: 495
+sidebar_position: 494
 hoverText: fuel § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: fuel § Noun
 
 **Modifier**: fuel-related
 
-Bengali জ্বালানি jalani 
+Bengali জ্বালানি jalani [ˈd͡ʒalani]
 
 *Indo-Iranian Language Family*

@@ -2,7 +2,7 @@
 id: xön
 slug: xön
 title: XÖN
-sidebar_position: 421
+sidebar_position: 422
 hoverText: good § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: good § Adjective
 
 **Modifier**: good
 
-White Hmong zoo /ʐɒ̃˧/
+White Hmong zoo /ʐɔŋ˧/
 
 *Hmong-Mien Language Family*

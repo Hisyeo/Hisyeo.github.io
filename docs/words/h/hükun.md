@@ -1,12 +1,12 @@
 ---
-id: hükün
-slug: hükün
-title: HÜKÜN
+id: hükun
+slug: hükun
+title: HÜKUN
 sidebar_position: 141
 hoverText: to order (a command) § Verb
 ---
 
-### hükün
+### hükun
 
 *to order (a command)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to order (a command) § Verb
 
 **Modifier**: orderable/commandable
 
-Arabic حُكْم ḥukm 
+Arabic حُكْم ḥukm /ħukm/
 
 *Afroasiatic Language Family*

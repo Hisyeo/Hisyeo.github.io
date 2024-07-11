@@ -1,12 +1,12 @@
 ---
-id: inkoton
-slug: inkoton
-title: İNKOTON
+id: ingoton
+slug: ingoton
+title: İNGOTON
 sidebar_position: 76
 hoverText: to remember (a memory) § Verb
 ---
 
-### inkoton
+### ingoton
 
 *to remember (a memory)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to remember (a memory) § Verb
 
 **Modifier**: memorable
 
-Malay ingatan 
+Malay ingatan /iŋatan/
 
 *Austronesian Language Family*

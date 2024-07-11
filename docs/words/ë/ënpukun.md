@@ -1,12 +1,12 @@
 ---
-id: ënpokon
-slug: ënpokon
-title: ËNPOKON
+id: ënpukun
+slug: ënpukun
+title: ËNPUKUN
 sidebar_position: 59
 hoverText: belch/burp § Noun
 ---
 
-### ënpokon
+### ënpukun
 
 *belch/burp* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: belch/burp § Noun
 
 **Modifier**: belch/burp-related
 
-Malayalam ഏമ്പക്കം ēmpakkaṁ 
+Malayalam ഏമ്പക്കം ēmpakkaṁ /eːmbɐkkɐm/
 
 *Dravidian Language Family*

@@ -1,12 +1,12 @@
 ---
-id: mocı
-slug: mocı
-title: MOCI
-sidebar_position: 635
+id: motsı
+slug: motsı
+title: MOTSI
+sidebar_position: 636
 hoverText: to await (an expectation) § Verb
 ---
 
-### mocı
+### motsı
 
 *to await (an expectation)* **§** Verb
 

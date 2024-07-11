@@ -2,7 +2,7 @@
 id: xopo
 slug: xopo
 title: XOPO
-sidebar_position: 411
+sidebar_position: 412
 hoverText: to strike (a blow)  § Verb
 ---
 

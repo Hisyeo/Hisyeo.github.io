@@ -1,12 +1,12 @@
 ---
-id: tocı
-slug: tocı
-title: TOCI
+id: totsı
+slug: totsı
+title: TOTSI
 sidebar_position: 261
 hoverText: standing § Adjective
 ---
 
-### tocı
+### totsı
 
 *standing* **§** Adjective
 

@@ -16,6 +16,6 @@ hoverText: face § Noun
 
 **Modifier**: facial
 
-Maasai enk-omóm 
+Maasai enk-omóm /ēnkōmón
 
 *Nilo-Saharan Language Family*

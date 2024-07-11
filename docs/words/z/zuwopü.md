@@ -1,12 +1,12 @@
 ---
-id: zowopü
-slug: zowopü
-title: ZOWOPÜ
-sidebar_position: 494
+id: zuwopü
+slug: zuwopü
+title: ZUWOPÜ
+sidebar_position: 515
 hoverText: to answer [with] (a response) § Verb
 ---
 
-### zowopü
+### zuwopü
 
 *to answer [with] (a response)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to answer [with] (a response) § Verb
 
 **Modifier**: answered/responded
 
-Swahili jawabu 
+Swahili jawabu /d͡ʒa'wa.bu/
 
 *Niger-Congo Language Family*

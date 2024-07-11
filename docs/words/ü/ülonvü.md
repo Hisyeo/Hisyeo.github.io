@@ -2,7 +2,7 @@
 id: ülonvü
 slug: ülonvü
 title: ÜLONVÜ
-sidebar_position: 101
+sidebar_position: 102
 hoverText: syllable § Noun
 ---
 

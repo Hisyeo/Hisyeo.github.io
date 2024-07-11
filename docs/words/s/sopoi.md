@@ -2,7 +2,7 @@
 id: sopoi
 slug: sopoi
 title: SOPOİ
-sidebar_position: 358
+sidebar_position: 359
 hoverText: ceiling § Noun
 ---
 

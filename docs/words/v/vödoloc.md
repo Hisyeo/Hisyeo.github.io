@@ -2,7 +2,7 @@
 id: vödoloc
 slug: vödoloc
 title: VÖDOLOC
-sidebar_position: 600
+sidebar_position: 601
 hoverText: algae/moss § Noun
 ---
 

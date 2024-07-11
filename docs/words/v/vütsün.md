@@ -1,12 +1,12 @@
 ---
-id: vücün
-slug: vücün
-title: VÜCÜN
-sidebar_position: 629
+id: vütsün
+slug: vütsün
+title: VÜTSÜN
+sidebar_position: 630
 hoverText: to obey (a rule) § Verb
 ---
 
-### vücün
+### vütsün
 
 *to obey (a rule)* **§** Verb
 

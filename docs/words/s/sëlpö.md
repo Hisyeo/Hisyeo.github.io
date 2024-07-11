@@ -1,12 +1,12 @@
 ---
-id: xëpö
-slug: xëpö
-title: XËPÖ
-sidebar_position: 427
+id: sëlpö
+slug: sëlpö
+title: SËLPÖ
+sidebar_position: 382
 hoverText: yellow § Adjective
 ---
 
-### xëpö
+### sëlpö
 
 *yellow* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: yellow § Adjective
 
 **Modifier**: yellow
 
-Tibetan སེར་པོ ser po 
+Tibetan སེར་པོ ser po /ser.po/
 
 *Sino-Tibetan Language Family*

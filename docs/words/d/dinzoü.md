@@ -1,12 +1,12 @@
 ---
-id: dinyoüc
-slug: dinyoüc
-title: DİNYOÜC
+id: dinzoü
+slug: dinzoü
+title: DİNZOÜ
 sidebar_position: 469
 hoverText: lip/rim/edge § Noun
 ---
 
-### dinyoüc
+### dinzoü
 
 *lip/rim/edge* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: lip/rim/edge § Noun
 
 **Modifier**: labial/rim-like/edge-like
 
-Whtie Hmong di ncauj 
+Whtie Hmong di ncauj /di˧.ᶮɟau̯˥˧/
 
 *Hmong-Mien Language Family*

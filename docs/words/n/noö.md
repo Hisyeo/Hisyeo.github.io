@@ -2,7 +2,7 @@
 id: noö
 slug: noö
 title: NOÖ
-sidebar_position: 688
+sidebar_position: 689
 hoverText: wave § Noun
 ---
 
