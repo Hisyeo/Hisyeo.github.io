@@ -2,7 +2,7 @@
 id: niltügu
 slug: niltügu
 title: NİLTÜGU
-sidebar_position: 721
+sidebar_position: 722
 hoverText: to stop (the stopped) § Verb
 ---
 

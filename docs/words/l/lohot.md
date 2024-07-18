@@ -2,7 +2,7 @@
 id: lohot
 slug: lohot
 title: LOHOT
-sidebar_position: 762
+sidebar_position: 763
 hoverText: comfortable § Adjective
 ---
 

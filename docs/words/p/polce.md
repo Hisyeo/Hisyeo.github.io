@@ -2,7 +2,7 @@
 id: polce
 slug: polce
 title: POLCE
-sidebar_position: 536
+sidebar_position: 538
 hoverText: cloth/fabric § Noun
 ---
 

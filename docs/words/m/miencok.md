@@ -2,7 +2,7 @@
 id: miencok
 slug: miencok
 title: MİENCOK
-sidebar_position: 666
+sidebar_position: 667
 hoverText: mollusc § Noun
 ---
 

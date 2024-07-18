@@ -2,7 +2,7 @@
 id: zütö
 slug: zütö
 title: ZÜTÖ
-sidebar_position: 517
+sidebar_position: 519
 hoverText: to regret (a regret) § Verb
 ---
 

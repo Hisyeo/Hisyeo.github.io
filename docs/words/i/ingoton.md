@@ -2,7 +2,7 @@
 id: ingoton
 slug: ingoton
 title: İNGOTON
-sidebar_position: 76
+sidebar_position: 75
 hoverText: to remember (a memory) § Verb
 ---
 

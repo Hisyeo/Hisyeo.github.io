@@ -2,17 +2,17 @@
 id: xopo
 slug: xopo
 title: XOPO
-sidebar_position: 412
-hoverText: to strike (a blow)  § Verb
+sidebar_position: 413
+hoverText: to strike (the stricken)  § Verb
 ---
 
 ### xopo
 
-*to strike (a blow) * **§** Verb
+*to strike (the stricken) * **§** Verb
 
 **Verb**: to hit/strike
 
-**Noun**: blow/stricken entity
+**Noun**: hit/stricken entity
 
 **Modifier**: hittable/strikeable
 

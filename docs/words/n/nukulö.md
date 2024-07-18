@@ -2,7 +2,7 @@
 id: nukulö
 slug: nukulö
 title: NUKULÖ
-sidebar_position: 723
+sidebar_position: 724
 hoverText: copy § Noun
 ---
 

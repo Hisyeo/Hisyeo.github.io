@@ -2,7 +2,7 @@
 id: pöklön
 slug: pöklön
 title: PÖKLÖN
-sidebar_position: 540
+sidebar_position: 542
 hoverText: to govern (the governed) § Verb
 ---
 

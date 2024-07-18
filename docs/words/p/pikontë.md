@@ -2,7 +2,7 @@
 id: pikontë
 slug: pikontë
 title: PİKONTË
-sidebar_position: 563
+sidebar_position: 565
 hoverText: spicy § Adjective
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: cutië
-slug: cutië
-title: CUTİË
-sidebar_position: 334
+id: süöxıc
+slug: süöxıc
+title: SÜÖXIC
+sidebar_position: 400
 hoverText: to fold (the folded) § Verb
 ---
 
-### cutië
+### süöxıc
 
 *to fold (the folded)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to fold (the folded) § Verb
 
 **Modifier**: foldable
 
-Mandarin 折疊 zhédié /ʈʂɤ.tje/
+Polish złożyć /ˈzwɔ.ʐɨt͡ɕ/
 
-*Sino-Tibetan Language Family*
+*Balto-Slavic Language Family*

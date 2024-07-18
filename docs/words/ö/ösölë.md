@@ -2,7 +2,7 @@
 id: ösölë
 slug: ösölë
 title: ÖSÖLË
-sidebar_position: 36
+sidebar_position: 35
 hoverText: afraid § Adjective
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: onwiyë
-slug: onwiyë
-title: ONWİYË
-sidebar_position: 31
+id: uvülit
+slug: uvülit
+title: UVÜLİT
+sidebar_position: 83
 hoverText: bored § Adjective
 ---
 
-### onwiyë
+### uvülit
 
 *bored* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: bored § Adjective
 
 **Modifier**: bored
 
-French ennuyé /ɑ̃.nɥi.je/ (/ɒ̃.nɥi.je/)
+Catalan avorrit [ə.vuˈrit]
 
 *Romance Language Family*

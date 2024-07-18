@@ -2,7 +2,7 @@
 id: pioli
 slug: pioli
 title: PİOLİ
-sidebar_position: 560
+sidebar_position: 562
 hoverText: hello/goodbye § Interjection
 ---
 

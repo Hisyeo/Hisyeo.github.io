@@ -2,7 +2,7 @@
 id: tulutı
 slug: tulutı
 title: TULUTI
-sidebar_position: 289
+sidebar_position: 290
 hoverText: to traverse (the traversed) § Verb
 ---
 

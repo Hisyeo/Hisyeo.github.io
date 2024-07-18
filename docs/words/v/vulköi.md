@@ -2,7 +2,7 @@
 id: vulköi
 slug: vulköi
 title: VULKÖİ
-sidebar_position: 626
+sidebar_position: 628
 hoverText: to rub (the rubbed) § Verb
 ---
 

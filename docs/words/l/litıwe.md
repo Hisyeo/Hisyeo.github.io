@@ -2,7 +2,7 @@
 id: litıwe
 slug: litıwe
 title: LİTIWE
-sidebar_position: 790
+sidebar_position: 791
 hoverText: related § Adjective
 ---
 

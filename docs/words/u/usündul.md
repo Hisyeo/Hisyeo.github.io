@@ -2,7 +2,7 @@
 id: usündul
 slug: usündul
 title: USÜNDUL
-sidebar_position: 81
+sidebar_position: 80
 hoverText: ugly § Adjective
 ---
 

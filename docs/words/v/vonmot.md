@@ -2,7 +2,7 @@
 id: vonmot
 slug: vonmot
 title: VONMOT
-sidebar_position: 598
+sidebar_position: 600
 hoverText: absent/nonexistent § Adjective
 ---
 

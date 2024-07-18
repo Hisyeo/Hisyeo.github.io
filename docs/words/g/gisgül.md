@@ -2,7 +2,7 @@
 id: gisgül
 slug: gisgül
 title: GİSGÜL
-sidebar_position: 243
+sidebar_position: 244
 hoverText: step/rung § Noun
 ---
 

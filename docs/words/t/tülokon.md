@@ -2,7 +2,7 @@
 id: tülokon
 slug: tülokon
 title: TÜLOKON
-sidebar_position: 294
+sidebar_position: 295
 hoverText: to adjudge (judgement) § Verb
 ---
 

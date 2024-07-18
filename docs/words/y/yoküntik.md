@@ -2,7 +2,7 @@
 id: yoküntik
 slug: yoküntik
 title: YOKÜNTİK
-sidebar_position: 807
+sidebar_position: 808
 hoverText: prize § Noun
 ---
 

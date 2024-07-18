@@ -2,7 +2,7 @@
 id: wëkëso
 slug: wëkëso
 title: WËKËSO
-sidebar_position: 744
+sidebar_position: 745
 hoverText: to invest [in] (an investee) § Verb
 ---
 

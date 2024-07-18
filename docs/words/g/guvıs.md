@@ -2,7 +2,7 @@
 id: guvıs
 slug: guvıs
 title: GUVIS
-sidebar_position: 244
+sidebar_position: 245
 hoverText: certain § Adjective
 ---
 

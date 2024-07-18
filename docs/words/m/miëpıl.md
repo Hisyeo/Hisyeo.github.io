@@ -2,7 +2,7 @@
 id: miëpıl
 slug: miëpıl
 title: MİËPIL
-sidebar_position: 667
+sidebar_position: 668
 hoverText: furniture § Noun
 ---
 
