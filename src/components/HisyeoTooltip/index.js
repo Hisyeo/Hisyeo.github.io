@@ -14,14 +14,16 @@ import words from '@site/static/words.json'
 export default function HisyeoTooltip() {
   const {colorMode, setColorMode} = useColorMode()
   return (
-    <Tooltip id='hisyeo' variant={colorMode == 'dark' ? 'light' : 'dark'} render={({ content }) => {
-      const word = words[content]
-      return (
-        <div>
-          <h3>{word?.meaning}</h3>
-          <i>{word?.type}</i>
-        </div>
-      )
-    }}/>
+    <div style={{height: '1em'}}>
+      <Tooltip clickable id='hisyeo' variant={colorMode == 'dark' ? 'light' : 'dark'} render={({ content }) => {
+        const word = words[content]
+        return (
+          <div>
+            <h3>{word?.meaning}</h3>
+            <i>{word?.type}</i>
+          </div>
+        )
+      }}/>
+    </div> 
   )
 }
