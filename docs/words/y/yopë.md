@@ -2,7 +2,7 @@
 id: yopë
 slug: yopë
 title: YOPË
-sidebar_position: 814
+sidebar_position: 815
 hoverText: artificial § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: wili
 slug: wili
 title: WİLİ
-sidebar_position: 756
+sidebar_position: 758
 hoverText: awake § Adjective
 ---
 

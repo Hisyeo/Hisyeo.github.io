@@ -2,7 +2,7 @@
 id: yoümok
 slug: yoümok
 title: YOÜMOK
-sidebar_position: 807
+sidebar_position: 808
 hoverText: humorous § Adjective
 ---
 

@@ -10,11 +10,11 @@ hoverText: other § Pronoun
 
 *other* **§** Pronoun
 
-**Verb**: to be an other
+**Verb**: to be the other one
 
-**Noun**: an other
+**Noun**: other (one)
 
-**Modifier**: raveres
+**Modifier**: other
 
 Azerbaijani digər [ˈdid͡ʒær]
 

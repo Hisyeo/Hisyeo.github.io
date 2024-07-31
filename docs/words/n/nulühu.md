@@ -2,7 +2,7 @@
 id: nulühu
 slug: nulühu
 title: NULÜHU
-sidebar_position: 729
+sidebar_position: 730
 hoverText: abuse § Noun
 ---
 

@@ -12,7 +12,7 @@ hoverText: what § Pronoun
 
 **Verb**: to be what
 
-**Noun**: what
+**Noun**: what/whom
 
 **Modifier**: (of) what
 

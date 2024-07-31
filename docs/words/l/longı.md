@@ -2,7 +2,7 @@
 id: longı
 slug: longı
 title: LONGI
-sidebar_position: 771
+sidebar_position: 772
 hoverText: color § Noun
 ---
 

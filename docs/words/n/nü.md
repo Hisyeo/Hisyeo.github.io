@@ -1,12 +1,12 @@
 ---
-id: ni
-slug: ni
-title: Nİ
-sidebar_position: 718
+id: nü
+slug: nü
+title: NÜ
+sidebar_position: 732
 hoverText: we/us § Pronoun
 ---
 
-### ni
+### nü
 
 *we/us* **§** Pronoun
 
@@ -16,6 +16,6 @@ hoverText: we/us § Pronoun
 
 **Modifier**: our
 
-Takalelang Abui ni /ni/
+French nous /nu/
 
-*Trans-New Guinea Language Family*
+*Romance Language Family*

@@ -2,7 +2,7 @@
 id: lomö
 slug: lomö
 title: LOMÖ
-sidebar_position: 768
+sidebar_position: 769
 hoverText: long § Adjective
 ---
 

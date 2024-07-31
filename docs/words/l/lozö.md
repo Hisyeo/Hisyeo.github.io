@@ -1,12 +1,12 @@
 ---
-id: lotzö
-slug: lotzö
-title: LOTZÖ
-sidebar_position: 764
+id: lozö
+slug: lozö
+title: LOZÖ
+sidebar_position: 766
 hoverText: ray/beam § Noun
 ---
 
-### lotzö
+### lozö
 
 *ray/beam* **§** Noun
 
