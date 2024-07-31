@@ -2,6 +2,13 @@
 sidebar_position: 1
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import HisyeoTabs from '@site/src/components/HisyeoTabs'
+import HisyeoText from '@site/src/components/HisyeoText'
+import HisyeoWord from '@site/src/components/HisyeoWord'
+import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
+
 # Introduction
 
 ## What is Hisyëö?
@@ -132,34 +139,45 @@ write a few basic sentences.
 
 Some basic words to get you started on sentence construction.
 
-Choose a subject (preceded by %%ü@ü%%):
-- %%noyo@noyo%% (I)
-- %%nimü@nimü%% (you)
-- %%ni@ni%% (we)
-- %%loı@loı%% (it/they)
+#### Choose a subject (preceded by <HisyeoWord is='ü'/>):
+<HisyeoTabs>
+   <p>noyo <em>I</em></p>
+   <p>nimü <em>you</em></p>
+   <p>nü   <em>we</em></p>
+   <p>niün <em>they</em></p>
+</HisyeoTabs>
 
-Choose a verb (preceded by %%lı@lı%% or omitted if first):
-- %%köto@köto%% (to say)
-- %%monodo@monodo%% (to meet)
-- %%mokon@mokon%% (to eat)
-- %%vısun@vısun%% (to know)
+#### Choose a verb (preceded by <HisyeoWord is='lı'/> or omitted if first):
+<HisyeoTabs>
+   <p>köto   <em>to say</em></p>
+   <p>monodo <em>to meet</em></p>
+   <p>mokon  <em>to eat</em></p>
+   <p>vısun  <em>to know</em></p>
+</HisyeoTabs>
 
-Choose an object (preceded by %%cö@cö%%):
-- %%ulyö@ulyö%% (that)
-- %%küöxı@küöxı%% (fruit)
-- %%pioli@pioli%% (hello) 
-- %%sütüö@sütüö%% (friend)
+#### Choose an object (preceded by <HisyeoWord is='cö'/>):
+<HisyeoTabs>
+   <p>ulyö   <em>that</em></p>
+   <p>küöxı  <em>fruit</em></p>
+   <p>pioli  <em>hello</em></p>
+   <p>sütüö  <em>friend</em></p>
+</HisyeoTabs>
 
-Choose a sentence ender:
-- %%lötven@lötven%% (polite)
-- %%voxo@voxo%% (surprise)
-- %%ko@ko%% (question)
-- %%löicök@löicök%% (confirmation)
-- or none
+#### Choose a sentence ender:
+<HisyeoTabs>
+   <p>lötven <em>polite</em></p>
+   <p>voxo   <em>surprise</em></p>
+   <p>ko     <em>question</em></p>
+   <p>löicök <em>confirmation</em></p>
+   <p><em>or none</em></p>
+</HisyeoTabs>
 
-Now, make a sentence...
-- %%ü@ü%% %%noyo@noyo%% %%lı@lı%% %%mokon@mokon%% %%cö@cö%% %%küöxı@küöxı%% (I eat fruit)
-- %%vısun@vısun%% %%ü@ü%% %%nimü@nimü%% %%cö@cö%% %%sütüö@sütüö%% %%ko@ko%% (Do you know a friend?)
+#### Now, make a sentence...
+
+<HisyeoTabs>
+   <p>ü noyo lı mokon cö küöxı <em>I eat fruit</em></p>
+   <p>vısun ü nimü cö sütüö ko <em>Do you know a friend?</em></p>
+</HisyeoTabs>
 
 ## Next Steps
 
@@ -169,4 +187,4 @@ Join the community and help others learn the language.
 
 Study the reference manual for a more linguistic-heavy description of the language.
 
-
+<HisyeoTooltip/>

@@ -4,6 +4,10 @@ sidebar_position: 3
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import HisyeoTabs from '@site/src/components/HisyeoTabs';
+import HisyeoText from '@site/src/components/HisyeoText';
+import HisyeoWord from '@site/src/components/HisyeoWord';
+import HisyeoTooltip from '@site/src/components/HisyeoTooltip';
 
 # Modifiers
 
@@ -15,13 +19,13 @@ There are only a couple prepositions applicable to the modifier class of words.
 
 ### Negatitive
 
-The %%dës@dës%%/%%ʌ́ʇ@dës%% particle allows you to specify that any content word
+The <HisyeoWord is="dës"/> particle allows you to specify that any content word
 which is being used as a modifier is seen as negated in meaning when applied
 as a modifier to the preceding head phrase.
 
 ### Collapsing Head
 
-The %%et@et%%/%%ɽ̆ɿ@et%% particle allows you to specify that any content word
+The <HisyeoWord is="et"/> particle allows you to specify that any content word
 being used as a modifier is seen as applying meaning to the *entire* noun or
 verb phrase instead of only being applicable to the immediately preceding head
 phrase.
@@ -35,7 +39,7 @@ Converting from the other content types into modifiers.
 When a noun acts as a modifier, it means that the head word is somehow related
 to the noun (acting as a modifer) or shares some recognizable quality with the
 noun. Like the affix "-like" in English. One way of making a modifier out of a
-noun is to provide it as a word immediately following %%vın@vın%%/%%ɤ̃ȷ@vın%%.
+noun is to provide it as a word immediately following <HisyeoWord is="vın"/>.
 This has the effect of meaning "[noun]-like thing" in English. You can use it
 following any head word including verbs.
 
@@ -54,42 +58,26 @@ predicate.
 
 You can modify a preceding verb or noun phrase by using one of the relative
 clause particles:
+<HisyeoTabs>
+    <p>do - <em>Use this one when the subject is shared from the outer sentence</em></p>
+    <p>vos - <em>Use this one when the subject is changed from the outer sentence</em></p>
+</HisyeoTabs>
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <ol>
-          <li>%%do@do%% - Use this one when the subject is shared from the outer sentence</li>
-          <li>%%vos@vos%% - Use this one when the subject is changed from the outer sentence</li>
-        </ol>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <ol>
-          <li>%%ʌ@do%% - Use this one when the subject is shared from the outer sentence</li>
-          <li>%%ɤ́@vos%% - Use this one when the subject is changed from the outer sentence</li>
-        </ol>
-    </TabItem>
-</Tabs>
-
-When you use the second form (%%vos@vos%%/%%ɤ́@vos%%), you must provide at least
+When you use the second form (<HisyeoWord is="vos"/>), you must provide at least
 one constituent that refers to the verb or noun phrase, this is called the
 **resumptive phrase**. Hisyëö uses the demonstratives as resumptive pronouns
 within resumptive phrases. Use the proximal demonstrative
-(%%övo@övo%%/%%ɽıɤ@övo%%) when referring to the speaker or objects that the
-speaker possesses, use the medial demonstrative (%%ulyö@ulyö%%/%%ɽ͊ʃɀı@ulyö%%)
+(<HisyeoWord is="övo"/>) when referring to the speaker or objects that the
+speaker possesses, use the medial demonstrative (<HisyeoWord is="ulyö"/>)
 when referring to the person being addressed or objects possesed by that person,
-use the distal demonstrative (%%onö@onö%%%%ɽƨı@onö%%) when referring to someone
+use the distal demonstrative (<HisyeoWord is="onö"/>) when referring to someone
 else other than the person being addressed or objects possessed by that third
 party.
 
-<Tabs groupId="popöun-kon-cukto" queryString>
-    <TabItem value="latin" label="Latin" default>
-        <p>%%vıyüxit@vıyüxit%% %%hoi@hoi%% %%sëdu@sëdu%% %%muni@muni%% %%ü@ü%% %%umo@umo%% %%wohi@wohi%% %%do@do%% %%nıwos@nıwos%% %%hoi@hoi%% %%zınkon@zınkon%% %%uklo@uklo%%. "The woman who lives next door works in a bank."</p>
-        <p>%%ü@ü%% %%övo@övo%% %%lı@lı%% %%non@non%% %%vos@vos%% %%völun@völun%% %%ü@ü%% %%noyo@noyo%% %%cö@cö%% %%do@do%% %%möniso@möniso%% %%cö@cö%% %%övo@övo%% %%müt@müt%% %%nimü@nimü%%. "This is the video that I wanted to show you."</p>
-        <p>%%yöüli@yöüli%% %%ëto@ëto%% %%ü@ü%% %%umo@umo%% %%vos@vos%% %%dëko@dëko%% %%xopëk@xopëk%% %%ü@ü%% %%loı@loı%% %%cö@cö%% %%onö@onö%%. "The person they spoke to was really helpful."</p>
-    </TabItem>
-    <TabItem value="opügido" label="ɽʋʄꜿɟʌ">
-        <p>%%ɤȷɀʄɋ̆ɟ@vıyüxit%% %%ɂɽɟ@hoi%% %%ɐʇʌʃ@sëdu%% %%ƶʃƨɟ@muni%% %%ɽʄ@ü%% %%ɽʃƶ@umo%% %%ʒɂɟ@wohi%% %%ʌ@do%% %%ƨȷʒ́@nıwos%% %%ɂɽɟ@hoi%% %%ⱴ̃ȷɔ̃@zınkon%% %%ɽ̑ʃʓ@uklo%%. "The woman who lives next door works in a bank."</p>
-        <p>%%ɽʄ@ü%% %%ɽıɤ@övo%% %%ʓȷ@lı%% %%ƨ̃@non%% %%ɤ́@vos%% %%ɤıʓ̃ʃ@völun%% %%ɽʄ@ü%% %%ƨɀ@noyo%% %%ꞇı@cö%% %%ʌ@do%% %%ƶıƨɟɐ@möniso%% %%ꞇı@cö%% %%ɽıɤ@övo%% %%ƶ̆ʄ@müt%% %%ƨɟƶʄ@nimü%%. "This is the video that I wanted to show you."</p>
-        <p>%%ɀıɽʄʓɟ@yöüli%% %%ɽʇc@ëto%% %%ɽʄ@ü%% %%ɽʃƶ@umo%% %%ɤ́@vos%% %%ʌʇɔ@dëko%% %%ɋʋ̑ʇ@xopëk%% %%ɽʄ@ü%% %%ʓɽȷ@loı%% %%ꞇı@cö%% %%ɽƨı@onö%%. "The person they spoke to was really helpful."</p>
-    </TabItem>
-</Tabs>
+<HisyeoTabs>
+    <p>vıyüxit hoi sëdu muni ü umo wohi do nıwos hoi zınkon uklo. <em>"The woman who lives next door works in a bank."</em></p>
+    <p>ü övo lı non vos völun ü noyo cö do möniso cö övo müt nimü. <em>"This is the video that I wanted to show you."</em></p>
+    <p>yöüli ëto ü umo vos dëko xopëk ü loı cö onö. <em>"The person they spoke to was really helpful."</em></p>
+</HisyeoTabs>
+
+<HisyeoTooltip/>
