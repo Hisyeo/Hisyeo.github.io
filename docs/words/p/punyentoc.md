@@ -1,12 +1,12 @@
 ---
-id: ingoton
-slug: ingoton
-title: İNGOTON
+id: punyentoc
+slug: punyentoc
+title: PUNYENTOC
 sidebar_position: 75
 hoverText: to remember (a memory) § Verb
 ---
 
-### ingoton
+### punyentoc
 
 *to remember (a memory)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to remember (a memory) § Verb
 
 **Modifier**: memorable
 
-Malay ingatan /iŋatan/
+Polish pamiętać /paˈmjɛn.tat͡ɕ/
 
-*Austronesian Language Family*
+*Balto-Slavic Language Family*

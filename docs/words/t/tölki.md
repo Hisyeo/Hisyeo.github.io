@@ -2,7 +2,7 @@
 id: tölki
 slug: tölki
 title: TÖLKİ
-sidebar_position: 274
+sidebar_position: 275
 hoverText: only § Adjective
 ---
 

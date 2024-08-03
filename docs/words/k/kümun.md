@@ -2,7 +2,7 @@
 id: kümun
 slug: kümun
 title: KÜMUN
-sidebar_position: 213
+sidebar_position: 214
 hoverText: hole § Noun
 ---
 

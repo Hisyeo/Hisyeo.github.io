@@ -2,7 +2,7 @@
 id: tüu
 slug: tüu
 title: TÜU
-sidebar_position: 292
+sidebar_position: 293
 hoverText: to do (an action) § Verb
 ---
 

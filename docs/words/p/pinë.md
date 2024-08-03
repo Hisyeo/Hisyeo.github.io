@@ -2,7 +2,7 @@
 id: pinë
 slug: pinë
 title: PİNË
-sidebar_position: 569
+sidebar_position: 570
 hoverText: then § Conjunction
 ---
 

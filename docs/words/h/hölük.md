@@ -2,7 +2,7 @@
 id: hölük
 slug: hölük
 title: HÖLÜK
-sidebar_position: 125
+sidebar_position: 126
 hoverText: to pump (a pumpable entity) § Noun
 ---
 

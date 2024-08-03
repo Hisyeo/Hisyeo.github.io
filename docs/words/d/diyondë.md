@@ -2,7 +2,7 @@
 id: diyondë
 slug: diyondë
 title: DİYONDË
-sidebar_position: 473
+sidebar_position: 474
 hoverText: to focus [on]/pay attention [to] § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: voüt
 slug: voüt
 title: VOÜT
-sidebar_position: 593
+sidebar_position: 594
 hoverText: error § Noun
 ---
 

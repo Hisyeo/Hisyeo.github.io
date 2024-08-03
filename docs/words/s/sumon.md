@@ -2,7 +2,7 @@
 id: sumon
 slug: sumon
 title: SUMON
-sidebar_position: 396
+sidebar_position: 397
 hoverText: equal/same § Adjective
 ---
 

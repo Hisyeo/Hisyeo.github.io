@@ -2,7 +2,7 @@
 id: yë
 slug: yë
 title: YË
-sidebar_position: 824
+sidebar_position: 825
 hoverText: genitive marker (of) § Preposition
 ---
 

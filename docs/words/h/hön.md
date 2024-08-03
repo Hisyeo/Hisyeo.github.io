@@ -1,12 +1,12 @@
 ---
-id: win
-slug: win
-title: WİN
-sidebar_position: 757
+id: hön
+slug: hön
+title: HÖN
+sidebar_position: 758
 hoverText: context marker (as for/given) § Preposition
 ---
 
-### win
+### hön
 
 *context marker (as for/given)* **§** Preposition
 

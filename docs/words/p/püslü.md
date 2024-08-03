@@ -2,7 +2,7 @@
 id: püslü
 slug: püslü
 title: PÜSLÜ
-sidebar_position: 584
+sidebar_position: 585
 hoverText: translucent § Adjective
 ---
 
