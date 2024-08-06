@@ -2,7 +2,7 @@
 id: hön
 slug: hön
 title: HÖN
-sidebar_position: 758
+sidebar_position: 122
 hoverText: context marker (as for/given) § Preposition
 ---
 

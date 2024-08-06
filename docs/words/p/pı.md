@@ -1,12 +1,12 @@
 ---
-id: pi
-slug: pi
-title: Pİ
-sidebar_position: 307
+id: pı
+slug: pı
+title: PI
+sidebar_position: 557
 hoverText: manner/material marker § Preposition
 ---
 
-### pi
+### pı
 
 *manner/material marker* **§** Preposition
 
@@ -16,6 +16,6 @@ hoverText: manner/material marker § Preposition
 
 **Modifier**: -
 
-Hebrew בְּ־ b'- /bi/
+Hebrew בְּ־ b'- /bi/,/ba/
 
 *Afroasiatic Language Family*

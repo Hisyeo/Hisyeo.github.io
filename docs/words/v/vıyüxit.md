@@ -2,17 +2,17 @@
 id: vıyüxit
 slug: vıyüxit
 title: VIYÜXİT
-sidebar_position: 616
-hoverText: to employ [for] (employment) § Verb
+sidebar_position: 617
+hoverText: to employ (the employed) § Verb
 ---
 
 ### vıyüxit
 
-*to employ [for] (employment)* **§** Verb
+*to employ (the employed)* **§** Verb
 
 **Verb**: to employ/exploit
 
-**Noun**: employment
+**Noun**: the employed/exploited
 
 **Modifier**: employable/exploitable
 

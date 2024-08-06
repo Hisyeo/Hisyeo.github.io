@@ -2,7 +2,7 @@
 id: wowë
 slug: wowë
 title: WOWË
-sidebar_position: 741
+sidebar_position: 743
 hoverText: foot § Noun
 ---
 

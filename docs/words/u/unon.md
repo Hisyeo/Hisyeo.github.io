@@ -2,7 +2,7 @@
 id: unon
 slug: unon
 title: UNON
-sidebar_position: 86
+sidebar_position: 84
 hoverText: to smell (a scent) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to smell (a scent) § Verb
 
 **Modifier**: smellable
 
-Burmese အနံ့ a.nam. /ʔəna̰ɴ/
+Burmese အနံ့ a.nam /ʔəna̰ɴ/
 
 *Sino-Tibetan Language Family*

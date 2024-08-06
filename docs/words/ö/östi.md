@@ -2,7 +2,7 @@
 id: östi
 slug: östi
 title: ÖSTİ
-sidebar_position: 36
+sidebar_position: 35
 hoverText: bone § Noun
 ---
 

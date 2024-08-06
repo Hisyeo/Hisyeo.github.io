@@ -2,7 +2,7 @@
 id: tenkin
 slug: tenkin
 title: TENKİN
-sidebar_position: 277
+sidebar_position: 276
 hoverText: to hear (a sound) § Verb
 ---
 

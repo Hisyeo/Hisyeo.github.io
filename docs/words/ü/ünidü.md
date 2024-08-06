@@ -2,7 +2,7 @@
 id: ünidü
 slug: ünidü
 title: ÜNİDÜ
-sidebar_position: 99
+sidebar_position: 97
 hoverText: joined § Adjective
 ---
 

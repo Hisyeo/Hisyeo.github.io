@@ -2,7 +2,7 @@
 id: sunpülno
 slug: sunpülno
 title: SUNPÜLNO
-sidebar_position: 399
+sidebar_position: 397
 hoverText: flawless § Adjective
 ---
 

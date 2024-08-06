@@ -2,7 +2,7 @@
 id: üslëk
 slug: üslëk
 title: ÜSLËK
-sidebar_position: 97
+sidebar_position: 95
 hoverText: to blow (a blown entity) § Verb
 ---
 

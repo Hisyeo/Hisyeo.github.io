@@ -2,7 +2,7 @@
 id: müt
 slug: müt
 title: MÜT
-sidebar_position: 684
+sidebar_position: 685
 hoverText: direction/recipient (towards) § Preposition
 ---
 

@@ -2,7 +2,7 @@
 id: nosö
 slug: nosö
 title: NOSÖ
-sidebar_position: 695
+sidebar_position: 697
 hoverText: puzzle/mystery § Noun
 ---
 

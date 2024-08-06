@@ -2,7 +2,7 @@
 id: upölnı
 slug: upölnı
 title: UPÖLNI
-sidebar_position: 83
+sidebar_position: 81
 hoverText: resistant § Adjective
 ---
 

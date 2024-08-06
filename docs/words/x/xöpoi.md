@@ -2,7 +2,7 @@
 id: xöpoi
 slug: xöpoi
 title: XÖPOİ
-sidebar_position: 422
+sidebar_position: 420
 hoverText: salty § Adjective
 ---
 

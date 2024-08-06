@@ -2,7 +2,7 @@
 id: wokto
 slug: wokto
 title: WOKTO
-sidebar_position: 737
+sidebar_position: 739
 hoverText: outside § Noun
 ---
 

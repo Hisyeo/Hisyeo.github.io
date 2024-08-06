@@ -2,7 +2,7 @@
 id: dıpo
 slug: dıpo
 title: DIPO
-sidebar_position: 467
+sidebar_position: 465
 hoverText: container § Noun
 ---
 

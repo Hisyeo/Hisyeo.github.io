@@ -2,7 +2,7 @@
 id: göyu
 slug: göyu
 title: GÖYU
-sidebar_position: 239
+sidebar_position: 238
 hoverText: mouth § Noun
 ---
 

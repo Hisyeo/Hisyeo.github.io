@@ -2,7 +2,7 @@
 id: ünvünö
 slug: ünvünö
 title: ÜNVÜNÖ
-sidebar_position: 102
+sidebar_position: 100
 hoverText: vegetable § Noun
 ---
 

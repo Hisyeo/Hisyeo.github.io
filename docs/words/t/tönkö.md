@@ -2,7 +2,7 @@
 id: tönkö
 slug: tönkö
 title: TÖNKÖ
-sidebar_position: 274
+sidebar_position: 273
 hoverText: hurting/suffering § Adjective
 ---
 

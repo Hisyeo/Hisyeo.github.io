@@ -2,7 +2,7 @@
 id: öpok
 slug: öpok
 title: ÖPOK
-sidebar_position: 39
+sidebar_position: 38
 hoverText: opaque § Adjective
 ---
 

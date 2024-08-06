@@ -2,7 +2,7 @@
 id: soden
 slug: soden
 title: SODEN
-sidebar_position: 358
+sidebar_position: 356
 hoverText: back § Noun
 ---
 

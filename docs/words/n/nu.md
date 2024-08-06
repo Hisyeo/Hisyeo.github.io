@@ -2,7 +2,7 @@
 id: nu
 slug: nu
 title: NU
-sidebar_position: 725
+sidebar_position: 727
 hoverText: curiosity clause ender (what about) § Postposition
 ---
 

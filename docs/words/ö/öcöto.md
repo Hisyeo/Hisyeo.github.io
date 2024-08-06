@@ -2,7 +2,7 @@
 id: öcöto
 slug: öcöto
 title: ÖCÖTO
-sidebar_position: 34
+sidebar_position: 33
 hoverText: deity § Noun
 ---
 

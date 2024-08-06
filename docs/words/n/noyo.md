@@ -2,7 +2,7 @@
 id: noyo
 slug: noyo
 title: NOYO
-sidebar_position: 703
+sidebar_position: 705
 hoverText: I/me § Pronoun
 ---
 

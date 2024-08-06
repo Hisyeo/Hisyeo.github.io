@@ -2,7 +2,7 @@
 id: lëso
 slug: lëso
 title: LËSO
-sidebar_position: 787
+sidebar_position: 788
 hoverText: journey/trip/voyage § Noun
 ---
 

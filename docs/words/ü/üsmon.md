@@ -2,7 +2,7 @@
 id: üsmon
 slug: üsmon
 title: ÜSMON
-sidebar_position: 96
+sidebar_position: 94
 hoverText: gas § Noun
 ---
 

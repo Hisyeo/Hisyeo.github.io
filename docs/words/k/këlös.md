@@ -2,7 +2,7 @@
 id: këlös
 slug: këlös
 title: KËLÖS
-sidebar_position: 188
+sidebar_position: 187
 hoverText: weather § Noun
 ---
 

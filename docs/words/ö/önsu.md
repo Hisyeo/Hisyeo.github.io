@@ -2,7 +2,7 @@
 id: önsu
 slug: önsu
 title: ÖNSU
-sidebar_position: 45
+sidebar_position: 44
 hoverText: 11 eleven § Numeral
 ---
 

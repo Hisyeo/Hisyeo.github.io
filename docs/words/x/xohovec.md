@@ -2,7 +2,7 @@
 id: xohovec
 slug: xohovec
 title: XOHOVEC
-sidebar_position: 411
+sidebar_position: 409
 hoverText: jellyfish/hydra/anemone § Noun
 ---
 

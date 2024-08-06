@@ -2,7 +2,7 @@
 id: hıtsu
 slug: hıtsu
 title: HITSU
-sidebar_position: 134
+sidebar_position: 133
 hoverText: crack/fissure § Noun
 ---
 

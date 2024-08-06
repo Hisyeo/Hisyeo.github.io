@@ -2,7 +2,7 @@
 id: ixölö
 slug: ixölö
 title: İXÖLÖ
-sidebar_position: 71
+sidebar_position: 70
 hoverText: problem § Noun
 ---
 

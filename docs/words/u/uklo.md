@@ -2,7 +2,7 @@
 id: uklo
 slug: uklo
 title: UKLO
-sidebar_position: 80
+sidebar_position: 78
 hoverText: next § Adjective
 ---
 

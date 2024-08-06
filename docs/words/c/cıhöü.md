@@ -2,7 +2,7 @@
 id: cıhöü
 slug: cıhöü
 title: CIHÖÜ
-sidebar_position: 316
+sidebar_position: 314
 hoverText: after § Determiner
 ---
 
