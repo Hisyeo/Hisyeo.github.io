@@ -38,9 +38,11 @@ representations too.
 - Words beginning with a vowel can begin with or without a glottal stop [ʔ] pronounced, at the discretion of the speaker.
 - The coda-/n/ can be realized as (1) nasalization of the preceding vowel, (2) it can assimilate to the position of the following sound, i.e. /n/ → [m, n, ɲ, ŋ, ɴ] based on the position of the following or (3) coda-/n/ is pronounced [n] in all places.
 - The coda-/k/ is often realized without any audible release [k̚]
+- However, when coda-/k/ is preceding /y/ or /w/ then it is realized as a back fricative [x]
 - The coda-/t/ is often realized without any audible release [t̚]
+- However, when coda-/t/ is preceding /y/ or /w/ then it is realized with aspiration [tʰ]
 - The coda-/s/ is often realized as [z] in word final position
-- The /h/ is often realized as [x] when preceding /i/ or /u/ vowels.
+- The /h/ is often realized as [ç] when preceding /i/ or /u/ vowels.
 
 
 ### Vowels
