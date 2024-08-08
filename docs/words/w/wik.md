@@ -2,7 +2,7 @@
 id: wik
 slug: wik
 title: WİK
-sidebar_position: 758
+sidebar_position: 759
 hoverText: head § Noun
 ---
 

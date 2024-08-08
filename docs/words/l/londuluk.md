@@ -2,7 +2,7 @@
 id: londuluk
 slug: londuluk
 title: LONDULUK
-sidebar_position: 775
+sidebar_position: 776
 hoverText: rural § Adjective
 ---
 

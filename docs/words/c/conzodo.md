@@ -12,7 +12,7 @@ hoverText: asleep § Adjective
 
 **Verb**: to be asleep
 
-**Noun**: sleepiness
+**Noun**: asleepness
 
 **Modifier**: asleep
 

@@ -2,7 +2,7 @@
 id: yonlüs
 slug: yonlüs
 title: YONLÜS
-sidebar_position: 819
+sidebar_position: 820
 hoverText: wrong § Adjective
 ---
 

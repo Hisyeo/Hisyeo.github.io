@@ -2,7 +2,7 @@
 id: puswen
 slug: puswen
 title: PUSWEN
-sidebar_position: 577
+sidebar_position: 578
 hoverText: to need (a requirement) § Verb
 ---
 

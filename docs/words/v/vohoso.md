@@ -2,7 +2,7 @@
 id: vohoso
 slug: vohoso
 title: VOHOSO
-sidebar_position: 596
+sidebar_position: 597
 hoverText: to examine [for] (an examination) § Verb
 ---
 

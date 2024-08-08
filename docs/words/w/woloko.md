@@ -2,7 +2,7 @@
 id: woloko
 slug: woloko
 title: WOLOKO
-sidebar_position: 744
+sidebar_position: 745
 hoverText: leaf/petal § Noun
 ---
 

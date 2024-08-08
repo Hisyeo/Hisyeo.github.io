@@ -2,7 +2,7 @@
 id: lı
 slug: lı
 title: LI
-sidebar_position: 790
+sidebar_position: 791
 hoverText: realis verb particle § Particle
 ---
 

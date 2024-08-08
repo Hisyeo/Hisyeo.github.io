@@ -2,7 +2,7 @@
 id: wëtü
 slug: wëtü
 title: WËTÜ
-sidebar_position: 752
+sidebar_position: 753
 hoverText: to cut (the cut/chopped) § Verb
 ---
 

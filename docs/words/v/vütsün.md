@@ -2,7 +2,7 @@
 id: vütsün
 slug: vütsün
 title: VÜTSÜN
-sidebar_position: 634
+sidebar_position: 635
 hoverText: to obey (a rule) § Verb
 ---
 
