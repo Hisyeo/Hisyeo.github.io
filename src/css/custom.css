@@ -29,6 +29,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-a[href^="/hyo/docs/words"] {
-  font-family: "Noto Sans", Arial, Helvetica, sans-serif
+@font-face {
+  font-family: "Hisyoto Sans";
+  src: url("/static/HisyotoSans-Regular.woff2") format("woff2 supports variations"),
+    url("/static/HisyotoSans-Regular.woff2") format("woff2-variations");
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
+a[data-tooltip-kind="abugida"],
+li.tabs__item,
+strong[kind="abugida"],
+span[kind="abugida"] {
+  font-family: "Hisyoto Sans", Arial, Helvetica, sans-serif;
+  font-size: larger;
 }

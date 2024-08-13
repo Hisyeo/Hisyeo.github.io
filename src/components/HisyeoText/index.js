@@ -16,7 +16,7 @@ export default function HisyeoText({ kind, children }) {
       reactStringReplace(children, /([hkgtcxsdzpvmnlwyoöeëıiuü]+)/gi, (match, i) => {
         if (word = words[match]) {
           return (
-            <a key={`word-${i}`} data-tooltip-id='hisyeo' data-tooltip-content={match}>
+            <a key={`word-${i}`} data-tooltip-id='hisyeo' data-tooltip-kind={`${kind}`} data-tooltip-content={match}>
               {word[kind]}
             </a>
           )
