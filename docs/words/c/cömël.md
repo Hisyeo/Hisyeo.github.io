@@ -1,0 +1,21 @@
+---
+id: cömël
+slug: cömël
+title: CÖMËL
+sidebar_position: 309
+hoverText: cute § Adjective
+---
+
+### cömël
+
+*cute* **§** Adjective
+
+**Verb**: to be cute/charming
+
+**Noun**: cuteness/charmingness
+
+**Modifier**: cute/charming
+
+Malay comel [ˈt͡ʃo.mel]
+
+*Austronesian Language Family*

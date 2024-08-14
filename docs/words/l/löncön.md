@@ -2,7 +2,7 @@
 id: löncön
 slug: löncön
 title: LÖNCÖN
-sidebar_position: 783
+sidebar_position: 784
 hoverText: naked § Adjective
 ---
 

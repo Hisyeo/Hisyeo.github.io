@@ -2,13 +2,13 @@
 id: lı
 slug: lı
 title: LI
-sidebar_position: 791
-hoverText: realis verb particle § Particle
+sidebar_position: 792
+hoverText: subject complement marker § Preposition
 ---
 
 ### lı
 
-*realis verb particle* **§** Particle
+*subject complement marker* **§** Preposition
 
 **Verb**: -
 

@@ -3,18 +3,18 @@ id: ovinë
 slug: ovinë
 title: OVİNË
 sidebar_position: 20
-hoverText: cultivated/refined § Adjective
+hoverText: cultured/refined § Adjective
 ---
 
 ### ovinë
 
-*cultivated/refined* **§** Adjective
+*cultured/refined* **§** Adjective
 
-**Verb**: to be cultivated/refined
+**Verb**: to be cultured/refined
 
-**Noun**: cultivatedness/refinedness
+**Noun**: culturedness/refinedness
 
-**Modifier**: cultivated/refined
+**Modifier**: cultured/refined
 
 French affiné /a.fi.ne/
 

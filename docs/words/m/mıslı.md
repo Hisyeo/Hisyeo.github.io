@@ -2,7 +2,7 @@
 id: mıslı
 slug: mıslı
 title: MISLI
-sidebar_position: 666
+sidebar_position: 667
 hoverText: similative marker (like) § Preposition
 ---
 

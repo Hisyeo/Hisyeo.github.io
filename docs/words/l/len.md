@@ -2,7 +2,7 @@
 id: len
 slug: len
 title: LEN
-sidebar_position: 787
+sidebar_position: 788
 hoverText: strong § Adjective
 ---
 

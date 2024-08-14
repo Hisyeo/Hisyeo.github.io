@@ -2,7 +2,7 @@
 id: pülo
 slug: pülo
 title: PÜLO
-sidebar_position: 594
+sidebar_position: 595
 hoverText: brown § Adjective
 ---
 

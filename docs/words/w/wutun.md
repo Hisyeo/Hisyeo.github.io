@@ -2,7 +2,7 @@
 id: wutun
 slug: wutun
 title: WUTUN
-sidebar_position: 765
+sidebar_position: 766
 hoverText: ring/circle § Noun
 ---
 

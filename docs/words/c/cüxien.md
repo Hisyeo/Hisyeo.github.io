@@ -2,7 +2,7 @@
 id: cüxien
 slug: cüxien
 title: CÜXİEN
-sidebar_position: 342
+sidebar_position: 343
 hoverText: constrained § Adjective
 ---
 
