@@ -2,19 +2,49 @@
 sidebar_position: 2
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import HisyeoTabs from '@site/src/components/HisyeoTabs';
+import HisyeoText from '@site/src/components/HisyeoText';
+import HisyeoWord from '@site/src/components/HisyeoWord';
+import HisyeoTooltip from '@site/src/components/HisyeoTooltip';
+
 # Verbs
 
 A type of word that represents an action. Each sentence will always have a verb
-phrase. The particles that introduce them are referred to as "prepositions"
-because the particle is positioned before the verb phrase. The verb phrase that
-they mark is known as the predicate or main content verb of the sentence. 
+phrase. Verbs are considered a "semi-preposition" because when not proceded by
+certain particles, they act just like a preposition introducing a noun phrase
+(the direct object of the verb). If you supply the verb before the subject,
+nothing changes about the verb phrase (although the subject now must be
+introduced with either <HisyeoWord is='ü'/> or <HisyeoWord is='ölë'/>).
+
+<HisyeoTabs>
+    <p>noyo mokon küöxı. <em>"I ate a fruit."</em></p>
+    <p>mokon küöxı ü noyo. <em>"A fruit was eaten by me."</em></p>
+</HisyeoTabs>
+
+:::caution Passivity
+
+Hisyëö doesn't actually have any form of passivity like in the second English
+sentence above. Verbs always introduce their object arguments. To simulate
+passivity you can:
+- place the verb phrase before the subject phrase,
+- use a relative clause on an object in a subject complement phrase, or
+- use the causative verb particle on a subject complement phrase.
+
+The order of topicality is determined by the order that constituents are
+introduced into the sentence.
+
+:::
 
 ## Prepositions
+
+🚧 Old Grammar Below 🚧
 
 ### Realis
 
 The most basic form of verbal preposition is the realis form. Using this verb
-particle (%%lı@lı%%/%%ʓȷ@lı%%) means that your verb is a true statement of an
+particle (<HisyeoWord is='lı'/>) means that your verb is a true statement of an
 action or state that occurred or was experienced in reality. They can be in the
 past, present or future tense but they are, by default, considered to be
 imperfective and not perfect
@@ -37,7 +67,7 @@ to have).
 
 #### Epistemic (*what could be*)
 
-This irrealis verb marker (%%köi@köi%%/%%ɔıɽɟ@köi%%) indicates that the
+This irrealis verb marker (<HisyeoWord is='köi'/>) indicates that the
 predicate *could* or *might* happen. This marker tells you that the
 speaker/writer either believes or has knowledge that the predicate may occur but
 isn't confident that this future reality is assured or that the possibility of
@@ -107,3 +137,5 @@ whole in contrast to the default aspect of verbs which is known as
 *imperfective*. There is no equivalent helper verb in English, sometimes the
 verb used to describe a whole action is completely different from the verb used
 to describe the action in the imperfective aspect.
+
+<HisyeoTooltip/>
