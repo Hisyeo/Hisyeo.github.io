@@ -37,7 +37,8 @@ const config = {
       termsDir: './docs/words/',
       termsUrl: "/docs/words",
       glossaryFilepath: './docs/Glossary.md',
-    }]
+    }],
+    './src/plugins/error_ignorer'
   ],
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
