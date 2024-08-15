@@ -38,7 +38,8 @@ export default function HisyeoTooltip() {
         return (
           <div>
             <h3>{word?.meaning}</h3>
-            <i>{word?.type}</i> <span>{emoji[word?.type?.toLowerCase()]}</span>
+            <p><i>{word?.type}</i> <span>{emoji[word?.type?.toLowerCase()]}</span></p>
+            <p><small>from {word?.origin}, <i>{word?.family}</i></small></p>
           </div>
         )
       }}/>
