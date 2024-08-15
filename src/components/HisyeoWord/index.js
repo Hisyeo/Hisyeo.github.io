@@ -55,9 +55,9 @@ export default function HisyeoWord({is}) {
   })
   if (words[is] != undefined) { 
     if (queryString == "opügido") { return (
-      <a data-tooltip-id='hisyeo' data-tooltip-content={is}>{words[is]['abugida']}</a>
+      <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='abugida'>{words[is]['abugida']}</a>
     ) } else { return (
-      <a data-tooltip-id='hisyeo' data-tooltip-content={is}>{words[is]['latin']}</a>
+      <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='latin'>{words[is]['latin']}</a>
     ) }
   } else { return (
     <span>{is}</span>
