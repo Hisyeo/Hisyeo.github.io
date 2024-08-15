@@ -6,6 +6,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import HisyeoTabs from '@site/src/components/HisyeoTabs'
 import HisyeoText from '@site/src/components/HisyeoText'
+import HisyeoWord from '@site/src/components/HisyeoWord'
 import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
 
 # Numbers, Dates, & Time
@@ -169,19 +170,37 @@ here and they follow the rules shown above to generate their value or amount.
   <p>düi viyën son hövezi "two hundred and three cows"</p>
 </HisyeoTabs>
 
-If you specify only the number 1 (kut), it acts like the indefinite
-article ("a/an" in English) but this is usually omitted.
+If you specify only the number 1 (kut), it acts like the indefinite article
+("a/an" in English) but this is often times omitted due to context being
+sufficient.
 
 <HisyeoTabs>
   <p>kut ënpukun "one burp" or "a burp"</p>
 </HisyeoTabs>
 
-The language allows you to omit any sense of plurality and this frees you from
-having to worry about how to properly pluralize words. In many languages, the
-plurality of the object is often then replicated in related words. In Hisyëö
-there is no need for any of that and typically you will setup some context of
-what a particular object is referring to and then you just use the head noun to
-refer back to that prior definition including the plurality established.
+:::tip Plurality Optional But Possible
+
+The language allows you to omit any sense of plurality. Words do not change when
+plural and they can represent plural or singular things. This frees you from
+having to worry about how to properly pluralize words or which words have to
+match the plurality of the head word. In Hisyëö there is no need for any of that
+and typically you will setup some context of what a particular object is
+referring to and then you just use the head noun to refer back to that prior
+definition including the plurality established.
+
+Besides <HisyeoWord is='kut'/> for singular, these are the words used for
+plurality
+
+<HisyeoTabs>
+  <p>püzök <em>lack</em> <span>➖☹️</span></p>
+  <p>mënüs <em>fewer/less</em> <span>➖➖</span></p>
+  <p>yoüti <em>some/few</em> <span>➖</span></p>
+  <p>zötëstö <em>sufficient/enough</em> <span>🙂</span></p>
+  <p>ëto <em>many/much</em> <span>➕</span></p>
+  <p>eswen <em>more</em> <span>➕➕</span></p>
+  <p>otıkon <em>excess</em> <span>➕☹️</span></p>
+</HisyeoTabs>
+:::
 
 ## Which Place?
 
@@ -235,7 +254,7 @@ wëxön/ʒʇɋ̃ı).
 | Uranus  | ![This picture of Uranus in true color was compiled from images returned Jan. 17, 1986, by the narrow-angle camera of Voyager 2. - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Uranus_true_colour.jpg/240px-Uranus_true_colour.jpg)                                                                                                                             | Sunday    | <HisyeoText kind='latin'>lono xolxili</HisyeoText> | <HisyeoText kind='abugida'>lono xolxili</HisyeoText> |
 
 In order to indicate a specific day use one of the demonstrative pronouns
-(övo/ɽıɤ, ulyö/ɽ͊ʃɀı, onö/ɽƨı). Otherwise, a weekday
+(<HisyeoWord is='övo'/>, <HisyeoWord is='ulyö'/>, <HisyeoWord is='onö'/>). Otherwise, a weekday
 (or really any use of lono) is either one or many unspecified days. You
 can use a day as a condition in a hön prepositional phrase:
 
@@ -315,8 +334,10 @@ relative clause is used to treat the following phrase as an
 [appositive](https://en.wikipedia.org/wiki/Apposition).
 
 <HisyeoTabs>
-  <p>lono övo lı lono kut yë wuto son. <em>"Today is the March 1st"</em></p>
-  <p>lono lözic niün lı lono mihüon do lı lono zıyön yë wuto tiü. <em>"His birthday is Tuesday, May 14th"</em></p>
+  <p>lono övo lı lono kut yë wuto son.
+     <em>"Today is the March 1st"</em></p>
+  <p>lono kon lözic niün lı lono mihüon do lı lono zıyön yë wuto tiü. 
+     <em>"His birthday is Tuesday, May 14th"</em></p>
 </HisyeoTabs>
 
 ### Saying Years
@@ -334,9 +355,8 @@ recent date, you can often just mention the final segment.
 To say dates in "BC" or "BCE", use the phrase yë ılık zızıme sodolun.
 
 <HisyeoTabs>
-  <p>köson si sınsi Lömo hoi
-     xëti tiü dus son yë
-     ılık zızıme sodolun. <em>Rome was built in 753 BCE.</em></p>
+  <p>köson si sınsi Lömo hoi xëti tiü dus son yë ılık zızıme sodolun.
+     <em>Rome was built in 753 BCE.</em></p>
 </HisyeoTabs>
 
 When you are setting up a date or appointment, often times you want to provide which weekday
@@ -416,27 +436,24 @@ To ask the time, you use the copula with a null subject. The complement uses the
 interrogative pronoun, so there is no need for a sentence ender.
 
 <HisyeoTabs>
-  <p>woküt zık <em>"What time is it?"</em></p>
-  <p>suhot zık <em>"What hour is it?"</em></p>
+  <p>nı lı woküt zık. <em>"What time is it?"</em></p>
+  <p>nı lı suhot zık. <em>"What hour is it?"</em></p>
 </HisyeoTabs>
 
-That's a complete sentence because the verb is actually a base noun being used
-as a verb which is interpreted as a [zero
-copula](https://en.wikipedia.org/wiki/Zero_copula) sentence. The subject in this
-sentence is not provided, these are called
-[null-subject](https://en.wikipedia.org/wiki/Null-subject_language) sentences.
-Whenever this happens, you have to interpret the subject from either the current
-sentence or from preceding sentences. In some cases, this ends up being "it" or
-"there" in English. In other cases, it ends up being the prior sentence's
-subject. Here's some examples of how to respond to these questions:
+Often times, <HisyeoWord is='nı'/> is omitted because it is often easy to
+decipher from context who or what the subject is. Pay attention to what is being
+described in either the current sentence or what the subject was from preceding
+sentences. In some cases, this ends up being "it" or "there" in English. In
+other cases, it ends up being the prior sentence's subject. Here's some examples
+of how to respond to these questions:
 
 <HisyeoTabs>
-  <p>kut <em>"It is one"</em></p>
-  <p>suhot kut <em>"It is one o'clock"</em></p>
-  <p>suhot dus <em>"It is ten o'clock"</em></p>
-  <p>suhot pole <em>"It is twelve o'clock"</em></p>
-  <p>lono mutyu <em>"It is noon"</em></p>
-  <p>pıtün mutyu <em>"It is midnight"</em></p>
+  <p>lı kut <em>"It is one"</em></p>
+  <p>lı suhot kut <em>"It is one o'clock"</em></p>
+  <p>lı suhot dus <em>"It is ten o'clock"</em></p>
+  <p>lı suhot pole <em>"It is twelve o'clock"</em></p>
+  <p>lı lono mutyu <em>"It is noon"</em></p>
+  <p>lı pıtün mutyu <em>"It is midnight"</em></p>
 </HisyeoTabs>
 
 Hisyëö uses the 12-hour clock to reduce the need for multiple word ordinals to
@@ -465,8 +482,7 @@ In order to give any sentence a time that it occurred, we use the hoi
 preposition.
 
 <HisyeoTabs>
-  <p>könyëc ü woküt yë cöüvon
-     kut hoi tukwos <em>"Breakfast is ending at 8"</em></p>
+  <p>cöüvon kut lı könyëc hoi tukwos <em>"Breakfast is ending at 8"</em></p>
 </HisyeoTabs>
 
 ### Durations
@@ -476,8 +492,8 @@ normal approach for creating plurality: provide the number words in the
 determiner slot (left side of the head word).
 
 <HisyeoTabs>
-  <p>yünyoü ü nimü cö son suhot <em>"You have three hours"</em></p>
-  <p>puswen ü tüu ulyö cö kut suhot <em>"That task needs an hour"</em></p>
+  <p>nimü yünyoü son suhot <em>"You have three hours"</em></p>
+  <p>tüu ulyö puswen kut suhot <em>"That task needs an hour"</em></p>
 </HisyeoTabs>
 
 Most of the time when we are referring to time, we think of it as a specific
@@ -487,7 +503,7 @@ a duration/length of time we use a different particle meant for distances and
 durations.
 
 <HisyeoTabs>
-  <p>si tüu ü ni lon nonkü suhot <em>"We did that for four hours"</em></p>
+  <p>nü tüu si lon nonkü suhot <em>"We did that for four hours"</em></p>
 </HisyeoTabs>
 
 ### Exact Times
@@ -496,23 +512,22 @@ If you need to talk about specific times within an hour, there is a base
 modifier content word that does double duty as a time unit for minutes.
 
 <HisyeoTabs>
-  <p>gö somö lon tiü ëvun <em>"It will only be 5 minutes"</em></p>
+  <p>ke lı gö pı tölki lon tiü ëvun <em>"It will only be 5 minutes"</em></p>
 </HisyeoTabs>
 
 ## Measurements
 
 To indicate a measurement of something, it helps to have a way to describe a
 "unit" of measurement. There is no exact word for this in Hisyëö, although
-<HisyeoText kind='latin'>cëö</HisyeoText> and
-<HisyeoText kind='latin'>yogö</HisyeoText> have their uses which we'll discuss
-below. The word "unit" means "singular entity" which suggests that we should
-reach for the number one (<HisyeoText kind='latin'>kut</HisyeoText>). To help
-add some clarity, let's use the agentive verb noun particle to create a meaning
-of "one-er" or something whose state is primarily about oneness.
+<HisyeoWord is='cëö'/> and <HisyeoWord is='yogö'/> have their uses which we'll
+discuss below. The word "unit" means "singular entity" which suggests that we
+should reach for the number one (<HisyeoWord is='kut'/>). To help add some
+clarity, let's use the agentive verb noun particle to create a meaning of
+"one-er" or something whose state is primarily about oneness.
 
 <HisyeoTabs>
-  <p>gö yë öni kut yë di volo möi et yë zomi ü hondon. <em>"The family is the basic unit of society."</em></p>
-  <p>ondo ü küngiyo cö do ëo vunlit ölë cızi müt düi yodo son öni kut. <em>"The company plans to split into two or three units."</em></p>
+  <p>hondon lı öni kut sokovü yë di volo möi et yë zomi. <em>"The family is the most basic unit of society."</em></p>
+  <p>küngiyo ondo do lı ëo vunlit ölë cızi müt düi yodo son öni kut. <em>"The company plans to split into two or three units."</em></p>
 </HisyeoTabs>
 
 Other than the time words, the rest of the measurement units are done by just
@@ -521,7 +536,7 @@ referring to what kind of measurement the unit is for.
 ### Temperature
 
 <HisyeoTabs>
-  <p>socok ü ximu cö vıldonpun lon kut viyën cëö yë tüt. <em>"Water boils at 100 degrees Celsius."</em></p>
+  <p>ximu di vıldonpun hoi kut viyën cëö yë tüt. <em>"Water boils at 100 degrees Celsius."</em></p>
 </HisyeoTabs>
 
 Since "Celcius" and "Fahrenheit" are names, you can use these if needed. The
@@ -552,7 +567,7 @@ you are in the world). Add <HisyeoText kind='latin'>cënpö</HisyeoText> for kil
 > —Casey Seiden, Verywell Health, 3 May 2024
 
 <HisyeoTabs>
-  <p>pësnëhot nulto cö vos mokon ü umo dës xonluk gıtno dus tiü moliyü son dus tiü öni kut yë küsowi cö zöhün vünië dës siüvo hoi xokön lono lëkın püzök onö ü mikdol yë ëto umo Umelıkın</p>
+  <p>pı nulto pësnëhot vos umo dës xonluk mokon zöhün doi dës siüvo gıtno dus tiü moliyü son dus tiü öni kut yë küsowi hoi xokön lono lëkın mikdol yë ëto umo Umelıkın lı püzök onö</p>
 </HisyeoTabs>
 
 ### Length/Width/Height
