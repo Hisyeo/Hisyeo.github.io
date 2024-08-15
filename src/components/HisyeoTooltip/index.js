@@ -5,6 +5,20 @@ import { Tooltip } from 'react-tooltip'
 
 import words from '@site/static/words.json'
 
+const emoji = {
+  verb: "⭕",
+  noun: "🔺",
+  adjective: "🔷",
+  determiner: "🟧",
+  preposition: "🟢",
+  pronoun: "🔼",
+  particle: "⚡",
+  numeral: "🔢",
+  conjunction: "❌",
+  postposition: "⭐",
+  interjection: "❗",
+}
+
 /**
  * 
  * @param {Object} props
@@ -24,7 +38,7 @@ export default function HisyeoTooltip() {
         return (
           <div>
             <h3>{word?.meaning}</h3>
-            <i>{word?.type}</i>
+            <i>{word?.type}</i> <span>{emoji[word?.type?.toLowerCase()]}</span>
           </div>
         )
       }}/>
