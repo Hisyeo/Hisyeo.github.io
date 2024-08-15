@@ -6,26 +6,60 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #84579E;
-  --ifm-color-primary-dark: #795091;
-  --ifm-color-primary-darker: #6E4884;
-  --ifm-color-primary-darkest: #634176;
-  --ifm-color-primary-light: #8E61A8;
-  --ifm-color-primary-lighter: #976EAF;
-  --ifm-color-primary-lightest: #A17BB7;
+  --ifm-color-primary-lightest: #6a4d56;
+  --ifm-color-primary-lighter: #674752;
+  --ifm-color-primary-light: #63404e;
+  --ifm-color-primary: #5f3a4a;
+  --ifm-color-primary-dark: #5b3447;
+  --ifm-color-primary-darker: #572e44;
+  --ifm-color-primary-darkest: #532841;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+/*
+https://colordesigner.io/gradient-generator
+
+#E4DBCC
+#482339
+#AB7F38
+#6A4D56
+#484454
+
+#6a4d56
+#654b57
+#604958
+#5a4858
+#544758
+#4e4557
+#484455
+
+#6a4d56
+#674752
+#63404e
+#5f3a4a
+#5b3447
+#572e44
+#532841
+
+#e5dccd
+#dcccb3
+#d2bd9a
+#c9ad81
+#bf9e68
+#b58e50
+#ab7f38
+*/
+
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #8E61A8;
-  --ifm-color-primary-dark: #84579E;
-  --ifm-color-primary-darker: #795091;
-  --ifm-color-primary-darkest: #6E4884;
-  --ifm-color-primary-light: #976EAF;
-  --ifm-color-primary-lighter: #A17BB7;
-  --ifm-color-primary-lightest: #AA89BE;
+  --ifm-color-primary-lightest: #e5dccd;
+  --ifm-color-primary-lighter: #dcccb3;
+  --ifm-color-primary-light: #d2bd9a;
+  --ifm-color-primary: #c9ad81;
+  --ifm-color-primary-dark: #bf9e68;
+  --ifm-color-primary-darker: #b58e50;
+  --ifm-color-primary-darkest: #ab7f38;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 

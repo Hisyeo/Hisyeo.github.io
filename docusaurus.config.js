@@ -82,8 +82,8 @@ const config = {
       navbar: {
         title: 'Hisyëö',
         logo: {
-          alt: 'Hisyëö Logo',
-          src: 'img/hisyeo_alpha.png',
+          alt: 'Hisyëö Flag',
+          src: 'img/hisyeo_flag.png',
         },
         items: [
           {
@@ -116,8 +116,8 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Memrise',
-                href: 'https://app.memrise.com/community/course/6556458/hisyeo/',
+                label: 'Deckademy',
+                href: 'https://deckademy.com/#/deck/view/1007/Hisy%C3%AB%C3%B6',
               },
             ],
           },
