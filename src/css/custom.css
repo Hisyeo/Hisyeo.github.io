@@ -40,7 +40,8 @@
 a[data-tooltip-kind="abugida"],
 li.tabs__item,
 strong[kind="abugida"],
-span[kind="abugida"] {
+span[kind="abugida"],
+u[kind="abugida"] {
   font-family: "Hisyoto Sans", Arial, Helvetica, sans-serif;
   font-size: larger;
 }

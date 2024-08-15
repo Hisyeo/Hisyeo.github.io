@@ -3,6 +3,9 @@ import React, { cloneElement, Children } from 'react'
 import reactStringReplace from 'react-string-replace'
 
 import words from '@site/static/words.json'
+import { transcribe } from './abugida';
+
+
 
 /**
  * 
@@ -13,7 +16,7 @@ import words from '@site/static/words.json'
 export default function HisyeoText({ kind, children }) {
   let word = undefined; return (
     <p>{
-      reactStringReplace(children, /([hkgtcxsdzpvmnlwyoöeëıiuü]+)/gi, (match, i) => {
+      reactStringReplace(children, /([oöeëıiuühkgtcsxdzpvmnlwy]+|\b[OÖEËIİUÜHKGTCSXDZPVMNLWY][OÖEËIİUÜHKGTCSXDZPVMNLWYoöeëıiuühkgtcsxdzpvmnlwy]*(?: [OÖEËIİUÜHKGTCSXDZPVMNLWY][OÖEËIİUÜHKGTCSXDZPVMNLWYoöeëıiuühkgtcsxdzpvmnlwy]*)*)/gi, (match, i) => {
         if (word = words[match]) {
           return (
             <a key={`word-${i}`} data-tooltip-id='hisyeo' data-tooltip-kind={`${kind}`} data-tooltip-content={match}>
@@ -22,9 +25,22 @@ export default function HisyeoText({ kind, children }) {
           )
         } else {
           // console.log(`Word not found: ${match}`);
-          return (
-            <span key={`custom-${i}`}>{match}</span>
-          )
+          if (kind == 'abugida') {
+            const [result, isProper] = transcribe(match);
+            if (isProper) {
+              return (
+                <span key={`custom-${i}`} kind="abugida">{result}</span>
+              )  
+            } else {
+              return (
+                <u key={`custom-${i}`} kind="abugida">{result}</u>
+              )
+            }
+          } else {
+            return (
+              <span key={`custom-${i}`}>{match}</span>
+            )
+          }
         }
       })
     }</p>
