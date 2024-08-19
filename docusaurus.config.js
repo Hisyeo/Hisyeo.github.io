@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/hisyeo.ico',
 
   // Set the production url of your site here
-  url: 'https://govuliel.github.io',
+  url: 'https://hisyeo.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/hyo/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'govuliel', // Usually your GitHub org/user name.
-  projectName: 'hyo', // Usually your repo name.
+  organizationName: 'Hisyeo', // Usually your GitHub org/user name.
+  projectName: 'Hisyeo.github.io', // Usually your repo name.
 
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
