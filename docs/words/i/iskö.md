@@ -2,7 +2,7 @@
 id: iskö
 slug: iskö
 title: İSKÖ
-sidebar_position: 68
+sidebar_position: 69
 hoverText: to drink (a drink) § Verb
 ---
 

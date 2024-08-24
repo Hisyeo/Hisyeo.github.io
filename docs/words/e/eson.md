@@ -1,12 +1,12 @@
 ---
-id: tiso
-slug: tiso
-title: TİSO
-sidebar_position: 285
+id: eson
+slug: eson
+title: ESON
+sidebar_position: 47
 hoverText: 09 nine § Numeral
 ---
 
-### tiso
+### eson
 
 *09 nine* **§** Numeral
 
@@ -16,6 +16,6 @@ hoverText: 09 nine § Numeral
 
 **Modifier**: ninth
 
-Swahili tisa 
+Yoruba ẹ̀sán /'ɛ.sän/
 
 *Niger-Congo Language Family*

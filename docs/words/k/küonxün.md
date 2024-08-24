@@ -2,7 +2,7 @@
 id: küonxün
 slug: küonxün
 title: KÜONXÜN
-sidebar_position: 206
+sidebar_position: 207
 hoverText: tolerant § Adjective
 ---
 

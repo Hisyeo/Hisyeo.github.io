@@ -2,7 +2,7 @@
 id: këxik
 slug: këxik
 title: KËXİK
-sidebar_position: 186
+sidebar_position: 187
 hoverText: variable/unstable § Adjective
 ---
 

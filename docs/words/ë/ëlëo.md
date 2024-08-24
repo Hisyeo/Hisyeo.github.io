@@ -2,7 +2,7 @@
 id: ëlëo
 slug: ëlëo
 title: ËLËO
-sidebar_position: 58
+sidebar_position: 59
 hoverText: floating § Adjective
 ---
 

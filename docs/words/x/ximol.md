@@ -2,7 +2,7 @@
 id: ximol
 slug: ximol
 title: XİMOL
-sidebar_position: 437
+sidebar_position: 436
 hoverText: left § Noun
 ---
 

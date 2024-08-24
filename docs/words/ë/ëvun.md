@@ -2,7 +2,7 @@
 id: ëvun
 slug: ëvun
 title: ËVUN
-sidebar_position: 54
+sidebar_position: 55
 hoverText: momentary § Adjective
 ---
 

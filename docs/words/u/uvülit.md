@@ -2,7 +2,7 @@
 id: uvülit
 slug: uvülit
 title: UVÜLİT
-sidebar_position: 82
+sidebar_position: 83
 hoverText: bored § Adjective
 ---
 

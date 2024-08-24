@@ -1,12 +1,12 @@
 ---
-id: xönë
-slug: xönë
-title: XÖNË
-sidebar_position: 424
+id: pësu
+slug: pësu
+title: PËSU
+sidebar_position: 554
 hoverText: different § Adjective
 ---
 
-### xönë
+### pësu
 
 *different* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: different § Adjective
 
 **Modifier**: different
 
-Hebrew שׁוֹנֶה shoné 
+Malay بيذا beza /be.zə/
 
-*Afroasiatic Language Family*
+*Austronesian Language Family*

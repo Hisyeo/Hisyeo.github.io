@@ -2,7 +2,7 @@
 id: gomi
 slug: gomi
 title: GOMİ
-sidebar_position: 225
+sidebar_position: 226
 hoverText: to take (the taken) § Verb
 ---
 

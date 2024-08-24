@@ -2,7 +2,7 @@
 id: poxö
 slug: poxö
 title: POXÖ
-sidebar_position: 531
+sidebar_position: 530
 hoverText: place § Noun
 ---
 
