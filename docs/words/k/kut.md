@@ -6,7 +6,7 @@ sidebar_position: 203
 hoverText: 01 one § Numeral
 ---
 
-### kut
+### kut&emsp;<span kind="abugida">ɔ̆ʃ</span>
 
 *01 one* **§** Numeral
 

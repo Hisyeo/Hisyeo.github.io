@@ -6,7 +6,7 @@ sidebar_position: 489
 hoverText: jump § Noun
 ---
 
-### zoston
+### zoston&emsp;<span kind="abugida">ⱴ́c̃</span>
 
 *jump* **§** Noun
 

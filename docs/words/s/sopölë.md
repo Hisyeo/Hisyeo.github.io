@@ -6,7 +6,7 @@ sidebar_position: 360
 hoverText: to taste (a flavor) § Verb
 ---
 
-### sopölë
+### sopölë&emsp;<span kind="abugida">ɐʋıʓʇ</span>
 
 *to taste (a flavor)* **§** Verb
 

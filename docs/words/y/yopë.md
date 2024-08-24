@@ -6,7 +6,7 @@ sidebar_position: 820
 hoverText: artificial § Adjective
 ---
 
-### yopë
+### yopë&emsp;<span kind="abugida">ɀʋʇ</span>
 
 *artificial* **§** Adjective
 

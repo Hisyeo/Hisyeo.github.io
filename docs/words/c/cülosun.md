@@ -6,7 +6,7 @@ sidebar_position: 349
 hoverText: to allow (the allowed) § Verb
 ---
 
-### cülosun
+### cülosun&emsp;<span kind="abugida">ꞇʄʓɐ̃ʃ</span>
 
 *to allow (the allowed)* **§** Verb
 

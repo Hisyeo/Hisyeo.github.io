@@ -6,7 +6,7 @@ sidebar_position: 260
 hoverText: 06 six § Numeral
 ---
 
-### toü
+### toü&emsp;<span kind="abugida">cɽʄ</span>
 
 *06 six* **§** Numeral
 

@@ -6,7 +6,7 @@ sidebar_position: 778
 hoverText: word § Noun
 ---
 
-### lolü
+### lolü&emsp;<span kind="abugida">ʓʓʄ</span>
 
 *word* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 729
 hoverText: curiosity clause ender (what about) § Postposition
 ---
 
-### nu
+### nu&emsp;<span kind="abugida">ƨʃ</span>
 
 *curiosity clause ender (what about)* **§** Postposition
 

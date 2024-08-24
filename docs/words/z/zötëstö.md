@@ -6,7 +6,7 @@ sidebar_position: 501
 hoverText: sufficient/enough § Determiner
 ---
 
-### zötëstö
+### zötëstö&emsp;<span kind="abugida">ⱴıćʇcı</span>
 
 *sufficient/enough* **§** Determiner
 

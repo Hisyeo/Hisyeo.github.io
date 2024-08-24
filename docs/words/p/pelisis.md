@@ -6,7 +6,7 @@ sidebar_position: 551
 hoverText: unsure § Adjective
 ---
 
-### pelisis
+### pelisis&emsp;<span kind="abugida">ʋɿʓɟɐ́ɟ</span>
 
 *unsure* **§** Adjective
 

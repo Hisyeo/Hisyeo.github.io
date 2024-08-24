@@ -6,7 +6,7 @@ sidebar_position: 409
 hoverText: seeming § Adjective
 ---
 
-### xoinpo
+### xoinpo&emsp;<span kind="abugida">ɋɽ̃ɟʋ</span>
 
 *seeming* **§** Adjective
 

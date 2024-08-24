@@ -6,7 +6,7 @@ sidebar_position: 584
 hoverText: arachnid § Noun
 ---
 
-### puyencok
+### puyencok&emsp;<span kind="abugida">ʋʃɀ̃ɿꞇ̑</span>
 
 *arachnid* **§** Noun
 

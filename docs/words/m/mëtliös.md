@@ -6,7 +6,7 @@ sidebar_position: 663
 hoverText: medium/average § Adjective
 ---
 
-### mëtliös
+### mëtliös&emsp;<span kind="abugida">ƶ̆ʇʓɟɽ́ı</span>
 
 *medium/average* **§** Adjective
 

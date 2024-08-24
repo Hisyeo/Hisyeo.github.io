@@ -6,7 +6,7 @@ sidebar_position: 44
 hoverText: 11 eleven § Numeral
 ---
 
-### önsu
+### önsu&emsp;<span kind="abugida">ɽ̃ıɐʃ</span>
 
 *11 eleven* **§** Numeral
 

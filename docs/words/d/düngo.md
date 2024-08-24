@@ -6,7 +6,7 @@ sidebar_position: 483
 hoverText: to pierce (the pierced) § Verb
 ---
 
-### düngo
+### düngo&emsp;<span kind="abugida">ʌ̃ʄꜿ</span>
 
 *to pierce (the pierced)* **§** Verb
 

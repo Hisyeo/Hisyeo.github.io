@@ -6,7 +6,7 @@ sidebar_position: 753
 hoverText: to hunt/chase (prey/chasee) § Verb
 ---
 
-### wëtodü
+### wëtodü&emsp;<span kind="abugida">ʒʇcʌʄ</span>
 
 *to hunt/chase (prey/chasee)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 388
 hoverText: to digest (the digested) § Verb
 ---
 
-### siüvo
+### siüvo&emsp;<span kind="abugida">ɐɟɽʄɤ</span>
 
 *to digest (the digested)* **§** Verb
 

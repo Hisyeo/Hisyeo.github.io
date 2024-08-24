@@ -6,7 +6,7 @@ sidebar_position: 348
 hoverText: repeating § Adjective
 ---
 
-### cünvü
+### cünvü&emsp;<span kind="abugida">ꞇ̃ʄɤʄ</span>
 
 *repeating* **§** Adjective
 

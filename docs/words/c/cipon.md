@@ -6,7 +6,7 @@ sidebar_position: 331
 hoverText: fat/grease § Noun
 ---
 
-### cipon
+### cipon&emsp;<span kind="abugida">ꞇɟʋ̃</span>
 
 *fat/grease* **§** Noun
 

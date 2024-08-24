@@ -6,7 +6,7 @@ sidebar_position: 336
 hoverText: to fortify (the fortified) § Verb
 ---
 
-### cuncion
+### cuncion&emsp;<span kind="abugida">ꞇ̃ʃꞇɟɽ̃</span>
 
 *to fortify (the fortified)* **§** Verb
 

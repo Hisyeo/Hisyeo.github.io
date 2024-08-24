@@ -6,7 +6,7 @@ sidebar_position: 822
 hoverText: wrong § Adjective
 ---
 
-### yonlüs
+### yonlüs&emsp;<span kind="abugida">ɀ̃ʓ́ʄ</span>
 
 *wrong* **§** Adjective
 

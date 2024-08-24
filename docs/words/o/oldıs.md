@@ -6,7 +6,7 @@ sidebar_position: 31
 hoverText: evidence marker (or so) § Preposition
 ---
 
-### oldıs
+### oldıs&emsp;<span kind="abugida">ɽ͊ʌ́ȷ</span>
 
 *evidence marker (or so)* **§** Preposition
 

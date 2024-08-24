@@ -6,7 +6,7 @@ sidebar_position: 124
 hoverText: herb § Noun
 ---
 
-### höncöü
+### höncöü&emsp;<span kind="abugida">ɂ̃ıꞇıɽʄ</span>
 
 *herb* **§** Noun
 

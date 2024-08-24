@@ -6,7 +6,7 @@ sidebar_position: 117
 hoverText: quiet § Adjective
 ---
 
-### homüs
+### homüs&emsp;<span kind="abugida">ɂƶ́ʄ</span>
 
 *quiet* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 173
 hoverText: conscious § Adjective
 ---
 
-### köxentë
+### köxentë&emsp;<span kind="abugida">ɔıɋ̃ɿcʇ</span>
 
 *conscious* **§** Adjective
 

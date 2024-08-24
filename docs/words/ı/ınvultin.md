@@ -6,7 +6,7 @@ sidebar_position: 63
 hoverText: rotating/spinning § Adjective
 ---
 
-### ınvultin
+### ınvultin&emsp;<span kind="abugida">ɽ̃ȷɤ͊ʃc̃ɟ</span>
 
 *rotating/spinning* **§** Adjective
 

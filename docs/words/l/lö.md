@@ -6,7 +6,7 @@ sidebar_position: 779
 hoverText: moving § Adjective
 ---
 
-### lö
+### lö&emsp;<span kind="abugida">ʓı</span>
 
 *moving* **§** Adjective
 

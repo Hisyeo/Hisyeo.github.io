@@ -6,7 +6,7 @@ sidebar_position: 455
 hoverText: decent § Adjective
 ---
 
-### dökcon
+### dökcon&emsp;<span kind="abugida">ʌ̑ıꞇ̃</span>
 
 *decent* **§** Adjective
 

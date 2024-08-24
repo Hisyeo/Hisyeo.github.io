@@ -6,7 +6,7 @@ sidebar_position: 540
 hoverText: to block (the blocked) § Verb
 ---
 
-### pökövoc
+### pökövoc&emsp;<span kind="abugida">ʋıɔıɤ̄</span>
 
 *to block (the blocked)* **§** Verb
 

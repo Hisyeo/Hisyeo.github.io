@@ -6,7 +6,7 @@ sidebar_position: 199
 hoverText: 15 fifteen § Numeral
 ---
 
-### kinsë
+### kinsë&emsp;<span kind="abugida">ɔ̃ɟɐʇ</span>
 
 *15 fifteen* **§** Numeral
 

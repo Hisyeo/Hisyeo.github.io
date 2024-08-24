@@ -6,7 +6,7 @@ sidebar_position: 131
 hoverText: gender § Noun
 ---
 
-### hënëlö
+### hënëlö&emsp;<span kind="abugida">ɂʇƨʇʓı</span>
 
 *gender* **§** Noun
 

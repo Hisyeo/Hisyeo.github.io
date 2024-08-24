@@ -6,7 +6,7 @@ sidebar_position: 525
 hoverText: closet/cupboard/cabinet § Noun
 ---
 
-### poholon
+### poholon&emsp;<span kind="abugida">ʋɂʓ̃</span>
 
 *closet/cupboard/cabinet* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 403
 hoverText: layer § Noun
 ---
 
-### süsön
+### süsön&emsp;<span kind="abugida">ɐʄɐ̃ı</span>
 
 *layer* **§** Noun
 

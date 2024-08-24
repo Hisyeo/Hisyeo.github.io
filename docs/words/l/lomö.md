@@ -6,7 +6,7 @@ sidebar_position: 773
 hoverText: long § Adjective
 ---
 
-### lomö
+### lomö&emsp;<span kind="abugida">ʓƶı</span>
 
 *long* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 812
 hoverText: some/a few § Determiner
 ---
 
-### yoüti
+### yoüti&emsp;<span kind="abugida">ɀɽʄcɟ</span>
 
 *some/a few* **§** Determiner
 

@@ -6,7 +6,7 @@ sidebar_position: 524
 hoverText: to emit (excreta) § Verb
 ---
 
-### poivön
+### poivön&emsp;<span kind="abugida">ʋɽɟɤ̃ı</span>
 
 *to emit (excreta)* **§** Verb
 

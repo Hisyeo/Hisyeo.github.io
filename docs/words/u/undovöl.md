@@ -6,7 +6,7 @@ sidebar_position: 86
 hoverText: legume § Noun
 ---
 
-### undovöl
+### undovöl&emsp;<span kind="abugida">ɽ̃ʃʌɤ͊ı</span>
 
 *legume* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 356
 hoverText: normal § Adjective
 ---
 
-### sodolun
+### sodolun&emsp;<span kind="abugida">ɐʌʓ̃ʃ</span>
 
 *normal* **§** Adjective
 

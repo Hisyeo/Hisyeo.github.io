@@ -6,7 +6,7 @@ sidebar_position: 490
 hoverText: group § Noun
 ---
 
-### zomo
+### zomo&emsp;<span kind="abugida">ⱴƶ</span>
 
 *group* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 415
 hoverText: guts § Noun
 ---
 
-### xovö
+### xovö&emsp;<span kind="abugida">ɋɤı</span>
 
 *guts* **§** Noun
 

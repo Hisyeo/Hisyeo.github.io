@@ -6,7 +6,7 @@ sidebar_position: 776
 hoverText: color § Noun
 ---
 
-### longı
+### longı&emsp;<span kind="abugida">ʓ̃ꜿȷ</span>
 
 *color* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 568
 hoverText: conditional verb particle § Particle
 ---
 
-### pit
+### pit&emsp;<span kind="abugida">ʋ̆ɟ</span>
 
 *conditional verb particle* **§** Particle
 

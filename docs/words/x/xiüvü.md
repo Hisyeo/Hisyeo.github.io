@@ -6,7 +6,7 @@ sidebar_position: 430
 hoverText: to repair (the repaired) § Verb
 ---
 
-### xiüvü
+### xiüvü&emsp;<span kind="abugida">ɋɟɽʄɤʄ</span>
 
 *to repair (the repaired)* **§** Verb
 

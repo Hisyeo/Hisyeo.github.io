@@ -6,7 +6,7 @@ sidebar_position: 816
 hoverText: ongoing § Adjective
 ---
 
-### yotkuwo
+### yotkuwo&emsp;<span kind="abugida">ɀ̆ɔʃʒ</span>
 
 *ongoing* **§** Adjective
 

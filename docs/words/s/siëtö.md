@@ -6,7 +6,7 @@ sidebar_position: 387
 hoverText: plate § Noun
 ---
 
-### siëtö
+### siëtö&emsp;<span kind="abugida">ɐɟɽʇcı</span>
 
 *plate* **§** Noun
 

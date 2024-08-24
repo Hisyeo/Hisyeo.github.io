@@ -6,7 +6,7 @@ sidebar_position: 545
 hoverText: bridge § Noun
 ---
 
-### pöntı
+### pöntı&emsp;<span kind="abugida">ʋ̃ıcȷ</span>
 
 *bridge* **§** Noun
 

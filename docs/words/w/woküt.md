@@ -6,7 +6,7 @@ sidebar_position: 740
 hoverText: time § Noun
 ---
 
-### woküt
+### woküt&emsp;<span kind="abugida">ʒɔ̆ʄ</span>
 
 *time* **§** Noun
 

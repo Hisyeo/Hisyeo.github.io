@@ -6,7 +6,7 @@ sidebar_position: 318
 hoverText: dancing § Adjective
 ---
 
-### cıvulo
+### cıvulo&emsp;<span kind="abugida">ꞇȷɤʃʓ</span>
 
 *dancing* **§** Adjective
 

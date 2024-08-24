@@ -6,7 +6,7 @@ sidebar_position: 765
 hoverText: month § Noun
 ---
 
-### wuto
+### wuto&emsp;<span kind="abugida">ʒʃc</span>
 
 *month* **§** Noun
 

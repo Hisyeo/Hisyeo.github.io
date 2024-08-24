@@ -6,7 +6,7 @@ sidebar_position: 114
 hoverText: beam/joist/stud § Noun
 ---
 
-### hoxopë
+### hoxopë&emsp;<span kind="abugida">ɂɋʋʇ</span>
 
 *beam/joist/stud* **§** Noun
 

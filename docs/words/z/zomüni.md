@@ -6,7 +6,7 @@ sidebar_position: 492
 hoverText: purple § Adjective
 ---
 
-### zomüni
+### zomüni&emsp;<span kind="abugida">ⱴƶʄƨɟ</span>
 
 *purple* **§** Adjective
 

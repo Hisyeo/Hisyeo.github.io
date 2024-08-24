@@ -6,7 +6,7 @@ sidebar_position: 712
 hoverText: intoxicated § Adjective
 ---
 
-### nexë
+### nexë&emsp;<span kind="abugida">ƨɿɋʇ</span>
 
 *intoxicated* **§** Adjective
 

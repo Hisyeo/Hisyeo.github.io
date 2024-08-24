@@ -6,7 +6,7 @@ sidebar_position: 373
 hoverText: direct/live § Adjective
 ---
 
-### söndonös
+### söndonös&emsp;<span kind="abugida">ɐ̃ıʌƨ́ı</span>
 
 *direct/live* **§** Adjective
 

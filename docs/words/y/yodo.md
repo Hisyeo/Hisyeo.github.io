@@ -6,7 +6,7 @@ sidebar_position: 819
 hoverText: or § Conjunction
 ---
 
-### yodo
+### yodo&emsp;<span kind="abugida">ɀʌ</span>
 
 *or* **§** Conjunction
 

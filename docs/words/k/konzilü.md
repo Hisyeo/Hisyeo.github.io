@@ -6,7 +6,7 @@ sidebar_position: 160
 hoverText: to feel/sense (a phenomenon) § Verb
 ---
 
-### konzilü
+### konzilü&emsp;<span kind="abugida">ɔ̃ⱴɟʓʄ</span>
 
 *to feel/sense (a phenomenon)* **§** Verb
 

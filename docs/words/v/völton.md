@@ -6,7 +6,7 @@ sidebar_position: 609
 hoverText: hereafter § Adjective
 ---
 
-### völton
+### völton&emsp;<span kind="abugida">ɤ͊ıc̃</span>
 
 *hereafter* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 274
 hoverText: hurting/suffering § Adjective
 ---
 
-### tönkö
+### tönkö&emsp;<span kind="abugida">c̃ıɔı</span>
 
 *hurting/suffering* **§** Adjective
 

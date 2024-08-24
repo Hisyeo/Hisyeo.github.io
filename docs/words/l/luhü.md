@@ -6,7 +6,7 @@ sidebar_position: 803
 hoverText: blood § Noun
 ---
 
-### luhü
+### luhü&emsp;<span kind="abugida">ʓʃɂʄ</span>
 
 *blood* **§** Noun
 

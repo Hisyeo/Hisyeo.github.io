@@ -6,7 +6,7 @@ sidebar_position: 625
 hoverText: to bury (the buried) § Verb
 ---
 
-### vizi
+### vizi&emsp;<span kind="abugida">ɤɟⱴɟ</span>
 
 *to bury (the buried)* **§** Verb
 

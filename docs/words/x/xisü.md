@@ -6,7 +6,7 @@ sidebar_position: 433
 hoverText: secular/profane/worldly § Adjective
 ---
 
-### xisü
+### xisü&emsp;<span kind="abugida">ɋɟɐʄ</span>
 
 *secular/profane/worldly* **§** Adjective
 

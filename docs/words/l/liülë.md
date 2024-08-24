@@ -6,7 +6,7 @@ sidebar_position: 795
 hoverText: laughing § Adjective
 ---
 
-### liülë
+### liülë&emsp;<span kind="abugida">ʓɟɽʄʓʇ</span>
 
 *laughing* **§** Adjective
 

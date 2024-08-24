@@ -6,7 +6,7 @@ sidebar_position: 443
 hoverText: river § Noun
 ---
 
-### xüto
+### xüto&emsp;<span kind="abugida">ɋʄc</span>
 
 *river* **§** Noun
 

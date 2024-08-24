@@ -6,7 +6,7 @@ sidebar_position: 288
 hoverText: 08 eight § Numeral
 ---
 
-### tukwos
+### tukwos&emsp;<span kind="abugida">c̑ʃʒ́</span>
 
 *08 eight* **§** Numeral
 

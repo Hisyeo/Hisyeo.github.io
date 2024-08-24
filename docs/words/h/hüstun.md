@@ -6,7 +6,7 @@ sidebar_position: 144
 hoverText: cough § Noun
 ---
 
-### hüstun
+### hüstun&emsp;<span kind="abugida">ɂ́ʄc̃ʃ</span>
 
 *cough* **§** Noun
 

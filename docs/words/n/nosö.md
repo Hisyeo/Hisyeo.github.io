@@ -6,7 +6,7 @@ sidebar_position: 699
 hoverText: puzzle/mystery § Noun
 ---
 
-### nosö
+### nosö&emsp;<span kind="abugida">ƨɐı</span>
 
 *puzzle/mystery* **§** Noun
 

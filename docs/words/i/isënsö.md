@@ -6,7 +6,7 @@ sidebar_position: 67
 hoverText: verb § Noun
 ---
 
-### isënsö
+### isënsö&emsp;<span kind="abugida">ɽɟɐ̃ʇɐı</span>
 
 *verb* **§** Noun
 

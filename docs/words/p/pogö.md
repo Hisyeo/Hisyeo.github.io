@@ -6,7 +6,7 @@ sidebar_position: 526
 hoverText: luck § Noun
 ---
 
-### pogö
+### pogö&emsp;<span kind="abugida">ʋꜿı</span>
 
 *luck* **§** Noun
 

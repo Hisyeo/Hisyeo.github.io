@@ -6,7 +6,7 @@ sidebar_position: 335
 hoverText: to climb (a slope) § Verb
 ---
 
-### cutnë
+### cutnë&emsp;<span kind="abugida">ꞇ̆ʃƨʇ</span>
 
 *to climb (a slope)* **§** Verb
 

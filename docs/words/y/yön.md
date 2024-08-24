@@ -6,7 +6,7 @@ sidebar_position: 827
 hoverText: to use (a tool) § Verb
 ---
 
-### yön
+### yön&emsp;<span kind="abugida">ɀ̃ı</span>
 
 *to use (a tool)* **§** Verb
 

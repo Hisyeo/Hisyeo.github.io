@@ -6,7 +6,7 @@ sidebar_position: 421
 hoverText: salty § Adjective
 ---
 
-### xöpoi
+### xöpoi&emsp;<span kind="abugida">ɋıʋɽɟ</span>
 
 *salty* **§** Adjective
 

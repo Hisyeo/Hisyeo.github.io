@@ -6,7 +6,7 @@ sidebar_position: 75
 hoverText: verb modifier particle § Particle
 ---
 
-### in
+### in&emsp;<span kind="abugida">ɽ̃ɟ</span>
 
 *verb modifier particle* **§** Particle
 

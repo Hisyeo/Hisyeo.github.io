@@ -6,7 +6,7 @@ sidebar_position: 137
 hoverText: excited § Adjective
 ---
 
-### hizon
+### hizon&emsp;<span kind="abugida">ɂɟⱴ̃</span>
 
 *excited* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 652
 hoverText: all/every § Determiner
 ---
 
-### möi
+### möi&emsp;<span kind="abugida">ƶıɽɟ</span>
 
 *all/every* **§** Determiner
 

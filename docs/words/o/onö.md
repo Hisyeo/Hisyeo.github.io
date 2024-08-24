@@ -6,7 +6,7 @@ sidebar_position: 23
 hoverText: distal demonstrative (yon/yonder) § Pronoun
 ---
 
-### onö
+### onö&emsp;<span kind="abugida">ɽƨı</span>
 
 *distal demonstrative (yon/yonder)* **§** Pronoun
 

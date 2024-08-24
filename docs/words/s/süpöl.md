@@ -6,7 +6,7 @@ sidebar_position: 404
 hoverText: fertile/productive § Adjective
 ---
 
-### süpöl
+### süpöl&emsp;<span kind="abugida">ɐʄʋ͊ı</span>
 
 *fertile/productive* **§** Adjective
 

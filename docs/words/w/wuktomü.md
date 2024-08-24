@@ -6,7 +6,7 @@ sidebar_position: 764
 hoverText: overt/evident § Adjective
 ---
 
-### wuktomü
+### wuktomü&emsp;<span kind="abugida">ʒ̑ʃcƶʄ</span>
 
 *overt/evident* **§** Adjective
 

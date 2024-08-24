@@ -6,7 +6,7 @@ sidebar_position: 627
 hoverText: row § Noun
 ---
 
-### vilo
+### vilo&emsp;<span kind="abugida">ɤɟʓ</span>
 
 *row* **§** Noun
 

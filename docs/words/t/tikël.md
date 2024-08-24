@@ -6,7 +6,7 @@ sidebar_position: 283
 hoverText: reflected § Adjective
 ---
 
-### tikël
+### tikël&emsp;<span kind="abugida">cɟɔ͊ʇ</span>
 
 *reflected* **§** Adjective
 

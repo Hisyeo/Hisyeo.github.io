@@ -6,7 +6,7 @@ sidebar_position: 424
 hoverText: crossed/intersected § Adjective
 ---
 
-### xecinoc
+### xecinoc&emsp;<span kind="abugida">ɋɿꞇɟƨ̄</span>
 
 *crossed/intersected* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 249
 hoverText: war § Noun
 ---
 
-### güexo
+### güexo&emsp;<span kind="abugida">ꜿʄɽɿɋ</span>
 
 *war* **§** Noun
 

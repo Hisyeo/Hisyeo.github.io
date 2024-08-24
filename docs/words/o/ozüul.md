@@ -6,7 +6,7 @@ sidebar_position: 14
 hoverText: any/whichever § Pronoun
 ---
 
-### ozüul
+### ozüul&emsp;<span kind="abugida">ɽⱴʄɽ͊ʃ</span>
 
 *any/whichever* **§** Pronoun
 

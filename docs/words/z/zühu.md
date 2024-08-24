@@ -6,7 +6,7 @@ sidebar_position: 518
 hoverText: tongue § Noun
 ---
 
-### zühu
+### zühu&emsp;<span kind="abugida">ⱴʄɂʃ</span>
 
 *tongue* **§** Noun
 

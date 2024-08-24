@@ -6,7 +6,7 @@ sidebar_position: 593
 hoverText: tail § Noun
 ---
 
-### püntüt
+### püntüt&emsp;<span kind="abugida">ʋ̃ʄc̆ʄ</span>
 
 *tail* **§** Noun
 

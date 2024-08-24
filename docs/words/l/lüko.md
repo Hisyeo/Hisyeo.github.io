@@ -6,7 +6,7 @@ sidebar_position: 808
 hoverText: interrupted § Adjective
 ---
 
-### lüko
+### lüko&emsp;<span kind="abugida">ʓʄɔ</span>
 
 *interrupted* **§** Adjective
 

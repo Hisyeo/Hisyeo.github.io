@@ -6,7 +6,7 @@ sidebar_position: 10
 hoverText: skin § Noun
 ---
 
-### ocüo
+### ocüo&emsp;<span kind="abugida">ɽꞇʄɽ</span>
 
 *skin* **§** Noun
 

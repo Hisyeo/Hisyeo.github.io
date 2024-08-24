@@ -6,7 +6,7 @@ sidebar_position: 498
 hoverText: blue § Adjective
 ---
 
-### zöi
+### zöi&emsp;<span kind="abugida">ⱴıɽɟ</span>
 
 *blue* **§** Adjective
 

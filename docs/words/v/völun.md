@@ -6,7 +6,7 @@ sidebar_position: 608
 hoverText: to want (a desire) § Verb
 ---
 
-### völun
+### völun&emsp;<span kind="abugida">ɤıʓ̃ʃ</span>
 
 *to want (a desire)* **§** Verb
 

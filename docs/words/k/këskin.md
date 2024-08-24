@@ -6,7 +6,7 @@ sidebar_position: 186
 hoverText: sharp § Adjective
 ---
 
-### këskin
+### këskin&emsp;<span kind="abugida">ɔ́ʇɔ̃ɟ</span>
 
 *sharp* **§** Adjective
 

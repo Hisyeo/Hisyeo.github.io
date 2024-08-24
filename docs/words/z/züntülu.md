@@ -6,7 +6,7 @@ sidebar_position: 521
 hoverText: joint § Noun
 ---
 
-### züntülu
+### züntülu&emsp;<span kind="abugida">ⱴ̃ʄcʄʓʃ</span>
 
 *joint* **§** Noun
 

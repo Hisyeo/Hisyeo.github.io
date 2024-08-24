@@ -6,7 +6,7 @@ sidebar_position: 36
 hoverText: orderly § Adjective
 ---
 
-### ödon
+### ödon&emsp;<span kind="abugida">ɽıʌ̃</span>
 
 *orderly* **§** Adjective
 

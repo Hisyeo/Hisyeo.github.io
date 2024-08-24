@@ -6,7 +6,7 @@ sidebar_position: 641
 hoverText: to await (an expectation) § Verb
 ---
 
-### motsı
+### motsı&emsp;<span kind="abugida">ƶ̆ɐȷ</span>
 
 *to await (an expectation)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 709
 hoverText: map/chart § Noun
 ---
 
-### nökso
+### nökso&emsp;<span kind="abugida">ƨ̑ıɐ</span>
 
 *map/chart* **§** Noun
 

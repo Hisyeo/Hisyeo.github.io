@@ -6,7 +6,7 @@ sidebar_position: 251
 hoverText: angry § Adjective
 ---
 
-### güso
+### güso&emsp;<span kind="abugida">ꜿʄɐ</span>
 
 *angry* **§** Adjective
 

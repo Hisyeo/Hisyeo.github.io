@@ -6,7 +6,7 @@ sidebar_position: 61
 hoverText: honor/glory § Noun
 ---
 
-### ıstıhol
+### ıstıhol&emsp;<span kind="abugida">ɽ́ȷcȷɂ͊</span>
 
 *honor/glory* **§** Noun
 

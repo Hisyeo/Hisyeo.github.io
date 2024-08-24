@@ -6,7 +6,7 @@ sidebar_position: 384
 hoverText: sibling § Noun
 ---
 
-### sıskın
+### sıskın&emsp;<span kind="abugida">ɐ́ȷɔ̃ȷ</span>
 
 *sibling* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 633
 hoverText: illusion § Noun
 ---
 
-### vüongok
+### vüongok&emsp;<span kind="abugida">ɤʄɽ̃ꜿ̑</span>
 
 *illusion* **§** Noun
 

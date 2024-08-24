@@ -6,7 +6,7 @@ sidebar_position: 769
 hoverText: original § Adjective
 ---
 
-### losol
+### losol&emsp;<span kind="abugida">ʓɐ͊</span>
 
 *original* **§** Adjective
 

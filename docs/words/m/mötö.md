@@ -6,7 +6,7 @@ sidebar_position: 656
 hoverText: fire § Noun
 ---
 
-### mötö
+### mötö&emsp;<span kind="abugida">ƶıcı</span>
 
 *fire* **§** Noun
 

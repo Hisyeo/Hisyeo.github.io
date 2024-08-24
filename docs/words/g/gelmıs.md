@@ -6,7 +6,7 @@ sidebar_position: 241
 hoverText: stretched § Adjective
 ---
 
-### gelmıs
+### gelmıs&emsp;<span kind="abugida">ꜿ͊ɿƶ́ȷ</span>
 
 *stretched* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 624
 hoverText: special/unique § Adjective
 ---
 
-### vixës
+### vixës&emsp;<span kind="abugida">ɤɟɋ́ʇ</span>
 
 *special/unique* **§** Adjective
 

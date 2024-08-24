@@ -6,7 +6,7 @@ sidebar_position: 55
 hoverText: momentary § Adjective
 ---
 
-### ëvun
+### ëvun&emsp;<span kind="abugida">ɽʇɤ̃ʃ</span>
 
 *momentary* **§** Adjective
 

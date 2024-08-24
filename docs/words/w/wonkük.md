@@ -6,7 +6,7 @@ sidebar_position: 744
 hoverText: curved § Adjective
 ---
 
-### wonkük
+### wonkük&emsp;<span kind="abugida">ʒ̃ɔ̑ʄ</span>
 
 *curved* **§** Adjective
 

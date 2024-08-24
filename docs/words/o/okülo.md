@@ -6,7 +6,7 @@ sidebar_position: 4
 hoverText: to touch (a surface) § Verb
 ---
 
-### okülo
+### okülo&emsp;<span kind="abugida">ɽɔʄʓ</span>
 
 *to touch (a surface)* **§** Verb
 

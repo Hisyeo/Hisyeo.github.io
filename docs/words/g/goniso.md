@@ -6,7 +6,7 @@ sidebar_position: 227
 hoverText: to think (a thought/opinion) § Verb
 ---
 
-### goniso
+### goniso&emsp;<span kind="abugida">ꜿƨɟɐ</span>
 
 *to think (a thought/opinion)* **§** Verb
 

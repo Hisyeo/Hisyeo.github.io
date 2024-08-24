@@ -6,7 +6,7 @@ sidebar_position: 82
 hoverText: resistant § Adjective
 ---
 
-### upölnı
+### upölnı&emsp;<span kind="abugida">ɽʃʋ͊ıƨȷ</span>
 
 *resistant* **§** Adjective
 

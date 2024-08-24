@@ -6,7 +6,7 @@ sidebar_position: 640
 hoverText: parent § Noun
 ---
 
-### motüo
+### motüo&emsp;<span kind="abugida">ƶcʄɽ</span>
 
 *parent* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 556
 hoverText: to agree to (a promise) § Verb
 ---
 
-### pëmon
+### pëmon&emsp;<span kind="abugida">ʋʇƶ̃</span>
 
 *to agree to (a promise)* **§** Verb
 

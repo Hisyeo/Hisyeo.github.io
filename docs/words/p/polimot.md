@@ -6,7 +6,7 @@ sidebar_position: 537
 hoverText: voluminous § Adjective
 ---
 
-### polimot
+### polimot&emsp;<span kind="abugida">ʋʓɟƶ̆</span>
 
 *voluminous* **§** Adjective
 

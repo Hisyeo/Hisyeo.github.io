@@ -6,7 +6,7 @@ sidebar_position: 220
 hoverText: cage/kennel/jail/cell § Noun
 ---
 
-### külünun
+### külünun&emsp;<span kind="abugida">ɔʄʓʄƨ̃ʃ</span>
 
 *cage/kennel/jail/cell* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 120
 hoverText: alive § Adjective
 ---
 
-### hoyo
+### hoyo&emsp;<span kind="abugida">ɂɀ</span>
 
 *alive* **§** Adjective
 

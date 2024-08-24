@@ -6,7 +6,7 @@ sidebar_position: 134
 hoverText: crack/fissure § Noun
 ---
 
-### hıtsu
+### hıtsu&emsp;<span kind="abugida">ɂ̆ȷɐʃ</span>
 
 *crack/fissure* **§** Noun
 

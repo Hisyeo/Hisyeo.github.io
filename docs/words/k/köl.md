@@ -6,7 +6,7 @@ sidebar_position: 182
 hoverText: state/condition § Noun
 ---
 
-### köl
+### köl&emsp;<span kind="abugida">ɔ͊ı</span>
 
 *state/condition* **§** Noun
 

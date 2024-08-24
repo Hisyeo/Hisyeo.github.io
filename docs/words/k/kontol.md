@@ -6,7 +6,7 @@ sidebar_position: 158
 hoverText: to sing/play (music) § Verb
 ---
 
-### kontol
+### kontol&emsp;<span kind="abugida">ɔ̃c͊</span>
 
 *to sing/play (music)* **§** Verb
 

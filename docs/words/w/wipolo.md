@@ -6,7 +6,7 @@ sidebar_position: 761
 hoverText: flag § Noun
 ---
 
-### wipolo
+### wipolo&emsp;<span kind="abugida">ʒɟʋʓ</span>
 
 *flag* **§** Noun
 

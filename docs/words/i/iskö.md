@@ -6,7 +6,7 @@ sidebar_position: 69
 hoverText: to drink (a drink) § Verb
 ---
 
-### iskö
+### iskö&emsp;<span kind="abugida">ɽ́ɟɔı</span>
 
 *to drink (a drink)* **§** Verb
 

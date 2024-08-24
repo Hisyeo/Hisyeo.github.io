@@ -6,7 +6,7 @@ sidebar_position: 739
 hoverText: female § Adjective
 ---
 
-### wohi
+### wohi&emsp;<span kind="abugida">ʒɂɟ</span>
 
 *female* **§** Adjective
 

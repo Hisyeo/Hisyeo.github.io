@@ -6,7 +6,7 @@ sidebar_position: 580
 hoverText: oath/incantation § Noun
 ---
 
-### puswëlın
+### puswëlın&emsp;<span kind="abugida">ʋ́ʃʒʇʓ̃ȷ</span>
 
 *oath/incantation* **§** Noun
 

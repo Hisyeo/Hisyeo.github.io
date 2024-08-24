@@ -6,7 +6,7 @@ sidebar_position: 142
 hoverText: to order (a command) § Verb
 ---
 
-### hükun
+### hükun&emsp;<span kind="abugida">ɂʄɔ̃ʃ</span>
 
 *to order (a command)* **§** Verb
 

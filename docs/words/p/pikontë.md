@@ -6,7 +6,7 @@ sidebar_position: 567
 hoverText: spicy § Adjective
 ---
 
-### pikontë
+### pikontë&emsp;<span kind="abugida">ʋɟɔ̃cʇ</span>
 
 *spicy* **§** Adjective
 

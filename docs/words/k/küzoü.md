@@ -6,7 +6,7 @@ sidebar_position: 213
 hoverText: awesome § Adjective
 ---
 
-### küzoü
+### küzoü&emsp;<span kind="abugida">ɔʄⱴɽʄ</span>
 
 *awesome* **§** Adjective
 

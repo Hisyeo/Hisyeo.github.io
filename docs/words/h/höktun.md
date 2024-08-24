@@ -6,7 +6,7 @@ sidebar_position: 121
 hoverText: mammal § Noun
 ---
 
-### höktun
+### höktun&emsp;<span kind="abugida">ɂ̑ıc̃ʃ</span>
 
 *mammal* **§** Noun
 

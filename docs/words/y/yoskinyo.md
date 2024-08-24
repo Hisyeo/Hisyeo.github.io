@@ -6,7 +6,7 @@ sidebar_position: 817
 hoverText: cave § Noun
 ---
 
-### yoskinyo
+### yoskinyo&emsp;<span kind="abugida">ɀ́ɔ̃ɟɀ</span>
 
 *cave* **§** Noun
 

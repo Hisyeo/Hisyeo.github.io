@@ -6,7 +6,7 @@ sidebar_position: 829
 hoverText: genitive marker (of) § Preposition
 ---
 
-### yë
+### yë&emsp;<span kind="abugida">ɀʇ</span>
 
 *genitive marker (of)* **§** Preposition
 

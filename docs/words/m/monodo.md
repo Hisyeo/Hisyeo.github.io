@@ -6,7 +6,7 @@ sidebar_position: 648
 hoverText: to meet (a meetee) § Verb
 ---
 
-### monodo
+### monodo&emsp;<span kind="abugida">ƶƨʌ</span>
 
 *to meet (a meetee)* **§** Verb
 

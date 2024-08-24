@@ -6,7 +6,7 @@ sidebar_position: 553
 hoverText: to learn (a learning) § Verb
 ---
 
-### pëüdo
+### pëüdo&emsp;<span kind="abugida">ʋʇɽʄʌ</span>
 
 *to learn (a learning)* **§** Verb
 

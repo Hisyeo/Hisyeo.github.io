@@ -6,7 +6,7 @@ sidebar_position: 777
 hoverText: rural § Adjective
 ---
 
-### londuluk
+### londuluk&emsp;<span kind="abugida">ʓ̃ʌʃʓ̑ʃ</span>
 
 *rural* **§** Adjective
 

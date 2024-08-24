@@ -6,7 +6,7 @@ sidebar_position: 426
 hoverText: noun § Noun
 ---
 
-### xemëtsen
+### xemëtsen&emsp;<span kind="abugida">ɋɿƶ̆ʇɐ̃ɿ</span>
 
 *noun* **§** Noun
 

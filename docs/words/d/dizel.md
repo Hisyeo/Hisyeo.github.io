@@ -6,7 +6,7 @@ sidebar_position: 468
 hoverText: other § Pronoun
 ---
 
-### dizel
+### dizel&emsp;<span kind="abugida">ʌɟⱴ͊ɿ</span>
 
 *other* **§** Pronoun
 

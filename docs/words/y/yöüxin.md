@@ -6,7 +6,7 @@ sidebar_position: 823
 hoverText: parade/procession § Noun
 ---
 
-### yöüxin
+### yöüxin&emsp;<span kind="abugida">ɀıɽʄɋ̃ɟ</span>
 
 *parade/procession* **§** Noun
 

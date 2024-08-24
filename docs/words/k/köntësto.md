@@ -6,7 +6,7 @@ sidebar_position: 177
 hoverText: to contend with (a contestant) § Verb
 ---
 
-### köntësto
+### köntësto&emsp;<span kind="abugida">ɔ̃ıćʇc</span>
 
 *to contend with (a contestant)* **§** Verb
 

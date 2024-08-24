@@ -6,7 +6,7 @@ sidebar_position: 135
 hoverText: oscillating § Adjective
 ---
 
-### hitnödët
+### hitnödët&emsp;<span kind="abugida">ɂ̆ɟƨıʌ̆ʇ</span>
 
 *oscillating* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 70
 hoverText: sponge § Noun
 ---
 
-### ispönxu
+### ispönxu&emsp;<span kind="abugida">ɽ́ɟʋ̃ıɋʃ</span>
 
 *sponge* **§** Noun
 

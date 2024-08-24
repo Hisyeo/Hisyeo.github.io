@@ -6,7 +6,7 @@ sidebar_position: 150
 hoverText: plastic § Noun
 ---
 
-### hüwuncul
+### hüwuncul&emsp;<span kind="abugida">ɂʄʒ̃ʃꞇ͊ʃ</span>
 
 *plastic* **§** Noun
 

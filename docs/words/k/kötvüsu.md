@@ -6,7 +6,7 @@ sidebar_position: 170
 hoverText: cephalapod § Noun
 ---
 
-### kötvüsu
+### kötvüsu&emsp;<span kind="abugida">ɔ̆ıɤʄɐʃ</span>
 
 *cephalapod* **§** Noun
 

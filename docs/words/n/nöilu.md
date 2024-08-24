@@ -6,7 +6,7 @@ sidebar_position: 708
 hoverText: key § Noun
 ---
 
-### nöilu
+### nöilu&emsp;<span kind="abugida">ƨıɽɟʓʃ</span>
 
 *key* **§** Noun
 

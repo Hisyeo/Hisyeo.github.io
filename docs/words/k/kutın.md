@@ -6,7 +6,7 @@ sidebar_position: 204
 hoverText: difficult § Adjective
 ---
 
-### kutın
+### kutın&emsp;<span kind="abugida">ɔʃc̃ȷ</span>
 
 *difficult* **§** Adjective
 

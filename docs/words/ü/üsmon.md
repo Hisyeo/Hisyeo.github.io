@@ -6,7 +6,7 @@ sidebar_position: 95
 hoverText: gas § Noun
 ---
 
-### üsmon
+### üsmon&emsp;<span kind="abugida">ɽ́ʄƶ̃</span>
 
 *gas* **§** Noun
 

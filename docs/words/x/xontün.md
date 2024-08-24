@@ -6,7 +6,7 @@ sidebar_position: 416
 hoverText: to provoke (a provocation) § Verb
 ---
 
-### xontün
+### xontün&emsp;<span kind="abugida">ɋ̃c̃ʄ</span>
 
 *to provoke (a provocation)* **§** Verb
 

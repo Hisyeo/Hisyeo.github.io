@@ -6,7 +6,7 @@ sidebar_position: 205
 hoverText: to harvest (a harvest) § Verb
 ---
 
-### kudüdo
+### kudüdo&emsp;<span kind="abugida">ɔʃʌʄʌ</span>
 
 *to harvest (a harvest)* **§** Verb
 

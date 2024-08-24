@@ -6,7 +6,7 @@ sidebar_position: 193
 hoverText: authorized § Adjective
 ---
 
-### kiünlık
+### kiünlık&emsp;<span kind="abugida">ɔɟɽ̃ʄʓ̑ȷ</span>
 
 *authorized* **§** Adjective
 

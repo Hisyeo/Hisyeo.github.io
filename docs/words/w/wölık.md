@@ -6,7 +6,7 @@ sidebar_position: 748
 hoverText: smoke/cloud § Noun
 ---
 
-### wölık
+### wölık&emsp;<span kind="abugida">ʒıʓ̑ȷ</span>
 
 *smoke/cloud* **§** Noun
 

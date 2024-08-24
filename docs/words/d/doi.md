@@ -6,7 +6,7 @@ sidebar_position: 448
 hoverText: string § Noun
 ---
 
-### doi
+### doi&emsp;<span kind="abugida">ʌɽɟ</span>
 
 *string* **§** Noun
 

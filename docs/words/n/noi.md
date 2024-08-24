@@ -6,7 +6,7 @@ sidebar_position: 695
 hoverText: vocative marker § Preposition
 ---
 
-### noi
+### noi&emsp;<span kind="abugida">ƨɽɟ</span>
 
 *vocative marker* **§** Preposition
 

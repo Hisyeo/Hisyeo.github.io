@@ -6,7 +6,7 @@ sidebar_position: 147
 hoverText: red § Adjective
 ---
 
-### hünsık
+### hünsık&emsp;<span kind="abugida">ɂ̃ʄɐ̑ȷ</span>
 
 *red* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 742
 hoverText: island § Noun
 ---
 
-### wopi
+### wopi&emsp;<span kind="abugida">ʒʋɟ</span>
 
 *island* **§** Noun
 

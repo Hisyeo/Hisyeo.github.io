@@ -6,7 +6,7 @@ sidebar_position: 156
 hoverText: broken/dysfunctional § Adjective
 ---
 
-### kopüt
+### kopüt&emsp;<span kind="abugida">ɔʋ̆ʄ</span>
 
 *broken/dysfunctional* **§** Adjective
 

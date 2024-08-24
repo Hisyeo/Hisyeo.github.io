@@ -6,7 +6,7 @@ sidebar_position: 304
 hoverText: to manufacture (goods) § Verb
 ---
 
-### conwëpo
+### conwëpo&emsp;<span kind="abugida">ꞇ̃ʒʇʋ</span>
 
 *to manufacture (goods)* **§** Verb
 

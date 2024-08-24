@@ -6,7 +6,7 @@ sidebar_position: 707
 hoverText: I/me § Pronoun
 ---
 
-### noyo
+### noyo&emsp;<span kind="abugida">ƨɀ</span>
 
 *I/me* **§** Pronoun
 

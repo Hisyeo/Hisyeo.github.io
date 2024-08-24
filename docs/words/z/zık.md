@@ -6,7 +6,7 @@ sidebar_position: 505
 hoverText: what § Pronoun
 ---
 
-### zık
+### zık&emsp;<span kind="abugida">ⱴ̑ȷ</span>
 
 *what* **§** Pronoun
 

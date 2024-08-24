@@ -6,7 +6,7 @@ sidebar_position: 692
 hoverText: tart § Adjective
 ---
 
-### müncü
+### müncü&emsp;<span kind="abugida">ƶ̃ʄꞇʄ</span>
 
 *tart* **§** Adjective
 

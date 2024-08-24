@@ -6,7 +6,7 @@ sidebar_position: 11
 hoverText: sign/signal § Noun
 ---
 
-### ostok
+### ostok&emsp;<span kind="abugida">ɽ́c̑</span>
 
 *sign/signal* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 103
 hoverText: metal § Noun
 ---
 
-### ülögun
+### ülögun&emsp;<span kind="abugida">ɽʄʓıꜿ̃ʃ</span>
 
 *metal* **§** Noun
 

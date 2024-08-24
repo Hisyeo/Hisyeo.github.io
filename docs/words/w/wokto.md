@@ -6,7 +6,7 @@ sidebar_position: 741
 hoverText: outside § Noun
 ---
 
-### wokto
+### wokto&emsp;<span kind="abugida">ʒ̑c</span>
 
 *outside* **§** Noun
 

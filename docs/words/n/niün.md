@@ -6,7 +6,7 @@ sidebar_position: 726
 hoverText: they/them § Pronoun
 ---
 
-### niün
+### niün&emsp;<span kind="abugida">ƨɟɽ̃ʄ</span>
 
 *they/them* **§** Pronoun
 

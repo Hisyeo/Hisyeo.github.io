@@ -6,7 +6,7 @@ sidebar_position: 269
 hoverText: method § Noun
 ---
 
-### toliko
+### toliko&emsp;<span kind="abugida">cʓɟɔ</span>
 
 *method* **§** Noun
 

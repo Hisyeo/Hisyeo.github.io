@@ -6,7 +6,7 @@ sidebar_position: 665
 hoverText: fewer/less § Determiner
 ---
 
-### mënüs
+### mënüs&emsp;<span kind="abugida">ƶʇƨ́ʄ</span>
 
 *fewer/less* **§** Determiner
 

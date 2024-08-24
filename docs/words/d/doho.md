@@ -6,7 +6,7 @@ sidebar_position: 450
 hoverText: to sacrifice (an offering) § Verb
 ---
 
-### doho
+### doho&emsp;<span kind="abugida">ʌɂ</span>
 
 *to sacrifice (an offering)* **§** Verb
 

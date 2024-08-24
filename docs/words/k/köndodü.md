@@ -6,7 +6,7 @@ sidebar_position: 179
 hoverText: to celebrate (a party) § Verb
 ---
 
-### köndodü
+### köndodü&emsp;<span kind="abugida">ɔ̃ıʌʌʄ</span>
 
 *to celebrate (a party)* **§** Verb
 

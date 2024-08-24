@@ -6,7 +6,7 @@ sidebar_position: 442
 hoverText: sort/type § Noun
 ---
 
-### xük
+### xük&emsp;<span kind="abugida">ɋ̑ʄ</span>
 
 *sort/type* **§** Noun
 

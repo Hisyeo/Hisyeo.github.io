@@ -6,7 +6,7 @@ sidebar_position: 539
 hoverText: recent § Adjective
 ---
 
-### poyok
+### poyok&emsp;<span kind="abugida">ʋɀ̑</span>
 
 *recent* **§** Adjective
 

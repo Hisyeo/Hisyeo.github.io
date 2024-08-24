@@ -6,7 +6,7 @@ sidebar_position: 264
 hoverText: to draw (a picture) § Verb
 ---
 
-### toswil
+### toswil&emsp;<span kind="abugida">ćʒ͊ɟ</span>
 
 *to draw (a picture)* **§** Verb
 

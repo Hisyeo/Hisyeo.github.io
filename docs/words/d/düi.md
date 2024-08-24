@@ -6,7 +6,7 @@ sidebar_position: 478
 hoverText: 02 two § Numeral
 ---
 
-### düi
+### düi&emsp;<span kind="abugida">ʌʄɽɟ</span>
 
 *02 two* **§** Numeral
 

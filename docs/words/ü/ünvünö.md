@@ -6,7 +6,7 @@ sidebar_position: 101
 hoverText: vegetable § Noun
 ---
 
-### ünvünö
+### ünvünö&emsp;<span kind="abugida">ɽ̃ʄɤʄƨı</span>
 
 *vegetable* **§** Noun
 

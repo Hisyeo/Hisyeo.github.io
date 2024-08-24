@@ -6,7 +6,7 @@ sidebar_position: 396
 hoverText: equal/same § Adjective
 ---
 
-### sumon
+### sumon&emsp;<span kind="abugida">ɐʃƶ̃</span>
 
 *equal/same* **§** Adjective
 

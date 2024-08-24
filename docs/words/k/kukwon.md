@@ -6,7 +6,7 @@ sidebar_position: 202
 hoverText: organ/member § Noun
 ---
 
-### kukwon
+### kukwon&emsp;<span kind="abugida">ɔ̑ʃʒ̃</span>
 
 *organ/member* **§** Noun
 

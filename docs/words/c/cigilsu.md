@@ -6,7 +6,7 @@ sidebar_position: 329
 hoverText: treatment (medical) § Noun
 ---
 
-### cigilsu
+### cigilsu&emsp;<span kind="abugida">ꞇɟꜿ͊ɟɐʃ</span>
 
 *treatment (medical)* **§** Noun
 

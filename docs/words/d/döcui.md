@@ -6,7 +6,7 @@ sidebar_position: 456
 hoverText: toy § Noun
 ---
 
-### döcui
+### döcui&emsp;<span kind="abugida">ʌıꞇʃɽɟ</span>
 
 *toy* **§** Noun
 

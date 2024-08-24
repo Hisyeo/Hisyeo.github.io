@@ -6,7 +6,7 @@ sidebar_position: 16
 hoverText: arm § Noun
 ---
 
-### opö
+### opö&emsp;<span kind="abugida">ɽʋı</span>
 
 *arm* **§** Noun
 

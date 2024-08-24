@@ -6,7 +6,7 @@ sidebar_position: 647
 hoverText: surprised § Adjective
 ---
 
-### momoki
+### momoki&emsp;<span kind="abugida">ƶƶɔɟ</span>
 
 *surprised* **§** Adjective
 

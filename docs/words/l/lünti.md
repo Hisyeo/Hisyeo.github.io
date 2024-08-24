@@ -6,7 +6,7 @@ sidebar_position: 811
 hoverText: green § Adjective
 ---
 
-### lünti
+### lünti&emsp;<span kind="abugida">ʓ̃ʄcɟ</span>
 
 *green* **§** Adjective
 

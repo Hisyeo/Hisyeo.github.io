@@ -6,7 +6,7 @@ sidebar_position: 243
 hoverText: intermediate marker (between) § Preposition
 ---
 
-### gıtno
+### gıtno&emsp;<span kind="abugida">ꜿ̆ȷƨ</span>
 
 *intermediate marker (between)* **§** Preposition
 

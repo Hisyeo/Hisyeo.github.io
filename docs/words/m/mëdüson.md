@@ -6,7 +6,7 @@ sidebar_position: 664
 hoverText: laborious § Adjective
 ---
 
-### mëdüson
+### mëdüson&emsp;<span kind="abugida">ƶʇʌʄɐ̃</span>
 
 *laborious* **§** Adjective
 

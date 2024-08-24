@@ -6,7 +6,7 @@ sidebar_position: 228
 hoverText: alarm § Noun
 ---
 
-### gongoxi
+### gongoxi&emsp;<span kind="abugida">ꜿ̃ꜿɋɟ</span>
 
 *alarm* **§** Noun
 

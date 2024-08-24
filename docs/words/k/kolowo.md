@@ -6,7 +6,7 @@ sidebar_position: 164
 hoverText: art § Noun
 ---
 
-### kolowo
+### kolowo&emsp;<span kind="abugida">ɔʓʒ</span>
 
 *art* **§** Noun
 

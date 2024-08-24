@@ -6,7 +6,7 @@ sidebar_position: 792
 hoverText: subject complement marker § Preposition
 ---
 
-### lı
+### lı&emsp;<span kind="abugida">ʓȷ</span>
 
 *subject complement marker* **§** Preposition
 

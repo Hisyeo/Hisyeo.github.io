@@ -6,7 +6,7 @@ sidebar_position: 575
 hoverText: victorious § Adjective
 ---
 
-### pilüs
+### pilüs&emsp;<span kind="abugida">ʋɟʓ́ʄ</span>
 
 *victorious* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 586
 hoverText: heavy § Adjective
 ---
 
-### pügot
+### pügot&emsp;<span kind="abugida">ʋʄꜿ̆</span>
 
 *heavy* **§** Adjective
 

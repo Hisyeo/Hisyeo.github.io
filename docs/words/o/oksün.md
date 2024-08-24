@@ -6,7 +6,7 @@ sidebar_position: 6
 hoverText: meat/muscle § Noun
 ---
 
-### oksün
+### oksün&emsp;<span kind="abugida">ɽ̑ɐ̃ʄ</span>
 
 *meat/muscle* **§** Noun
 

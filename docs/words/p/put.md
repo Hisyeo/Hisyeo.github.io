@@ -6,7 +6,7 @@ sidebar_position: 577
 hoverText: open § Adjective
 ---
 
-### put
+### put&emsp;<span kind="abugida">ʋ̆ʃ</span>
 
 *open* **§** Adjective
 

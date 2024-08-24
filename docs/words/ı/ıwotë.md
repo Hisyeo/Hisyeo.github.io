@@ -6,7 +6,7 @@ sidebar_position: 64
 hoverText: tall § Adjective
 ---
 
-### ıwotë
+### ıwotë&emsp;<span kind="abugida">ɽȷʒcʇ</span>
 
 *tall* **§** Adjective
 

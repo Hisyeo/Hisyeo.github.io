@@ -6,7 +6,7 @@ sidebar_position: 668
 hoverText: acidic § Adjective
 ---
 
-### mıxovo
+### mıxovo&emsp;<span kind="abugida">ƶȷɋɤ</span>
 
 *acidic* **§** Adjective
 

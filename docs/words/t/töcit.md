@@ -6,7 +6,7 @@ sidebar_position: 271
 hoverText: blunt § Adjective
 ---
 
-### töcit
+### töcit&emsp;<span kind="abugida">cıꞇ̆ɟ</span>
 
 *blunt* **§** Adjective
 

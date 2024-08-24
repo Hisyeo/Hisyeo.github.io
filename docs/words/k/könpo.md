@@ -6,7 +6,7 @@ sidebar_position: 180
 hoverText: shaking § Adjective
 ---
 
-### könpo
+### könpo&emsp;<span kind="abugida">ɔ̃ıʋ</span>
 
 *shaking* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 494
 hoverText: animal § Noun
 ---
 
-### zonwul
+### zonwul&emsp;<span kind="abugida">ⱴ̃ʒ͊ʃ</span>
 
 *animal* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 211
 hoverText: matter/material § Noun
 ---
 
-### küsowi
+### küsowi&emsp;<span kind="abugida">ɔʄɐʒɟ</span>
 
 *matter/material* **§** Noun
 

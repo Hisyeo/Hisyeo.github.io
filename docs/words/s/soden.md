@@ -6,7 +6,7 @@ sidebar_position: 357
 hoverText: back § Noun
 ---
 
-### soden
+### soden&emsp;<span kind="abugida">ɐʌ̃ɿ</span>
 
 *back* **§** Noun
 

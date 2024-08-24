@@ -6,7 +6,7 @@ sidebar_position: 743
 hoverText: to accept (a right) § Verb
 ---
 
-### wovok
+### wovok&emsp;<span kind="abugida">ʒɤ̑</span>
 
 *to accept (a right)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 602
 hoverText: monkey/ape § Noun
 ---
 
-### vonolon
+### vonolon&emsp;<span kind="abugida">ɤƨʓ̃</span>
 
 *monkey/ape* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 268
 hoverText: pasta § Noun
 ---
 
-### tolıyo
+### tolıyo&emsp;<span kind="abugida">cʓȷɀ</span>
 
 *pasta* **§** Noun
 

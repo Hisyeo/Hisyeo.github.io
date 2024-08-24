@@ -6,7 +6,7 @@ sidebar_position: 516
 hoverText: emotion § Noun
 ---
 
-### zuspot
+### zuspot&emsp;<span kind="abugida">ⱴ́ʃʋ̆</span>
 
 *emotion* **§** Noun
 

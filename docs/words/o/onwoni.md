@@ -6,7 +6,7 @@ sidebar_position: 29
 hoverText: address § Noun
 ---
 
-### onwoni
+### onwoni&emsp;<span kind="abugida">ɽ̃ʒƨɟ</span>
 
 *address* **§** Noun
 

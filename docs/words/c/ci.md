@@ -6,7 +6,7 @@ sidebar_position: 324
 hoverText: propositive clause ender (agree?) § Postposition
 ---
 
-### ci
+### ci&emsp;<span kind="abugida">ꞇɟ</span>
 
 *propositive clause ender (agree?)* **§** Postposition
 

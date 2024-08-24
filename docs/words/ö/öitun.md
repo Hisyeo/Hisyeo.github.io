@@ -6,7 +6,7 @@ sidebar_position: 32
 hoverText: to vocalize (a vocalization) § Verb
 ---
 
-### öitun
+### öitun&emsp;<span kind="abugida">ɽıɽɟc̃ʃ</span>
 
 *to vocalize (a vocalization)* **§** Verb
 

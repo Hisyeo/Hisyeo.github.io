@@ -6,7 +6,7 @@ sidebar_position: 276
 hoverText: breast/chest § Noun
 ---
 
-### tetëk
+### tetëk&emsp;<span kind="abugida">cɿc̑ʇ</span>
 
 *breast/chest* **§** Noun
 

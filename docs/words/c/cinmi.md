@@ -6,7 +6,7 @@ sidebar_position: 333
 hoverText: precise/specific § Adjective
 ---
 
-### cinmi
+### cinmi&emsp;<span kind="abugida">ꞇ̃ɟƶɟ</span>
 
 *precise/specific* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 285
 hoverText: direction/path § Noun
 ---
 
-### titon
+### titon&emsp;<span kind="abugida">cɟc̃</span>
 
 *direction/path* **§** Noun
 

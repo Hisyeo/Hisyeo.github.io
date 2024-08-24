@@ -6,7 +6,7 @@ sidebar_position: 351
 hoverText: trick/scam § Noun
 ---
 
-### cülci
+### cülci&emsp;<span kind="abugida">ꞇ͊ʄꞇɟ</span>
 
 *trick/scam* **§** Noun
 

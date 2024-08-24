@@ -6,7 +6,7 @@ sidebar_position: 234
 hoverText: existent § Adjective
 ---
 
-### gö
+### gö&emsp;<span kind="abugida">ꜿı</span>
 
 *existent* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 470
 hoverText: lip/rim/edge § Noun
 ---
 
-### dinzoü
+### dinzoü&emsp;<span kind="abugida">ʌ̃ɟⱴɽʄ</span>
 
 *lip/rim/edge* **§** Noun
 

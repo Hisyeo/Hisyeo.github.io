@@ -6,7 +6,7 @@ sidebar_position: 670
 hoverText: worm § Noun
 ---
 
-### mınyö
+### mınyö&emsp;<span kind="abugida">ƶ̃ȷɀı</span>
 
 *worm* **§** Noun
 

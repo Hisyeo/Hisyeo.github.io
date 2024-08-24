@@ -6,7 +6,7 @@ sidebar_position: 733
 hoverText: example § Noun
 ---
 
-### numüno
+### numüno&emsp;<span kind="abugida">ƨʃƶʄƨ</span>
 
 *example* **§** Noun
 

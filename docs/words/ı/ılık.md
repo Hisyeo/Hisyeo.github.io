@@ -6,7 +6,7 @@ sidebar_position: 65
 hoverText: before § Determiner
 ---
 
-### ılık
+### ılık&emsp;<span kind="abugida">ɽȷʓ̑ȷ</span>
 
 *before* **§** Determiner
 

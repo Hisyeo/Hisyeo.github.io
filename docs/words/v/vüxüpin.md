@@ -6,7 +6,7 @@ sidebar_position: 637
 hoverText: accessory § Adjective
 ---
 
-### vüxüpin
+### vüxüpin&emsp;<span kind="abugida">ɤʄɋʄʋ̃ɟ</span>
 
 *accessory* **§** Adjective
 

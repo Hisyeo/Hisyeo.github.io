@@ -6,7 +6,7 @@ sidebar_position: 1
 hoverText: seed § Noun
 ---
 
-### oüdi
+### oüdi&emsp;<span kind="abugida">ɽɽʄʌɟ</span>
 
 *seed* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 326
 hoverText: alkaline § Adjective
 ---
 
-### cienxin
+### cienxin&emsp;<span kind="abugida">ꞇɟɽ̃ɿɋ̃ɟ</span>
 
 *alkaline* **§** Adjective
 

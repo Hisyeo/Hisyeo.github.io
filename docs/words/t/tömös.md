@@ -6,7 +6,7 @@ sidebar_position: 273
 hoverText: book § Noun
 ---
 
-### tömös
+### tömös&emsp;<span kind="abugida">cıƶ́ı</span>
 
 *book* **§** Noun
 

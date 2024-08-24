@@ -6,7 +6,7 @@ sidebar_position: 365
 hoverText: 03 three § Numeral
 ---
 
-### son
+### son&emsp;<span kind="abugida">ɐ̃</span>
 
 *03 three* **§** Numeral
 

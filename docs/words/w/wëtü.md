@@ -6,7 +6,7 @@ sidebar_position: 754
 hoverText: to cut (the cut/chopped) § Verb
 ---
 
-### wëtü
+### wëtü&emsp;<span kind="abugida">ʒʇcʄ</span>
 
 *to cut (the cut/chopped)* **§** Verb
 

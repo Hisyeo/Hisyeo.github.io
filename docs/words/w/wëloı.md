@@ -6,7 +6,7 @@ sidebar_position: 756
 hoverText: to work (in an occupation) § Verb
 ---
 
-### wëloı
+### wëloı&emsp;<span kind="abugida">ʒʇʓɽȷ</span>
 
 *to work (in an occupation)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 700
 hoverText: nose § Noun
 ---
 
-### nosiko
+### nosiko&emsp;<span kind="abugida">ƨɐɟɔ</span>
 
 *nose* **§** Noun
 

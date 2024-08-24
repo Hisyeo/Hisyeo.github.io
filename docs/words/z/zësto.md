@@ -6,7 +6,7 @@ sidebar_position: 503
 hoverText: feat/achievement/heroic deed § Noun
 ---
 
-### zësto
+### zësto&emsp;<span kind="abugida">ⱴ́ʇc</span>
 
 *feat/achievement/heroic deed* **§** Noun
 

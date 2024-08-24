@@ -6,7 +6,7 @@ sidebar_position: 300
 hoverText: private/confidential § Adjective
 ---
 
-### cosni
+### cosni&emsp;<span kind="abugida">ꞇ́ƨɟ</span>
 
 *private/confidential* **§** Adjective
 

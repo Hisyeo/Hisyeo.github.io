@@ -6,7 +6,7 @@ sidebar_position: 168
 hoverText: to talk (speech) § Verb
 ---
 
-### köto
+### köto&emsp;<span kind="abugida">ɔıc</span>
 
 *to talk (speech)* **§** Verb
 

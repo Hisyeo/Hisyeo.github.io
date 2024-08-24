@@ -6,7 +6,7 @@ sidebar_position: 323
 hoverText: electricity § Noun
 ---
 
-### cıngi
+### cıngi&emsp;<span kind="abugida">ꞇ̃ȷꜿɟ</span>
 
 *electricity* **§** Noun
 

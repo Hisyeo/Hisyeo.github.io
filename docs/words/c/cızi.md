@@ -6,7 +6,7 @@ sidebar_position: 317
 hoverText: self § Pronoun
 ---
 
-### cızi
+### cızi&emsp;<span kind="abugida">ꞇȷⱴɟ</span>
 
 *self* **§** Pronoun
 

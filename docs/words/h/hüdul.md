@@ -6,7 +6,7 @@ sidebar_position: 145
 hoverText: false § Adjective
 ---
 
-### hüdul
+### hüdul&emsp;<span kind="abugida">ɂʄʌ͊ʃ</span>
 
 *false* **§** Adjective
 

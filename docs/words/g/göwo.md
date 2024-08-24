@@ -6,7 +6,7 @@ sidebar_position: 237
 hoverText: foolish/obtuse § Adjective
 ---
 
-### göwo
+### göwo&emsp;<span kind="abugida">ꜿıʒ</span>
 
 *foolish/obtuse* **§** Adjective
 

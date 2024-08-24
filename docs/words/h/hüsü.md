@@ -6,7 +6,7 @@ sidebar_position: 143
 hoverText: to be about (theme) § Verb
 ---
 
-### hüsü
+### hüsü&emsp;<span kind="abugida">ɂʄɐʄ</span>
 
 *to be about (theme)* **§** Verb
 

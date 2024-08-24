@@ -6,7 +6,7 @@ sidebar_position: 81
 hoverText: to avoid/dodge (evasion/dodge) § Verb
 ---
 
-### uskivo
+### uskivo&emsp;<span kind="abugida">ɽ́ʃɔɟɤ</span>
 
 *to avoid/dodge (evasion/dodge)* **§** Verb
 

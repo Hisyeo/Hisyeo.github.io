@@ -6,7 +6,7 @@ sidebar_position: 475
 hoverText: 10 ten § Numeral
 ---
 
-### dus
+### dus&emsp;<span kind="abugida">ʌ́ʃ</span>
 
 *10 ten* **§** Numeral
 

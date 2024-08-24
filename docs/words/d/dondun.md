@@ -6,7 +6,7 @@ sidebar_position: 454
 hoverText: traditional § Adjective
 ---
 
-### dondun
+### dondun&emsp;<span kind="abugida">ʌ̃ʌ̃ʃ</span>
 
 *traditional* **§** Adjective
 

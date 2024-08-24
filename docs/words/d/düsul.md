@@ -6,7 +6,7 @@ sidebar_position: 480
 hoverText: grey § Adjective
 ---
 
-### düsul
+### düsul&emsp;<span kind="abugida">ʌʄɐ͊ʃ</span>
 
 *grey* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 367
 hoverText: calm § Adjective
 ---
 
-### sonti
+### sonti&emsp;<span kind="abugida">ɐ̃cɟ</span>
 
 *calm* **§** Adjective
 

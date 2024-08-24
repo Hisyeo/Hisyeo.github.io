@@ -6,7 +6,7 @@ sidebar_position: 138
 hoverText: weak § Adjective
 ---
 
-### hiyöli
+### hiyöli&emsp;<span kind="abugida">ɂɟɀıʓɟ</span>
 
 *weak* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 763
 hoverText: value/cost § Noun
 ---
 
-### wilüwo
+### wilüwo&emsp;<span kind="abugida">ʒɟʓʄʒ</span>
 
 *value/cost* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 265
 hoverText: protein § Noun
 ---
 
-### tonpokcut
+### tonpokcut&emsp;<span kind="abugida">c̃ʋ̑ꞇ̆ʃ</span>
 
 *protein* **§** Noun
 

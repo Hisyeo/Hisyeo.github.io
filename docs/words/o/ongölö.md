@@ -6,7 +6,7 @@ sidebar_position: 26
 hoverText: corner § Noun
 ---
 
-### ongölö
+### ongölö&emsp;<span kind="abugida">ɽ̃ꜿıʓı</span>
 
 *corner* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 477
 hoverText: sand § Noun
 ---
 
-### duwöni
+### duwöni&emsp;<span kind="abugida">ʌʃʒıƨɟ</span>
 
 *sand* **§** Noun
 

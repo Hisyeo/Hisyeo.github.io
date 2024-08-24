@@ -6,7 +6,7 @@ sidebar_position: 783
 hoverText: bulb § Noun
 ---
 
-### lönkın
+### lönkın&emsp;<span kind="abugida">ʓ̃ıɔ̃ȷ</span>
 
 *bulb* **§** Noun
 

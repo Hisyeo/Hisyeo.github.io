@@ -6,7 +6,7 @@ sidebar_position: 601
 hoverText: mirative clause ender (wow!) § Postposition
 ---
 
-### voxo
+### voxo&emsp;<span kind="abugida">ɤɋ</span>
 
 *mirative clause ender (wow!)* **§** Postposition
 

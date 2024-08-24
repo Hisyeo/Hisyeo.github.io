@@ -6,7 +6,7 @@ sidebar_position: 806
 hoverText: spirit/ghost § Noun
 ---
 
-### lüok
+### lüok&emsp;<span kind="abugida">ʓʄɽ̑</span>
 
 *spirit/ghost* **§** Noun
 

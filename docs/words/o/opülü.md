@@ -6,7 +6,7 @@ sidebar_position: 18
 hoverText: to overwhelm (the overwhelmed) § Verb
 ---
 
-### opülü
+### opülü&emsp;<span kind="abugida">ɽʋʄʓʄ</span>
 
 *to overwhelm (the overwhelmed)* **§** Verb
 

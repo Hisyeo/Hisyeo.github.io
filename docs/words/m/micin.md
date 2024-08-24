@@ -6,7 +6,7 @@ sidebar_position: 677
 hoverText: fish § Noun
 ---
 
-### micin
+### micin&emsp;<span kind="abugida">ƶɟꞇ̃ɟ</span>
 
 *fish* **§** Noun
 

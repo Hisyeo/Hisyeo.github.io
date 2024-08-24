@@ -6,7 +6,7 @@ sidebar_position: 92
 hoverText: economy § Noun
 ---
 
-### ücümi
+### ücümi&emsp;<span kind="abugida">ɽʄꞇʄƶɟ</span>
 
 *economy* **§** Noun
 

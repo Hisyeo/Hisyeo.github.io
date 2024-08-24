@@ -6,7 +6,7 @@ sidebar_position: 359
 hoverText: ceiling § Noun
 ---
 
-### sopoi
+### sopoi&emsp;<span kind="abugida">ɐʋɽɟ</span>
 
 *ceiling* **§** Noun
 

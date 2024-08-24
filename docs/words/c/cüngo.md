@@ -6,7 +6,7 @@ sidebar_position: 346
 hoverText: to filter (the filtered) § Verb
 ---
 
-### cüngo
+### cüngo&emsp;<span kind="abugida">ꞇ̃ʄꜿ</span>
 
 *to filter (the filtered)* **§** Verb
 

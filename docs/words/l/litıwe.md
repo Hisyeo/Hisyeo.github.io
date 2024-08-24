@@ -6,7 +6,7 @@ sidebar_position: 797
 hoverText: related § Adjective
 ---
 
-### litıwe
+### litıwe&emsp;<span kind="abugida">ʓɟcȷʒɿ</span>
 
 *related* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 705
 hoverText: 04 four § Numeral
 ---
 
-### nonkü
+### nonkü&emsp;<span kind="abugida">ƨ̃ɔʄ</span>
 
 *04 four* **§** Numeral
 

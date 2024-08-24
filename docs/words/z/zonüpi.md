@@ -6,7 +6,7 @@ sidebar_position: 493
 hoverText: southern § Adjective
 ---
 
-### zonüpi
+### zonüpi&emsp;<span kind="abugida">ⱴƨʄʋɟ</span>
 
 *southern* **§** Adjective
 

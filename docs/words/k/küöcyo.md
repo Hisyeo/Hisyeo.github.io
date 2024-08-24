@@ -6,7 +6,7 @@ sidebar_position: 208
 hoverText: state § Noun
 ---
 
-### küöcyo
+### küöcyo&emsp;<span kind="abugida">ɔʄɽ̄ıɀ</span>
 
 *state* **§** Noun
 

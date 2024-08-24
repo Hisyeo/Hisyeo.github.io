@@ -6,7 +6,7 @@ sidebar_position: 307
 hoverText: thick § Adjective
 ---
 
-### cöt
+### cöt&emsp;<span kind="abugida">ꞇ̆ı</span>
 
 *thick* **§** Adjective
 

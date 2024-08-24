@@ -6,7 +6,7 @@ sidebar_position: 45
 hoverText: experiencer/causee marker § Preposition
 ---
 
-### ölë
+### ölë&emsp;<span kind="abugida">ɽıʓʇ</span>
 
 *experiencer/causee marker* **§** Preposition
 

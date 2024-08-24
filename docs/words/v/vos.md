@@ -6,7 +6,7 @@ sidebar_position: 600
 hoverText: free relative clause particle § Particle
 ---
 
-### vos
+### vos&emsp;<span kind="abugida">ɤ́</span>
 
 *free relative clause particle* **§** Particle
 

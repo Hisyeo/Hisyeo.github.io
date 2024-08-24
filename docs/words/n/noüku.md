@@ -6,7 +6,7 @@ sidebar_position: 696
 hoverText: science § Noun
 ---
 
-### noüku
+### noüku&emsp;<span kind="abugida">ƨɽʄɔʃ</span>
 
 *science* **§** Noun
 

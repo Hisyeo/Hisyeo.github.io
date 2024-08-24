@@ -6,7 +6,7 @@ sidebar_position: 594
 hoverText: gun § Noun
 ---
 
-### pündüki
+### pündüki&emsp;<span kind="abugida">ʋ̃ʄʌʄɔɟ</span>
 
 *gun* **§** Noun
 

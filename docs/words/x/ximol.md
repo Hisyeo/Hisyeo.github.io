@@ -6,7 +6,7 @@ sidebar_position: 436
 hoverText: left § Noun
 ---
 
-### ximol
+### ximol&emsp;<span kind="abugida">ɋɟƶ͊</span>
 
 *left* **§** Noun
 

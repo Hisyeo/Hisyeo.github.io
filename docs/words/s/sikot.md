@@ -6,7 +6,7 @@ sidebar_position: 389
 hoverText: brush/comb/rake/broom § Noun
 ---
 
-### sikot
+### sikot&emsp;<span kind="abugida">ɐɟɔ̆</span>
 
 *brush/comb/rake/broom* **§** Noun
 

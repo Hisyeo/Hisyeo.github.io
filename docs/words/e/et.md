@@ -6,7 +6,7 @@ sidebar_position: 46
 hoverText: collapser/amender particle § Particle
 ---
 
-### et
+### et&emsp;<span kind="abugida">ɽ̆ɿ</span>
 
 *collapser/amender particle* **§** Particle
 

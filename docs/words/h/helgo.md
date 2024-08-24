@@ -6,7 +6,7 @@ sidebar_position: 129
 hoverText: to venerate (the venerated) § Verb
 ---
 
-### helgo
+### helgo&emsp;<span kind="abugida">ɂ͊ɿꜿ</span>
 
 *to venerate (the venerated)* **§** Verb
 

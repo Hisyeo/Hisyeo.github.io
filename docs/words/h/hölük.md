@@ -6,7 +6,7 @@ sidebar_position: 126
 hoverText: to pump (a pumpable entity) § Noun
 ---
 
-### hölük
+### hölük&emsp;<span kind="abugida">ɂıʓ̑ʄ</span>
 
 *to pump (a pumpable entity)* **§** Noun
 

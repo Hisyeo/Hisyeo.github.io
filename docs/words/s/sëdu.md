@@ -6,7 +6,7 @@ sidebar_position: 379
 hoverText: station/garage § Noun
 ---
 
-### sëdu
+### sëdu&emsp;<span kind="abugida">ɐʇʌʃ</span>
 
 *station/garage* **§** Noun
 

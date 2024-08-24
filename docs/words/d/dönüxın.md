@@ -6,7 +6,7 @@ sidebar_position: 459
 hoverText: conversion § Noun
 ---
 
-### dönüxın
+### dönüxın&emsp;<span kind="abugida">ʌıƨʄɋ̃ȷ</span>
 
 *conversion* **§** Noun
 

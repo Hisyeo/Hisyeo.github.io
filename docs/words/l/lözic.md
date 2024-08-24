@@ -6,7 +6,7 @@ sidebar_position: 782
 hoverText: to give birth to (a baby) § Verb
 ---
 
-### lözic
+### lözic&emsp;<span kind="abugida">ʓıⱴ̄ɟ</span>
 
 *to give birth to (a baby)* **§** Verb
 

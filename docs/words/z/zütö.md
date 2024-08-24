@@ -6,7 +6,7 @@ sidebar_position: 519
 hoverText: to regret (a regret) § Verb
 ---
 
-### zütö
+### zütö&emsp;<span kind="abugida">ⱴʄcı</span>
 
 *to regret (a regret)* **§** Verb
 

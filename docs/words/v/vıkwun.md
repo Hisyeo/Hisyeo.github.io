@@ -6,7 +6,7 @@ sidebar_position: 615
 hoverText: bacteria/microbe § Noun
 ---
 
-### vıkwun
+### vıkwun&emsp;<span kind="abugida">ɤ̑ȷʒ̃ʃ</span>
 
 *bacteria/microbe* **§** Noun
 

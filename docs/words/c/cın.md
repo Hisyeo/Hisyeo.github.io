@@ -6,7 +6,7 @@ sidebar_position: 320
 hoverText: 1000 thousand § Numeral
 ---
 
-### cın
+### cın&emsp;<span kind="abugida">ꞇ̃ȷ</span>
 
 *1000 thousand* **§** Numeral
 

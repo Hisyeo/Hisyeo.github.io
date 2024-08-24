@@ -6,7 +6,7 @@ sidebar_position: 98
 hoverText: joined § Adjective
 ---
 
-### ünidü
+### ünidü&emsp;<span kind="abugida">ɽʄƨɟʌʄ</span>
 
 *joined* **§** Adjective
 

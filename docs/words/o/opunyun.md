@@ -6,7 +6,7 @@ sidebar_position: 17
 hoverText: easy § Adjective
 ---
 
-### opunyun
+### opunyun&emsp;<span kind="abugida">ɽʋ̃ʃɀ̃ʃ</span>
 
 *easy* **§** Adjective
 

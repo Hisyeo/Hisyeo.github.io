@@ -6,7 +6,7 @@ sidebar_position: 617
 hoverText: thing § Noun
 ---
 
-### vın
+### vın&emsp;<span kind="abugida">ɤ̃ȷ</span>
 
 *thing* **§** Noun
 

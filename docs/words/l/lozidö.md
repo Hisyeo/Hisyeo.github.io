@@ -6,7 +6,7 @@ sidebar_position: 771
 hoverText: heart § Noun
 ---
 
-### lozidö
+### lozidö&emsp;<span kind="abugida">ʓⱴɟʌı</span>
 
 *heart* **§** Noun
 

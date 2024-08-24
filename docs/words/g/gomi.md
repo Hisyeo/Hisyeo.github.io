@@ -6,7 +6,7 @@ sidebar_position: 226
 hoverText: to take (the taken) § Verb
 ---
 
-### gomi
+### gomi&emsp;<span kind="abugida">ꜿƶɟ</span>
 
 *to take (the taken)* **§** Verb
 

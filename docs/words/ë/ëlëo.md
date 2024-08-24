@@ -6,7 +6,7 @@ sidebar_position: 59
 hoverText: floating § Adjective
 ---
 
-### ëlëo
+### ëlëo&emsp;<span kind="abugida">ɽʇʓʇɽ</span>
 
 *floating* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 549
 hoverText: to seal/lock (the sealed/locked) § Verb
 ---
 
-### pesol
+### pesol&emsp;<span kind="abugida">ʋɿɐ͊</span>
 
 *to seal/lock (the sealed/locked)* **§** Verb
 

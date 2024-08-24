@@ -6,7 +6,7 @@ sidebar_position: 229
 hoverText: strange § Adjective
 ---
 
-### gonzil
+### gonzil&emsp;<span kind="abugida">ꜿ̃ⱴ͊ɟ</span>
 
 *strange* **§** Adjective
 

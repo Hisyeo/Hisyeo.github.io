@@ -6,7 +6,7 @@ sidebar_position: 574
 hoverText: star § Noun
 ---
 
-### pinton
+### pinton&emsp;<span kind="abugida">ʋ̃ɟc̃</span>
 
 *star* **§** Noun
 

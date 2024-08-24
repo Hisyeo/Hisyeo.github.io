@@ -6,7 +6,7 @@ sidebar_position: 184
 hoverText: future verb particle § Particle
 ---
 
-### ke
+### ke&emsp;<span kind="abugida">ɔɿ</span>
 
 *future verb particle* **§** Particle
 

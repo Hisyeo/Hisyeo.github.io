@@ -6,7 +6,7 @@ sidebar_position: 245
 hoverText: step/rung § Noun
 ---
 
-### gisgül
+### gisgül&emsp;<span kind="abugida">ꜿ́ɟꜿ͊ʄ</span>
 
 *step/rung* **§** Noun
 

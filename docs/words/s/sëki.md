@@ -6,7 +6,7 @@ sidebar_position: 377
 hoverText: genitalia § Noun
 ---
 
-### sëki
+### sëki&emsp;<span kind="abugida">ɐʇɔɟ</span>
 
 *genitalia* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 398
 hoverText: flawless § Adjective
 ---
 
-### sunpülno
+### sunpülno&emsp;<span kind="abugida">ɐ̃ʃʋ͊ʄƨ</span>
 
 *flawless* **§** Adjective
 

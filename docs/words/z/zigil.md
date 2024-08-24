@@ -6,7 +6,7 @@ sidebar_position: 509
 hoverText: falling § Adjective
 ---
 
-### zigil
+### zigil&emsp;<span kind="abugida">ⱴɟꜿ͊ɟ</span>
 
 *falling* **§** Adjective
 

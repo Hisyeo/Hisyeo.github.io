@@ -6,7 +6,7 @@ sidebar_position: 784
 hoverText: naked § Adjective
 ---
 
-### löncön
+### löncön&emsp;<span kind="abugida">ʓ̃ıꞇ̃ı</span>
 
 *naked* **§** Adjective
 

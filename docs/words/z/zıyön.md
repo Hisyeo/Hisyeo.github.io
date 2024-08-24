@@ -6,7 +6,7 @@ sidebar_position: 508
 hoverText: 14 fourteen § Numeral
 ---
 
-### zıyön
+### zıyön&emsp;<span kind="abugida">ⱴȷɀ̃ı</span>
 
 *14 fourteen* **§** Numeral
 

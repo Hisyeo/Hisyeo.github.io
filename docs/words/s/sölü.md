@@ -6,7 +6,7 @@ sidebar_position: 374
 hoverText: to ask (a question) § Verb
 ---
 
-### sölü
+### sölü&emsp;<span kind="abugida">ɐıʓʄ</span>
 
 *to ask (a question)* **§** Verb
 

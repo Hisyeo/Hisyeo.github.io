@@ -6,7 +6,7 @@ sidebar_position: 93
 hoverText: balanced § Adjective
 ---
 
-### üsowo
+### üsowo&emsp;<span kind="abugida">ɽʄɐʒ</span>
 
 *balanced* **§** Adjective
 

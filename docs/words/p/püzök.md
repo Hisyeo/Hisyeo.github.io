@@ -6,7 +6,7 @@ sidebar_position: 591
 hoverText: lack § Determiner
 ---
 
-### püzök
+### püzök&emsp;<span kind="abugida">ʋʄⱴ̑ı</span>
 
 *lack* **§** Determiner
 

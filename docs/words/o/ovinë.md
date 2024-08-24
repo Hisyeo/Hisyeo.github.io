@@ -6,7 +6,7 @@ sidebar_position: 20
 hoverText: cultured/refined § Adjective
 ---
 
-### ovinë
+### ovinë&emsp;<span kind="abugida">ɽɤɟƨʇ</span>
 
 *cultured/refined* **§** Adjective
 

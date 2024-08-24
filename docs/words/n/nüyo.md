@@ -6,7 +6,7 @@ sidebar_position: 738
 hoverText: stick § Noun
 ---
 
-### nüyo
+### nüyo&emsp;<span kind="abugida">ƨʄɀ</span>
 
 *stick* **§** Noun
 

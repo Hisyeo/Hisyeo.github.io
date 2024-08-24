@@ -6,7 +6,7 @@ sidebar_position: 451
 hoverText: shallow § Adjective
 ---
 
-### dohil
+### dohil&emsp;<span kind="abugida">ʌɂ͊ɟ</span>
 
 *shallow* **§** Adjective
 

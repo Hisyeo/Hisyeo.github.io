@@ -6,7 +6,7 @@ sidebar_position: 427
 hoverText: 07 seven § Numeral
 ---
 
-### xëti
+### xëti&emsp;<span kind="abugida">ɋʇcɟ</span>
 
 *07 seven* **§** Numeral
 

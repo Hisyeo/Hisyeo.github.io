@@ -6,7 +6,7 @@ sidebar_position: 262
 hoverText: cone § Noun
 ---
 
-### tohılök
+### tohılök&emsp;<span kind="abugida">cɂȷʓ̑ı</span>
 
 *cone* **§** Noun
 

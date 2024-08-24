@@ -6,7 +6,7 @@ sidebar_position: 41
 hoverText: agentive verb noun particle § Particle
 ---
 
-### öni
+### öni&emsp;<span kind="abugida">ɽıƨɟ</span>
 
 *agentive verb noun particle* **§** Particle
 

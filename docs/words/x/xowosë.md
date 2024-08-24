@@ -6,7 +6,7 @@ sidebar_position: 418
 hoverText: happy § Adjective
 ---
 
-### xowosë
+### xowosë&emsp;<span kind="abugida">ɋʒɐʇ</span>
 
 *happy* **§** Adjective
 

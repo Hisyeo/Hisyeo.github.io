@@ -6,7 +6,7 @@ sidebar_position: 163
 hoverText: rhythm/beat § Adjective
 ---
 
-### konwo
+### konwo&emsp;<span kind="abugida">ɔ̃ʒ</span>
 
 *rhythm/beat* **§** Adjective
 

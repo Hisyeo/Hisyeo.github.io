@@ -6,7 +6,7 @@ sidebar_position: 728
 hoverText: to stop (the stopped) § Verb
 ---
 
-### niltügu
+### niltügu&emsp;<span kind="abugida">ƨ͊ɟcʄꜿʃ</span>
 
 *to stop (the stopped)* **§** Verb
 

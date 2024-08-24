@@ -6,7 +6,7 @@ sidebar_position: 287
 hoverText: bird § Noun
 ---
 
-### timiok
+### timiok&emsp;<span kind="abugida">cɟƶɟɽ̑</span>
 
 *bird* **§** Noun
 

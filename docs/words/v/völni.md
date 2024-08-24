@@ -6,7 +6,7 @@ sidebar_position: 610
 hoverText: free § Adjective
 ---
 
-### völni
+### völni&emsp;<span kind="abugida">ɤ͊ıƨɟ</span>
 
 *free* **§** Adjective
 

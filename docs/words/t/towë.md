@@ -6,7 +6,7 @@ sidebar_position: 266
 hoverText: hair/fur/plumage § Noun
 ---
 
-### towë
+### towë&emsp;<span kind="abugida">cʒʇ</span>
 
 *hair/fur/plumage* **§** Noun
 

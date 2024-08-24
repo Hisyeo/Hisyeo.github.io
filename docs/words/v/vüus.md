@@ -6,7 +6,7 @@ sidebar_position: 634
 hoverText: wax § Noun
 ---
 
-### vüus
+### vüus&emsp;<span kind="abugida">ɤʄɽ́ʃ</span>
 
 *wax* **§** Noun
 

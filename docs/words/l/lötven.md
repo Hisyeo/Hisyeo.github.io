@@ -6,7 +6,7 @@ sidebar_position: 781
 hoverText: politeness clause ender § Postposition
 ---
 
-### lötven
+### lötven&emsp;<span kind="abugida">ʓ̆ıɤ̃ɿ</span>
 
 *politeness clause ender* **§** Postposition
 

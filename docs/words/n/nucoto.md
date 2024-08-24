@@ -6,7 +6,7 @@ sidebar_position: 731
 hoverText: planet § Noun
 ---
 
-### nucoto
+### nucoto&emsp;<span kind="abugida">ƨʃꞇc</span>
 
 *planet* **§** Noun
 

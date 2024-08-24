@@ -6,7 +6,7 @@ sidebar_position: 34
 hoverText: afraid § Adjective
 ---
 
-### ösölë
+### ösölë&emsp;<span kind="abugida">ɽıɐıʓʇ</span>
 
 *afraid* **§** Adjective
 

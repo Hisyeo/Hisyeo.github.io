@@ -6,7 +6,7 @@ sidebar_position: 620
 hoverText: instrument/manner marker (using/with) § Preposition
 ---
 
-### vio
+### vio&emsp;<span kind="abugida">ɤɟɽ</span>
 
 *instrument/manner marker (using/with)* **§** Preposition
 

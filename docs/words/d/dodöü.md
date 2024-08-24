@@ -6,7 +6,7 @@ sidebar_position: 452
 hoverText: to bet (a bet) § Verb
 ---
 
-### dodöü
+### dodöü&emsp;<span kind="abugida">ʌʌıɽʄ</span>
 
 *to bet (a bet)* **§** Verb
 

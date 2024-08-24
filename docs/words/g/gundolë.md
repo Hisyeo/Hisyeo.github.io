@@ -6,7 +6,7 @@ sidebar_position: 248
 hoverText: sphere § Noun
 ---
 
-### gundolë
+### gundolë&emsp;<span kind="abugida">ꜿ̃ʃʌʓʇ</span>
 
 *sphere* **§** Noun
 

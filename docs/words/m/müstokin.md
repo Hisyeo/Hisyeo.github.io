@@ -6,7 +6,7 @@ sidebar_position: 688
 hoverText: straight § Adjective
 ---
 
-### müstokin
+### müstokin&emsp;<span kind="abugida">ƶ́ʄcɔ̃ɟ</span>
 
 *straight* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 715
 hoverText: new/fresh § Adjective
 ---
 
-### nëös
+### nëös&emsp;<span kind="abugida">ƨʇɽ́ı</span>
 
 *new/fresh* **§** Adjective
 

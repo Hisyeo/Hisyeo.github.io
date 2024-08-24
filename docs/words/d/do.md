@@ -6,7 +6,7 @@ sidebar_position: 447
 hoverText: subjective relative clause particle § Particle
 ---
 
-### do
+### do&emsp;<span kind="abugida">ʌ</span>
 
 *subjective relative clause particle* **§** Particle
 

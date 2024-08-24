@@ -6,7 +6,7 @@ sidebar_position: 390
 hoverText: event § Noun
 ---
 
-### sikin
+### sikin&emsp;<span kind="abugida">ɐɟɔ̃ɟ</span>
 
 *event* **§** Noun
 

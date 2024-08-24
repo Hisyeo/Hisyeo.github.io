@@ -6,7 +6,7 @@ sidebar_position: 441
 hoverText: ashamed § Adjective
 ---
 
-### xulmındo
+### xulmındo&emsp;<span kind="abugida">ɋ͊ʃƶ̃ȷʌ</span>
 
 *ashamed* **§** Adjective
 

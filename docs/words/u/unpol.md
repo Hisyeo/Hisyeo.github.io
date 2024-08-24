@@ -6,7 +6,7 @@ sidebar_position: 87
 hoverText: amber (color) § Adjective
 ---
 
-### unpol
+### unpol&emsp;<span kind="abugida">ɽ̃ʃʋ͊</span>
 
 *amber (color)* **§** Adjective
 

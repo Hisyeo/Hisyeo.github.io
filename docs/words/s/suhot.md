@@ -6,7 +6,7 @@ sidebar_position: 393
 hoverText: hour § Noun
 ---
 
-### suhot
+### suhot&emsp;<span kind="abugida">ɐʃɂ̆</span>
 
 *hour* **§** Noun
 

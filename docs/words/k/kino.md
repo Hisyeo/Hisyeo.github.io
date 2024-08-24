@@ -6,7 +6,7 @@ sidebar_position: 197
 hoverText: rhyme/verse § Noun
 ---
 
-### kino
+### kino&emsp;<span kind="abugida">ɔɟƨ</span>
 
 *rhyme/verse* **§** Noun
 

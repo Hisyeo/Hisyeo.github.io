@@ -6,7 +6,7 @@ sidebar_position: 167
 hoverText: skeleton § Noun
 ---
 
-### kökokü
+### kökokü&emsp;<span kind="abugida">ɔıɔɔʄ</span>
 
 *skeleton* **§** Noun
 

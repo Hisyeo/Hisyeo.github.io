@@ -6,7 +6,7 @@ sidebar_position: 499
 hoverText: nutrient § Noun
 ---
 
-### zöhün
+### zöhün&emsp;<span kind="abugida">ⱴıɂ̃ʄ</span>
 
 *nutrient* **§** Noun
 

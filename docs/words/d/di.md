@@ -6,7 +6,7 @@ sidebar_position: 466
 hoverText: to become (a trait) § Verb
 ---
 
-### di
+### di&emsp;<span kind="abugida">ʌɟ</span>
 
 *to become (a trait)* **§** Verb
 

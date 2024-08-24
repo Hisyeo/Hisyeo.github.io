@@ -6,7 +6,7 @@ sidebar_position: 72
 hoverText: now § Adjective
 ---
 
-### ipüdü
+### ipüdü&emsp;<span kind="abugida">ɽɟʋʄʌʄ</span>
 
 *now* **§** Adjective
 

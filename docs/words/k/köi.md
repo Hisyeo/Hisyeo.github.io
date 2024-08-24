@@ -6,7 +6,7 @@ sidebar_position: 166
 hoverText: epistemic verb particle § Particle
 ---
 
-### köi
+### köi&emsp;<span kind="abugida">ɔıɽɟ</span>
 
 *epistemic verb particle* **§** Particle
 

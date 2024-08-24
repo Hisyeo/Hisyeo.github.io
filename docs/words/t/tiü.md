@@ -6,7 +6,7 @@ sidebar_position: 282
 hoverText: 05 five § Numeral
 ---
 
-### tiü
+### tiü&emsp;<span kind="abugida">cɟɽʄ</span>
 
 *05 five* **§** Numeral
 

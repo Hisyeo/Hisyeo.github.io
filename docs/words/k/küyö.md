@@ -6,7 +6,7 @@ sidebar_position: 222
 hoverText: sad § Adjective
 ---
 
-### küyö
+### küyö&emsp;<span kind="abugida">ɔʄɀı</span>
 
 *sad* **§** Adjective
 

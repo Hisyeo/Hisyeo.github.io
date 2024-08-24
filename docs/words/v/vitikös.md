@@ -6,7 +6,7 @@ sidebar_position: 622
 hoverText: western § Adjective
 ---
 
-### vitikös
+### vitikös&emsp;<span kind="abugida">ɤɟcɟɔ́ı</span>
 
 *western* **§** Adjective
 

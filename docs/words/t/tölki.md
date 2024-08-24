@@ -6,7 +6,7 @@ sidebar_position: 275
 hoverText: only § Adjective
 ---
 
-### tölki
+### tölki&emsp;<span kind="abugida">c͊ıɔɟ</span>
 
 *only* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 727
 hoverText: you § Pronoun
 ---
 
-### nimü
+### nimü&emsp;<span kind="abugida">ƨɟƶʄ</span>
 
 *you* **§** Pronoun
 

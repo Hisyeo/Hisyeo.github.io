@@ -6,7 +6,7 @@ sidebar_position: 767
 hoverText: oil § Noun
 ---
 
-### wulus
+### wulus&emsp;<span kind="abugida">ʒʃʓ́ʃ</span>
 
 *oil* **§** Noun
 

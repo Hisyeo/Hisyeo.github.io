@@ -6,7 +6,7 @@ sidebar_position: 719
 hoverText: it § Pronoun
 ---
 
-### nı
+### nı&emsp;<span kind="abugida">ƨȷ</span>
 
 *it* **§** Pronoun
 

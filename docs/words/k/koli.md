@@ -6,7 +6,7 @@ sidebar_position: 165
 hoverText: down § Noun
 ---
 
-### koli
+### koli&emsp;<span kind="abugida">ɔʓɟ</span>
 
 *down* **§** Noun
 

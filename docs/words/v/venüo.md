@@ -6,7 +6,7 @@ sidebar_position: 612
 hoverText: country/region § Noun
 ---
 
-### venüo
+### venüo&emsp;<span kind="abugida">ɤɿƨʄɽ</span>
 
 *country/region* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 550
 hoverText: to mark (a target) § Verb
 ---
 
-### pelëxu
+### pelëxu&emsp;<span kind="abugida">ʋɿʓʇɋʃ</span>
 
 *to mark (a target)* **§** Verb
 

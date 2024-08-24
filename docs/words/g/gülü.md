@@ -6,7 +6,7 @@ sidebar_position: 259
 hoverText: wound/injury § Noun
 ---
 
-### gülü
+### gülü&emsp;<span kind="abugida">ꜿʄʓʄ</span>
 
 *wound/injury* **§** Noun
 

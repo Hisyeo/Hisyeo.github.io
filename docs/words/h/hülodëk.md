@@ -6,7 +6,7 @@ sidebar_position: 151
 hoverText: waste § Noun
 ---
 
-### hülodëk
+### hülodëk&emsp;<span kind="abugida">ɂʄʓʌ̑ʇ</span>
 
 *waste* **§** Noun
 

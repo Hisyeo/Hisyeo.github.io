@@ -6,7 +6,7 @@ sidebar_position: 123
 hoverText: context marker (as for/given) § Preposition
 ---
 
-### hön
+### hön&emsp;<span kind="abugida">ɂ̃ı</span>
 
 *context marker (as for/given)* **§** Preposition
 

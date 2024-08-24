@@ -6,7 +6,7 @@ sidebar_position: 588
 hoverText: translucent § Adjective
 ---
 
-### püslü
+### püslü&emsp;<span kind="abugida">ʋ́ʄʓʄ</span>
 
 *translucent* **§** Adjective
 

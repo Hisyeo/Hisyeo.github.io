@@ -6,7 +6,7 @@ sidebar_position: 561
 hoverText: dot § Noun
 ---
 
-### pındü
+### pındü&emsp;<span kind="abugida">ʋ̃ȷʌʄ</span>
 
 *dot* **§** Noun
 

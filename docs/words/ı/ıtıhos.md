@@ -6,7 +6,7 @@ sidebar_position: 60
 hoverText: history § Noun
 ---
 
-### ıtıhos
+### ıtıhos&emsp;<span kind="abugida">ɽȷcȷɂ́</span>
 
 *history* **§** Noun
 

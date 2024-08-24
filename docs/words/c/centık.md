@@ -6,7 +6,7 @@ sidebar_position: 310
 hoverText: official/formal § Adjective
 ---
 
-### centık
+### centık&emsp;<span kind="abugida">ꞇ̃ɿc̑ȷ</span>
 
 *official/formal* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 383
 hoverText: to sit on (a seat) § Verb
 ---
 
-### sıtyo
+### sıtyo&emsp;<span kind="abugida">ɐ̆ȷɀ</span>
 
 *to sit on (a seat)* **§** Verb
 

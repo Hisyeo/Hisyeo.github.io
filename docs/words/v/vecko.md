@@ -6,7 +6,7 @@ sidebar_position: 611
 hoverText: liquid § Noun
 ---
 
-### vecko
+### vecko&emsp;<span kind="abugida">ɤ̄ɿɔ</span>
 
 *liquid* **§** Noun
 

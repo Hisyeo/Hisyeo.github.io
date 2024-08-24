@@ -6,7 +6,7 @@ sidebar_position: 711
 hoverText: mesh § Noun
 ---
 
-### nec
+### nec&emsp;<span kind="abugida">ƨ̄ɿ</span>
 
 *mesh* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 597
 hoverText: error § Noun
 ---
 
-### voüt
+### voüt&emsp;<span kind="abugida">ɤɽ̆ʄ</span>
 
 *error* **§** Noun
 

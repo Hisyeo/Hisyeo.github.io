@@ -6,7 +6,7 @@ sidebar_position: 800
 hoverText: clay § Noun
 ---
 
-### lismu
+### lismu&emsp;<span kind="abugida">ʓ́ɟƶʃ</span>
 
 *clay* **§** Noun
 

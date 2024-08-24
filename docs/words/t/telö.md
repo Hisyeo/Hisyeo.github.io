@@ -6,7 +6,7 @@ sidebar_position: 278
 hoverText: 13 thirteen § Numeral
 ---
 
-### telö
+### telö&emsp;<span kind="abugida">cɿʓı</span>
 
 *13 thirteen* **§** Numeral
 

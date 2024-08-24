@@ -6,7 +6,7 @@ sidebar_position: 557
 hoverText: wall § Noun
 ---
 
-### pëlëtë
+### pëlëtë&emsp;<span kind="abugida">ʋʇʓʇcʇ</span>
 
 *wall* **§** Noun
 

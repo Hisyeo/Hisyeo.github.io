@@ -6,7 +6,7 @@ sidebar_position: 636
 hoverText: to obey (a rule) § Verb
 ---
 
-### vütsün
+### vütsün&emsp;<span kind="abugida">ɤ̆ʄɐ̃ʄ</span>
 
 *to obey (a rule)* **§** Verb
 

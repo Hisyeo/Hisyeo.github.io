@@ -6,7 +6,7 @@ sidebar_position: 79
 hoverText: next § Adjective
 ---
 
-### uklo
+### uklo&emsp;<span kind="abugida">ɽ̑ʃʓ</span>
 
 *next* **§** Adjective
 

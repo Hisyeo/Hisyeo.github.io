@@ -6,7 +6,7 @@ sidebar_position: 429
 hoverText: neck/throat § Noun
 ---
 
-### xıngö
+### xıngö&emsp;<span kind="abugida">ɋ̃ȷꜿı</span>
 
 *neck/throat* **§** Noun
 

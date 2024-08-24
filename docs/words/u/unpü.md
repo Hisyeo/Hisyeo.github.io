@@ -6,7 +6,7 @@ sidebar_position: 88
 hoverText: arrow § Noun
 ---
 
-### unpü
+### unpü&emsp;<span kind="abugida">ɽ̃ʃʋʄ</span>
 
 *arrow* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 666
 hoverText: offspring § Noun
 ---
 
-### mënyüu
+### mënyüu&emsp;<span kind="abugida">ƶ̃ʇɀʄɽʃ</span>
 
 *offspring* **§** Noun
 

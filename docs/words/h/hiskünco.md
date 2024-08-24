@@ -6,7 +6,7 @@ sidebar_position: 136
 hoverText: language § Noun
 ---
 
-### hiskünco
+### hiskünco&emsp;<span kind="abugida">ɂ́ɟɔ̃ʄꞇ</span>
 
 *language* **§** Noun
 

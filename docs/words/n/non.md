@@ -6,7 +6,7 @@ sidebar_position: 704
 hoverText: movie/show § Noun
 ---
 
-### non
+### non&emsp;<span kind="abugida">ƨ̃</span>
 
 *movie/show* **§** Noun
 

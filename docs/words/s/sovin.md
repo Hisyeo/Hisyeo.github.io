@@ -6,7 +6,7 @@ sidebar_position: 363
 hoverText: pure § Adjective
 ---
 
-### sovin
+### sovin&emsp;<span kind="abugida">ɐɤ̃ɟ</span>
 
 *pure* **§** Adjective
 

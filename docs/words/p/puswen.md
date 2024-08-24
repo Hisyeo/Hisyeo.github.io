@@ -6,7 +6,7 @@ sidebar_position: 579
 hoverText: to need (a requirement) § Verb
 ---
 
-### puswen
+### puswen&emsp;<span kind="abugida">ʋ́ʃʒ̃ɿ</span>
 
 *to need (a requirement)* **§** Verb
 

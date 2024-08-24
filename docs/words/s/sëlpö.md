@@ -6,7 +6,7 @@ sidebar_position: 382
 hoverText: yellow § Adjective
 ---
 
-### sëlpö
+### sëlpö&emsp;<span kind="abugida">ɐ͊ʇʋı</span>
 
 *yellow* **§** Adjective
 

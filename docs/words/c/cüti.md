@@ -6,7 +6,7 @@ sidebar_position: 342
 hoverText: small § Adjective
 ---
 
-### cüti
+### cüti&emsp;<span kind="abugida">ꞇʄcɟ</span>
 
 *small* **§** Adjective
 

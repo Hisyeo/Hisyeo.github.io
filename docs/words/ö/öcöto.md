@@ -6,7 +6,7 @@ sidebar_position: 33
 hoverText: deity § Noun
 ---
 
-### öcöto
+### öcöto&emsp;<span kind="abugida">ɽıꞇıc</span>
 
 *deity* **§** Noun
 

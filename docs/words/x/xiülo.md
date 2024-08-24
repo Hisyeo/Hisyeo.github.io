@@ -6,7 +6,7 @@ sidebar_position: 431
 hoverText: hiss/fizz/whistle § Noun
 ---
 
-### xiülo
+### xiülo&emsp;<span kind="abugida">ɋɟɽʄʓ</span>
 
 *hiss/fizz/whistle* **§** Noun
 

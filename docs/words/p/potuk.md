@@ -6,7 +6,7 @@ sidebar_position: 527
 hoverText: flat § Adjective
 ---
 
-### potuk
+### potuk&emsp;<span kind="abugida">ʋc̑ʃ</span>
 
 *flat* **§** Adjective
 

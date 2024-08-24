@@ -6,7 +6,7 @@ sidebar_position: 554
 hoverText: different § Adjective
 ---
 
-### pësu
+### pësu&emsp;<span kind="abugida">ʋʇɐʃ</span>
 
 *different* **§** Adjective
 

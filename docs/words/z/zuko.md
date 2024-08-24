@@ -6,7 +6,7 @@ sidebar_position: 515
 hoverText: bag § Noun
 ---
 
-### zuko
+### zuko&emsp;<span kind="abugida">ⱴʃɔ</span>
 
 *bag* **§** Noun
 

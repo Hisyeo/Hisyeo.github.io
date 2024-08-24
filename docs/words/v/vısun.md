@@ -6,7 +6,7 @@ sidebar_position: 616
 hoverText: to know (knowledge) § Verb
 ---
 
-### vısun
+### vısun&emsp;<span kind="abugida">ɤȷɐ̃ʃ</span>
 
 *to know (knowledge)* **§** Verb
 

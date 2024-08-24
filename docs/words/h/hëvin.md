@@ -6,7 +6,7 @@ sidebar_position: 130
 hoverText: to understand (a concept) § Verb
 ---
 
-### hëvin
+### hëvin&emsp;<span kind="abugida">ɂʇɤ̃ɟ</span>
 
 *to understand (a concept)* **§** Verb
 

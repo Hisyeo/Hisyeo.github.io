@@ -6,7 +6,7 @@ sidebar_position: 42
 hoverText: fungus § Noun
 ---
 
-### öngö
+### öngö&emsp;<span kind="abugida">ɽ̃ıꜿı</span>
 
 *fungus* **§** Noun
 

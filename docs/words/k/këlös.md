@@ -6,7 +6,7 @@ sidebar_position: 188
 hoverText: weather § Noun
 ---
 
-### këlös
+### këlös&emsp;<span kind="abugida">ɔʇʓ́ı</span>
 
 *weather* **§** Noun
 

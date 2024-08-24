@@ -6,7 +6,7 @@ sidebar_position: 573
 hoverText: magenta § Adjective
 ---
 
-### pinhün
+### pinhün&emsp;<span kind="abugida">ʋ̃ɟɂ̃ʄ</span>
 
 *magenta* **§** Adjective
 

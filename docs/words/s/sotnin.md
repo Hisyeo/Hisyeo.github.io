@@ -6,7 +6,7 @@ sidebar_position: 354
 hoverText: right § Noun
 ---
 
-### sotnin
+### sotnin&emsp;<span kind="abugida">ɐ̆ƨ̃ɟ</span>
 
 *right* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 89
 hoverText: medial demonstrative (that/there) § Pronoun
 ---
 
-### ulyö
+### ulyö&emsp;<span kind="abugida">ɽ͊ʃɀı</span>
 
 *medial demonstrative (that/there)* **§** Pronoun
 

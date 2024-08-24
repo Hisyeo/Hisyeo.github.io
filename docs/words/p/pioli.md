@@ -6,7 +6,7 @@ sidebar_position: 564
 hoverText: hello/goodbye § Interjection
 ---
 
-### pioli
+### pioli&emsp;<span kind="abugida">ʋɟɽʓɟ</span>
 
 *hello/goodbye* **§** Interjection
 

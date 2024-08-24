@@ -6,7 +6,7 @@ sidebar_position: 449
 hoverText: ticket/pass § Noun
 ---
 
-### doinpi
+### doinpi&emsp;<span kind="abugida">ʌɽ̃ɟʋɟ</span>
 
 *ticket/pass* **§** Noun
 

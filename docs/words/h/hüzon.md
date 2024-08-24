@@ -6,7 +6,7 @@ sidebar_position: 146
 hoverText: rain § Noun
 ---
 
-### hüzon
+### hüzon&emsp;<span kind="abugida">ɂʄⱴ̃</span>
 
 *rain* **§** Noun
 

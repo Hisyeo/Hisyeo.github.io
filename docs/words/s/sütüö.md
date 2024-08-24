@@ -6,7 +6,7 @@ sidebar_position: 402
 hoverText: friend § Noun
 ---
 
-### sütüö
+### sütüö&emsp;<span kind="abugida">ɐʄcʄɽı</span>
 
 *friend* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 479
 hoverText: brain/mind § Noun
 ---
 
-### düuncit
+### düuncit&emsp;<span kind="abugida">ʌʄɽ̃ʃꞇ̆ɟ</span>
 
 *brain/mind* **§** Noun
 

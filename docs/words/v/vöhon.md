@@ -6,7 +6,7 @@ sidebar_position: 606
 hoverText: forward § Noun
 ---
 
-### vöhon
+### vöhon&emsp;<span kind="abugida">ɤıɂ̃</span>
 
 *forward* **§** Noun
 

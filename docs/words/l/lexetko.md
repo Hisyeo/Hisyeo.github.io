@@ -6,7 +6,7 @@ sidebar_position: 787
 hoverText: lattice/array § Noun
 ---
 
-### lexetko
+### lexetko&emsp;<span kind="abugida">ʓɿɋ̆ɿɔ</span>
 
 *lattice/array* **§** Noun
 

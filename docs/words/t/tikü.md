@@ -6,7 +6,7 @@ sidebar_position: 284
 hoverText: dead § Adjective
 ---
 
-### tikü
+### tikü&emsp;<span kind="abugida">cɟɔʄ</span>
 
 *dead* **§** Adjective
 

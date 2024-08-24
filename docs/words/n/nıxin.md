@@ -6,7 +6,7 @@ sidebar_position: 721
 hoverText: wing § Noun
 ---
 
-### nıxin
+### nıxin&emsp;<span kind="abugida">ƨȷɋ̃ɟ</span>
 
 *wing* **§** Noun
 

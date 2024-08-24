@@ -6,7 +6,7 @@ sidebar_position: 148
 hoverText: partner § Noun
 ---
 
-### hünsüon
+### hünsüon&emsp;<span kind="abugida">ɂ̃ʄɐʄɽ̃</span>
 
 *partner* **§** Noun
 

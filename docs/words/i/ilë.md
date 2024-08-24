@@ -6,7 +6,7 @@ sidebar_position: 77
 hoverText: building § Noun
 ---
 
-### ilë
+### ilë&emsp;<span kind="abugida">ɽɟʓʇ</span>
 
 *building* **§** Noun
 

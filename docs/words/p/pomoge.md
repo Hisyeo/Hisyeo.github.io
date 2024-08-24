@@ -6,7 +6,7 @@ sidebar_position: 533
 hoverText: prone § Adjective
 ---
 
-### pomoge
+### pomoge&emsp;<span kind="abugida">ʋƶꜿɿ</span>
 
 *prone* **§** Adjective
 

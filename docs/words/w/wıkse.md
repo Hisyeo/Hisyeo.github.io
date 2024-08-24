@@ -6,7 +6,7 @@ sidebar_position: 757
 hoverText: belly § Noun
 ---
 
-### wıkse
+### wıkse&emsp;<span kind="abugida">ʒ̑ȷɐɿ</span>
 
 *belly* **§** Noun
 

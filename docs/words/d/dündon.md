@@ -6,7 +6,7 @@ sidebar_position: 484
 hoverText: correct § Adjective
 ---
 
-### dündon
+### dündon&emsp;<span kind="abugida">ʌ̃ʄʌ̃</span>
 
 *correct* **§** Adjective
 

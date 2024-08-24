@@ -6,7 +6,7 @@ sidebar_position: 596
 hoverText: to untie (the untied) § Verb
 ---
 
-### püldo
+### püldo&emsp;<span kind="abugida">ʋ͊ʄʌ</span>
 
 *to untie (the untied)* **§** Verb
 

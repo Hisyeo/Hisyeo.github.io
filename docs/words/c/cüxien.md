@@ -6,7 +6,7 @@ sidebar_position: 343
 hoverText: constrained § Adjective
 ---
 
-### cüxien
+### cüxien&emsp;<span kind="abugida">ꞇʄɋɟɽ̃ɿ</span>
 
 *constrained* **§** Adjective
 

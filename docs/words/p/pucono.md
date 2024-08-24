@@ -6,7 +6,7 @@ sidebar_position: 578
 hoverText: to save/rescue (the saved/rescued) § Verb
 ---
 
-### pucono
+### pucono&emsp;<span kind="abugida">ʋʃꞇƨ</span>
 
 *to save/rescue (the saved/rescued)* **§** Verb
 

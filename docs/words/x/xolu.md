@@ -6,7 +6,7 @@ sidebar_position: 419
 hoverText: bowl/cup § Noun
 ---
 
-### xolu
+### xolu&emsp;<span kind="abugida">ɋʓʃ</span>
 
 *bowl/cup* **§** Noun
 

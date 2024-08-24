@@ -6,7 +6,7 @@ sidebar_position: 309
 hoverText: cute § Adjective
 ---
 
-### cömël
+### cömël&emsp;<span kind="abugida">ꞇıƶ͊ʇ</span>
 
 *cute* **§** Adjective
 

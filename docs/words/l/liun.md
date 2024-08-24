@@ -6,7 +6,7 @@ sidebar_position: 794
 hoverText: to nurture/grow (the nurtured/grown) § Verb
 ---
 
-### liun
+### liun&emsp;<span kind="abugida">ʓɟɽ̃ʃ</span>
 
 *to nurture/grow (the nurtured/grown)* **§** Verb
 

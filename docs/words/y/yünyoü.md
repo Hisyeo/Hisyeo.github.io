@@ -6,7 +6,7 @@ sidebar_position: 837
 hoverText: to have (a possession) § Verb
 ---
 
-### yünyoü
+### yünyoü&emsp;<span kind="abugida">ɀ̃ʄɀɽʄ</span>
 
 *to have (a possession)* **§** Verb
 

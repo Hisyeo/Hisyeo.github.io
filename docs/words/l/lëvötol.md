@@ -6,7 +6,7 @@ sidebar_position: 791
 hoverText: bouncing § Adjective
 ---
 
-### lëvötol
+### lëvötol&emsp;<span kind="abugida">ʓʇɤıc͊</span>
 
 *bouncing* **§** Adjective
 

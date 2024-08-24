@@ -6,7 +6,7 @@ sidebar_position: 458
 hoverText: pig § Noun
 ---
 
-### dönüs
+### dönüs&emsp;<span kind="abugida">ʌıƨ́ʄ</span>
 
 *pig* **§** Noun
 

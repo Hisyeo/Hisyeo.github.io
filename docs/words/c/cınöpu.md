@@ -6,7 +6,7 @@ sidebar_position: 322
 hoverText: vermilion § Adjective
 ---
 
-### cınöpu
+### cınöpu&emsp;<span kind="abugida">ꞇȷƨıʋʃ</span>
 
 *vermilion* **§** Adjective
 

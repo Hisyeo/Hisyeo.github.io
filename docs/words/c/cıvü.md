@@ -6,7 +6,7 @@ sidebar_position: 319
 hoverText: to pay (payment) § Verb
 ---
 
-### cıvü
+### cıvü&emsp;<span kind="abugida">ꞇȷɤʄ</span>
 
 *to pay (payment)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 341
 hoverText: rodent § Noun
 ---
 
-### cüi
+### cüi&emsp;<span kind="abugida">ꞇʄɽɟ</span>
 
 *rodent* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 543
 hoverText: to form a pose (a position) § Verb
 ---
 
-### pösol
+### pösol&emsp;<span kind="abugida">ʋıɐ͊</span>
 
 *to form a pose (a position)* **§** Verb
 

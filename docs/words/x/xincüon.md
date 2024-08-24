@@ -6,7 +6,7 @@ sidebar_position: 438
 hoverText: shape/form § Noun
 ---
 
-### xincüon
+### xincüon&emsp;<span kind="abugida">ɋ̃ɟꞇʄɽ̃</span>
 
 *shape/form* **§** Noun
 

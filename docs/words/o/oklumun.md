@@ -6,7 +6,7 @@ sidebar_position: 7
 hoverText: attack § Noun
 ---
 
-### oklumun
+### oklumun&emsp;<span kind="abugida">ɽ̑ʓʃƶ̃ʃ</span>
 
 *attack* **§** Noun
 

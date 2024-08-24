@@ -6,7 +6,7 @@ sidebar_position: 192
 hoverText: spice § Noun
 ---
 
-### kiüngö
+### kiüngö&emsp;<span kind="abugida">ɔɟɽ̃ʄꜿı</span>
 
 *spice* **§** Noun
 

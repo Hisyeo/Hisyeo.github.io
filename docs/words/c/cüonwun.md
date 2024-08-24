@@ -6,7 +6,7 @@ sidebar_position: 340
 hoverText: rumor § Noun
 ---
 
-### cüonwun
+### cüonwun&emsp;<span kind="abugida">ꞇʄɽ̃ʒ̃ʃ</span>
 
 *rumor* **§** Noun
 

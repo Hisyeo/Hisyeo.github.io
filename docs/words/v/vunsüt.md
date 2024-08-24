@@ -6,7 +6,7 @@ sidebar_position: 630
 hoverText: defeated § Adjective
 ---
 
-### vunsüt
+### vunsüt&emsp;<span kind="abugida">ɤ̃ʃɐ̆ʄ</span>
 
 *defeated* **§** Adjective
 

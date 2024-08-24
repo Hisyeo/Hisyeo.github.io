@@ -6,7 +6,7 @@ sidebar_position: 27
 hoverText: to prepare (a preparation) § Verb
 ---
 
-### ondo
+### ondo&emsp;<span kind="abugida">ɽ̃ʌ</span>
 
 *to prepare (a preparation)* **§** Verb
 

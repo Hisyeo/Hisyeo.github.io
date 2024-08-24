@@ -6,7 +6,7 @@ sidebar_position: 217
 hoverText: organization/enterprise § Noun
 ---
 
-### küngiyo
+### küngiyo&emsp;<span kind="abugida">ɔ̃ʄꜿɟɀ</span>
 
 *organization/enterprise* **§** Noun
 

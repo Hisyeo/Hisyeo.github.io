@@ -6,7 +6,7 @@ sidebar_position: 786
 hoverText: lazy § Adjective
 ---
 
-### legëvü
+### legëvü&emsp;<span kind="abugida">ʓɿꜿʇɤʄ</span>
 
 *lazy* **§** Adjective
 

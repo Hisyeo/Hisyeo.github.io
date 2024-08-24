@@ -6,7 +6,7 @@ sidebar_position: 408
 hoverText: sweet § Adjective
 ---
 
-### süwit
+### süwit&emsp;<span kind="abugida">ɐʄʒ̆ɟ</span>
 
 *sweet* **§** Adjective
 

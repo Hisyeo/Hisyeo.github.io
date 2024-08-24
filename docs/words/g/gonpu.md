@@ -6,7 +6,7 @@ sidebar_position: 230
 hoverText: leg § Noun
 ---
 
-### gonpu
+### gonpu&emsp;<span kind="abugida">ꜿ̃ʋʃ</span>
 
 *leg* **§** Noun
 

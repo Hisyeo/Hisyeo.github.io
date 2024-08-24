@@ -6,7 +6,7 @@ sidebar_position: 30
 hoverText: loud § Adjective
 ---
 
-### oltü
+### oltü&emsp;<span kind="abugida">ɽ͊cʄ</span>
 
 *loud* **§** Adjective
 

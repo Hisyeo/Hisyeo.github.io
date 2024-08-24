@@ -6,7 +6,7 @@ sidebar_position: 614
 hoverText: last/latest § Adjective
 ---
 
-### vëlcin
+### vëlcin&emsp;<span kind="abugida">ɤ͊ʇꞇ̃ɟ</span>
 
 *last/latest* **§** Adjective
 

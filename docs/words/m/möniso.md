@@ -6,7 +6,7 @@ sidebar_position: 660
 hoverText: to display/show (a diplay/show) § Verb
 ---
 
-### möniso
+### möniso&emsp;<span kind="abugida">ƶıƨɟɐ</span>
 
 *to display/show (a diplay/show)* **§** Verb
 

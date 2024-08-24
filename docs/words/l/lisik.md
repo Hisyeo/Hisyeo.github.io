@@ -6,7 +6,7 @@ sidebar_position: 799
 hoverText: cereal/grain § Noun
 ---
 
-### lisik
+### lisik&emsp;<span kind="abugida">ʓɟɐ̑ɟ</span>
 
 *cereal/grain* **§** Noun
 

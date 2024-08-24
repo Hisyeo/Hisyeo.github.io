@@ -6,7 +6,7 @@ sidebar_position: 687
 hoverText: direction/recipient (towards) § Preposition
 ---
 
-### müt
+### müt&emsp;<span kind="abugida">ƶ̆ʄ</span>
 
 *direction/recipient (towards)* **§** Preposition
 

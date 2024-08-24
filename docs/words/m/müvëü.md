@@ -6,7 +6,7 @@ sidebar_position: 690
 hoverText: clean § Adjective
 ---
 
-### müvëü
+### müvëü&emsp;<span kind="abugida">ƶʄɤʇɽʄ</span>
 
 *clean* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 821
 hoverText: pillow § Noun
 ---
 
-### yovük
+### yovük&emsp;<span kind="abugida">ɀɤ̑ʄ</span>
 
 *pillow* **§** Noun
 

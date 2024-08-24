@@ -6,7 +6,7 @@ sidebar_position: 132
 hoverText: early § Adjective
 ---
 
-### hëlxun
+### hëlxun&emsp;<span kind="abugida">ɂ͊ʇɋ̃ʃ</span>
 
 *early* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 650
 hoverText: logical § Adjective
 ---
 
-### montüksol
+### montüksol&emsp;<span kind="abugida">ƶ̃c̑ʄɐ͊</span>
 
 *logical* **§** Adjective
 

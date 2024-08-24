@@ -6,7 +6,7 @@ sidebar_position: 813
 hoverText: humorous § Adjective
 ---
 
-### yoümok
+### yoümok&emsp;<span kind="abugida">ɀɽʄƶ̑</span>
 
 *humorous* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 405
 hoverText: source/origin marker (from) § Preposition
 ---
 
-### sün
+### sün&emsp;<span kind="abugida">ɐ̃ʄ</span>
 
 *source/origin marker (from)* **§** Preposition
 

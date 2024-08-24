@@ -6,7 +6,7 @@ sidebar_position: 496
 hoverText: fuel § Noun
 ---
 
-### zoloni
+### zoloni&emsp;<span kind="abugida">ⱴʓƨɟ</span>
 
 *fuel* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 465
 hoverText: container § Noun
 ---
 
-### dıpo
+### dıpo&emsp;<span kind="abugida">ʌȷʋ</span>
 
 *container* **§** Noun
 

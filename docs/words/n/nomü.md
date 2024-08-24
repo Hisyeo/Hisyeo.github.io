@@ -6,7 +6,7 @@ sidebar_position: 703
 hoverText: tree § Noun
 ---
 
-### nomü
+### nomü&emsp;<span kind="abugida">ƨƶʄ</span>
 
 *tree* **§** Noun
 

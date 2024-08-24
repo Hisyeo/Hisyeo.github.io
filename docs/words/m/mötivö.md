@@ -6,7 +6,7 @@ sidebar_position: 657
 hoverText: reason § Noun
 ---
 
-### mötivö
+### mötivö&emsp;<span kind="abugida">ƶıcɟɤı</span>
 
 *reason* **§** Noun
 

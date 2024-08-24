@@ -6,7 +6,7 @@ sidebar_position: 154
 hoverText: sudden/urgent § Adjective
 ---
 
-### kotonhon
+### kotonhon&emsp;<span kind="abugida">ɔc̃ɂ̃</span>
 
 *sudden/urgent* **§** Adjective
 

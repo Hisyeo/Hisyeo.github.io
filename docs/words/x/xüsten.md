@@ -6,7 +6,7 @@ sidebar_position: 444
 hoverText: to wash (the washed) § Verb
 ---
 
-### xüsten
+### xüsten&emsp;<span kind="abugida">ɋ́ʄc̃ɿ</span>
 
 *to wash (the washed)* **§** Verb
 

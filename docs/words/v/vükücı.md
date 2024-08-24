@@ -6,7 +6,7 @@ sidebar_position: 635
 hoverText: revenge/vengeance § Noun
 ---
 
-### vükücı
+### vükücı&emsp;<span kind="abugida">ɤʄɔʄꞇȷ</span>
 
 *revenge/vengeance* **§** Noun
 

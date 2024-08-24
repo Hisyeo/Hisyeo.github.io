@@ -6,7 +6,7 @@ sidebar_position: 125
 hoverText: wilderness § Noun
 ---
 
-### hönyo
+### hönyo&emsp;<span kind="abugida">ɂ̃ıɀ</span>
 
 *wilderness* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 605
 hoverText: atom § Noun
 ---
 
-### volo
+### volo&emsp;<span kind="abugida">ɤʓ</span>
 
 *atom* **§** Noun
 

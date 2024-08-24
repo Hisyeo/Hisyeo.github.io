@@ -6,7 +6,7 @@ sidebar_position: 399
 hoverText: interested/amused § Adjective
 ---
 
-### sunyotni
+### sunyotni&emsp;<span kind="abugida">ɐ̃ʃɀ̆ƨɟ</span>
 
 *interested/amused* **§** Adjective
 

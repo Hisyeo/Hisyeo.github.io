@@ -6,7 +6,7 @@ sidebar_position: 381
 hoverText: ancestral § Adjective
 ---
 
-### sënzö
+### sënzö&emsp;<span kind="abugida">ɐ̃ʇⱴı</span>
 
 *ancestral* **§** Adjective
 

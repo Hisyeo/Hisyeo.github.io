@@ -6,7 +6,7 @@ sidebar_position: 432
 hoverText: flying § Adjective
 ---
 
-### xikö
+### xikö&emsp;<span kind="abugida">ɋɟɔı</span>
 
 *flying* **§** Adjective
 

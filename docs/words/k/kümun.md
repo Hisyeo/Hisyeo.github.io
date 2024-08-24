@@ -6,7 +6,7 @@ sidebar_position: 214
 hoverText: hole § Noun
 ---
 
-### kümun
+### kümun&emsp;<span kind="abugida">ɔʄƶ̃ʃ</span>
 
 *hole* **§** Noun
 

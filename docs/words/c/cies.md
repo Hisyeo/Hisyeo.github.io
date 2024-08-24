@@ -6,7 +6,7 @@ sidebar_position: 325
 hoverText: tight/firm § Adjective
 ---
 
-### cies
+### cies&emsp;<span kind="abugida">ꞇɟɽ́ɿ</span>
 
 *tight/firm* **§** Adjective
 

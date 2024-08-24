@@ -6,7 +6,7 @@ sidebar_position: 762
 hoverText: awake § Adjective
 ---
 
-### wili
+### wili&emsp;<span kind="abugida">ʒɟʓɟ</span>
 
 *awake* **§** Adjective
 

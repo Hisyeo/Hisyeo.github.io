@@ -6,7 +6,7 @@ sidebar_position: 174
 hoverText: sacred § Adjective
 ---
 
-### ködus
+### ködus&emsp;<span kind="abugida">ɔıʌ́ʃ</span>
 
 *sacred* **§** Adjective
 

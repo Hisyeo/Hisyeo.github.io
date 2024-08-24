@@ -6,7 +6,7 @@ sidebar_position: 725
 hoverText: vile § Adjective
 ---
 
-### niecnı
+### niecnı&emsp;<span kind="abugida">ƨɟɽ̄ɿƨȷ</span>
 
 *vile* **§** Adjective
 

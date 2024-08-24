@@ -6,7 +6,7 @@ sidebar_position: 469
 hoverText: block § Noun
 ---
 
-### dinci
+### dinci&emsp;<span kind="abugida">ʌ̃ɟꞇɟ</span>
 
 *block* **§** Noun
 

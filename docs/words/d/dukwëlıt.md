@@ -6,7 +6,7 @@ sidebar_position: 474
 hoverText: returning § Adjective
 ---
 
-### dukwëlıt
+### dukwëlıt&emsp;<span kind="abugida">ʌ̑ʃʒʇʓ̆ȷ</span>
 
 *returning* **§** Adjective
 

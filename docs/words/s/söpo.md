@@ -6,7 +6,7 @@ sidebar_position: 371
 hoverText: side/beside § Noun
 ---
 
-### söpo
+### söpo&emsp;<span kind="abugida">ɐıʋ</span>
 
 *side/beside* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 464
 hoverText: to try (a trial) § Verb
 ---
 
-### dënëmëk
+### dënëmëk&emsp;<span kind="abugida">ʌʇƨʇƶ̑ʇ</span>
 
 *to try (a trial)* **§** Verb
 

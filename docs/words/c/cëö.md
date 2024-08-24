@@ -6,7 +6,7 @@ sidebar_position: 313
 hoverText: rank/degree § Noun
 ---
 
-### cëö
+### cëö&emsp;<span kind="abugida">ꞇʇɽı</span>
 
 *rank/degree* **§** Noun
 

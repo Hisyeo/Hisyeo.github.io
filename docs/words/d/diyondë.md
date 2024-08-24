@@ -6,7 +6,7 @@ sidebar_position: 472
 hoverText: to focus [on]/pay attention [to] § Verb
 ---
 
-### diyondë
+### diyondë&emsp;<span kind="abugida">ʌɟɀ̃ʌʇ</span>
 
 *to focus [on]/pay attention [to]* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 94
 hoverText: year § Noun
 ---
 
-### üsën
+### üsën&emsp;<span kind="abugida">ɽʄɐ̃ʇ</span>
 
 *year* **§** Noun
 

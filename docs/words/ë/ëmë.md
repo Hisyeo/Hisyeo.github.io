@@ -6,7 +6,7 @@ sidebar_position: 56
 hoverText: vague/imprecise § Adjective
 ---
 
-### ëmë
+### ëmë&emsp;<span kind="abugida">ɽʇƶʇ</span>
 
 *vague/imprecise* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 453
 hoverText: diving § Adjective
 ---
 
-### dodë
+### dodë&emsp;<span kind="abugida">ʌʌʇ</span>
 
 *diving* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 506
 hoverText: generation § Noun
 ---
 
-### zızıme
+### zızıme&emsp;<span kind="abugida">ⱴȷⱴȷƶɿ</span>
 
 *generation* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 102
 hoverText: syllable § Noun
 ---
 
-### ülonvü
+### ülonvü&emsp;<span kind="abugida">ɽʄʓ̃ɤʄ</span>
 
 *syllable* **§** Noun
 

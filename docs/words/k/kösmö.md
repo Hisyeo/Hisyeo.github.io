@@ -6,7 +6,7 @@ sidebar_position: 172
 hoverText: space/cosmos § Noun
 ---
 
-### kösmö
+### kösmö&emsp;<span kind="abugida">ɔ́ıƶı</span>
 
 *space/cosmos* **§** Noun
 

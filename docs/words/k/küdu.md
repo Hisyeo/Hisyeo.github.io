@@ -6,7 +6,7 @@ sidebar_position: 212
 hoverText: horse § Noun
 ---
 
-### küdu
+### küdu&emsp;<span kind="abugida">ɔʄʌʃ</span>
 
 *horse* **§** Noun
 

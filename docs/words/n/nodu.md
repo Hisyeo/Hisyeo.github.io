@@ -6,7 +6,7 @@ sidebar_position: 701
 hoverText: tone § Noun
 ---
 
-### nodu
+### nodu&emsp;<span kind="abugida">ƨʌʃ</span>
 
 *tone* **§** Noun
 

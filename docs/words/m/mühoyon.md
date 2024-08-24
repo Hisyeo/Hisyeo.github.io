@@ -6,7 +6,7 @@ sidebar_position: 684
 hoverText: camp § Noun
 ---
 
-### mühoyon
+### mühoyon&emsp;<span kind="abugida">ƶʄɂɀ̃</span>
 
 *camp* **§** Noun
 

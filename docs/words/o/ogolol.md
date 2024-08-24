@@ -6,7 +6,7 @@ sidebar_position: 8
 hoverText: to grab/hold (a hold/load) § Verb
 ---
 
-### ogolol
+### ogolol&emsp;<span kind="abugida">ɽꜿʓ͊</span>
 
 *to grab/hold (a hold/load)* **§** Verb
 

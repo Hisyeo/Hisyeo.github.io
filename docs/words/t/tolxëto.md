@@ -6,7 +6,7 @@ sidebar_position: 270
 hoverText: card § Noun
 ---
 
-### tolxëto
+### tolxëto&emsp;<span kind="abugida">c͊ɋʇc</span>
 
 *card* **§** Noun
 

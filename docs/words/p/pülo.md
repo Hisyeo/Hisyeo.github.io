@@ -6,7 +6,7 @@ sidebar_position: 595
 hoverText: brown § Adjective
 ---
 
-### pülo
+### pülo&emsp;<span kind="abugida">ʋʄʓ</span>
 
 *brown* **§** Adjective
 

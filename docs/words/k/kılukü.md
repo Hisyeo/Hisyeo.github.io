@@ -6,7 +6,7 @@ sidebar_position: 190
 hoverText: eastern § Adjective
 ---
 
-### kılukü
+### kılukü&emsp;<span kind="abugida">ɔȷʓʃɔʄ</span>
 
 *eastern* **§** Adjective
 

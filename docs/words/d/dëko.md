@@ -6,7 +6,7 @@ sidebar_position: 460
 hoverText: to see (a view) § Verb
 ---
 
-### dëko
+### dëko&emsp;<span kind="abugida">ʌʇɔ</span>
 
 *to see (a view)* **§** Verb
 

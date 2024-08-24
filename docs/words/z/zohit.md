@@ -6,7 +6,7 @@ sidebar_position: 487
 hoverText: to sew (the sewn) § Verb
 ---
 
-### zohit
+### zohit&emsp;<span kind="abugida">ⱴɂ̆ɟ</span>
 
 *to sew (the sewn)* **§** Verb
 

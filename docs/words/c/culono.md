@@ -6,7 +6,7 @@ sidebar_position: 339
 hoverText: to operate (a machine) § Verb
 ---
 
-### culono
+### culono&emsp;<span kind="abugida">ꞇʃʓƨ</span>
 
 *to operate (a machine)* **§** Verb
 

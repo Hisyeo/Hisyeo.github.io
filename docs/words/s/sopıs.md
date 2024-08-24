@@ -6,7 +6,7 @@ sidebar_position: 361
 hoverText: to record (data/a recording) § Verb
 ---
 
-### sopıs
+### sopıs&emsp;<span kind="abugida">ɐʋ́ȷ</span>
 
 *to record (data/a recording)* **§** Verb
 

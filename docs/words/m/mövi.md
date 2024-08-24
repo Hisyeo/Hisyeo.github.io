@@ -6,7 +6,7 @@ sidebar_position: 659
 hoverText: brave/courageous § Adjective
 ---
 
-### mövi
+### mövi&emsp;<span kind="abugida">ƶıɤɟ</span>
 
 *brave/courageous* **§** Adjective
 

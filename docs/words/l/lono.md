@@ -6,7 +6,7 @@ sidebar_position: 775
 hoverText: day § Noun
 ---
 
-### lono
+### lono&emsp;<span kind="abugida">ʓƨ</span>
 
 *day* **§** Noun
 

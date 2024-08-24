@@ -6,7 +6,7 @@ sidebar_position: 133
 hoverText: supernatural/miraculous § Adjective
 ---
 
-### hıklıhos
+### hıklıhos&emsp;<span kind="abugida">ɂ̑ȷʓȷɂ́</span>
 
 *supernatural/miraculous* **§** Adjective
 

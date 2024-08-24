@@ -6,7 +6,7 @@ sidebar_position: 463
 hoverText: counter-agent marker (against) § Preposition
 ---
 
-### dën
+### dën&emsp;<span kind="abugida">ʌ̃ʇ</span>
 
 *counter-agent marker (against)* **§** Preposition
 

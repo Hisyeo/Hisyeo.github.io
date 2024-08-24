@@ -6,7 +6,7 @@ sidebar_position: 53
 hoverText: many § Determiner
 ---
 
-### ëto
+### ëto&emsp;<span kind="abugida">ɽʇc</span>
 
 *many* **§** Determiner
 

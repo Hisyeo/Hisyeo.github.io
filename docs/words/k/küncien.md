@@ -6,7 +6,7 @@ sidebar_position: 218
 hoverText: room § Noun
 ---
 
-### küncien
+### küncien&emsp;<span kind="abugida">ɔ̃ʄꞇɟɽ̃ɿ</span>
 
 *room* **§** Noun
 

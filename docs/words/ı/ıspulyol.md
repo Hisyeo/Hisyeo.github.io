@@ -6,7 +6,7 @@ sidebar_position: 62
 hoverText: to scatter (scatterable entity) § Adjective
 ---
 
-### ıspulyol
+### ıspulyol&emsp;<span kind="abugida">ɽ́ȷʋ͊ʃɀ͊</span>
 
 *to scatter (scatterable entity)* **§** Adjective
 

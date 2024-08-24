@@ -6,7 +6,7 @@ sidebar_position: 785
 hoverText: weapon § Noun
 ---
 
-### leknek
+### leknek&emsp;<span kind="abugida">ʓ̑ɿƨ̑ɿ</span>
 
 *weapon* **§** Noun
 

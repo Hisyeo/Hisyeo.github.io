@@ -6,7 +6,7 @@ sidebar_position: 219
 hoverText: scene/stage § Noun
 ---
 
-### künpi
+### künpi&emsp;<span kind="abugida">ɔ̃ʄʋɟ</span>
 
 *scene/stage* **§** Noun
 

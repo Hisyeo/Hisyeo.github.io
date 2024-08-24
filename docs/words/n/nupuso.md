@@ -6,7 +6,7 @@ sidebar_position: 732
 hoverText: wet § Adjective
 ---
 
-### nupuso
+### nupuso&emsp;<span kind="abugida">ƨʃʋʃɐ</span>
 
 *wet* **§** Adjective
 

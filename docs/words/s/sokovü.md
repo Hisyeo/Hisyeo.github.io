@@ -6,7 +6,7 @@ sidebar_position: 353
 hoverText: floor § Noun
 ---
 
-### sokovü
+### sokovü&emsp;<span kind="abugida">ɐɔɤʄ</span>
 
 *floor* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 386
 hoverText: perfect verb particle § Particle
 ---
 
-### si
+### si&emsp;<span kind="abugida">ɐɟ</span>
 
 *perfect verb particle* **§** Particle
 

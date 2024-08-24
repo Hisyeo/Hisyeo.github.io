@@ -6,7 +6,7 @@ sidebar_position: 366
 hoverText: important § Adjective
 ---
 
-### sonkon
+### sonkon&emsp;<span kind="abugida">ɐ̃ɔ̃</span>
 
 *important* **§** Adjective
 

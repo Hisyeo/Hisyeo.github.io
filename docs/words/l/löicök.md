@@ -6,7 +6,7 @@ sidebar_position: 780
 hoverText: emphasis clause ender (really/again) § Postposition
 ---
 
-### löicök
+### löicök&emsp;<span kind="abugida">ʓıɽɟꞇ̑ı</span>
 
 *emphasis clause ender (really/again)* **§** Postposition
 

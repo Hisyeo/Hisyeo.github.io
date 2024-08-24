@@ -6,7 +6,7 @@ sidebar_position: 105
 hoverText: dry § Adjective
 ---
 
-### ülgükin
+### ülgükin&emsp;<span kind="abugida">ɽ͊ʄꜿʄɔ̃ɟ</span>
 
 *dry* **§** Adjective
 

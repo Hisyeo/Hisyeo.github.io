@@ -6,7 +6,7 @@ sidebar_position: 58
 hoverText: belch/burp § Noun
 ---
 
-### ënpukun
+### ënpukun&emsp;<span kind="abugida">ɽ̃ʇʋʃɔ̃ʃ</span>
 
 *belch/burp* **§** Noun
 

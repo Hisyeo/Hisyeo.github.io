@@ -6,7 +6,7 @@ sidebar_position: 587
 hoverText: dizzy § Adjective
 ---
 
-### püsın
+### püsın&emsp;<span kind="abugida">ʋʄɐ̃ȷ</span>
 
 *dizzy* **§** Adjective
 

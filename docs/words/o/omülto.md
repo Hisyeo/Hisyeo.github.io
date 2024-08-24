@@ -6,7 +6,7 @@ sidebar_position: 21
 hoverText: abstract § Adjective
 ---
 
-### omülto
+### omülto&emsp;<span kind="abugida">ɽƶ͊ʄc</span>
 
 *abstract* **§** Adjective
 

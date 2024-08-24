@@ -6,7 +6,7 @@ sidebar_position: 437
 hoverText: water § Noun
 ---
 
-### ximu
+### ximu&emsp;<span kind="abugida">ɋɟƶʃ</span>
 
 *water* **§** Noun
 

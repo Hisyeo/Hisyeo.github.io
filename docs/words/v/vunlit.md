@@ -6,7 +6,7 @@ sidebar_position: 631
 hoverText: split § Adjective
 ---
 
-### vunlit
+### vunlit&emsp;<span kind="abugida">ɤ̃ʃʓ̆ɟ</span>
 
 *split* **§** Adjective
 

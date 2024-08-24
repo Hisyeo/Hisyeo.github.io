@@ -6,7 +6,7 @@ sidebar_position: 414
 hoverText: previous § Adjective
 ---
 
-### xopëk
+### xopëk&emsp;<span kind="abugida">ɋʋ̑ʇ</span>
 
 *previous* **§** Adjective
 

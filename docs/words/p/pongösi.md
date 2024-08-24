@@ -6,7 +6,7 @@ sidebar_position: 535
 hoverText: endangered § Adjective
 ---
 
-### pongösi
+### pongösi&emsp;<span kind="abugida">ʋ̃ꜿıɐɟ</span>
 
 *endangered* **§** Adjective
 

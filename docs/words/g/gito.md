@@ -6,7 +6,7 @@ sidebar_position: 244
 hoverText: line § Noun
 ---
 
-### gito
+### gito&emsp;<span kind="abugida">ꜿɟc</span>
 
 *line* **§** Noun
 

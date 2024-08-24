@@ -6,7 +6,7 @@ sidebar_position: 662
 hoverText: violet § Adjective
 ---
 
-### menekxe
+### menekxe&emsp;<span kind="abugida">ƶɿƨ̑ɿɋɿ</span>
 
 *violet* **§** Adjective
 

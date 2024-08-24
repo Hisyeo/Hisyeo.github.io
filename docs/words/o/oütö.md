@@ -6,7 +6,7 @@ sidebar_position: 0
 hoverText: to drive (a vehicle) § Verb
 ---
 
-### oütö
+### oütö&emsp;<span kind="abugida">ɽɽʄcı</span>
 
 *to drive (a vehicle)* **§** Verb
 

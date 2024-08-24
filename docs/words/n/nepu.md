@@ -6,7 +6,7 @@ sidebar_position: 713
 hoverText: unlikely/rare § Adjective
 ---
 
-### nepu
+### nepu&emsp;<span kind="abugida">ƨɿʋʃ</span>
 
 *unlikely/rare* **§** Adjective
 

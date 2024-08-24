@@ -6,7 +6,7 @@ sidebar_position: 522
 hoverText: series/sentence § Noun
 ---
 
-### zünlo
+### zünlo&emsp;<span kind="abugida">ⱴ̃ʄʓ</span>
 
 *series/sentence* **§** Noun
 

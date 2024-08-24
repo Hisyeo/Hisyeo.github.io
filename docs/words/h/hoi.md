@@ -6,7 +6,7 @@ sidebar_position: 108
 hoverText: location/time marker (at) § Preposition
 ---
 
-### hoi
+### hoi&emsp;<span kind="abugida">ɂɽɟ</span>
 
 *location/time marker (at)* **§** Preposition
 

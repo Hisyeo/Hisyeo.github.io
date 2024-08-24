@@ -6,7 +6,7 @@ sidebar_position: 697
 hoverText: old § Adjective
 ---
 
-### nokdo
+### nokdo&emsp;<span kind="abugida">ƨ̑ʌ</span>
 
 *old* **§** Adjective
 

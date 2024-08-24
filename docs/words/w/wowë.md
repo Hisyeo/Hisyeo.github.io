@@ -6,7 +6,7 @@ sidebar_position: 745
 hoverText: foot § Noun
 ---
 
-### wowë
+### wowë&emsp;<span kind="abugida">ʒʒʇ</span>
 
 *foot* **§** Noun
 

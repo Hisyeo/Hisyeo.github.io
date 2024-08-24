@@ -6,7 +6,7 @@ sidebar_position: 303
 hoverText: asleep § Adjective
 ---
 
-### conzodo
+### conzodo&emsp;<span kind="abugida">ꞇ̃ⱴʌ</span>
 
 *asleep* **§** Adjective
 

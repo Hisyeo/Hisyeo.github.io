@@ -6,7 +6,7 @@ sidebar_position: 112
 hoverText: ratio/proportion § Noun
 ---
 
-### hosoün
+### hosoün&emsp;<span kind="abugida">ɂɐɽ̃ʄ</span>
 
 *ratio/proportion* **§** Noun
 

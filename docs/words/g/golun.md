@@ -6,7 +6,7 @@ sidebar_position: 232
 hoverText: to respect (the respected) § Verb
 ---
 
-### golun
+### golun&emsp;<span kind="abugida">ꜿʓ̃ʃ</span>
 
 *to respect (the respected)* **§** Verb
 

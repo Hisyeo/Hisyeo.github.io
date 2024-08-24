@@ -6,7 +6,7 @@ sidebar_position: 755
 hoverText: week § Noun
 ---
 
-### wëxön
+### wëxön&emsp;<span kind="abugida">ʒʇɋ̃ı</span>
 
 *week* **§** Noun
 

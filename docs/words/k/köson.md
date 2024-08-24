@@ -6,7 +6,7 @@ sidebar_position: 171
 hoverText: to build (a construction) § Verb
 ---
 
-### köson
+### köson&emsp;<span kind="abugida">ɔıɐ̃</span>
 
 *to build (a construction)* **§** Verb
 

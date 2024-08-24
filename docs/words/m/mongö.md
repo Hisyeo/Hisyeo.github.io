@@ -6,7 +6,7 @@ sidebar_position: 649
 hoverText: sharks/rays § Noun
 ---
 
-### mongö
+### mongö&emsp;<span kind="abugida">ƶ̃ꜿı</span>
 
 *sharks/rays* **§** Noun
 

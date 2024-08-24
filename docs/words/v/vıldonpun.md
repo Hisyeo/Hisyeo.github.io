@@ -6,7 +6,7 @@ sidebar_position: 618
 hoverText: evaporated/vaporized § Adjective
 ---
 
-### vıldonpun
+### vıldonpun&emsp;<span kind="abugida">ɤ͊ȷʌ̃ʋ̃ʃ</span>
 
 *evaporated/vaporized* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 495
 hoverText: caniform § Noun
 ---
 
-### zowo
+### zowo&emsp;<span kind="abugida">ⱴʒ</span>
 
 *caniform* **§** Noun
 

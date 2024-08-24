@@ -6,7 +6,7 @@ sidebar_position: 122
 hoverText: bovine § Noun
 ---
 
-### hövezi
+### hövezi&emsp;<span kind="abugida">ɂıɤɿⱴɟ</span>
 
 *bovine* **§** Noun
 

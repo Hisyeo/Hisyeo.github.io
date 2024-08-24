@@ -6,7 +6,7 @@ sidebar_position: 645
 hoverText: magical § Adjective
 ---
 
-### mozikö
+### mozikö&emsp;<span kind="abugida">ƶⱴɟɔı</span>
 
 *magical* **§** Adjective
 

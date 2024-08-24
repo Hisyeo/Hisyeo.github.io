@@ -6,7 +6,7 @@ sidebar_position: 440
 hoverText: occupied/engaged/busy § Adjective
 ---
 
-### xiyöcü
+### xiyöcü&emsp;<span kind="abugida">ɋɟɀıꞇʄ</span>
 
 *occupied/engaged/busy* **§** Adjective
 

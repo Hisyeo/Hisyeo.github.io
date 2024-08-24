@@ -6,7 +6,7 @@ sidebar_position: 706
 hoverText: tear (of the eye) § Noun
 ---
 
-### nonto
+### nonto&emsp;<span kind="abugida">ƨ̃c</span>
 
 *tear (of the eye)* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 559
 hoverText: night § Noun
 ---
 
-### pıtün
+### pıtün&emsp;<span kind="abugida">ʋȷc̃ʄ</span>
 
 *night* **§** Noun
 

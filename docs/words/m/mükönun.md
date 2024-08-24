@@ -6,7 +6,7 @@ sidebar_position: 685
 hoverText: triangle § Noun
 ---
 
-### mükönun
+### mükönun&emsp;<span kind="abugida">ƶʄɔıƨ̃ʃ</span>
 
 *triangle* **§** Noun
 

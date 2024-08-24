@@ -6,7 +6,7 @@ sidebar_position: 223
 hoverText: plant § Noun
 ---
 
-### gos
+### gos&emsp;<span kind="abugida">ꜿ́</span>
 
 *plant* **§** Noun
 

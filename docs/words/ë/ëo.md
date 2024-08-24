@@ -6,7 +6,7 @@ sidebar_position: 52
 hoverText: causative verb particle § Particle
 ---
 
-### ëo
+### ëo&emsp;<span kind="abugida">ɽʇɽ</span>
 
 *causative verb particle* **§** Particle
 

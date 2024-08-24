@@ -6,7 +6,7 @@ sidebar_position: 434
 hoverText: pinecone § Noun
 ---
 
-### xixulko
+### xixulko&emsp;<span kind="abugida">ɋɟɋ͊ʃɔ</span>
 
 *pinecone* **§** Noun
 

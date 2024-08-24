@@ -6,7 +6,7 @@ sidebar_position: 280
 hoverText: supine § Adjective
 ---
 
-### tıgoyo
+### tıgoyo&emsp;<span kind="abugida">cȷꜿɀ</span>
 
 *supine* **§** Adjective
 

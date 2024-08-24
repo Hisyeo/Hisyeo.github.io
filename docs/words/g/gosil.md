@@ -6,7 +6,7 @@ sidebar_position: 224
 hoverText: short § Adjective
 ---
 
-### gosil
+### gosil&emsp;<span kind="abugida">ꜿɐ͊ɟ</span>
 
 *short* **§** Adjective
 

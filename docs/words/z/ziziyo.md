@@ -6,7 +6,7 @@ sidebar_position: 512
 hoverText: tendon/root § Noun
 ---
 
-### ziziyo
+### ziziyo&emsp;<span kind="abugida">ⱴɟⱴɟɀ</span>
 
 *tendon/root* **§** Noun
 

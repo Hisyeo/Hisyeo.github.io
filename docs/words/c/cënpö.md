@@ -6,7 +6,7 @@ sidebar_position: 314
 hoverText: big § Adjective
 ---
 
-### cënpö
+### cënpö&emsp;<span kind="abugida">ꞇ̃ʇʋı</span>
 
 *big* **§** Adjective
 

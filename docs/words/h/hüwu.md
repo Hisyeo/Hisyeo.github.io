@@ -6,7 +6,7 @@ sidebar_position: 149
 hoverText: egg § Noun
 ---
 
-### hüwu
+### hüwu&emsp;<span kind="abugida">ɂʄʒʃ</span>
 
 *egg* **§** Noun
 

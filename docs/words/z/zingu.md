@@ -6,7 +6,7 @@ sidebar_position: 513
 hoverText: orange § Adjective
 ---
 
-### zingu
+### zingu&emsp;<span kind="abugida">ⱴ̃ɟꜿʃ</span>
 
 *orange* **§** Adjective
 

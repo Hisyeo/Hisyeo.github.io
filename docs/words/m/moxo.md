@@ -6,7 +6,7 @@ sidebar_position: 644
 hoverText: decorative/ornamental § Adjective
 ---
 
-### moxo
+### moxo&emsp;<span kind="abugida">ƶɋ</span>
 
 *decorative/ornamental* **§** Adjective
 

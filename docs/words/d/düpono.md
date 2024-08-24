@@ -6,7 +6,7 @@ sidebar_position: 482
 hoverText: to immerse (the immersed) § Verb
 ---
 
-### düpono
+### düpono&emsp;<span kind="abugida">ʌʄʋƨ</span>
 
 *to immerse (the immersed)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 9
 hoverText: excess § Determiner
 ---
 
-### otıkon
+### otıkon&emsp;<span kind="abugida">ɽcȷɔ̃</span>
 
 *excess* **§** Determiner
 

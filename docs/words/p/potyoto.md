@@ -6,7 +6,7 @@ sidebar_position: 528
 hoverText: responsible § Adjective
 ---
 
-### potyoto
+### potyoto&emsp;<span kind="abugida">ʋ̆ɀc</span>
 
 *responsible* **§** Adjective
 

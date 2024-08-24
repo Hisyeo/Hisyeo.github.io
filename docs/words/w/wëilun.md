@@ -6,7 +6,7 @@ sidebar_position: 750
 hoverText: to behave (a behavior) § Verb
 ---
 
-### wëilun
+### wëilun&emsp;<span kind="abugida">ʒʇɽɟʓ̃ʃ</span>
 
 *to behave (a behavior)* **§** Verb
 

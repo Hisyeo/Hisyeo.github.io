@@ -6,7 +6,7 @@ sidebar_position: 407
 hoverText: drone/buzz/hum § Noun
 ---
 
-### sünpidü
+### sünpidü&emsp;<span kind="abugida">ɐ̃ʄʋɟʌʄ</span>
 
 *drone/buzz/hum* **§** Noun
 

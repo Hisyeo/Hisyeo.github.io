@@ -6,7 +6,7 @@ sidebar_position: 672
 hoverText: furniture § Noun
 ---
 
-### miëpıl
+### miëpıl&emsp;<span kind="abugida">ƶɟɽʇʋ͊ȷ</span>
 
 *furniture* **§** Noun
 

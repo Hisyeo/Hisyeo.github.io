@@ -6,7 +6,7 @@ sidebar_position: 599
 hoverText: causative agentive verb noun particle § Particle
 ---
 
-### voko
+### voko&emsp;<span kind="abugida">ɤɔ</span>
 
 *causative agentive verb noun particle* **§** Particle
 

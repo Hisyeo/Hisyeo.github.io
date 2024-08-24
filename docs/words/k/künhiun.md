@@ -6,7 +6,7 @@ sidebar_position: 216
 hoverText: step/pace § Noun
 ---
 
-### künhiun
+### künhiun&emsp;<span kind="abugida">ɔ̃ʄɂɟɽ̃ʃ</span>
 
 *step/pace* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 826
 hoverText: program/plan § Noun
 ---
 
-### yöcno
+### yöcno&emsp;<span kind="abugida">ɀ̄ıƨ</span>
 
 *program/plan* **§** Noun
 

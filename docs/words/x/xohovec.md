@@ -6,7 +6,7 @@ sidebar_position: 410
 hoverText: jellyfish/hydra/anemone § Noun
 ---
 
-### xohovec
+### xohovec&emsp;<span kind="abugida">ɋɂɤ̄ɿ</span>
 
 *jellyfish/hydra/anemone* **§** Noun
 

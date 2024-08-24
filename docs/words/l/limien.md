@@ -6,7 +6,7 @@ sidebar_position: 802
 hoverText: inside § Noun
 ---
 
-### limien
+### limien&emsp;<span kind="abugida">ʓɟƶɟɽ̃ɿ</span>
 
 *inside* **§** Noun
 

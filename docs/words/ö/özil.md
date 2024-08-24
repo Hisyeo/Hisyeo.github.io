@@ -6,7 +6,7 @@ sidebar_position: 37
 hoverText: nut § Noun
 ---
 
-### özil
+### özil&emsp;<span kind="abugida">ɽıⱴ͊ɟ</span>
 
 *nut* **§** Noun
 

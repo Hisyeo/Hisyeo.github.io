@@ -6,7 +6,7 @@ sidebar_position: 258
 hoverText: pink § Adjective
 ---
 
-### gülopi
+### gülopi&emsp;<span kind="abugida">ꜿʄʓʋɟ</span>
 
 *pink* **§** Adjective
 

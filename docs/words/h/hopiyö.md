@@ -6,7 +6,7 @@ sidebar_position: 115
 hoverText: to announce (an announcement) § Verb
 ---
 
-### hopiyö
+### hopiyö&emsp;<span kind="abugida">ɂʋɟɀı</span>
 
 *to announce (an announcement)* **§** Verb
 

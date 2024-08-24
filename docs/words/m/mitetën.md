@@ -6,7 +6,7 @@ sidebar_position: 675
 hoverText: trivial § Adjective
 ---
 
-### mitetën
+### mitetën&emsp;<span kind="abugida">ƶɟcɿc̃ʇ</span>
 
 *trivial* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 814
 hoverText: prize § Noun
 ---
 
-### yoküntik
+### yoküntik&emsp;<span kind="abugida">ɀɔ̃ʄc̑ɟ</span>
 
 *prize* **§** Noun
 

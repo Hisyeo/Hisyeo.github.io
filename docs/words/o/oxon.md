@@ -6,7 +6,7 @@ sidebar_position: 13
 hoverText: beneficiary/purpose marker (for) § Preposition
 ---
 
-### oxon
+### oxon&emsp;<span kind="abugida">ɽɋ̃</span>
 
 *beneficiary/purpose marker (for)* **§** Preposition
 

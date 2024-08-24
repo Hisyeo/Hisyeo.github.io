@@ -6,7 +6,7 @@ sidebar_position: 686
 hoverText: mature/ripe § Adjective
 ---
 
-### mükno
+### mükno&emsp;<span kind="abugida">ƶ̑ʄƨ</span>
 
 *mature/ripe* **§** Adjective
 

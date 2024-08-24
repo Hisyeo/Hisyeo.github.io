@@ -6,7 +6,7 @@ sidebar_position: 257
 hoverText: to scratch (the scratched) § Verb
 ---
 
-### güwolo
+### güwolo&emsp;<span kind="abugida">ꜿʄʒʓ</span>
 
 *to scratch (the scratched)* **§** Verb
 

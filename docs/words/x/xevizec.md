@@ -6,7 +6,7 @@ sidebar_position: 425
 hoverText: to predict (a prediction) § Verb
 ---
 
-### xevizec
+### xevizec&emsp;<span kind="abugida">ɋɿɤɟⱴ̄ɿ</span>
 
 *to predict (a prediction)* **§** Verb
 

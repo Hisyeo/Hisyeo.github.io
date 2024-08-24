@@ -6,7 +6,7 @@ sidebar_position: 766
 hoverText: ring/circle § Noun
 ---
 
-### wutun
+### wutun&emsp;<span kind="abugida">ʒʃc̃ʃ</span>
 
 *ring/circle* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 153
 hoverText: interrogative clause ender (yes?) § Postposition
 ---
 
-### ko
+### ko&emsp;<span kind="abugida">ɔ</span>
 
 *interrogative clause ender (yes?)* **§** Postposition
 

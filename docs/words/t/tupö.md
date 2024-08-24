@@ -6,7 +6,7 @@ sidebar_position: 289
 hoverText: spot/scar § Noun
 ---
 
-### tupö
+### tupö&emsp;<span kind="abugida">cʃʋı</span>
 
 *spot/scar* **§** Noun
 

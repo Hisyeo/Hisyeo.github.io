@@ -6,7 +6,7 @@ sidebar_position: 290
 hoverText: to traverse (the traversed) § Verb
 ---
 
-### tulutı
+### tulutı&emsp;<span kind="abugida">cʃʓʃcȷ</span>
 
 *to traverse (the traversed)* **§** Verb
 

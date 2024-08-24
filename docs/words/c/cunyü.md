@@ -6,7 +6,7 @@ sidebar_position: 338
 hoverText: cold § Adjective
 ---
 
-### cunyü
+### cunyü&emsp;<span kind="abugida">ꞇ̃ʃɀʄ</span>
 
 *cold* **§** Adjective
 

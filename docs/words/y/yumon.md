@@ -6,7 +6,7 @@ sidebar_position: 832
 hoverText: brutal § Adjective
 ---
 
-### yumon
+### yumon&emsp;<span kind="abugida">ɀʃƶ̃</span>
 
 *brutal* **§** Adjective
 

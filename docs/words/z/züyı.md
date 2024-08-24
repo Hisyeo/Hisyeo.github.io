@@ -6,7 +6,7 @@ sidebar_position: 523
 hoverText: to spot/notice (the spotted/noticed) § Verb
 ---
 
-### züyı
+### züyı&emsp;<span kind="abugida">ⱴʄɀȷ</span>
 
 *to spot/notice (the spotted/noticed)* **§** Verb
 

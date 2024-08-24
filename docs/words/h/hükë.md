@@ -6,7 +6,7 @@ sidebar_position: 141
 hoverText: to mine (ore) § Verb
 ---
 
-### hükë
+### hükë&emsp;<span kind="abugida">ɂʄɔʇ</span>
 
 *to mine (ore)* **§** Verb
 

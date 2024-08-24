@@ -6,7 +6,7 @@ sidebar_position: 176
 hoverText: possible/likely § Adjective
 ---
 
-### könën
+### könën&emsp;<span kind="abugida">ɔıƨ̃ʇ</span>
 
 *possible/likely* **§** Adjective
 

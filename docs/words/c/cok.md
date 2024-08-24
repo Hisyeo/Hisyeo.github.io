@@ -6,7 +6,7 @@ sidebar_position: 297
 hoverText: departing § Adjective
 ---
 
-### cok
+### cok&emsp;<span kind="abugida">ꞇ̑</span>
 
 *departing* **§** Adjective
 

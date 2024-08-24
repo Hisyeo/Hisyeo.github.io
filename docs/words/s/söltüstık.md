@@ -6,7 +6,7 @@ sidebar_position: 375
 hoverText: northern § Adjective
 ---
 
-### söltüstık
+### söltüstık&emsp;<span kind="abugida">ɐ͊ıćʄc̑ȷ</span>
 
 *northern* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 119
 hoverText: jealous § Adjective
 ---
 
-### hondöt
+### hondöt&emsp;<span kind="abugida">ɂ̃ʌ̆ı</span>
 
 *jealous* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 38
 hoverText: opaque § Adjective
 ---
 
-### öpok
+### öpok&emsp;<span kind="abugida">ɽıʋ̑</span>
 
 *opaque* **§** Adjective
 

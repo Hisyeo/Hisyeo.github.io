@@ -6,7 +6,7 @@ sidebar_position: 500
 hoverText: pitch/tar § Noun
 ---
 
-### zögoc
+### zögoc&emsp;<span kind="abugida">ⱴıꜿ̄</span>
 
 *pitch/tar* **§** Noun
 

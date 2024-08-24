@@ -6,7 +6,7 @@ sidebar_position: 394
 hoverText: mucus § Noun
 ---
 
-### sukyunık
+### sukyunık&emsp;<span kind="abugida">ɐ̑ʃɀʃƨ̑ȷ</span>
 
 *mucus* **§** Noun
 

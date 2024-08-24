@@ -6,7 +6,7 @@ sidebar_position: 198
 hoverText: functional § Adjective
 ---
 
-### kinöxi
+### kinöxi&emsp;<span kind="abugida">ɔɟƨıɋɟ</span>
 
 *functional* **§** Adjective
 

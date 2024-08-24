@@ -6,7 +6,7 @@ sidebar_position: 517
 hoverText: to answer [with] (a response) § Verb
 ---
 
-### zuwopü
+### zuwopü&emsp;<span kind="abugida">ⱴʃʒʋʄ</span>
 
 *to answer [with] (a response)* **§** Verb
 

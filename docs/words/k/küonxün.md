@@ -6,7 +6,7 @@ sidebar_position: 207
 hoverText: tolerant § Adjective
 ---
 
-### küonxün
+### küonxün&emsp;<span kind="abugida">ɔʄɽ̃ɋ̃ʄ</span>
 
 *tolerant* **§** Adjective
 

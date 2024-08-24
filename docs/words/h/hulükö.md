@@ -6,7 +6,7 @@ sidebar_position: 139
 hoverText: lightweight § Adjective
 ---
 
-### hulükö
+### hulükö&emsp;<span kind="abugida">ɂʃʓʄɔı</span>
 
 *lightweight* **§** Adjective
 

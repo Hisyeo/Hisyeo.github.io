@@ -6,7 +6,7 @@ sidebar_position: 39
 hoverText: opposite § Adjective
 ---
 
-### öpöstü
+### öpöstü&emsp;<span kind="abugida">ɽıʋ́ıcʄ</span>
 
 *opposite* **§** Adjective
 

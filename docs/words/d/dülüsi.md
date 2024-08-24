@@ -6,7 +6,7 @@ sidebar_position: 485
 hoverText: reptile § Noun
 ---
 
-### dülüsi
+### dülüsi&emsp;<span kind="abugida">ʌʄʓʄɐɟ</span>
 
 *reptile* **§** Noun
 

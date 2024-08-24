@@ -6,7 +6,7 @@ sidebar_position: 254
 hoverText: to push (the pushed/repelled) § Verb
 ---
 
-### güviö
+### güviö&emsp;<span kind="abugida">ꜿʄɤɟɽı</span>
 
 *to push (the pushed/repelled)* **§** Verb
 

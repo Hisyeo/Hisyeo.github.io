@@ -6,7 +6,7 @@ sidebar_position: 74
 hoverText: to trust (a belief) § Verb
 ---
 
-### imon
+### imon&emsp;<span kind="abugida">ɽɟƶ̃</span>
 
 *to trust (a belief)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 669
 hoverText: gastropod § Noun
 ---
 
-### mınyoto
+### mınyoto&emsp;<span kind="abugida">ƶ̃ȷɀc</span>
 
 *gastropod* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 592
 hoverText: ground/terrain/earth § Noun
 ---
 
-### pümi
+### pümi&emsp;<span kind="abugida">ʋʄƶɟ</span>
 
 *ground/terrain/earth* **§** Noun
 

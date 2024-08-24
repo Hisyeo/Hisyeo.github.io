@@ -6,7 +6,7 @@ sidebar_position: 626
 hoverText: public/communal § Adjective
 ---
 
-### vimösyös
+### vimösyös&emsp;<span kind="abugida">ɤɟƶ́ıɀ́ı</span>
 
 *public/communal* **§** Adjective
 

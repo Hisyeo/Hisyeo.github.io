@@ -6,7 +6,7 @@ sidebar_position: 473
 hoverText: to surrender (the surrendered) § Verb
 ---
 
-### duühon
+### duühon&emsp;<span kind="abugida">ʌʃɽʄɂ̃</span>
 
 *to surrender (the surrendered)* **§** Verb
 

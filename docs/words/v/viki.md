@@ -6,7 +6,7 @@ sidebar_position: 621
 hoverText: fast § Adjective
 ---
 
-### viki
+### viki&emsp;<span kind="abugida">ɤɟɔɟ</span>
 
 *fast* **§** Adjective
 

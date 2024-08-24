@@ -6,7 +6,7 @@ sidebar_position: 104
 hoverText: adamant/stubborn § Adjective
 ---
 
-### ülkëvi
+### ülkëvi&emsp;<span kind="abugida">ɽ͊ʄɔʇɤɟ</span>
 
 *adamant/stubborn* **§** Adjective
 

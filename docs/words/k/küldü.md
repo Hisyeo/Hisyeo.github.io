@@ -6,7 +6,7 @@ sidebar_position: 221
 hoverText: wheel § Noun
 ---
 
-### küldü
+### küldü&emsp;<span kind="abugida">ɔ͊ʄʌʄ</span>
 
 *wheel* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 570
 hoverText: bad § Adjective
 ---
 
-### pis
+### pis&emsp;<span kind="abugida">ʋ́ɟ</span>
 
 *bad* **§** Adjective
 

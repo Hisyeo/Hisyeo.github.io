@@ -6,7 +6,7 @@ sidebar_position: 683
 hoverText: late § Adjective
 ---
 
-### müun
+### müun&emsp;<span kind="abugida">ƶʄɽ̃ʃ</span>
 
 *late* **§** Adjective
 

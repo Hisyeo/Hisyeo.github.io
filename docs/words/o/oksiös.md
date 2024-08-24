@@ -6,7 +6,7 @@ sidebar_position: 5
 hoverText: worthy § Adjective
 ---
 
-### oksiös
+### oksiös&emsp;<span kind="abugida">ɽ̑ɐɟɽ́ı</span>
 
 *worthy* **§** Adjective
 

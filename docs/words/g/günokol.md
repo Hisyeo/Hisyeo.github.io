@@ -6,7 +6,7 @@ sidebar_position: 256
 hoverText: criminal § Adjective
 ---
 
-### günokol
+### günokol&emsp;<span kind="abugida">ꜿʄƨɔ͊</span>
 
 *criminal* **§** Adjective
 

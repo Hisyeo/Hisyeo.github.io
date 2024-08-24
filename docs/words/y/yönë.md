@@ -6,7 +6,7 @@ sidebar_position: 828
 hoverText: caprine § Noun
 ---
 
-### yönë
+### yönë&emsp;<span kind="abugida">ɀıƨʇ</span>
 
 *caprine* **§** Noun
 

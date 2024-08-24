@@ -6,7 +6,7 @@ sidebar_position: 316
 hoverText: to enforce (the enforced) § Verb
 ---
 
-### cıxin
+### cıxin&emsp;<span kind="abugida">ꞇȷɋ̃ɟ</span>
 
 *to enforce (the enforced)* **§** Verb
 

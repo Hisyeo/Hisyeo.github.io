@@ -6,7 +6,7 @@ sidebar_position: 68
 hoverText: claw § Noun
 ---
 
-### isipö
+### isipö&emsp;<span kind="abugida">ɽɟɐɟʋı</span>
 
 *claw* **§** Noun
 

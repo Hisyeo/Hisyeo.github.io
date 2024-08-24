@@ -6,7 +6,7 @@ sidebar_position: 768
 hoverText: comfortable § Adjective
 ---
 
-### lohot
+### lohot&emsp;<span kind="abugida">ʓɂ̆</span>
 
 *comfortable* **§** Adjective
 

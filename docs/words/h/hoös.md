@@ -6,7 +6,7 @@ sidebar_position: 107
 hoverText: chaotic § Adjective
 ---
 
-### hoös
+### hoös&emsp;<span kind="abugida">ɂɽ́ı</span>
 
 *chaotic* **§** Adjective
 

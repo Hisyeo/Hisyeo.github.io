@@ -6,7 +6,7 @@ sidebar_position: 673
 hoverText: beige § Adjective
 ---
 
-### mihüon
+### mihüon&emsp;<span kind="abugida">ƶɟɂʄɽ̃</span>
 
 *beige* **§** Adjective
 

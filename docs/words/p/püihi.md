@@ -6,7 +6,7 @@ sidebar_position: 585
 hoverText: timid/shy § Adjective
 ---
 
-### püihi
+### püihi&emsp;<span kind="abugida">ʋʄɽɟɂɟ</span>
 
 *timid/shy* **§** Adjective
 

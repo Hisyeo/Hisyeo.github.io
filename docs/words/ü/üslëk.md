@@ -6,7 +6,7 @@ sidebar_position: 96
 hoverText: to blow (a blown entity) § Verb
 ---
 
-### üslëk
+### üslëk&emsp;<span kind="abugida">ɽ́ʄʓ̑ʇ</span>
 
 *to blow (a blown entity)* **§** Verb
 

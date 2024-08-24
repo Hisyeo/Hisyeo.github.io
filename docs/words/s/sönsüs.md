@@ -6,7 +6,7 @@ sidebar_position: 372
 hoverText: endless/infinite § Adjective
 ---
 
-### sönsüs
+### sönsüs&emsp;<span kind="abugida">ɐ̃ıɐ́ʄ</span>
 
 *endless/infinite* **§** Adjective
 

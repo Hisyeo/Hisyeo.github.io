@@ -6,7 +6,7 @@ sidebar_position: 502
 hoverText: aggressive/emotional clause ender § Postposition
 ---
 
-### ze
+### ze&emsp;<span kind="abugida">ⱴɿ</span>
 
 *aggressive/emotional clause ender* **§** Postposition
 

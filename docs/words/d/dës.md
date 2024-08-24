@@ -6,7 +6,7 @@ sidebar_position: 462
 hoverText: negatitive verb modifier particle § Particle
 ---
 
-### dës
+### dës&emsp;<span kind="abugida">ʌ́ʇ</span>
 
 *negatitive verb modifier particle* **§** Particle
 

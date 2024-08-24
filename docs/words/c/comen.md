@@ -6,7 +6,7 @@ sidebar_position: 301
 hoverText: lawn/meadow § Noun
 ---
 
-### comen
+### comen&emsp;<span kind="abugida">ꞇƶ̃ɿ</span>
 
 *lawn/meadow* **§** Noun
 

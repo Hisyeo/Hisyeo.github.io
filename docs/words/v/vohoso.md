@@ -6,7 +6,7 @@ sidebar_position: 598
 hoverText: to examine [for] (an examination) § Verb
 ---
 
-### vohoso
+### vohoso&emsp;<span kind="abugida">ɤɂɐ</span>
 
 *to examine [for] (an examination)* **§** Verb
 

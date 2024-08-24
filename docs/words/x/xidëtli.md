@@ -6,7 +6,7 @@ sidebar_position: 435
 hoverText: strict § Adjective
 ---
 
-### xidëtli
+### xidëtli&emsp;<span kind="abugida">ɋɟʌ̆ʇʓɟ</span>
 
 *strict* **§** Adjective
 

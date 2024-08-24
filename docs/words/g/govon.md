@@ -6,7 +6,7 @@ sidebar_position: 225
 hoverText: disgusted § Adjective
 ---
 
-### govon
+### govon&emsp;<span kind="abugida">ꜿɤ̃</span>
 
 *disgusted* **§** Adjective
 

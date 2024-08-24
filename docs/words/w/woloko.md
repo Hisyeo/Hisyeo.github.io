@@ -6,7 +6,7 @@ sidebar_position: 746
 hoverText: leaf/petal § Noun
 ---
 
-### woloko
+### woloko&emsp;<span kind="abugida">ʒʓɔ</span>
 
 *leaf/petal* **§** Noun
 

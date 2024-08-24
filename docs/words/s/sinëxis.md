@@ -6,7 +6,7 @@ sidebar_position: 391
 hoverText: constant § Adjective
 ---
 
-### sinëxis
+### sinëxis&emsp;<span kind="abugida">ɐɟƨʇɋ́ɟ</span>
 
 *constant* **§** Adjective
 

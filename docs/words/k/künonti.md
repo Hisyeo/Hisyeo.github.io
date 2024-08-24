@@ -6,7 +6,7 @@ sidebar_position: 215
 hoverText: communication § Noun
 ---
 
-### künonti
+### künonti&emsp;<span kind="abugida">ɔʄƨ̃cɟ</span>
 
 *communication* **§** Noun
 

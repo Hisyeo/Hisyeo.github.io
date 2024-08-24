@@ -6,7 +6,7 @@ sidebar_position: 655
 hoverText: content § Noun
 ---
 
-### mötowo
+### mötowo&emsp;<span kind="abugida">ƶıcʒ</span>
 
 *content* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 607
 hoverText: algae/moss § Noun
 ---
 
-### vödoloc
+### vödoloc&emsp;<span kind="abugida">ɤıʌʓ̄</span>
 
 *algae/moss* **§** Noun
 

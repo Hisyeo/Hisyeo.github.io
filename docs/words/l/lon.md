@@ -6,7 +6,7 @@ sidebar_position: 774
 hoverText: distance/duration marker (for) § Preposition
 ---
 
-### lon
+### lon&emsp;<span kind="abugida">ʓ̃</span>
 
 *distance/duration marker (for)* **§** Preposition
 

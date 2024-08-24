@@ -6,7 +6,7 @@ sidebar_position: 35
 hoverText: bone § Noun
 ---
 
-### östi
+### östi&emsp;<span kind="abugida">ɽ́ıcɟ</span>
 
 *bone* **§** Noun
 

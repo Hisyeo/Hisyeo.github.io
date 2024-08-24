@@ -6,7 +6,7 @@ sidebar_position: 302
 hoverText: beak § Noun
 ---
 
-### conöi
+### conöi&emsp;<span kind="abugida">ꞇƨıɽɟ</span>
 
 *beak* **§** Noun
 

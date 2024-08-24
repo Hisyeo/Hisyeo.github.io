@@ -6,7 +6,7 @@ sidebar_position: 80
 hoverText: ugly § Adjective
 ---
 
-### usündul
+### usündul&emsp;<span kind="abugida">ɽʃɐ̃ʄʌ͊ʃ</span>
 
 *ugly* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 691
 hoverText: to release/drop (the released/dropped) § Verb
 ---
 
-### müncoti
+### müncoti&emsp;<span kind="abugida">ƶ̃ʄꞇcɟ</span>
 
 *to release/drop (the released/dropped)* **§** Verb
 

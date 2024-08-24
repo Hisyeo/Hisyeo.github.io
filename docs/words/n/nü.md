@@ -6,7 +6,7 @@ sidebar_position: 737
 hoverText: we/us § Pronoun
 ---
 
-### nü
+### nü&emsp;<span kind="abugida">ƨʄ</span>
 
 *we/us* **§** Pronoun
 

@@ -6,7 +6,7 @@ sidebar_position: 22
 hoverText: rice § Noun
 ---
 
-### onomü
+### onomü&emsp;<span kind="abugida">ɽƨƶʄ</span>
 
 *rice* **§** Noun
 

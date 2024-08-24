@@ -6,7 +6,7 @@ sidebar_position: 200
 hoverText: chemical § Noun
 ---
 
-### kinyosel
+### kinyosel&emsp;<span kind="abugida">ɔ̃ɟɀɐ͊ɿ</span>
 
 *chemical* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 97
 hoverText: savory § Adjective
 ---
 
-### ümomi
+### ümomi&emsp;<span kind="abugida">ɽʄƶƶɟ</span>
 
 *savory* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 71
 hoverText: problem § Noun
 ---
 
-### ixölö
+### ixölö&emsp;<span kind="abugida">ɽɟɋıʓı</span>
 
 *problem* **§** Noun
 

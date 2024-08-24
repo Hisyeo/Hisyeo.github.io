@@ -6,7 +6,7 @@ sidebar_position: 51
 hoverText: cheek § Noun
 ---
 
-### elekë
+### elekë&emsp;<span kind="abugida">ɽɿʓɿɔʇ</span>
 
 *cheek* **§** Noun
 

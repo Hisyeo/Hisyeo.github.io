@@ -6,7 +6,7 @@ sidebar_position: 127
 hoverText: dream § Noun
 ---
 
-### hölmo
+### hölmo&emsp;<span kind="abugida">ɂ͊ıƶ</span>
 
 *dream* **§** Noun
 

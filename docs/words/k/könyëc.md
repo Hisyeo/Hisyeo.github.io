@@ -6,7 +6,7 @@ sidebar_position: 181
 hoverText: ending § Adjective
 ---
 
-### könyëc
+### könyëc&emsp;<span kind="abugida">ɔ̃ıɀ̄ʇ</span>
 
 *ending* **§** Adjective
 

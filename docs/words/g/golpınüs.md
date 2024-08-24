@@ -6,7 +6,7 @@ sidebar_position: 233
 hoverText: chartreuse § Adjective
 ---
 
-### golpınüs
+### golpınüs&emsp;<span kind="abugida">ꜿ͊ʋȷƨ́ʄ</span>
 
 *chartreuse* **§** Adjective
 

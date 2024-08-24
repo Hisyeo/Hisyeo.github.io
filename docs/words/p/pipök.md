@@ -6,7 +6,7 @@ sidebar_position: 571
 hoverText: white § Adjective
 ---
 
-### pipök
+### pipök&emsp;<span kind="abugida">ʋɟʋ̑ı</span>
 
 *white* **§** Adjective
 

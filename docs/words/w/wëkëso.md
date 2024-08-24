@@ -6,7 +6,7 @@ sidebar_position: 752
 hoverText: to invest [in] (an investee) § Verb
 ---
 
-### wëkëso
+### wëkëso&emsp;<span kind="abugida">ʒʇɔʇɐ</span>
 
 *to invest [in] (an investee)* **§** Verb
 

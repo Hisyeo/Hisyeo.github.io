@@ -6,7 +6,7 @@ sidebar_position: 411
 hoverText: each § Determiner
 ---
 
-### xokön
+### xokön&emsp;<span kind="abugida">ɋɔ̃ı</span>
 
 *each* **§** Determiner
 

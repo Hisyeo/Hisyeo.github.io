@@ -6,7 +6,7 @@ sidebar_position: 279
 hoverText: strip/band § Noun
 ---
 
-### tënio
+### tënio&emsp;<span kind="abugida">cʇƨɟɽ</span>
 
 *strip/band* **§** Noun
 

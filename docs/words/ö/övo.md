@@ -6,7 +6,7 @@ sidebar_position: 40
 hoverText: proximal demonstrative (this/here) § Pronoun
 ---
 
-### övo
+### övo&emsp;<span kind="abugida">ɽıɤ</span>
 
 *proximal demonstrative (this/here)* **§** Pronoun
 

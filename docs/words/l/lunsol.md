@@ -6,7 +6,7 @@ sidebar_position: 805
 hoverText: to launch (a projectile) § Verb
 ---
 
-### lunsol
+### lunsol&emsp;<span kind="abugida">ʓ̃ʃɐ͊</span>
 
 *to launch (a projectile)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 717
 hoverText: reason/cause marker (because of) § Preposition
 ---
 
-### nënko
+### nënko&emsp;<span kind="abugida">ƨ̃ʇɔ</span>
 
 *reason/cause marker (because of)* **§** Preposition
 

@@ -6,7 +6,7 @@ sidebar_position: 235
 hoverText: to choose (a choice) § Verb
 ---
 
-### göcidon
+### göcidon&emsp;<span kind="abugida">ꜿıꞇɟʌ̃</span>
 
 *to choose (a choice)* **§** Verb
 

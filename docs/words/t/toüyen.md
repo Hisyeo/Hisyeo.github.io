@@ -6,7 +6,7 @@ sidebar_position: 261
 hoverText: to hate (a hated entity) § Verb
 ---
 
-### toüyen
+### toüyen&emsp;<span kind="abugida">cɽʄɀ̃ɿ</span>
 
 *to hate (a hated entity)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 311
 hoverText: thin § Adjective
 ---
 
-### cenci
+### cenci&emsp;<span kind="abugida">ꞇ̃ɿꞇɟ</span>
 
 *thin* **§** Adjective
 

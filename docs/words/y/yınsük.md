@@ -6,7 +6,7 @@ sidebar_position: 830
 hoverText: serious § Adjective
 ---
 
-### yınsük
+### yınsük&emsp;<span kind="abugida">ɀ̃ȷɐ̑ʄ</span>
 
 *serious* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 420
 hoverText: teal § Adjective
 ---
 
-### xolxili
+### xolxili&emsp;<span kind="abugida">ɋ͊ɋɟʓɟ</span>
 
 *teal* **§** Adjective
 

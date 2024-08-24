@@ -6,7 +6,7 @@ sidebar_position: 76
 hoverText: flower § Noun
 ---
 
-### inpoli
+### inpoli&emsp;<span kind="abugida">ɽ̃ɟʋʓɟ</span>
 
 *flower* **§** Noun
 

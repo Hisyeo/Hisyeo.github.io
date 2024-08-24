@@ -6,7 +6,7 @@ sidebar_position: 759
 hoverText: humble § Adjective
 ---
 
-### wınit
+### wınit&emsp;<span kind="abugida">ʒȷƨ̆ɟ</span>
 
 *humble* **§** Adjective
 

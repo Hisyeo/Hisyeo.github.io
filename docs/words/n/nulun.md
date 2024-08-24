@@ -6,7 +6,7 @@ sidebar_position: 734
 hoverText: soft § Adjective
 ---
 
-### nulun
+### nulun&emsp;<span kind="abugida">ƨʃʓ̃ʃ</span>
 
 *soft* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 544
 hoverText: to cause (an effect) § Verb
 ---
 
-### pön
+### pön&emsp;<span kind="abugida">ʋ̃ı</span>
 
 *to cause (an effect)* **§** Verb
 

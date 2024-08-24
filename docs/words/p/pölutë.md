@@ -6,7 +6,7 @@ sidebar_position: 546
 hoverText: foreign § Adjective
 ---
 
-### pölutë
+### pölutë&emsp;<span kind="abugida">ʋıʓʃcʇ</span>
 
 *foreign* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 380
 hoverText: heaven § Noun
 ---
 
-### sëmoı
+### sëmoı&emsp;<span kind="abugida">ɐʇƶɽȷ</span>
 
 *heaven* **§** Noun
 

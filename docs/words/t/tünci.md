@@ -6,7 +6,7 @@ sidebar_position: 294
 hoverText: nonbinary/queer § Adjective
 ---
 
-### tünci
+### tünci&emsp;<span kind="abugida">c̃ʄꞇɟ</span>
 
 *nonbinary/queer* **§** Adjective
 

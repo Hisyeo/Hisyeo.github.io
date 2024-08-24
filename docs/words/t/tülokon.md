@@ -6,7 +6,7 @@ sidebar_position: 295
 hoverText: to adjudge (judgement) § Verb
 ---
 
-### tülokon
+### tülokon&emsp;<span kind="abugida">cʄʓɔ̃</span>
 
 *to adjudge (judgement)* **§** Verb
 

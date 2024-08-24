@@ -6,7 +6,7 @@ sidebar_position: 12
 hoverText: ancient § Adjective
 ---
 
-### osyen
+### osyen&emsp;<span kind="abugida">ɽ́ɀ̃ɿ</span>
 
 *ancient* **§** Adjective
 

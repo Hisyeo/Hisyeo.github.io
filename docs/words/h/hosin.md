@@ -6,7 +6,7 @@ sidebar_position: 113
 hoverText: beautiful § Adjective
 ---
 
-### hosin
+### hosin&emsp;<span kind="abugida">ɂɐ̃ɟ</span>
 
 *beautiful* **§** Adjective
 

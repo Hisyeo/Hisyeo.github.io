@@ -6,7 +6,7 @@ sidebar_position: 576
 hoverText: frozen § Adjective
 ---
 
-### pukü
+### pukü&emsp;<span kind="abugida">ʋʃɔʄ</span>
 
 *frozen* **§** Adjective
 

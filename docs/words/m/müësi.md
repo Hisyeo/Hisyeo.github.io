@@ -6,7 +6,7 @@ sidebar_position: 682
 hoverText: moon § Noun
 ---
 
-### müësi
+### müësi&emsp;<span kind="abugida">ƶʄɽʇɐɟ</span>
 
 *moon* **§** Noun
 

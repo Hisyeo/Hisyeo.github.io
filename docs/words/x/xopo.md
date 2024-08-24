@@ -6,7 +6,7 @@ sidebar_position: 413
 hoverText: to strike (the stricken)  § Verb
 ---
 
-### xopo
+### xopo&emsp;<span kind="abugida">ɋʋ</span>
 
 *to strike (the stricken) * **§** Verb
 

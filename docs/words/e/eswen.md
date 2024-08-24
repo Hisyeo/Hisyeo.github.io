@@ -6,7 +6,7 @@ sidebar_position: 48
 hoverText: more § Determiner
 ---
 
-### eswen
+### eswen&emsp;<span kind="abugida">ɽ́ɿʒ̃ɿ</span>
 
 *more* **§** Determiner
 

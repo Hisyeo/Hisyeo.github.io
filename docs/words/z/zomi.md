@@ -6,7 +6,7 @@ sidebar_position: 491
 hoverText: society/culture § Noun
 ---
 
-### zomi
+### zomi&emsp;<span kind="abugida">ⱴƶɟ</span>
 
 *society/culture* **§** Noun
 

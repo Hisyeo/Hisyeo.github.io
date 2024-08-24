@@ -6,7 +6,7 @@ sidebar_position: 445
 hoverText: hell § Noun
 ---
 
-### xüxok
+### xüxok&emsp;<span kind="abugida">ɋʄɋ̑</span>
 
 *hell* **§** Noun
 

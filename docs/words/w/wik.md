@@ -6,7 +6,7 @@ sidebar_position: 760
 hoverText: head § Noun
 ---
 
-### wik
+### wik&emsp;<span kind="abugida">ʒ̑ɟ</span>
 
 *head* **§** Noun
 

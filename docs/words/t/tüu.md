@@ -6,7 +6,7 @@ sidebar_position: 292
 hoverText: to do (an action) § Verb
 ---
 
-### tüu
+### tüu&emsp;<span kind="abugida">cʄɽʃ</span>
 
 *to do (an action)* **§** Verb
 

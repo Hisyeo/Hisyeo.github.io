@@ -6,7 +6,7 @@ sidebar_position: 514
 hoverText: deep § Adjective
 ---
 
-### zilyois
+### zilyois&emsp;<span kind="abugida">ⱴ͊ɟɀɽ́ɟ</span>
 
 *deep* **§** Adjective
 

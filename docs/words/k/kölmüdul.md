@@ -6,7 +6,7 @@ sidebar_position: 183
 hoverText: purchase § Noun
 ---
 
-### kölmüdul
+### kölmüdul&emsp;<span kind="abugida">ɔ͊ıƶʄʌ͊ʃ</span>
 
 *purchase* **§** Noun
 

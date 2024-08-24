@@ -6,7 +6,7 @@ sidebar_position: 815
 hoverText: part/piece § Noun
 ---
 
-### yogö
+### yogö&emsp;<span kind="abugida">ɀꜿı</span>
 
 *part/piece* **§** Noun
 

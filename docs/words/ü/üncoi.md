@@ -6,7 +6,7 @@ sidebar_position: 100
 hoverText: proud § Adjective
 ---
 
-### üncoi
+### üncoi&emsp;<span kind="abugida">ɽ̃ʄꞇɽɟ</span>
 
 *proud* **§** Adjective
 

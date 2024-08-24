@@ -6,7 +6,7 @@ sidebar_position: 538
 hoverText: cloth/fabric § Noun
 ---
 
-### polce
+### polce&emsp;<span kind="abugida">ʋ͊ꞇɿ</span>
 
 *cloth/fabric* **§** Noun
 

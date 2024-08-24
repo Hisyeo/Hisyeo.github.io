@@ -6,7 +6,7 @@ sidebar_position: 467
 hoverText: neutral § Adjective
 ---
 
-### didözü
+### didözü&emsp;<span kind="abugida">ʌɟʌıⱴʄ</span>
 
 *neutral* **§** Adjective
 

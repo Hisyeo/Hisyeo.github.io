@@ -6,7 +6,7 @@ sidebar_position: 25
 hoverText: to hug (the hugged) § Verb
 ---
 
-### onküol
+### onküol&emsp;<span kind="abugida">ɽ̃ɔʄɽ͊</span>
 
 *to hug (the hugged)* **§** Verb
 

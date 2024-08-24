@@ -6,7 +6,7 @@ sidebar_position: 378
 hoverText: coal/cinder § Noun
 ---
 
-### sëkiton
+### sëkiton&emsp;<span kind="abugida">ɐʇɔɟc̃</span>
 
 *coal/cinder* **§** Noun
 

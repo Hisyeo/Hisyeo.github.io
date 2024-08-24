@@ -6,7 +6,7 @@ sidebar_position: 111
 hoverText: clapping/applauding § Adjective
 ---
 
-### hoküxı
+### hoküxı&emsp;<span kind="abugida">ɂɔʄɋȷ</span>
 
 *clapping/applauding* **§** Adjective
 

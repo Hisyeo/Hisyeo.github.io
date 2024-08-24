@@ -6,7 +6,7 @@ sidebar_position: 54
 hoverText: shoulder § Noun
 ---
 
-### ëpöl
+### ëpöl&emsp;<span kind="abugida">ɽʇʋ͊ı</span>
 
 *shoulder* **§** Noun
 

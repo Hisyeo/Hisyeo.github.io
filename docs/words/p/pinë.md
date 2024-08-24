@@ -6,7 +6,7 @@ sidebar_position: 572
 hoverText: then § Conjunction
 ---
 
-### pinë
+### pinë&emsp;<span kind="abugida">ʋɟƨʇ</span>
 
 *then* **§** Conjunction
 

@@ -6,7 +6,7 @@ sidebar_position: 486
 hoverText: far § Adjective
 ---
 
-### zoük
+### zoük&emsp;<span kind="abugida">ⱴɽ̑ʄ</span>
 
 *far* **§** Adjective
 

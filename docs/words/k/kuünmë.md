@@ -6,7 +6,7 @@ sidebar_position: 201
 hoverText: technology § Noun
 ---
 
-### kuünmë
+### kuünmë&emsp;<span kind="abugida">ɔʃɽ̃ʄƶʇ</span>
 
 *technology* **§** Noun
 

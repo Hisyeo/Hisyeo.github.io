@@ -6,7 +6,7 @@ sidebar_position: 534
 hoverText: facing/pointing § Adjective
 ---
 
-### pono
+### pono&emsp;<span kind="abugida">ʋƨ</span>
 
 *facing/pointing* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 281
 hoverText: creative § Adjective
 ---
 
-### tıvülcı
+### tıvülcı&emsp;<span kind="abugida">cȷɤ͊ʄꞇȷ</span>
 
 *creative* **§** Adjective
 

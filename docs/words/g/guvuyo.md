@@ -6,7 +6,7 @@ sidebar_position: 247
 hoverText: shop/market § Noun
 ---
 
-### guvuyo
+### guvuyo&emsp;<span kind="abugida">ꜿʃɤʃɀ</span>
 
 *shop/market* **§** Noun
 

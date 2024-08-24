@@ -6,7 +6,7 @@ sidebar_position: 646
 hoverText: cream/paste § Noun
 ---
 
-### mozün
+### mozün&emsp;<span kind="abugida">ƶⱴ̃ʄ</span>
 
 *cream/paste* **§** Noun
 

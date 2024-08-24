@@ -6,7 +6,7 @@ sidebar_position: 643
 hoverText: male § Adjective
 ---
 
-### moskül
+### moskül&emsp;<span kind="abugida">ƶ́ɔ͊ʄ</span>
 
 *male* **§** Adjective
 

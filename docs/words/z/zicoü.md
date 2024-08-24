@@ -6,7 +6,7 @@ sidebar_position: 510
 hoverText: to train (a skill/ability) § Verb
 ---
 
-### zicoü
+### zicoü&emsp;<span kind="abugida">ⱴɟꞇɽʄ</span>
 
 *to train (a skill/ability)* **§** Verb
 

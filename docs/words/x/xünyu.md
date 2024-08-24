@@ -6,7 +6,7 @@ sidebar_position: 446
 hoverText: 00 zero § Numeral
 ---
 
-### xünyu
+### xünyu&emsp;<span kind="abugida">ɋ̃ʄɀʃ</span>
 
 *00 zero* **§** Numeral
 

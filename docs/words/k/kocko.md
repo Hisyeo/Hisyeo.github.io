@@ -6,7 +6,7 @@ sidebar_position: 155
 hoverText: rough § Adjective
 ---
 
-### kocko
+### kocko&emsp;<span kind="abugida">ɔ̄ɔ</span>
 
 *rough* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 548
 hoverText: to mean (a meaning) § Verb
 ---
 
-### petido
+### petido&emsp;<span kind="abugida">ʋɿcɟʌ</span>
 
 *to mean (a meaning)* **§** Verb
 

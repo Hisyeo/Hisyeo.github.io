@@ -6,7 +6,7 @@ sidebar_position: 471
 hoverText: slow § Adjective
 ---
 
-### dilë
+### dilë&emsp;<span kind="abugida">ʌɟʓʇ</span>
 
 *slow* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 178
 hoverText: condensed/concentrated § Adjective
 ---
 
-### köndonsë
+### köndonsë&emsp;<span kind="abugida">ɔ̃ıʌ̃ɐʇ</span>
 
 *condensed/concentrated* **§** Adjective
 

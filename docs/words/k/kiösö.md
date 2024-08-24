@@ -6,7 +6,7 @@ sidebar_position: 191
 hoverText: athletic § Adjective
 ---
 
-### kiösö
+### kiösö&emsp;<span kind="abugida">ɔɟɽıɐı</span>
 
 *athletic* **§** Adjective
 

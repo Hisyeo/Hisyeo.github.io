@@ -6,7 +6,7 @@ sidebar_position: 714
 hoverText: famous § Adjective
 ---
 
-### nendol
+### nendol&emsp;<span kind="abugida">ƨ̃ɿʌ͊</span>
 
 *famous* **§** Adjective
 

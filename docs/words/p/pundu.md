@@ -6,7 +6,7 @@ sidebar_position: 582
 hoverText: closed § Adjective
 ---
 
-### pundu
+### pundu&emsp;<span kind="abugida">ʋ̃ʃʌʃ</span>
 
 *closed* **§** Adjective
 

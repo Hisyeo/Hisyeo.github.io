@@ -6,7 +6,7 @@ sidebar_position: 730
 hoverText: copy § Noun
 ---
 
-### nukulö
+### nukulö&emsp;<span kind="abugida">ƨʃɔʃʓı</span>
 
 *copy* **§** Noun
 

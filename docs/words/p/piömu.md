@@ -6,7 +6,7 @@ sidebar_position: 565
 hoverText: biome § Noun
 ---
 
-### piömu
+### piömu&emsp;<span kind="abugida">ʋɟɽıƶʃ</span>
 
 *biome* **§** Noun
 

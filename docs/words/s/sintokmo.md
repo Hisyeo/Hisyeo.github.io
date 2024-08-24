@@ -6,7 +6,7 @@ sidebar_position: 392
 hoverText: phrase § Noun
 ---
 
-### sintokmo
+### sintokmo&emsp;<span kind="abugida">ɐ̃ɟc̑ƶ</span>
 
 *phrase* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 804
 hoverText: to ship/send (a package) § Verb
 ---
 
-### luvono
+### luvono&emsp;<span kind="abugida">ʓʃɤƨ</span>
 
 *to ship/send (a package)* **§** Verb
 

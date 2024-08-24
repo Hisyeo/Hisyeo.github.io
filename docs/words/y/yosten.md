@@ -6,7 +6,7 @@ sidebar_position: 818
 hoverText: to find (a discovery) § Verb
 ---
 
-### yosten
+### yosten&emsp;<span kind="abugida">ɀ́c̃ɿ</span>
 
 *to find (a discovery)* **§** Verb
 

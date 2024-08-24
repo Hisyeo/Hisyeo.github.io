@@ -6,7 +6,7 @@ sidebar_position: 702
 hoverText: venom/poison § Noun
 ---
 
-### nozi
+### nozi&emsp;<span kind="abugida">ƨⱴɟ</span>
 
 *venom/poison* **§** Noun
 

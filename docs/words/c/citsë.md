@@ -6,7 +6,7 @@ sidebar_position: 330
 hoverText: to accuse (an accusation) § Verb
 ---
 
-### citsë
+### citsë&emsp;<span kind="abugida">ꞇ̆ɟɐʇ</span>
 
 *to accuse (an accusation)* **§** Verb
 

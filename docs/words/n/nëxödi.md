@@ -6,7 +6,7 @@ sidebar_position: 716
 hoverText: ethnic § Adjective
 ---
 
-### nëxödi
+### nëxödi&emsp;<span kind="abugida">ƨʇɋıʌɟ</span>
 
 *ethnic* **§** Adjective
 

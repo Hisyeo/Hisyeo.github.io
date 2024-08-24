@@ -6,7 +6,7 @@ sidebar_position: 457
 hoverText: to receive (the received) § Verb
 ---
 
-### döstoc
+### döstoc&emsp;<span kind="abugida">ʌ́ıc̄</span>
 
 *to receive (the received)* **§** Verb
 

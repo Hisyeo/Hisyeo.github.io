@@ -6,7 +6,7 @@ sidebar_position: 461
 hoverText: detail § Noun
 ---
 
-### dëtoi
+### dëtoi&emsp;<span kind="abugida">ʌʇcɽɟ</span>
 
 *detail* **§** Noun
 

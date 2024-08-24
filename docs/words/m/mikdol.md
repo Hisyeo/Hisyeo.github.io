@@ -6,7 +6,7 @@ sidebar_position: 674
 hoverText: amount § Noun
 ---
 
-### mikdol
+### mikdol&emsp;<span kind="abugida">ƶ̑ɟʌ͊</span>
 
 *amount* **§** Noun
 

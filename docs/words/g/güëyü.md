@@ -6,7 +6,7 @@ sidebar_position: 250
 hoverText: eye § Noun
 ---
 
-### güëyü
+### güëyü&emsp;<span kind="abugida">ꜿʄɽʇɀʄ</span>
 
 *eye* **§** Noun
 

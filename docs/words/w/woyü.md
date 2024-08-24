@@ -6,7 +6,7 @@ sidebar_position: 747
 hoverText: air/wind § Noun
 ---
 
-### woyü
+### woyü&emsp;<span kind="abugida">ʒɀʄ</span>
 
 *air/wind* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 175
 hoverText: horn/spike § Noun
 ---
 
-### kömü
+### kömü&emsp;<span kind="abugida">ɔıƶʄ</span>
 
 *horn/spike* **§** Noun
 

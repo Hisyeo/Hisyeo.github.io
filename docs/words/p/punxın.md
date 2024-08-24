@@ -6,7 +6,7 @@ sidebar_position: 581
 hoverText: innate/native § Adjective
 ---
 
-### punxın
+### punxın&emsp;<span kind="abugida">ʋ̃ʃɋ̃ȷ</span>
 
 *innate/native* **§** Adjective
 

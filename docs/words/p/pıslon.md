@@ -6,7 +6,7 @@ sidebar_position: 560
 hoverText: thus far § Adjective
 ---
 
-### pıslon
+### pıslon&emsp;<span kind="abugida">ʋ́ȷʓ̃</span>
 
 *thus far* **§** Adjective
 

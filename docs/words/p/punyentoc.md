@@ -6,7 +6,7 @@ sidebar_position: 583
 hoverText: to remember (a memory) § Verb
 ---
 
-### punyentoc
+### punyentoc&emsp;<span kind="abugida">ʋ̃ʃɀ̃ɿc̄</span>
 
 *to remember (a memory)* **§** Verb
 

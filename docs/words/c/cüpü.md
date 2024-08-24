@@ -6,7 +6,7 @@ sidebar_position: 345
 hoverText: fermented/soured § Adjective
 ---
 
-### cüpü
+### cüpü&emsp;<span kind="abugida">ꞇʄʋʄ</span>
 
 *fermented/soured* **§** Adjective
 

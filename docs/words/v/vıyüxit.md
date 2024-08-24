@@ -6,7 +6,7 @@ sidebar_position: 619
 hoverText: to employ (the employed) § Verb
 ---
 
-### vıyüxit
+### vıyüxit&emsp;<span kind="abugida">ɤȷɀʄɋ̆ɟ</span>
 
 *to employ (the employed)* **§** Verb
 

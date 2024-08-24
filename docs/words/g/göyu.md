@@ -6,7 +6,7 @@ sidebar_position: 239
 hoverText: mouth § Noun
 ---
 
-### göyu
+### göyu&emsp;<span kind="abugida">ꜿıɀʃ</span>
 
 *mouth* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 638
 hoverText: to squeeze (squeezable entity) § Verb
 ---
 
-### vünpö
+### vünpö&emsp;<span kind="abugida">ɤ̃ʄʋı</span>
 
 *to squeeze (squeezable entity)* **§** Verb
 

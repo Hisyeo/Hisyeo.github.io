@@ -6,7 +6,7 @@ sidebar_position: 798
 hoverText: smooth § Adjective
 ---
 
-### lis
+### lis&emsp;<span kind="abugida">ʓ́ɟ</span>
 
 *smooth* **§** Adjective
 

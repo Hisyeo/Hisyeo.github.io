@@ -6,7 +6,7 @@ sidebar_position: 162
 hoverText: hard § Adjective
 ---
 
-### konpı
+### konpı&emsp;<span kind="abugida">ɔ̃ʋȷ</span>
 
 *hard* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 604
 hoverText: absent/nonexistent § Adjective
 ---
 
-### vonmot
+### vonmot&emsp;<span kind="abugida">ɤ̃ƶ̆</span>
 
 *absent/nonexistent* **§** Adjective
 

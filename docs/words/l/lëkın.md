@@ -6,7 +6,7 @@ sidebar_position: 789
 hoverText: but § Conjunction
 ---
 
-### lëkın
+### lëkın&emsp;<span kind="abugida">ʓʇɔ̃ȷ</span>
 
 *but* **§** Conjunction
 

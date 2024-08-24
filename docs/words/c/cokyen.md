@@ -6,7 +6,7 @@ sidebar_position: 299
 hoverText: almost § Adjective
 ---
 
-### cokyen
+### cokyen&emsp;<span kind="abugida">ꞇ̑ɀ̃ɿ</span>
 
 *almost* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 327
 hoverText: to pull/attract (the pulled/attracted) § Verb
 ---
 
-### cihun
+### cihun&emsp;<span kind="abugida">ꞇɟɂ̃ʃ</span>
 
 *to pull/attract (the pulled/attracted)* **§** Verb
 

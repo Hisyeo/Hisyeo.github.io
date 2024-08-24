@@ -6,7 +6,7 @@ sidebar_position: 751
 hoverText: to place (the placed) § Verb
 ---
 
-### wëko
+### wëko&emsp;<span kind="abugida">ʒʇɔ</span>
 
 *to place (the placed)* **§** Verb
 

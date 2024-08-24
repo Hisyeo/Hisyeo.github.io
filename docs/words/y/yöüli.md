@@ -6,7 +6,7 @@ sidebar_position: 824
 hoverText: beneficial § Adjective
 ---
 
-### yöüli
+### yöüli&emsp;<span kind="abugida">ɀıɽʄʓɟ</span>
 
 *beneficial* **§** Adjective
 

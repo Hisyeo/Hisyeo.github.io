@@ -6,7 +6,7 @@ sidebar_position: 286
 hoverText: threat § Noun
 ---
 
-### tixö
+### tixö&emsp;<span kind="abugida">cɟɋı</span>
 
 *threat* **§** Noun
 

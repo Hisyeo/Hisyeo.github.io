@@ -6,7 +6,7 @@ sidebar_position: 242
 hoverText: soil/dirt § Noun
 ---
 
-### gëkö
+### gëkö&emsp;<span kind="abugida">ꜿʇɔı</span>
 
 *soil/dirt* **§** Noun
 

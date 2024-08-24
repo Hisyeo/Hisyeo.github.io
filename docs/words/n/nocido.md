@@ -6,7 +6,7 @@ sidebar_position: 698
 hoverText: to lose/waste (the lost/wasted) § Verb
 ---
 
-### nocido
+### nocido&emsp;<span kind="abugida">ƨꞇɟʌ</span>
 
 *to lose/waste (the lost/wasted)* **§** Verb
 

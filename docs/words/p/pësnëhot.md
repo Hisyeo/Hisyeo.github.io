@@ -6,7 +6,7 @@ sidebar_position: 555
 hoverText: to suggest (a suggestion) § Verb
 ---
 
-### pësnëhot
+### pësnëhot&emsp;<span kind="abugida">ʋ́ʇƨʇɂ̆</span>
 
 *to suggest (a suggestion)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 562
 hoverText: bay/golf § Noun
 ---
 
-### pınlëö
+### pınlëö&emsp;<span kind="abugida">ʋ̃ȷʓʇɽı</span>
 
 *bay/golf* **§** Noun
 

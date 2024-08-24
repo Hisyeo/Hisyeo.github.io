@@ -6,7 +6,7 @@ sidebar_position: 66
 hoverText: to inherit (inheritance) § Verb
 ---
 
-### icwon
+### icwon&emsp;<span kind="abugida">ɽ̄ɟʒ̃</span>
 
 *to inherit (inheritance)* **§** Verb
 

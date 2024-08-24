@@ -6,7 +6,7 @@ sidebar_position: 542
 hoverText: to govern (the governed) § Verb
 ---
 
-### pöklön
+### pöklön&emsp;<span kind="abugida">ʋ̑ıʓ̃ı</span>
 
 *to govern (the governed)* **§** Verb
 

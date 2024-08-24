@@ -6,7 +6,7 @@ sidebar_position: 194
 hoverText: bitter § Adjective
 ---
 
-### kikölö
+### kikölö&emsp;<span kind="abugida">ɔɟɔıʓı</span>
 
 *bitter* **§** Adjective
 

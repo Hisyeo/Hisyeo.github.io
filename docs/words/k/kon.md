@@ -6,7 +6,7 @@ sidebar_position: 157
 hoverText: abstract verb noun particle § Particle
 ---
 
-### kon
+### kon&emsp;<span kind="abugida">ɔ̃</span>
 
 *abstract verb noun particle* **§** Particle
 

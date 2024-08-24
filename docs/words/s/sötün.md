@@ -6,7 +6,7 @@ sidebar_position: 370
 hoverText: column § Noun
 ---
 
-### sötün
+### sötün&emsp;<span kind="abugida">ɐıc̃ʄ</span>
 
 *column* **§** Noun
 

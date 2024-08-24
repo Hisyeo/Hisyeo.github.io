@@ -6,7 +6,7 @@ sidebar_position: 91
 hoverText: also § Adjective
 ---
 
-### ütok
+### ütok&emsp;<span kind="abugida">ɽʄc̑</span>
 
 *also* **§** Adjective
 

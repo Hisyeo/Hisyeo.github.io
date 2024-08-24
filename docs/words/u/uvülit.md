@@ -6,7 +6,7 @@ sidebar_position: 83
 hoverText: bored § Adjective
 ---
 
-### uvülit
+### uvülit&emsp;<span kind="abugida">ɽʃɤʄʓ̆ɟ</span>
 
 *bored* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 169
 hoverText: hindering/detrimental § Adjective
 ---
 
-### kötiköl
+### kötiköl&emsp;<span kind="abugida">ɔıcɟɔ͊ı</span>
 
 *hindering/detrimental* **§** Adjective
 

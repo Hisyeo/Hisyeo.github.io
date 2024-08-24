@@ -6,7 +6,7 @@ sidebar_position: 439
 hoverText: to hope/wish (a hope/wish) § Verb
 ---
 
-### xiwon
+### xiwon&emsp;<span kind="abugida">ɋɟʒ̃</span>
 
 *to hope/wish (a hope/wish)* **§** Verb
 

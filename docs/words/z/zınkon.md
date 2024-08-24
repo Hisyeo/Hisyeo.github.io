@@ -6,7 +6,7 @@ sidebar_position: 507
 hoverText: door § Noun
 ---
 
-### zınkon
+### zınkon&emsp;<span kind="abugida">ⱴ̃ȷɔ̃</span>
 
 *door* **§** Noun
 

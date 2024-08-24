@@ -6,7 +6,7 @@ sidebar_position: 106
 hoverText: energy/power § Noun
 ---
 
-### ülzo
+### ülzo&emsp;<span kind="abugida">ɽ͊ʄⱴ</span>
 
 *energy/power* **§** Noun
 

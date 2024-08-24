@@ -6,7 +6,7 @@ sidebar_position: 196
 hoverText: rail/rack/bar § Noun
 ---
 
-### kiskö
+### kiskö&emsp;<span kind="abugida">ɔ́ɟɔı</span>
 
 *rail/rack/bar* **§** Noun
 

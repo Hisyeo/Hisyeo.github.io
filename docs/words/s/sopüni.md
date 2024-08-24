@@ -6,7 +6,7 @@ sidebar_position: 362
 hoverText: ill/sick § Adjective
 ---
 
-### sopüni
+### sopüni&emsp;<span kind="abugida">ɐʋʄƨɟ</span>
 
 *ill/sick* **§** Adjective
 

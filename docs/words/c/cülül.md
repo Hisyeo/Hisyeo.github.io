@@ -6,7 +6,7 @@ sidebar_position: 350
 hoverText: coil § Noun
 ---
 
-### cülül
+### cülül&emsp;<span kind="abugida">ꞇʄʓ͊ʄ</span>
 
 *coil* **§** Noun
 

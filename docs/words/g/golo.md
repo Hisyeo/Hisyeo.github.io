@@ -6,7 +6,7 @@ sidebar_position: 231
 hoverText: to read (a document) § Verb
 ---
 
-### golo
+### golo&emsp;<span kind="abugida">ꜿʓ</span>
 
 *to read (a document)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 628
 hoverText: 100 hundred § Numeral
 ---
 
-### viyën
+### viyën&emsp;<span kind="abugida">ɤɟɀ̃ʇ</span>
 
 *100 hundred* **§** Numeral
 

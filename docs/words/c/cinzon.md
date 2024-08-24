@@ -6,7 +6,7 @@ sidebar_position: 332
 hoverText: nervous/anxious § Adjective
 ---
 
-### cinzon
+### cinzon&emsp;<span kind="abugida">ꞇ̃ɟⱴ̃</span>
 
 *nervous/anxious* **§** Adjective
 

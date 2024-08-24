@@ -6,7 +6,7 @@ sidebar_position: 796
 hoverText: empty/incomplete § Adjective
 ---
 
-### litö
+### litö&emsp;<span kind="abugida">ʓɟcı</span>
 
 *empty/incomplete* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 639
 hoverText: to eat (food) § Verb
 ---
 
-### mokon
+### mokon&emsp;<span kind="abugida">ƶɔ̃</span>
 
 *to eat (food)* **§** Verb
 

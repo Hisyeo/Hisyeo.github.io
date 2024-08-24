@@ -6,7 +6,7 @@ sidebar_position: 267
 hoverText: limb § Noun
 ---
 
-### tolën
+### tolën&emsp;<span kind="abugida">cʓ̃ʇ</span>
 
 *limb* **§** Noun
 

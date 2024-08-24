@@ -6,7 +6,7 @@ sidebar_position: 736
 hoverText: wide § Adjective
 ---
 
-### nulto
+### nulto&emsp;<span kind="abugida">ƨ͊ʃc</span>
 
 *wide* **§** Adjective
 

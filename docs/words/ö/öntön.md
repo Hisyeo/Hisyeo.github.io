@@ -6,7 +6,7 @@ sidebar_position: 43
 hoverText: to wear (clothing) § Verb
 ---
 
-### öntön
+### öntön&emsp;<span kind="abugida">ɽ̃ıc̃ı</span>
 
 *to wear (clothing)* **§** Verb
 

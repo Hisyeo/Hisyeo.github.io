@@ -6,7 +6,7 @@ sidebar_position: 422
 hoverText: ocean § Noun
 ---
 
-### xömütlö
+### xömütlö&emsp;<span kind="abugida">ɋıƶ̆ʄʓı</span>
 
 *ocean* **§** Noun
 

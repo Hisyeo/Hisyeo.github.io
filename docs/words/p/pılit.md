@@ -6,7 +6,7 @@ sidebar_position: 563
 hoverText: sticky § Adjective
 ---
 
-### pılit
+### pılit&emsp;<span kind="abugida">ʋȷʓ̆ɟ</span>
 
 *sticky* **§** Adjective
 

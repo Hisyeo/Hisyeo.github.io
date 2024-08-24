@@ -6,7 +6,7 @@ sidebar_position: 253
 hoverText: irony/sarcasm § Noun
 ---
 
-### güvoxë
+### güvoxë&emsp;<span kind="abugida">ꜿʄɤɋʇ</span>
 
 *irony/sarcasm* **§** Noun
 

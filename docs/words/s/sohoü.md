@@ -6,7 +6,7 @@ sidebar_position: 352
 hoverText: healthy § Adjective
 ---
 
-### sohoü
+### sohoü&emsp;<span kind="abugida">ɐɂɽʄ</span>
 
 *healthy* **§** Adjective
 

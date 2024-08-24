@@ -6,7 +6,7 @@ sidebar_position: 312
 hoverText: to exchange/trade (the exchanged/traded) § Verb
 ---
 
-### celël
+### celël&emsp;<span kind="abugida">ꞇɿʓ͊ʇ</span>
 
 *to exchange/trade (the exchanged/traded)* **§** Verb
 

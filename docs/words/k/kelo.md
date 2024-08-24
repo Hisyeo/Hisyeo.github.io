@@ -6,7 +6,7 @@ sidebar_position: 185
 hoverText: to play (a game) § Verb
 ---
 
-### kelo
+### kelo&emsp;<span kind="abugida">ɔɿʓ</span>
 
 *to play (a game)* **§** Verb
 

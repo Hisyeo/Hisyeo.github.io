@@ -6,7 +6,7 @@ sidebar_position: 476
 hoverText: explosion/blast § Noun
 ---
 
-### dumoko
+### dumoko&emsp;<span kind="abugida">ʌʃƶɔ</span>
 
 *explosion/blast* **§** Noun
 

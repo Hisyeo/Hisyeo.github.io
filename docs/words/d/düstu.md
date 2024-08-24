@@ -6,7 +6,7 @@ sidebar_position: 481
 hoverText: to measure (the measured) § Verb
 ---
 
-### düstu
+### düstu&emsp;<span kind="abugida">ʌ́ʄcʃ</span>
 
 *to measure (the measured)* **§** Verb
 

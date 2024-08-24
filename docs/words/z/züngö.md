@@ -6,7 +6,7 @@ sidebar_position: 520
 hoverText: hand § Noun
 ---
 
-### züngö
+### züngö&emsp;<span kind="abugida">ⱴ̃ʄꜿı</span>
 
 *hand* **§** Noun
 

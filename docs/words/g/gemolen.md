@@ -6,7 +6,7 @@ sidebar_position: 240
 hoverText: milled/ground/crushed § Adjective
 ---
 
-### gemolen
+### gemolen&emsp;<span kind="abugida">ꜿɿƶʓ̃ɿ</span>
 
 *milled/ground/crushed* **§** Adjective
 

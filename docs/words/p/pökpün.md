@@ -6,7 +6,7 @@ sidebar_position: 541
 hoverText: storm § Noun
 ---
 
-### pökpün
+### pökpün&emsp;<span kind="abugida">ʋ̑ıʋ̃ʄ</span>
 
 *storm* **§** Noun
 

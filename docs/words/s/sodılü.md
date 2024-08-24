@@ -6,7 +6,7 @@ sidebar_position: 358
 hoverText: loose § Adjective
 ---
 
-### sodılü
+### sodılü&emsp;<span kind="abugida">ɐʌȷʓʄ</span>
 
 *loose* **§** Adjective
 

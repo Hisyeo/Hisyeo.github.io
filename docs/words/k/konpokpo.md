@@ -6,7 +6,7 @@ sidebar_position: 161
 hoverText: general/universal § Adjective
 ---
 
-### konpokpo
+### konpokpo&emsp;<span kind="abugida">ɔ̃ʋ̑ʋ</span>
 
 *general/universal* **§** Adjective
 

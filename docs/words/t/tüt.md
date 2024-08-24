@@ -6,7 +6,7 @@ sidebar_position: 293
 hoverText: hot § Adjective
 ---
 
-### tüt
+### tüt&emsp;<span kind="abugida">c̆ʄ</span>
 
 *hot* **§** Adjective
 

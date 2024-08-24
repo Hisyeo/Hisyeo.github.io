@@ -6,7 +6,7 @@ sidebar_position: 401
 hoverText: to like (a preference) § Verb
 ---
 
-### süko
+### süko&emsp;<span kind="abugida">ɐʄɔ</span>
 
 *to like (a preference)* **§** Verb
 

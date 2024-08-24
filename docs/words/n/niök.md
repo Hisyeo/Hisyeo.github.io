@@ -6,7 +6,7 @@ sidebar_position: 724
 hoverText: growing § Adjective
 ---
 
-### niök
+### niök&emsp;<span kind="abugida">ƨɟɽ̑ı</span>
 
 *growing* **§** Adjective
 

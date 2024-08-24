@@ -6,7 +6,7 @@ sidebar_position: 110
 hoverText: authentic § Adjective
 ---
 
-### hokiki
+### hokiki&emsp;<span kind="abugida">ɂɔɟɔɟ</span>
 
 *authentic* **§** Adjective
 

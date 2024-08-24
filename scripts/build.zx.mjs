@@ -12,7 +12,7 @@ sidebar_position: ${i}
 hoverText: ${w['Meaning']} § ${w['Type']}
 ---
 
-### ${w['Hisyëö']}
+### ${w['Hisyëö']}&emsp;<span kind="abugida">${w['ɂ́ɟɀʇɽʃ']}</span>
 
 *${w['Meaning']}* **§** ${w['Type']}
 

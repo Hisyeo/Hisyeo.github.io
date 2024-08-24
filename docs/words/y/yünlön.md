@@ -6,7 +6,7 @@ sidebar_position: 836
 hoverText: to forgive (the forgiven) § Verb
 ---
 
-### yünlön
+### yünlön&emsp;<span kind="abugida">ɀ̃ʄʓ̃ı</span>
 
 *to forgive (the forgiven)* **§** Verb
 

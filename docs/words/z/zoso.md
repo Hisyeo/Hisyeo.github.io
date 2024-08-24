@@ -6,7 +6,7 @@ sidebar_position: 488
 hoverText: shelf § Noun
 ---
 
-### zoso
+### zoso&emsp;<span kind="abugida">ⱴɐ</span>
 
 *shelf* **§** Noun
 

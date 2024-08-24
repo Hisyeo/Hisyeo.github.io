@@ -6,7 +6,7 @@ sidebar_position: 558
 hoverText: manner/material marker § Preposition
 ---
 
-### pı
+### pı&emsp;<span kind="abugida">ʋȷ</span>
 
 *manner/material marker* **§** Preposition
 

@@ -6,7 +6,7 @@ sidebar_position: 395
 hoverText: soap § Noun
 ---
 
-### suvoün
+### suvoün&emsp;<span kind="abugida">ɐʃɤɽ̃ʄ</span>
 
 *soap* **§** Noun
 

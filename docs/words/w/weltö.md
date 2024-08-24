@@ -6,7 +6,7 @@ sidebar_position: 749
 hoverText: limp/flaccid/flabby § Adjective
 ---
 
-### weltö
+### weltö&emsp;<span kind="abugida">ʒ͊ɿcı</span>
 
 *limp/flaccid/flabby* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 642
 hoverText: cat § Noun
 ---
 
-### mocko
+### mocko&emsp;<span kind="abugida">ƶ̄ɔ</span>
 
 *cat* **§** Noun
 

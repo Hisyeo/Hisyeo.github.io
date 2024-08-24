@@ -6,7 +6,7 @@ sidebar_position: 529
 hoverText: representative/delegate § Noun
 ---
 
-### postovis
+### postovis&emsp;<span kind="abugida">ʋ́cɤ́ɟ</span>
 
 *representative/delegate* **§** Noun
 

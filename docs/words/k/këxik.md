@@ -6,7 +6,7 @@ sidebar_position: 187
 hoverText: variable/unstable § Adjective
 ---
 
-### këxik
+### këxik&emsp;<span kind="abugida">ɔʇɋ̑ɟ</span>
 
 *variable/unstable* **§** Adjective
 

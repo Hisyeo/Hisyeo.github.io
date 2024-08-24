@@ -6,7 +6,7 @@ sidebar_position: 337
 hoverText: to distill (the distilled) § Verb
 ---
 
-### cunliü
+### cunliü&emsp;<span kind="abugida">ꞇ̃ʃʓɟɽʄ</span>
 
 *to distill (the distilled)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 834
 hoverText: monster § Noun
 ---
 
-### yükwoi
+### yükwoi&emsp;<span kind="abugida">ɀ̑ʄʒɽɟ</span>
 
 *monster* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 306
 hoverText: to cook (a meal) § Verb
 ---
 
-### cöüvon
+### cöüvon&emsp;<span kind="abugida">ꞇıɽʄɤ̃</span>
 
 *to cook (a meal)* **§** Verb
 

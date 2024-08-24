@@ -6,7 +6,7 @@ sidebar_position: 831
 hoverText: modifier (adjective) § Noun
 ---
 
-### yınyünci
+### yınyünci&emsp;<span kind="abugida">ɀ̃ȷɀ̃ʄꞇɟ</span>
 
 *modifier (adjective)* **§** Noun
 

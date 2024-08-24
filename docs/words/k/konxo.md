@@ -6,7 +6,7 @@ sidebar_position: 159
 hoverText: thankful/grateful § Adjective
 ---
 
-### konxo
+### konxo&emsp;<span kind="abugida">ɔ̃ɋ</span>
 
 *thankful/grateful* **§** Adjective
 

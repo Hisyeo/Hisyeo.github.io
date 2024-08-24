@@ -6,7 +6,7 @@ sidebar_position: 590
 hoverText: modest/chaste § Adjective
 ---
 
-### püdikö
+### püdikö&emsp;<span kind="abugida">ʋʄʌɟɔı</span>
 
 *modest/chaste* **§** Adjective
 

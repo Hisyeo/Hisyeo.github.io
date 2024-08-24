@@ -6,7 +6,7 @@ sidebar_position: 566
 hoverText: to bake (a baked good) § Verb
 ---
 
-### piek
+### piek&emsp;<span kind="abugida">ʋɟɽ̑ɿ</span>
 
 *to bake (a baked good)* **§** Verb
 

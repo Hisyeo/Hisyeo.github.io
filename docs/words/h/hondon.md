@@ -6,7 +6,7 @@ sidebar_position: 118
 hoverText: family § Noun
 ---
 
-### hondon
+### hondon&emsp;<span kind="abugida">ɂ̃ʌ̃</span>
 
 *family* **§** Noun
 

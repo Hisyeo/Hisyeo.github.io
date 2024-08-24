@@ -6,7 +6,7 @@ sidebar_position: 272
 hoverText: bump § Noun
 ---
 
-### töxütsı
+### töxütsı&emsp;<span kind="abugida">cıɋ̆ʄɐȷ</span>
 
 *bump* **§** Noun
 

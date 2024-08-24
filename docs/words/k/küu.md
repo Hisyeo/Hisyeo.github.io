@@ -6,7 +6,7 @@ sidebar_position: 210
 hoverText: deontic verb particle § Particle
 ---
 
-### küu
+### küu&emsp;<span kind="abugida">ɔʄɽʃ</span>
 
 *deontic verb particle* **§** Particle
 

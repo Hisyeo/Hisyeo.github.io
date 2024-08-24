@@ -6,7 +6,7 @@ sidebar_position: 723
 hoverText: shadow § Noun
 ---
 
-### nılol
+### nılol&emsp;<span kind="abugida">ƨȷʓ͊</span>
 
 *shadow* **§** Noun
 

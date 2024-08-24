@@ -6,7 +6,7 @@ sidebar_position: 385
 hoverText: town/city § Noun
 ---
 
-### sınsi
+### sınsi&emsp;<span kind="abugida">ɐ̃ȷɐɟ</span>
 
 *town/city* **§** Noun
 

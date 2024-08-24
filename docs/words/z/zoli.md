@@ -6,7 +6,7 @@ sidebar_position: 497
 hoverText: bush/shrub § Noun
 ---
 
-### zoli
+### zoli&emsp;<span kind="abugida">ⱴʓɟ</span>
 
 *bush/shrub* **§** Noun
 

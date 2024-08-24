@@ -6,7 +6,7 @@ sidebar_position: 770
 hoverText: ray/beam § Noun
 ---
 
-### lozö
+### lozö&emsp;<span kind="abugida">ʓⱴı</span>
 
 *ray/beam* **§** Noun
 

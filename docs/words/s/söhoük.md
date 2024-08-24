@@ -6,7 +6,7 @@ sidebar_position: 369
 hoverText: arithmetic/math § Noun
 ---
 
-### söhoük
+### söhoük&emsp;<span kind="abugida">ɐıɂɽ̑ʄ</span>
 
 *arithmetic/math* **§** Noun
 

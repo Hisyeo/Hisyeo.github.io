@@ -6,7 +6,7 @@ sidebar_position: 833
 hoverText: to guide (the guided) § Verb
 ---
 
-### yundöü
+### yundöü&emsp;<span kind="abugida">ɀ̃ʃʌıɽʄ</span>
 
 *to guide (the guided)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 758
 hoverText: virus § Noun
 ---
 
-### wıxonü
+### wıxonü&emsp;<span kind="abugida">ʒȷɋƨʄ</span>
 
 *virus* **§** Noun
 

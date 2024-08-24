@@ -6,7 +6,7 @@ sidebar_position: 793
 hoverText: conscientious § Adjective
 ---
 
-### lionxin
+### lionxin&emsp;<span kind="abugida">ʓɟɽ̃ɋ̃ɟ</span>
 
 *conscientious* **§** Adjective
 

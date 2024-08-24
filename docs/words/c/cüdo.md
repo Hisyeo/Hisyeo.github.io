@@ -6,7 +6,7 @@ sidebar_position: 344
 hoverText: to give (a gift) § Verb
 ---
 
-### cüdo
+### cüdo&emsp;<span kind="abugida">ꞇʄʌ</span>
 
 *to give (a gift)* **§** Verb
 

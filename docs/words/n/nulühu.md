@@ -6,7 +6,7 @@ sidebar_position: 735
 hoverText: abuse § Noun
 ---
 
-### nulühu
+### nulühu&emsp;<span kind="abugida">ƨʃʓʄɂʃ</span>
 
 *abuse* **§** Noun
 

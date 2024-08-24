@@ -6,7 +6,7 @@ sidebar_position: 355
 hoverText: to start (startable entity) § Adjective
 ---
 
-### socok
+### socok&emsp;<span kind="abugida">ɐꞇ̑</span>
 
 *to start (startable entity)* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 140
 hoverText: mixed § Adjective
 ---
 
-### hüunhu
+### hüunhu&emsp;<span kind="abugida">ɂʄɽ̃ʃɂʃ</span>
 
 *mixed* **§** Adjective
 

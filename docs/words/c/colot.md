@@ -6,7 +6,7 @@ sidebar_position: 305
 hoverText: wise/clever § Adjective
 ---
 
-### colot
+### colot&emsp;<span kind="abugida">ꞇʓ̆</span>
 
 *wise/clever* **§** Adjective
 

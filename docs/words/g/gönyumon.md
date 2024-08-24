@@ -6,7 +6,7 @@ sidebar_position: 236
 hoverText: grunting/growling § Adjective
 ---
 
-### gönyumon
+### gönyumon&emsp;<span kind="abugida">ꜿ̃ıɀʃƶ̃</span>
 
 *grunting/growling* **§** Adjective
 

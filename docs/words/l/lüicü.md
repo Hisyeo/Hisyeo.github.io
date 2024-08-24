@@ -6,7 +6,7 @@ sidebar_position: 807
 hoverText: deer/giraffe/pronghorn § Noun
 ---
 
-### lüicü
+### lüicü&emsp;<span kind="abugida">ʓʄɽɟꞇʄ</span>
 
 *deer/giraffe/pronghorn* **§** Noun
 

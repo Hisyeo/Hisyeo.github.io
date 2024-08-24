@@ -6,7 +6,7 @@ sidebar_position: 263
 hoverText: standing § Adjective
 ---
 
-### totsı
+### totsı&emsp;<span kind="abugida">c̆ɐȷ</span>
 
 *standing* **§** Adjective
 

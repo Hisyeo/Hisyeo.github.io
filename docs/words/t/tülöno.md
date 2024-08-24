@@ -6,7 +6,7 @@ sidebar_position: 296
 hoverText: comparison § Noun
 ---
 
-### tülöno
+### tülöno&emsp;<span kind="abugida">cʄʓıƨ</span>
 
 *comparison* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 152
 hoverText: grass § Noun
 ---
 
-### hülü
+### hülü&emsp;<span kind="abugida">ɂʄʓʄ</span>
 
 *grass* **§** Noun
 

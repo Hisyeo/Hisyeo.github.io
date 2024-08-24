@@ -6,7 +6,7 @@ sidebar_position: 547
 hoverText: powder § Noun
 ---
 
-### pölvëlë
+### pölvëlë&emsp;<span kind="abugida">ʋ͊ıɤʇʓʇ</span>
 
 *powder* **§** Noun
 

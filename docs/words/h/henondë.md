@@ -6,7 +6,7 @@ sidebar_position: 128
 hoverText: hanging § Adjective
 ---
 
-### henondë
+### henondë&emsp;<span kind="abugida">ɂɿƨ̃ʌʇ</span>
 
 *hanging* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 308
 hoverText: lens § Noun
 ---
 
-### cöcko
+### cöcko&emsp;<span kind="abugida">ꞇ̄ıɔ</span>
 
 *lens* **§** Noun
 

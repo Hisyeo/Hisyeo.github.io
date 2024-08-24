@@ -6,7 +6,7 @@ sidebar_position: 801
 hoverText: sheet § Noun
 ---
 
-### lipü
+### lipü&emsp;<span kind="abugida">ʓɟʋʄ</span>
 
 *sheet* **§** Noun
 

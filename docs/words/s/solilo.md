@@ -6,7 +6,7 @@ sidebar_position: 368
 hoverText: body § Noun
 ---
 
-### solilo
+### solilo&emsp;<span kind="abugida">ɐʓɟʓ</span>
 
 *body* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 334
 hoverText: to write (text) § Verb
 ---
 
-### cukto
+### cukto&emsp;<span kind="abugida">ꞇ̑ʃc</span>
 
 *to write (text)* **§** Verb
 

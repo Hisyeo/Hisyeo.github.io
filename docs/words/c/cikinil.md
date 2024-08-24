@@ -6,7 +6,7 @@ sidebar_position: 328
 hoverText: ear § Noun
 ---
 
-### cikinil
+### cikinil&emsp;<span kind="abugida">ꞇɟɔɟƨ͊ɟ</span>
 
 *ear* **§** Noun
 

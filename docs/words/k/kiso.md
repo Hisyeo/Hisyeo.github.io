@@ -6,7 +6,7 @@ sidebar_position: 195
 hoverText: to narrate (a story) § Verb
 ---
 
-### kiso
+### kiso&emsp;<span kind="abugida">ɔɟɐ</span>
 
 *to narrate (a story)* **§** Verb
 

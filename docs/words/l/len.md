@@ -6,7 +6,7 @@ sidebar_position: 788
 hoverText: strong § Adjective
 ---
 
-### len
+### len&emsp;<span kind="abugida">ʓ̃ɿ</span>
 
 *strong* **§** Adjective
 

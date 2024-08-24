@@ -6,7 +6,7 @@ sidebar_position: 718
 hoverText: black § Adjective
 ---
 
-### nëlö
+### nëlö&emsp;<span kind="abugida">ƨʇʓı</span>
 
 *black* **§** Adjective
 

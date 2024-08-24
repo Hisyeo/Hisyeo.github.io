@@ -6,7 +6,7 @@ sidebar_position: 710
 hoverText: tendency/inclination § Noun
 ---
 
-### neigın
+### neigın&emsp;<span kind="abugida">ƨɿɽɟꜿ̃ȷ</span>
 
 *tendency/inclination* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 15
 hoverText: glass § Noun
 ---
 
-### opoki
+### opoki&emsp;<span kind="abugida">ɽʋɔɟ</span>
 
 *glass* **§** Noun
 

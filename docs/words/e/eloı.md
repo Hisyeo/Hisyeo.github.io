@@ -6,7 +6,7 @@ sidebar_position: 50
 hoverText: boundary/border § Noun
 ---
 
-### eloı
+### eloı&emsp;<span kind="abugida">ɽɿʓɽȷ</span>
 
 *boundary/border* **§** Noun
 

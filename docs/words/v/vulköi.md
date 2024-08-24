@@ -6,7 +6,7 @@ sidebar_position: 632
 hoverText: to rub (the rubbed) § Verb
 ---
 
-### vulköi
+### vulköi&emsp;<span kind="abugida">ɤ͊ʃɔıɽɟ</span>
 
 *to rub (the rubbed)* **§** Verb
 

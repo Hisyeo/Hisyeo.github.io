@@ -6,7 +6,7 @@ sidebar_position: 676
 hoverText: colony § Noun
 ---
 
-### mitmo
+### mitmo&emsp;<span kind="abugida">ƶ̆ɟƶ</span>
 
 *colony* **§** Noun
 

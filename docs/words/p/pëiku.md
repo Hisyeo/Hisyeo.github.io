@@ -6,7 +6,7 @@ sidebar_position: 552
 hoverText: shell § Noun
 ---
 
-### pëiku
+### pëiku&emsp;<span kind="abugida">ʋʇɽɟɔʃ</span>
 
 *shell* **§** Noun
 

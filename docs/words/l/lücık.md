@@ -6,7 +6,7 @@ sidebar_position: 809
 hoverText: slippery § Adjective
 ---
 
-### lücık
+### lücık&emsp;<span kind="abugida">ʓʄꞇ̑ȷ</span>
 
 *slippery* **§** Adjective
 

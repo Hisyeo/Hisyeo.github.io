@@ -6,7 +6,7 @@ sidebar_position: 347
 hoverText: collision § Noun
 ---
 
-### cündöl
+### cündöl&emsp;<span kind="abugida">ꞇ̃ʄʌ͊ı</span>
 
 *collision* **§** Noun
 

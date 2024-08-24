@@ -6,7 +6,7 @@ sidebar_position: 412
 hoverText: to invite (an invitation) § Verb
 ---
 
-### xokülü
+### xokülü&emsp;<span kind="abugida">ɋɔʄʓʄ</span>
 
 *to invite (an invitation)* **§** Verb
 

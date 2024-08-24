@@ -6,7 +6,7 @@ sidebar_position: 397
 hoverText: arthropod § Noun
 ---
 
-### sundipot
+### sundipot&emsp;<span kind="abugida">ɐ̃ʃʌɟʋ̆</span>
 
 *arthropod* **§** Noun
 

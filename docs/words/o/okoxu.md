@@ -6,7 +6,7 @@ sidebar_position: 2
 hoverText: sky § Noun
 ---
 
-### okoxu
+### okoxu&emsp;<span kind="abugida">ɽɔɋʃ</span>
 
 *sky* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 532
 hoverText: system § Noun
 ---
 
-### popöun
+### popöun&emsp;<span kind="abugida">ʋʋıɽ̃ʃ</span>
 
 *system* **§** Noun
 

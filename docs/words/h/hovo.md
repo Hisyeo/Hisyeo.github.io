@@ -6,7 +6,7 @@ sidebar_position: 116
 hoverText: to plead (a plea) § Verb
 ---
 
-### hovo
+### hovo&emsp;<span kind="abugida">ɂɤ</span>
 
 *to plead (a plea)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 417
 hoverText: young § Adjective
 ---
 
-### xonluk
+### xonluk&emsp;<span kind="abugida">ɋ̃ʓ̑ʃ</span>
 
 *young* **§** Adjective
 

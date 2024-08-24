@@ -6,7 +6,7 @@ sidebar_position: 603
 hoverText: square/rectangle § Noun
 ---
 
-### vonxin
+### vonxin&emsp;<span kind="abugida">ɤ̃ɋ̃ɟ</span>
 
 *square/rectangle* **§** Noun
 

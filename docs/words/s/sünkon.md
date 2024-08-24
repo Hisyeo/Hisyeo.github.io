@@ -6,7 +6,7 @@ sidebar_position: 406
 hoverText: instantaneous § Adjective
 ---
 
-### sünkon
+### sünkon&emsp;<span kind="abugida">ɐ̃ʄɔ̃</span>
 
 *instantaneous* **§** Adjective
 

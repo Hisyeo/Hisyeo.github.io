@@ -6,7 +6,7 @@ sidebar_position: 49
 hoverText: than § Conjunction
 ---
 
-### en
+### en&emsp;<span kind="abugida">ɽ̃ɿ</span>
 
 *than* **§** Conjunction
 

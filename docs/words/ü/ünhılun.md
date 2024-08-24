@@ -6,7 +6,7 @@ sidebar_position: 99
 hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
 ---
 
-### ünhılun
+### ünhılun&emsp;<span kind="abugida">ɽ̃ʄɂȷʓ̃ʃ</span>
 
 *to surround/envelope (a surrounding/enclosure) * **§** Verb
 

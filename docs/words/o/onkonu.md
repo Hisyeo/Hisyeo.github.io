@@ -6,7 +6,7 @@ sidebar_position: 24
 hoverText: to estimate/guess (an estimation/guess) § Verb
 ---
 
-### onkonu
+### onkonu&emsp;<span kind="abugida">ɽ̃ɔƨʃ</span>
 
 *to estimate/guess (an estimation/guess)* **§** Verb
 

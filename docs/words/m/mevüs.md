@@ -6,7 +6,7 @@ sidebar_position: 661
 hoverText: safe § Adjective
 ---
 
-### mevüs
+### mevüs&emsp;<span kind="abugida">ƶɿɤ́ʄ</span>
 
 *safe* **§** Adjective
 

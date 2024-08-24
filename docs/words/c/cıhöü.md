@@ -6,7 +6,7 @@ sidebar_position: 315
 hoverText: after § Determiner
 ---
 
-### cıhöü
+### cıhöü&emsp;<span kind="abugida">ꞇȷɂıɽʄ</span>
 
 *after* **§** Determiner
 

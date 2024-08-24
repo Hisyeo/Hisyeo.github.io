@@ -6,7 +6,7 @@ sidebar_position: 78
 hoverText: temporary § Adjective
 ---
 
-### ilxizuk
+### ilxizuk&emsp;<span kind="abugida">ɽ͊ɟɋɟⱴ̑ʃ</span>
 
 *temporary* **§** Adjective
 

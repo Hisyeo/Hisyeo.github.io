@@ -6,7 +6,7 @@ sidebar_position: 569
 hoverText: tired/exhausted § Adjective
 ---
 
-### picüon
+### picüon&emsp;<span kind="abugida">ʋɟꞇʄɽ̃</span>
 
 *tired/exhausted* **§** Adjective
 

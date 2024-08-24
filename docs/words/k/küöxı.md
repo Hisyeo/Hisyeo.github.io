@@ -6,7 +6,7 @@ sidebar_position: 209
 hoverText: fruit § Noun
 ---
 
-### küöxı
+### küöxı&emsp;<span kind="abugida">ɔʄɽıɋȷ</span>
 
 *fruit* **§** Noun
 

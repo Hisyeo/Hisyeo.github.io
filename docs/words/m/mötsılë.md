@@ -6,7 +6,7 @@ sidebar_position: 658
 hoverText: to tie (the tied) § Verb
 ---
 
-### mötsılë
+### mötsılë&emsp;<span kind="abugida">ƶ̆ıɐȷʓʇ</span>
 
 *to tie (the tied)* **§** Verb
 

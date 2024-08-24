@@ -6,7 +6,7 @@ sidebar_position: 206
 hoverText: light § Noun
 ---
 
-### küon
+### küon&emsp;<span kind="abugida">ɔʄɽ̃</span>
 
 *light* **§** Noun
 

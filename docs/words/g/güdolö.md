@@ -6,7 +6,7 @@ sidebar_position: 252
 hoverText: bow (weapon)/bow (music) § Noun
 ---
 
-### güdolö
+### güdolö&emsp;<span kind="abugida">ꜿʄʌʓı</span>
 
 *bow (weapon)/bow (music)* **§** Noun
 

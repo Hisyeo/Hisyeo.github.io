@@ -6,7 +6,7 @@ sidebar_position: 57
 hoverText: face § Noun
 ---
 
-### ënkömön
+### ënkömön&emsp;<span kind="abugida">ɽ̃ʇɔıƶ̃ı</span>
 
 *face* **§** Noun
 

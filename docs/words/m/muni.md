@@ -6,7 +6,7 @@ sidebar_position: 680
 hoverText: money § Noun
 ---
 
-### muni
+### muni&emsp;<span kind="abugida">ƶʃƨɟ</span>
 
 *money* **§** Noun
 

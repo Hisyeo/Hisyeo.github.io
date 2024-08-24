@@ -6,7 +6,7 @@ sidebar_position: 400
 hoverText: to fold (the folded) § Verb
 ---
 
-### süöxıc
+### süöxıc&emsp;<span kind="abugida">ɐʄɽıɋ̄ȷ</span>
 
 *to fold (the folded)* **§** Verb
 

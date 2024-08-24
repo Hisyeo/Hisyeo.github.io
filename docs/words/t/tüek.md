@@ -6,7 +6,7 @@ sidebar_position: 291
 hoverText: to compute (a computation) § Verb
 ---
 
-### tüek
+### tüek&emsp;<span kind="abugida">cʄɽ̑ɿ</span>
 
 *to compute (a computation)* **§** Verb
 

@@ -6,7 +6,7 @@ sidebar_position: 428
 hoverText: gentle/kind § Adjective
 ---
 
-### xëntil
+### xëntil&emsp;<span kind="abugida">ɋ̃ʇc͊ɟ</span>
 
 *gentle/kind* **§** Adjective
 

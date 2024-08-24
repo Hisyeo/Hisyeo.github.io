@@ -6,7 +6,7 @@ sidebar_position: 73
 hoverText: stone § Noun
 ---
 
-### ipüwë
+### ipüwë&emsp;<span kind="abugida">ɽɟʋʄʒʇ</span>
 
 *stone* **§** Noun
 

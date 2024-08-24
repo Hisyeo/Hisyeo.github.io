@@ -6,7 +6,7 @@ sidebar_position: 835
 hoverText: to love (the loved) § Verb
 ---
 
-### yüpik
+### yüpik&emsp;<span kind="abugida">ɀʄʋ̑ɟ</span>
 
 *to love (the loved)* **§** Verb
 

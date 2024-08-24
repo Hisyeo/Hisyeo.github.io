@@ -6,7 +6,7 @@ sidebar_position: 28
 hoverText: amphibian § Noun
 ---
 
-### onvipi
+### onvipi&emsp;<span kind="abugida">ɽ̃ɤɟʋɟ</span>
 
 *amphibian* **§** Noun
 

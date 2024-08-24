@@ -6,7 +6,7 @@ sidebar_position: 629
 hoverText: fraction § Noun
 ---
 
-### vun
+### vun&emsp;<span kind="abugida">ɤ̃ʃ</span>
 
 *fraction* **§** Noun
 

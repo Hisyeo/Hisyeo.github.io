@@ -6,7 +6,7 @@ sidebar_position: 246
 hoverText: certain § Adjective
 ---
 
-### guvıs
+### guvıs&emsp;<span kind="abugida">ꜿʃɤ́ȷ</span>
 
 *certain* **§** Adjective
 

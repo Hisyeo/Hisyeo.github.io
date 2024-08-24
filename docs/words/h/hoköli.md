@@ -6,7 +6,7 @@ sidebar_position: 109
 hoverText: tooth § Noun
 ---
 
-### hoköli
+### hoköli&emsp;<span kind="abugida">ɂɔıʓɟ</span>
 
 *tooth* **§** Noun
 

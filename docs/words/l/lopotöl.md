@@ -6,7 +6,7 @@ sidebar_position: 772
 hoverText: to scoop (the scooped) § Verb
 ---
 
-### lopotöl
+### lopotöl&emsp;<span kind="abugida">ʓʋc͊ı</span>
 
 *to scoop (the scooped)* **§** Verb
 

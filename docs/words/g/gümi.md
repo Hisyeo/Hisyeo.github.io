@@ -6,7 +6,7 @@ sidebar_position: 255
 hoverText: rubber § Noun
 ---
 
-### gümi
+### gümi&emsp;<span kind="abugida">ꜿʄƶɟ</span>
 
 *rubber* **§** Noun
 

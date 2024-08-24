@@ -6,7 +6,7 @@ sidebar_position: 511
 hoverText: finger/toe § Noun
 ---
 
-### zixitü
+### zixitü&emsp;<span kind="abugida">ⱴɟɋɟcʄ</span>
 
 *finger/toe* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 189
 hoverText: crustacean § Noun
 ---
 
-### kıstosë
+### kıstosë&emsp;<span kind="abugida">ɔ́ȷcɐʇ</span>
 
 *crustacean* **§** Noun
 

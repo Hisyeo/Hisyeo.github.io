@@ -6,7 +6,7 @@ sidebar_position: 84
 hoverText: person § Noun
 ---
 
-### umo
+### umo&emsp;<span kind="abugida">ɽʃƶ</span>
 
 *person* **§** Noun
 

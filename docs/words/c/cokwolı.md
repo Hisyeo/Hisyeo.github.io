@@ -6,7 +6,7 @@ sidebar_position: 298
 hoverText: pyramid § Noun
 ---
 
-### cokwolı
+### cokwolı&emsp;<span kind="abugida">ꞇ̑ʒʓȷ</span>
 
 *pyramid* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 589
 hoverText: bubble § Noun
 ---
 
-### püdogo
+### püdogo&emsp;<span kind="abugida">ʋʄʌꜿ</span>
 
 *bubble* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 238
 hoverText: melted § Adjective
 ---
 
-### gölüo
+### gölüo&emsp;<span kind="abugida">ꜿıʓʄɽ</span>
 
 *melted* **§** Adjective
 

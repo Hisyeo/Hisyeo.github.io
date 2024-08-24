@@ -6,7 +6,7 @@ sidebar_position: 364
 hoverText: to name [as] (a name) § Verb
 ---
 
-### somo
+### somo&emsp;<span kind="abugida">ɐƶ</span>
 
 *to name [as] (a name)* **§** Verb
 

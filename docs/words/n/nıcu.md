@@ -6,7 +6,7 @@ sidebar_position: 720
 hoverText: sneeze § Noun
 ---
 
-### nıcu
+### nıcu&emsp;<span kind="abugida">ƨȷꞇʃ</span>
 
 *sneeze* **§** Noun
 

@@ -6,7 +6,7 @@ sidebar_position: 653
 hoverText: tube § Noun
 ---
 
-### mökövo
+### mökövo&emsp;<span kind="abugida">ƶıɔıɤ</span>
 
 *tube* **§** Noun
 

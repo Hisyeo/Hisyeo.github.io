@@ -6,7 +6,7 @@ sidebar_position: 681
 hoverText: up § Noun
 ---
 
-### mulö
+### mulö&emsp;<span kind="abugida">ƶʃʓı</span>
 
 *up* **§** Noun
 

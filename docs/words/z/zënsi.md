@@ -6,7 +6,7 @@ sidebar_position: 504
 hoverText: sexual § Adjective
 ---
 
-### zënsi
+### zënsi&emsp;<span kind="abugida">ⱴ̃ʇɐɟ</span>
 
 *sexual* **§** Adjective
 

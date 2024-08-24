@@ -6,7 +6,7 @@ sidebar_position: 790
 hoverText: journey/trip/voyage § Noun
 ---
 
-### lëso
+### lëso&emsp;<span kind="abugida">ʓʇɐ</span>
 
 *journey/trip/voyage* **§** Noun
 

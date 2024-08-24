@@ -6,7 +6,7 @@ sidebar_position: 810
 hoverText: lever/knob/handle § Noun
 ---
 
-### lücku
+### lücku&emsp;<span kind="abugida">ʓ̄ʄɔʃ</span>
 
 *lever/knob/handle* **§** Noun
 

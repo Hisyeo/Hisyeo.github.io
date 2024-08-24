@@ -6,7 +6,7 @@ sidebar_position: 613
 hoverText: close § Adjective
 ---
 
-### vëlkonö
+### vëlkonö&emsp;<span kind="abugida">ɤ͊ʇɔƨı</span>
 
 *close* **§** Adjective
 

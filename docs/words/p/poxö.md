@@ -6,7 +6,7 @@ sidebar_position: 530
 hoverText: place § Noun
 ---
 
-### poxö
+### poxö&emsp;<span kind="abugida">ʋɋı</span>
 
 *place* **§** Noun
 

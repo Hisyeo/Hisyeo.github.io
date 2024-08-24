@@ -6,7 +6,7 @@ sidebar_position: 531
 hoverText: unmoving § Adjective
 ---
 
-### podi
+### podi&emsp;<span kind="abugida">ʋʌɟ</span>
 
 *unmoving* **§** Adjective
 
