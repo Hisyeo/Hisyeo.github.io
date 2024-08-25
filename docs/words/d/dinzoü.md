@@ -2,7 +2,7 @@
 id: dinzoü
 slug: dinzoü
 title: DİNZOÜ
-sidebar_position: 470
+sidebar_position: 471
 hoverText: lip/rim/edge § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: lücku
 slug: lücku
 title: LÜCKU
-sidebar_position: 810
+sidebar_position: 811
 hoverText: lever/knob/handle § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: völun
 slug: völun
 title: VÖLUN
-sidebar_position: 608
+sidebar_position: 609
 hoverText: to want (a desire) § Verb
 ---
 

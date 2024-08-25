@@ -2,7 +2,7 @@
 id: lisik
 slug: lisik
 title: LİSİK
-sidebar_position: 799
+sidebar_position: 800
 hoverText: cereal/grain § Noun
 ---
 

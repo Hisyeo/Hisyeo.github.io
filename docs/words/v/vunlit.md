@@ -2,7 +2,7 @@
 id: vunlit
 slug: vunlit
 title: VUNLİT
-sidebar_position: 631
+sidebar_position: 632
 hoverText: split § Adjective
 ---
 

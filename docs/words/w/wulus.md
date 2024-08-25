@@ -2,7 +2,7 @@
 id: wulus
 slug: wulus
 title: WULUS
-sidebar_position: 767
+sidebar_position: 768
 hoverText: oil § Noun
 ---
 
