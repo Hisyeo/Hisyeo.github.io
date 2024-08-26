@@ -1,0 +1,12 @@
+{
+    "Insert HisyeoTabs with selected text": {
+        "scope": "markdown,mdx,fountain",
+        "prefix": "htab",
+        "body": [
+            "<HisyeoTabs>",
+                "${TM_SELECTED_TEXT/^.+$/    <p>&emsp;<em>$0<\\/em><\\/p>/gm}",
+            "</HisyeoTabs>",
+        ],
+        "description": "Each line of the selected text is placed inside of an emphasis element inside of a paragraph."
+        },
+}

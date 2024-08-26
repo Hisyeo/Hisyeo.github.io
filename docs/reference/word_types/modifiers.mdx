@@ -15,20 +15,30 @@ A type of word that describes a verb or noun.
 
 ## Prepositions
 
-There are only a couple prepositions applicable to the modifier class of words.
+There are only a few prepositions applicable to the modifier class of words.
+
+### Positive
+
+The <HisyeoWord is="in"/> particle allows you to specify that any content word
+which is being used as a modifier is seen as positive in meaning when applied as
+a modifier to the preceding head phrase. This is primarily useful for using
+verbs as modifiers since they are prepositions otherwise.
 
 ### Negatitive
 
 The <HisyeoWord is="dës"/> particle allows you to specify that any content word
-which is being used as a modifier is seen as negated in meaning when applied
-as a modifier to the preceding head phrase.
+which is being used as a modifier is seen as negated in meaning when applied as
+a modifier to the preceding head phrase. While this is useful for using verbs as
+modifiers, it also can be useful for all other modifiers and nouns as
+modifiers.
 
 ### Collapsing Head
 
-The <HisyeoWord is="et"/> particle allows you to specify that any content word
-being used as a modifier is seen as applying meaning to the *entire* noun or
-verb phrase instead of only being applicable to the immediately preceding head
-phrase.
+The <HisyeoWord is="et"/> particle allows you to specify that any following
+modifier (whether it's a true modifier or a noun/verb being used with one of
+the modifier particles above or a noun particle) is seen as applying meaning to
+the *entire* noun or verb phrase instead of only being applicable to the
+immediately preceding head phrase.
 
 ## From...
 
@@ -41,17 +51,15 @@ to the noun (acting as a modifer) or shares some recognizable quality with the
 noun. Like the affix "-like" in English. One way of making a modifier out of a
 noun is to provide it as a word immediately following <HisyeoWord is="vın"/>.
 This has the effect of meaning "[noun]-like thing" in English. You can use it
-following any head word including verbs.
+following any head noun or existing modifier chain.
 
 
 ### Verbs
 
-When a verb acts as a modifier, it means that the head word can be used as an
-object in the verb's action. Like "-able" in English but also there are many
-concrete terms that English has to refer to these "able to X" modifiers. The
-modified head word can now be considered as something that can be a direct
-object, patient and theme in a sentence where you use that verb as the
-predicate.
+A verb cannot act as a modifier, it must be preceded by either a modifier or a
+noun particle. The verb and particle combined act as one word of the base
+modifier type. You can use it following any head noun or existing modifier
+chain.
 
 
 ## Relative Clauses
@@ -75,9 +83,9 @@ else other than the person being addressed or objects possessed by that third
 party.
 
 <HisyeoTabs>
-    <p>vıyüxit hoi sëdu muni ü umo wohi do nıwos hoi zınkon uklo. <em>"The woman who lives next door works in a bank."</em></p>
-    <p>ü övo lı non vos völun ü noyo cö do möniso cö övo müt nimü. <em>"This is the video that I wanted to show you."</em></p>
-    <p>yöüli ëto ü umo vos dëko xopëk ü loı cö onö. <em>"The person they spoke to was really helpful."</em></p>
+    <p>umo wohi do nıwos hoi zınkon uklo, wëloi hoi sëdu muni.&emsp;<em>"The woman who lives next door works in a bank."</em></p>
+    <p>övo lı non vos noyo völun do möniso övo müt nimü.&emsp;<em>"This is the video that I wanted to show you."</em></p>
+    <p>lı yöüli ëto ü umo vos niün pı ılık köto onö.&emsp;<em>"The person they spoke to was really helpful."</em></p>
 </HisyeoTabs>
 
 <HisyeoTooltip/>
