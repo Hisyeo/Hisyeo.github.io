@@ -2,7 +2,7 @@
 id: lolü
 slug: lolü
 title: LOLÜ
-sidebar_position: 779
+sidebar_position: 780
 hoverText: word § Noun
 ---
 

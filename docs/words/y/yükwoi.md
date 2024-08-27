@@ -2,7 +2,7 @@
 id: yükwoi
 slug: yükwoi
 title: YÜKWOİ
-sidebar_position: 835
+sidebar_position: 836
 hoverText: monster § Noun
 ---
 

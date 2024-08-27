@@ -2,7 +2,7 @@
 id: wuktomü
 slug: wuktomü
 title: WUKTOMÜ
-sidebar_position: 765
+sidebar_position: 766
 hoverText: overt/evident § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: overt/evident § Adjective
 
 **Modifier**: overt/evidently
 
-Telugu వ్యక్తము vyaktamu 
+Telugu వ్యక్తము vyaktamu /ʋjəkt̪amu/
 
 *Dravidian Language Family*

@@ -2,7 +2,7 @@
 id: yön
 slug: yön
 title: YÖN
-sidebar_position: 828
+sidebar_position: 829
 hoverText: to use (a tool) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: lüicü
 slug: lüicü
 title: LÜİCÜ
-sidebar_position: 808
+sidebar_position: 809
 hoverText: deer/giraffe/pronghorn § Noun
 ---
 
