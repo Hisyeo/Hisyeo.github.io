@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Hisyëö',
-  tagline: 'Language of the Gods',
+  tagline: 'A world language & community',
   favicon: 'img/hisyeo.ico',
 
   // Set the production url of your site here
