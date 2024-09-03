@@ -2,7 +2,7 @@
 id: motsı
 slug: motsı
 title: MOTSI
-sidebar_position: 642
+sidebar_position: 644
 hoverText: to await (an expectation) § Verb
 ---
 

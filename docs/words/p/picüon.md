@@ -2,7 +2,7 @@
 id: picüon
 slug: picüon
 title: PİCÜON
-sidebar_position: 570
+sidebar_position: 573
 hoverText: tired/exhausted § Adjective
 ---
 

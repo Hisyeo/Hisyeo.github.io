@@ -2,7 +2,7 @@
 id: celël
 slug: celël
 title: CELËL
-sidebar_position: 312
+sidebar_position: 314
 hoverText: to exchange/trade (the exchanged/traded) § Verb
 ---
 

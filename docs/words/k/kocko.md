@@ -2,7 +2,7 @@
 id: kocko
 slug: kocko
 title: KOCKO
-sidebar_position: 155
+sidebar_position: 156
 hoverText: rough § Adjective
 ---
 

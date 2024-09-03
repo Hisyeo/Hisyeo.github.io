@@ -2,7 +2,7 @@
 id: pole
 slug: pole
 title: POLE
-sidebar_position: 537
+sidebar_position: 540
 hoverText: 12 twelve § Numeral
 ---
 

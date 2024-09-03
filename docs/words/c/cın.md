@@ -2,13 +2,13 @@
 id: cın
 slug: cın
 title: CIN
-sidebar_position: 320
-hoverText: 1000 thousand § Numeral
+sidebar_position: 322
+hoverText: 1000 thousand § Particle
 ---
 
 ### cın&emsp;<span kind="abugida">ꞇ̃ȷ</span>
 
-*1000 thousand* **§** Numeral
+*1000 thousand* **§** Particle
 
 **Verb**: to be a thousand
 

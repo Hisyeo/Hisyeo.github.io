@@ -2,7 +2,7 @@
 id: ci
 slug: ci
 title: Cİ
-sidebar_position: 324
+sidebar_position: 326
 hoverText: propositive clause ender (agree?) § Postposition
 ---
 

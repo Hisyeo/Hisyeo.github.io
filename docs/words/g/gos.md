@@ -2,7 +2,7 @@
 id: gos
 slug: gos
 title: GOS
-sidebar_position: 223
+sidebar_position: 225
 hoverText: plant § Noun
 ---
 

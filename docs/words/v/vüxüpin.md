@@ -2,13 +2,13 @@
 id: vüxüpin
 slug: vüxüpin
 title: VÜXÜPİN
-sidebar_position: 638
-hoverText: accessory § Adjective
+sidebar_position: 640
+hoverText: accessory § Noun
 ---
 
 ### vüxüpin&emsp;<span kind="abugida">ɤʄɋʄʋ̃ɟ</span>
 
-*accessory* **§** Adjective
+*accessory* **§** Noun
 
 **Verb**: to be an accessory/attachment
 

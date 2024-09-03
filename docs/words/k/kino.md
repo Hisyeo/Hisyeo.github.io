@@ -2,7 +2,7 @@
 id: kino
 slug: kino
 title: KİNO
-sidebar_position: 197
+sidebar_position: 198
 hoverText: rhyme/verse § Noun
 ---
 

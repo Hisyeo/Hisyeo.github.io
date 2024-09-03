@@ -1,12 +1,12 @@
 ---
-id: lëso
-slug: lëso
-title: LËSO
-sidebar_position: 792
+id: wüöt
+slug: wüöt
+title: WÜÖT
+sidebar_position: 773
 hoverText: journey/trip/voyage § Noun
 ---
 
-### lëso&emsp;<span kind="abugida">ʓʇɐ</span>
+### wüöt&emsp;<span kind="abugida">ʓʇɐ</span>
 
 *journey/trip/voyage* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: journey/trip/voyage § Noun
 
 **Modifier**: journery/trip/voyage-related
 
-Swedish resa [reːsa]
+Dholuo wuoth [wʊɔt̪]
 
-*Germanic Language Family*
+*Nilo-Saharan Language Family*

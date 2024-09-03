@@ -2,7 +2,7 @@
 id: totsı
 slug: totsı
 title: TOTSI
-sidebar_position: 263
+sidebar_position: 265
 hoverText: standing § Adjective
 ---
 

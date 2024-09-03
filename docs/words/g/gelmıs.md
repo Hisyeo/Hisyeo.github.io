@@ -2,7 +2,7 @@
 id: gelmıs
 slug: gelmıs
 title: GELMIS
-sidebar_position: 241
+sidebar_position: 243
 hoverText: stretched § Adjective
 ---
 
