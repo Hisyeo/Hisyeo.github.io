@@ -2,7 +2,7 @@
 id: govon
 slug: govon
 title: GOVON
-sidebar_position: 227
+sidebar_position: 226
 hoverText: disgusted § Adjective
 ---
 

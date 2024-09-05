@@ -2,7 +2,7 @@
 id: ködus
 slug: ködus
 title: KÖDUS
-sidebar_position: 175
+sidebar_position: 174
 hoverText: sacred § Adjective
 ---
 

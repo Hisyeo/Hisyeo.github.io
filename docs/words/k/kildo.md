@@ -2,11 +2,11 @@
 id: kildo
 slug: kildo
 title: KİLDO
-sidebar_position: 202
+sidebar_position: 201
 hoverText: long § Adjective
 ---
 
-### kildo&emsp;<span kind="abugida">ʓƶı</span>
+### kildo&emsp;<span kind="abugida">ɔ͊ɟʌ</span>
 
 *long* **§** Adjective
 

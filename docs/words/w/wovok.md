@@ -3,18 +3,18 @@ id: wovok
 slug: wovok
 title: WOVOK
 sidebar_position: 748
-hoverText: to accept (a right) § Verb
+hoverText: to approve [of] (the approved) § Verb
 ---
 
 ### wovok&emsp;<span kind="abugida">ʒɤ̑</span>
 
-*to accept (a right)* **§** Verb
+*to approve [of] (the approved)* **§** Verb
 
-**Verb**: to accept
+**Verb**: to approve/agree
 
-**Noun**: a right/accepted thing
+**Noun**: an approved/agreed thing
 
-**Modifier**: acceptable
+**Modifier**: approvable/aggreeable
 
 Hijazi وافَق wāfag /waː.faɡ/
 

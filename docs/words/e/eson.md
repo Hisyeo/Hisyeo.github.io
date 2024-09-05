@@ -6,7 +6,7 @@ sidebar_position: 47
 hoverText: 09 nine § Numeral
 ---
 
-### eson&emsp;<span kind="abugida">cɟɐ</span>
+### eson&emsp;<span kind="abugida">ɽɿɐ̃</span>
 
 *09 nine* **§** Numeral
 

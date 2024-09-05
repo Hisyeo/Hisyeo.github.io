@@ -2,7 +2,7 @@
 id: conöi
 slug: conöi
 title: CONÖİ
-sidebar_position: 304
+sidebar_position: 303
 hoverText: beak § Noun
 ---
 

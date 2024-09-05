@@ -2,7 +2,7 @@
 id: kiünlık
 slug: kiünlık
 title: KİÜNLIK
-sidebar_position: 194
+sidebar_position: 193
 hoverText: authorized § Adjective
 ---
 

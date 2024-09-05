@@ -2,7 +2,7 @@
 id: towë
 slug: towë
 title: TOWË
-sidebar_position: 268
+sidebar_position: 267
 hoverText: hair/fur/plumage § Noun
 ---
 

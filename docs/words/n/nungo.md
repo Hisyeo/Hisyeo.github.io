@@ -6,7 +6,7 @@ sidebar_position: 737
 hoverText: naked § Adjective
 ---
 
-### nungo&emsp;<span kind="abugida">ʓ̃ıꞇ̃ı</span>
+### nungo&emsp;<span kind="abugida">ƨ̃ʃꜿ</span>
 
 *naked* **§** Adjective
 

@@ -6,7 +6,7 @@ sidebar_position: 122
 hoverText: to untie (the untied) § Verb
 ---
 
-### hödökü&emsp;<span kind="abugida">ʋ͊ʄʌ</span>
+### hödökü&emsp;<span kind="abugida">ɂıʌıɔʄ</span>
 
 *to untie (the untied)* **§** Verb
 

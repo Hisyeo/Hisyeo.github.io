@@ -2,7 +2,7 @@
 id: tüt
 slug: tüt
 title: TÜT
-sidebar_position: 295
+sidebar_position: 294
 hoverText: hot § Adjective
 ---
 

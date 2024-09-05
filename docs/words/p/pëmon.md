@@ -3,18 +3,18 @@ id: pëmon
 slug: pëmon
 title: PËMON
 sidebar_position: 560
-hoverText: to agree to (a promise) § Verb
+hoverText: to promise (a promise) § Verb
 ---
 
 ### pëmon&emsp;<span kind="abugida">ʋʇƶ̃</span>
 
-*to agree to (a promise)* **§** Verb
+*to promise (a promise)* **§** Verb
 
-**Verb**: to agree/promise (to)
+**Verb**: to promise (to)
 
-**Noun**: an agreement/promise
+**Noun**: a promise
 
-**Modifier**: agreeable/promisable
+**Modifier**: promisable
 
 Persian پیمان peymân /pejˈmɒːn/
 

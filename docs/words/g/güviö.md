@@ -2,7 +2,7 @@
 id: güviö
 slug: güviö
 title: GÜVİÖ
-sidebar_position: 256
+sidebar_position: 255
 hoverText: to push (the pushed/repelled) § Verb
 ---
 

@@ -6,7 +6,7 @@ sidebar_position: 773
 hoverText: journey/trip/voyage § Noun
 ---
 
-### wüöt&emsp;<span kind="abugida">ʓʇɐ</span>
+### wüöt&emsp;<span kind="abugida">ʒʄɽ̆ı</span>
 
 *journey/trip/voyage* **§** Noun
 

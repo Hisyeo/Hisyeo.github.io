@@ -6,7 +6,7 @@ sidebar_position: 85
 hoverText: to smell (a scent) § Verb
 ---
 
-### unon&emsp;<span kind="abugida">ʒ̃ʃ</span>
+### unon&emsp;<span kind="abugida">ɽʃƨ̃</span>
 
 *to smell (a scent)* **§** Verb
 
