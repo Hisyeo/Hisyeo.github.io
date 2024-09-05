@@ -47,25 +47,26 @@ console.log('Grabbing words from records...')
 
 const words = []
 const neutrals = []
-const monophthongs = []
+const monophthongs = {}
 const apocopes = []
 const collisions = []
 
 for (const record of records) {
     words.push(record["Hisyëö"])
     neutrals.push(neutralize(record["Hisyëö"]))
-    monophthongs.push(monophthongize(record["Hisyëö"]))
+    monophthongs[monophthongize(record["Hisyëö"])] = record["Hisyëö"]
     if (/[oöeëıiuü]/.test(record["Hisyëö"][0])) {
         apocopes.push(`l${record["Hisyëö"]}`);
         apocopes.push(`p${record["Hisyëö"]}`);
     }
 }
 
-console.log(monophthongs.filter(m => m));
-
 console.log('Reviewing collisions...')
     
 for (let word of words) {
+
+
+    // Syllable comparisons
     const matches = word.matchAll(syllableRegex)
     const sylSegments = []
     const sylValues = []
@@ -88,8 +89,8 @@ for (let word of words) {
             let wordOnsetChanged = collSyl.join('')
             if (words.includes(wordOnsetChanged)) {
                 collisionFound('Consonant', word, wordOnsetChanged, hl(collSyl, i), hl(collSyl, i))
-            } else if (monophthongs.includes(wordOnsetChanged)) {
-                collisionFound('Smoothed', word, wordOnsetChanged, hl(collSyl, i), hl(collSyl, i))
+            } else if (monophthongs[wordOnsetChanged]) {
+                collisionFound('Smoothed', word, monophthongs[wordOnsetChanged], hl(collSyl, i), hl(collSyl, i))
             } else if (apocopes.includes(wordOnsetChanged)) {
                 collisionFound('Apocopic', word, `${wordOnsetChanged[0]}'${wordOnsetChanged.slice(1)}`, hl(collSyl, i), hl(collSyl, i) + 1)
             } else if (neutrals.findIndex(w => w == neutralize(wordOnsetChanged)) != -1) {
@@ -224,7 +225,7 @@ function monophthongize(word) {
         } else if (letterA == 'e' && letterB == 'ë') {
             console.error(`Illegal syllable in ${word}`)
         } else if (letterA == 'e' && letterB == 'ı') {
-            console.error(`Illegal syllable in ${word}`)
+            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
         } else if (letterA == 'e' && letterB == 'i') {
             return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
         } else if (letterA == 'e' && letterB == 'u') {
@@ -252,7 +253,7 @@ function monophthongize(word) {
         } else if (letterA == 'ı' && letterB == 'o') {
             console.error(`Illegal syllable in ${word}`)
         } else if (letterA == 'ı' && letterB == 'ö') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ı' && letterB == 'e') {
             console.error(`Illegal syllable in ${word}`)
         } else if (letterA == 'ı' && letterB == 'ë') {
@@ -264,24 +265,24 @@ function monophthongize(word) {
         } else if (letterA == 'ı' && letterB == 'u') {
             console.error(`Illegal syllable in ${word}`)
         } else if (letterA == 'ı' && letterB == 'ü') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
 
         } else if (letterA == 'i' && letterB == 'o') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'i' && letterB == 'ö') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'i' && letterB == 'e') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'i' && letterB == 'ë') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'i' && letterB == 'ı') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'i' && letterB == 'i') {
             console.error(`Illegal syllable in ${word}`)
         } else if (letterA == 'i' && letterB == 'u') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'i' && letterB == 'ü') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
 
         } else if (letterA == 'u' && letterB == 'o') {
             console.error(`Illegal syllable in ${word}`)
@@ -302,19 +303,19 @@ function monophthongize(word) {
         
 
         } else if (letterA == 'ü' && letterB == 'o') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'ö') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'e') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'ë') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'ı') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'i') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'u') {
-            return `${letters.slice(0,index+1).join('')}${letters.slice(index+2).join('')}`
+            return `${letters.slice(0,index).join('')}${letters.slice(index+1).join('')}`
         } else if (letterA == 'ü' && letterB == 'ü') {
             console.error(`Illegal syllable in ${word}`)
         }
