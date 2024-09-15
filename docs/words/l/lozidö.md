@@ -16,6 +16,6 @@ hoverText: heart § Noun
 
 **Modifier**: heart-related
 
-Isthmus Zapotec ladxidó' 
+Isthmus Zapotec ladxidó' /ladʒidoʼ/
 
 *Oto-Manguean Language Family*

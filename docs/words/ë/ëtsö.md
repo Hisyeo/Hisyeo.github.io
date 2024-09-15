@@ -1,12 +1,12 @@
 ---
-id: köl
-slug: köl
-title: KÖL
-sidebar_position: 182
+id: ëtsö
+slug: ëtsö
+title: ËTSÖ
+sidebar_position: 56
 hoverText: state/condition § Noun
 ---
 
-### köl&emsp;<span kind="abugida">ɔ͊ı</span>
+### ëtsö&emsp;<span kind="abugida">ɽ̆ʇɐı</span>
 
 *state/condition* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: state/condition § Noun
 
 **Modifier**: state/condition-related
 
-Scottish Gaelic cor /kʰɔɾ/
+Esperanto eco [ˈet͡so]
 
-*Celtic Language Family*
+*Misc Language Family*

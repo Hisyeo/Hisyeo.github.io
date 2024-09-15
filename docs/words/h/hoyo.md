@@ -2,7 +2,7 @@
 id: hoyo
 slug: hoyo
 title: HOYO
-sidebar_position: 120
+sidebar_position: 123
 hoverText: alive § Adjective
 ---
 

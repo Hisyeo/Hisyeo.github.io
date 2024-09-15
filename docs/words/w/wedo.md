@@ -1,12 +1,12 @@
 ---
-id: celël
-slug: celël
-title: CELËL
-sidebar_position: 313
+id: wedo
+slug: wedo
+title: WEDO
+sidebar_position: 753
 hoverText: to exchange/trade (the exchanged/traded) § Verb
 ---
 
-### celël&emsp;<span kind="abugida">ꞇɿʓ͊ʇ</span>
+### wedo&emsp;<span kind="abugida">ʒɿʌ</span>
 
 *to exchange/trade (the exchanged/traded)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to exchange/trade (the exchanged/traded) § Verb
 
 **Modifier**: exchangeable/tradable
 
-Hungarian cserél [ˈt͡ʃɛreːl]
+Pawaia wɛda [wɛda]
 
-*Uralic Language Family*
+*Trans-New Guinea Language Family*

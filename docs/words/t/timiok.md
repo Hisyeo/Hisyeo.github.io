@@ -2,7 +2,7 @@
 id: timiok
 slug: timiok
 title: TİMİOK
-sidebar_position: 288
+sidebar_position: 287
 hoverText: bird § Noun
 ---
 

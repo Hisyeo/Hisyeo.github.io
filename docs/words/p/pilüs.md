@@ -2,7 +2,7 @@
 id: pilüs
 slug: pilüs
 title: PİLÜS
-sidebar_position: 579
+sidebar_position: 576
 hoverText: victorious § Adjective
 ---
 

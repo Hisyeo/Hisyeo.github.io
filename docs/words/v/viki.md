@@ -2,7 +2,7 @@
 id: viki
 slug: viki
 title: VİKİ
-sidebar_position: 624
+sidebar_position: 621
 hoverText: fast § Adjective
 ---
 

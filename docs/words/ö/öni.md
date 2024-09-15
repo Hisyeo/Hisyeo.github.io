@@ -2,7 +2,7 @@
 id: öni
 slug: öni
 title: ÖNİ
-sidebar_position: 41
+sidebar_position: 42
 hoverText: agentive verb noun particle § Particle
 ---
 

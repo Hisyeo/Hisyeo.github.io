@@ -2,7 +2,7 @@
 id: ulyö
 slug: ulyö
 title: ULYÖ
-sidebar_position: 89
+sidebar_position: 92
 hoverText: medial demonstrative (that/there) § Pronoun
 ---
 

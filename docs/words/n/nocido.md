@@ -2,7 +2,7 @@
 id: nocido
 slug: nocido
 title: NOCİDO
-sidebar_position: 701
+sidebar_position: 700
 hoverText: to lose/waste (the lost/wasted) § Verb
 ---
 

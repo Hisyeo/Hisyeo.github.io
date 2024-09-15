@@ -2,7 +2,7 @@
 id: zësto
 slug: zësto
 title: ZËSTO
-sidebar_position: 507
+sidebar_position: 504
 hoverText: feat/achievement/heroic deed § Noun
 ---
 

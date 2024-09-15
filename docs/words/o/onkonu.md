@@ -2,7 +2,7 @@
 id: onkonu
 slug: onkonu
 title: ONKONU
-sidebar_position: 24
+sidebar_position: 25
 hoverText: to estimate/guess (an estimation/guess) § Verb
 ---
 

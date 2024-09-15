@@ -2,7 +2,7 @@
 id: opülü
 slug: opülü
 title: OPÜLÜ
-sidebar_position: 18
+sidebar_position: 19
 hoverText: to overwhelm (the overwhelmed) § Verb
 ---
 

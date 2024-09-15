@@ -2,7 +2,7 @@
 id: hoköli
 slug: hoköli
 title: HOKÖLİ
-sidebar_position: 109
+sidebar_position: 112
 hoverText: tooth § Noun
 ---
 

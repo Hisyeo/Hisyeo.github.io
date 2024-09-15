@@ -1,12 +1,12 @@
 ---
-id: wowë
-slug: wowë
-title: WOWË
-sidebar_position: 750
+id: wowoë
+slug: wowoë
+title: WOWOË
+sidebar_position: 749
 hoverText: foot § Noun
 ---
 
-### wowë&emsp;<span kind="abugida">ʒʒʇ</span>
+### wowoë&emsp;<span kind="abugida">ʒʒɽʇ</span>
 
 *foot* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: foot § Noun
 
 **Modifier**: foot-related
 
-Hawaiian wāwae 
+Hawaiian wāwae /wā.wae/
 
 *Austronesian Language Family*

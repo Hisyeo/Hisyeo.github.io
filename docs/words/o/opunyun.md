@@ -2,7 +2,7 @@
 id: opunyun
 slug: opunyun
 title: OPUNYUN
-sidebar_position: 17
+sidebar_position: 18
 hoverText: easy § Adjective
 ---
 

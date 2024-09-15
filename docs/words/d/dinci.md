@@ -2,7 +2,7 @@
 id: dinci
 slug: dinci
 title: DİNCİ
-sidebar_position: 472
+sidebar_position: 470
 hoverText: block § Noun
 ---
 

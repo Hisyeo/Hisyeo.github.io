@@ -2,7 +2,7 @@
 id: hıklıhos
 slug: hıklıhos
 title: HIKLIHOS
-sidebar_position: 134
+sidebar_position: 137
 hoverText: supernatural/miraculous § Adjective
 ---
 

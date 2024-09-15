@@ -2,7 +2,7 @@
 id: nodu
 slug: nodu
 title: NODU
-sidebar_position: 704
+sidebar_position: 703
 hoverText: tone § Noun
 ---
 

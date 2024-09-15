@@ -2,7 +2,7 @@
 id: omülto
 slug: omülto
 title: OMÜLTO
-sidebar_position: 21
+sidebar_position: 22
 hoverText: abstract § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: opö
 slug: opö
 title: OPÖ
-sidebar_position: 16
+sidebar_position: 17
 hoverText: arm § Noun
 ---
 
