@@ -126,15 +126,11 @@ const config = {
             items: [
               {
                 label: 'Reddit',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.reddit.com/r/Hisy38/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'WhatsApp',
-                href: 'https://twitter.com/docusaurus',
+                href: '/docs/community#how-can-i-join-the-community',
               },
             ],
           },
@@ -147,7 +143,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/govuliel/hyo',
+                href: 'https://github.com/Hisyeo',
               },
             ],
           },
