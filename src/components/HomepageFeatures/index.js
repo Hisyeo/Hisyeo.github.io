@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_trip_re_f724.svg').default,
     description: (
       <>
-        Evolved from Kokanu but with a larger lexicon. Most added words
-        identified in review of <a href="https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/minimal-english">Minimal English</a> and <a href="https://minilanguage.com">Mini</a> materials.
+        Evolved from Kokanu but with a larger lexicon. Added words were
+        identified in review of scientific, literary and lyrical sources.
         An emphasis on reducing of the semantic space within each word.
       </>
     ),
