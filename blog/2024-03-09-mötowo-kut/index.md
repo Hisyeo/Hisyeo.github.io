@@ -5,7 +5,7 @@ authors: [govuliel]
 tags: [hiskünzo]
 ---
 
-ëo xowosë ölë noyo ü do möniso cö mötowo kut hoi yogö zentık **Hisyëö**.
+ëo xowosë ölë noyo ü xe möniso cö mötowo kut hoi yogö zentık **Hisyëö**.
 
 toswil yë döcui nulun Dokyüsölus ü övo:
 
