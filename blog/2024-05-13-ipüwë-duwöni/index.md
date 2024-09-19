@@ -1,6 +1,6 @@
 ---
 slug: ipüwë-duwöni
-title: İpüwë Moliyü Duwöni
+title: İpüwë ün Duwöni
 authors: [govuliel]
 tags: [hiskünzo]
 ---
