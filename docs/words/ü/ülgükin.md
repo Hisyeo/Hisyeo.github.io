@@ -2,7 +2,7 @@
 id: ülgükin
 slug: ülgükin
 title: ÜLGÜKİN
-sidebar_position: 108
+sidebar_position: 110
 hoverText: dry § Adjective
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: koli
-slug: koli
-title: KOLİ
-sidebar_position: 166
+id: sël
+slug: sël
+title: SËL
+sidebar_position: 382
 hoverText: down § Noun
 ---
 
-### koli&emsp;<span kind="abugida">ɔʓɟ</span>
+### sël&emsp;<span kind="abugida">ɔʓɟ</span>
 
 *down* **§** Noun
 
@@ -16,6 +16,6 @@ hoverText: down § Noun
 
 **Modifier**: below/down
 
-Marathi खाली khālī [kʰäː.liː]
+Persian زیر zir [zeːɾ]
 
 *Indo-Iranian Language Family*

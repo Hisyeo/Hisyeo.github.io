@@ -2,7 +2,7 @@
 id: köi
 slug: köi
 title: KÖİ
-sidebar_position: 167
+sidebar_position: 168
 hoverText: epistemic verb particle § Particle
 ---
 

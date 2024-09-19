@@ -2,7 +2,7 @@
 id: hëlxun
 slug: hëlxun
 title: HËLXUN
-sidebar_position: 136
+sidebar_position: 138
 hoverText: early § Adjective
 ---
 

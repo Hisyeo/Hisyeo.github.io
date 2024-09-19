@@ -2,7 +2,7 @@
 id: konpokpo
 slug: konpokpo
 title: KONPOKPO
-sidebar_position: 163
+sidebar_position: 165
 hoverText: general/universal § Adjective
 ---
 

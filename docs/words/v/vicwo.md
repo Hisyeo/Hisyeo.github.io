@@ -2,7 +2,7 @@
 id: vicwo
 slug: vicwo
 title: VİCWO
-sidebar_position: 623
+sidebar_position: 625
 hoverText: hidden/secret § Adjective
 ---
 

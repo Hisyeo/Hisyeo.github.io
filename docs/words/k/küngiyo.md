@@ -2,7 +2,7 @@
 id: küngiyo
 slug: küngiyo
 title: KÜNGİYO
-sidebar_position: 218
+sidebar_position: 219
 hoverText: organization/enterprise § Noun
 ---
 

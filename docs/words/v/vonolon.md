@@ -2,7 +2,7 @@
 id: vonolon
 slug: vonolon
 title: VONOLON
-sidebar_position: 602
+sidebar_position: 604
 hoverText: monkey/ape § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: ütok
 slug: ütok
 title: ÜTOK
-sidebar_position: 94
+sidebar_position: 95
 hoverText: also § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: hödökü
 slug: hödökü
 title: HÖDÖKÜ
-sidebar_position: 125
+sidebar_position: 127
 hoverText: to untie (the untied) § Verb
 ---
 

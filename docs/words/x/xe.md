@@ -1,12 +1,12 @@
 ---
-id: do
-slug: do
-title: DO
-sidebar_position: 446
+id: xe
+slug: xe
+title: XE
+sidebar_position: 425
 hoverText: subjective relative clause particle § Particle
 ---
 
-### do&emsp;<span kind="abugida">ʌ</span>
+### xe&emsp;<span kind="abugida">ʌ</span>
 
 *subjective relative clause particle* **§** Particle
 
@@ -16,6 +16,6 @@ hoverText: subjective relative clause particle § Particle
 
 **Modifier**: -
 
-Hausa dà /dà/
+Hebrew שֶׁ־ she- [ʃɛː]
 
-*Nilo-Saharan Language Family*
+*Afroasiatic Language Family*

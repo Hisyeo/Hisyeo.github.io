@@ -2,7 +2,7 @@
 id: pono
 slug: pono
 title: PONO
-sidebar_position: 535
+sidebar_position: 537
 hoverText: facing/pointing § Adjective
 ---
 

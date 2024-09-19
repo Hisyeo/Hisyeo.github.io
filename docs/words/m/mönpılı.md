@@ -2,7 +2,7 @@
 id: mönpılı
 slug: mönpılı
 title: MÖNPILI
-sidebar_position: 662
+sidebar_position: 663
 hoverText: far § Adjective
 ---
 

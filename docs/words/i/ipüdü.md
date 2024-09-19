@@ -2,7 +2,7 @@
 id: ipüdü
 slug: ipüdü
 title: İPÜDÜ
-sidebar_position: 75
+sidebar_position: 76
 hoverText: now § Adjective
 ---
 

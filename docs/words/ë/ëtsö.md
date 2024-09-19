@@ -2,7 +2,7 @@
 id: ëtsö
 slug: ëtsö
 title: ËTSÖ
-sidebar_position: 56
+sidebar_position: 57
 hoverText: state/condition § Noun
 ---
 

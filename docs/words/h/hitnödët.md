@@ -2,7 +2,7 @@
 id: hitnödët
 slug: hitnödët
 title: HİTNÖDËT
-sidebar_position: 139
+sidebar_position: 141
 hoverText: oscillating § Adjective
 ---
 

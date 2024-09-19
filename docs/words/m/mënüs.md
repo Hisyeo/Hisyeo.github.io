@@ -2,7 +2,7 @@
 id: mënüs
 slug: mënüs
 title: MËNÜS
-sidebar_position: 667
+sidebar_position: 668
 hoverText: fewer/less § Determiner
 ---
 
