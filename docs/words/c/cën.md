@@ -6,7 +6,7 @@ sidebar_position: 314
 hoverText: up § Noun
 ---
 
-### cën&emsp;<span kind="abugida">ƶʃʓı</span>
+### cën&emsp;<span kind="abugida">ꞇ̃ʇ</span>
 
 *up* **§** Noun
 

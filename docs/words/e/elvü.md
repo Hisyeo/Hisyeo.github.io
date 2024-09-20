@@ -6,7 +6,7 @@ sidebar_position: 54
 hoverText: 1000 thousand § Particle
 ---
 
-### elvü&emsp;<span kind="abugida">ꞇ̃ȷ</span>
+### elvü&emsp;<span kind="abugida">ɽ͊ɿɤʄ</span>
 
 *1000 thousand* **§** Particle
 

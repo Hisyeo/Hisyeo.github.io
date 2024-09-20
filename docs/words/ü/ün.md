@@ -6,7 +6,7 @@ sidebar_position: 102
 hoverText: and § Conjunction
 ---
 
-### ün&emsp;<span kind="abugida">ƶʓɟɀʄ</span>
+### ün&emsp;<span kind="abugida">ɽ̃ʄ</span>
 
 *and* **§** Conjunction
 

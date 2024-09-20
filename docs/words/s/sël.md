@@ -6,7 +6,7 @@ sidebar_position: 382
 hoverText: down § Noun
 ---
 
-### sël&emsp;<span kind="abugida">ɔʓɟ</span>
+### sël&emsp;<span kind="abugida">ɐ͊ʇ</span>
 
 *down* **§** Noun
 
