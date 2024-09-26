@@ -2,13 +2,13 @@
 id: lötven
 slug: lötven
 title: LÖTVEN
-sidebar_position: 786
-hoverText: politeness clause ender § Postposition
+sidebar_position: 785
+hoverText: politeness sentence ender § Postposition
 ---
 
 ### lötven&emsp;<span kind="abugida">ʓ̆ıɤ̃ɿ</span>
 
-*politeness clause ender* **§** Postposition
+*politeness sentence ender* **§** Postposition
 
 **Verb**: -
 

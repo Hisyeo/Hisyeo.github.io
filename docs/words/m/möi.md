@@ -3,16 +3,16 @@ id: möi
 slug: möi
 title: MÖİ
 sidebar_position: 653
-hoverText: all/every § Determiner
+hoverText: all § Determiner
 ---
 
 ### möi&emsp;<span kind="abugida">ƶıɽɟ</span>
 
-*all/every* **§** Determiner
+*all* **§** Determiner
 
-**Verb**: to be all/everything
+**Verb**: to be all
 
-**Noun**: all/every(thing)
+**Noun**: all
 
 **Modifier**: most/-est
 

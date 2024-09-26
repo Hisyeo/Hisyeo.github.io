@@ -2,7 +2,7 @@
 id: wuto
 slug: wuto
 title: WUTO
-sidebar_position: 770
+sidebar_position: 769
 hoverText: month § Noun
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: govon
-slug: govon
-title: GOVON
+id: golvon
+slug: golvon
+title: GOLVON
 sidebar_position: 227
 hoverText: disgusted § Adjective
 ---
 
-### govon&emsp;<span kind="abugida">ꜿɤ̃</span>
+### golvon&emsp;<span kind="abugida">ꜿɤ̃</span>
 
 *disgusted* **§** Adjective
 

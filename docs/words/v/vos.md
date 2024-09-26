@@ -3,12 +3,12 @@ id: vos
 slug: vos
 title: VOS
 sidebar_position: 602
-hoverText: free relative clause particle § Particle
+hoverText: free subordinate clause particle § Particle
 ---
 
 ### vos&emsp;<span kind="abugida">ɤ́</span>
 
-*free relative clause particle* **§** Particle
+*free subordinate clause particle* **§** Particle
 
 **Verb**: -
 

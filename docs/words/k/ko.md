@@ -3,12 +3,12 @@ id: ko
 slug: ko
 title: KO
 sidebar_position: 158
-hoverText: interrogative clause ender (yes?) § Postposition
+hoverText: interrogative sentence ender (yes?) § Postposition
 ---
 
 ### ko&emsp;<span kind="abugida">ɔ</span>
 
-*interrogative clause ender (yes?)* **§** Postposition
+*interrogative sentence ender (yes?)* **§** Postposition
 
 **Verb**: -
 

@@ -2,7 +2,7 @@
 id: lon
 slug: lon
 title: LON
-sidebar_position: 779
+sidebar_position: 778
 hoverText: distance/duration marker (for) § Preposition
 ---
 

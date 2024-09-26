@@ -12,9 +12,9 @@ hoverText: each § Determiner
 
 **Verb**: to be each
 
-**Noun**: each (one)
+**Noun**: each (one)/every(thing)
 
-**Modifier**: each/apiece
+**Modifier**: -let/-pack/-unit
 
 French chacun /ʃa.kœ̃/
 

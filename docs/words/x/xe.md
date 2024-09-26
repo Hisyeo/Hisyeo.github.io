@@ -3,12 +3,12 @@ id: xe
 slug: xe
 title: XE
 sidebar_position: 425
-hoverText: subjective relative clause particle § Particle
+hoverText: subjective subordinate clause particle § Particle
 ---
 
 ### xe&emsp;<span kind="abugida">ɋɿ</span>
 
-*subjective relative clause particle* **§** Particle
+*subjective subordinate clause particle* **§** Particle
 
 **Verb**: -
 

@@ -3,12 +3,12 @@ id: ze
 slug: ze
 title: ZE
 sidebar_position: 504
-hoverText: aggressive/emotional clause ender § Postposition
+hoverText: aggressive/emotional sentence ender § Postposition
 ---
 
 ### ze&emsp;<span kind="abugida">ⱴɿ</span>
 
-*aggressive/emotional clause ender* **§** Postposition
+*aggressive/emotional sentence ender* **§** Postposition
 
 **Verb**: -
 

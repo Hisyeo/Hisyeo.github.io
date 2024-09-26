@@ -2,7 +2,7 @@
 id: wuktomü
 slug: wuktomü
 title: WUKTOMÜ
-sidebar_position: 769
+sidebar_position: 768
 hoverText: overt/evident § Adjective
 ---
 

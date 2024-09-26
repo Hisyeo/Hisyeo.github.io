@@ -2,7 +2,7 @@
 id: wıkse
 slug: wıkse
 title: WIKSE
-sidebar_position: 762
+sidebar_position: 761
 hoverText: belly § Noun
 ---
 
