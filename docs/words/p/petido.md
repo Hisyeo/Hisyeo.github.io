@@ -2,7 +2,7 @@
 id: petido
 slug: petido
 title: PETİDO
-sidebar_position: 551
+sidebar_position: 552
 hoverText: to mean (a meaning) § Verb
 ---
 

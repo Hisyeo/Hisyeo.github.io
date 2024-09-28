@@ -2,7 +2,7 @@
 id: cën
 slug: cën
 title: CËN
-sidebar_position: 314
+sidebar_position: 315
 hoverText: up § Noun
 ---
 

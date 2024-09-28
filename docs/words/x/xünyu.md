@@ -2,7 +2,7 @@
 id: xünyu
 slug: xünyu
 title: XÜNYU
-sidebar_position: 448
+sidebar_position: 449
 hoverText: 00 zero § Numeral
 ---
 

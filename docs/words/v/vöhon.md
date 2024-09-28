@@ -2,7 +2,7 @@
 id: vöhon
 slug: vöhon
 title: VÖHON
-sidebar_position: 608
+sidebar_position: 609
 hoverText: front/forward § Noun
 ---
 

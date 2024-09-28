@@ -2,7 +2,7 @@
 id: gito
 slug: gito
 title: GİTO
-sidebar_position: 246
+sidebar_position: 247
 hoverText: line § Noun
 ---
 

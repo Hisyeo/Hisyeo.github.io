@@ -2,7 +2,7 @@
 id: wüöt
 slug: wüöt
 title: WÜÖT
-sidebar_position: 772
+sidebar_position: 773
 hoverText: journey/trip/voyage § Noun
 ---
 

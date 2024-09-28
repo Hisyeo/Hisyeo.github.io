@@ -2,7 +2,7 @@
 id: züyı
 slug: züyı
 title: ZÜYI
-sidebar_position: 526
+sidebar_position: 527
 hoverText: to spot/notice (the spotted/noticed) § Verb
 ---
 

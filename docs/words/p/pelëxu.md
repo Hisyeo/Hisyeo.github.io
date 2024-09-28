@@ -2,7 +2,7 @@
 id: pelëxu
 slug: pelëxu
 title: PELËXU
-sidebar_position: 553
+sidebar_position: 554
 hoverText: to mark (a target) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: möcipo
 slug: möcipo
 title: MÖCİPO
-sidebar_position: 660
+sidebar_position: 661
 hoverText: ongoing § Adjective
 ---
 

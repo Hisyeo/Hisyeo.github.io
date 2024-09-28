@@ -2,7 +2,7 @@
 id: möi
 slug: möi
 title: MÖİ
-sidebar_position: 653
+sidebar_position: 654
 hoverText: all § Determiner
 ---
 

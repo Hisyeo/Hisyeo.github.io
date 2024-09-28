@@ -2,7 +2,7 @@
 id: vëlkonö
 slug: vëlkonö
 title: VËLKONÖ
-sidebar_position: 615
+sidebar_position: 616
 hoverText: close § Adjective
 ---
 

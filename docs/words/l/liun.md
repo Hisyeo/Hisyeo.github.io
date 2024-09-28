@@ -2,7 +2,7 @@
 id: liun
 slug: liun
 title: LİUN
-sidebar_position: 796
+sidebar_position: 797
 hoverText: to nurture/grow (the nurtured/grown) § Verb
 ---
 
