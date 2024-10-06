@@ -2,7 +2,7 @@
 id: yünyoü
 slug: yünyoü
 title: YÜNYOÜ
-sidebar_position: 840
+sidebar_position: 841
 hoverText: to have (a possession) § Verb
 ---
 

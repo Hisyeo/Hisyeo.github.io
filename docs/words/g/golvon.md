@@ -6,7 +6,7 @@ sidebar_position: 235
 hoverText: disgusted § Adjective
 ---
 
-### golvon&emsp;<span kind="abugida">ꜿɤ̃</span>
+### golvon&emsp;<span kind="abugida">ꜿ͊ɤ̃</span>
 
 *disgusted* **§** Adjective
 

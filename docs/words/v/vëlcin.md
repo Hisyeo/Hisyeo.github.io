@@ -2,7 +2,7 @@
 id: vëlcin
 slug: vëlcin
 title: VËLCİN
-sidebar_position: 617
+sidebar_position: 618
 hoverText: last/latest § Adjective
 ---
 

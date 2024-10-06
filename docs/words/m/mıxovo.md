@@ -2,7 +2,7 @@
 id: mıxovo
 slug: mıxovo
 title: MIXOVO
-sidebar_position: 672
+sidebar_position: 673
 hoverText: acidic § Adjective
 ---
 

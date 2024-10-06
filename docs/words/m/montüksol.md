@@ -2,7 +2,7 @@
 id: montüksol
 slug: montüksol
 title: MONTÜKSOL
-sidebar_position: 653
+sidebar_position: 654
 hoverText: logical § Adjective
 ---
 

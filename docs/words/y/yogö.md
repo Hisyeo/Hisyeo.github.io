@@ -2,7 +2,7 @@
 id: yogö
 slug: yogö
 title: YOGÖ
-sidebar_position: 819
+sidebar_position: 820
 hoverText: part/piece § Noun
 ---
 

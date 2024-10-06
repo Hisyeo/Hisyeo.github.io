@@ -2,7 +2,7 @@
 id: lünti
 slug: lünti
 title: LÜNTİ
-sidebar_position: 815
+sidebar_position: 816
 hoverText: green § Adjective
 ---
 

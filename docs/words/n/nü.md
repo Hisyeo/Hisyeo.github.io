@@ -2,7 +2,7 @@
 id: nü
 slug: nü
 title: NÜ
-sidebar_position: 740
+sidebar_position: 741
 hoverText: we/us § Pronoun
 ---
 

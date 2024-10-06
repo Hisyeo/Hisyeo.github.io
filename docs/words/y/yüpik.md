@@ -2,7 +2,7 @@
 id: yüpik
 slug: yüpik
 title: YÜPİK
-sidebar_position: 838
+sidebar_position: 839
 hoverText: to love (the loved) § Verb
 ---
 

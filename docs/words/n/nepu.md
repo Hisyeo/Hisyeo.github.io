@@ -2,7 +2,7 @@
 id: nepu
 slug: nepu
 title: NEPU
-sidebar_position: 716
+sidebar_position: 717
 hoverText: unlikely/rare § Adjective
 ---
 
