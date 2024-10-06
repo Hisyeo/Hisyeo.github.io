@@ -2,7 +2,7 @@
 id: lı
 slug: lı
 title: LI
-sidebar_position: 796
+sidebar_position: 798
 hoverText: subject complement marker § Preposition
 ---
 

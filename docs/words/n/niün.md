@@ -2,7 +2,7 @@
 id: niün
 slug: niün
 title: NİÜN
-sidebar_position: 730
+sidebar_position: 732
 hoverText: they/them § Pronoun
 ---
 

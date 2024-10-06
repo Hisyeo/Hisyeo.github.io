@@ -2,7 +2,7 @@
 id: nënko
 slug: nënko
 title: NËNKO
-sidebar_position: 721
+sidebar_position: 723
 hoverText: reason/cause marker (because of) § Preposition
 ---
 

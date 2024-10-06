@@ -2,7 +2,7 @@
 id: zoli
 slug: zoli
 title: ZOLİ
-sidebar_position: 500
+sidebar_position: 502
 hoverText: bush/shrub § Noun
 ---
 

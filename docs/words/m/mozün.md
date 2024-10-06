@@ -2,7 +2,7 @@
 id: mozün
 slug: mozün
 title: MOZÜN
-sidebar_position: 650
+sidebar_position: 652
 hoverText: cream/paste § Noun
 ---
 

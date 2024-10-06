@@ -2,7 +2,7 @@
 id: xëti
 slug: xëti
 title: XËTİ
-sidebar_position: 430
+sidebar_position: 432
 hoverText: 07 seven § Numeral
 ---
 

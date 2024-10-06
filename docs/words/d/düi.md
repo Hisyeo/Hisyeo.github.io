@@ -2,7 +2,7 @@
 id: düi
 slug: düi
 title: DÜİ
-sidebar_position: 482
+sidebar_position: 484
 hoverText: 02 two § Numeral
 ---
 

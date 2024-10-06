@@ -2,7 +2,7 @@
 id: pomoge
 slug: pomoge
 title: POMOGE
-sidebar_position: 537
+sidebar_position: 539
 hoverText: prone § Adjective
 ---
 

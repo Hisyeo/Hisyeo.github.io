@@ -3,18 +3,18 @@ id: ılık
 slug: ılık
 title: ILIK
 sidebar_position: 69
-hoverText: before § Determiner
+hoverText: predecessive marker (before) § Preposition
 ---
 
 ### ılık&emsp;<span kind="abugida">ɽȷʓ̑ȷ</span>
 
-*before* **§** Determiner
+*predecessive marker (before)* **§** Preposition
 
-**Verb**: to be before
+**Verb**: -
 
-**Noun**: past
+**Noun**: -
 
-**Modifier**: beforehand/ago/earlier
+**Modifier**: -
 
 Bashkir элек elek [ɪ̞ˈlɪ̞k]
 

@@ -2,7 +2,7 @@
 id: cinzon
 slug: cinzon
 title: CİNZON
-sidebar_position: 333
+sidebar_position: 334
 hoverText: nervous/anxious § Adjective
 ---
 

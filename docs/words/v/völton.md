@@ -2,19 +2,19 @@
 id: völton
 slug: völton
 title: VÖLTON
-sidebar_position: 613
-hoverText: hereafter § Adjective
+sidebar_position: 615
+hoverText: future § Adjective
 ---
 
 ### völton&emsp;<span kind="abugida">ɤ͊ıc̃</span>
 
-*hereafter* **§** Adjective
+*future* **§** Adjective
 
-**Verb**: to be hereafter
+**Verb**: to be a future
 
-**Noun**: henceforth-ness
+**Noun**: future
 
-**Modifier**: hereafter
+**Modifier**: hereafter/henceforth/afterwards/later
 
 Dutch voortaan /ˈvoːrtaːn/
 

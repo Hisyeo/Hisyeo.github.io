@@ -2,7 +2,7 @@
 id: nëös
 slug: nëös
 title: NËÖS
-sidebar_position: 719
+sidebar_position: 721
 hoverText: new/fresh § Adjective
 ---
 

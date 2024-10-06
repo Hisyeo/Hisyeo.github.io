@@ -2,7 +2,7 @@
 id: zızıme
 slug: zızıme
 title: ZIZIME
-sidebar_position: 510
+sidebar_position: 512
 hoverText: generation § Noun
 ---
 

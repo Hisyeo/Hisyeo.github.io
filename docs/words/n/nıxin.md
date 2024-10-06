@@ -2,7 +2,7 @@
 id: nıxin
 slug: nıxin
 title: NIXİN
-sidebar_position: 725
+sidebar_position: 727
 hoverText: wing § Noun
 ---
 

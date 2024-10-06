@@ -2,19 +2,19 @@
 id: pıslon
 slug: pıslon
 title: PISLON
-sidebar_position: 564
-hoverText: thus far § Adjective
+sidebar_position: 566
+hoverText: past § Noun
 ---
 
 ### pıslon&emsp;<span kind="abugida">ʋ́ȷʓ̃</span>
 
-*thus far* **§** Adjective
+*past* **§** Noun
 
-**Verb**: to be thus far
+**Verb**: to be a past
 
-**Noun**: heretofore-ness
+**Noun**: past
 
-**Modifier**: thus far
+**Modifier**: thus far/beforehand/ago/earlier
 
 German bislang /bɪsˈlaŋ/
 

@@ -2,7 +2,7 @@
 id: si
 slug: si
 title: Sİ
-sidebar_position: 388
+sidebar_position: 390
 hoverText: perfect verb particle § Particle
 ---
 

@@ -2,7 +2,7 @@
 id: pundu
 slug: pundu
 title: PUNDU
-sidebar_position: 586
+sidebar_position: 588
 hoverText: closed § Adjective
 ---
 

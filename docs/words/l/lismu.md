@@ -2,7 +2,7 @@
 id: lismu
 slug: lismu
 title: LİSMU
-sidebar_position: 805
+sidebar_position: 807
 hoverText: clay § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: müxi
 slug: müxi
 title: MÜXİ
-sidebar_position: 693
+sidebar_position: 695
 hoverText: insect § Noun
 ---
 

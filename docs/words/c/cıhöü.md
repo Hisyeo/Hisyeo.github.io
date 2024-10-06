@@ -2,19 +2,19 @@
 id: cıhöü
 slug: cıhöü
 title: CIHÖÜ
-sidebar_position: 317
-hoverText: after § Determiner
+sidebar_position: 318
+hoverText: successive marker (after) § Preposition
 ---
 
 ### cıhöü&emsp;<span kind="abugida">ꞇȷɂıɽʄ</span>
 
-*after* **§** Determiner
+*successive marker (after)* **§** Preposition
 
-**Verb**: to be after
+**Verb**: -
 
-**Noun**: future
+**Noun**: -
 
-**Modifier**: afterwards/later
+**Modifier**: -
 
 Chinese 此後 cǐhòu 
 

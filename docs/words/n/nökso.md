@@ -2,7 +2,7 @@
 id: nökso
 slug: nökso
 title: NÖKSO
-sidebar_position: 713
+sidebar_position: 715
 hoverText: map/chart § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: selöhö
 slug: selöhö
 title: SELÖHÖ
-sidebar_position: 377
+sidebar_position: 379
 hoverText: theme/topic § Verb
 ---
 

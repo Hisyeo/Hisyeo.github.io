@@ -2,7 +2,7 @@
 id: wonkük
 slug: wonkük
 title: WONKÜK
-sidebar_position: 749
+sidebar_position: 751
 hoverText: curved § Adjective
 ---
 

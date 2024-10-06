@@ -2,7 +2,7 @@
 id: ze
 slug: ze
 title: ZE
-sidebar_position: 505
+sidebar_position: 507
 hoverText: aggressive/emotional sentence ender § Postposition
 ---
 

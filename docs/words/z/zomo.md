@@ -2,7 +2,7 @@
 id: zomo
 slug: zomo
 title: ZOMO
-sidebar_position: 493
+sidebar_position: 495
 hoverText: group § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: potyoto
 slug: potyoto
 title: POTYOTO
-sidebar_position: 532
+sidebar_position: 534
 hoverText: responsible § Adjective
 ---
 

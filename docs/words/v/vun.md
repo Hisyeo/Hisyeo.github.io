@@ -2,7 +2,7 @@
 id: vun
 slug: vun
 title: VUN
-sidebar_position: 633
+sidebar_position: 635
 hoverText: fraction § Noun
 ---
 
