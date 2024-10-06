@@ -234,7 +234,7 @@
 ꜿʓ,golo,to read (a document),to read,a document,readable,to study,Verb,pata,g,Hijazi Arabic قرا gara,/ɡara/,Afroasiatic,golo,Communication 102: Basic Communication I,2,0,0,0,0,0,0,0,gala,4,11.01.23.01.00
 ꜿʓ̃ʃ,golun,to respect (the respected),to respect,the respected,respectable,to be respectful,Verb,kalan,g,Tagalog/Bikol galang,[ˈɡa.lɐŋ],Austronesian,golun,Sociology 1,1,0,1,0,0,0,0,0,galrn,5,11.01.23.07.21
 ꜿ͊ʋȷƨ́ʄ,golpınüs,chartreuse,to be chartreuse,chartreuse-ness,chartreuse,,Adjective,,g,Latin galbinus,[ˈɡäɫ̪bɪnʊs̠],Romance,golpınüs,Color 303: Tertiary Colors,1,0,0,1,1,0,0,0,galpjnus,8,11.01.23.18.05
-ꜿɤ̃,golvon,disgusted,to be disgusted,disgust,disgusted,,Adjective,kapan,g,Hijazi Arabic قرفان garfān,/ɡarfaːn/,Afroasiatic,golvon,Emotion 201: Fundamental Emotions II,2,0,0,0,0,0,0,0,galvan,6,11.01.23.19.01
+ꜿ͊ɤ̃,golvon,disgusted,to be disgusted,disgust,disgusted,,Adjective,kapan,g,Hijazi Arabic قرفان garfān,/ɡarfaːn/,Afroasiatic,golvon,Emotion 201: Fundamental Emotions II,2,0,0,0,0,0,0,0,galvan,6,11.01.23.19.01
 ꜿı,gö,existent,to be/exist,existence,existent,,Adjective,si,g,Songhay goo,,Nilo-Saharan,gö,"Geography, Environment, & Location 1",0,1,0,0,0,0,0,0,go,2,11.02.00.00.00
 ꜿıꞇɟʌ̃,göcidon,to choose (a choice),to choose,a choice/decision,choosable,,Verb,cakuwa,g,Persian گزیدن gozidan,[ɡ̥o.ziː.d̪ǽn],Indo-Iranian,göcidon,Evaluation 1,1,1,0,0,0,1,0,0,gocidan,7,11.02.13.06.16
 ꜿ̃ıɀʃƶ̃,gönyumon,grunting/growling,to be grunting/growling,gruntiness/growliness,grunting/growling,,Adjective,,g,French grognement,/ɡʁɔ.ɲ(ə).mɑ̃/,Romance,gönyumon,Phenomenology 204: Fundamental Senses II,1,1,1,0,0,0,0,0,gonyrman,8,11.02.21.24.07
@@ -355,7 +355,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɐɂɽʄ,sohoü,healthy,to be healthy,healthiness,healthy,,Adjective,,s,Avar сахав saxaw,[saχaw],Nakh-Daghestani,sohoü,Anatomy 102: Anatomical Properties I,2,0,0,1,0,0,0,0,sahau,5,14.01.09.01.08
 ɐɔɤʄ,sokovü,floor,to be a floor/base,a floor/base,floor/base-related,,Noun,,s,Swahili sakafu,/sa'ka.fu/,Niger-Congo,sokovü,"Structures, Geometry, & Dimensions 3",2,0,0,1,0,0,0,0,sakavu,6,14.01.10.01.19
 ɐ̆ƨ̃ɟ,sotnin,right,to be the right (side),right (side),rightside-related/right(hand),,Noun,jamin,s,Q'eqchi' sa' nim,/saʔ.nim/,Mayan,sotnin,"Geography, Environment, & Location 2",1,0,0,0,0,1,0,0,satnin,6,14.01.12.21.06
-ɐꞇ̑,socok,to start (startable entity),to start/begin,startable/beginnable entity,started/began,,Adjective,tepu,s,Slovak začať,[ˈzat͡ʃac],Balto-Slavic,socok,Communication 103: Abstract Fundamentals II,2,0,0,0,0,0,0,0,sacak,5,14.01.13.01.10
+ɐꞇ̑,socok,to start (startable entity),to start/begin,startable/beginnable entity,started/began,,Verb,tepu,s,Slovak začať,[ˈzat͡ʃac],Balto-Slavic,socok,Communication 103: Abstract Fundamentals II,2,0,0,0,0,0,0,0,sacak,5,14.01.13.01.10
 ɐʌʓ̃ʃ,sodolun,normal,to be normal/standard,normality/standardness,normal/standard,,Adjective,satalan,s,Hindi साधारण sādhāraṇ,[s̪äː.d̪ʱäː.ɾə̃ɳ],Indo-Iranian,sodolun,Sociology 1,2,0,1,0,0,0,0,0,sadalrn,7,14.01.16.01.23
 ɐʌ̃ɿ,soden,back,to be the back/behind region,back/behind region,back-related/backward,,Noun,pice,s,Macedonian заден zaden,[ˈzadɛn],Balto-Slavic,soden,"Geography, Environment, & Location 3",1,0,0,0,0,0,1,0,sadbn,5,14.01.16.03.21
 ɐʌȷʓʄ,sodılü,loose,to be loose,looseness,loose,,Adjective,satilu,s,Kannada ಸಡಿಲು saḍilu,[sɐ.ɖɪ.lu],Dravidian,sodılü,Properties 102: Fundamental Properties II,1,0,0,1,1,0,0,0,sadjlu,6,14.01.16.05.23
@@ -609,6 +609,7 @@ cʄʓıƨ,tülöno,comparison,to be a comparison,comparison,comparison-related,,
 ɤ̃ƶ̆,vonmot,absent/nonexistent,to be absent/nonexistent,absentness/nonexistentness,absent/nonexistent,,Adjective,lipan,v,Vietnamese vắng mặt,[vaŋ˧˦ mat̚˧˨ʔ],Austro-Asiatic,vonmot,"Geography, Environment, & Location 1",2,0,0,0,0,0,0,0,vanmat,6,19.01.21.20.01
 ɤʓ,volo,atom,to be a particle/atom,particle/atom,to be a particle/atom,,Noun,sala,v,Arabic ذَرَّة ḏarra,/ðar.ra/,Afroasiatic,volo,Science & Medical 4,2,0,0,0,0,0,0,0,vala,4,19.01.23.01.00
 ɤıɂ̃,vöhon,front/forward,to be the front/forward region,front/forward region,front-related/forward,,Noun,polan,v,German voran,/foˈʁan/,Germanic,vöhon,"Geography, Environment, & Location 3",1,1,0,0,0,0,0,0,vohan,5,19.02.09.01.21
+ɤıꜿɟꞇ̃ɟ,vögicin,curious/inquisitive,to be curious/inquisitive,curiosity/inquisitiveness,curious/inquisitive,,Adjective,,v,Korean 호기심 hogisim,[ˈɸʷo̞(ː)ɡiɕʰim],Koreic,vögicin,Properties 101: Fundamental Properties I,0,1,0,0,0,2,0,0,vogicin,7,19.02.11.06.13
 ɤıʌʓ̄,vödoloc,algae/moss,to be algae/moss,algae/moss,algae/moss-like,,Noun,,v,Belarusian во́дарасць vódarascʹ,[ˈvodarasʲt͡sʲ],Balto-Slavic,vödoloc,Biology 101: Plants,2,1,0,0,0,0,0,0,vodalac,7,19.02.16.01.23
 ɤıʓ̃ʃ,völun,to want (a desire),to want/desire,a desire,wantable/desirable,,Verb,ju,v,German wollen,/ˈvɔlən/,Germanic,völun,Emotion 102: Emotive Actions,0,1,1,0,0,0,0,0,volrn,5,19.02.23.07.21
 ɤ͊ıc̃,völton,hereafter,to be hereafter,henceforth-ness,hereafter,,Adjective,,v,Dutch voortaan,/ˈvoːrtaːn/,Germanic,völton,Mathematics 303: Relative Time III,1,1,0,0,0,0,0,0,voltan,6,19.02.23.12.01
