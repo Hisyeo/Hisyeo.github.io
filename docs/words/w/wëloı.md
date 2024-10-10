@@ -2,7 +2,7 @@
 id: wëloı
 slug: wëloı
 title: WËLOI
-sidebar_position: 764
+sidebar_position: 765
 hoverText: to work (in an occupation) § Verb
 ---
 

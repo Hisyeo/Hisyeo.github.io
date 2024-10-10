@@ -2,7 +2,7 @@
 id: züntülu
 slug: züntülu
 title: ZÜNTÜLU
-sidebar_position: 527
+sidebar_position: 528
 hoverText: joint § Noun
 ---
 

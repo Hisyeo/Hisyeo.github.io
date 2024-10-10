@@ -2,7 +2,7 @@
 id: sël
 slug: sël
 title: SËL
-sidebar_position: 385
+sidebar_position: 386
 hoverText: down § Noun
 ---
 

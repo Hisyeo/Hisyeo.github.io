@@ -2,7 +2,7 @@
 id: solwöc
 slug: solwöc
 title: SOLWÖC
-sidebar_position: 370
+sidebar_position: 371
 hoverText: top § Noun
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: cinmi
-slug: cinmi
-title: CİNMİ
+id: cönkök
+slug: cönkök
+title: CÖNKÖK
 sidebar_position: 335
 hoverText: precise/specific § Adjective
 ---
 
-### cinmi&emsp;<span kind="abugida">ꞇ̃ɟƶɟ</span>
+### cönkök&emsp;<span kind="abugida">ⱴ̃ɟꞇʄɽʇ</span>
 
 *precise/specific* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: precise/specific § Adjective
 
 **Modifier**: precise/specific
 
-Mandarin 精密 jīngmì /t͡ɕiŋmi/
+Cantonese 準確 zeon2 kok3 /tsɵn.kɔːk̚/
 
 *Sino-Tibetan Language Family*

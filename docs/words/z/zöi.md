@@ -2,7 +2,7 @@
 id: zöi
 slug: zöi
 title: ZÖİ
-sidebar_position: 503
+sidebar_position: 504
 hoverText: blue § Adjective
 ---
 

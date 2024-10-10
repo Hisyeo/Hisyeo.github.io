@@ -2,7 +2,7 @@
 id: xecinoc
 slug: xecinoc
 title: XECİNOC
-sidebar_position: 429
+sidebar_position: 430
 hoverText: crossed/intersected § Adjective
 ---
 

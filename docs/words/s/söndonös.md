@@ -2,7 +2,7 @@
 id: söndonös
 slug: söndonös
 title: SÖNDONÖS
-sidebar_position: 375
+sidebar_position: 376
 hoverText: direct/live § Adjective
 ---
 

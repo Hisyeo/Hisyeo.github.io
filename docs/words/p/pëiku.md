@@ -2,7 +2,7 @@
 id: pëiku
 slug: pëiku
 title: PËİKU
-sidebar_position: 558
+sidebar_position: 559
 hoverText: shell § Noun
 ---
 

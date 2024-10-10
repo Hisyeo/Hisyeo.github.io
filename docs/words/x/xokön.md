@@ -2,7 +2,7 @@
 id: xokön
 slug: xokön
 title: XOKÖN
-sidebar_position: 415
+sidebar_position: 416
 hoverText: each § Determiner
 ---
 

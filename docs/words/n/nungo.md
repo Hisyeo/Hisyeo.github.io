@@ -2,7 +2,7 @@
 id: nungo
 slug: nungo
 title: NUNGO
-sidebar_position: 739
+sidebar_position: 740
 hoverText: naked § Adjective
 ---
 

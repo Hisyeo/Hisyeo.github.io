@@ -2,7 +2,7 @@
 id: dönüs
 slug: dönüs
 title: DÖNÜS
-sidebar_position: 463
+sidebar_position: 464
 hoverText: pig § Noun
 ---
 

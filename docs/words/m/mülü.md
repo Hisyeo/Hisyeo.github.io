@@ -2,7 +2,7 @@
 id: mülü
 slug: mülü
 title: MÜLÜ
-sidebar_position: 699
+sidebar_position: 700
 hoverText: complete § Adjective
 ---
 

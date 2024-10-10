@@ -2,7 +2,7 @@
 id: xopo
 slug: xopo
 title: XOPO
-sidebar_position: 417
+sidebar_position: 418
 hoverText: to strike (the stricken)  § Verb
 ---
 

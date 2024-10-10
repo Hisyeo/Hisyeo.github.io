@@ -2,7 +2,7 @@
 id: wëilun
 slug: wëilun
 title: WËİLUN
-sidebar_position: 758
+sidebar_position: 759
 hoverText: to behave (a behavior) § Verb
 ---
 

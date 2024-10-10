@@ -2,7 +2,7 @@
 id: sundipot
 slug: sundipot
 title: SUNDİPOT
-sidebar_position: 401
+sidebar_position: 402
 hoverText: arthropod § Noun
 ---
 

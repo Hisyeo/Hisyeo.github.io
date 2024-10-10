@@ -2,7 +2,7 @@
 id: müstokin
 slug: müstokin
 title: MÜSTOKİN
-sidebar_position: 694
+sidebar_position: 695
 hoverText: straight § Adjective
 ---
 
