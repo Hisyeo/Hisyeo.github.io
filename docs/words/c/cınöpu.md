@@ -2,7 +2,7 @@
 id: cınöpu
 slug: cınöpu
 title: CINÖPU
-sidebar_position: 324
+sidebar_position: 325
 hoverText: vermilion § Adjective
 ---
 

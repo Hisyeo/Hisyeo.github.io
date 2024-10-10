@@ -2,7 +2,7 @@
 id: cënpö
 slug: cënpö
 title: CËNPÖ
-sidebar_position: 317
+sidebar_position: 318
 hoverText: big § Adjective
 ---
 

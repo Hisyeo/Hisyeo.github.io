@@ -2,7 +2,7 @@
 id: cönkök
 slug: cönkök
 title: CÖNKÖK
-sidebar_position: 335
+sidebar_position: 313
 hoverText: precise/specific § Adjective
 ---
 
