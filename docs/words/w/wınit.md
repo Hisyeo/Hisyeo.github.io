@@ -2,7 +2,7 @@
 id: wınit
 slug: wınit
 title: WINİT
-sidebar_position: 768
+sidebar_position: 769
 hoverText: humble § Adjective
 ---
 

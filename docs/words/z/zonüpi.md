@@ -2,7 +2,7 @@
 id: zonüpi
 slug: zonüpi
 title: ZONÜPİ
-sidebar_position: 499
+sidebar_position: 500
 hoverText: southern § Adjective
 ---
 

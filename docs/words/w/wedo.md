@@ -2,7 +2,7 @@
 id: wedo
 slug: wedo
 title: WEDO
-sidebar_position: 757
+sidebar_position: 758
 hoverText: to exchange/trade (the exchanged/traded) § Verb
 ---
 

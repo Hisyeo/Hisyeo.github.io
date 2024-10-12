@@ -2,7 +2,7 @@
 id: yünlön
 slug: yünlön
 title: YÜNLÖN
-sidebar_position: 843
+sidebar_position: 844
 hoverText: to forgive (the forgiven) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: yoskinyo
 slug: yoskinyo
 title: YOSKİNYO
-sidebar_position: 824
+sidebar_position: 825
 hoverText: cave § Noun
 ---
 

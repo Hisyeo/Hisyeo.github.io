@@ -2,7 +2,7 @@
 id: mëtliös
 slug: mëtliös
 title: MËTLİÖS
-sidebar_position: 671
+sidebar_position: 672
 hoverText: medium/average § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: yundöü
 slug: yundöü
 title: YUNDÖÜ
-sidebar_position: 840
+sidebar_position: 841
 hoverText: to guide (the guided) § Verb
 ---
 

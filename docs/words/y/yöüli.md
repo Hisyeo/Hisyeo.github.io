@@ -2,7 +2,7 @@
 id: yöüli
 slug: yöüli
 title: YÖÜLİ
-sidebar_position: 831
+sidebar_position: 832
 hoverText: beneficial § Adjective
 ---
 

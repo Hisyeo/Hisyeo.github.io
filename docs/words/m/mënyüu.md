@@ -2,7 +2,7 @@
 id: mënyüu
 slug: mënyüu
 title: MËNYÜU
-sidebar_position: 674
+sidebar_position: 675
 hoverText: offspring § Noun
 ---
 

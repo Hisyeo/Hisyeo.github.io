@@ -2,7 +2,7 @@
 id: löicök
 slug: löicök
 title: LÖİCÖK
-sidebar_position: 789
+sidebar_position: 790
 hoverText: emphasis sentence ender (really/again) § Postposition
 ---
 

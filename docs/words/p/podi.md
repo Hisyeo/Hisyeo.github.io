@@ -2,7 +2,7 @@
 id: podi
 slug: podi
 title: PODİ
-sidebar_position: 538
+sidebar_position: 539
 hoverText: unmoving § Adjective
 ---
 

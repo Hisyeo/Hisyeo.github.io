@@ -2,7 +2,7 @@
 id: puswëlın
 slug: puswëlın
 title: PUSWËLIN
-sidebar_position: 587
+sidebar_position: 588
 hoverText: oath/incantation § Noun
 ---
 

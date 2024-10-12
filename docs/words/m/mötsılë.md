@@ -2,7 +2,7 @@
 id: mötsılë
 slug: mötsılë
 title: MÖTSILË
-sidebar_position: 664
+sidebar_position: 665
 hoverText: to tie (the tied) § Verb
 ---
 
