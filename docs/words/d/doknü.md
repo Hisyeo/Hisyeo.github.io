@@ -2,7 +2,7 @@
 id: doknü
 slug: doknü
 title: DOKNÜ
-sidebar_position: 458
+sidebar_position: 459
 hoverText: to cover (the covered) § Verb
 ---
 

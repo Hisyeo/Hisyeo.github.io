@@ -2,7 +2,7 @@
 id: colot
 slug: colot
 title: COLOT
-sidebar_position: 308
+sidebar_position: 309
 hoverText: wise/clever § Adjective
 ---
 

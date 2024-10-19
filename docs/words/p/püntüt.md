@@ -2,7 +2,7 @@
 id: püntüt
 slug: püntüt
 title: PÜNTÜT
-sidebar_position: 601
+sidebar_position: 602
 hoverText: tail § Noun
 ---
 

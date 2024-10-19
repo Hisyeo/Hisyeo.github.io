@@ -2,7 +2,7 @@
 id: doicël
 slug: doicël
 title: DOİCËL
-sidebar_position: 454
+sidebar_position: 455
 hoverText: to capture/intercept (the captured/intercepted) § Verb
 ---
 

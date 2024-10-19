@@ -2,7 +2,7 @@
 id: zelen
 slug: zelen
 title: ZELEN
-sidebar_position: 510
+sidebar_position: 511
 hoverText: upcoming § Adjective
 ---
 

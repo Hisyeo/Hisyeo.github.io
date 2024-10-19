@@ -2,7 +2,7 @@
 id: gongoxi
 slug: gongoxi
 title: GONGOXİ
-sidebar_position: 229
+sidebar_position: 230
 hoverText: alarm § Noun
 ---
 

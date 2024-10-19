@@ -2,7 +2,7 @@
 id: wıxonü
 slug: wıxonü
 title: WIXONÜ
-sidebar_position: 768
+sidebar_position: 769
 hoverText: virus § Noun
 ---
 

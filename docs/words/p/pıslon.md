@@ -2,7 +2,7 @@
 id: pıslon
 slug: pıslon
 title: PISLON
-sidebar_position: 568
+sidebar_position: 569
 hoverText: past § Noun
 ---
 

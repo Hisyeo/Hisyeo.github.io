@@ -2,7 +2,7 @@
 id: dës
 slug: dës
 title: DËS
-sidebar_position: 470
+sidebar_position: 471
 hoverText: negatitive verb modifier particle § Particle
 ---
 

@@ -2,7 +2,7 @@
 id: hovo
 slug: hovo
 title: HOVO
-sidebar_position: 121
+sidebar_position: 122
 hoverText: to plead (a plea) § Verb
 ---
 

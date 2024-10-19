@@ -2,7 +2,7 @@
 id: xe
 slug: xe
 title: XE
-sidebar_position: 429
+sidebar_position: 430
 hoverText: subjective subordinate clause particle § Particle
 ---
 

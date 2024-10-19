@@ -2,7 +2,7 @@
 id: ses
 slug: ses
 title: SES
-sidebar_position: 379
+sidebar_position: 380
 hoverText: 16 sixteen § Numeral
 ---
 

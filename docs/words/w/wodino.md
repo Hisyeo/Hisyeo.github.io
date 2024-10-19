@@ -2,7 +2,7 @@
 id: wodino
 slug: wodino
 title: WODİNO
-sidebar_position: 750
+sidebar_position: 751
 hoverText: stale § Adjective
 ---
 

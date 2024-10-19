@@ -2,7 +2,7 @@
 id: külünun
 slug: külünun
 title: KÜLÜNUN
-sidebar_position: 222
+sidebar_position: 223
 hoverText: cage/kennel/jail/cell § Noun
 ---
 

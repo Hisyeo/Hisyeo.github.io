@@ -2,7 +2,7 @@
 id: pipök
 slug: pipök
 title: PİPÖK
-sidebar_position: 579
+sidebar_position: 580
 hoverText: white § Adjective
 ---
 

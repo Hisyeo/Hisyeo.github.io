@@ -2,7 +2,7 @@
 id: üncoi
 slug: üncoi
 title: ÜNCOİ
-sidebar_position: 105
+sidebar_position: 106
 hoverText: proud § Adjective
 ---
 

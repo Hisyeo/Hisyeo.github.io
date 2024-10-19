@@ -2,7 +2,7 @@
 id: gik
 slug: gik
 title: GİK
-sidebar_position: 246
+sidebar_position: 247
 hoverText: arriving § Adjective
 ---
 

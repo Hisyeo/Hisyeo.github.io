@@ -2,7 +2,7 @@
 id: gülü
 slug: gülü
 title: GÜLÜ
-sidebar_position: 262
+sidebar_position: 263
 hoverText: wound/injury § Noun
 ---
 

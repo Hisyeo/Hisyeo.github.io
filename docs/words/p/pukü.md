@@ -2,7 +2,7 @@
 id: pukü
 slug: pukü
 title: PUKÜ
-sidebar_position: 584
+sidebar_position: 585
 hoverText: frozen § Adjective
 ---
 

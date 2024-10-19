@@ -2,7 +2,7 @@
 id: cıxin
 slug: cıxin
 title: CIXİN
-sidebar_position: 320
+sidebar_position: 321
 hoverText: to enforce (the enforced) § Verb
 ---
 

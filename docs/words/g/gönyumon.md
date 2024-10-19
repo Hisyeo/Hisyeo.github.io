@@ -2,7 +2,7 @@
 id: gönyumon
 slug: gönyumon
 title: GÖNYUMON
-sidebar_position: 238
+sidebar_position: 239
 hoverText: grunting/growling § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: nokdo
 slug: nokdo
 title: NOKDO
-sidebar_position: 705
+sidebar_position: 706
 hoverText: old § Adjective
 ---
 

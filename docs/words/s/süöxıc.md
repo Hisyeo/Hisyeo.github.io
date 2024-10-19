@@ -2,7 +2,7 @@
 id: süöxıc
 slug: süöxıc
 title: SÜÖXIC
-sidebar_position: 405
+sidebar_position: 406
 hoverText: to fold (the folded) § Verb
 ---
 

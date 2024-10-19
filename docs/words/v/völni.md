@@ -2,7 +2,7 @@
 id: völni
 slug: völni
 title: VÖLNİ
-sidebar_position: 618
+sidebar_position: 619
 hoverText: free § Adjective
 ---
 

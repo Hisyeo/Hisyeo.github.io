@@ -2,7 +2,7 @@
 id: numüno
 slug: numüno
 title: NUMÜNO
-sidebar_position: 740
+sidebar_position: 741
 hoverText: example § Noun
 ---
 

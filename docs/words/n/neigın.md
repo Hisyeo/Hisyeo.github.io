@@ -2,7 +2,7 @@
 id: neigın
 slug: neigın
 title: NEİGIN
-sidebar_position: 718
+sidebar_position: 719
 hoverText: tendency/inclination § Noun
 ---
 

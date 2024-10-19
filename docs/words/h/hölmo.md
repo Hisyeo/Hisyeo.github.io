@@ -2,7 +2,7 @@
 id: hölmo
 slug: hölmo
 title: HÖLMO
-sidebar_position: 133
+sidebar_position: 134
 hoverText: dream § Noun
 ---
 

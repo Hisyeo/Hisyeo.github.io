@@ -2,7 +2,7 @@
 id: ispönxu
 slug: ispönxu
 title: İSPÖNXU
-sidebar_position: 74
+sidebar_position: 75
 hoverText: sponge § Noun
 ---
 

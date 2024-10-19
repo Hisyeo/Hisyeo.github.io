@@ -2,7 +2,7 @@
 id: hövezi
 slug: hövezi
 title: HÖVEZİ
-sidebar_position: 128
+sidebar_position: 129
 hoverText: bovine § Noun
 ---
 

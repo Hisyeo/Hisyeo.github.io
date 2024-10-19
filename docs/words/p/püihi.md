@@ -2,7 +2,7 @@
 id: püihi
 slug: püihi
 title: PÜİHİ
-sidebar_position: 593
+sidebar_position: 594
 hoverText: timid/shy § Adjective
 ---
 

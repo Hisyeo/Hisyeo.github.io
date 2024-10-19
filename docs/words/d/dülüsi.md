@@ -2,7 +2,7 @@
 id: dülüsi
 slug: dülüsi
 title: DÜLÜSİ
-sidebar_position: 493
+sidebar_position: 494
 hoverText: reptile § Noun
 ---
 

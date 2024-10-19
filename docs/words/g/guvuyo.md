@@ -2,7 +2,7 @@
 id: guvuyo
 slug: guvuyo
 title: GUVUYO
-sidebar_position: 250
+sidebar_position: 251
 hoverText: shop/market § Noun
 ---
 

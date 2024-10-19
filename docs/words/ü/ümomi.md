@@ -2,7 +2,7 @@
 id: ümomi
 slug: ümomi
 title: ÜMOMİ
-sidebar_position: 101
+sidebar_position: 102
 hoverText: savory § Adjective
 ---
 

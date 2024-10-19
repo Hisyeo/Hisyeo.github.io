@@ -2,7 +2,7 @@
 id: weltö
 slug: weltö
 title: WELTÖ
-sidebar_position: 759
+sidebar_position: 760
 hoverText: limp/flaccid/flabby § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: somo
 slug: somo
 title: SOMO
-sidebar_position: 366
+sidebar_position: 367
 hoverText: to name [as] (a name) § Verb
 ---
 

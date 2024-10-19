@@ -2,7 +2,7 @@
 id: tetëk
 slug: tetëk
 title: TETËK
-sidebar_position: 279
+sidebar_position: 280
 hoverText: breast/chest § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: sëlpö
 slug: sëlpö
 title: SËLPÖ
-sidebar_position: 387
+sidebar_position: 388
 hoverText: yellow § Adjective
 ---
 
