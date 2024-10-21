@@ -2,7 +2,7 @@
 id: punxın
 slug: punxın
 title: PUNXIN
-sidebar_position: 590
+sidebar_position: 591
 hoverText: innate/native § Adjective
 ---
 

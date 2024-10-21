@@ -2,7 +2,7 @@
 id: litö
 slug: litö
 title: LİTÖ
-sidebar_position: 805
+sidebar_position: 807
 hoverText: empty/incomplete § Adjective
 ---
 

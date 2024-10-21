@@ -2,7 +2,7 @@
 id: ci
 slug: ci
 title: Cİ
-sidebar_position: 328
+sidebar_position: 329
 hoverText: propositive sentence ender (agree?) § Postposition
 ---
 

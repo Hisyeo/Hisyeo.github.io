@@ -2,7 +2,7 @@
 id: xontün
 slug: xontün
 title: XONTÜN
-sidebar_position: 422
+sidebar_position: 423
 hoverText: to provoke (a provocation) § Verb
 ---
 

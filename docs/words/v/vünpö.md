@@ -2,7 +2,7 @@
 id: vünpö
 slug: vünpö
 title: VÜNPÖ
-sidebar_position: 647
+sidebar_position: 648
 hoverText: to squeeze (squeezable entity) § Verb
 ---
 

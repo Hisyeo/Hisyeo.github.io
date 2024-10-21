@@ -1,0 +1,21 @@
+---
+id: cöünton
+slug: cöünton
+title: CÖÜNTON
+sidebar_position: 311
+hoverText: loyal/faithful § Adjective
+---
+
+### cöünton&emsp;<span kind="abugida">ꞇıɽ̃ʄc̃</span>
+
+*loyal/faithful* **§** Adjective
+
+**Verb**: to be loyal/faithful
+
+**Noun**: loyalty/faithfulness
+
+**Modifier**: loyal/faithful
+
+Vietnamese trung thành [ʈʊwŋ͡m˧˧ tʰɛɲ˦˩]
+
+*Austro-Asiatic Language Family*

@@ -2,7 +2,7 @@
 id: sodılü
 slug: sodılü
 title: SODILÜ
-sidebar_position: 362
+sidebar_position: 363
 hoverText: loose § Adjective
 ---
 

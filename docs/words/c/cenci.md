@@ -2,7 +2,7 @@
 id: cenci
 slug: cenci
 title: CENCİ
-sidebar_position: 316
+sidebar_position: 317
 hoverText: thin § Adjective
 ---
 

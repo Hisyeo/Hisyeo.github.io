@@ -2,11 +2,11 @@
 id: cönkök
 slug: cönkök
 title: CÖNKÖK
-sidebar_position: 314
+sidebar_position: 315
 hoverText: precise/specific § Adjective
 ---
 
-### cönkök&emsp;<span kind="abugida">ⱴ̃ɟꞇʄɽʇ</span>
+### cönkök&emsp;<span kind="abugida">ꞇ̃ıɔ̑ı</span>
 
 *precise/specific* **§** Adjective
 

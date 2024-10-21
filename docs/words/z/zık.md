@@ -2,7 +2,7 @@
 id: zık
 slug: zık
 title: ZIK
-sidebar_position: 514
+sidebar_position: 515
 hoverText: what § Pronoun
 ---
 

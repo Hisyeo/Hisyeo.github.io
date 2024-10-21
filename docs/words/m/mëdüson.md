@@ -2,7 +2,7 @@
 id: mëdüson
 slug: mëdüson
 title: MËDÜSON
-sidebar_position: 674
+sidebar_position: 675
 hoverText: laborious § Adjective
 ---
 

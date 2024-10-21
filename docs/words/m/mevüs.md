@@ -2,7 +2,7 @@
 id: mevüs
 slug: mevüs
 title: MEVÜS
-sidebar_position: 671
+sidebar_position: 672
 hoverText: safe § Adjective
 ---
 

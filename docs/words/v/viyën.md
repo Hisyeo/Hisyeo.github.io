@@ -2,7 +2,7 @@
 id: viyën
 slug: viyën
 title: VİYËN
-sidebar_position: 637
+sidebar_position: 638
 hoverText: 100 hundred § Numeral
 ---
 

@@ -2,7 +2,7 @@
 id: pëlëtë
 slug: pëlëtë
 title: PËLËTË
-sidebar_position: 566
+sidebar_position: 567
 hoverText: wall § Noun
 ---
 

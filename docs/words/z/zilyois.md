@@ -2,7 +2,7 @@
 id: zilyois
 slug: zilyois
 title: ZİLYOİS
-sidebar_position: 523
+sidebar_position: 524
 hoverText: deep § Adjective
 ---
 

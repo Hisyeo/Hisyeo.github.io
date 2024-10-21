@@ -2,7 +2,7 @@
 id: völton
 slug: völton
 title: VÖLTON
-sidebar_position: 618
+sidebar_position: 619
 hoverText: future § Adjective
 ---
 

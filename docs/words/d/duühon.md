@@ -2,7 +2,7 @@
 id: duühon
 slug: duühon
 title: DUÜHON
-sidebar_position: 482
+sidebar_position: 483
 hoverText: to surrender (the surrendered) § Verb
 ---
 

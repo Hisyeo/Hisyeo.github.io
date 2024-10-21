@@ -2,7 +2,7 @@
 id: siüvo
 slug: siüvo
 title: SİÜVO
-sidebar_position: 394
+sidebar_position: 395
 hoverText: to digest (the digested) § Verb
 ---
 

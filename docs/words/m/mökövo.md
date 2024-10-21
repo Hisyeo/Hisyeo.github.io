@@ -2,7 +2,7 @@
 id: mökövo
 slug: mökövo
 title: MÖKÖVO
-sidebar_position: 661
+sidebar_position: 662
 hoverText: tube § Noun
 ---
 

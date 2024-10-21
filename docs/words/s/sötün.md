@@ -2,7 +2,7 @@
 id: sötün
 slug: sötün
 title: SÖTÜN
-sidebar_position: 374
+sidebar_position: 375
 hoverText: column § Noun
 ---
 

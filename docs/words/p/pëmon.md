@@ -2,7 +2,7 @@
 id: pëmon
 slug: pëmon
 title: PËMON
-sidebar_position: 565
+sidebar_position: 566
 hoverText: to promise (a promise) § Verb
 ---
 

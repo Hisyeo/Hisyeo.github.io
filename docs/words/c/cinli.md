@@ -2,7 +2,7 @@
 id: cinli
 slug: cinli
 title: CİNLİ
-sidebar_position: 337
+sidebar_position: 338
 hoverText: to undergo (an experience) § Verb
 ---
 

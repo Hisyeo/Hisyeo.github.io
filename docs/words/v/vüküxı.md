@@ -2,11 +2,11 @@
 id: vüküxı
 slug: vüküxı
 title: VÜKÜXI
-sidebar_position: 644
+sidebar_position: 645
 hoverText: revenge/vengeance § Noun
 ---
 
-### vüküxı&emsp;<span kind="abugida">ɤʄɔʄꞇȷ</span>
+### vüküxı&emsp;<span kind="abugida">ɤʄɔʄɋȷ</span>
 
 *revenge/vengeance* **§** Noun
 
