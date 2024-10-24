@@ -2,7 +2,7 @@
 id: könpo
 slug: könpo
 title: KÖNPO
-sidebar_position: 183
+sidebar_position: 184
 hoverText: shaking § Adjective
 ---
 

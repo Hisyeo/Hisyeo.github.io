@@ -2,7 +2,7 @@
 id: lis
 slug: lis
 title: LİS
-sidebar_position: 809
+sidebar_position: 810
 hoverText: smooth § Adjective
 ---
 

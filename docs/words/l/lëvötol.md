@@ -2,7 +2,7 @@
 id: lëvötol
 slug: lëvötol
 title: LËVÖTOL
-sidebar_position: 802
+sidebar_position: 803
 hoverText: bouncing § Adjective
 ---
 

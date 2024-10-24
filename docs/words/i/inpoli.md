@@ -2,7 +2,7 @@
 id: inpoli
 slug: inpoli
 title: İNPOLİ
-sidebar_position: 81
+sidebar_position: 82
 hoverText: flower § Noun
 ---
 

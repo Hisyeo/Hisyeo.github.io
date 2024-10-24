@@ -2,7 +2,7 @@
 id: sikin
 slug: sikin
 title: SİKİN
-sidebar_position: 397
+sidebar_position: 399
 hoverText: event § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: isipö
 slug: isipö
 title: İSİPÖ
-sidebar_position: 73
+sidebar_position: 74
 hoverText: claw § Noun
 ---
 

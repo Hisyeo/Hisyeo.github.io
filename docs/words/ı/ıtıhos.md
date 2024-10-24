@@ -2,7 +2,7 @@
 id: ıtıhos
 slug: ıtıhos
 title: ITIHOS
-sidebar_position: 64
+sidebar_position: 65
 hoverText: history § Noun
 ---
 

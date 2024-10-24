@@ -2,7 +2,7 @@
 id: doi
 slug: doi
 title: DOİ
-sidebar_position: 455
+sidebar_position: 457
 hoverText: string § Noun
 ---
 

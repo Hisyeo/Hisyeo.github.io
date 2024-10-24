@@ -2,7 +2,7 @@
 id: zoloni
 slug: zoloni
 title: ZOLONİ
-sidebar_position: 505
+sidebar_position: 507
 hoverText: fuel § Noun
 ---
 

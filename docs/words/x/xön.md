@@ -2,7 +2,7 @@
 id: xön
 slug: xön
 title: XÖN
-sidebar_position: 430
+sidebar_position: 432
 hoverText: good § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: sëdu
 slug: sëdu
 title: SËDU
-sidebar_position: 385
+sidebar_position: 387
 hoverText: station/garage § Noun
 ---
 

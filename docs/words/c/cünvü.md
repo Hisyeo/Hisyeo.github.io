@@ -2,7 +2,7 @@
 id: cünvü
 slug: cünvü
 title: CÜNVÜ
-sidebar_position: 353
+sidebar_position: 355
 hoverText: repeating § Adjective
 ---
 

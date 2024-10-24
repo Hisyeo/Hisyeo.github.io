@@ -2,7 +2,7 @@
 id: cöünton
 slug: cöünton
 title: CÖÜNTON
-sidebar_position: 311
+sidebar_position: 313
 hoverText: loyal/faithful § Adjective
 ---
 

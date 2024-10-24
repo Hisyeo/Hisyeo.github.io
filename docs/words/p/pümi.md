@@ -2,7 +2,7 @@
 id: pümi
 slug: pümi
 title: PÜMİ
-sidebar_position: 602
+sidebar_position: 603
 hoverText: ground/terrain/earth § Noun
 ---
 

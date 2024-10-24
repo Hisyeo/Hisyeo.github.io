@@ -2,7 +2,7 @@
 id: xonluk
 slug: xonluk
 title: XONLUK
-sidebar_position: 424
+sidebar_position: 426
 hoverText: young § Adjective
 ---
 

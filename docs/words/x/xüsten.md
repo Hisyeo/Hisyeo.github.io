@@ -2,7 +2,7 @@
 id: xüsten
 slug: xüsten
 title: XÜSTEN
-sidebar_position: 452
+sidebar_position: 454
 hoverText: to wash (the washed) § Verb
 ---
 

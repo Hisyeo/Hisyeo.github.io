@@ -2,7 +2,7 @@
 id: könyëc
 slug: könyëc
 title: KÖNYËC
-sidebar_position: 184
+sidebar_position: 185
 hoverText: ending § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: son
 slug: son
 title: SON
-sidebar_position: 369
+sidebar_position: 371
 hoverText: 03 three § Numeral
 ---
 

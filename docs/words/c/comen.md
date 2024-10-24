@@ -2,7 +2,7 @@
 id: comen
 slug: comen
 title: COMEN
-sidebar_position: 305
+sidebar_position: 307
 hoverText: lawn/meadow § Noun
 ---
 

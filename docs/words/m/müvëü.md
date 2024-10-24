@@ -2,7 +2,7 @@
 id: müvëü
 slug: müvëü
 title: MÜVËÜ
-sidebar_position: 700
+sidebar_position: 701
 hoverText: clean § Adjective
 ---
 

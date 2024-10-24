@@ -2,7 +2,7 @@
 id: elentët
 slug: elentët
 title: ELENTËT
-sidebar_position: 53
+sidebar_position: 54
 hoverText: opposite § Adjective
 ---
 

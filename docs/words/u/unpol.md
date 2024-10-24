@@ -2,7 +2,7 @@
 id: unpol
 slug: unpol
 title: UNPOL
-sidebar_position: 92
+sidebar_position: 93
 hoverText: amber (color) § Adjective
 ---
 

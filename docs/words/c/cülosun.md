@@ -2,7 +2,7 @@
 id: cülosun
 slug: cülosun
 title: CÜLOSUN
-sidebar_position: 354
+sidebar_position: 356
 hoverText: to allow (the allowed) § Verb
 ---
 

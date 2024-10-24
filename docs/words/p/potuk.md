@@ -2,7 +2,7 @@
 id: potuk
 slug: potuk
 title: POTUK
-sidebar_position: 537
+sidebar_position: 539
 hoverText: flat § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: xoinpo
 slug: xoinpo
 title: XOİNPO
-sidebar_position: 416
+sidebar_position: 418
 hoverText: seeming § Adjective
 ---
 

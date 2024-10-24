@@ -2,7 +2,7 @@
 id: cienxin
 slug: cienxin
 title: CİENXİN
-sidebar_position: 331
+sidebar_position: 333
 hoverText: alkaline § Adjective
 ---
 

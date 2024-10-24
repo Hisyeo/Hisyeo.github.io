@@ -2,7 +2,7 @@
 id: ödon
 slug: ödon
 title: ÖDON
-sidebar_position: 38
+sidebar_position: 39
 hoverText: orderly § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: sopölë
 slug: sopölë
 title: SOPÖLË
-sidebar_position: 364
+sidebar_position: 366
 hoverText: to taste (a flavor) § Verb
 ---
 

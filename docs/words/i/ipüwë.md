@@ -2,7 +2,7 @@
 id: ipüwë
 slug: ipüwë
 title: İPÜWË
-sidebar_position: 78
+sidebar_position: 79
 hoverText: stone § Noun
 ---
 

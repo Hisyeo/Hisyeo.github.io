@@ -2,7 +2,7 @@
 id: düsul
 slug: düsul
 title: DÜSUL
-sidebar_position: 490
+sidebar_position: 492
 hoverText: grey § Adjective
 ---
 

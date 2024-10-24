@@ -2,7 +2,7 @@
 id: ılık
 slug: ılık
 title: ILIK
-sidebar_position: 69
+sidebar_position: 70
 hoverText: predecessive marker (before) § Preposition
 ---
 

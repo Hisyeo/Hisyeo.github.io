@@ -2,7 +2,7 @@
 id: pësu
 slug: pësu
 title: PËSU
-sidebar_position: 564
+sidebar_position: 566
 hoverText: different § Adjective
 ---
 

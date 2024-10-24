@@ -2,7 +2,7 @@
 id: ıstıhol
 slug: ıstıhol
 title: ISTIHOL
-sidebar_position: 65
+sidebar_position: 66
 hoverText: honor/glory § Noun
 ---
 

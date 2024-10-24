@@ -2,7 +2,7 @@
 id: didözü
 slug: didözü
 title: DİDÖZÜ
-sidebar_position: 477
+sidebar_position: 479
 hoverText: neutral § Adjective
 ---
 

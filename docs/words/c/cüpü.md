@@ -2,7 +2,7 @@
 id: cüpü
 slug: cüpü
 title: CÜPÜ
-sidebar_position: 350
+sidebar_position: 352
 hoverText: fermented/soured § Adjective
 ---
 

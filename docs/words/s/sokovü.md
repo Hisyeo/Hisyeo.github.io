@@ -2,7 +2,7 @@
 id: sokovü
 slug: sokovü
 title: SOKOVÜ
-sidebar_position: 358
+sidebar_position: 360
 hoverText: floor § Noun
 ---
 

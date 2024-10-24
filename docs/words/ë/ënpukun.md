@@ -2,7 +2,7 @@
 id: ënpukun
 slug: ënpukun
 title: ËNPUKUN
-sidebar_position: 62
+sidebar_position: 63
 hoverText: belch/burp § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: golvon
 slug: golvon
 title: GOLVON
-sidebar_position: 236
+sidebar_position: 237
 hoverText: disgusted § Adjective
 ---
 

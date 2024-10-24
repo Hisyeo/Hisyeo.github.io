@@ -2,7 +2,7 @@
 id: ëpöl
 slug: ëpöl
 title: ËPÖL
-sidebar_position: 58
+sidebar_position: 59
 hoverText: shoulder § Noun
 ---
 

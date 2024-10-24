@@ -2,7 +2,7 @@
 id: ko
 slug: ko
 title: KO
-sidebar_position: 159
+sidebar_position: 160
 hoverText: interrogative sentence ender (yes?) § Postposition
 ---
 

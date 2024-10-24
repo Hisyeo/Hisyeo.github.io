@@ -2,7 +2,7 @@
 id: sodolun
 slug: sodolun
 title: SODOLUN
-sidebar_position: 361
+sidebar_position: 363
 hoverText: normal § Adjective
 ---
 

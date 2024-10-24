@@ -2,7 +2,7 @@
 id: hopiyö
 slug: hopiyö
 title: HOPİYÖ
-sidebar_position: 121
+sidebar_position: 122
 hoverText: to announce (an announcement) § Verb
 ---
 

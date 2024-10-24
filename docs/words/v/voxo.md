@@ -2,7 +2,7 @@
 id: voxo
 slug: voxo
 title: VOXO
-sidebar_position: 610
+sidebar_position: 611
 hoverText: mirative sentence ender (wow!) § Postposition
 ---
 

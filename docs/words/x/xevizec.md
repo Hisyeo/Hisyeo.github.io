@@ -2,7 +2,7 @@
 id: xevizec
 slug: xevizec
 title: XEVİZEC
-sidebar_position: 433
+sidebar_position: 435
 hoverText: to predict (a prediction) § Verb
 ---
 

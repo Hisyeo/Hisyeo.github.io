@@ -2,7 +2,7 @@
 id: sinëxis
 slug: sinëxis
 title: SİNËXİS
-sidebar_position: 398
+sidebar_position: 400
 hoverText: constant § Adjective
 ---
 

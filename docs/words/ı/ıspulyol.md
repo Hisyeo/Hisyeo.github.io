@@ -2,7 +2,7 @@
 id: ıspulyol
 slug: ıspulyol
 title: ISPULYOL
-sidebar_position: 66
+sidebar_position: 67
 hoverText: to scatter (scatterable entity) § Adjective
 ---
 

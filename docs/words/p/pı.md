@@ -2,7 +2,7 @@
 id: pı
 slug: pı
 title: PI
-sidebar_position: 568
+sidebar_position: 570
 hoverText: manner/material marker § Preposition
 ---
 

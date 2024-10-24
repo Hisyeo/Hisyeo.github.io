@@ -2,7 +2,7 @@
 id: püdikö
 slug: püdikö
 title: PÜDİKÖ
-sidebar_position: 600
+sidebar_position: 601
 hoverText: modest/chaste § Adjective
 ---
 

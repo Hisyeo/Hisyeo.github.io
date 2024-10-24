@@ -2,7 +2,7 @@
 id: süko
 slug: süko
 title: SÜKO
-sidebar_position: 408
+sidebar_position: 410
 hoverText: to like (a preference) § Verb
 ---
 

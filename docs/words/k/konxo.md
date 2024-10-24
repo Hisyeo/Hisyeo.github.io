@@ -2,7 +2,7 @@
 id: konxo
 slug: konxo
 title: KONXO
-sidebar_position: 165
+sidebar_position: 166
 hoverText: thankful/grateful § Adjective
 ---
 

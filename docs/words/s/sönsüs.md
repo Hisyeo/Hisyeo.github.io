@@ -2,7 +2,7 @@
 id: sönsüs
 slug: sönsüs
 title: SÖNSÜS
-sidebar_position: 377
+sidebar_position: 379
 hoverText: endless/infinite § Adjective
 ---
 

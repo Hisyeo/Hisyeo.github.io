@@ -2,7 +2,7 @@
 id: tıvülcı
 slug: tıvülcı
 title: TIVÜLCI
-sidebar_position: 284
+sidebar_position: 285
 hoverText: creative § Adjective
 ---
 
