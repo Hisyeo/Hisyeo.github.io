@@ -1,5 +1,5 @@
 const letterMap = {
-    p: 'P',
+    b: 'B',
     k: 'K',
     g: 'G',
     t: 'T',
@@ -8,7 +8,7 @@ const letterMap = {
     z: 'Z',
     s: 'S',
     x: 'X',
-    v: 'V',
+    f: 'F',
     h: 'H',
     m: 'M',
     n: 'N',
