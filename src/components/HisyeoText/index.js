@@ -5,7 +5,8 @@ import reactStringReplace from 'react-string-replace'
 import words from '@site/static/words.json'
 import { transcribe } from './abugida';
 
-
+const lc = 'oöeëıiuühkgtcsxdzbfmnlwy'
+const uc = 'OÖEËIİUÜHKGTCSXDZBFMNLWY'
 
 /**
  * 
@@ -13,10 +14,10 @@ import { transcribe } from './abugida';
  * @param {ReactNode[]} props.children
  * @returns {import('react').ReactElement}
  */
-export default function HisyeoText({ kind, children }) {
+export default function HisyeoText({ kind, children: ch }) {
   let word = undefined; return (
     <p>{
-      reactStringReplace(children, /([oöeëıiuühkgtcsxdzpvmnlwy]+|\b[OÖEËIİUÜHKGTCSXDZPVMNLWY][OÖEËIİUÜHKGTCSXDZPVMNLWYoöeëıiuühkgtcsxdzpvmnlwy]*(?: [OÖEËIİUÜHKGTCSXDZPVMNLWY][OÖEËIİUÜHKGTCSXDZPVMNLWYoöeëıiuühkgtcsxdzpvmnlwy]*)*)/gi, (match, i) => {
+      reactStringReplace(ch, new RegExp(`([${lc}]+|\b[${uc}][${uc}${lc}]*(?: [${uc}][${uc}${lc}]*)*)`,'gi'), (match, i) => {
         if (word = words[match]) {
           return (
             <a key={`word-${i}`} data-tooltip-id='hisyeo' data-tooltip-kind={`${kind}`} data-tooltip-content={match}>

@@ -10,21 +10,21 @@ const neuVowels = {
 }
 
 const minPairs = {
-    p:   ['v', 't'],
+    b:   ['f', 't', 'd'],
     k:   ['h', 'g'],
     g:   ['k', 'd'],
-    t:   ['d', 'c', 's', 'n', 'p'],
+    t:   ['d', 'c', 's', 'n', 'b'],
     c:   ['z', 't'],
-    d:   ['t', 'g', 'z'],
+    d:   ['t', 'g', 'z', 'b'],
     z:   ['c', 'd'],
     s:   ['c', 't'],
     x:   ['s', 'c'],
-    v:   ['p', 'w'],
+    f:   ['b', 'w'],
     h:   ['ꞌ', 'k'],
     m:   ['n'],
     n:   ['m'],
     'ꞌ': ['h', 'w', 'l', 'y'], // adding "l" for verb contractions
-    w:   ['ꞌ', 'v', 'l'],
+    w:   ['ꞌ', 'f', 'l'],
     l:   ['ꞌ', 'y', 'w'],
     y:   ['ꞌ', 'l'],
     // Vowels
@@ -36,7 +36,7 @@ const minPairs = {
 
 // let badSyllablesIdentified = false
 // const badSyllablesMessage = "Some words have improper syllable structure"
-const syllableRegex = /(?<onset>[ꞌhkgtcxsdzpvmnlwy])?(?<nucleus>[oöeëıiuü])(?<coda>[tkscnl](?![oöeëıiuü]))?/gi
+const syllableRegex = /(?<onset>[ꞌhkgtcxsdzbfmnlwy])?(?<nucleus>[oöeëıiuü])(?<coda>[tkscnl](?![oöeëıiuü]))?/gi
 
 
 const records = await csv(file, {
@@ -102,14 +102,16 @@ for (let word of words) {
             let collSyl = sylValues.slice()
             collSyl[i] = makeSyllable(collider, nucleus, coda)
             let wordOnsetChanged = collSyl.join('')
+            let foundApocope = apocopes.indexOf(wordOnsetChanged)
+            let foundNeutral = neutrals.indexOf(neutralize(wordOnsetChanged))
             if (words.includes(wordOnsetChanged)) {
                 collisionFound('Forbidden Pair', word, wordOnsetChanged, hl(collSyl, i), hl(collSyl, i))
             } else if (monophthongs[wordOnsetChanged]?.length > 0) {
                 collisionFound('Smoothed Forbidden Pair', word, monophthongs[wordOnsetChanged][0], hl(collSyl, i), hl(collSyl, i))
-            } else if (apocopes.includes(wordOnsetChanged)) {
-                collisionFound('Apocopic Forbidden Pair', word, `${wordOnsetChanged[0]}'${wordOnsetChanged.slice(1)}`, hl(collSyl, i), hl(collSyl, i) + 1)
-            } else if (neutrals.findIndex(w => w == neutralize(wordOnsetChanged)) != -1) {
-                collisionFound('Neutralized Forbidden Pair', word, wordOnsetChanged, hl(collSyl, i), hl(collSyl, i))
+            } else if (foundApocope != -1) {
+                collisionFound('Apocopic Forbidden Pair', word, apocopes[foundApocope], hl(collSyl, i), hl(collSyl, i) + 1)
+            } else if (foundNeutral != -1) {
+                collisionFound('Neutralized Forbidden Pair', word, neutrals[foundNeutral], hl(collSyl, i), hl(collSyl, i))
             }
         }
         for (let collider of minPairs[nucleus]) {
