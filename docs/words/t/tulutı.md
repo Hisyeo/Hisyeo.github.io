@@ -16,6 +16,6 @@ hoverText: to traverse (the traversed) § Verb
 
 **Modifier**: passed/crossed/traversed
 
-Sanskrit तरति tárati /ˈt̪ɐ.ɾɐ.t̪i/
+Sanskrit तरति tárati undefined
 
 *Indo-Iranian Language Family*

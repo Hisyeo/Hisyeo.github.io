@@ -16,6 +16,6 @@ hoverText: comfortable § Adjective
 
 **Modifier**: comfortable
 
-Turkish rahat [ɾ̞äˈhätʰ]
+Turkish rahat undefined
 
 *Turkic Language Family*

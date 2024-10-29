@@ -16,6 +16,6 @@ hoverText: black § Adjective
 
 **Modifier**: black/dark
 
-Italian nero /ˈne.ro/
+Italian nero undefined
 
 *Romance Language Family*

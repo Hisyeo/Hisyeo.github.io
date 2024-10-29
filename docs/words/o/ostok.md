@@ -16,6 +16,6 @@ hoverText: sign/signal § Noun
 
 **Modifier**: sign/signal-related
 
-Armenian ազդակ azdak [ɑzdɑ́k]
+Armenian ազդակ azdak undefined
 
 *Armenian Language Family*

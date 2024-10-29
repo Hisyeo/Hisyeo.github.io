@@ -16,6 +16,6 @@ hoverText: metal § Noun
 
 **Modifier**: metal-related/metallic
 
-Tamil உலோகம் ulōkam /uloːɡɐm/
+Tamil உலோகம் ulōkam undefined
 
 *Dravidian Language Family*

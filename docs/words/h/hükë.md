@@ -16,6 +16,6 @@ hoverText: to mine (ore) § Verb
 
 **Modifier**: minable/extractable
 
-Maori huke /huke/
+Maori huke undefined
 
 *Austronesian Language Family*

@@ -16,6 +16,6 @@ hoverText: normal § Adjective
 
 **Modifier**: normal/standard
 
-Hindi साधारण sādhāraṇ [s̪äː.d̪ʱäː.ɾə̃ɳ]
+Hindi साधारण sādhāraṇ undefined
 
 *Indo-Iranian Language Family*

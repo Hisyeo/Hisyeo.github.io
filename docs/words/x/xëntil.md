@@ -16,6 +16,6 @@ hoverText: gentle/kind § Adjective
 
 **Modifier**: gentle/kind
 
-Portuguese gentil [ʒẽˈtiɫ]
+Portuguese gentil undefined
 
 *Romance Language Family*

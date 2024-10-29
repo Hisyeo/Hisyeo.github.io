@@ -16,6 +16,6 @@ hoverText: to reside in (a residence) § Verb
 
 **Modifier**: residable/livable
 
-Hindi निवास nivās [n̪ɪ.ʋäːs̪]
+Hindi निवास nivās undefined
 
 *Indo-Iranian Language Family*

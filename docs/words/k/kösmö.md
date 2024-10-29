@@ -16,6 +16,6 @@ hoverText: space/cosmos § Noun
 
 **Modifier**: space-related/cosmic
 
-Italian cosmo /ˈkɔ.zmo/
+Italian cosmo undefined
 
 *Romance Language Family*

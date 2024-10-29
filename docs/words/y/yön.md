@@ -16,6 +16,6 @@ hoverText: to use (a tool) § Verb
 
 **Modifier**: usable
 
-Min Nan 用 iōng /iɔŋ/
+Min Nan 用 iōng undefined
 
 *Sino-Tibetan Language Family*

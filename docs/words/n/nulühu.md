@@ -16,6 +16,6 @@ hoverText: abuse § Noun
 
 **Modifier**: abuse-related
 
-Ukrainian нару́га narúha [nɐˈruɦɐ]
+Ukrainian нару́га narúha undefined
 
 *Balto-Slavic Language Family*

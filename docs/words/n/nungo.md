@@ -16,6 +16,6 @@ hoverText: naked § Adjective
 
 **Modifier**: naked/bare
 
-Hindi नंगा naṅgā [nɐ̃ŋ.ɡäː]
+Hindi नंगा naṅgā undefined
 
 *Indo-Iranian Language Family*

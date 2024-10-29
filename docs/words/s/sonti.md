@@ -16,6 +16,6 @@ hoverText: calm § Adjective
 
 **Modifier**: calm
 
-Thai สันติ sǎn-dtì /san˩˩˦.tiʔ˨˩/
+Thai สันติ sǎn-dtì undefined
 
 *Kra-Dai Language Family*

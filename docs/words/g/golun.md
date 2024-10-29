@@ -16,6 +16,6 @@ hoverText: to respect (the respected) § Verb
 
 **Modifier**: respectable
 
-Tagalog/Bikol galang [ˈɡa.lɐŋ]
+Tagalog/Bikol galang undefined
 
 *Austronesian Language Family*

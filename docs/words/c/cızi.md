@@ -16,6 +16,6 @@ hoverText: self § Pronoun
 
 **Modifier**: self's
 
-Mandarin 自己 zìjǐ /tsɪ'd͡ʒi/
+Mandarin 自己 zìjǐ undefined
 
 *Sino-Tibetan Language Family*

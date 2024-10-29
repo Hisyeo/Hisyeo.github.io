@@ -16,6 +16,6 @@ hoverText: tolerant § Adjective
 
 **Modifier**: tolerant
 
-Chinese 寬容 kuānróng /kʰwan.ʐʊŋ/
+Chinese 寬容 kuānróng undefined
 
 *Sino-Tibetan Language Family*

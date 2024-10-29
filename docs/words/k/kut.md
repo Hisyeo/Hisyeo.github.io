@@ -16,6 +16,6 @@ hoverText: 01 one § Numeral
 
 **Modifier**: first
 
-Zou khèt /kʰət˧˩/
+Zou khèt undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: than § Conjunction
 
 **Modifier**: -
 
-Swedish än /ɛnː/
+Swedish än undefined
 
 *Germanic Language Family*

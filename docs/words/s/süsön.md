@@ -16,6 +16,6 @@ hoverText: layer § Noun
 
 **Modifier**: layer-related
 
-Tagalog susón [sʊˈson]
+Tagalog susón undefined
 
 *Austronesian Language Family*

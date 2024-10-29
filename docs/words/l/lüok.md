@@ -16,6 +16,6 @@ hoverText: spirit/ghost § Noun
 
 **Modifier**: spirit/ghost/soul-related
 
-Ashkenazi Hebrew רוּחַ rúakh /ˈru.aχ/
+Ashkenazi Hebrew רוּחַ rúakh undefined
 
 *Afroasiatic Language Family*

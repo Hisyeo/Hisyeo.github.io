@@ -16,6 +16,6 @@ hoverText: rain § Noun
 
 **Modifier**: rain-like
 
-Malay هوجن hujan /hud͡ʒan/
+Malay هوجن hujan undefined
 
 *Austronesian Language Family*

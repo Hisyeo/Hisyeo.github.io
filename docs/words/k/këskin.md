@@ -16,6 +16,6 @@ hoverText: sharp § Adjective
 
 **Modifier**: sharp
 
-Turkish keskin /ces.cin/
+Turkish keskin undefined
 
 *Turkic Language Family*

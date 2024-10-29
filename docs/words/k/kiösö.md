@@ -16,6 +16,6 @@ hoverText: athletic § Adjective
 
 **Modifier**: athletic
 
-Japanese 強壮 kyōsō [kʲo̞ːso̞ː]
+Japanese 強壮 kyōsō undefined
 
 *Japonic Language Family*

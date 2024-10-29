@@ -16,6 +16,6 @@ hoverText: to operate (a machine) § Verb
 
 **Modifier**: operatable/runnable
 
-Hindi चलाना calānā [t͡ʃɐ.läː.näː]
+Hindi चलाना calānā undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: beneficial § Adjective
 
 **Modifier**: beneficial/advantageous
 
-Mandarin 有利 yǒulì /joʊ̯li/
+Mandarin 有利 yǒulì undefined
 
 *Sino-Tibetan Language Family*

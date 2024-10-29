@@ -16,6 +16,6 @@ hoverText: toy § Noun
 
 **Modifier**: toy-related
 
-Vietnamese đồ chơi [ʔɗo˨˩ t͡ɕəːj˧˧]
+Vietnamese đồ chơi undefined
 
 *Austro-Asiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: family § Noun
 
 **Modifier**: family-related
 
-Urdu خانْدان⁩ xāndān /xɑːn.d̪ɑːn/
+Urdu خانْدان⁩ xāndān undefined
 
 *Indo-Iranian Language Family*

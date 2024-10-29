@@ -16,6 +16,6 @@ hoverText: dirty § Adjective
 
 **Modifier**: dirty/polluted/soiled
 
-Nepali मैलो mailo [mʌi̯lo]
+Nepali मैलो mailo undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: mucus § Noun
 
 **Modifier**: mucus-related/phlegm-related/slime-related
 
-Khmer សិង្ឃានិក səngkhiənɨk /səŋ.kʰiə.nɨk/
+Khmer សិង្ឃានិក səngkhiənɨk undefined
 
 *Austro-Asiatic Language Family*

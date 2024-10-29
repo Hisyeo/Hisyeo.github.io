@@ -16,6 +16,6 @@ hoverText: method § Noun
 
 **Modifier**: method/process-related
 
-Arabic طَرِيقَة ṭarīqa /tˤa.riː.qa/
+Arabic طَرِيقَة ṭarīqa undefined
 
 *Afroasiatic Language Family*

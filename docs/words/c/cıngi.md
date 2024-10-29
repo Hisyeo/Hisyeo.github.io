@@ -16,6 +16,6 @@ hoverText: electricity § Noun
 
 **Modifier**: electric
 
-Korean 전기 jeon'gi [ˈt͡ɕɘ(ː)nɡi]
+Korean 전기 jeon'gi undefined
 
 *Koreic Language Family*

@@ -16,6 +16,6 @@ hoverText: ring/circle § Noun
 
 **Modifier**: ring/circle/disc-related
 
-Tamil வட்டம் vaṭṭam /ʋɐʈːɐm/
+Tamil வட்டம் vaṭṭam undefined
 
 *Dravidian Language Family*

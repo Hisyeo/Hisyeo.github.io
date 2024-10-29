@@ -16,6 +16,6 @@ hoverText: theme/topic § Verb
 
 **Modifier**: thematic/topic-related
 
-Sesotho sehlooho /seɬoːɦɔ/
+Sesotho sehlooho undefined
 
 *Niger-Congo Language Family*

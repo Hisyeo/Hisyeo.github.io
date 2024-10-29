@@ -16,6 +16,6 @@ hoverText: water § Noun
 
 **Modifier**: water
 
-Barí xima /ʃimə(nə)/
+Barí xima undefined
 
 *Nilo-Saharan Language Family*

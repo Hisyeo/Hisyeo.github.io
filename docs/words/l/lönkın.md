@@ -16,6 +16,6 @@ hoverText: bulb § Noun
 
 **Modifier**: bulb-like
 
-Cantonese 鱗莖 leon4 ging3 [lɵnkɪŋ]
+Cantonese 鱗莖 leon4 ging3 undefined
 
 *Sino-Tibetan Language Family*

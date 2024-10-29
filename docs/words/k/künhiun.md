@@ -16,6 +16,6 @@ hoverText: step/pace § Noun
 
 **Modifier**: step/pace-related
 
-Khmer ជំហាន cumhiən /cum.ˈhiən/
+Khmer ជំហាន cumhiən undefined
 
 *Austro-Asiatic Language Family*

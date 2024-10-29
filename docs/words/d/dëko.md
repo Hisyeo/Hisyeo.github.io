@@ -16,6 +16,6 @@ hoverText: to see (a view) § Verb
 
 **Modifier**: visible
 
-Hindi देखा dekhā (perfective of देखना dekhnā) [d̪eːkʰäː]
+Hindi देखा dekhā (perfective of देखना dekhnā) undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: string § Noun
 
 **Modifier**: a string/thread/cord/yarn-related
 
-Thai ด้าย dâai /daːj˥˩/
+Thai ด้าย dâai undefined
 
 *Kra-Dai Language Family*

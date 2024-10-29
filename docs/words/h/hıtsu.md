@@ -16,6 +16,6 @@ hoverText: crack/fissure § Noun
 
 **Modifier**: crack/fissure-related
 
-German Ritze /ˈʁɪt͡sə/
+German Ritze undefined
 
 *Germanic Language Family*

@@ -16,6 +16,6 @@ hoverText: to give birth to (a baby) § Verb
 
 **Modifier**: birthable
 
-Polish rodzić /ˈrɔ.d͡ʑit͡ɕ/
+Polish rodzić undefined
 
 *Balto-Slavic Language Family*

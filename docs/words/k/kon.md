@@ -16,6 +16,6 @@ hoverText: abstract verb noun particle § Particle
 
 **Modifier**: -
 
-Thai การ gaan /kaːn˧/
+Thai การ gaan undefined
 
 *Kra-Dai Language Family*

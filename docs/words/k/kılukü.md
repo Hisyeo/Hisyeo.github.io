@@ -16,6 +16,6 @@ hoverText: eastern § Adjective
 
 **Modifier**: eastern
 
-Tamil கிழக்கு kiḻakku [kiɻɐkːɯ]
+Tamil கிழக்கு kiḻakku undefined
 
 *Dravidian Language Family*

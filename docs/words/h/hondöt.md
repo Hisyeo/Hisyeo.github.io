@@ -16,6 +16,6 @@ hoverText: jealous § Adjective
 
 **Modifier**: jealous/envious
 
-Armenian խանդոտ xandot [χɑnˈdot]
+Armenian խանդոտ xandot undefined
 
 *Armenian Language Family*

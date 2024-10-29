@@ -16,6 +16,6 @@ hoverText: but § Conjunction
 
 **Modifier**: -
 
-Hindi लेकिन lekin [l̪eː.kɪ̃n̪]
+Hindi लेकिन lekin undefined
 
 *Indo-Iranian Language Family*

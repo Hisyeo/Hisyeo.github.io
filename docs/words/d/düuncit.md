@@ -16,6 +16,6 @@ hoverText: brain/mind § Noun
 
 **Modifier**: brain/mind-related
 
-Lao ດວງຈິດ dūang chit [duːə̯ŋ˩˨.t͡ɕit̚˩˨]
+Lao ດວງຈິດ dūang chit undefined
 
 *Kra-Dai Language Family*

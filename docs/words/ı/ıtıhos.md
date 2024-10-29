@@ -16,6 +16,6 @@ hoverText: history § Noun
 
 **Modifier**: history-related
 
-Hindi इतिहास itihās [ɪ.t̪ɪ.ɦäːs]
+Hindi इतिहास itihās undefined
 
 *Indo-Iranian Language Family*

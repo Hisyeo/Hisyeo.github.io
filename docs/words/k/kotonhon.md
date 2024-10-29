@@ -16,6 +16,6 @@ hoverText: sudden/urgent § Adjective
 
 **Modifier**: sudden/urgent
 
-Thai กะทันหัน gà-tan-hǎn /ka˨˩.tʰan˧.han˩˩˦/
+Thai กะทันหัน gà-tan-hǎn undefined
 
 *Kra-Dai Language Family*

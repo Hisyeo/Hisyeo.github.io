@@ -16,6 +16,6 @@ hoverText: experiencer/causee marker § Preposition
 
 **Modifier**: -
 
-Malay oleh /o.leh/
+Malay oleh undefined
 
 *Austronesian Language Family*

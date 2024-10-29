@@ -16,6 +16,6 @@ hoverText: cat § Noun
 
 **Modifier**: cat/feline-related
 
-Czech/Serbo-Croatian/Slovak mačka /mât͡ʃka/
+Czech/Serbo-Croatian/Slovak mačka undefined
 
 *Balto-Slavic Language Family*

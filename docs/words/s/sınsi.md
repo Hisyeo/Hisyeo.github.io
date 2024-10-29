@@ -16,6 +16,6 @@ hoverText: town/city § Noun
 
 **Modifier**: town/city-related
 
-Cantonese 城市 sing si /sɪŋsiː/
+Cantonese 城市 sing si undefined
 
 *Sino-Tibetan Language Family*

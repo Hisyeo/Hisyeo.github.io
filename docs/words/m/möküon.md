@@ -16,6 +16,6 @@ hoverText: unrelated § Adjective
 
 **Modifier**: unrelated
 
-Hakka 無關 mò-kôan /mou̯²¹ kʷaːn⁵⁵/
+Hakka 無關 mò-kôan undefined
 
 *Sino-Tibetan Language Family*

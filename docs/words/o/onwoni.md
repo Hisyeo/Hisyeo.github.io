@@ -16,6 +16,6 @@ hoverText: address § Noun
 
 **Modifier**: address-related
 
-Swahili anwani /'ɑn.wɑ.ni/
+Swahili anwani undefined
 
 *Niger-Congo Language Family*

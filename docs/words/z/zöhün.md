@@ -16,6 +16,6 @@ hoverText: nutrient § Noun
 
 **Modifier**: nutrient-related
 
-Khazak жұғым jūğym [ʑo̙ʁʊwm]
+Khazak жұғым jūğym undefined
 
 *Turkic Language Family*

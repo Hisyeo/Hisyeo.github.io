@@ -16,6 +16,6 @@ hoverText: stick § Noun
 
 **Modifier**: stick/staff/pole-related
 
-Romanian nuia [nuˈja]
+Romanian nuia undefined
 
 *Romance Language Family*

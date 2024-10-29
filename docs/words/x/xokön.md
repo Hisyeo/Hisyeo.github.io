@@ -16,6 +16,6 @@ hoverText: each § Determiner
 
 **Modifier**: -let/-pack/-unit
 
-French chacun /ʃa.kœ̃/
+French chacun undefined
 
 *Romance Language Family*

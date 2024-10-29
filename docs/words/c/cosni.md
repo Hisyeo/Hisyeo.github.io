@@ -16,6 +16,6 @@ hoverText: private/confidential § Adjective
 
 **Modifier**: private/confidential
 
-Russian ча́стный • (částnyj [ˈt͡ɕasnɨj]
+Russian ча́стный • (částnyj undefined
 
 *Balto-Slavic Language Family*

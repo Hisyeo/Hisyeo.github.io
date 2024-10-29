@@ -16,6 +16,6 @@ hoverText: interrogative sentence ender (yes?) § Postposition
 
 **Modifier**: -
 
-Japanese か ka [ka̠]
+Japanese か ka undefined
 
 *Japonic Language Family*

@@ -16,6 +16,6 @@ hoverText: possible/likely § Adjective
 
 **Modifier**: possible/likely
 
-Hakka 可能 khó-nèn /kʰonen/
+Hakka 可能 khó-nèn undefined
 
 *Sino-Tibetan Language Family*

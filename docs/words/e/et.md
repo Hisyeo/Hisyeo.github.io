@@ -16,6 +16,6 @@ hoverText: collapser/amender particle § Particle
 
 **Modifier**: -
 
-- -
+- undefined
 
 *Misc Language Family*

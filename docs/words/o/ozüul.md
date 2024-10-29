@@ -16,6 +16,6 @@ hoverText: any/whichever § Pronoun
 
 **Modifier**: any/whomever/whichever
 
-Abkhazian аӡәыр aӡəyr /ad͡ʑʷər/
+Abkhazian аӡәыр aӡəyr undefined
 
 *Abkhazo-Adyghean Language Family*

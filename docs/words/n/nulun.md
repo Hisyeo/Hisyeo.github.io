@@ -16,6 +16,6 @@ hoverText: soft § Adjective
 
 **Modifier**: soft
 
-Hindi नरम naram [n̪ə.ɾə̃m]
+Hindi नरम naram undefined
 
 *Indo-Iranian Language Family*

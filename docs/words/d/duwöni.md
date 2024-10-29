@@ -16,6 +16,6 @@ hoverText: sand § Noun
 
 **Modifier**: sand-related
 
-Ternate dowongi /do.ˈwo.ŋi/
+Ternate dowongi undefined
 
 *Trans-New Guinea Language Family*

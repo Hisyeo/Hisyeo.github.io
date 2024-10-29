@@ -16,6 +16,6 @@ hoverText: to undergo (an experience) § Verb
 
 **Modifier**: undergoable/experienceable
 
-Mandarin 經歷 jīnglì [tɕiŋli]
+Mandarin 經歷 jīnglì undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: to measure (the measured) § Verb
 
 **Modifier**: measurable
 
-Chechen дуста dusta [ˈdustɑ]
+Chechen дуста dusta undefined
 
 *Nakh-Daghestani Language Family*

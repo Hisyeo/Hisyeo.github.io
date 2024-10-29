@@ -16,6 +16,6 @@ hoverText: shallow § Adjective
 
 **Modifier**: shallow
 
-Arabic ضَحِل ḍaḥil /dˤaħ.ħil/
+Arabic ضَحِل ḍaḥil undefined
 
 *Afroasiatic Language Family*

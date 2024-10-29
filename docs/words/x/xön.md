@@ -16,6 +16,6 @@ hoverText: good § Adjective
 
 **Modifier**: good
 
-White Hmong zoo /ʐɔŋ˧/
+White Hmong zoo undefined
 
 *Hmong-Mien Language Family*

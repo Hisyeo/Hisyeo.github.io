@@ -16,6 +16,6 @@ hoverText: and § Conjunction
 
 **Modifier**: -
 
-Malayalam ഉം uṁ /um/
+Malayalam ഉം uṁ undefined
 
 *Dravidian Language Family*

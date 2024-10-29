@@ -16,6 +16,6 @@ hoverText: to venerate (the venerated) § Verb
 
 **Modifier**: veneratable/reverable
 
-Swedish helga /ˈhɛlˌɡa/
+Swedish helga undefined
 
 *Germanic Language Family*

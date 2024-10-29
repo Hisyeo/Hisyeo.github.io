@@ -16,6 +16,6 @@ hoverText: camp § Noun
 
 **Modifier**: camp-related
 
-Arabic مُخَيَّم muḵayyam /mu.xaj.jam/
+Arabic مُخَيَّم muḵayyam undefined
 
 *Afroasiatic Language Family*

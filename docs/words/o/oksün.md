@@ -16,6 +16,6 @@ hoverText: meat/muscle § Noun
 
 **Modifier**: meat/muscle-related
 
-Kabyle aksum /ˈaksum/
+Kabyle aksum undefined
 
 *Afroasiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: verb § Noun
 
 **Modifier**: verb-related
 
-Zulu isénzo /iséːnzo/
+Zulu isénzo undefined
 
 *Niger-Congo Language Family*

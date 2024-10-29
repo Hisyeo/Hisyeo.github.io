@@ -16,6 +16,6 @@ hoverText: cute § Adjective
 
 **Modifier**: cute/charming
 
-Malay comel [ˈt͡ʃo.mel]
+Malay comel undefined
 
 *Austronesian Language Family*

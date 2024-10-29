@@ -16,6 +16,6 @@ hoverText: collision § Noun
 
 **Modifier**: impact/crash/collision-related
 
-Korean 충돌 chungdo [t͡ɕʰuŋdo̞ɭ]
+Korean 충돌 chungdo undefined
 
 *Koreic Language Family*

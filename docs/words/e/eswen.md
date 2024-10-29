@@ -16,6 +16,6 @@ hoverText: more § Determiner
 
 **Modifier**: more/-er
 
-Quechua aswan /ˈæswæn/
+Quechua aswan undefined
 
 *Romance Language Family*

@@ -16,6 +16,6 @@ hoverText: decent § Adjective
 
 **Modifier**: decent/virtuous
 
-Dutch deugdzaam /ˈdøːxt.saːm/
+Dutch deugdzaam undefined
 
 *Germanic Language Family*

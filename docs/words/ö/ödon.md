@@ -16,6 +16,6 @@ hoverText: orderly § Adjective
 
 **Modifier**: orderly
 
-Danish orden [ˈɒˀd̥n̩]
+Danish orden undefined
 
 *Germanic Language Family*

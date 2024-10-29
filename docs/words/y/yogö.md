@@ -16,6 +16,6 @@ hoverText: part/piece § Noun
 
 **Modifier**: part/piece-related
 
-Ingrian jako  [ˈjɑɡ̊o̞]
+Ingrian jako  undefined
 
 *Uralic Language Family*

@@ -16,6 +16,6 @@ hoverText: cream/paste § Noun
 
 **Modifier**: cream/paste-related
 
-Turkish macun /madʒun/
+Turkish macun undefined
 
 *Turkic Language Family*

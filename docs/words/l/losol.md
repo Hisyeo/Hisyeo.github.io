@@ -16,6 +16,6 @@ hoverText: original § Adjective
 
 **Modifier**: original/prototypical
 
-Songhay lasal [lasal]
+Songhay lasal undefined
 
 *Nilo-Saharan Language Family*

@@ -16,6 +16,6 @@ hoverText: mouth § Noun
 
 **Modifier**: mouth-related
 
-Albanian gojë /ˈɡojə/
+Albanian gojë undefined
 
 *Albanian Language Family*

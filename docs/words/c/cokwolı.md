@@ -16,6 +16,6 @@ hoverText: pyramid § Noun
 
 **Modifier**: pyramid-like
 
-Nahuatl tzacualli /tsakʷalli/
+Nahuatl tzacualli undefined
 
 *Yuto-Nahuatl Language Family*

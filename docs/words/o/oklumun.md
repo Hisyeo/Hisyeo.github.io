@@ -16,6 +16,6 @@ hoverText: attack § Noun
 
 **Modifier**: attack/assault-related
 
-Hindi आक्रमण ākramaṇ [äːk.ɾɐ.mɐ̃ɳ]
+Hindi आक्रमण ākramaṇ undefined
 
 *Indo-Iranian Language Family*

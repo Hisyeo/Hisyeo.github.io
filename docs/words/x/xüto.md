@@ -16,6 +16,6 @@ hoverText: river § Noun
 
 **Modifier**: river-related
 
-Mixtec yuta [ʒuta]
+Mixtec yuta undefined
 
 *Oto-Manguean Language Family*

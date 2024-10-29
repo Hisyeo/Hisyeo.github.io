@@ -16,6 +16,6 @@ hoverText: future § Adjective
 
 **Modifier**: after/afterwards/later
 
-Korean 미래 mirae [ˈmi(ː)ɾɛ]
+Korean 미래 mirae undefined
 
 *Koreic Language Family*

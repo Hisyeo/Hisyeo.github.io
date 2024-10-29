@@ -16,6 +16,6 @@ hoverText: 15 fifteen § Numeral
 
 **Modifier**: fifteenth
 
-Waray kinse /ˈkinse/
+Waray kinse undefined
 
 *Austronesian Language Family*

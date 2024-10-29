@@ -16,6 +16,6 @@ hoverText: some/a few § Determiner
 
 **Modifier**: somewhat
 
-Cantonese 有啲 jau di /jɐu̯tiː/
+Cantonese 有啲 jau di undefined
 
 *Sino-Tibetan Language Family*

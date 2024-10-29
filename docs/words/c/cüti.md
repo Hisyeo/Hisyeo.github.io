@@ -16,6 +16,6 @@ hoverText: small § Adjective
 
 **Modifier**: small
 
-K'iche' ch'uti [t͡ʃuti]
+K'iche' ch'uti undefined
 
 *Mayan Language Family*

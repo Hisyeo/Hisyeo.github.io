@@ -16,6 +16,6 @@ hoverText: to start (startable entity) § Verb
 
 **Modifier**: started/began
 
-Slovak začať [ˈzat͡ʃac]
+Slovak začať undefined
 
 *Balto-Slavic Language Family*

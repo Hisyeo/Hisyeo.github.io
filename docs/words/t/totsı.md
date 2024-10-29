@@ -16,6 +16,6 @@ hoverText: standing § Adjective
 
 **Modifier**: standing/vertical
 
-Japanese 立つ tatsu [ta̠t͡sɨᵝ]
+Japanese 立つ tatsu undefined
 
 *Japonic Language Family*

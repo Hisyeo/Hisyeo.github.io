@@ -16,6 +16,6 @@ hoverText: left § Noun
 
 **Modifier**: leftside-related/left(hand)
 
-Arabic شِمَال šimāl /ʃi.maːl/
+Arabic شِمَال šimāl undefined
 
 *Afroasiatic Language Family*

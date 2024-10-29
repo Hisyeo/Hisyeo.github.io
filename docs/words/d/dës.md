@@ -16,6 +16,6 @@ hoverText: negatitive verb modifier particle § Particle
 
 **Modifier**: -
 
-Portuguese des- /des/
+Portuguese des- undefined
 
 *Romance Language Family*

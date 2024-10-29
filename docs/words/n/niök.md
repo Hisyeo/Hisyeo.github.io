@@ -16,6 +16,6 @@ hoverText: growing § Adjective
 
 **Modifier**: growing/sprouting
 
-Thai งอก ngɔ̂ɔk /ŋɔːk̚˥˩/
+Thai งอก ngɔ̂ɔk undefined
 
 *Kra-Dai Language Family*

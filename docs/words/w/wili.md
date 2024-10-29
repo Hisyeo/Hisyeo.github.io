@@ -16,6 +16,6 @@ hoverText: awake § Adjective
 
 **Modifier**: awake
 
-Tamil விழி viḻi /ʋiɻi/
+Tamil விழி viḻi undefined
 
 *Dravidian Language Family*

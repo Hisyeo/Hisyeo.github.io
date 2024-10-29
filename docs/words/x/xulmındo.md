@@ -16,6 +16,6 @@ hoverText: ashamed § Adjective
 
 **Modifier**: ashamed/embarrassed
 
-Hindi शरमिंदा śarmindā [ʃəɾ.mɪ̃n̪.d̪äː]
+Hindi शरमिंदा śarmindā undefined
 
 *Indo-Iranian Language Family*

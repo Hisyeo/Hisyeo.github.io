@@ -16,6 +16,6 @@ hoverText: generation § Noun
 
 **Modifier**: generation/era-related
 
-Ewe dzidzime /dʒɪ.dʒɪ.mɛ/
+Ewe dzidzime undefined
 
 *Niger-Congo Language Family*

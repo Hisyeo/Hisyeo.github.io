@@ -16,6 +16,6 @@ hoverText: opposite § Adjective
 
 **Modifier**: opposite
 
-Hungarian ellentét [ˈɛlːɛnteːt]
+Hungarian ellentét undefined
 
 *Uralic Language Family*

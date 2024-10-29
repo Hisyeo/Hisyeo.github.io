@@ -16,6 +16,6 @@ hoverText: laughing § Adjective
 
 **Modifier**: laughing/mirthed
 
-(Valencian) Catalan riure /ˈriw.ɾe/
+(Valencian) Catalan riure undefined
 
 *Romance Language Family*

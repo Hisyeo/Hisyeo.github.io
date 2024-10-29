@@ -16,6 +16,6 @@ hoverText: rice § Noun
 
 **Modifier**: rice-related
 
-Telugu అన్నము annamu /an̪n̪amu/
+Telugu అన్నము annamu undefined
 
 *Dravidian Language Family*

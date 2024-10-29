@@ -16,6 +16,6 @@ hoverText: amount § Noun
 
 **Modifier**: number/amount-related
 
-Arabic مِقْدَار miqdār /miq.daːr/
+Arabic مِقْدَار miqdār undefined
 
 *Afroasiatic Language Family*

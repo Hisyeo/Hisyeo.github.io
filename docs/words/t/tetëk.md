@@ -16,6 +16,6 @@ hoverText: breast/chest § Noun
 
 **Modifier**: breast/chest-related
 
-Indonesian tetek  [ˈt̪ɛt̪ek̚]
+Indonesian tetek  undefined
 
 *Austronesian Language Family*

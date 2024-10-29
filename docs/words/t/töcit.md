@@ -16,6 +16,6 @@ hoverText: blunt § Adjective
 
 **Modifier**: blunt/dull
 
-Romanian tocit /toˈt͡ʃit/
+Romanian tocit undefined
 
 *Romance Language Family*

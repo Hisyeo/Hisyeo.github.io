@@ -16,6 +16,6 @@ hoverText: cough § Noun
 
 **Modifier**: cough-related
 
-German Husten /ˈhuːstən/
+German Husten undefined
 
 *Germanic Language Family*

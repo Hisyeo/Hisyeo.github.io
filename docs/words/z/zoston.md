@@ -16,6 +16,6 @@ hoverText: jump § Noun
 
 **Modifier**: jump-like
 
-Persian جستن jastan [d͡ʒas.ˈtan]
+Persian جستن jastan undefined
 
 *Indo-Iranian Language Family*

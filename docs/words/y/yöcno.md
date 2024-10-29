@@ -16,6 +16,6 @@ hoverText: program/plan § Noun
 
 **Modifier**: program/plan-related
 
-Hindi  [joːd͡ʒ.n̪äː]
+Hindi  undefined
 
 *Indo-Iranian Language Family*

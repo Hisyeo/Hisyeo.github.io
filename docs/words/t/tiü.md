@@ -16,6 +16,6 @@ hoverText: 05 five § Numeral
 
 **Modifier**: fifth
 
-Coptic ϯⲟⲩ tiou /tʼiːw/
+Coptic ϯⲟⲩ tiou undefined
 
 *Afroasiatic Language Family*

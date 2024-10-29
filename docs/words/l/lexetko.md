@@ -16,6 +16,6 @@ hoverText: lattice/array § Noun
 
 **Modifier**: lattice/array/grid-related
 
-Macedonian решетка rešetka [ˈrɛʃɛtka]
+Macedonian решетка rešetka undefined
 
 *Germanic Language Family*

@@ -16,6 +16,6 @@ hoverText: hot § Adjective
 
 **Modifier**: hot
 
-Bring Klon tut [tut]
+Bring Klon tut undefined
 
 *Trans-New Guinea Language Family*

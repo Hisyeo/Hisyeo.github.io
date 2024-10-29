@@ -16,6 +16,6 @@ hoverText: leaf/petal § Noun
 
 **Modifier**: leaf/petal-related
 
-Arabic وَرَقَة waraqa /wa.ra.qa/
+Arabic وَرَقَة waraqa undefined
 
 *Afroasiatic Language Family*

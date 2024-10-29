@@ -16,6 +16,6 @@ hoverText: month § Noun
 
 **Modifier**: month-like/monthly
 
-Hausa wata [wə́.tàː]
+Hausa wata undefined
 
 *Afroasiatic Language Family*

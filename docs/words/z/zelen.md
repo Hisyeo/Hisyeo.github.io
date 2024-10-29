@@ -16,6 +16,6 @@ hoverText: upcoming § Adjective
 
 **Modifier**: upcoming/coming/incoming
 
-Turkish gelen [ɟɛlɛn]
+Turkish gelen undefined
 
 *Turkic Language Family*

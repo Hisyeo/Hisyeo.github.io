@@ -16,6 +16,6 @@ hoverText: crossed/intersected § Adjective
 
 **Modifier**: crossed/intersected
 
-Polish przecinać /pʂɛˈt͡ɕi.nat͡ɕ/
+Polish przecinać undefined
 
 *Balto-Slavic Language Family*

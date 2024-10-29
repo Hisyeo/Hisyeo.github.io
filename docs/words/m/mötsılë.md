@@ -16,6 +16,6 @@ hoverText: to tie (the tied) § Verb
 
 **Modifier**: tie-able/entangleable
 
-Japanese もつれ motsure [mo̞t͡sɨᵝɾe̞]
+Japanese もつれ motsure undefined
 
 *Japonic Language Family*

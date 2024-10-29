@@ -16,6 +16,6 @@ hoverText: evidence marker (or so) § Preposition
 
 **Modifier**: -
 
-Dutch aldus /ɑlˈdʏs/
+Dutch aldus undefined
 
 *Germanic Language Family*

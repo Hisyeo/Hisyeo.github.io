@@ -16,6 +16,6 @@ hoverText: next § Adjective
 
 **Modifier**: next/coming
 
-Hindi अगला aglā [əɡ.l̪äː]
+Hindi अगला aglā undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: hiccup/spasm § Noun
 
 **Modifier**: hiccup/spasm-related
 
-Tamil இசிவு icivu /i.ci.ʋu/
+Tamil இசிவு icivu undefined
 
 *Dravidian Language Family*

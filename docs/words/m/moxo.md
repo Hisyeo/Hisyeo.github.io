@@ -16,6 +16,6 @@ hoverText: decorative/ornamental § Adjective
 
 **Modifier**: decorative/ornamental
 
-Irish maiseach /ˈmˠaʃa(h)/
+Irish maiseach undefined
 
 *Celtic Language Family*

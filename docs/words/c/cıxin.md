@@ -16,6 +16,6 @@ hoverText: to enforce (the enforced) § Verb
 
 **Modifier**: enforceable/imposable
 
-Mandarin 執行 zhíxíng /ʈʂɨɕiŋ
+Mandarin 執行 zhíxíng undefined
 
 *Sino-Tibetan Language Family*

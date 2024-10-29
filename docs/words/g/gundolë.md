@@ -16,6 +16,6 @@ hoverText: sphere § Noun
 
 **Modifier**: sphere-related/spherical
 
-Pashto غونډاری‎ ghunddarai /ɣun.ɖɑ.rai/
+Pashto غونډاری‎ ghunddarai undefined
 
 *Indo-Iranian Language Family*

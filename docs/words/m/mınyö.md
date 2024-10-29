@@ -16,6 +16,6 @@ hoverText: worm § Noun
 
 **Modifier**: worm-related
 
-Swahili mnyoo /mɲɔː/
+Swahili mnyoo undefined
 
 *Niger-Congo Language Family*

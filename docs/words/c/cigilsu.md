@@ -16,6 +16,6 @@ hoverText: treatment (medical) § Noun
 
 **Modifier**: treatment-related
 
-Malayalam ചികിത്സ cikitsa [t͡ʃiɡilsɐ]
+Malayalam ചികിത്സ cikitsa undefined
 
 *Dravidian Language Family*

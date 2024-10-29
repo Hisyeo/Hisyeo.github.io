@@ -16,6 +16,6 @@ hoverText: bag § Noun
 
 **Modifier**: bag-related
 
-Hausa jàkā [d͡ʒə̀.káː]
+Hausa jàkā undefined
 
 *Afroasiatic Language Family*

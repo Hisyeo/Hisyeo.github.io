@@ -16,6 +16,6 @@ hoverText: long § Adjective
 
 **Modifier**: long
 
-Korean 길다 gilda [ˈki(ː)ɭda̠]
+Korean 길다 gilda undefined
 
 *Koreic Language Family*

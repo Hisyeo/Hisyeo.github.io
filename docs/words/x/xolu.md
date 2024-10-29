@@ -16,6 +16,6 @@ hoverText: bowl/cup § Noun
 
 **Modifier**: bowl/cup-related
 
-German Schale /ˈʃaːlə/
+German Schale undefined
 
 *Germanic Language Family*

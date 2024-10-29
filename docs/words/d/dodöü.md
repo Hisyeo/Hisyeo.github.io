@@ -16,6 +16,6 @@ hoverText: to bet (a bet) § Verb
 
 **Modifier**: betable/wagerable
 
-Cantonese 打賭 daa2 dou2 /daːdou̯/
+Cantonese 打賭 daa2 dou2 undefined
 
 *Sino-Tibetan Language Family*

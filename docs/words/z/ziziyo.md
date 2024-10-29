@@ -16,6 +16,6 @@ hoverText: tendon/root § Noun
 
 **Modifier**: tendon/root-related
 
-Hausa jíijíyàa 
+Hausa jíijíyàa undefined
 
 *Afroasiatic Language Family*

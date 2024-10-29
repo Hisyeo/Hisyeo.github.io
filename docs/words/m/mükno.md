@@ -16,6 +16,6 @@ hoverText: mature/ripe § Adjective
 
 **Modifier**: mature/ripe/adult
 
-Swedish mogna [muːgnɑː]
+Swedish mogna undefined
 
 *Germanic Language Family*

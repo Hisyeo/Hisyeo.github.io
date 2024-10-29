@@ -16,6 +16,6 @@ hoverText: to surrender (the surrendered) § Verb
 
 **Modifier**: surrenderable
 
-Vietnamese đầu hàng [ʔɗəw˨˩ haːŋ˨˩]
+Vietnamese đầu hàng undefined
 
 *Austro-Asiatic Language Family*

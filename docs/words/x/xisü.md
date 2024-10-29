@@ -16,6 +16,6 @@ hoverText: secular/profane/worldly § Adjective
 
 **Modifier**: secular/profane/worldly
 
-Mandarin 世俗 shìsú /ʂʐ̩⁵¹ su³⁵/
+Mandarin 世俗 shìsú undefined
 
 *Sino-Tibetan Language Family*

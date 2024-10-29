@@ -16,6 +16,6 @@ hoverText: to inherit (inheritance) § Verb
 
 **Modifier**: inheritable
 
-Chinese 遺傳 yíchuán /ji.ʈʂʰwan/
+Chinese 遺傳 yíchuán undefined
 
 *Sino-Tibetan Language Family*

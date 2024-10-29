@@ -16,6 +16,6 @@ hoverText: to have (a possession) § Verb
 
 **Modifier**: ownable/possessable
 
-Cantonese 擁有 jung jau /jʊŋ.jɐu̯/
+Cantonese 擁有 jung jau undefined
 
 *Sino-Tibetan Language Family*

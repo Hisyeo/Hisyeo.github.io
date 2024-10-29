@@ -16,6 +16,6 @@ hoverText: strict § Adjective
 
 **Modifier**: strict/harsh
 
-Turkish şiddetli 
+Turkish şiddetli undefined
 
 *Turkic Language Family*

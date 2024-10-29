@@ -16,6 +16,6 @@ hoverText: vile § Adjective
 
 **Modifier**: vile/wicked
 
-Polish niecny /ˈɲɛ.t͡snɨ/
+Polish niecny undefined
 
 *Balto-Slavic Language Family*

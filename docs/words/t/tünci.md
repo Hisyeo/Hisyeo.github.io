@@ -16,6 +16,6 @@ hoverText: nonbinary/queer § Adjective
 
 **Modifier**: nonbinary/queer
 
-Cantonese 同志 tung zi /tʰʊŋ²¹ t͡siː³³/
+Cantonese 同志 tung zi undefined
 
 *Sino-Tibetan Language Family*

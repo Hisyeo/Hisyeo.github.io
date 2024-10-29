@@ -16,6 +16,6 @@ hoverText: offspring § Noun
 
 **Modifier**: child/offspring-related
 
-White Hmong menyuam /me˧.ɲu̯ə˩̰ˀ/
+White Hmong menyuam undefined
 
 *Hmong-Mien Language Family*

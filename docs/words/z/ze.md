@@ -16,6 +16,6 @@ hoverText: aggressive/emotional sentence ender § Postposition
 
 **Modifier**: -
 
-Japanese ぜ ze [d͡ze̞]
+Japanese ぜ ze undefined
 
 *Japonic Language Family*

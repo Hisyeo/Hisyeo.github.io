@@ -16,6 +16,6 @@ hoverText: up § Noun
 
 **Modifier**: over/upper/above
 
-Vietnamese trên [t͡ɕen˧˧]
+Vietnamese trên undefined
 
 *Austro-Asiatic Language Family*

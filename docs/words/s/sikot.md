@@ -16,6 +16,6 @@ hoverText: brush/comb/rake/broom § Noun
 
 **Modifier**: brush/comb/rake/broom-related
 
-Indonesian sikat [ˈsikat̚]
+Indonesian sikat undefined
 
 *Austronesian Language Family*

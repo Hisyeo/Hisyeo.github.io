@@ -16,6 +16,6 @@ hoverText: balanced § Adjective
 
 **Modifier**: balanced/fair
 
-Swahili usawa /u'sawa/
+Swahili usawa undefined
 
 *Niger-Congo Language Family*

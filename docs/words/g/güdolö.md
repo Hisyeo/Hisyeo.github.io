@@ -16,6 +16,6 @@ hoverText: bow (weapon)/bow (music) § Noun
 
 **Modifier**: bow-related
 
-Serbo-Croatian гу̀дало gùdalo /ɡǔdalo/
+Serbo-Croatian гу̀дало gùdalo undefined
 
 *Balto-Slavic Language Family*

@@ -16,6 +16,6 @@ hoverText: interrupted § Adjective
 
 **Modifier**: interrupted
 
-Hindi रुका rukā (perfective of रुकना ruknā) [ɾʊ.käː]
+Hindi रुका rukā (perfective of रुकना ruknā) undefined
 
 *Indo-Iranian Language Family*

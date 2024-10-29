@@ -16,6 +16,6 @@ hoverText: trick/scam § Noun
 
 **Modifier**: trick/scam-related
 
-Tamil சூழ்ச்சி cūḻcci /t͡ʃuːlt͡ʃːi/
+Tamil சூழ்ச்சி cūḻcci undefined
 
 *Dravidian Language Family*

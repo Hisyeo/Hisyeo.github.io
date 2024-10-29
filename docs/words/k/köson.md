@@ -16,6 +16,6 @@ hoverText: to build (a construction) § Verb
 
 **Modifier**: construable/buildable
 
-Lao ກໍ່ສ້າງ kǭ sāng 
+Lao ກໍ່ສ້າງ kǭ sāng undefined
 
 *Kra-Dai Language Family*

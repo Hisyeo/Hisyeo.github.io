@@ -16,6 +16,6 @@ hoverText: female § Adjective
 
 **Modifier**: female/feminine
 
-Guaja wahy [wahy]
+Guaja wahy undefined
 
 *Tupian Language Family*

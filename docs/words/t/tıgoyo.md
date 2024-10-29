@@ -16,6 +16,6 @@ hoverText: supine § Adjective
 
 **Modifier**: supine/reclined
 
-Bikol Central tigayà [tiˈɡa.jaʔ]
+Bikol Central tigayà undefined
 
 *Austronesian Language Family*

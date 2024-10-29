@@ -16,6 +16,6 @@ hoverText: past § Noun
 
 **Modifier**: beforehand/ago/earlier
 
-K'iche' ojer /oχeɾ/
+K'iche' ojer undefined
 
 *Mayan Language Family*

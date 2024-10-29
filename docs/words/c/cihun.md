@@ -16,6 +16,6 @@ hoverText: to pull/attract (the pulled/attracted) § Verb
 
 **Modifier**: pullable/attractable
 
-German ziehen /ˈt͡siːən/
+German ziehen undefined
 
 *Germanic Language Family*

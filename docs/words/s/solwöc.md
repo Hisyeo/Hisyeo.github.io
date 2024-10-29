@@ -16,6 +16,6 @@ hoverText: top § Noun
 
 **Modifier**: top/uppermost/peak-related
 
-Hindi सर्वोच्च sarvocc [sɐɾ.ʋoː(t̚)t͡ʃ]
+Hindi सर्वोच्च sarvocc undefined
 
 *Indo-Iranian Language Family*

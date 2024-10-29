@@ -16,6 +16,6 @@ hoverText: skin § Noun
 
 **Modifier**: skin/hide-related
 
-Abkhazian а-цәа a-cʷa [atɕʰʷa]
+Abkhazian а-цәа a-cʷa undefined
 
 *Abkhazo-Adyghean Language Family*

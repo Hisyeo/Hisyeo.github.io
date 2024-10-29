@@ -16,6 +16,6 @@ hoverText: important § Adjective
 
 **Modifier**: important/significant
 
-Thai สำคัญ sǎm-kan /sam˩˩˦.kʰan˧/
+Thai สำคัญ sǎm-kan undefined
 
 *Kra-Dai Language Family*

@@ -16,6 +16,6 @@ hoverText: alive § Adjective
 
 **Modifier**: alive
 
-Arabic حياة ḥayāh /ħa.jaːh/
+Arabic حياة ḥayāh undefined
 
 *Afroasiatic Language Family*

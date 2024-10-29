@@ -16,6 +16,6 @@ hoverText: boundary/border § Noun
 
 **Modifier**: boundary/border-related
 
-Tamil எல்லை ellai /ɛllɐɪ̯/
+Tamil எல்லை ellai undefined
 
 *Dravidian Language Family*

@@ -16,6 +16,6 @@ hoverText: year § Noun
 
 **Modifier**: year-like
 
-Udi усен usen 
+Udi усен usen undefined
 
 *Nakh-Daghestani Language Family*

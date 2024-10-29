@@ -16,6 +16,6 @@ hoverText: teal § Adjective
 
 **Modifier**: teal
 
-Arabic شَرْشِيرِيّ šaršīriyy /ʃar.ʃiː.rijj/
+Arabic شَرْشِيرِيّ šaršīriyy undefined
 
 *Afroasiatic Language Family*

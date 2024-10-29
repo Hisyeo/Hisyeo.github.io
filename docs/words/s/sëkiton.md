@@ -16,6 +16,6 @@ hoverText: coal/cinder § Noun
 
 **Modifier**: coal/cinder-related
 
-Japanese 石炭 sekitan [se̞kʲitã̠ɴ]
+Japanese 石炭 sekitan undefined
 
 *Japonic Language Family*

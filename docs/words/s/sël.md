@@ -16,6 +16,6 @@ hoverText: down § Noun
 
 **Modifier**: below/down
 
-Persian زیر zir [zeːɾ]
+Persian زیر zir undefined
 
 *Indo-Iranian Language Family*

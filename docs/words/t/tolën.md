@@ -16,6 +16,6 @@ hoverText: limb § Noun
 
 **Modifier**: limb/branch-related
 
-Santali tɑren 
+Santali tɑren undefined
 
 *Austro-Asiatic Language Family*

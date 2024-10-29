@@ -16,6 +16,6 @@ hoverText: blue § Adjective
 
 **Modifier**: blue
 
-Azerbaijani göy [d͡ʒœj]
+Azerbaijani göy undefined
 
 *Turkic Language Family*

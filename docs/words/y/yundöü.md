@@ -16,6 +16,6 @@ hoverText: to guide (the guided) § Verb
 
 **Modifier**: guidable/leadable/directable
 
-Cantonese 引導 jan5 dou6 /jɐn.dou̯/
+Cantonese 引導 jan5 dou6 undefined
 
 *Sino-Tibetan Language Family*

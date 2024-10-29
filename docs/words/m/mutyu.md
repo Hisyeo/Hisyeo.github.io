@@ -16,6 +16,6 @@ hoverText: middle § Noun
 
 **Modifier**: middle/center-related
 
-Sanskrit मध्य madhya /məd̪ʱ.jᵊ/
+Sanskrit मध्य madhya undefined
 
 *Indo-Iranian Language Family*

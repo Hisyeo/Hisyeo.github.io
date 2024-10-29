@@ -16,6 +16,6 @@ hoverText: related § Adjective
 
 **Modifier**: related
 
-Finnish liittyvä [ˈliːt̪ːyʋæ]
+Finnish liittyvä undefined
 
 *Uralic Language Family*

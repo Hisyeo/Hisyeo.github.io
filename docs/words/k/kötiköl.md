@@ -16,6 +16,6 @@ hoverText: hindering/detrimental § Adjective
 
 **Modifier**: hindering/detrimental
 
-Bengali ক্ষতিকর khotikor [ˈkʰot̪ikɔɾ]
+Bengali ক্ষতিকর khotikor undefined
 
 *Indo-Iranian Language Family*

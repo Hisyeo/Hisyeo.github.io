@@ -16,6 +16,6 @@ hoverText: beige § Adjective
 
 **Modifier**: beige
 
-Chinese 米黃 mǐhuáng [mixwaŋ]
+Chinese 米黃 mǐhuáng undefined
 
 *Sino-Tibetan Language Family*

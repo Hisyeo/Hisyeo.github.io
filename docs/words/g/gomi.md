@@ -16,6 +16,6 @@ hoverText: to take (the taken) § Verb
 
 **Modifier**: takeable
 
-Evenki гамӣ gamī /ɡamiː/
+Evenki гамӣ gamī undefined
 
 *Tungusic Language Family*

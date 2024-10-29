@@ -16,6 +16,6 @@ hoverText: to untie (the untied) § Verb
 
 **Modifier**: untiable/detangleable
 
-Japanese 解くhodoku [ho̞do̞kɯ̟]
+Japanese 解くhodoku undefined
 
 *Japonic Language Family*

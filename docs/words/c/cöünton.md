@@ -16,6 +16,6 @@ hoverText: loyal/faithful § Adjective
 
 **Modifier**: loyal/faithful
 
-Vietnamese trung thành [ʈʊwŋ͡m˧˧ tʰɛɲ˦˩]
+Vietnamese trung thành undefined
 
 *Austro-Asiatic Language Family*

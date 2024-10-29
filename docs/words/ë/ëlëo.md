@@ -16,6 +16,6 @@ hoverText: floating § Adjective
 
 **Modifier**: floating
 
-Swahili -elea /ɛ.le.ɑ/
+Swahili -elea undefined
 
 *Niger-Congo Language Family*

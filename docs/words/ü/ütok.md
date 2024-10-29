@@ -16,6 +16,6 @@ hoverText: also § Adjective
 
 **Modifier**: also/too/included
 
-Quechua utaq 
+Quechua utaq undefined
 
 *Quechumaran Language Family*

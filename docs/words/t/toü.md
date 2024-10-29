@@ -16,6 +16,6 @@ hoverText: 06 six § Numeral
 
 **Modifier**: sixth
 
-White Hmong rau /ʈau̯˧/
+White Hmong rau undefined
 
 *Hmong-Mien Language Family*

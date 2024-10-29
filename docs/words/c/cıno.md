@@ -16,6 +16,6 @@ hoverText: charge/fee/tax § Noun
 
 **Modifier**: charge/fee/tax-related
 
-Russian цена́ cená [t͡sɨˈna]
+Russian цена́ cená undefined
 
 *Balto-Slavic Language Family*

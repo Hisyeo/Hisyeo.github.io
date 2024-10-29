@@ -16,6 +16,6 @@ hoverText: card § Noun
 
 **Modifier**: card-related
 
-Galician tarxeta [taɾʃeta]
+Galician tarxeta undefined
 
 *Romance Language Family*

@@ -16,6 +16,6 @@ hoverText: to place (the placed) § Verb
 
 **Modifier**: placeable
 
-Swahili -weka [weka]
+Swahili -weka undefined
 
 *Niger-Congo Language Family*

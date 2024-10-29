@@ -16,6 +16,6 @@ hoverText: to ask (a question) § Verb
 
 **Modifier**: askable
 
-Turkish soru /ˈsɔː.ru/
+Turkish soru undefined
 
 *Turkic Language Family*

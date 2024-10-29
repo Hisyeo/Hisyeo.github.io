@@ -16,6 +16,6 @@ hoverText: hour § Noun
 
 **Modifier**: hour-related
 
-Adyghe сыхьат səḥat [səħaːt]
+Adyghe сыхьат səḥat undefined
 
 *Abkhazo-Adyghean Language Family*

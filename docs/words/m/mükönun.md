@@ -16,6 +16,6 @@ hoverText: triangle § Noun
 
 **Modifier**: triangular/triange-related
 
-Tamil முக்கோணம் mukkōṇam /mukːoːɳɐm/
+Tamil முக்கோணம் mukkōṇam undefined
 
 *Dravidian Language Family*

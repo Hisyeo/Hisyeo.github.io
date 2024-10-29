@@ -16,6 +16,6 @@ hoverText: rail/rack/bar § Noun
 
 **Modifier**: rail/rack/bar-related
 
-Finnish kisko [ˈk̟is̠ko̞]
+Finnish kisko undefined
 
 *Uralic Language Family*

@@ -16,6 +16,6 @@ hoverText: to pierce (the pierced) § Verb
 
 **Modifier**: piercable/puncturable
 
-Swahili -dunga [duŋga]
+Swahili -dunga undefined
 
 *Niger-Congo Language Family*

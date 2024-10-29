@@ -16,6 +16,6 @@ hoverText: station/garage § Noun
 
 **Modifier**: station/garage-related
 
-Wu 站頭 ze-deu /ze.dɤ/
+Wu 站頭 ze-deu undefined
 
 *Sino-Tibetan Language Family*

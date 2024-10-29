@@ -16,6 +16,6 @@ hoverText: what § Pronoun
 
 **Modifier**: (of) what
 
-Majang ǯík /dʒɪk̚/
+Majang ǯík undefined
 
 *Nilo-Saharan Language Family*

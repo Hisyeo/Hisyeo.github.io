@@ -16,6 +16,6 @@ hoverText: to wash (the washed) § Verb
 
 **Modifier**: washable/rinsable
 
-Persian ⁧شُستَن⁩ šostan [ʃʊs.t̪ʰǽn]
+Persian ⁧شُستَن⁩ šostan undefined
 
 *Indo-Iranian Language Family*

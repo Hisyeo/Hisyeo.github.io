@@ -16,6 +16,6 @@ hoverText: herb § Noun
 
 **Modifier**: herb-related
 
-Cantonese 香草 hoeng1 cou2 /hɔːŋ˥ tsʰou̯˧˥/
+Cantonese 香草 hoeng1 cou2 undefined
 
 *Sino-Tibetan Language Family*

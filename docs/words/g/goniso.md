@@ -16,6 +16,6 @@ hoverText: to think (a thought/opinion) § Verb
 
 **Modifier**: thinkable/opinable
 
-Chichewa -ganiza /ɡaˈni.za/
+Chichewa -ganiza undefined
 
 *Niger-Congo Language Family*

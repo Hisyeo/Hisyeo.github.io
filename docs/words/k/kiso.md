@@ -16,6 +16,6 @@ hoverText: to narrate (a story) § Verb
 
 **Modifier**: narratable/tellable
 
-Arabic قِصَّة qiṣṣa /qisˤ.sˤa/
+Arabic قِصَّة qiṣṣa undefined
 
 *Afroasiatic Language Family*

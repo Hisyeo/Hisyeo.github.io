@@ -16,6 +16,6 @@ hoverText: overt/evident § Adjective
 
 **Modifier**: overt/evidently
 
-Telugu వ్యక్తము vyaktamu /ʋjəkt̪amu/
+Telugu వ్యక్తము vyaktamu undefined
 
 *Dravidian Language Family*

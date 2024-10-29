@@ -16,6 +16,6 @@ hoverText: line § Noun
 
 **Modifier**: line-related
 
-Telugu గీత gīta /giː.ta/
+Telugu గీత gīta undefined
 
 *Dravidian Language Family*

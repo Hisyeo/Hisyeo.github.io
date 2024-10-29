@@ -16,6 +16,6 @@ hoverText: strong § Adjective
 
 **Modifier**: strong/forceful
 
-Thai แรง rɛɛng /rɛːŋ˧/
+Thai แรง rɛɛng undefined
 
 *Kra-Dai Language Family*

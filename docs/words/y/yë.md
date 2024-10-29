@@ -16,6 +16,6 @@ hoverText: genitive marker (of) § Preposition
 
 **Modifier**: -
 
-Persian ی -ye [je]
+Persian ی -ye undefined
 
 *Indo-Iranian Language Family*

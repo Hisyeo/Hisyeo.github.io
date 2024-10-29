@@ -16,6 +16,6 @@ hoverText: alarm § Noun
 
 **Modifier**: alarm-related
 
-Georgian განგაში gangaši [ɡ̊aŋɡaʃi]
+Georgian განგაში gangaši undefined
 
 *Kartvelian Language Family*

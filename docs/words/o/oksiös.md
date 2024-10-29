@@ -16,6 +16,6 @@ hoverText: worthy § Adjective
 
 **Modifier**: worthy/deserving
 
-Greek άξιος áxios /ˈak.si.os/
+Greek άξιος áxios undefined
 
 *Hellenic Language Family*

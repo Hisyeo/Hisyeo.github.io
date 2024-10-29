@@ -16,6 +16,6 @@ hoverText: to behave (a behavior) § Verb
 
 **Modifier**: behavable/behavior-like
 
-Mandarin 為人 wèirén [wei̯ɹən]
+Mandarin 為人 wèirén undefined
 
 *Sino-Tibetan Language Family*

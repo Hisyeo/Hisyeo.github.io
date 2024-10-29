@@ -16,6 +16,6 @@ hoverText: tall § Adjective
 
 **Modifier**: tall/high
 
-Guaraní yvate [ɨʋate]
+Guaraní yvate undefined
 
 *Tupian Language Family*

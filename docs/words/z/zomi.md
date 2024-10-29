@@ -16,6 +16,6 @@ hoverText: society/culture § Noun
 
 **Modifier**: society/culture-related
 
-Swahili jamii /dʒɑ'miː/
+Swahili jamii undefined
 
 *Niger-Congo Language Family*

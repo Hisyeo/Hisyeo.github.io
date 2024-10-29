@@ -16,6 +16,6 @@ hoverText: to work (in an occupation) § Verb
 
 **Modifier**: workable/occupation/job-like
 
-Tamil வேலை vēlai /ʋeːlaɪ̯/
+Tamil வேலை vēlai undefined
 
 *Dravidian Language Family*

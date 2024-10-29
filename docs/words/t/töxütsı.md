@@ -16,6 +16,6 @@ hoverText: bump § Noun
 
 **Modifier**: protrusion-like/bulge-like/bump-like
 
-Japanese とっしゅつ tosshutsu [to̞ɕːɯ̟̊ᵝt͡sɨᵝ]
+Japanese とっしゅつ tosshutsu undefined
 
 *Japonic Language Family*

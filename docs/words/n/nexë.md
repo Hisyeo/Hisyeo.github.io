@@ -16,6 +16,6 @@ hoverText: intoxicated § Adjective
 
 **Modifier**: intoxicated
 
-Persian نشئه naš'e [næːˈʃe]
+Persian نشئه naš'e undefined
 
 *Indo-Iranian Language Family*

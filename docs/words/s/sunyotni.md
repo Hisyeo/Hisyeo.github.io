@@ -16,6 +16,6 @@ hoverText: interested/amused § Adjective
 
 **Modifier**: interested/amused
 
-Russian заня́тный zanjátnyj [zɐˈnʲatnɨj]
+Russian заня́тный zanjátnyj undefined
 
 *Balto-Slavic Language Family*

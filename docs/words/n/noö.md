@@ -16,6 +16,6 @@ hoverText: wave § Noun
 
 **Modifier**: wave/undulation-related
 
-Gilbertese nao /näo/
+Gilbertese nao undefined
 
 *Austronesian Language Family*

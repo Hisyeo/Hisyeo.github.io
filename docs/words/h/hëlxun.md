@@ -16,6 +16,6 @@ hoverText: early § Adjective
 
 **Modifier**: early-related
 
-Albanian hershëm /'heɾ.ʃəm/
+Albanian hershëm undefined
 
 *Albanian Language Family*

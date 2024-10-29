@@ -16,6 +16,6 @@ hoverText: to hug (the hugged) § Verb
 
 **Modifier**: huggable/embracable
 
-Assamese আঁকোৱাল ãküal /ãkʊal/
+Assamese আঁকোৱাল ãküal undefined
 
 *Indo-Iranian Language Family*

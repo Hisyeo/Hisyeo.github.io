@@ -16,6 +16,6 @@ hoverText: violet § Adjective
 
 **Modifier**: violet
 
-Turkish menekşe /mɛnɛcʃɛ/
+Turkish menekşe undefined
 
 *Turkic Language Family*

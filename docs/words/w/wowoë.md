@@ -16,6 +16,6 @@ hoverText: foot § Noun
 
 **Modifier**: foot-related
 
-Hawaiian wāwae /wā.wae/
+Hawaiian wāwae undefined
 
 *Austronesian Language Family*

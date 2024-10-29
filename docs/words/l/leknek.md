@@ -16,6 +16,6 @@ hoverText: weapon § Noun
 
 **Modifier**: weapon-like
 
-Burmese လက်နက် laknak /lɛʔnɛʔ/
+Burmese လက်နက် laknak undefined
 
 *Sino-Tibetan Language Family*

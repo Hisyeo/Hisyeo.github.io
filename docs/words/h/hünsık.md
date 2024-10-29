@@ -16,6 +16,6 @@ hoverText: red § Adjective
 
 **Modifier**: red
 
-Cantonese 紅色 hung sik /hʊŋ²¹ sɪk̚⁵/
+Cantonese 紅色 hung sik undefined
 
 *Sino-Tibetan Language Family*

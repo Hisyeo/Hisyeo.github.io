@@ -16,6 +16,6 @@ hoverText: money § Noun
 
 **Modifier**: money-related
 
-English money /ˈmʌni/
+English money undefined
 
 *Germanic Language Family*

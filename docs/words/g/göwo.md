@@ -16,6 +16,6 @@ hoverText: foolish/obtuse § Adjective
 
 **Modifier**: foolish/obtuse
 
-Oromo gowwaa /gɔwːɑː/
+Oromo gowwaa undefined
 
 *Afroasiatic Language Family*

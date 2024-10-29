@@ -16,6 +16,6 @@ hoverText: rural § Adjective
 
 **Modifier**: rural
 
-Dutch landelijk /ˈlɑndələk/
+Dutch landelijk undefined
 
 *Germanic Language Family*

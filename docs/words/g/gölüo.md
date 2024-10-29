@@ -16,6 +16,6 @@ hoverText: melted § Adjective
 
 **Modifier**: melted/liquefied
 
-Assamese গলোৱা golüa /ɡɔ.lʊa/
+Assamese গলোৱা golüa undefined
 
 *Indo-Iranian Language Family*

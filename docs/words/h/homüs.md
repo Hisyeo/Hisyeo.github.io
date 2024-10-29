@@ -16,6 +16,6 @@ hoverText: quiet § Adjective
 
 **Modifier**: quiet
 
-Persian خَاموش xâmuš [xɒː.múːʃ]
+Persian خَاموش xâmuš undefined
 
 *Indo-Iranian Language Family*

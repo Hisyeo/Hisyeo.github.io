@@ -16,6 +16,6 @@ hoverText: joint § Noun
 
 **Modifier**: joint-related
 
-Valencian Catalan juntura [d͡ʒunˈtu.ɾa]
+Valencian Catalan juntura undefined
 
 *Romance Language Family*

@@ -16,6 +16,6 @@ hoverText: explosion/blast § Noun
 
 **Modifier**: explosion/blast-related
 
-Urdu دَھماکَہ dhamākah /d̪ʱə.mɑː.kɑ(ːɦ)/
+Urdu دَھماکَہ dhamākah undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: dead § Adjective
 
 **Modifier**: dead
 
-Yoruba ti kú /tī/+/kú/
+Yoruba ti kú undefined
 
 *Niger-Congo Language Family*

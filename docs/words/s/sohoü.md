@@ -16,6 +16,6 @@ hoverText: healthy § Adjective
 
 **Modifier**: healthy
 
-Avar сахав saxaw [saχaw]
+Avar сахав saxaw undefined
 
 *Nakh-Daghestani Language Family*

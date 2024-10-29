@@ -16,6 +16,6 @@ hoverText: rhyme/verse § Noun
 
 **Modifier**: rhyme/verse-related
 
-Swahili kina /ki.nɑ/
+Swahili kina undefined
 
 *Niger-Congo Language Family*

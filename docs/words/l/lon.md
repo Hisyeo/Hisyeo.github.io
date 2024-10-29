@@ -16,6 +16,6 @@ hoverText: distance/duration marker (for) § Preposition
 
 **Modifier**: -
 
-German lang [laŋ]
+German lang undefined
 
 *Germanic Language Family*

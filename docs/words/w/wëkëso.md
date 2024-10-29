@@ -16,6 +16,6 @@ hoverText: to invest [in] (an investee) § Verb
 
 **Modifier**: investable
 
-Swahili -wekeza [wekeza]
+Swahili -wekeza undefined
 
 *Niger-Congo Language Family*

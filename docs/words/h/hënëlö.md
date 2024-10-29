@@ -16,6 +16,6 @@ hoverText: gender § Noun
 
 **Modifier**: gender-related
 
-Spanish género [ˈxe.ne.ɾo]
+Spanish género undefined
 
 *Romance Language Family*

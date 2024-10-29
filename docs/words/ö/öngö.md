@@ -16,6 +16,6 @@ hoverText: fungus § Noun
 
 **Modifier**: fungus/mushroom-related
 
-Spanish hongo [ˈõŋ.ɡo]
+Spanish hongo undefined
 
 *Romance Language Family*

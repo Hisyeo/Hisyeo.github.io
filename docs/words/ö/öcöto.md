@@ -16,6 +16,6 @@ hoverText: deity § Noun
 
 **Modifier**: deity/god-related/divine
 
-Atakapa o'tsotat -
+Atakapa o'tsotat undefined
 
 *Misc Language Family*

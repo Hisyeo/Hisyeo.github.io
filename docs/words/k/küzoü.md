@@ -16,6 +16,6 @@ hoverText: awesome § Adjective
 
 **Modifier**: awesome/amazing
 
-Cebuano kuyaw ['kuː.d͡ʒaʊ̯]
+Cebuano kuyaw undefined
 
 *Austronesian Language Family*

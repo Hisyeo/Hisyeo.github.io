@@ -16,6 +16,6 @@ hoverText: to wear (clothing) § Verb
 
 **Modifier**: wearable
 
-Yiddish אָנטאָן onton /ˈɔnˌtɔn/
+Yiddish אָנטאָן onton undefined
 
 *Germanic Language Family*

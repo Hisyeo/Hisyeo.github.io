@@ -16,6 +16,6 @@ hoverText: belly § Noun
 
 **Modifier**: belly/stomach-related
 
-Quechua wiksa ['wɪksæ]
+Quechua wiksa undefined
 
 *Quechumaran Language Family*

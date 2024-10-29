@@ -16,6 +16,6 @@ hoverText: state § Noun
 
 **Modifier**: state/polity-related
 
-Mandarin 國家 guójiā /ku̯ɔ.tɕja/
+Mandarin 國家 guójiā undefined
 
 *Sino-Tibetan Language Family*

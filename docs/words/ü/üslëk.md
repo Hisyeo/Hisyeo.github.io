@@ -16,6 +16,6 @@ hoverText: to blow (a blown entity) § Verb
 
 **Modifier**: blowable
 
-Mongolian үлээх üleex /uɮex/
+Mongolian үлээх üleex undefined
 
 *Mongolic Language Family*

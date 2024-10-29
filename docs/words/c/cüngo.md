@@ -16,6 +16,6 @@ hoverText: to filter (the filtered) § Verb
 
 **Modifier**: filterable/sieveable/winnowable
 
-Swahili -chunga [tʃuᵑɡ̊ɑ]
+Swahili -chunga undefined
 
 *Niger-Congo Language Family*

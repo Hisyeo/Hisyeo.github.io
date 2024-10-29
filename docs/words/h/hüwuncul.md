@@ -16,6 +16,6 @@ hoverText: plastic § Noun
 
 **Modifier**: plastic-related
 
-Mongolian хуванцар qubančir  /ˈxʊw̜ənt͡sər/
+Mongolian хуванцар qubančir  undefined
 
 *Mongolic Language Family*

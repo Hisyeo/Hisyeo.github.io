@@ -16,6 +16,6 @@ hoverText: color § Noun
 
 **Modifier**: color-related
 
-Swahili rangi /ɾɑᵑɡɪ/
+Swahili rangi undefined
 
 *Niger-Congo Language Family*

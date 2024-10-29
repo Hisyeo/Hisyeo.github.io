@@ -16,6 +16,6 @@ hoverText: tight/firm § Adjective
 
 **Modifier**: tight/firm
 
-Latvian ciešs [tsiɛ̂ʃ]
+Latvian ciešs undefined
 
 *Balto-Slavic Language Family*

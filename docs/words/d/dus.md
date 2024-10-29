@@ -16,6 +16,6 @@ hoverText: 10 ten § Numeral
 
 **Modifier**: tenth
 
-Hindi दस das [d̪ɐs]
+Hindi दस das undefined
 
 *Indo-Iranian Language Family*

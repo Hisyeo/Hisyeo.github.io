@@ -16,6 +16,6 @@ hoverText: perfect verb particle § Particle
 
 **Modifier**: -
 
-Alemannic German sii /siː/
+Alemannic German sii undefined
 
 *Germanic Language Family*

@@ -16,6 +16,6 @@ hoverText: bitter § Adjective
 
 **Modifier**: bitter
 
-Yoruba kikorò 
+Yoruba kikorò undefined
 
 *Niger-Congo Language Family*

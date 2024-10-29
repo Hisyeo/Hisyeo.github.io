@@ -16,6 +16,6 @@ hoverText: to bear (a burden) § Verb
 
 **Modifier**: bearable/carryable/transportable
 
-Mansaka akot /a.kot/
+Mansaka akot undefined
 
 *Austronesian Language Family*

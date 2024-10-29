@@ -16,6 +16,6 @@ hoverText: map/chart § Noun
 
 **Modifier**: map/chart-related
 
-Assamese নক্সা noksa /nɔksa/
+Assamese নক্সা noksa undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: ancient § Adjective
 
 **Modifier**: ancient/antique
 
-French ancien /ɑ̃.sjɛ̃/
+French ancien undefined
 
 *Romance Language Family*

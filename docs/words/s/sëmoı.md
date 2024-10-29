@@ -16,6 +16,6 @@ hoverText: heaven § Noun
 
 **Modifier**: heavenly/paradise-like
 
-Tigrinya ሰማይ sämay /semaɪ̯/
+Tigrinya ሰማይ sämay undefined
 
 *Afroasiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: puzzle/mystery § Noun
 
 **Modifier**: puzzle/mystery-related
 
-Japanese なぞ nazo [na̠zo̞]
+Japanese なぞ nazo undefined
 
 *Japonic Language Family*

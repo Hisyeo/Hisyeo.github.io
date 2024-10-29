@@ -16,6 +16,6 @@ hoverText: tooth § Noun
 
 **Modifier**: tooth-related/dental
 
-Hausa haƙōrī /há.kʼóː.ɽíː/
+Hausa haƙōrī undefined
 
 *Afroasiatic Language Family*

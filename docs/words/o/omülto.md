@@ -16,6 +16,6 @@ hoverText: abstract § Adjective
 
 **Modifier**: abstract/theoretical
 
-Malayalam അമൂർത്ത amūṟtta /amuːrt̪ːa/
+Malayalam അമൂർത്ത amūṟtta undefined
 
 *Dravidian Language Family*

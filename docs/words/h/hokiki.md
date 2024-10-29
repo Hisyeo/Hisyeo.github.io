@@ -16,6 +16,6 @@ hoverText: authentic § Adjective
 
 **Modifier**: authentic/true
 
-Arabic حَقِيقِيّ ḥaqīqiyy 
+Arabic حَقِيقِيّ ḥaqīqiyy undefined
 
 *Afroasiatic Language Family*

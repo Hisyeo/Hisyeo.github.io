@@ -16,6 +16,6 @@ hoverText: beak § Noun
 
 **Modifier**: beak/bill-related
 
-Thai จะงอย jà-ngɔɔi /t͡ɕa˨˩.ŋɔːj˧/
+Thai จะงอย jà-ngɔɔi undefined
 
 *Kra-Dai Language Family*

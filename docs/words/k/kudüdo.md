@@ -16,6 +16,6 @@ hoverText: to harvest (a harvest) § Verb
 
 **Modifier**: harvestable/reapable
 
-Korean 거두다 geoduda [kʌ̹duda̠]
+Korean 거두다 geoduda undefined
 
 *Koreic Language Family*

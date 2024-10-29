@@ -16,6 +16,6 @@ hoverText: variable/unstable § Adjective
 
 **Modifier**: variable/unstable
 
-Yucatec kʼexik /kʼeʃik/
+Yucatec kʼexik undefined
 
 *Mayan Language Family*

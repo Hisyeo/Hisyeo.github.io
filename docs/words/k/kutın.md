@@ -16,6 +16,6 @@ hoverText: difficult § Adjective
 
 **Modifier**: difficult/complex
 
-Hindi कठिन kaṭhin [kə.ʈʰɪ̃n̪]
+Hindi कठिन kaṭhin undefined
 
 *Indo-Iranian Language Family*

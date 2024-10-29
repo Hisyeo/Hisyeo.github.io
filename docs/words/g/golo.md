@@ -16,6 +16,6 @@ hoverText: to read (a document) § Verb
 
 **Modifier**: readable
 
-Hijazi Arabic قرا gara /ɡara/
+Hijazi Arabic قرا gara undefined
 
 *Afroasiatic Language Family*

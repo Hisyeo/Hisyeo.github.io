@@ -16,6 +16,6 @@ hoverText: slow § Adjective
 
 **Modifier**: slow
 
-Hindi धीरे dhīre /d̪ʱiː.ɾeː/
+Hindi धीरे dhīre undefined
 
 *Indo-Iranian Language Family*

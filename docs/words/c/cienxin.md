@@ -16,6 +16,6 @@ hoverText: alkaline § Adjective
 
 **Modifier**: alkaline
 
-Mandarin 鹼性 jiǎnxìng /tɕjɛn.ɕiŋ/
+Mandarin 鹼性 jiǎnxìng undefined
 
 *Sino-Tibetan Language Family*

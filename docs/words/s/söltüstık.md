@@ -16,6 +16,6 @@ hoverText: northern § Adjective
 
 **Modifier**: northern
 
-Kazakh солтүстік soltüstık [so̙ltʉstɪ̞k]
+Kazakh солтүстік soltüstık undefined
 
 *Turkic Language Family*

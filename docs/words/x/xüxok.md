@@ -16,6 +16,6 @@ hoverText: hell § Noun
 
 **Modifier**: hell-related
 
-Avar жужахӏ žužaḥʳ /ʒuʒaʜ/
+Avar жужахӏ žužaḥʳ undefined
 
 *Nakh-Daghestani Language Family*

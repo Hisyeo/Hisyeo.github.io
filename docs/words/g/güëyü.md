@@ -16,6 +16,6 @@ hoverText: eye § Noun
 
 **Modifier**: eye-related
 
-Asturian güeyu [ˈɡwe.ʝu]
+Asturian güeyu undefined
 
 *Romance Language Family*

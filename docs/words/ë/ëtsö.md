@@ -16,6 +16,6 @@ hoverText: state/condition § Noun
 
 **Modifier**: state/condition-related
 
-Esperanto eco [ˈet͡so]
+Esperanto eco undefined
 
 *Misc Language Family*

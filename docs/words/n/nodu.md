@@ -16,6 +16,6 @@ hoverText: tone § Noun
 
 **Modifier**: tone-related
 
-Malay nada /'na.də/
+Malay nada undefined
 
 *Austronesian Language Family*

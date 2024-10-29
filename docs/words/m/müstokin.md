@@ -16,6 +16,6 @@ hoverText: straight § Adjective
 
 **Modifier**: straight
 
-Arabic مُسْتَقِيم mustaqīm /mus.ta.qiːm/
+Arabic مُسْتَقِيم mustaqīm undefined
 
 *Afroasiatic Language Family*

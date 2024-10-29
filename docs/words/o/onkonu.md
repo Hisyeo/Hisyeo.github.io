@@ -16,6 +16,6 @@ hoverText: to estimate/guess (an estimation/guess) § Verb
 
 **Modifier**: estimatable/guessable
 
-Telugu అంచనా añcanā /aṁ.ka.nɐː/
+Telugu అంచనా añcanā undefined
 
 *Dravidian Language Family*

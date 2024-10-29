@@ -16,6 +16,6 @@ hoverText: deep § Adjective
 
 **Modifier**: deep
 
-Latvian dziļais [d̪͡z̪iʎɑis̪]
+Latvian dziļais undefined
 
 *Balto-Slavic Language Family*

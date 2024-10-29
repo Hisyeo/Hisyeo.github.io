@@ -16,6 +16,6 @@ hoverText: to eat (food) § Verb
 
 **Modifier**: edible
 
-Indonesian makan /ma.kan/
+Indonesian makan undefined
 
 *Austronesian Language Family*

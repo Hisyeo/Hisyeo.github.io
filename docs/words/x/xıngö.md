@@ -16,6 +16,6 @@ hoverText: neck/throat § Noun
 
 **Modifier**: neck-related/throat-related
 
-Swahili shingo /ʃin.goː/
+Swahili shingo undefined
 
 *Niger-Congo Language Family*

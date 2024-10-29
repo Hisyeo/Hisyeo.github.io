@@ -16,6 +16,6 @@ hoverText: traditional § Adjective
 
 **Modifier**: traditional/conventional
 
-Thai ดั้งเดิม dâng-dəəm /daŋ˥˩.dɤːm˧/
+Thai ดั้งเดิม dâng-dəəm undefined
 
 *Kra-Dai Language Family*

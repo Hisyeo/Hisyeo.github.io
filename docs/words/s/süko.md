@@ -16,6 +16,6 @@ hoverText: to like (a preference) § Verb
 
 **Modifier**: likable/enjoyable
 
-Malay ⁧ suka سوک  [suka]
+Malay ⁧ suka سوک  undefined
 
 *Austronesian Language Family*

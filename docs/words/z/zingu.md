@@ -16,6 +16,6 @@ hoverText: orange § Adjective
 
 **Modifier**: orange
 
-Malay jingga /d͡ʒiŋɡə/
+Malay jingga undefined
 
 *Austronesian Language Family*

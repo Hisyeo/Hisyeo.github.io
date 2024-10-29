@@ -16,6 +16,6 @@ hoverText: to climb (a slope) § Verb
 
 **Modifier**: climbable
 
-Marathi चढणे caḍhṇe /t͡səɖʱ.ɳe/
+Marathi चढणे caḍhṇe undefined
 
 *Indo-Iranian Language Family*

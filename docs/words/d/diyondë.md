@@ -16,6 +16,6 @@ hoverText: to focus [on]/pay attention [to] § Verb
 
 **Modifier**: focusable
 
-Hindi ध्यान दे dhyān de /d̪ʱjɑːn/+/d̪eː/
+Hindi ध्यान दे dhyān de undefined
 
 *Indo-Iranian Language Family*

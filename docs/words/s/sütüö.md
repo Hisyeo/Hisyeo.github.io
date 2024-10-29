@@ -16,6 +16,6 @@ hoverText: friend § Noun
 
 **Modifier**: friend-related
 
-North Maasai sútúó /sú.tú.ó/
+North Maasai sútúó undefined
 
 *Nilo-Saharan Language Family*

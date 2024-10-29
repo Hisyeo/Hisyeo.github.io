@@ -16,6 +16,6 @@ hoverText: right § Noun
 
 **Modifier**: rightside-related/right(hand)
 
-Q'eqchi' sa' nim /saʔ.nim/
+Q'eqchi' sa' nim undefined
 
 *Mayan Language Family*

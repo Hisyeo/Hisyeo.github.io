@@ -16,6 +16,6 @@ hoverText: chaotic § Adjective
 
 **Modifier**: chaotic
 
-Greek χάος cháos /ˈxa.os/
+Greek χάος cháos undefined
 
 *Hellenic Language Family*

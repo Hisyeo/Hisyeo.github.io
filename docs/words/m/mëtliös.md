@@ -16,6 +16,6 @@ hoverText: medium/average § Adjective
 
 **Modifier**: medium/mediocre/average
 
-Greek μέτρῐος métrios /ˈme.tri.os/
+Greek μέτρῐος métrios undefined
 
 *Hellenic Language Family*

@@ -16,6 +16,6 @@ hoverText: to hope/wish (a hope/wish) § Verb
 
 **Modifier**: hopable/wishable
 
-Mandarin 希望 xīwàng 
+Mandarin 希望 xīwàng undefined
 
 *Sino-Tibetan Language Family*

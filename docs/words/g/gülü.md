@@ -16,6 +16,6 @@ hoverText: wound/injury § Noun
 
 **Modifier**: wound/injury-related
 
-Songhay guuru [guːɾu]
+Songhay guuru undefined
 
 *Nilo-Saharan Language Family*

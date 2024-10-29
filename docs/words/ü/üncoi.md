@@ -16,6 +16,6 @@ hoverText: proud § Adjective
 
 **Modifier**: proud/vane
 
-Hindi ऊंचाई ūñcāī [ũːn.t͡ʃäː.iː]
+Hindi ऊंचाई ūñcāī undefined
 
 *Indo-Iranian Language Family*

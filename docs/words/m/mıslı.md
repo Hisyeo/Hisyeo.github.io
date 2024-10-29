@@ -16,6 +16,6 @@ hoverText: similative marker (like) § Preposition
 
 **Modifier**: -
 
-Dari Persion مثل mesl-e [mɪs.lɪ]
+Dari Persion مثل mesl-e undefined
 
 *Indo-Iranian Language Family*

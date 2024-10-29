@@ -16,6 +16,6 @@ hoverText: week § Noun
 
 **Modifier**: week-related
 
-Komi-Zyrian вежон vežon [ˈʋeʒ̺o̞n]
+Komi-Zyrian вежон vežon undefined
 
 *Uralic Language Family*

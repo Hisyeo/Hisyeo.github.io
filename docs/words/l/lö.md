@@ -16,6 +16,6 @@ hoverText: moving § Adjective
 
 **Modifier**: moving
 
-Yoruba lọ /lɔ̄/
+Yoruba lọ undefined
 
 *Niger-Congo Language Family*

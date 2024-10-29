@@ -16,6 +16,6 @@ hoverText: 03 three § Numeral
 
 **Modifier**: third
 
-Mandarin 三 sān /sän/
+Mandarin 三 sān undefined
 
 *Sino-Tibetan Language Family*

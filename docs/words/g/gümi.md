@@ -16,6 +16,6 @@ hoverText: rubber § Noun
 
 **Modifier**: rubber-related
 
-German Gummi /ˈɡʊmi/
+German Gummi undefined
 
 *Germanic Language Family*

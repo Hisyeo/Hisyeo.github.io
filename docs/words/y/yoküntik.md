@@ -16,6 +16,6 @@ hoverText: prize § Noun
 
 **Modifier**: prize/reward-related
 
-Yucatec yakuntik /ja.kun.tik/
+Yucatec yakuntik undefined
 
 *Mayan Language Family*

@@ -16,6 +16,6 @@ hoverText: to launch (a projectile) § Verb
 
 **Modifier**: projectable/throwable/shootable
 
-Portuguese lançar /lɐ̃ˈsaɾ/
+Portuguese lançar undefined
 
 *Romance Language Family*

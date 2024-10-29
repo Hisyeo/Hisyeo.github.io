@@ -16,6 +16,6 @@ hoverText: cone § Noun
 
 **Modifier**: cone-related
 
-Tagalog tagilog [tɐ.ɣɪˈloɡ]
+Tagalog tagilog undefined
 
 *Austronesian Language Family*

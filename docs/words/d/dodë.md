@@ -16,6 +16,6 @@ hoverText: diving § Adjective
 
 **Modifier**: diving/bathing
 
-White Hmong da dej /da˧.de˥˧/
+White Hmong da dej undefined
 
 *Hmong-Mien Language Family*

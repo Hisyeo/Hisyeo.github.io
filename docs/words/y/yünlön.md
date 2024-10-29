@@ -16,6 +16,6 @@ hoverText: to forgive (the forgiven) § Verb
 
 **Modifier**: forgiveable/excuseable/pardonable
 
-Cantonese 原諒 jyun4 loeng6 /ȷyːn.lœːŋ/
+Cantonese 原諒 jyun4 loeng6 undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: to trust (a belief) § Verb
 
 **Modifier**: trustable/believable
 
-Arabic إيمان ʾīmān /ʔiː.maːn/
+Arabic إيمان ʾīmān undefined
 
 *Afroasiatic Language Family*

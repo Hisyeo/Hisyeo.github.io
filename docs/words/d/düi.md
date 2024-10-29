@@ -16,6 +16,6 @@ hoverText: 02 two § Numeral
 
 **Modifier**: second (ordinal)
 
-Assamisi দুই du'i /dui/
+Assamisi দুই du'i undefined
 
 *Indo-Iranian Language Family*

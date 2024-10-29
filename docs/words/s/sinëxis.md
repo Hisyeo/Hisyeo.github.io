@@ -16,6 +16,6 @@ hoverText: constant § Adjective
 
 **Modifier**: constant/stable
 
-Greek συνεχής synechís /si.neˈçis/
+Greek συνεχής synechís undefined
 
 *Hellenic Language Family*

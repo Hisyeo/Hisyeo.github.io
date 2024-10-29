@@ -16,6 +16,6 @@ hoverText: body § Noun
 
 **Modifier**: body/torso-related
 
-Sanskrit शरीर śarīra [saˈrira]
+Sanskrit शरीर śarīra undefined
 
 *Indo-Iranian Language Family*

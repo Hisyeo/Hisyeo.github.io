@@ -16,6 +16,6 @@ hoverText: propositive sentence ender (agree?) § Postposition
 
 **Modifier**: -
 
-Korean 지 -ji /t͡ɕi/
+Korean 지 -ji undefined
 
 *Koreic Language Family*

@@ -16,6 +16,6 @@ hoverText: old § Adjective
 
 **Modifier**: old
 
-Korean 낡다 nakda [na̠k̚t͈a̠]
+Korean 낡다 nakda undefined
 
 *Koreic Language Family*

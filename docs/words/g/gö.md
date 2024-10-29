@@ -16,6 +16,6 @@ hoverText: existent § Adjective
 
 **Modifier**: existent
 
-Songhay goo 
+Songhay goo undefined
 
 *Nilo-Saharan Language Family*

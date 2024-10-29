@@ -16,6 +16,6 @@ hoverText: day § Noun
 
 **Modifier**: day-related
 
-Hausa rānā /ɽáː.náː/
+Hausa rānā undefined
 
 *Afroasiatic Language Family*

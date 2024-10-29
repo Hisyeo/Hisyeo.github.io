@@ -16,6 +16,6 @@ hoverText: to cut (the cut/chopped) § Verb
 
 **Modifier**: cuttable/choppable
 
-Tamil வெட்டு veṭṭu [ʋeʈːɯ]
+Tamil வெட்டு veṭṭu undefined
 
 *Dravidian Language Family*

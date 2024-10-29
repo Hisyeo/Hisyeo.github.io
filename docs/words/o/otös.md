@@ -16,6 +16,6 @@ hoverText: hard § Adjective
 
 **Modifier**: hard/rigid/stiff
 
-Javanese atos /atos/
+Javanese atos undefined
 
 *Austronesian Language Family*

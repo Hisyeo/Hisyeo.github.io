@@ -16,6 +16,6 @@ hoverText: head § Noun
 
 **Modifier**: head-related
 
-Luo wich /wìc/
+Luo wich undefined
 
 *Nilo-Saharan Language Family*

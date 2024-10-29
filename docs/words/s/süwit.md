@@ -16,6 +16,6 @@ hoverText: sweet § Adjective
 
 **Modifier**: sweet
 
-English sweet /swit/
+English sweet undefined
 
 *Germanic Language Family*

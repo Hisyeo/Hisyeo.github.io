@@ -16,6 +16,6 @@ hoverText: monster § Noun
 
 **Modifier**: monster/devil/goblin-related
 
-Cantonese 妖怪  jiu2 gwaai3 /jiːu̯.kʷaːi̯/
+Cantonese 妖怪  jiu2 gwaai3 undefined
 
 *Sino-Tibetan Language Family*

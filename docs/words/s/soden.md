@@ -16,6 +16,6 @@ hoverText: back § Noun
 
 **Modifier**: back-related/backward
 
-Macedonian заден zaden [ˈzadɛn]
+Macedonian заден zaden undefined
 
 *Balto-Slavic Language Family*

@@ -16,6 +16,6 @@ hoverText: to find (a discovery) § Verb
 
 **Modifier**: findable/discoverable
 
-Persian یافتن yâftan /jɒːfˈtæn/
+Persian یافتن yâftan undefined
 
 *Indo-Iranian Language Family*

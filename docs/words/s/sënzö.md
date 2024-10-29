@@ -16,6 +16,6 @@ hoverText: ancestral § Adjective
 
 **Modifier**: ancestral
 
-Japanese 先せん祖ぞ senzo [sẽ̞nd͡zo̞]
+Japanese 先せん祖ぞ senzo undefined
 
 *Japonic Language Family*

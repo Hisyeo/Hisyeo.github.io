@@ -16,6 +16,6 @@ hoverText: sky § Noun
 
 **Modifier**: sky-related
 
-Sanskrit आकाश ākāśa /ɑː.kɑː.ɕɐ/
+Sanskrit आकाश ākāśa undefined
 
 *Indo-Iranian Language Family*

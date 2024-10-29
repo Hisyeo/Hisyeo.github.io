@@ -16,6 +16,6 @@ hoverText: language § Noun
 
 **Modifier**: language-related
 
-Basque hizkuntza [his̻.kũn.t͡s̻a]
+Basque hizkuntza undefined
 
 *Basque Language Family*

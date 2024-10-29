@@ -16,6 +16,6 @@ hoverText: wilderness § Noun
 
 **Modifier**: wild
 
-Min Nan 荒野 hong-iá /hɔŋia/
+Min Nan 荒野 hong-iá undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: lightweight § Adjective
 
 **Modifier**: light(weight)
 
-Nepali हलुको haluko [ɦʌluko]
+Nepali हलुको haluko undefined
 
 *Indo-Iranian Language Family*

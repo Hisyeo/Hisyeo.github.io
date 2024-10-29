@@ -16,6 +16,6 @@ hoverText: angry § Adjective
 
 **Modifier**: angry
 
-Hindi ग़ुस्सा ġussā [ɡʊs̪.s̪äː]
+Hindi ग़ुस्सा ġussā undefined
 
 *Indo-Iranian Language Family*

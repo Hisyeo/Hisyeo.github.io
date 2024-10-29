@@ -16,6 +16,6 @@ hoverText: green § Adjective
 
 **Modifier**: green
 
-Tagalog lungti [lʊnˈtiʔ]
+Tagalog lungti undefined
 
 *Austronesian Language Family*

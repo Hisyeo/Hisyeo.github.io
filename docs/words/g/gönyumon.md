@@ -16,6 +16,6 @@ hoverText: grunting/growling § Adjective
 
 **Modifier**: grunting/growling
 
-French grognement /ɡʁɔ.ɲ(ə).mɑ̃/
+French grognement undefined
 
 *Romance Language Family*

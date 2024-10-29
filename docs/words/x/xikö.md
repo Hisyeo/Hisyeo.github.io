@@ -16,6 +16,6 @@ hoverText: flying § Adjective
 
 **Modifier**: flying
 
-Japanese ひこう hikō [çi̥ko̞ː]
+Japanese ひこう hikō undefined
 
 *Japonic Language Family*

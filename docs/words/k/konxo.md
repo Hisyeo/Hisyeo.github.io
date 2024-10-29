@@ -16,6 +16,6 @@ hoverText: thankful/grateful § Adjective
 
 **Modifier**: thankful/grateful
 
-Japanese か​んしゃ kansha [kã̠ɰ̃ɕa̠]
+Japanese か​んしゃ kansha undefined
 
 *Japonic Language Family*

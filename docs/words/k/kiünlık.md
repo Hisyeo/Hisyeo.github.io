@@ -16,6 +16,6 @@ hoverText: authorized § Adjective
 
 **Modifier**: authorized/sovereign
 
-Cantonese 權力 kyun4 lik6 /kʰyːn.lɪk/
+Cantonese 權力 kyun4 lik6 undefined
 
 *Sino-Tibetan Language Family*

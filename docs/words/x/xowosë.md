@@ -16,6 +16,6 @@ hoverText: happy § Adjective
 
 **Modifier**: happy
 
-Japanese 幸せ shiawase [ɕia̠ɰᵝa̠se̞]
+Japanese 幸せ shiawase undefined
 
 *Japonic Language Family*

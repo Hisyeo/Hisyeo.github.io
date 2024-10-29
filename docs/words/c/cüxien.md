@@ -16,6 +16,6 @@ hoverText: constrained § Adjective
 
 **Modifier**: constrained/bound
 
-Mandarin 局限 júxiàn /tɕu.ɕjɛn/
+Mandarin 局限 júxiàn undefined
 
 *Sino-Tibetan Language Family*

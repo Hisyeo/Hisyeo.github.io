@@ -16,6 +16,6 @@ hoverText: 13 thirteen § Numeral
 
 **Modifier**: thirteenth
 
-Hajong তেৰ terô /'tɛ.ɹɔ/
+Hajong তেৰ terô undefined
 
 *Indo-Iranian Language Family*

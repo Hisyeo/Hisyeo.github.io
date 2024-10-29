@@ -16,6 +16,6 @@ hoverText: causative verb particle § Particle
 
 **Modifier**: -
 
-- -
+- undefined
 
 *Misc Language Family*

@@ -16,6 +16,6 @@ hoverText: temporary § Adjective
 
 **Modifier**: temporary/ephemeral
 
-Korean 일시적 ilsijeok [iɭɕʰid͡ʑʌ̹k̚]
+Korean 일시적 ilsijeok undefined
 
 *Koreic Language Family*

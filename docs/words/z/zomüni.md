@@ -16,6 +16,6 @@ hoverText: purple § Adjective
 
 **Modifier**: purple
 
-Hindi जामुनी jāmunī [d͡ʒäː.mʊ.n̪iː]
+Hindi जामुनी jāmunī undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: to stop (the stopped) § Verb
 
 **Modifier**: stoppable
 
-Malayalam നിർത്തുക niṟttuka /n̪irt̪t̪uɡɐ/
+Malayalam നിർത്തുക niṟttuka undefined
 
 *Dravidian Language Family*

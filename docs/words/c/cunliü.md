@@ -16,6 +16,6 @@ hoverText: to distill (the distilled) § Verb
 
 **Modifier**: distillable
 
-Chinese 蒸餾 zhēngliú [ʈʂəŋljou̯]
+Chinese 蒸餾 zhēngliú undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: counter-agent marker (against) § Preposition
 
 **Modifier**: -
 
-Armenian դեմ dem [dem]
+Armenian դեմ dem undefined
 
 *Armenian Language Family*

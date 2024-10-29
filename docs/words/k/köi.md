@@ -16,6 +16,6 @@ hoverText: epistemic verb particle § Particle
 
 **Modifier**: -
 
-Min Dong 可以 kō̤-ī /kʰɔ.i/
+Min Dong 可以 kō̤-ī undefined
 
 *Sino-Tibetan Language Family*

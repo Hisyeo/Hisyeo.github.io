@@ -16,6 +16,6 @@ hoverText: loose § Adjective
 
 **Modifier**: loose
 
-Kannada ಸಡಿಲು saḍilu [sɐ.ɖɪ.lu]
+Kannada ಸಡಿಲು saḍilu undefined
 
 *Dravidian Language Family*

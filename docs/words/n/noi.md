@@ -16,6 +16,6 @@ hoverText: vocative marker § Preposition
 
 **Modifier**: -
 
-Vietnamese này [na(ː)j˨˩]
+Vietnamese này undefined
 
 *Austro-Asiatic Language Family*

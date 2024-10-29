@@ -16,6 +16,6 @@ hoverText: to cover (the covered) § Verb
 
 **Modifier**: coverable
 
-Nepali ढाक्नु ḍhāknu [ɖʱä̤knu]
+Nepali ढाक्नु ḍhāknu undefined
 
 *Indo-Iranian Language Family*

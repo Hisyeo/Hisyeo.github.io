@@ -16,6 +16,6 @@ hoverText: or § Conjunction
 
 **Modifier**: -
 
-Azerbaijani ya da [jɑ dɑ]
+Azerbaijani ya da undefined
 
 *Turkic Language Family*

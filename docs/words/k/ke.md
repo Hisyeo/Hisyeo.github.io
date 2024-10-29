@@ -16,6 +16,6 @@ hoverText: future verb particle § Particle
 
 **Modifier**: -
 
-Macedonian ќе [cɛ]
+Macedonian ќе undefined
 
 *Balto-Slavic Language Family*

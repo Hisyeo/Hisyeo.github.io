@@ -16,6 +16,6 @@ hoverText: deer/giraffe/pronghorn § Noun
 
 **Modifier**: deer/giraffe/pronghorn-related
 
-Ayacucho Quechua luychu /lu.i.tʃu/
+Ayacucho Quechua luychu undefined
 
 *Quechumaran Language Family*

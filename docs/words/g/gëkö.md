@@ -16,6 +16,6 @@ hoverText: soil/dirt § Noun
 
 **Modifier**: soil/dirt-related
 
-Kikuyu gĩko [ɣekɔ]
+Kikuyu gĩko undefined
 
 *Niger-Congo Language Family*

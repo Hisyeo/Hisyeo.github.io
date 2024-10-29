@@ -16,6 +16,6 @@ hoverText: to spot/notice (the spotted/noticed) § Verb
 
 **Modifier**: spottable/noticable/locatable
 
-Mandarin 注意 zhùyì /d͡ʒu.jɨ/
+Mandarin 注意 zhùyì undefined
 
 *Sino-Tibetan Language Family*

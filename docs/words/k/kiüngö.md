@@ -16,6 +16,6 @@ hoverText: spice § Noun
 
 **Modifier**: spice-related
 
-Swahili kiungo /kjungo/
+Swahili kiungo undefined
 
 *Niger-Congo Language Family*

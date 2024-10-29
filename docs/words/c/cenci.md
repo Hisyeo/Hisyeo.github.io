@@ -16,6 +16,6 @@ hoverText: thin § Adjective
 
 **Modifier**: thin/narrow
 
-Kashubian cenczi [tsɛntʃi]
+Kashubian cenczi undefined
 
 *Balto-Slavic Language Family*

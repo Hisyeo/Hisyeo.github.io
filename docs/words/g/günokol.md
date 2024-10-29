@@ -16,6 +16,6 @@ hoverText: criminal § Adjective
 
 **Modifier**: criminal
 
-Persian ⁧گناهکار⁩ gonâhkâr [ɡʊ.nɑːɦ.kʰɑ́ːɾ]
+Persian ⁧گناهکار⁩ gonâhkâr undefined
 
 *Indo-Iranian Language Family*

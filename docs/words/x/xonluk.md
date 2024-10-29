@@ -16,6 +16,6 @@ hoverText: young § Adjective
 
 **Modifier**: young/youthful
 
-Chuvash ҫамрӑк śamrăk [ɕɑmrək]
+Chuvash ҫамрӑк śamrăk undefined
 
 *Turkic Language Family*

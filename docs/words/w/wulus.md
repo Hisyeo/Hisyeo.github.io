@@ -16,6 +16,6 @@ hoverText: oil § Noun
 
 **Modifier**: oil-related
 
-Luxembourgish Ueleg [ˈuə̯.ləɕ]
+Luxembourgish Ueleg undefined
 
 *Germanic Language Family*

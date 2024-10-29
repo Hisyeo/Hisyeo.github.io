@@ -16,6 +16,6 @@ hoverText: supernatural/miraculous § Adjective
 
 **Modifier**: supernatural/miraculous
 
-Tagalog higlikás [hɪɡ.lɪˈxas]
+Tagalog higlikás undefined
 
 *Austronesian Language Family*

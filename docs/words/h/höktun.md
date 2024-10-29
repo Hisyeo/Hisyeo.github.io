@@ -16,6 +16,6 @@ hoverText: mammal § Noun
 
 **Modifier**: mammal-related
 
-Mongolian хөхтөн xöxtön [xoxtəŋ]
+Mongolian хөхтөн xöxtön undefined
 
 *Mongolic Language Family*

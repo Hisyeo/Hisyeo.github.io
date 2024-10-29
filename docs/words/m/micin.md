@@ -16,6 +16,6 @@ hoverText: fish § Noun
 
 **Modifier**: fish-related
 
-Nahuatl michin [ˈmi.t͡ʃin]
+Nahuatl michin undefined
 
 *Yuto-Nahuatl Language Family*

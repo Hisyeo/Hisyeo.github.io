@@ -16,6 +16,6 @@ hoverText: clay § Noun
 
 **Modifier**: clay/silt-related
 
-Albanian lismë [lismə]
+Albanian lismë undefined
 
 *Albanian Language Family*

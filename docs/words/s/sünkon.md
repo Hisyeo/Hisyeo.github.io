@@ -16,6 +16,6 @@ hoverText: instantaneous (second) § Adjective
 
 **Modifier**: instantaneous
 
-Min Nan 瞬間 sùn-kan /suŋkaŋ/
+Min Nan 瞬間 sùn-kan undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: outside § Noun
 
 **Modifier**: outside-related/outer
 
-Quechua waqta /waqta/
+Quechua waqta undefined
 
 *Quechumaran Language Family*

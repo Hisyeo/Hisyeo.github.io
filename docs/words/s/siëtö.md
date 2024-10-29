@@ -16,6 +16,6 @@ hoverText: plate § Noun
 
 **Modifier**: plate-related
 
-Occitan sieta /'sje.tɔ/
+Occitan sieta undefined
 
 *Romance Language Family*

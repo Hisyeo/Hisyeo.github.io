@@ -16,6 +16,6 @@ hoverText: dry § Adjective
 
 **Modifier**: dry
 
-Evenki олгокин olgokin /ʊl.gʊ.kin/
+Evenki олгокин olgokin undefined
 
 *Tungusic Language Family*

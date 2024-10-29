@@ -16,6 +16,6 @@ hoverText: deontic verb particle § Particle
 
 **Modifier**: -
 
-Khmer គួរ kuə /kuə/
+Khmer គួរ kuə undefined
 
 *Austro-Asiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: 07 seven § Numeral
 
 **Modifier**: seventh
 
-Kazakh жеті jetı [ʒeˈti]
+Kazakh жеті jetı undefined
 
 *Turkic Language Family*

@@ -16,6 +16,6 @@ hoverText: animal § Noun
 
 **Modifier**: animal-related
 
-Hindi जानवर jānvar [d͡ʒä̃ːn̪.wəɾ]
+Hindi जानवर jānvar undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: afraid § Adjective
 
 **Modifier**: scared
 
-Japanese 恐れ osore [o̞so̞ɾe̞]
+Japanese 恐れ osore undefined
 
 *Japonic Language Family*

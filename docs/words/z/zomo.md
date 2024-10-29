@@ -16,6 +16,6 @@ hoverText: group § Noun
 
 **Modifier**: group/collection-related
 
-Arabic جَمَاعَة⁩ jamāʕa /d͡ʒa.maː.ʕa/
+Arabic جَمَاعَة⁩ jamāʕa undefined
 
 *Afroasiatic Language Family*

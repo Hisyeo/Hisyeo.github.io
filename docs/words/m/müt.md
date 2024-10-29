@@ -16,6 +16,6 @@ hoverText: direction/recipient (towards) § Preposition
 
 **Modifier**: -
 
-Swedish mot /muːt/
+Swedish mot undefined
 
 *Germanic Language Family*

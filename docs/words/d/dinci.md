@@ -16,6 +16,6 @@ hoverText: block § Noun
 
 **Modifier**: block/brick-related
 
-Lao ດິນຈີ່ din chī [din˩(˧).t͡ɕiː˧]
+Lao ດິນຈີ່ din chī undefined
 
 *Kra-Dai Language Family*

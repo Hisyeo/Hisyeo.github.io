@@ -16,6 +16,6 @@ hoverText: to await (an expectation) § Verb
 
 **Modifier**: expectable/awaitable
 
-Japanese ま​つ matsu [ma̠t͡sɨᵝ]
+Japanese ま​つ matsu undefined
 
 *Japonic Language Family*

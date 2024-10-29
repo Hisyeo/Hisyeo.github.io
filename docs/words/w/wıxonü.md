@@ -16,6 +16,6 @@ hoverText: virus § Noun
 
 **Modifier**: virus-related
 
-Hindi विषाणु viṣāṇu [ʋɪ.ʃäː.ɳuː]
+Hindi विषाणु viṣāṇu undefined
 
 *Indo-Iranian Language Family*

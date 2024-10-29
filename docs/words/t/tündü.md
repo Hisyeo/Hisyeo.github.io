@@ -16,6 +16,6 @@ hoverText: bottom § Noun
 
 **Modifier**: bottom-related
 
-Zarma tundu /'tun.du/
+Zarma tundu undefined
 
 *Nilo-Saharan Language Family*

@@ -16,6 +16,6 @@ hoverText: sort/type § Noun
 
 **Modifier**: sort/type/category-related
 
-Hebrew סוּג sug 
+Hebrew סוּג sug undefined
 
 *Afroasiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: rodent § Noun
 
 **Modifier**: mouse/rat/rodent-related
 
-Korean 쥐 jwi [t͡ɕɥi]
+Korean 쥐 jwi undefined
 
 *Koreic Language Family*

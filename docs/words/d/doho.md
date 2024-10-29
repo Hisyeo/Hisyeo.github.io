@@ -16,6 +16,6 @@ hoverText: to sacrifice (an offering) § Verb
 
 **Modifier**: sacrificable
 
-Arabic ⁧ضَحَّى⁩ ḍaḥḥā /dˤaħ.ħaː/
+Arabic ⁧ضَحَّى⁩ ḍaḥḥā undefined
 
 *Afroasiatic Language Family*

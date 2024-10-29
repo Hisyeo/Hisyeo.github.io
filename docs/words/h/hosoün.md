@@ -16,6 +16,6 @@ hoverText: ratio/proportion § Noun
 
 **Modifier**: ratio/proportion-related
 
-Portuguese razão [haˈzɐ̃ʊ̯̃]
+Portuguese razão undefined
 
 *Romance Language Family*

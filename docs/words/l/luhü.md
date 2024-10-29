@@ -16,6 +16,6 @@ hoverText: blood § Noun
 
 **Modifier**: blood-related
 
-Urdu لَہُو lahū /lə.ɦuː/
+Urdu لَہُو lahū undefined
 
 *Sino-Tibetan Language Family*

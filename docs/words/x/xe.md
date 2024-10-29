@@ -16,6 +16,6 @@ hoverText: subjective subordinate clause particle § Particle
 
 **Modifier**: -
 
-Hebrew שֶׁ־ she- [ʃɛː]
+Hebrew שֶׁ־ she- undefined
 
 *Afroasiatic Language Family*

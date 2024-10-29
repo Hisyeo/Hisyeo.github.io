@@ -16,6 +16,6 @@ hoverText: to try (a trial) § Verb
 
 **Modifier**: attemptable/triable
 
-Turkish denemek /de.ne.ˈmec/
+Turkish denemek undefined
 
 *Turkic Language Family*

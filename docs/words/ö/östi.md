@@ -16,6 +16,6 @@ hoverText: bone § Noun
 
 **Modifier**: bone-related
 
-Bengali অস্থি osthi [ˈos.t̪ʰi]
+Bengali অস্থি osthi undefined
 
 *Indo-Iranian Language Family*

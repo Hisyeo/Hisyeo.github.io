@@ -16,6 +16,6 @@ hoverText: door § Noun
 
 **Modifier**: door/gate-related
 
-Khasi jingkang [dʒɪŋkaŋ
+Khasi jingkang undefined
 
 *Austro-asiatic Language Family*

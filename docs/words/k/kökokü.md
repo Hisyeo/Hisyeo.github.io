@@ -16,6 +16,6 @@ hoverText: skeleton § Noun
 
 **Modifier**: frame-related/skeleton-related
 
-Japonese こっかく kokkaku [ko̞k̚ka̠kɯ̟ᵝ]
+Japonese こっかく kokkaku undefined
 
 *Japonic Language Family*

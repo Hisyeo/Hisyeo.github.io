@@ -16,6 +16,6 @@ hoverText: plant § Noun
 
 **Modifier**: plant-related
 
-Dhivehi ގަސް gas [ɡäs̺]
+Dhivehi ގަސް gas undefined
 
 *Indo-Iranian Language Family*

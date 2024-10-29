@@ -16,6 +16,6 @@ hoverText: hanging § Adjective
 
 **Modifier**: hanging-related
 
-Swedish hängande /hɛːŋɑːndeː/
+Swedish hängande undefined
 
 *Germanic Language Family*

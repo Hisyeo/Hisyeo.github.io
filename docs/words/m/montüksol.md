@@ -16,6 +16,6 @@ hoverText: logical § Adjective
 
 **Modifier**: logical
 
-Turkish mantıksal /man.tɯk.sal/
+Turkish mantıksal undefined
 
 *Turkic Language Family*

@@ -16,6 +16,6 @@ hoverText: genitalia § Noun
 
 **Modifier**: genital
 
-Japanese せいき seiki [se̞ːkʲi]
+Japanese せいき seiki undefined
 
 *Japonic Language Family*

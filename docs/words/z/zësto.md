@@ -16,6 +16,6 @@ hoverText: feat/achievement/heroic deed § Noun
 
 **Modifier**: feat-like/achievement-like
 
-Catalan gesta /ˈd͡ʒes.ta/
+Catalan gesta undefined
 
 *Romance Language Family*

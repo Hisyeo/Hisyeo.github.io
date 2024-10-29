@@ -16,6 +16,6 @@ hoverText: serious § Adjective
 
 **Modifier**: serious/solemn
 
-Cantonese 嚴肅 jim4 suk1 [jiːm.sʊk]
+Cantonese 嚴肅 jim4 suk1 undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: to drink (a drink) § Verb
 
 **Modifier**: drinkable/suckable
 
-Chickasaw ishko  
+Chickasaw ishko  undefined
 
 *Muskogean Language Family*

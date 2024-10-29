@@ -16,6 +16,6 @@ hoverText: laborious § Adjective
 
 **Modifier**: laborious
 
-Swedish mödosam [møːduːsɑːm]
+Swedish mödosam undefined
 
 *Germanic Language Family*

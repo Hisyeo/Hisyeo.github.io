@@ -16,6 +16,6 @@ hoverText: hair/fur/plumage § Noun
 
 **Modifier**: hair/fur/plumage-related
 
-Guaraní tague /ta.ˈɰʷe/
+Guaraní tague undefined
 
 *Tupian Language Family*

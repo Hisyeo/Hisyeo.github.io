@@ -16,6 +16,6 @@ hoverText: conversion § Noun
 
 **Modifier**: conversion/transformation-related
 
-Turkish dönüşüm [dœnyʃʏm]
+Turkish dönüşüm undefined
 
 *Turkic Language Family*

@@ -16,6 +16,6 @@ hoverText: to name [as] (a name) § Verb
 
 **Modifier**: nameable/designatable
 
-Arabic سَمَّى sammā /sam.maː/
+Arabic سَمَّى sammā undefined
 
 *Afroasiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: negatitive particle § Particle
 
 **Modifier**: -
 
-Turkish yok /ˈjok/
+Turkish yok undefined
 
 *Turkic Language Family*

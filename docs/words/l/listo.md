@@ -16,6 +16,6 @@ hoverText: strip/band § Noun
 
 **Modifier**: strip/band-related
 
-Italian lista /ˈli.sta/
+Italian lista undefined
 
 *Romance Language Family*

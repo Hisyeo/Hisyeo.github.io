@@ -16,6 +16,6 @@ hoverText: to contend with (a contestant) § Verb
 
 **Modifier**: contendable/contestable/opposable
 
-Portuguese contestar [kõ.tesˈta(h)]
+Portuguese contestar undefined
 
 *Romance Language Family*

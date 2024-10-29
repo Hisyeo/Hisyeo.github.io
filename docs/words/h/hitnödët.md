@@ -16,6 +16,6 @@ hoverText: oscillating § Adjective
 
 **Modifier**: oscillating/swaying
 
-Hebrew הִתְנוֹדֵד⁩ hitnodéd /hit.no'ded/
+Hebrew הִתְנוֹדֵד⁩ hitnodéd undefined
 
 *Afroasiatic Language Family*

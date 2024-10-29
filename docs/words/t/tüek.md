@@ -16,6 +16,6 @@ hoverText: to compute (a computation) § Verb
 
 **Modifier**: computable/calculatable
 
-Burmese တွက် twak /twɛʔ/
+Burmese တွက် twak undefined
 
 *Sino-Tibetan Language Family*

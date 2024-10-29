@@ -16,6 +16,6 @@ hoverText: rumor § Noun
 
 **Modifier**: rumor-related
 
-Chinese 傳聞 chuánwén [ʈʂʰwanwən]
+Chinese 傳聞 chuánwén undefined
 
 *Sino-Tibetan Language Family*

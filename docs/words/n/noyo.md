@@ -16,6 +16,6 @@ hoverText: I/me § Pronoun
 
 **Modifier**: my
 
-Aymara naya [na.ja]
+Aymara naya undefined
 
 *Quechumaran Language Family*

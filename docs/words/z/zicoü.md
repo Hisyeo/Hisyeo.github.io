@@ -16,6 +16,6 @@ hoverText: to train (a skill/ability) § Verb
 
 **Modifier**: trainable
 
-Mandarin 技巧 jìqiǎo 
+Mandarin 技巧 jìqiǎo undefined
 
 *Sino-Tibetan Language Family*

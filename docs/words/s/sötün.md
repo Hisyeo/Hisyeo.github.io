@@ -16,6 +16,6 @@ hoverText: column § Noun
 
 **Modifier**: column-related
 
-Persian ستون sotun [so.t̪ʰuːn]
+Persian ستون sotun undefined
 
 *Indo-Iranian Language Family*

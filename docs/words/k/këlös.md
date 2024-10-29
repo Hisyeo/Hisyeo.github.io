@@ -16,6 +16,6 @@ hoverText: weather § Noun
 
 **Modifier**: weather-related
 
-Greek καιρός • (kairós /ceˈɾos/
+Greek καιρός • (kairós undefined
 
 *Hellenic Language Family*

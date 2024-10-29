@@ -16,6 +16,6 @@ hoverText: functional § Adjective
 
 **Modifier**: functional
 
-Japanese きのうし kinō shi [kinoːɕi]
+Japanese きのうし kinō shi undefined
 
 *Japonic Language Family*

@@ -16,6 +16,6 @@ hoverText: famous § Adjective
 
 **Modifier**: famous
 
-Persian نامدار nâmdâr /nɑːm'dɑːɾ/
+Persian نامدار nâmdâr undefined
 
 *Indo-Iranian Language Family*

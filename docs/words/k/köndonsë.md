@@ -16,6 +16,6 @@ hoverText: condensed/concentrated § Adjective
 
 **Modifier**: condensed/concentrated
 
-French condenser /kɔ̃.dɑ̃.se/
+French condenser undefined
 
 *Romance Language Family*

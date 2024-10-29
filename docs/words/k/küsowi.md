@@ -16,6 +16,6 @@ hoverText: matter/material § Noun
 
 **Modifier**: matter/material-related
 
-Amharic ቁሳዊ k’usawī /kʼusawi/
+Amharic ቁሳዊ k’usawī undefined
 
 *Afroasiatic Language Family*

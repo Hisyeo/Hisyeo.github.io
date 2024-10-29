@@ -16,6 +16,6 @@ hoverText: conscientious § Adjective
 
 **Modifier**: conscientious
 
-Mandarin 良心 liángxīn /ljaŋ.ɕin/
+Mandarin 良心 liángxīn undefined
 
 *Sino-Tibetan Language Family*

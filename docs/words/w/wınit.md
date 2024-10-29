@@ -16,6 +16,6 @@ hoverText: humble § Adjective
 
 **Modifier**: humble
 
-Hindi विनीत vinīt /ʋɪ.niːt̪/
+Hindi विनीत vinīt undefined
 
 *Indo-Iranian Language Family*

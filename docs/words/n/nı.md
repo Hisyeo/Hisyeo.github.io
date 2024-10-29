@@ -16,6 +16,6 @@ hoverText: it § Pronoun
 
 **Modifier**: its
 
-White Hmong nws /nɨ˩/
+White Hmong nws undefined
 
 *Hmong-Mien Language Family*

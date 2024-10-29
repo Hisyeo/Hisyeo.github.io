@@ -16,6 +16,6 @@ hoverText: complete § Adjective
 
 **Modifier**: full/complete
 
-Tamil முழு muḻu [muɻɯ]
+Tamil முழு muḻu undefined
 
 *Dravidian Language Family*

@@ -16,6 +16,6 @@ hoverText: returning § Adjective
 
 **Modifier**: returning/reverting/back
 
-Welsh dychwelyd /dəχˈweːlɪd/
+Welsh dychwelyd undefined
 
 *Celtic Language Family*

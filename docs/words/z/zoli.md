@@ -16,6 +16,6 @@ hoverText: bush/shrub § Noun
 
 **Modifier**: bush/shrub-like
 
-Hindi झाड़ी jhāṛī [d͡ʒʱäː.ɽiː]
+Hindi झाड़ी jhāṛī undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: threat § Noun
 
 **Modifier**: threat-related
 
-Swahili tisho /'ti.ʃo/
+Swahili tisho undefined
 
 *Niger-Congo Language Family*

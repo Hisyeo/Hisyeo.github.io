@@ -16,6 +16,6 @@ hoverText: sneeze § Noun
 
 **Modifier**: sneeze-related
 
-Punjabi ⁧نِچّھ⁩ nicch /nɪ.t͡ʃːʱə̆/
+Punjabi ⁧نِچّھ⁩ nicch undefined
 
 *Indo-Iranian Language Family*

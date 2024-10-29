@@ -16,6 +16,6 @@ hoverText: comparison § Noun
 
 **Modifier**: comparison-related
 
-Bengali তুলনা tulona [ˈt̪ulonaˑ]
+Bengali তুলনা tulona undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: copy § Noun
 
 **Modifier**: copy-related
 
-Odia ନକଲ nôkôlô [nʌ'kʌlˌɔ]
+Odia ନକଲ nôkôlô undefined
 
 *Indo-Iranian Language Family*

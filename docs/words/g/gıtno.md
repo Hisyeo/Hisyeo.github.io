@@ -16,6 +16,6 @@ hoverText: intermediate marker (between) § Preposition
 
 **Modifier**: -
 
-Tagalog gitna [ɡɪtˈnaʔ]
+Tagalog gitna undefined
 
 *Austronesian Language Family*

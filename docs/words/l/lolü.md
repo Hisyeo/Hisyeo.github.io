@@ -16,6 +16,6 @@ hoverText: word § Noun
 
 **Modifier**: word-related
 
-White Hmong lo lus /lɒ˧.lu˩/
+White Hmong lo lus undefined
 
 *Hmong-Mien Language Family*

@@ -16,6 +16,6 @@ hoverText: to write (text) § Verb
 
 **Modifier**: writable
 
-Korean 적다 jeokda [t͡ɕʌ̹k̚t͈a̠]
+Korean 적다 jeokda undefined
 
 *Koreic Language Family*

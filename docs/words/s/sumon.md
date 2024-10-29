@@ -16,6 +16,6 @@ hoverText: equal/same § Adjective
 
 **Modifier**: equal/same
 
-Hindi समान samān [s̪əˈmã(ː)n̪]
+Hindi समान samān undefined
 
 *Indo-Iranian Language Family*

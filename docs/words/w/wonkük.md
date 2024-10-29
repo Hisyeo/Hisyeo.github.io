@@ -16,6 +16,6 @@ hoverText: curved § Adjective
 
 **Modifier**: curved
 
-Cantonese 彎曲 waan kuk /waːnkʰʊk̚/
+Cantonese 彎曲 waan kuk undefined
 
 *Sino-Tibetan Language Family*

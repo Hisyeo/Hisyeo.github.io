@@ -16,6 +16,6 @@ hoverText: thick § Adjective
 
 **Modifier**: thick
 
-Mam cho't /t͡ʃʰɔtʼ/
+Mam cho't undefined
 
 *Mayan Language Family*

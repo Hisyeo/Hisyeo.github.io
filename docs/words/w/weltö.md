@@ -16,6 +16,6 @@ hoverText: limp/flaccid/flabby § Adjective
 
 **Modifier**: limp/flaccid/flabby
 
-Finnish veltto [ˈʋe̞l̪t̪ːo̞]
+Finnish veltto undefined
 
 *Uralic Language Family*

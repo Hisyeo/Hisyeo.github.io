@@ -16,6 +16,6 @@ hoverText: neutral § Adjective
 
 **Modifier**: neutral
 
-Yoruba didoju /di.do.d͡ʒu/
+Yoruba didoju undefined
 
 *Niger-Congo Language Family*

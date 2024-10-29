@@ -16,6 +16,6 @@ hoverText: to regret (a regret) § Verb
 
 **Modifier**: regrettable/sympathizable
 
-Swahili juto /d͡ʒuto/
+Swahili juto undefined
 
 *Niger-Congo Language Family*

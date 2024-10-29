@@ -16,6 +16,6 @@ hoverText: rolling/tumbling § Adjective
 
 **Modifier**: rolling/tumbling
 
-Bulgarian търка́лям tǎrkáljam [tɐrˈkalʲɐm]
+Bulgarian търка́лям tǎrkáljam undefined
 
 *Balto-Slavic Language Family*

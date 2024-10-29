@@ -16,6 +16,6 @@ hoverText: hand § Noun
 
 **Modifier**: hand-related
 
-Fula junngo [d͡ʒuŋᵑɡɔ]
+Fula junngo undefined
 
 *Niger-Congo Language Family*

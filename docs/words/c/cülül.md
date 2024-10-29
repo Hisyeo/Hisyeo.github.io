@@ -16,6 +16,6 @@ hoverText: coil § Noun
 
 **Modifier**: coil/spiral/helix-related
 
-Tamil சுருள் curuḷ /t͡ʃuɾul/
+Tamil சுருள் curuḷ undefined
 
 *Dravidian Language Family*

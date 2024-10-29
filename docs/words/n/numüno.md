@@ -16,6 +16,6 @@ hoverText: example § Noun
 
 **Modifier**: example/sample-related
 
-Marathi नमूना namunā [n̪ə.muː.n̪äː]
+Marathi नमूना namunā undefined
 
 *Indo-Iranian Language Family*

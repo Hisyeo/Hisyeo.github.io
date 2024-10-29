@@ -16,6 +16,6 @@ hoverText: series/sentence § Noun
 
 **Modifier**: series/sentence-related
 
-Arabic جُمْلَة jumla /d͡ʒum.la/
+Arabic جُمْلَة jumla undefined
 
 *Afroasiatic Language Family*

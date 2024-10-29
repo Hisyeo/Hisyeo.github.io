@@ -16,6 +16,6 @@ hoverText: 08 eight § Numeral
 
 **Modifier**: eighth
 
-Hausa takwàs [tə́.kʷàs]
+Hausa takwàs undefined
 
 *Afroasiatic Language Family*

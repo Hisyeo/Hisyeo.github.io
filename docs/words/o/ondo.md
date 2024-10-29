@@ -16,6 +16,6 @@ hoverText: to prepare (a preparation) § Verb
 
 **Modifier**: preparable/readyable
 
-Swahili -andaa 
+Swahili -andaa undefined
 
 *Niger-Congo Language Family*

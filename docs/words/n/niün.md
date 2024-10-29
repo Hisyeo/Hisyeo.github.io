@@ -16,6 +16,6 @@ hoverText: they/them § Pronoun
 
 **Modifier**: their
 
-Wolof ñoom /ɲɔːm/
+Wolof ñoom undefined
 
 *Niger-Congo Language Family*

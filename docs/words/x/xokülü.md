@@ -16,6 +16,6 @@ hoverText: to invite (an invitation) § Verb
 
 **Modifier**: invitable/callable
 
-Kazakh шақыру şaqyru [ʃɑqɯˈrʊw]
+Kazakh шақыру şaqyru undefined
 
 *Turkic Language Family*

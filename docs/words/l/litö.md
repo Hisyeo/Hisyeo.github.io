@@ -16,6 +16,6 @@ hoverText: empty/incomplete § Adjective
 
 **Modifier**: empty/incomplete
 
-Nepali रित्तो ritto [rit̪̚t̪o]
+Nepali रित्तो ritto undefined
 
 *Indo-Iranian Language Family*

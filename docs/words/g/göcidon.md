@@ -16,6 +16,6 @@ hoverText: to choose (a choice) § Verb
 
 **Modifier**: choosable
 
-Persian گزیدن gozidan [ɡ̥o.ziː.d̪ǽn]
+Persian گزیدن gozidan undefined
 
 *Indo-Iranian Language Family*

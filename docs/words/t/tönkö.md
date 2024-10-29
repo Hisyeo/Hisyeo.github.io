@@ -16,6 +16,6 @@ hoverText: hurting/suffering § Adjective
 
 **Modifier**: hurting/suffering
 
-Min Nan 痛苦 thòng-khó͘  /tʰɔŋkʰɔ/
+Min Nan 痛苦 thòng-khó͘  undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: vague/imprecise § Adjective
 
 **Modifier**: vague/imprecise
 
-from Wu 曖昧 e-me /e̞³³ me̞⁴⁴/
+from Wu 曖昧 e-me undefined
 
 *Sino-Tibetan Language Family*

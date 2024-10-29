@@ -16,6 +16,6 @@ hoverText: to draw (a picture) § Verb
 
 **Modifier**: drawable
 
-Arabic تَصْوِير taṣwīr /tasˤ.wiːr/
+Arabic تَصْوِير taṣwīr undefined
 
 *Afroasiatic Language Family*

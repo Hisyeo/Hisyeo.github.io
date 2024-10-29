@@ -16,6 +16,6 @@ hoverText: late § Adjective
 
 **Modifier**: late/tardy
 
-Vietnamese muộn [muəŋ˨˩˨]
+Vietnamese muộn undefined
 
 *Austro-asiatic Language Family*

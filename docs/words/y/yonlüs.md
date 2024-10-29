@@ -16,6 +16,6 @@ hoverText: wrong § Adjective
 
 **Modifier**: wrong/incorrect/unfair
 
-Azerbaijani yanlış [jɑnˈɫɯʃ]
+Azerbaijani yanlış undefined
 
 *Turkic Language Family*

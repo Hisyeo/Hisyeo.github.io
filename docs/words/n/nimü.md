@@ -16,6 +16,6 @@ hoverText: you § Pronoun
 
 **Modifier**: your
 
-Dungan ниму nimu [nimʊ]
+Dungan ниму nimu undefined
 
 *Sino-Tibetan Language Family*

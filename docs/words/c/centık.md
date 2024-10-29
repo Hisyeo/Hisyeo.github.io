@@ -16,6 +16,6 @@ hoverText: official/formal § Adjective
 
 **Modifier**: official/formal
 
-Vietnamese chánh thức [t͡ɕɛɲ˦˧˥ tʰɨk̚˦˧˥]
+Vietnamese chánh thức undefined
 
 *Austro-Asiatic Language Family*

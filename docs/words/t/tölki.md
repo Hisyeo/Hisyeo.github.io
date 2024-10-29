@@ -16,6 +16,6 @@ hoverText: only § Adjective
 
 **Modifier**: alone/only/exclusively
 
-Belarusian то́лькі tólʹki [ˈtolʲkʲi]
+Belarusian то́лькі tólʹki undefined
 
 *Balto-Slavic Language Family*

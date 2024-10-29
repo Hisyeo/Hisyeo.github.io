@@ -16,6 +16,6 @@ hoverText: many § Determiner
 
 **Modifier**: very/great
 
-Paraguayan Guarani eta [eta]
+Paraguayan Guarani eta undefined
 
 *Tupian Language Family*

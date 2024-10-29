@@ -16,6 +16,6 @@ hoverText: ugly § Adjective
 
 **Modifier**: ugly
 
-Hindi असुंदर asundar [ɐ.sʊ̃n̪.d̪ɐɾ]
+Hindi असुंदर asundar undefined
 
 *Indo-Iranian Language Family*

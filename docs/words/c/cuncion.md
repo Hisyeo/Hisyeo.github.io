@@ -16,6 +16,6 @@ hoverText: to fortify (the fortified) § Verb
 
 **Modifier**: fortifiable/reinforceable
 
-Mandarin 增強 zēngqiáng /tsəŋ.tɕʰjaŋ/
+Mandarin 增強 zēngqiáng undefined
 
 *Sino-Tibetan Language Family*

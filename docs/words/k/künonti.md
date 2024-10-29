@@ -16,6 +16,6 @@ hoverText: communication § Noun
 
 **Modifier**: communication-related
 
-Oromo quunnamtii 
+Oromo quunnamtii undefined
 
 *Afroasiatic Language Family*

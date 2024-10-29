@@ -16,6 +16,6 @@ hoverText: to do (an action) § Verb
 
 **Modifier**: doable/performable/executable
 
-Khmer ធ្វើ thvəə /tʰʋəː/
+Khmer ធ្វើ thvəə undefined
 
 *Austro-Asiatic Language Family*

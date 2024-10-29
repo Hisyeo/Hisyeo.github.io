@@ -16,6 +16,6 @@ hoverText: organ/member § Noun
 
 **Modifier**: organ/member-related
 
-Vietnamese cơ quan [kəː˧˧ kwaːŋ˧˧]
+Vietnamese cơ quan undefined
 
 *Austro-Asiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: all § Determiner
 
 **Modifier**: most/-est
 
-Vietnamese mọi   [mɔj˨˩ʔ]
+Vietnamese mọi  undefined
 
 *Austro-Asiatic Language Family*

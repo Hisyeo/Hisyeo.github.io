@@ -16,6 +16,6 @@ hoverText: pasta § Noun
 
 **Modifier**: pasta-related
 
-Hausa taliya /ta.lɨ.j̰a/
+Hausa taliya undefined
 
 *Afroasiatic Language Family*

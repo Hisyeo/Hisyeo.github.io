@@ -16,6 +16,6 @@ hoverText: lever/knob/handle § Noun
 
 **Modifier**: lever/knob/handle-related
 
-Russian ру́чка rúčka [ˈrut͡ɕkə]
+Russian ру́чка rúčka undefined
 
 *Balto-Slavic Language Family*

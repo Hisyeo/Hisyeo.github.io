@@ -16,6 +16,6 @@ hoverText: detail § Noun
 
 **Modifier**: detail-related
 
-French détail /de.taj/
+French détail undefined
 
 *Romance Language Family*

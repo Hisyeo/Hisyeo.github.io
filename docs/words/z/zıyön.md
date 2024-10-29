@@ -16,6 +16,6 @@ hoverText: 14 fourteen § Numeral
 
 **Modifier**: fourteenth
 
-Japanese じゅうよん jūyon [d͡ʑɨᵝːjõ̞ɴ]
+Japanese じゅうよん jūyon undefined
 
 *Japonic Language Family*

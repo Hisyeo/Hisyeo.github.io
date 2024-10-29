@@ -16,6 +16,6 @@ hoverText: correct § Adjective
 
 **Modifier**: correct/right/accurate
 
-Vietnamese đúng đắn [ʔɗʊwŋ͡m˦˥ ʔɗaŋ˦˥]
+Vietnamese đúng đắn undefined
 
 *Austro-Asiatic Language Family*

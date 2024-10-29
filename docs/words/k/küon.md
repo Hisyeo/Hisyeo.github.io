@@ -16,6 +16,6 @@ hoverText: light § Noun
 
 **Modifier**: light-related
 
-Mandarin 光 guāng /ku̯ɑŋ/
+Mandarin 光 guāng undefined
 
 *Sino-Tibetan Language Family*

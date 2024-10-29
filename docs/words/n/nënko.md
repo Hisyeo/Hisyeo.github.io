@@ -16,6 +16,6 @@ hoverText: reason/cause marker (because of) § Preposition
 
 **Modifier**: -
 
-Zulu ngenxa /ŋ(ɡ)eŋka/
+Zulu ngenxa undefined
 
 *Niger-Congo Language Family*

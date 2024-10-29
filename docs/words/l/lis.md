@@ -16,6 +16,6 @@ hoverText: smooth § Adjective
 
 **Modifier**: smooth
 
-French lisse /lis/
+French lisse undefined
 
 *Romance Language Family*

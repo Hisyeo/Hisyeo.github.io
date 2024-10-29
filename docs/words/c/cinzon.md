@@ -16,6 +16,6 @@ hoverText: nervous/anxious § Adjective
 
 **Modifier**: nervous/anxious
 
-Chinese 緊張 jǐnzhāng 
+Chinese 緊張 jǐnzhāng undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: value/cost § Noun
 
 **Modifier**: value/cost-related
 
-Telugu విలువ viluva /ʋiluʋa/
+Telugu విలువ viluva undefined
 
 *Dravidian Language Family*

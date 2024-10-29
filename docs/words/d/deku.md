@@ -16,6 +16,6 @@ hoverText: ceiling § Noun
 
 **Modifier**: ceiling-related
 
-German Decke /ˈdɛkə/
+German Decke undefined
 
 *Germanic Language Family*

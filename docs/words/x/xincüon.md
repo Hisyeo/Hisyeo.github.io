@@ -16,6 +16,6 @@ hoverText: shape/form § Noun
 
 **Modifier**: shape/form-related
 
-Mandarin 形狀 xíngzhuàng /ɕiŋʈ͡ʂu̯ɑŋ/
+Mandarin 形狀 xíngzhuàng undefined
 
 *Sino-Tibetan Language Family*

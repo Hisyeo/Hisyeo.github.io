@@ -16,6 +16,6 @@ hoverText: almost § Adjective
 
 **Modifier**: almost/nearly
 
-Chinese 差點 chàdiǎn [ʈʂʰatjɛn]
+Chinese 差點 chàdiǎn undefined
 
 *Sino-Tibetan Language Family*

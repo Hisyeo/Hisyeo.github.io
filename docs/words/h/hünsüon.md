@@ -16,6 +16,6 @@ hoverText: partner § Noun
 
 **Modifier**: partner-related
 
-Thai หุ้นส่วน hûn-sùuan /hun˥˩.sua̯n˨˩/
+Thai หุ้นส่วน hûn-sùuan undefined
 
 *Kra-Dai Language Family*

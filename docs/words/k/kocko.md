@@ -16,6 +16,6 @@ hoverText: rough § Adjective
 
 **Modifier**: rough
 
-Quechu qhachqa 
+Quechu qhachqa undefined
 
 *Quechumaran Language Family*

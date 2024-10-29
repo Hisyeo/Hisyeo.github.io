@@ -16,6 +16,6 @@ hoverText: 16 sixteen § Numeral
 
 **Modifier**: sixteenth
 
-French seize /sɛz/
+French seize undefined
 
 *Romance Language Family*

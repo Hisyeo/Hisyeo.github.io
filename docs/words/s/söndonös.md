@@ -16,6 +16,6 @@ hoverText: direct/live § Adjective
 
 **Modifier**: direct/live
 
-Greek ζωντανός zontanós /zon.daˈnos/
+Greek ζωντανός zontanós undefined
 
 *Hellenic Language Family*

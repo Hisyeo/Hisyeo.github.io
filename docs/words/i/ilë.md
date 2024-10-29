@@ -16,6 +16,6 @@ hoverText: building § Noun
 
 **Modifier**: building-related
 
-Yoruba ilé  
+Yoruba ilé  undefined
 
 *Niger-Congo Language Family*

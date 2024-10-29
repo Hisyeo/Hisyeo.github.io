@@ -16,6 +16,6 @@ hoverText: hiss/fizz/whistle § Noun
 
 **Modifier**: hiss/fizz/whistle-like
 
-Catalan xiular /ʃiwˈla/
+Catalan xiular undefined
 
 *Romance Language Family*

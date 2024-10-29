@@ -16,6 +16,6 @@ hoverText: sad § Adjective
 
 **Modifier**: sad
 
-Dholuo kuyo 
+Dholuo kuyo undefined
 
 *Nilo-Saharan Language Family*

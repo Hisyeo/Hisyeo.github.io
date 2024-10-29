@@ -16,6 +16,6 @@ hoverText: stretched § Adjective
 
 **Modifier**: stretched
 
-Turkish germiş [gɛlmɪʃ]
+Turkish germiş undefined
 
 *Turkic Language Family*

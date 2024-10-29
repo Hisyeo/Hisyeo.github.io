@@ -16,6 +16,6 @@ hoverText: movie/show § Noun
 
 **Modifier**: movie/film/show/video-related
 
-Lü ᦐᧂ ṅang /naŋ˥/
+Lü ᦐᧂ ṅang undefined
 
 *Kra-Dai Language Family*

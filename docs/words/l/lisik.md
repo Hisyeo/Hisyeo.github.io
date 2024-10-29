@@ -16,6 +16,6 @@ hoverText: cereal/grain § Noun
 
 **Modifier**: cereal/grain-related
 
-Arabic رِزْق‎ riziki /rizik/
+Arabic رِزْق‎ riziki undefined
 
 *Afroasiatic Language Family*

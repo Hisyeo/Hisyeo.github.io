@@ -16,6 +16,6 @@ hoverText: dream § Noun
 
 **Modifier**: dream-related
 
-Maltese ħolma /ˈħɔl.ma/
+Maltese ħolma undefined
 
 *Afroasiatic Language Family*

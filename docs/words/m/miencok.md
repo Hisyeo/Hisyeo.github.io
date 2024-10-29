@@ -16,6 +16,6 @@ hoverText: mollusc § Noun
 
 **Modifier**: mollusc-related
 
-Polish mięczak /ˈmjɛn.t͡ʂak/
+Polish mięczak undefined
 
 *Balto-Slavic Language Family*

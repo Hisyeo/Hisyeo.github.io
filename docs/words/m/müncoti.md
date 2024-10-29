@@ -16,6 +16,6 @@ hoverText: to release/drop (the released/dropped) § Verb
 
 **Modifier**: releasble/freeable/droppable
 
-Sanskrit मुञ्चति muñcáti  /muɲ.t͡ɕɐ́.ti/
+Sanskrit मुञ्चति muñcáti  undefined
 
 *Indo-Iranian Language Family*

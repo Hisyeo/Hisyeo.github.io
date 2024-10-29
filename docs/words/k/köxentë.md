@@ -16,6 +16,6 @@ hoverText: conscious § Adjective
 
 **Modifier**: conscious
 
-Italian cosciente /koʃˈʃɛn.te/
+Italian cosciente undefined
 
 *Romance Language Family*

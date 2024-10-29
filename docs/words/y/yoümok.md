@@ -16,6 +16,6 @@ hoverText: humorous § Adjective
 
 **Modifier**: humorous
 
-Cantonese 幽默 jau1 mak6 /jaːu̯.maːk̚/
+Cantonese 幽默 jau1 mak6 undefined
 
 *Sino-Tibetan Language Family*

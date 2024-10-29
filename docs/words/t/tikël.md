@@ -16,6 +16,6 @@ hoverText: reflected § Adjective
 
 **Modifier**: reflected
 
-Hungarian tükör [ˈtykør]
+Hungarian tükör undefined
 
 *Uralic Language Family*

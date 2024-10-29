@@ -16,6 +16,6 @@ hoverText: noun § Noun
 
 **Modifier**: noun-related
 
-Hebrew שֵׁם עֶצֶם‎ shem étsem /ʃɛm ˈɛtsɛm/
+Hebrew שֵׁם עֶצֶם‎ shem étsem undefined
 
 *Afroasiatic Language Family*

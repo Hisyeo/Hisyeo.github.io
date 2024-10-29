@@ -16,6 +16,6 @@ hoverText: emphasis sentence ender (really/again) § Postposition
 
 **Modifier**: -
 
-Hakka 來著 lòi-chok /loi²⁴ tɕok²/
+Hakka 來著 lòi-chok undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: organization/enterprise § Noun
 
 **Modifier**: organization/enterprise-related
 
-Hausa ƙungiya /kʼungija/
+Hausa ƙungiya undefined
 
 *Afroasiatic Language Family*

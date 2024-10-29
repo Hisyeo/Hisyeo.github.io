@@ -16,6 +16,6 @@ hoverText: to touch (a surface) § Verb
 
 **Modifier**: touchable/physical
 
-Dholuo akura /ɑ.kuː.ra/
+Dholuo akura undefined
 
 *Nilo-Saharan Language Family*

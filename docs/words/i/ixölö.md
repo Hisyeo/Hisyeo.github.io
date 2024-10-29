@@ -16,6 +16,6 @@ hoverText: problem § Noun
 
 **Modifier**: problem/affair-related
 
-Yoruba iṣoro /ì.ʃò.ɾō/
+Yoruba iṣoro undefined
 
 *Niger-Congo Language Family*

@@ -16,6 +16,6 @@ hoverText: fewer/less § Determiner
 
 **Modifier**: less
 
-Portuguese menos /ˈme.nuʃ/
+Portuguese menos undefined
 
 *Romance Language Family*

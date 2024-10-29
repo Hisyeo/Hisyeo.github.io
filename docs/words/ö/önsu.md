@@ -16,6 +16,6 @@ hoverText: 11 eleven § Numeral
 
 **Modifier**: eleventh
 
-Catalan onze [ˈon.zə]
+Catalan onze undefined
 
 *Romance Language Family*

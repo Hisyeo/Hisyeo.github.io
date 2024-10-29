@@ -16,6 +16,6 @@ hoverText: key § Noun
 
 **Modifier**: key-related
 
-Danish nøgle [ˈnɒ̽jlə]
+Danish nøgle undefined
 
 *Germanic Language Family*

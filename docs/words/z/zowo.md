@@ -16,6 +16,6 @@ hoverText: caniform § Noun
 
 **Modifier**: caniform-related
 
-Guaraní jagua /d͡ʒaˈɰʷa/
+Guaraní jagua undefined
 
 *Tupian Language Family*

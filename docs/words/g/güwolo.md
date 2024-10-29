@@ -16,6 +16,6 @@ hoverText: to scratch (the scratched) § Verb
 
 **Modifier**: scratchable/scrapable
 
-Yegang gwaaraǃ 
+Yegang gwaaraǃ undefined
 
 *Nilo-Saharan Language Family*

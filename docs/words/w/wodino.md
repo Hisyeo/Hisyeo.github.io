@@ -16,6 +16,6 @@ hoverText: stale § Adjective
 
 **Modifier**: stale
 
-Telugu వాడిన vāḍina /ʋaː.di.na/
+Telugu వాడిన vāḍina undefined
 
 *Dravidian Language Family*

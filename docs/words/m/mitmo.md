@@ -16,6 +16,6 @@ hoverText: colony § Noun
 
 **Modifier**: colony-related
 
-Quechua mitma /'mit.ma/
+Quechua mitma undefined
 
 *Quechumaran Language Family*

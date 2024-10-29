@@ -16,6 +16,6 @@ hoverText: lens § Noun
 
 **Modifier**: lens-related
 
-Czech čočka [ˈt͡ʃot͡ʃka]
+Czech čočka undefined
 
 *Balto-Slavic Language Family*

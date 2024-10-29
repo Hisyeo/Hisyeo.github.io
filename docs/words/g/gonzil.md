@@ -16,6 +16,6 @@ hoverText: strange § Adjective
 
 **Modifier**: strange/weird/abnormal
 
-Malay ݢنجيل‎ ganjil /ɡand͡ʒil/
+Malay ݢنجيل‎ ganjil undefined
 
 *Austronesian Language Family*

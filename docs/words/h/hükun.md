@@ -16,6 +16,6 @@ hoverText: to order (a command) § Verb
 
 **Modifier**: orderable/commandable
 
-Arabic حُكْم ḥukm /ħukm/
+Arabic حُكْم ḥukm undefined
 
 *Afroasiatic Language Family*

@@ -16,6 +16,6 @@ hoverText: phrase § Noun
 
 **Modifier**: phrase-related
 
-Italian sintagma /sinˈtaɡ.ma/
+Italian sintagma undefined
 
 *Romance Language Family*

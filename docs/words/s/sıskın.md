@@ -16,6 +16,6 @@ hoverText: sibling § Noun
 
 **Modifier**: sibling/related
 
-Iclandic systkin /ˈsɪs(t)kɪːn/
+Iclandic systkin undefined
 
 *Germanic Language Family*

@@ -16,6 +16,6 @@ hoverText: horn/spike § Noun
 
 **Modifier**: horn/spike-related
 
-Telugu కొమ్ము kommu /komːu/
+Telugu కొమ్ము kommu undefined
 
 *Dravidian Language Family*

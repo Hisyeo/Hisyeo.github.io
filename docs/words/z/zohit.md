@@ -16,6 +16,6 @@ hoverText: to sew (the sewn) § Verb
 
 **Modifier**: sewable/stichable
 
-Indonesian jahit /ˈd͡ʒa.hit/
+Indonesian jahit undefined
 
 *Austronesian Language Family*

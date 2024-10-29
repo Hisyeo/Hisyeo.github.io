@@ -16,6 +16,6 @@ hoverText: cave § Noun
 
 **Modifier**: cave/cavern/den-related
 
-Polish jaskinia /jasˈki.ɲa/
+Polish jaskinia undefined
 
 *Balto-Slavic Language Family*

@@ -16,6 +16,6 @@ hoverText: smoke/cloud § Noun
 
 **Modifier**: smoke/cloud-related
 
-Dutch wolk /ʋɔlk/
+Dutch wolk undefined
 
 *Germanic Language Family*

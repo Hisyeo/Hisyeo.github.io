@@ -16,6 +16,6 @@ hoverText: to provoke (a provocation) § Verb
 
 **Modifier**: provokable/harrassable
 
-Chinese 扇動 shāndòng [ʂantʊŋ]
+Chinese 扇動 shāndòng undefined
 
 *Sino-Tibetan Language Family*

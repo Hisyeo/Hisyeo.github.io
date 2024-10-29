@@ -16,6 +16,6 @@ hoverText: cheek § Noun
 
 **Modifier**: cheek-related
 
-Yoruba ẹ̀rẹ̀kẹ́ /ɛ̀.ɾɛ̀.kɛ́/
+Yoruba ẹ̀rẹ̀kẹ́ undefined
 
 *Niger-Congo Language Family*

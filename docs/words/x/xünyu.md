@@ -16,6 +16,6 @@ hoverText: 00 zero § Numeral
 
 **Modifier**: zeroth
 
-Sanskrit शून्य śūnyá /ɕuːn.jɐ/
+Sanskrit शून्य śūnyá undefined
 
 *Indo-Iranian Language Family*

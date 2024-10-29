@@ -16,6 +16,6 @@ hoverText: tree § Noun
 
 **Modifier**: wood/tree-related
 
-Korean 나무 namu [na̠mu]
+Korean 나무 namu undefined
 
 *Koreic Language Family*

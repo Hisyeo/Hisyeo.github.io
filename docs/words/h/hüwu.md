@@ -16,6 +16,6 @@ hoverText: egg § Noun
 
 **Modifier**: egg-related
 
-Hawaiian hua [ˈhuwə]
+Hawaiian hua undefined
 
 *Austronesian Language Family*

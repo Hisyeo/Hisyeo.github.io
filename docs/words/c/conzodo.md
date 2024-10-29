@@ -16,6 +16,6 @@ hoverText: asleep § Adjective
 
 **Modifier**: asleep
 
-Korean 잠자다 jamjada [t͡ɕa̠md͡ʑa̠da̠]
+Korean 잠자다 jamjada undefined
 
 *Koreic Language Family*

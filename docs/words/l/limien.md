@@ -16,6 +16,6 @@ hoverText: inside § Noun
 
 **Modifier**: inside-related/inner
 
-Mandarin 裡面 lǐmiàn /limi̯ɛn/
+Mandarin 裡面 lǐmiàn undefined
 
 *Sino-Tibetan Language Family*

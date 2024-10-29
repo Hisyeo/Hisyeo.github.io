@@ -16,6 +16,6 @@ hoverText: wide § Adjective
 
 **Modifier**: wide
 
-Korean 넓다 neolda [nʌ̹ɭt͈a̠]
+Korean 넓다 neolda undefined
 
 *Koreic Language Family*

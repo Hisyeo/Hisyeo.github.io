@@ -16,6 +16,6 @@ hoverText: time § Noun
 
 **Modifier**: time-related
 
-Bashkir ваҡыт vaqıt [wɑˈqɯ̞t]
+Bashkir ваҡыт vaqıt undefined
 
 *Turkic Language Family*

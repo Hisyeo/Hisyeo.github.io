@@ -16,6 +16,6 @@ hoverText: cage/kennel/jail/cell § Noun
 
 **Modifier**: cage/kennel/jail/cell-related
 
-Tagalog ᜃᜓᜎᜓᜅᜈ᜔ kúlúngan [ˌkuˈlu.ŋɐn]
+Tagalog ᜃᜓᜎᜓᜅᜈ᜔ kúlúngan undefined
 
 *Austronesian Language Family*

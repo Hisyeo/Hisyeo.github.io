@@ -16,6 +16,6 @@ hoverText: fire § Noun
 
 **Modifier**: fire-related
 
-Chichewa/Mwani/Ngungwel/Shona/Swahili moto /ˈmó.to/
+Chichewa/Mwani/Ngungwel/Shona/Swahili moto undefined
 
 *Niger-Congo Language Family*

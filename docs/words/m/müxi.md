@@ -16,6 +16,6 @@ hoverText: insect § Noun
 
 **Modifier**: instect-like
 
-Japanese 虫 mushi /muɕi/
+Japanese 虫 mushi undefined
 
 *Japonic Language Family*

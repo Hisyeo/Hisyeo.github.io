@@ -16,6 +16,6 @@ hoverText: clapping/applauding § Adjective
 
 **Modifier**: clapping/applauding
 
-Japanese は​くしゅ hakushu [ha̠kɯ̟̊ᵝɕɨᵝ]
+Japanese は​くしゅ hakushu undefined
 
 *Japonic Language Family*

@@ -16,6 +16,6 @@ hoverText: cold § Adjective
 
 **Modifier**: cold
 
-Tibetan གྲང་མོ grang mo /ʈ͡ʂʰəŋ˩˧.ŋu˥˥/
+Tibetan གྲང་མོ grang mo undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: savory § Adjective
 
 **Modifier**: savory
 
-Japanese 旨味 umami [ɯ̟ᵝma̠mʲi]
+Japanese 旨味 umami undefined
 
 *Japonic Language Family*

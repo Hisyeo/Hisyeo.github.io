@@ -16,6 +16,6 @@ hoverText: to talk (speech) § Verb
 
 **Modifier**: sayable
 
-Bengali কথা kotha /kɔ.tʰa/
+Bengali কথা kotha undefined
 
 *Indo-Iranian Language Family*

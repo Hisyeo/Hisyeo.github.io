@@ -16,6 +16,6 @@ hoverText: to allow (the allowed) § Verb
 
 **Modifier**: allowable/permittable
 
-German zulassen /ˈtsuːlasən/
+German zulassen undefined
 
 *Germanic Language Family*

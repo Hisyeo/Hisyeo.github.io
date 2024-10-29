@@ -16,6 +16,6 @@ hoverText: slippery § Adjective
 
 **Modifier**: slippery
 
-German rutschig [ˈʁʊt.ʃɪk]
+German rutschig undefined
 
 *Germanic Language Family*

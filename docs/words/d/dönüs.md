@@ -16,6 +16,6 @@ hoverText: pig § Noun
 
 **Modifier**: pig/swine-related
 
-Azerbaijani donuz [doˈnuz]
+Azerbaijani donuz undefined
 
 *Turkic Language Family*

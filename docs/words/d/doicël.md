@@ -16,6 +16,6 @@ hoverText: to capture/intercept (the captured/intercepted) § Verb
 
 **Modifier**: capturable/interceptable/arrestable
 
-Georgian დაიჭერს daič̣ers [d̥ait͡ʃʼeɾs]
+Georgian დაიჭერს daič̣ers undefined
 
 *Kartvelian Language Family*

@@ -16,6 +16,6 @@ hoverText: technology § Noun
 
 **Modifier**: technology-related
 
-Vietnamese công nghệ [kəwŋ͡m˧˧ ŋe˧˨ʔ]
+Vietnamese công nghệ undefined
 
 *Austro-Asiatic Language Family*

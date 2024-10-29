@@ -16,6 +16,6 @@ hoverText: we/us § Pronoun
 
 **Modifier**: our
 
-French nous /nu/
+French nous undefined
 
 *Romance Language Family*

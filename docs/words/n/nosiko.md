@@ -16,6 +16,6 @@ hoverText: nose § Noun
 
 **Modifier**: nose/snout/trunk-related
 
-Marathi नासिका nāsikā /nɑ́ː.si.kɑː/
+Marathi नासिका nāsikā undefined
 
 *Indo-Iranian Language Family*

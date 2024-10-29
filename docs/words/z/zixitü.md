@@ -16,6 +16,6 @@ hoverText: finger/toe § Noun
 
 **Modifier**: finger/toe/digit-related
 
-Portuegese dígito /ˈd͡ʒi.ʒi.tu/
+Portuegese dígito undefined
 
 *Romance Language Family*

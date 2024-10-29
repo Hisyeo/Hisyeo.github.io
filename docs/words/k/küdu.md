@@ -16,6 +16,6 @@ hoverText: horse § Noun
 
 **Modifier**: horse/equine-related
 
-Malay کودا kuda /kudə/
+Malay کودا kuda undefined
 
 *Austronesian Language Family*

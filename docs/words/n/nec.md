@@ -16,6 +16,6 @@ hoverText: mesh § Noun
 
 **Modifier**: net/web/mesh-related
 
-German Netz /nɛt͡s/
+German Netz undefined
 
 *Germanic Language Family*

@@ -16,6 +16,6 @@ hoverText: rank/degree § Noun
 
 **Modifier**: rank/degree-related
 
-Swahili cheo  [t͡ɕeo]
+Swahili cheo undefined
 
 *Niger-Congo Language Family*

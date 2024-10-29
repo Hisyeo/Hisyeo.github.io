@@ -16,6 +16,6 @@ hoverText: reptile § Noun
 
 **Modifier**: reptile-related
 
-Chichewa buluzi 
+Chichewa buluzi undefined
 
 *Niger-Congo Language Family*

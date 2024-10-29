@@ -16,6 +16,6 @@ hoverText: parent § Noun
 
 **Modifier**: parent-related
 
-Māori matua /ma.ˈtu.a/
+Māori matua undefined
 
 *Austronesian Language Family*

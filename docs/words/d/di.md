@@ -16,6 +16,6 @@ hoverText: to become (a trait) § Verb
 
 **Modifier**: aspectual/beable
 
-Yoruba di /di/
+Yoruba di undefined
 
 *Niger-Congo Language Family*

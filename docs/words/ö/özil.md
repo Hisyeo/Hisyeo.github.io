@@ -16,6 +16,6 @@ hoverText: nut § Noun
 
 **Modifier**: nut-related
 
-Persian آجیل âjil [ʔɔ.d͡ʒíl]
+Persian آجیل âjil undefined
 
 *Indo-Iranian Language Family*

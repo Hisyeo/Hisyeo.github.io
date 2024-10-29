@@ -16,6 +16,6 @@ hoverText: falling § Adjective
 
 **Modifier**: falling/sinking
 
-Kyrgy жыгыл- jıgıl- 
+Kyrgy жыгыл- jıgıl- undefined
 
 *Turkic Language Family*

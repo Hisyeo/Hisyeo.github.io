@@ -16,6 +16,6 @@ hoverText: planet § Noun
 
 **Modifier**: planet-related
 
-Punjabi ਨਛੱਤਰ nachattar /naˈt͡ʃʰa.t̪aɾ/
+Punjabi ਨਛੱਤਰ nachattar undefined
 
 *Indo-Iranian Language Family*

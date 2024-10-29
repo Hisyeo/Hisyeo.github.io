@@ -16,6 +16,6 @@ hoverText: grey § Adjective
 
 **Modifier**: grey
 
-Hindi धूसर dhūsar [d̪ʱuː.s̪əɾ]
+Hindi धूसर dhūsar undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: to pump (a pumpable entity) § Noun
 
 **Modifier**: pumped
 
-Mongolian хөөрөг xöörög [ˈxoːɾʊk]
+Mongolian хөөрөг xöörög undefined
 
 *Mongolic Language Family*

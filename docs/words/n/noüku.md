@@ -16,6 +16,6 @@ hoverText: science § Noun
 
 **Modifier**: science-related
 
-Ukrainian нау́ка naúka [nɐˈukɐ]
+Ukrainian нау́ка naúka undefined
 
 *Balto-Slavic Language Family*

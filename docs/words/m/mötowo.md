@@ -16,6 +16,6 @@ hoverText: content § Noun
 
 **Modifier**: content-related
 
-Persian محتوا mohtavâ [mo̞ɦ.t̪ʰä.wɑ́ː]
+Persian محتوا mohtavâ undefined
 
 *Indo-Iranian Language Family*

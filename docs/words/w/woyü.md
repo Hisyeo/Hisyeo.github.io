@@ -16,6 +16,6 @@ hoverText: air/wind § Noun
 
 **Modifier**: air/wind-related
 
-Sanskrit वायु vāyú [ʋäː.juː]
+Sanskrit वायु vāyú undefined
 
 *Indo-Iranian Language Family*

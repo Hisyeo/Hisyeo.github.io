@@ -16,6 +16,6 @@ hoverText: source/origin marker (from) § Preposition
 
 **Modifier**: -
 
-Wu 從 zon /z̥ʊŋ/
+Wu 從 zon undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: endless/infinite § Adjective
 
 **Modifier**: endless/infinite
 
-Turkish sonsuz /sɔn.súz/
+Turkish sonsuz undefined
 
 *Turkic Language Family*

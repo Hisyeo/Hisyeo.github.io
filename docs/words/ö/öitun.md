@@ -16,6 +16,6 @@ hoverText: to vocalize (a vocalization) § Verb
 
 **Modifier**: vocalizable/utterable
 
-Dutch uiten /ˈœy̯tə(n)/
+Dutch uiten undefined
 
 *Germanic Language Family*

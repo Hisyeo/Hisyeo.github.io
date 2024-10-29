@@ -16,6 +16,6 @@ hoverText: wing § Noun
 
 **Modifier**: wing-related
 
-Mixtec ndɨxin [nᵈɨʃin]
+Mixtec ndɨxin undefined
 
 *Oto-Manguean Language Family*

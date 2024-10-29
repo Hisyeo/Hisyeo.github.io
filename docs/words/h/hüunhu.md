@@ -16,6 +16,6 @@ hoverText: mixed § Adjective
 
 **Modifier**: mixed/heterogenous/unsorted
 
-Mandarin 混合 hùnhé /xu̯ənxɤ/
+Mandarin 混合 hùnhé undefined
 
 *Sino-Tibetan Language Family*

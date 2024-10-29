@@ -16,6 +16,6 @@ hoverText: step/rung § Noun
 
 **Modifier**: step/rung/pedal-related
 
-Mongolian гишгүүр gišgüür [giʃguːr]
+Mongolian гишгүүр gišgüür undefined
 
 *Mongolic Language Family*

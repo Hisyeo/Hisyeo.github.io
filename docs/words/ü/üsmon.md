@@ -16,6 +16,6 @@ hoverText: gas § Noun
 
 **Modifier**: gas/vapor-related
 
-Khmer ឧស្ម័ន ʼusman /ʔu.ˈsman/
+Khmer ឧស្ម័ន ʼusman undefined
 
 *Austro-Asiatic Language Family*

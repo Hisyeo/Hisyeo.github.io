@@ -16,6 +16,6 @@ hoverText: grass § Noun
 
 **Modifier**: ground cover plant related
 
-Kannada ಹುಲ್ಲು hullu /hullu/
+Kannada ಹುಲ್ಲು hullu undefined
 
 *Dravidian Language Family*

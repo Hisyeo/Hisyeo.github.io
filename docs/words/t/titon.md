@@ -16,6 +16,6 @@ hoverText: way/path § Noun
 
 **Modifier**: way/path-related
 
-Thai ทิศทาง tít-taang /tʰit̚˦˥.tʰaːŋ˧/
+Thai ทิศทาง tít-taang undefined
 
 *Kra-Dai Language Family*

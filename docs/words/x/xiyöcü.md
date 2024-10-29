@@ -16,6 +16,6 @@ hoverText: occupied/engaged/busy § Adjective
 
 **Modifier**: occupied/engaged/busy
 
-Japanese しようちゅう shiyōchū [ɕijo̞ːt͡ɕuː]
+Japanese しようちゅう shiyōchū undefined
 
 *Japonic Language Family*

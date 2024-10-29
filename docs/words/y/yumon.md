@@ -16,6 +16,6 @@ hoverText: brutal § Adjective
 
 **Modifier**: brutal/vicious
 
-Mandarin 野蠻 yěmán [jɤ˨˩˦.man˧˥]
+Mandarin 野蠻 yěmán undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: false § Adjective
 
 **Modifier**: false/fake
 
-Mongolian худал hudal /xʊtəɮ/
+Mongolian худал hudal undefined
 
 *Mongolic Language Family*

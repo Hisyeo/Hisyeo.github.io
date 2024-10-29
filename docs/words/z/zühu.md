@@ -16,6 +16,6 @@ hoverText: tongue § Noun
 
 **Modifier**: tongue-related
 
-Albanian gjuhë /ˈɟuhə/
+Albanian gjuhë undefined
 
 *Albanian Language Family*

@@ -16,6 +16,6 @@ hoverText: pitch/tar § Noun
 
 **Modifier**: pitch/tar-related
 
-Belarusian дзёгаць dzjóhacʹ [ˈd͡zʲoɣat͡sʲ]
+Belarusian дзёгаць dzjóhacʹ undefined
 
 *Balto-Slavic Language Family*

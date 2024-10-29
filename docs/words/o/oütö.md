@@ -16,6 +16,6 @@ hoverText: to drive (a vehicle) § Verb
 
 **Modifier**: driveable
 
-German Auto [ˈʔaʊ̯tʰoː]
+German Auto undefined
 
 *Germanic Language Family*

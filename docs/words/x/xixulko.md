@@ -16,6 +16,6 @@ hoverText: pinecone § Noun
 
 **Modifier**: pinecone-related
 
-Macedonian шишарка šišarka [ˈʃiʃarka]
+Macedonian шишарка šišarka undefined
 
 *Balto-Slavic Language Family*

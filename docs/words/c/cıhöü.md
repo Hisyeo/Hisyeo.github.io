@@ -16,6 +16,6 @@ hoverText: successive marker (after) § Preposition
 
 **Modifier**: -
 
-Chinese 此後 cǐhòu 
+Chinese 此後 cǐhòu undefined
 
 *Sino-Tibetan Language Family*

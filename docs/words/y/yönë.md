@@ -16,6 +16,6 @@ hoverText: caprine § Noun
 
 **Modifier**: goat/sheep/caprine-related
 
-Hakka 羊仔 iòng-é /iɔŋŋe/
+Hakka 羊仔 iòng-é undefined
 
 *Sino-Tibetan Language Family*

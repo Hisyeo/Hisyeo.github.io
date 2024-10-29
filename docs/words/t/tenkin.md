@@ -16,6 +16,6 @@ hoverText: to hear (a sound) § Verb
 
 **Modifier**: hearable
 
-Cantonese  聽見 teng gin /tʰɛːŋ⁵⁵ kiːn³³/
+Cantonese  聽見 teng gin undefined
 
 *Sino-Tibetan Language Family*

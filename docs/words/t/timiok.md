@@ -16,6 +16,6 @@ hoverText: bird § Noun
 
 **Modifier**: bird-related
 
-Greenlandic timmiaq /timjaq/
+Greenlandic timmiaq undefined
 
 *Eskaleut Language Family*

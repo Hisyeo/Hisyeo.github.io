@@ -16,6 +16,6 @@ hoverText: magical § Adjective
 
 **Modifier**: magical
 
-Italian magico /ˈma.d͡ʒi.ko/
+Italian magico undefined
 
 *Romance Language Family*

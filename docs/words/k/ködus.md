@@ -16,6 +16,6 @@ hoverText: sacred § Adjective
 
 **Modifier**: sacred
 
-Hebrew קָדוֹשׁ kadósh /ˈkɔdəʃ/
+Hebrew קָדוֹשׁ kadósh undefined
 
 *Afroasiatic Language Family*

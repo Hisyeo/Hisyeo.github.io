@@ -16,6 +16,6 @@ hoverText: moon § Noun
 
 **Modifier**: moon-related
 
-Chichewa mwezi /ˈmʷe.zí/
+Chichewa mwezi undefined
 
 *Niger-Congo Language Family*

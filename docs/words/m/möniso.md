@@ -16,6 +16,6 @@ hoverText: to display/show (a diplay/show) § Verb
 
 **Modifier**: displayable/showable
 
-Kituba monisa [monisa]
+Kituba monisa undefined
 
 *Niger-Congo Language Family*

@@ -16,6 +16,6 @@ hoverText: excited § Adjective
 
 **Modifier**: excited
 
-Persian هیجان hayajân  [hiːˈdʒɒːn]
+Persian هیجان hayajân  undefined
 
 *Indo-Iranian Language Family*

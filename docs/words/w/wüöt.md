@@ -16,6 +16,6 @@ hoverText: journey/trip/voyage § Noun
 
 **Modifier**: journery/trip/voyage-related
 
-Dholuo wuoth [wʊɔt̪]
+Dholuo wuoth undefined
 
 *Nilo-Saharan Language Family*

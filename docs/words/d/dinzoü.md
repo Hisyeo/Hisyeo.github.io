@@ -16,6 +16,6 @@ hoverText: lip/rim/edge § Noun
 
 **Modifier**: labial/rim-like/edge-like
 
-Whtie Hmong di ncauj /di˧.ᶮɟau̯˥˧/
+Whtie Hmong di ncauj undefined
 
 *Hmong-Mien Language Family*

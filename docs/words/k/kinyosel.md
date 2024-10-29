@@ -16,6 +16,6 @@ hoverText: chemical § Noun
 
 **Modifier**: chemical-related
 
-Turkish kimyasal /cimˈjaːsæl/
+Turkish kimyasal undefined
 
 *Turkic Language Family*

@@ -16,6 +16,6 @@ hoverText: wheel § Noun
 
 **Modifier**: wheel-related
 
-Mongolian ᠬᠦᠷᠳᠦ kürdü 
+Mongolian ᠬᠦᠷᠳᠦ kürdü undefined
 
 *Mongolic Language Family*

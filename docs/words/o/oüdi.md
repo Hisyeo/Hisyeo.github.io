@@ -16,6 +16,6 @@ hoverText: seed § Noun
 
 **Modifier**: seed-related
 
-Fula aawdi [aːwdi]
+Fula aawdi undefined
 
 *Nilo-Saharan Language Family*

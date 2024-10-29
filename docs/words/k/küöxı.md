@@ -16,6 +16,6 @@ hoverText: fruit § Noun
 
 **Modifier**: fruit-related
 
-Mandarin 果實 guǒshí /ku̯ɔ.ʂɨ/
+Mandarin 果實 guǒshí undefined
 
 *Sino-Tibetan Language Family*

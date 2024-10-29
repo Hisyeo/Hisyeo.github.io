@@ -16,6 +16,6 @@ hoverText: energy/power § Noun
 
 **Modifier**: energy/power-related
 
-Hindi ऊर्जा ūrjā [uːɾ.d͡ʒäː]
+Hindi ऊर्जा ūrjā undefined
 
 *Indo-Iranian Language Family*

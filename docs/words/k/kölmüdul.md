@@ -16,6 +16,6 @@ hoverText: purchase § Noun
 
 **Modifier**: purchase-related
 
-Tamil கொள்முதல் koḷmutal /kɔɭmʊd̪ɐl/
+Tamil கொள்முதல் koḷmutal undefined
 
 *Dravidian Language Family*

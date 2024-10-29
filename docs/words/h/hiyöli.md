@@ -16,6 +16,6 @@ hoverText: weak § Adjective
 
 **Modifier**: weak
 
-Bum hiyòlì [híjɔ̀lì]
+Bum hiyòlì undefined
 
 *Niger-Congo Language Family*

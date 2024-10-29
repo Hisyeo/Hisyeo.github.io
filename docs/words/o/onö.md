@@ -16,6 +16,6 @@ hoverText: distal demonstrative (yon/yonder) § Pronoun
 
 **Modifier**: yon/yonder
 
-Japanese あの ano [a̠no̞]
+Japanese あの ano undefined
 
 *Japonic Language Family*

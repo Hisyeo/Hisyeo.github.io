@@ -16,6 +16,6 @@ hoverText: hole § Noun
 
 **Modifier**: hole/opening-related
 
-Korean 구멍 gumeong [kumʌ̹ŋ]
+Korean 구멍 gumeong undefined
 
 *Koreic Language Family*

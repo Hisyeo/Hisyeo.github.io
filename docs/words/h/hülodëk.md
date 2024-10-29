@@ -16,6 +16,6 @@ hoverText: waste § Noun
 
 **Modifier**: waste/garbage-related
 
-Hungarian hulladék [ˈhulːɒdeːk]
+Hungarian hulladék undefined
 
 *Uralic Language Family*

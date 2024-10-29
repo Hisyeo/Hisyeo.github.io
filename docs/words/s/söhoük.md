@@ -16,6 +16,6 @@ hoverText: arithmetic/math § Noun
 
 **Modifier**: arithmetic/math-related
 
-Vietnamese số học [so˧˦ hawk͡p̚˧˨ʔ]
+Vietnamese số học undefined
 
 *Austro-Asiatic Language Family*

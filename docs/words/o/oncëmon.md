@@ -16,6 +16,6 @@ hoverText: to feel/sense (a phenomenon) § Verb
 
 **Modifier**: feelable/sensible
 
-Basque antzeman /ant̻s̻eman/
+Basque antzeman undefined
 
 *Basque Language Family*

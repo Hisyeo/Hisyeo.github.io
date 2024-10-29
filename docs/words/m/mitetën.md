@@ -16,6 +16,6 @@ hoverText: trivial § Adjective
 
 **Modifier**: trivial/negligible
 
-Finnish mitätön [ˈmit̪æt̪ø̞n]
+Finnish mitätön undefined
 
 *Uralic Language Family*

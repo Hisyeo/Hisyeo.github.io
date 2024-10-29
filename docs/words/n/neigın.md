@@ -16,6 +16,6 @@ hoverText: tendency/inclination § Noun
 
 **Modifier**: tendency/inclination-related
 
-Dutch neiging /ˈnɛi̯.ɣɪŋ/
+Dutch neiging undefined
 
 *Germanic Language Family*

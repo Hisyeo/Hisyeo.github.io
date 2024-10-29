@@ -16,6 +16,6 @@ hoverText: gastropod § Noun
 
 **Modifier**: slug/snail/gastropod-related
 
-Sicilian mignatta /mɪɲɲat̪t̪a/
+Sicilian mignatta undefined
 
 *Romance Language Family*

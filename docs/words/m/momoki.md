@@ -16,6 +16,6 @@ hoverText: surprised § Adjective
 
 **Modifier**: surprised/shocked
 
-Hausa mamaki /màː.máː.kìː/
+Hausa mamaki undefined
 
 *Afroasiatic Language Family*

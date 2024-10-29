@@ -16,6 +16,6 @@ hoverText: predecessive marker (before) § Preposition
 
 **Modifier**: -
 
-Bashkir элек elek [ɪ̞ˈlɪ̞k]
+Bashkir элек elek undefined
 
 *Turkic Language Family*

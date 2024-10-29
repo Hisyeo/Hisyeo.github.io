@@ -16,6 +16,6 @@ hoverText: milled/ground/crushed § Adjective
 
 **Modifier**: milled/ground/crushed
 
-German gemahlen 
+German gemahlen undefined
 
 *Germanic Language Family*

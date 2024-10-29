@@ -16,6 +16,6 @@ hoverText: beautiful § Adjective
 
 **Modifier**: beautiful
 
-Bengali হাসিন haśin [ˈɦasin]
+Bengali হাসিন haśin undefined
 
 *Indo-Iranian Language Family*

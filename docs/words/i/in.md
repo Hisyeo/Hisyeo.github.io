@@ -16,6 +16,6 @@ hoverText: verb modifier particle § Particle
 
 **Modifier**: -
 
-Manx yn- /in/
+Manx yn- undefined
 
 *Celtic Language Family*

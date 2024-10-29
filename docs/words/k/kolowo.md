@@ -16,6 +16,6 @@ hoverText: art § Noun
 
 **Modifier**: art-related/artistic
 
-Sinhalese කලාව kalāwa 
+Sinhalese කලාව kalāwa undefined
 
 *Indo-Iranian Language Family*

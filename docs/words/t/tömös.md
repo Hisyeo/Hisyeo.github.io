@@ -16,6 +16,6 @@ hoverText: book § Noun
 
 **Modifier**: tome/book-related
 
-Greek τόμος tómos /ˈto.mos/
+Greek τόμος tómos undefined
 
 *Hellenic Language Family*

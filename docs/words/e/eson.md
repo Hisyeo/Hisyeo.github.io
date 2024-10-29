@@ -16,6 +16,6 @@ hoverText: 09 nine § Numeral
 
 **Modifier**: ninth
 
-Yoruba ẹ̀sán /'ɛ.sän/
+Yoruba ẹ̀sán undefined
 
 *Niger-Congo Language Family*

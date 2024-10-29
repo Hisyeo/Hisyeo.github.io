@@ -16,6 +16,6 @@ hoverText: war § Noun
 
 **Modifier**: war-related
 
-Sicilian guerra [ˈɡwɛʐːa]
+Sicilian guerra undefined
 
 *Romance Language Family*

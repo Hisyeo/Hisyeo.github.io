@@ -16,6 +16,6 @@ hoverText: tear (of the eye) § Noun
 
 **Modifier**: tear-related
 
-Thai น้ำตา nám-dtaa /nam˦˥.taː˧/
+Thai น้ำตา nám-dtaa undefined
 
 *Kra-Dai Language Family*

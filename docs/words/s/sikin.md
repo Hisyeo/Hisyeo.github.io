@@ -16,6 +16,6 @@ hoverText: event § Noun
 
 **Modifier**: event-related
 
-Cantonese 事件 si gin /siːkiːn/
+Cantonese 事件 si gin undefined
 
 *Sino-Tibetan Language Family*

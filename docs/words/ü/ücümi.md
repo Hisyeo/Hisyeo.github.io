@@ -16,6 +16,6 @@ hoverText: economy § Noun
 
 **Modifier**: economy-related
 
-Swahili uchumi [utʃumi]
+Swahili uchumi undefined
 
 *Niger-Congo Language Family*

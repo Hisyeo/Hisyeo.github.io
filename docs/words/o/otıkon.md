@@ -16,6 +16,6 @@ hoverText: excess § Determiner
 
 **Modifier**: excessive/too much
 
-Tamil அதிகம் atikam 
+Tamil அதிகம் atikam undefined
 
 *Dravidian Language Family*

@@ -16,6 +16,6 @@ hoverText: crustacean § Noun
 
 **Modifier**: crustacean-related
 
-French crustacé /kʁys.ta.se/
+French crustacé undefined
 
 *Romance Language Family*

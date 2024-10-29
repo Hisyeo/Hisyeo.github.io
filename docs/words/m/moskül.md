@@ -16,6 +16,6 @@ hoverText: male § Adjective
 
 **Modifier**: male/masculine
 
-Romanian mascul [masˈkul]
+Romanian mascul undefined
 
 *Romance Language Family*

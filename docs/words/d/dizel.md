@@ -16,6 +16,6 @@ hoverText: other § Pronoun
 
 **Modifier**: other
 
-Azerbaijani digər [ˈdid͡ʒær]
+Azerbaijani digər undefined
 
 *Turkic Language Family*

@@ -16,6 +16,6 @@ hoverText: parade/procession § Noun
 
 **Modifier**: parade/procession-related
 
-Chinese 遊行 yóuxíng [jou̯ɕiŋ]
+Chinese 遊行 yóuxíng undefined
 
 *Sino-Tibetan Language Family*

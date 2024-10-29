@@ -16,6 +16,6 @@ hoverText: corner § Noun
 
 **Modifier**: corner/angle-related
 
-Italian angolo /ˈan.ɡo.lo/
+Italian angolo undefined
 
 *Romance Language Family*

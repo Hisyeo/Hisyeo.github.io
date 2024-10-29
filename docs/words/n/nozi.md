@@ -16,6 +16,6 @@ hoverText: venom/poison § Noun
 
 **Modifier**: venom/poison-related
 
-Songhay naaji [naːɟi]
+Songhay naaji undefined
 
 *Nilo-Saharan Language Family*

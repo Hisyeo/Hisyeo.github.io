@@ -16,6 +16,6 @@ hoverText: subject complement marker § Preposition
 
 **Modifier**: -
 
-- -
+- undefined
 
 *Misc Language Family*

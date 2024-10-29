@@ -16,6 +16,6 @@ hoverText: loud § Adjective
 
 **Modifier**: loud
 
-Portuguese alto [ˈaɫ.tu]
+Portuguese alto undefined
 
 *Romance Language Family*

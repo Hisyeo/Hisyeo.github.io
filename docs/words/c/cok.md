@@ -16,6 +16,6 @@ hoverText: departing § Adjective
 
 **Modifier**: departing/leaving
 
-Lao ຈາກ chāk [t͡ɕaːk̚˥˥˨]
+Lao ຈາກ chāk undefined
 
 *Kra-Dai Language Family*

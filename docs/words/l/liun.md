@@ -16,6 +16,6 @@ hoverText: to nurture/grow (the nurtured/grown) § Verb
 
 **Modifier**: nurturable/growablt/raisable
 
-Khmer លៀង liəng /liəŋ/
+Khmer លៀង liəng undefined
 
 *Austro-Asiatic Language Family*

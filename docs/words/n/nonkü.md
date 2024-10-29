@@ -16,6 +16,6 @@ hoverText: 04 four § Numeral
 
 **Modifier**: fourth
 
-Tamil நான்கு nāṉku [n̪aːnkɯ]
+Tamil நான்கு nāṉku undefined
 
 *Dravidian Language Family*

@@ -16,6 +16,6 @@ hoverText: short § Adjective
 
 **Modifier**: short/low
 
-Hijazi Arabic قصير gaṣīr /ɡa.sˤiːr/
+Hijazi Arabic قصير gaṣīr undefined
 
 *Afroasiatic Language Family*

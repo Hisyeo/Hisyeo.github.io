@@ -16,6 +16,6 @@ hoverText: ocean § Noun
 
 **Modifier**: ocean/sea-related
 
-Bengali সমুদ্র śomudro /ʃo.mud.ro/
+Bengali সমুদ্র śomudro undefined
 
 *Indo-Iranian Language Family*

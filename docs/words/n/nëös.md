@@ -16,6 +16,6 @@ hoverText: new/fresh § Adjective
 
 **Modifier**: new/fresh
 
-Greek νέος néos /ˈne.os/
+Greek νέος néos undefined
 
 *Hellenic Language Family*

@@ -16,6 +16,6 @@ hoverText: modifier (adjective) § Noun
 
 **Modifier**: modifier-related
 
-Cantonese 形容詞 jing4 jung4 ci4 /jɪŋ.jʊŋ.tsʰiː/
+Cantonese 形容詞 jing4 jung4 ci4 undefined
 
 *Sino-Tibetan Language Family*

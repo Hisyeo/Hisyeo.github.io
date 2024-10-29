@@ -16,6 +16,6 @@ hoverText: wise/clever § Adjective
 
 **Modifier**: wise/clever
 
-Thai ฉลาด chà-làat /t͡ɕʰa˨˩.laːt̚˨˩/
+Thai ฉลาด chà-làat undefined
 
 *Kra-Dai Language Family*

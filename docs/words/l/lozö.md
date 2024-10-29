@@ -16,6 +16,6 @@ hoverText: ray/beam § Noun
 
 **Modifier**: ray/beam-related
 
-Italian raggio /ˈrad.d͡ʒo/
+Italian raggio undefined
 
 *Romance Language Family*

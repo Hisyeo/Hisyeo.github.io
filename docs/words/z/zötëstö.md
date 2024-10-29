@@ -16,6 +16,6 @@ hoverText: sufficient/enough § Determiner
 
 **Modifier**: sufficient/enough/adequate
 
-Bengali যথেষ্ট jotheśṭo [ˈdʑɔt̪ʰestoˑ]
+Bengali যথেষ্ট jotheśṭo undefined
 
 *Indo-Iranian Language Family*

@@ -16,6 +16,6 @@ hoverText: tart § Adjective
 
 **Modifier**: tart/tangy
 
-Xhosa -muncu /mu.ᵑǀu/
+Xhosa -muncu undefined
 
 *Niger-Congo Language Family*

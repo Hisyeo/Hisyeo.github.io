@@ -16,6 +16,6 @@ hoverText: precise/specific § Adjective
 
 **Modifier**: precise/specific
 
-Cantonese 準確 zeon2 kok3 /tsɵn.kɔːk̚/
+Cantonese 準確 zeon2 kok3 undefined
 
 *Sino-Tibetan Language Family*

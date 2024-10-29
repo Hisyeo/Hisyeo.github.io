@@ -16,6 +16,6 @@ hoverText: lawn/meadow § Noun
 
 **Modifier**: lawn/meadow-related
 
-Persian چمن čaman [t͡ʃʰä.mǽn]
+Persian چمن čaman undefined
 
 *Indo-Iranian Language Family*

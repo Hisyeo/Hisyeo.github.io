@@ -16,6 +16,6 @@ hoverText: to accuse (an accusation) § Verb
 
 **Modifier**: accusable/blamable
 
-Chinese 指責 zhǐzé /ʈʂǐtsé/
+Chinese 指責 zhǐzé undefined
 
 *Sino-Tibetan Language Family*

@@ -16,6 +16,6 @@ hoverText: to hate (a hated entity) § Verb
 
 **Modifier**: hatable/dislikeable
 
-Mandarin 討厭 tǎoyàn /tʰɑʊ̯jɛn/
+Mandarin 討厭 tǎoyàn undefined
 
 *Sino-Tibetan Language Family*

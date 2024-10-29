@@ -16,6 +16,6 @@ hoverText: ethnic § Adjective
 
 **Modifier**: ethnic/racial
 
-Persian نِژادی nežâdi [ni.ʒɔ.d̪i]
+Persian نِژادی nežâdi undefined
 
 *Indo-Iranian Language Family*

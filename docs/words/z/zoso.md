@@ -16,6 +16,6 @@ hoverText: shelf § Noun
 
 **Modifier**: shelf-related
 
-Uyghur جازا jaza /d͡ʒɑzɑ/
+Uyghur جازا jaza undefined
 
 *Turkic Language Family*

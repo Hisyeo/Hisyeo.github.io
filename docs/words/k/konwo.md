@@ -16,6 +16,6 @@ hoverText: rhythm/beat § Adjective
 
 **Modifier**: rhythm/beat-related
 
-Khmer ចង្វាក់ cɑngvak /cɑŋ.ˈʋaʔ/
+Khmer ចង្វាក់ cɑngvak undefined
 
 *Austro-Asiatic Language Family*

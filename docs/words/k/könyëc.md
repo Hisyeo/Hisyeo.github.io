@@ -16,6 +16,6 @@ hoverText: ending § Adjective
 
 **Modifier**: ending
 
-Slovak koniec [ˈkoɲi̯et͡s]
+Slovak koniec undefined
 
 *Balto-Slavic Language Family*

@@ -16,6 +16,6 @@ hoverText: to adjudge (judgement) § Verb
 
 **Modifier**: judgeable/condemnable
 
-Thai ตุลาการ dtù-laa-gaan /tu˨˩.laː˧.kaːn˧/
+Thai ตุลาการ dtù-laa-gaan undefined
 
 *Kra-Dai Language Family*

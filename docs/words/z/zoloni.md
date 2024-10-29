@@ -16,6 +16,6 @@ hoverText: fuel § Noun
 
 **Modifier**: fuel-related
 
-Bengali জ্বালানি jalani [ˈd͡ʒalani]
+Bengali জ্বালানি jalani undefined
 
 *Indo-Iranian Language Family*

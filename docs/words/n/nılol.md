@@ -16,6 +16,6 @@ hoverText: shadow § Noun
 
 **Modifier**: shadow-related
 
-Tamil நிழல் niḻal /n̪ɪɻɐl/
+Tamil நிழல் niḻal undefined
 
 *Dravidian Language Family*

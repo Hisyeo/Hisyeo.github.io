@@ -16,6 +16,6 @@ hoverText: arriving § Adjective
 
 **Modifier**: arriving/reaching
 
-Dhuluo gik /gik/
+Dhuluo gik undefined
 
 *Nilo-Saharan Language Family*

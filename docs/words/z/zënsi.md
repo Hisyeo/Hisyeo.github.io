@@ -16,6 +16,6 @@ hoverText: sexual § Adjective
 
 **Modifier**: sexual
 
-Persian جنسی jensi [d͡ʒen.síː]
+Persian جنسی jensi undefined
 
 *Afroasiatic Language Family*
