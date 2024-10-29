@@ -1,5 +1,5 @@
 ---
-slug: ipüwë-duwöni
+slug: ibüwë-duwöni
 title: İpüwë ün Duwöni
 authors: [govuliel]
 tags: [hiskünzo]
@@ -15,13 +15,13 @@ beaches in Hisyëö. I debated also adding a word for gravel but I came up with
 this set of terms which I think is fine. Gravel didn't feel nearly as useful in
 describing other things as sand did.
 
-- **Boulder**: ipüwë cënpö
-- **Cobble**: ipüwë cüti
-- **Very course gravel**: pölvëlë ipüwë yë gemolen yë kocko ëto
-- **Coarse gravel**: pölvëlë ipüwë yë gemolen kocko
-- **Medium gravel**: pölvëlë ipüwë yë gemolen yë kocko mutyu
-- **Fine gravel**: pölvëlë ipüwë yë gemolen lis 
-- **Very fine gravel**: pölvëlë ipüwë yë gemolen yë lis ëto
+- **Boulder**: ibüwë cënpö
+- **Cobble**: ibüwë cüti
+- **Very course gravel**: pölvëlë ibüwë yë gemolen yë kocko ëto
+- **Coarse gravel**: pölvëlë ibüwë yë gemolen kocko
+- **Medium gravel**: pölvëlë ibüwë yë gemolen yë kocko mutyu
+- **Fine gravel**: pölvëlë ibüwë yë gemolen lis 
+- **Very fine gravel**: pölvëlë ibüwë yë gemolen yë lis ëto
 - **Coarse sand**: duwöni yë gemolen kocko
 - **Medium sand**: duwöni yë gemolen mutyu
 - **Fine sand**: duwöni yë gemolen lis
