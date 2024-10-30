@@ -32,7 +32,7 @@ import HisyeoText from '../HisyeoText'
  */
 export default function HisyeoTabs(props) {
   return (
-    <Tabs groupId="popöun-kon-cukto" queryString>
+    <Tabs groupId="boböun-kon-cukto" queryString>
         <TabItem value="latin" label="Latin" default>
         { Children.map(props.children, (child, index) => (
           <HisyeoText key={`latin-${index}`} kind='latin'>

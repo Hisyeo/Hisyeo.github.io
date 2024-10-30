@@ -11,4 +11,4 @@ toswil yë döcui nulun Dokyüsölus ü öfo:
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
-pioli!
+bioli!

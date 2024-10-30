@@ -51,7 +51,7 @@ function useTabQueryString({
 export default function HisyeoWord({is}) {
   const [queryString, _] = useTabQueryString({
     queryString: true,
-    groupId: "popöun-kon-cukto",
+    groupId: "boböun-kon-cukto",
   })
   if (words[is] != undefined) { 
     if (queryString == "opügido") { return (
