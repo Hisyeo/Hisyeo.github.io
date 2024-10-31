@@ -2,7 +2,7 @@
 id: sokofü
 slug: sokofü
 title: SOKOFÜ
-sidebar_position: 360
+sidebar_position: 362
 hoverText: floor § Noun
 ---
 

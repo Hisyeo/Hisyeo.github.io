@@ -2,7 +2,7 @@
 id: künhiun
 slug: künhiun
 title: KÜNHİUN
-sidebar_position: 220
+sidebar_position: 221
 hoverText: step/pace § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: këskin
 slug: këskin
 title: KËSKİN
-sidebar_position: 189
+sidebar_position: 190
 hoverText: sharp § Adjective
 ---
 

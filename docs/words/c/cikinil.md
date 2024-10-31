@@ -2,7 +2,7 @@
 id: cikinil
 slug: cikinil
 title: CİKİNİL
-sidebar_position: 335
+sidebar_position: 337
 hoverText: ear § Noun
 ---
 

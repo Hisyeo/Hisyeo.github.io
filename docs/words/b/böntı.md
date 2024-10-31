@@ -2,7 +2,7 @@
 id: böntı
 slug: böntı
 title: BÖNTI
-sidebar_position: 558
+sidebar_position: 559
 hoverText: bridge § Noun
 ---
 

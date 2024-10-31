@@ -2,7 +2,7 @@
 id: gonzil
 slug: gonzil
 title: GONZİL
-sidebar_position: 232
+sidebar_position: 233
 hoverText: strange § Adjective
 ---
 

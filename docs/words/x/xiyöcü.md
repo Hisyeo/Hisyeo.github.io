@@ -2,7 +2,7 @@
 id: xiyöcü
 slug: xiyöcü
 title: XİYÖCÜ
-sidebar_position: 450
+sidebar_position: 452
 hoverText: occupied/engaged/busy § Adjective
 ---
 

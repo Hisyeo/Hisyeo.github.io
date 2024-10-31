@@ -2,7 +2,7 @@
 id: but
 slug: but
 title: BUT
-sidebar_position: 588
+sidebar_position: 589
 hoverText: open § Adjective
 ---
 

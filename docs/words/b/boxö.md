@@ -2,7 +2,7 @@
 id: boxö
 slug: boxö
 title: BOXÖ
-sidebar_position: 542
+sidebar_position: 544
 hoverText: place § Noun
 ---
 

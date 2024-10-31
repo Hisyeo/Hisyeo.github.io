@@ -2,7 +2,7 @@
 id: künbi
 slug: künbi
 title: KÜNBİ
-sidebar_position: 223
+sidebar_position: 224
 hoverText: scene/stage § Noun
 ---
 

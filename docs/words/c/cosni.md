@@ -2,7 +2,7 @@
 id: cosni
 slug: cosni
 title: COSNİ
-sidebar_position: 306
+sidebar_position: 308
 hoverText: private/confidential § Adjective
 ---
 

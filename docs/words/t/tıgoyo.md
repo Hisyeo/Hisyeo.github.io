@@ -2,7 +2,7 @@
 id: tıgoyo
 slug: tıgoyo
 title: TIGOYO
-sidebar_position: 284
+sidebar_position: 286
 hoverText: supine § Adjective
 ---
 

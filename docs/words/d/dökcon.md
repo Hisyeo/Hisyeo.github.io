@@ -2,7 +2,7 @@
 id: dökcon
 slug: dökcon
 title: DÖKCON
-sidebar_position: 466
+sidebar_position: 468
 hoverText: decent § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: zoston
 slug: zoston
 title: ZOSTON
-sidebar_position: 500
+sidebar_position: 502
 hoverText: jump § Noun
 ---
 

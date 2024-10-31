@@ -2,7 +2,7 @@
 id: toliko
 slug: toliko
 title: TOLİKO
-sidebar_position: 274
+sidebar_position: 275
 hoverText: method § Noun
 ---
 

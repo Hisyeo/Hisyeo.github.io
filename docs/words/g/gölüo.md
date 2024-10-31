@@ -2,7 +2,7 @@
 id: gölüo
 slug: gölüo
 title: GÖLÜO
-sidebar_position: 242
+sidebar_position: 243
 hoverText: melted § Adjective
 ---
 

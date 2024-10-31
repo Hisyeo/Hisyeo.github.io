@@ -2,7 +2,7 @@
 id: buswëlın
 slug: buswëlın
 title: BUSWËLIN
-sidebar_position: 591
+sidebar_position: 592
 hoverText: oath/incantation § Noun
 ---
 

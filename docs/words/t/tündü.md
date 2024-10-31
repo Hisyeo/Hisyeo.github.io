@@ -2,7 +2,7 @@
 id: tündü
 slug: tündü
 title: TÜNDÜ
-sidebar_position: 300
+sidebar_position: 302
 hoverText: bottom § Noun
 ---
 

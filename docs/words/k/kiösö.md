@@ -2,7 +2,7 @@
 id: kiösö
 slug: kiösö
 title: KİÖSÖ
-sidebar_position: 194
+sidebar_position: 195
 hoverText: athletic § Adjective
 ---
 

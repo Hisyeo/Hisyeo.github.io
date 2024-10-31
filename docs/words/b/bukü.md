@@ -2,7 +2,7 @@
 id: bukü
 slug: bukü
 title: BUKÜ
-sidebar_position: 587
+sidebar_position: 588
 hoverText: frozen § Adjective
 ---
 

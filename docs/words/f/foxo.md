@@ -2,7 +2,7 @@
 id: foxo
 slug: foxo
 title: FOXO
-sidebar_position: 611
+sidebar_position: 612
 hoverText: mirative sentence ender (wow!) § Postposition
 ---
 

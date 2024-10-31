@@ -2,7 +2,7 @@
 id: boholon
 slug: boholon
 title: BOHOLON
-sidebar_position: 537
+sidebar_position: 539
 hoverText: closet/cupboard/cabinet § Noun
 ---
 

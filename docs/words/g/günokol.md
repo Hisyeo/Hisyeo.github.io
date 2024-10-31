@@ -2,7 +2,7 @@
 id: günokol
 slug: günokol
 title: GÜNOKOL
-sidebar_position: 261
+sidebar_position: 262
 hoverText: criminal § Adjective
 ---
 

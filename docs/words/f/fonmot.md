@@ -2,7 +2,7 @@
 id: fonmot
 slug: fonmot
 title: FONMOT
-sidebar_position: 614
+sidebar_position: 615
 hoverText: absent/nonexistent § Adjective
 ---
 

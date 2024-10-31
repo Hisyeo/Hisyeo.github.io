@@ -2,7 +2,7 @@
 id: süwit
 slug: süwit
 title: SÜWİT
-sidebar_position: 417
+sidebar_position: 419
 hoverText: sweet § Adjective
 ---
 

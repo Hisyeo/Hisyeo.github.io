@@ -2,7 +2,7 @@
 id: belëxu
 slug: belëxu
 title: BELËXU
-sidebar_position: 562
+sidebar_position: 563
 hoverText: to mark (a target) § Verb
 ---
 

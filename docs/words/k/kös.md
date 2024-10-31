@@ -1,12 +1,12 @@
 ---
-id: bön
-slug: bön
-title: BÖN
-sidebar_position: 557
+id: kös
+slug: kös
+title: KÖS
+sidebar_position: 175
 hoverText: to cause (an effect) § Verb
 ---
 
-### bön&emsp;<span kind="abugida">ʋ̃ı</span>
+### kös&emsp;<span kind="abugida">ʋ̃ı</span>
 
 *to cause (an effect)* **§** Verb
 
@@ -16,6 +16,6 @@ hoverText: to cause (an effect) § Verb
 
 **Modifier**: casuable/producable
 
-Thai ผล pǒn undefined
+French cause undefined
 
-*Kra-Dai Language Family*
+*Romance Language Family*

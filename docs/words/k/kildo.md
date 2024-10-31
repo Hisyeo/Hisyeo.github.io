@@ -2,7 +2,7 @@
 id: kildo
 slug: kildo
 title: KİLDO
-sidebar_position: 204
+sidebar_position: 205
 hoverText: long § Adjective
 ---
 

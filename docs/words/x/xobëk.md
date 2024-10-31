@@ -2,7 +2,7 @@
 id: xobëk
 slug: xobëk
 title: XOBËK
-sidebar_position: 423
+sidebar_position: 425
 hoverText: previous § Adjective
 ---
 

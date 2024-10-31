@@ -1,12 +1,12 @@
 ---
-id: fio
-slug: fio
-title: FİO
-sidebar_position: 630
+id: tö
+slug: tö
+title: TÖ
+sidebar_position: 277
 hoverText: instrument/manner marker (using/with) § Preposition
 ---
 
-### fio&emsp;<span kind="abugida">ɤɟɽ</span>
+### tö&emsp;<span kind="abugida">ɤɟɽ</span>
 
 *instrument/manner marker (using/with)* **§** Preposition
 
@@ -16,6 +16,6 @@ hoverText: instrument/manner marker (using/with) § Preposition
 
 **Modifier**: -
 
-Latin via undefined
+Telugu తో tō undefined
 
-*Romance Language Family*
+*Dravidian Language Family*

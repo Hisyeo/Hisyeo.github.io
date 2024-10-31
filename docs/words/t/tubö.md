@@ -2,7 +2,7 @@
 id: tubö
 slug: tubö
 title: TUBÖ
-sidebar_position: 293
+sidebar_position: 295
 hoverText: spot/scar § Noun
 ---
 

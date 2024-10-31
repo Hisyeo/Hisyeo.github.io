@@ -2,7 +2,7 @@
 id: cibon
 slug: cibon
 title: CİBON
-sidebar_position: 338
+sidebar_position: 340
 hoverText: fat/grease § Noun
 ---
 

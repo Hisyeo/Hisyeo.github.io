@@ -2,7 +2,7 @@
 id: binë
 slug: binë
 title: BİNË
-sidebar_position: 583
+sidebar_position: 584
 hoverText: then § Conjunction
 ---
 

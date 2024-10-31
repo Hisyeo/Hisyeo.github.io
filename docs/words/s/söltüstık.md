@@ -2,7 +2,7 @@
 id: söltüstık
 slug: söltüstık
 title: SÖLTÜSTIK
-sidebar_position: 382
+sidebar_position: 384
 hoverText: northern § Adjective
 ---
 

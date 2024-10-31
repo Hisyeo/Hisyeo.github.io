@@ -2,7 +2,7 @@
 id: böklön
 slug: böklön
 title: BÖKLÖN
-sidebar_position: 555
+sidebar_position: 557
 hoverText: to govern (the governed) § Verb
 ---
 

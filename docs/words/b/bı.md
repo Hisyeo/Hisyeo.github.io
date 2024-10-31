@@ -2,7 +2,7 @@
 id: bı
 slug: bı
 title: BI
-sidebar_position: 570
+sidebar_position: 571
 hoverText: manner/material marker § Preposition
 ---
 

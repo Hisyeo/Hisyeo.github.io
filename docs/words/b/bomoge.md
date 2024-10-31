@@ -2,7 +2,7 @@
 id: bomoge
 slug: bomoge
 title: BOMOGE
-sidebar_position: 545
+sidebar_position: 547
 hoverText: prone § Adjective
 ---
 

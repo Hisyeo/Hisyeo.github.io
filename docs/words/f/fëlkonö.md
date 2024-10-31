@@ -2,7 +2,7 @@
 id: fëlkonö
 slug: fëlkonö
 title: FËLKONÖ
-sidebar_position: 623
+sidebar_position: 624
 hoverText: close § Adjective
 ---
 

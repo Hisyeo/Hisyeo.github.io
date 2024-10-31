@@ -2,7 +2,7 @@
 id: sonkon
 slug: sonkon
 title: SONKON
-sidebar_position: 372
+sidebar_position: 374
 hoverText: important § Adjective
 ---
 

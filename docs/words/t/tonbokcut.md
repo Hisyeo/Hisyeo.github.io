@@ -2,7 +2,7 @@
 id: tonbokcut
 slug: tonbokcut
 title: TONBOKCUT
-sidebar_position: 270
+sidebar_position: 271
 hoverText: protein § Noun
 ---
 

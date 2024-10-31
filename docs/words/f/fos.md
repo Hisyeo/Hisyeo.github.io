@@ -2,7 +2,7 @@
 id: fos
 slug: fos
 title: FOS
-sidebar_position: 610
+sidebar_position: 611
 hoverText: free subordinate clause particle § Particle
 ---
 
