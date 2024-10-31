@@ -2,7 +2,7 @@
 id: bön
 slug: bön
 title: BÖN
-sidebar_position: 556
+sidebar_position: 557
 hoverText: to cause (an effect) § Verb
 ---
 

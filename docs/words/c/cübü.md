@@ -16,6 +16,6 @@ hoverText: fermented/soured § Adjective
 
 **Modifier**: fermented/soured
 
-Tibetan སྐྱུར་མོ skyur mo undefined
+Batang Tibetan སྐྱུར་མོ skyur mo undefined
 
 *Sino-Tibetan Language Family*
