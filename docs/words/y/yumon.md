@@ -2,7 +2,7 @@
 id: yumon
 slug: yumon
 title: YUMON
-sidebar_position: 844
+sidebar_position: 846
 hoverText: brutal § Adjective
 ---
 

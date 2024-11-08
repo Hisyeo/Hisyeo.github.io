@@ -2,13 +2,13 @@
 id: mülü
 slug: mülü
 title: MÜLÜ
-sidebar_position: 704
-hoverText: complete § Adjective
+sidebar_position: 703
+hoverText: full/complete § Adjective
 ---
 
 ### mülü&emsp;<span kind="abugida">ƶʄʓʄ</span>
 
-*complete* **§** Adjective
+*full/complete* **§** Adjective
 
 **Verb**: to be full/complete
 

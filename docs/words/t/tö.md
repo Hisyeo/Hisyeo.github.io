@@ -6,7 +6,7 @@ sidebar_position: 277
 hoverText: instrument/manner marker (using/with) § Preposition
 ---
 
-### tö&emsp;<span kind="abugida">ɤɟɽ</span>
+### tö&emsp;<span kind="abugida">cı</span>
 
 *instrument/manner marker (using/with)* **§** Preposition
 

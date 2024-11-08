@@ -1,12 +1,12 @@
 ---
-id: fixës
-slug: fixës
-title: FİXËS
-sidebar_position: 634
+id: wixës
+slug: wixës
+title: WİXËS
+sidebar_position: 774
 hoverText: special/unique § Adjective
 ---
 
-### fixës&emsp;<span kind="abugida">ɤɟɋ́ʇ</span>
+### wixës&emsp;<span kind="abugida">ʒɟɋ́ʇ</span>
 
 *special/unique* **§** Adjective
 

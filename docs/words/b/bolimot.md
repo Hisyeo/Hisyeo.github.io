@@ -3,12 +3,12 @@ id: bolimot
 slug: bolimot
 title: BOLİMOT
 sidebar_position: 551
-hoverText: voluminous § Adjective
+hoverText: voluminous/spacious § Adjective
 ---
 
 ### bolimot&emsp;<span kind="abugida">ʋʓɟƶ̆</span>
 
-*voluminous* **§** Adjective
+*voluminous/spacious* **§** Adjective
 
 **Verb**: to be voluminous
 

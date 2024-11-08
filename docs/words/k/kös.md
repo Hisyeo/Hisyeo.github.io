@@ -6,7 +6,7 @@ sidebar_position: 175
 hoverText: to cause (an effect) § Verb
 ---
 
-### kös&emsp;<span kind="abugida">ʋ̃ı</span>
+### kös&emsp;<span kind="abugida">ɔ́ı</span>
 
 *to cause (an effect)* **§** Verb
 

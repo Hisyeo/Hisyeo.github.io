@@ -6,7 +6,7 @@ sidebar_position: 552
 hoverText: foreign § Adjective
 ---
 
-### bolutë&emsp;<span kind="abugida">ʋıʓʃcʇ</span>
+### bolutë&emsp;<span kind="abugida">ʋʓʃcʇ</span>
 
 *foreign* **§** Adjective
 

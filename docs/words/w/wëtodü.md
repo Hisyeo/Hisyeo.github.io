@@ -2,7 +2,7 @@
 id: wëtodü
 slug: wëtodü
 title: WËTODÜ
-sidebar_position: 767
+sidebar_position: 766
 hoverText: to hunt/chase (prey/chasee) § Verb
 ---
 

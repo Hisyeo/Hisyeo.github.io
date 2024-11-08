@@ -1,12 +1,12 @@
 ---
-id: öcöto
-slug: öcöto
-title: ÖCÖTO
+id: ötsöto
+slug: ötsöto
+title: ÖTSÖTO
 sidebar_position: 36
 hoverText: deity § Noun
 ---
 
-### öcöto&emsp;<span kind="abugida">ɽıꞇıc</span>
+### ötsöto&emsp;<span kind="abugida">ɽ̆ıɐıc</span>
 
 *deity* **§** Noun
 

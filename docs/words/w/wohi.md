@@ -2,7 +2,7 @@
 id: wohi
 slug: wohi
 title: WOHİ
-sidebar_position: 751
+sidebar_position: 750
 hoverText: female § Adjective
 ---
 

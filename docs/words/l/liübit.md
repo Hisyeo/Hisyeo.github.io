@@ -1,12 +1,12 @@
 ---
-id: yübik
-slug: yübik
-title: YÜBİK
-sidebar_position: 847
+id: liübit
+slug: liübit
+title: LİÜBİT
+sidebar_position: 808
 hoverText: to love (the loved) § Verb
 ---
 
-### yübik&emsp;<span kind="abugida">ɀʄʋ̑ɟ</span>
+### liübit&emsp;<span kind="abugida">ʓɟɽʄʋ̆ɟ</span>
 
 *to love (the loved)* **§** Verb
 

@@ -2,7 +2,7 @@
 id: yöüxin
 slug: yöüxin
 title: YÖÜXİN
-sidebar_position: 835
+sidebar_position: 837
 hoverText: parade/procession § Noun
 ---
 

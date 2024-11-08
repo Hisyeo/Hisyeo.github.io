@@ -2,7 +2,7 @@
 id: nıkfül
 slug: nıkfül
 title: NIKFÜL
-sidebar_position: 731
+sidebar_position: 730
 hoverText: ficke/capricious § Adjective
 ---
 

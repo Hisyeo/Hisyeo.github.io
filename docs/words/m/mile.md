@@ -2,11 +2,11 @@
 id: mile
 slug: mile
 title: MİLE
-sidebar_position: 689
+sidebar_position: 688
 hoverText: future § Adjective
 ---
 
-### mile&emsp;<span kind="abugida">ɤ͊ıc̃</span>
+### mile&emsp;<span kind="abugida">ƶɟʓɿ</span>
 
 *future* **§** Adjective
 
