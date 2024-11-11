@@ -2,7 +2,7 @@
 id: bostofis
 slug: bostofis
 title: BOSTOFİS
-sidebar_position: 543
+sidebar_position: 544
 hoverText: representative/delegate § Noun
 ---
 

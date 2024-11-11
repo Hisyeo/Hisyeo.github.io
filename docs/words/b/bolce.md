@@ -2,7 +2,7 @@
 id: bolce
 slug: bolce
 title: BOLCE
-sidebar_position: 553
+sidebar_position: 554
 hoverText: cloth/fabric § Noun
 ---
 

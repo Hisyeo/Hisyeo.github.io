@@ -2,7 +2,7 @@
 id: bökbün
 slug: bökbün
 title: BÖKBÜN
-sidebar_position: 556
+sidebar_position: 557
 hoverText: storm § Noun
 ---
 

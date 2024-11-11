@@ -2,7 +2,7 @@
 id: socok
 slug: socok
 title: SOCOK
-sidebar_position: 364
+sidebar_position: 365
 hoverText: to start (startable entity) § Verb
 ---
 

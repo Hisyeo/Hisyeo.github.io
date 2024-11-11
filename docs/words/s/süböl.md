@@ -2,7 +2,7 @@
 id: süböl
 slug: süböl
 title: SÜBÖL
-sidebar_position: 415
+sidebar_position: 416
 hoverText: fertile/productive § Adjective
 ---
 

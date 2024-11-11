@@ -2,7 +2,7 @@
 id: büdikö
 slug: büdikö
 title: BÜDİKÖ
-sidebar_position: 602
+sidebar_position: 603
 hoverText: modest/chaste § Adjective
 ---
 

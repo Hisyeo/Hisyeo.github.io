@@ -2,7 +2,7 @@
 id: sëlbö
 slug: sëlbö
 title: SËLBÖ
-sidebar_position: 393
+sidebar_position: 394
 hoverText: yellow § Adjective
 ---
 

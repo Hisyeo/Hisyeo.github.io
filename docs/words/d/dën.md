@@ -2,7 +2,7 @@
 id: dën
 slug: dën
 title: DËN
-sidebar_position: 477
+sidebar_position: 478
 hoverText: counter-agent marker (against) § Preposition
 ---
 

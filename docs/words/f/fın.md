@@ -2,7 +2,7 @@
 id: fın
 slug: fın
 title: FIN
-sidebar_position: 628
+sidebar_position: 629
 hoverText: thing § Noun
 ---
 

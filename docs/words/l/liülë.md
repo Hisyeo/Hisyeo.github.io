@@ -2,7 +2,7 @@
 id: liülë
 slug: liülë
 title: LİÜLË
-sidebar_position: 809
+sidebar_position: 810
 hoverText: laughing § Adjective
 ---
 

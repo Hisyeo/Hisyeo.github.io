@@ -2,7 +2,7 @@
 id: buswen
 slug: buswen
 title: BUSWEN
-sidebar_position: 591
+sidebar_position: 592
 hoverText: to need (a requirement) § Verb
 ---
 

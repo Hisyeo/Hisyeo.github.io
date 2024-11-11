@@ -2,7 +2,7 @@
 id: fölni
 slug: fölni
 title: FÖLNİ
-sidebar_position: 621
+sidebar_position: 622
 hoverText: free § Adjective
 ---
 

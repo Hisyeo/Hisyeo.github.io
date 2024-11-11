@@ -2,7 +2,7 @@
 id: bësu
 slug: bësu
 title: BËSU
-sidebar_position: 567
+sidebar_position: 568
 hoverText: different § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: mokon
 slug: mokon
 title: MOKON
-sidebar_position: 648
+sidebar_position: 649
 hoverText: to eat (food) § Verb
 ---
 

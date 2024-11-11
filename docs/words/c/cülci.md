@@ -2,7 +2,7 @@
 id: cülci
 slug: cülci
 title: CÜLCİ
-sidebar_position: 360
+sidebar_position: 361
 hoverText: trick/scam § Noun
 ---
 

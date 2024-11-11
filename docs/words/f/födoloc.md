@@ -2,7 +2,7 @@
 id: födoloc
 slug: födoloc
 title: FÖDOLOC
-sidebar_position: 619
+sidebar_position: 620
 hoverText: algae/moss § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: bököfoc
 slug: bököfoc
 title: BÖKÖFOC
-sidebar_position: 555
+sidebar_position: 556
 hoverText: to block (the blocked) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: büsın
 slug: büsın
 title: BÜSIN
-sidebar_position: 599
+sidebar_position: 600
 hoverText: dizzy § Adjective
 ---
 

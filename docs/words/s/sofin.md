@@ -2,7 +2,7 @@
 id: sofin
 slug: sofin
 title: SOFİN
-sidebar_position: 371
+sidebar_position: 372
 hoverText: pure § Adjective
 ---
 

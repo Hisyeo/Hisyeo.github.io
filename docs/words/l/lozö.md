@@ -2,7 +2,7 @@
 id: lozö
 slug: lozö
 title: LOZÖ
-sidebar_position: 786
+sidebar_position: 787
 hoverText: ray/beam § Noun
 ---
 

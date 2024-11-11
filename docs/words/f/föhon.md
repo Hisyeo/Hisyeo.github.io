@@ -2,7 +2,7 @@
 id: föhon
 slug: föhon
 title: FÖHON
-sidebar_position: 617
+sidebar_position: 618
 hoverText: front/forward § Noun
 ---
 

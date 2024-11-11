@@ -2,7 +2,7 @@
 id: biömu
 slug: biömu
 title: BİÖMU
-sidebar_position: 577
+sidebar_position: 578
 hoverText: biome § Noun
 ---
 

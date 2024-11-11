@@ -2,7 +2,7 @@
 id: sobıs
 slug: sobıs
 title: SOBIS
-sidebar_position: 369
+sidebar_position: 370
 hoverText: to record (data/a recording) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: bilüs
 slug: bilüs
 title: BİLÜS
-sidebar_position: 587
+sidebar_position: 588
 hoverText: victorious § Adjective
 ---
 

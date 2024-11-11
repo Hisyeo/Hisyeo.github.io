@@ -2,7 +2,7 @@
 id: menekxe
 slug: menekxe
 title: MENEKXE
-sidebar_position: 672
+sidebar_position: 673
 hoverText: violet § Adjective
 ---
 
