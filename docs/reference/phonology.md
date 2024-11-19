@@ -102,21 +102,21 @@ etc.) are either one-, two- or three-syllables long. There are no minimal pairs
 that contrast using any “conflicting phonemes”.
 
 ### Consonant Conflicts
-- /p/ with /v/ and /t/
+- /b/ with /f/ and /d/
 - /k/ with /h/ and /g/
 - /g/ with /h/, /k/, and /d/
-- /t/ with /d/, / t͡ɕ/, /s/, /n/, and /p/
+- /t/ with /d/, / t͡ɕ/, /s/, and /n/
 - / t͡ɕ/ with /d͡ʒ/, /t/
-- /d/ with /t/, /g/, and /d͡ʒ/
+- /d/ with /t/, /g/, /d͡ʒ/, and /b/
 - /d͡ʒ/ with / t͡ɕ/ and /d/
-- /s/ with /v/, / t͡ɕ/, and /t/
-- /x/ with /s/ and /v/, and / t͡ɕ/
-- /v/ with /s/, /x/, /p/, and /w/
+- /s/ with /f/, / t͡ɕ/, and /t/
+- /x/ with /s/ and /f/, and / t͡ɕ/
+- /f/ with /s/, /x/, /b/, and /w/
 - /h/ with Ø, /k/, and /g/
 - /m/ with /n/
 - /n/ with /m/
 - Ø (null onset) with /h/, /k/, and /g/
-- /w/ with Ø, /v/, and /l/
+- /w/ with Ø, /f/, and /l/
 - /l/ with /j/ and /w/
 - /j/ with Ø and /l/
 
