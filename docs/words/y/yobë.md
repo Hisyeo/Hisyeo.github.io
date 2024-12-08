@@ -2,7 +2,7 @@
 id: yobë
 slug: yobë
 title: YOBË
-sidebar_position: 835
+sidebar_position: 836
 hoverText: artificial § Adjective
 ---
 

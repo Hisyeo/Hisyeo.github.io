@@ -2,7 +2,7 @@
 id: fıyüxit
 slug: fıyüxit
 title: FIYÜXİT
-sidebar_position: 631
+sidebar_position: 632
 hoverText: to employ (the employed) § Verb
 ---
 

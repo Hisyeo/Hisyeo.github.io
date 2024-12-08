@@ -2,7 +2,7 @@
 id: hokiki
 slug: hokiki
 title: HOKİKİ
-sidebar_position: 117
+sidebar_position: 118
 hoverText: authentic § Adjective
 ---
 

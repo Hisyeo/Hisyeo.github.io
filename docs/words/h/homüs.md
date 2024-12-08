@@ -2,7 +2,7 @@
 id: homüs
 slug: homüs
 title: HOMÜS
-sidebar_position: 124
+sidebar_position: 125
 hoverText: quiet § Adjective
 ---
 

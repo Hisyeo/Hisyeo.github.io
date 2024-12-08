@@ -2,7 +2,7 @@
 id: hobiyö
 slug: hobiyö
 title: HOBİYÖ
-sidebar_position: 122
+sidebar_position: 123
 hoverText: to announce (an announcement) § Verb
 ---
 

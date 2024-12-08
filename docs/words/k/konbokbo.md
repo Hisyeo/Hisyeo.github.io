@@ -2,7 +2,7 @@
 id: konbokbo
 slug: konbokbo
 title: KONBOKBO
-sidebar_position: 167
+sidebar_position: 168
 hoverText: general/universal § Adjective
 ---
 

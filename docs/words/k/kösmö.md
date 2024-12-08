@@ -2,7 +2,7 @@
 id: kösmö
 slug: kösmö
 title: KÖSMÖ
-sidebar_position: 177
+sidebar_position: 178
 hoverText: space/cosmos § Noun
 ---
 

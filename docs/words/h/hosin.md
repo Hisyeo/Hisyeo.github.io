@@ -2,7 +2,7 @@
 id: hosin
 slug: hosin
 title: HOSİN
-sidebar_position: 120
+sidebar_position: 121
 hoverText: beautiful § Adjective
 ---
 

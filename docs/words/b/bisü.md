@@ -1,12 +1,12 @@
 ---
-id: tünci
-slug: tünci
-title: TÜNCİ
-sidebar_position: 301
+id: bisü
+slug: bisü
+title: BİSÜ
+sidebar_position: 584
 hoverText: nonbinary/queer § Adjective
 ---
 
-### tünci&emsp;<span kind="abugida">c̃ʄꞇɟ</span>
+### bisü&emsp;<span kind="abugida">ʋɟɐʄ</span>
 
 *nonbinary/queer* **§** Adjective
 
@@ -16,6 +16,6 @@ hoverText: nonbinary/queer § Adjective
 
 **Modifier**: nonbinary/queer
 
-Cantonese 同志 tung zi undefined
+Buginese ᨅᨗᨔᨘ bissu undefined
 
-*Sino-Tibetan Language Family*
+*Austronesian Language Family*

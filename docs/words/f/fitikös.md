@@ -2,7 +2,7 @@
 id: fitikös
 slug: fitikös
 title: FİTİKÖS
-sidebar_position: 633
+sidebar_position: 634
 hoverText: western § Adjective
 ---
 

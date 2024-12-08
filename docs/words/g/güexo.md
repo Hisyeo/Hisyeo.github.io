@@ -2,7 +2,7 @@
 id: güexo
 slug: güexo
 title: GÜEXO
-sidebar_position: 255
+sidebar_position: 256
 hoverText: war § Noun
 ---
 

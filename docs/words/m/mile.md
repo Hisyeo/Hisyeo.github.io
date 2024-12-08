@@ -2,7 +2,7 @@
 id: mile
 slug: mile
 title: MİLE
-sidebar_position: 689
+sidebar_position: 690
 hoverText: future § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: fonxin
 slug: fonxin
 title: FONXİN
-sidebar_position: 615
+sidebar_position: 616
 hoverText: square/rectangle § Noun
 ---
 

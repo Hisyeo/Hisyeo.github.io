@@ -2,7 +2,7 @@
 id: funlit
 slug: funlit
 title: FUNLİT
-sidebar_position: 641
+sidebar_position: 642
 hoverText: split § Adjective
 ---
 

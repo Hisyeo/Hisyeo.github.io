@@ -2,7 +2,7 @@
 id: ülkëfi
 slug: ülkëfi
 title: ÜLKËFİ
-sidebar_position: 111
+sidebar_position: 112
 hoverText: adamant/stubborn § Adjective
 ---
 

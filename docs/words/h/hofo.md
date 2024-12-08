@@ -2,7 +2,7 @@
 id: hofo
 slug: hofo
 title: HOFO
-sidebar_position: 123
+sidebar_position: 124
 hoverText: to plead (a plea) § Verb
 ---
 

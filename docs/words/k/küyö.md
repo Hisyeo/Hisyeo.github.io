@@ -2,7 +2,7 @@
 id: küyö
 slug: küyö
 title: KÜYÖ
-sidebar_position: 227
+sidebar_position: 228
 hoverText: sad § Adjective
 ---
 

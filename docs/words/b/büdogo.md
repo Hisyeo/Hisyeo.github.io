@@ -2,7 +2,7 @@
 id: büdogo
 slug: büdogo
 title: BÜDOGO
-sidebar_position: 602
+sidebar_position: 603
 hoverText: bubble § Noun
 ---
 

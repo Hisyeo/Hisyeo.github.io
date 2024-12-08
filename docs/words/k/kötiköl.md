@@ -2,7 +2,7 @@
 id: kötiköl
 slug: kötiköl
 title: KÖTİKÖL
-sidebar_position: 173
+sidebar_position: 174
 hoverText: hindering/detrimental § Adjective
 ---
 

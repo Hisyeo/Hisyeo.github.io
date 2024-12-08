@@ -2,7 +2,7 @@
 id: fögicin
 slug: fögicin
 title: FÖGİCİN
-sidebar_position: 619
+sidebar_position: 620
 hoverText: curious/inquisitive § Adjective
 ---
 

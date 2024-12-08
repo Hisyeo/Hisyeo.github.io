@@ -2,7 +2,7 @@
 id: hüwuncul
 slug: hüwuncul
 title: HÜWUNCUL
-sidebar_position: 157
+sidebar_position: 158
 hoverText: plastic § Noun
 ---
 

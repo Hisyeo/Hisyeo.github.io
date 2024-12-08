@@ -2,7 +2,7 @@
 id: gosil
 slug: gosil
 title: GOSİL
-sidebar_position: 229
+sidebar_position: 230
 hoverText: short § Adjective
 ---
 

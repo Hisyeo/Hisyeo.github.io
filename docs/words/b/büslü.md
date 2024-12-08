@@ -2,7 +2,7 @@
 id: büslü
 slug: büslü
 title: BÜSLÜ
-sidebar_position: 601
+sidebar_position: 602
 hoverText: translucent § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: listo
 slug: listo
 title: LİSTO
-sidebar_position: 815
+sidebar_position: 816
 hoverText: strip/band § Noun
 ---
 

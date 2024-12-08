@@ -2,7 +2,7 @@
 id: foko
 slug: foko
 title: FOKO
-sidebar_position: 611
+sidebar_position: 612
 hoverText: causative agentive verb noun particle § Particle
 ---
 

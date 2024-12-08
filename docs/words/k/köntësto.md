@@ -2,7 +2,7 @@
 id: köntësto
 slug: köntësto
 title: KÖNTËSTO
-sidebar_position: 182
+sidebar_position: 183
 hoverText: to contend with (a contestant) § Verb
 ---
 

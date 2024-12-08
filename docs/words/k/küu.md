@@ -2,7 +2,7 @@
 id: küu
 slug: küu
 title: KÜU
-sidebar_position: 215
+sidebar_position: 216
 hoverText: deontic verb particle § Particle
 ---
 

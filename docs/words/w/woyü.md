@@ -2,7 +2,7 @@
 id: woyü
 slug: woyü
 title: WOYÜ
-sidebar_position: 760
+sidebar_position: 761
 hoverText: air/wind § Noun
 ---
 
