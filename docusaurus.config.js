@@ -9,17 +9,10 @@ const config = {
   title: 'Hisyëö',
   tagline: 'A world language & community',
   favicon: 'img/hisyeo.ico',
-
-  // Set the production url of your site here
   url: 'https://hisyeo.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Hisyeo', // Usually your GitHub org/user name.
-  projectName: 'Hisyeo.github.io', // Usually your repo name.
+  organizationName: 'Hisyeo',
+  projectName: 'Hisyeo.github.io',
 
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
@@ -38,7 +31,8 @@ const config = {
       termsUrl: "/docs/words",
       glossaryFilepath: './docs/Glossary.md',
     }],
-    './src/plugins/error_ignorer'
+    'docusaurus-plugin-goatcounter',
+    './src/plugins/error_ignorer',
   ],
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -153,6 +147,9 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      goatcounter: {
+        code: 'hisyeo',
       },
     }),
 };
