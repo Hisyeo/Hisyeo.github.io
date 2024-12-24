@@ -17,7 +17,7 @@ const uc = 'OÖEËIİUÜHKGTCSXDZBFMNLWY'
 export default function HisyeoText({ kind, children: ch }) {
   let word = undefined; return (
     <p>{
-      reactStringReplace(ch, new RegExp(`([${lc}]+|\b[${uc}][${uc}${lc}]*(?: [${uc}][${uc}${lc}]*)*)`,'gi'), (match, i) => {
+      reactStringReplace(ch, new RegExp(`([${lc}]+|[${uc}][${uc}${lc}]*(?: [${uc}][${uc}${lc}]*)*)`,'g'), (match, i) => {
         if (word = words[match]) {
           return (
             <a key={`word-${i}`} data-tooltip-id='hisyeo' data-tooltip-kind={`${kind}`} data-tooltip-content={match}>
