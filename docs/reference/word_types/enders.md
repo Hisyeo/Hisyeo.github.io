@@ -22,6 +22,10 @@ the added non-naturalistic spoken comma has far less utility.
 
 :::
 
+If you feel that you need to use a specific sentence ender for a sub-clause
+only, then you need to break the sentence up in order to use the sentence ender
+for the appropriate segment.
+
 ## Sentence Enders
 
 There are many sentence enders in Hisyëö unlike Kokanu. These allow Hisyëö
@@ -35,6 +39,11 @@ This particle is used for adding emphasis to a statement. In English, we add
 words like "do", "sure", "really" to indicate that the sentence is of greater
 importance to the surrounding explanation or to affirm a predicate as true.
 
+<HisyeoTabs>
+    <p>niün tüu si yoüti foüt löicök.&emsp;<em>"Indeed, he made several mistakes"</em></p>
+    <p>noyo lı xoinbo in dëko ëto mıslı nimü löicök.&emsp;<em>"I do look very similar to you"</em></p>
+    <p>nimü küu lı yoümok löicök.&emsp;<em>"Surely, you must be joking"</em></p>
+</HisyeoTabs>
 
 ### Surprise/Excitement
 
@@ -43,6 +52,12 @@ outcome for the speaker or that the speaker is really interested/excited by it.
 In English, we end our sentences with independent phrases like "wow!" or "cool"
 or we might use an exclamation point to indicate this feeling in certain
 sentences that don't have an explicit spoken word.
+
+<HisyeoTabs>
+    <p>nimü lı si gik foxo.&emsp;<em>"Wow, you made it!"</em></p>
+    <p>niün döstoc wilüwo kon kelo foxo.&emsp;<em>"He scored!"</em></p>
+    <p>niün ke lı zigil foxo.&emsp;<em>"They are going to fall!"</em></p>
+</HisyeoTabs>
 
 ### Tag Questions
 
