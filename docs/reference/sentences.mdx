@@ -2,6 +2,13 @@
 sidebar_position: 2
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import HisyeoTabs from '@site/src/components/HisyeoTabs'
+import HisyeoText from '@site/src/components/HisyeoText'
+import HisyeoWord from '@site/src/components/HisyeoWord'
+import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
+
 # Sentences
 
 The structure of morphemes, phrases and sentence constituents.
@@ -54,23 +61,52 @@ as well.
 Hisyëö has a free constituent order because all sentence parts are marked by a
 preposition. From a topic-comment lens, the order of your sentence puts the
 first provided element as the topic and the rest as successively less important
-comments about the topic. That said, there is one preferred ordering because there
-is one preposition that can be elided (skipped): the %%lı@lı%% realis verb marker.
-This marker precedes the main action of the sentence and specifically an action
-that is definitely occurring or has occurred. Because of this elision rule,
-sentences are often either
-[verb-subject-object](https://en.wikipedia.org/wiki/Verb%E2%80%93subject%E2%80%93object_word_order)
-or
-[verb-object-subject](https://en.wikipedia.org/wiki/Verb%E2%80%93object%E2%80%93subject_word_order).
+comments about the topic. That said, there are three irregularities that reduce
+the freedom slightly. 
+
+#### Irregularity #1: First Constituent Agent Elision
+
+If the first constituent of a sentence is the agent, the marker (HisyeoWord is='ü'/>) can
+be elided (skipped) and the noun phrase provided unmarked. Because of this
+elision rule, sentence structure does lean towards a preference of
+[subject-verb-object](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order).
+
+If the agent's nucleus is a base verb, unfortunately, it must be preceded by the
+marker so that it's clear that you are referring to the noun derivation of that
+verb.
+
+#### Irregularity #2: Verb-Object Syntactic Alignment
+
+Direct objects are always introduced by a verb. There is no way to provide a
+direct object before providing the verb. Additionally, you can't follow a verb
+immediately with another verb phrase (just like you can't immediately follow any
+other thematic relation by another thematic relation).
+
+#### Irregularity #3: Verb-Connector Syntactic Alignment
+
+If a verb is preceded by a connector, it is interpreted as the noun derivation.
+Only when followed by a thematic relation marker does the connector signify a
+new sentence. This means that there's some difficulty when expressing compound
+sentences that hinge on a change in verb but there are ways around it.
+
+<HisyeoTabs>
+    <p>nimü fölun xe tüu kon dodë yodo kon xikö ko.&emsp;<em>"Do you want to go swimming or flying?"</em></p>
+    <p>niün yünyoü mokon yodo iskö ko.&emsp;<em>"Do they have food or drink?"</em></p>
+    <p>mënyüu onö bı öhël bı möcibo kelo kelo köto hoi bıtün mülü. &emsp;<em>"The kids were playing and talking all night."</em></p>
+</HisyeoTabs>
+
 
 ### Phrase Word Order
 
-Within any given phrase there is always one word that is the main contents of that
-noun or verb phrase. This is known as the [nucleus](https://en.wikipedia.org/wiki/Head_(linguistics)) of the phrase.
-In some languages the nucleus is the first word and in other languages the nucleus is the last
-word in a phrase. The nucleus of an action phrase is a verb, the nucleus of a subject
-or semantic phrase is a noun. Hisyëö has a nucleus in the middle of a phrase (it *is* a nucleus, after all).
-Determiners go to the left of the nucleus and modifiers to the right.
+Each constituent has a marker and a phrase (either a verb, adverb or noun).
+Within any given phrase there is always one word that is the main contents of
+that phrase. This is known as the
+[nucleus](https://en.wikipedia.org/wiki/Head_(linguistics)) of the phrase. In
+some languages the nucleus is the first word and in other languages the nucleus
+is the last word in a phrase. The nucleus of an action phrase is a verb, the
+nucleus of a subject or semantic phrase is a noun. Hisyëö has a nucleus in the
+middle of a phrase (it *is* a nucleus, after all). Determiners go to the *left*
+of the nucleus and modifiers to the *right*.
 
 ## Sentence Types
 
@@ -79,10 +115,23 @@ Determiners go to the left of the nucleus and modifiers to the right.
 A simple sentence consists of a single independent clause with no dependent
 clauses.
 
+<HisyeoTabs>
+    <p>niün mokon si yoüti küöxı.&emsp;<em>He ate some fruit.</em></p>
+    <p>ü oütö gisgül onö lı kobüt.&emsp;<em>The bicycle is broken.</em></p>
+    <p>hoi lono mihüon ü noyo cinli si dënëmëk kiösö noyo.&emsp;<em>On Wednesday, I had my athletic exam.</em></p>
+</HisyeoTabs>
+
 ### Compound
 
 A compound sentence consists of multiple independent clauses with no dependent
 clauses. These clauses are joined together using conjunctions.
+
+<HisyeoTabs>
+    <p>niün iskö si yoüti ximu lëkın bı möcibo fölun xe iskö eswen.&emsp;<em>He drank some water but was still thirsty.</em></p>
+    <p>niün lı si gik hoi nıwos niün ün lı si conzodo.&emsp;<em>She got home and went to sleep.</em></p>
+    <p>lı bökbün binë niün wuitsi cızi hoi sokofü sël onö.&emsp;<em>It was storming so he stayed in the basement.</em></p>
+    <p>nü köi lı lö müt gufuyo kon mokon yodo ü nü köi cöüfon hoi nıwos nü.&emsp;<em>We can go to the restuarant or make dinner at home.</em></p>
+</HisyeoTabs>
 
 ### Complex
 
@@ -110,3 +159,5 @@ proposition, e.g. congratulations, excuses and thanks
 Speech acts that change the reality in accord with the proposition of the
 declaration, e.g. baptisms, pronouncing someone guilty or pronouncing someone
 husband and wife
+
+<HisyeoTooltip/>
