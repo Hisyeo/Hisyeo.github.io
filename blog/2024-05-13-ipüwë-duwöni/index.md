@@ -2,7 +2,7 @@
 slug: ibüwë-duwöni
 title: İpüwë ün Duwöni
 authors: [govuliel]
-tags: [hiskünzo]
+tags: [hiskünco]
 ---
 
 ![Sand dunes in the Idehan Ubari, Libya](./sand_dunes.png)
@@ -14,6 +14,8 @@ in the native language. This felt particularly useful as a head word for named
 beaches in Hisyëö. I debated also adding a word for gravel but I came up with
 this set of terms which I think is fine. Gravel didn't feel nearly as useful in
 describing other things as sand did.
+
+<!-- truncate -->
 
 - **Boulder**: ibüwë cënbö
 - **Cobble**: ibüwë cüti

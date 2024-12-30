@@ -2,7 +2,7 @@
 slug: dönüxın-kut
 title: Dönüxın Hiskünco Kut
 authors: [govuliel]
-tags: [hiskünzo]
+tags: [hiskünco]
 ---
 
 dënëmëk ü noyo cö xe yosten cö mötowo oxon xe di cö dönüxın yë hiskünco Hisyëö.
