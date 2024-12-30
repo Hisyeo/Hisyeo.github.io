@@ -1,6 +1,6 @@
 ---
 slug: üsën-nëös-2025
-title: Üsën Nëös, 2025
+title: usën nëös 2025
 authors: [govuliel]
 tags: [hiskünco]
 ---
