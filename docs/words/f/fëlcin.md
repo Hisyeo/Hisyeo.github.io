@@ -2,7 +2,7 @@
 id: fëlcin
 slug: fëlcin
 title: FËLCİN
-sidebar_position: 627
+sidebar_position: 628
 hoverText: last/latest § Adjective
 ---
 

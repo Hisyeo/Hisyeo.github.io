@@ -2,7 +2,7 @@
 id: fun
 slug: fun
 title: FUN
-sidebar_position: 640
+sidebar_position: 641
 hoverText: fraction § Noun
 ---
 

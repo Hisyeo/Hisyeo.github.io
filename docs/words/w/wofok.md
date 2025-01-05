@@ -2,7 +2,7 @@
 id: wofok
 slug: wofok
 title: WOFOK
-sidebar_position: 757
+sidebar_position: 758
 hoverText: to approve [of] (the approved) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: bunyentoc
 slug: bunyentoc
 title: BUNYENTOC
-sidebar_position: 597
+sidebar_position: 598
 hoverText: to remember (a memory) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: müun
 slug: müun
 title: MÜUN
-sidebar_position: 695
+sidebar_position: 696
 hoverText: late § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: fimösyös
 slug: fimösyös
 title: FİMÖSYÖS
-sidebar_position: 637
+sidebar_position: 638
 hoverText: public/communal § Adjective
 ---
 

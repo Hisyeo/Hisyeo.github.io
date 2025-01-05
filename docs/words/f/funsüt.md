@@ -2,7 +2,7 @@
 id: funsüt
 slug: funsüt
 title: FUNSÜT
-sidebar_position: 641
+sidebar_position: 642
 hoverText: defeated § Adjective
 ---
 

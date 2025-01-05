@@ -2,7 +2,7 @@
 id: bündüki
 slug: bündüki
 title: BÜNDÜKİ
-sidebar_position: 608
+sidebar_position: 609
 hoverText: gun § Noun
 ---
 

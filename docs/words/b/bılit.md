@@ -2,7 +2,7 @@
 id: bılit
 slug: bılit
 title: BILİT
-sidebar_position: 576
+sidebar_position: 577
 hoverText: sticky § Adjective
 ---
 

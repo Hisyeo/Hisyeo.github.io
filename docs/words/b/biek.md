@@ -2,7 +2,7 @@
 id: biek
 slug: biek
 title: BİEK
-sidebar_position: 579
+sidebar_position: 580
 hoverText: to bake (a baked good) § Verb
 ---
 

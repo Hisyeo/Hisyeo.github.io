@@ -2,7 +2,7 @@
 id: füküxı
 slug: füküxı
 title: FÜKÜXI
-sidebar_position: 646
+sidebar_position: 647
 hoverText: revenge/vengeance § Noun
 ---
 

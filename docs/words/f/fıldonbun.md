@@ -2,7 +2,7 @@
 id: fıldonbun
 slug: fıldonbun
 title: FILDONBUN
-sidebar_position: 631
+sidebar_position: 632
 hoverText: evaporated/vaporized § Adjective
 ---
 

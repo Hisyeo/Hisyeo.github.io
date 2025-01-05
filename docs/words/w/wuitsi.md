@@ -2,7 +2,7 @@
 id: wuitsi
 slug: wuitsi
 title: WUİTSİ
-sidebar_position: 780
+sidebar_position: 781
 hoverText: to maintain (the maintained) § Verb
 ---
 

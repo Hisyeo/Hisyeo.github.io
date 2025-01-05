@@ -2,7 +2,7 @@
 id: binton
 slug: binton
 title: BİNTON
-sidebar_position: 588
+sidebar_position: 589
 hoverText: star § Noun
 ---
 

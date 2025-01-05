@@ -2,7 +2,7 @@
 id: fohoso
 slug: fohoso
 title: FOHOSO
-sidebar_position: 611
+sidebar_position: 612
 hoverText: to examine [for] (an examination) § Verb
 ---
 

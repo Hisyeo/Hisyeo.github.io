@@ -2,7 +2,7 @@
 id: mitetën
 slug: mitetën
 title: MİTETËN
-sidebar_position: 687
+sidebar_position: 688
 hoverText: trivial § Adjective
 ---
 

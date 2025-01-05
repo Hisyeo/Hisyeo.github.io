@@ -2,7 +2,7 @@
 id: legëfü
 slug: legëfü
 title: LEGËFÜ
-sidebar_position: 802
+sidebar_position: 803
 hoverText: lazy § Adjective
 ---
 

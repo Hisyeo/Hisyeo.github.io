@@ -2,7 +2,7 @@
 id: bundu
 slug: bundu
 title: BUNDU
-sidebar_position: 596
+sidebar_position: 597
 hoverText: closed § Adjective
 ---
 

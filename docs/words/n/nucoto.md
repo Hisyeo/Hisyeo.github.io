@@ -2,7 +2,7 @@
 id: nucoto
 slug: nucoto
 title: NUCOTO
-sidebar_position: 743
+sidebar_position: 744
 hoverText: planet § Noun
 ---
 

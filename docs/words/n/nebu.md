@@ -2,7 +2,7 @@
 id: nebu
 slug: nebu
 title: NEBU
-sidebar_position: 725
+sidebar_position: 726
 hoverText: unlikely/rare § Adjective
 ---
 

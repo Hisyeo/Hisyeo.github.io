@@ -2,7 +2,7 @@
 id: fısun
 slug: fısun
 title: FISUN
-sidebar_position: 629
+sidebar_position: 630
 hoverText: to know (knowledge) § Verb
 ---
 

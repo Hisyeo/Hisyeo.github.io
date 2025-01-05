@@ -2,7 +2,7 @@
 id: bunxın
 slug: bunxın
 title: BUNXIN
-sidebar_position: 595
+sidebar_position: 596
 hoverText: innate/native § Adjective
 ---
 

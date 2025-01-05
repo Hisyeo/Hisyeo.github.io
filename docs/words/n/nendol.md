@@ -2,7 +2,7 @@
 id: nendol
 slug: nendol
 title: NENDOL
-sidebar_position: 726
+sidebar_position: 727
 hoverText: famous § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: bındü
 slug: bındü
 title: BINDÜ
-sidebar_position: 574
+sidebar_position: 575
 hoverText: dot § Noun
 ---
 

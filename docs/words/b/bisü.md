@@ -2,7 +2,7 @@
 id: bisü
 slug: bisü
 title: BİSÜ
-sidebar_position: 584
+sidebar_position: 585
 hoverText: nonbinary/queer § Adjective
 ---
 

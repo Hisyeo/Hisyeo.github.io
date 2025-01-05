@@ -2,7 +2,7 @@
 id: fütsün
 slug: fütsün
 title: FÜTSÜN
-sidebar_position: 647
+sidebar_position: 648
 hoverText: to obey (a rule) § Verb
 ---
 

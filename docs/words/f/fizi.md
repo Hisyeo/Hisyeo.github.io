@@ -2,7 +2,7 @@
 id: fizi
 slug: fizi
 title: FİZİ
-sidebar_position: 636
+sidebar_position: 637
 hoverText: to bury (the buried) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: ficwo
 slug: ficwo
 title: FİCWO
-sidebar_position: 635
+sidebar_position: 636
 hoverText: hidden/secret § Adjective
 ---
 

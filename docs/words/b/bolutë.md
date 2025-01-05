@@ -2,7 +2,7 @@
 id: bolutë
 slug: bolutë
 title: BOLUTË
-sidebar_position: 553
+sidebar_position: 554
 hoverText: foreign § Adjective
 ---
 
