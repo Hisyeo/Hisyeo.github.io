@@ -2,7 +2,7 @@
 id: bono
 slug: bono
 title: BONO
-sidebar_position: 550
+sidebar_position: 552
 hoverText: facing/pointing § Adjective
 ---
 

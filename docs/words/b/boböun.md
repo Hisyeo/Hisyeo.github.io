@@ -2,7 +2,7 @@
 id: boböun
 slug: boböun
 title: BOBÖUN
-sidebar_position: 548
+sidebar_position: 550
 hoverText: system § Noun
 ---
 

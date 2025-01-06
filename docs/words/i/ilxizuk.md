@@ -2,7 +2,7 @@
 id: ilxizuk
 slug: ilxizuk
 title: İLXİZUK
-sidebar_position: 84
+sidebar_position: 83
 hoverText: temporary § Adjective
 ---
 

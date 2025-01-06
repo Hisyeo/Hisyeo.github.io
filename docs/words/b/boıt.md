@@ -2,7 +2,7 @@
 id: boıt
 slug: boıt
 title: BOIT
-sidebar_position: 539
+sidebar_position: 541
 hoverText: 256 byte § Numeral
 ---
 

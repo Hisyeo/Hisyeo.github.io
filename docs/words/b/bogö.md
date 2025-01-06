@@ -2,7 +2,7 @@
 id: bogö
 slug: bogö
 title: BOGÖ
-sidebar_position: 542
+sidebar_position: 544
 hoverText: luck § Noun
 ---
 

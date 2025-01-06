@@ -2,7 +2,7 @@
 id: ıwotë
 slug: ıwotë
 title: IWOTË
-sidebar_position: 69
+sidebar_position: 68
 hoverText: tall § Adjective
 ---
 

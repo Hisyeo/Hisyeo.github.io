@@ -2,7 +2,7 @@
 id: ëböl
 slug: ëböl
 title: ËBÖL
-sidebar_position: 59
+sidebar_position: 58
 hoverText: shoulder § Noun
 ---
 

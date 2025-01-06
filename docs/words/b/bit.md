@@ -2,7 +2,7 @@
 id: bit
 slug: bit
 title: BİT
-sidebar_position: 582
+sidebar_position: 584
 hoverText: conditional verb particle § Particle
 ---
 

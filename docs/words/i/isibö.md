@@ -2,7 +2,7 @@
 id: isibö
 slug: isibö
 title: İSİBÖ
-sidebar_position: 74
+sidebar_position: 73
 hoverText: claw § Noun
 ---
 

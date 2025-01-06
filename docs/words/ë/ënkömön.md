@@ -2,7 +2,7 @@
 id: ënkömön
 slug: ënkömön
 title: ËNKÖMÖN
-sidebar_position: 62
+sidebar_position: 61
 hoverText: face § Noun
 ---
 

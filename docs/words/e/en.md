@@ -2,7 +2,7 @@
 id: en
 slug: en
 title: EN
-sidebar_position: 51
+sidebar_position: 50
 hoverText: than § Conjunction
 ---
 

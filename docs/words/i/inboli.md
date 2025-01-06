@@ -2,7 +2,7 @@
 id: inboli
 slug: inboli
 title: İNBOLİ
-sidebar_position: 82
+sidebar_position: 81
 hoverText: flower § Noun
 ---
 

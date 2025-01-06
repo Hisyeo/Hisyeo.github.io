@@ -2,7 +2,7 @@
 id: boifön
 slug: boifön
 title: BOİFÖN
-sidebar_position: 540
+sidebar_position: 542
 hoverText: to emit (excreta) § Verb
 ---
 

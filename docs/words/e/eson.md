@@ -2,7 +2,7 @@
 id: eson
 slug: eson
 title: ESON
-sidebar_position: 49
+sidebar_position: 48
 hoverText: 09 nine § Numeral
 ---
 

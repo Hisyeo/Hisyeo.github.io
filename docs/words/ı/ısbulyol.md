@@ -2,7 +2,7 @@
 id: ısbulyol
 slug: ısbulyol
 title: ISBULYOL
-sidebar_position: 67
+sidebar_position: 66
 hoverText: to scatter (scatterable entity) § Adjective
 ---
 

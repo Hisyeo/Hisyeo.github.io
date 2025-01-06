@@ -2,7 +2,7 @@
 id: bolimot
 slug: bolimot
 title: BOLİMOT
-sidebar_position: 553
+sidebar_position: 555
 hoverText: voluminous/spacious § Adjective
 ---
 

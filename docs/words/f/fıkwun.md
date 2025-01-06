@@ -2,7 +2,7 @@
 id: fıkwun
 slug: fıkwun
 title: FIKWUN
-sidebar_position: 629
+sidebar_position: 630
 hoverText: bacteria/microbe § Noun
 ---
 

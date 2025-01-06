@@ -2,7 +2,7 @@
 id: bodi
 slug: bodi
 title: BODİ
-sidebar_position: 547
+sidebar_position: 549
 hoverText: unmoving § Adjective
 ---
 

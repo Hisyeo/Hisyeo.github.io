@@ -2,7 +2,7 @@
 id: bësnëhot
 slug: bësnëhot
 title: BËSNËHOT
-sidebar_position: 570
+sidebar_position: 572
 hoverText: to suggest (a suggestion) § Verb
 ---
 

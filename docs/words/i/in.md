@@ -2,7 +2,7 @@
 id: in
 slug: in
 title: İN
-sidebar_position: 81
+sidebar_position: 80
 hoverText: verb modifier particle § Particle
 ---
 

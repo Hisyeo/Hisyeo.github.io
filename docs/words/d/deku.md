@@ -2,7 +2,7 @@
 id: deku
 slug: deku
 title: DEKU
-sidebar_position: 474
+sidebar_position: 475
 hoverText: ceiling § Noun
 ---
 

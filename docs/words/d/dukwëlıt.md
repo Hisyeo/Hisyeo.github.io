@@ -2,7 +2,7 @@
 id: dukwëlıt
 slug: dukwëlıt
 title: DUKWËLIT
-sidebar_position: 489
+sidebar_position: 490
 hoverText: returning § Adjective
 ---
 

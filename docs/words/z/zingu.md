@@ -2,7 +2,7 @@
 id: zingu
 slug: zingu
 title: ZİNGU
-sidebar_position: 528
+sidebar_position: 529
 hoverText: orange § Adjective
 ---
 

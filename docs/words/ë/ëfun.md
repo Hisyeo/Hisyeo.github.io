@@ -2,7 +2,7 @@
 id: ëfun
 slug: ëfun
 title: ËFUN
-sidebar_position: 60
+sidebar_position: 59
 hoverText: momentary (minute) § Adjective
 ---
 

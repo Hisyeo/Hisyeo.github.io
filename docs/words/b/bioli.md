@@ -2,7 +2,7 @@
 id: bioli
 slug: bioli
 title: BİOLİ
-sidebar_position: 578
+sidebar_position: 580
 hoverText: hello/goodbye § Interjection
 ---
 

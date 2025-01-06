@@ -2,7 +2,7 @@
 id: binhün
 slug: binhün
 title: BİNHÜN
-sidebar_position: 588
+sidebar_position: 590
 hoverText: magenta § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: xikö
 slug: xikö
 title: XİKÖ
-sidebar_position: 445
+sidebar_position: 446
 hoverText: flying § Adjective
 ---
 

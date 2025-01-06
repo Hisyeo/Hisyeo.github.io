@@ -2,7 +2,7 @@
 id: bongösi
 slug: bongösi
 title: BONGÖSİ
-sidebar_position: 551
+sidebar_position: 553
 hoverText: endangered § Adjective
 ---
 

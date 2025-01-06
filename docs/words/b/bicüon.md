@@ -2,7 +2,7 @@
 id: bicüon
 slug: bicüon
 title: BİCÜON
-sidebar_position: 583
+sidebar_position: 585
 hoverText: tired/exhausted § Adjective
 ---
 

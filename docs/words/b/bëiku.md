@@ -2,7 +2,7 @@
 id: bëiku
 slug: bëiku
 title: BËİKU
-sidebar_position: 567
+sidebar_position: 569
 hoverText: shell § Noun
 ---
 

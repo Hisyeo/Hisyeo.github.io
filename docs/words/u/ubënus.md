@@ -2,7 +2,7 @@
 id: ubënus
 slug: ubënus
 title: UBËNUS
-sidebar_position: 89
+sidebar_position: 88
 hoverText: barely § Adjective
 ---
 

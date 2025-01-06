@@ -2,7 +2,7 @@
 id: bıtün
 slug: bıtün
 title: BITÜN
-sidebar_position: 574
+sidebar_position: 576
 hoverText: night § Noun
 ---
 
