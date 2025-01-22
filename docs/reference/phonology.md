@@ -74,7 +74,7 @@ allowed following certain codas:
 - coda-/t/ cannot be followed by onset-/d/ or onset-/ʃ/
 - coda-/ t͡ɕ/ cannot be followed by onset-/s/
 - coda-/s/ cannot be followed by onset-/ʃ/
-- onset-/h/ cannot exist after any coda
+- onset-/h/ can only be preceded by coda-/n/
 
 Strong vowels are slightly geminated compared to the weak vowels:
 
