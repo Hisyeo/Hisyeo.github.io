@@ -2,7 +2,7 @@
 id: kobüt
 slug: kobüt
 title: KOBÜT
-sidebar_position: 164
+sidebar_position: 165
 hoverText: broken/dysfunctional § Adjective
 ---
 

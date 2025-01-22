@@ -2,7 +2,7 @@
 id: bıtün
 slug: bıtün
 title: BITÜN
-sidebar_position: 576
+sidebar_position: 578
 hoverText: night § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: night § Noun
 
 **Modifier**: night-related
 
-Mbyá Guaraní pytũ undefined
+Guaraní, Mbyá pytũ undefined
 
 *Tupian Language Family*

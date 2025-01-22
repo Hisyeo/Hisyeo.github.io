@@ -2,7 +2,7 @@
 id: xowosë
 slug: xowosë
 title: XOWOSË
-sidebar_position: 430
+sidebar_position: 431
 hoverText: happy § Adjective
 ---
 

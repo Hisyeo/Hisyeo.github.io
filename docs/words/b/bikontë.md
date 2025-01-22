@@ -2,7 +2,7 @@
 id: bikontë
 slug: bikontë
 title: BİKONTË
-sidebar_position: 583
+sidebar_position: 585
 hoverText: spicy § Adjective
 ---
 

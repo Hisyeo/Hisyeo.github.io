@@ -2,7 +2,7 @@
 id: citsë
 slug: citsë
 title: CİTSË
-sidebar_position: 339
+sidebar_position: 340
 hoverText: to accuse (an accusation) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to accuse (an accusation) § Verb
 
 **Modifier**: accusable/blamable
 
-Chinese 指責 zhǐzé undefined
+Mandarin 指責 zhǐzé undefined
 
 *Sino-Tibetan Language Family*

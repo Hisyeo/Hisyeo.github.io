@@ -2,7 +2,7 @@
 id: tıgoyo
 slug: tıgoyo
 title: TIGOYO
-sidebar_position: 287
+sidebar_position: 288
 hoverText: supine § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: supine § Adjective
 
 **Modifier**: supine/reclined
 
-Bikol Central tigayà undefined
+Bikol, Central tigayà undefined
 
 *Austronesian Language Family*

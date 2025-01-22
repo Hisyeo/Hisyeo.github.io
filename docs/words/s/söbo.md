@@ -2,7 +2,7 @@
 id: söbo
 slug: söbo
 title: SÖBO
-sidebar_position: 381
+sidebar_position: 382
 hoverText: side/beside § Noun
 ---
 

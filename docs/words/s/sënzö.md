@@ -2,7 +2,7 @@
 id: sënzö
 slug: sënzö
 title: SËNZÖ
-sidebar_position: 392
+sidebar_position: 393
 hoverText: ancestral § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: nozi
 slug: nozi
 title: NOZİ
-sidebar_position: 715
+sidebar_position: 717
 hoverText: venom/poison § Noun
 ---
 

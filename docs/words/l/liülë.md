@@ -2,7 +2,7 @@
 id: liülë
 slug: liülë
 title: LİÜLË
-sidebar_position: 812
+sidebar_position: 814
 hoverText: laughing § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: laughing § Adjective
 
 **Modifier**: laughing/mirthed
 
-(Valencian) Catalan riure undefined
+Catalan, Valencian riure undefined
 
 *Romance Language Family*

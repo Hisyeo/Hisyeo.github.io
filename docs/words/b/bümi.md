@@ -2,7 +2,7 @@
 id: bümi
 slug: bümi
 title: BÜMİ
-sidebar_position: 608
+sidebar_position: 610
 hoverText: ground/terrain/earth § Noun
 ---
 

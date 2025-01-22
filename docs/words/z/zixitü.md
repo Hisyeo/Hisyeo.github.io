@@ -2,7 +2,7 @@
 id: zixitü
 slug: zixitü
 title: ZİXİTÜ
-sidebar_position: 527
+sidebar_position: 529
 hoverText: finger/toe § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: finger/toe § Noun
 
 **Modifier**: finger/toe/digit-related
 
-Portuegese dígito undefined
+Portuguese dígito undefined
 
 *Romance Language Family*

@@ -2,7 +2,7 @@
 id: bınlëö
 slug: bınlëö
 title: BINLËÖ
-sidebar_position: 578
+sidebar_position: 580
 hoverText: bay/golf § Noun
 ---
 

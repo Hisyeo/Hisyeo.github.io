@@ -2,7 +2,7 @@
 id: golbınüs
 slug: golbınüs
 title: GOLBINÜS
-sidebar_position: 238
+sidebar_position: 239
 hoverText: chartreuse § Adjective
 ---
 

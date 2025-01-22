@@ -16,6 +16,6 @@ hoverText: honor/glory § Noun
 
 **Modifier**: honor/glory-related
 
-Dari Persian افتخار eftexâr undefined
+Persian, Dari افتخار eftexâr undefined
 
 *Indo-Iranian Language Family*

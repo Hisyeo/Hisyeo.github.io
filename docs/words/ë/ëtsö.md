@@ -3,12 +3,12 @@ id: ëtsö
 slug: ëtsö
 title: ËTSÖ
 sidebar_position: 57
-hoverText: state/condition § Noun
+hoverText: state/quality/attribute § Noun
 ---
 
 ### ëtsö&emsp;<span kind="abugida">ɽ̆ʇɐı</span>
 
-*state/condition* **§** Noun
+*state/quality/attribute* **§** Noun
 
 **Verb**: to be a state/condition
 

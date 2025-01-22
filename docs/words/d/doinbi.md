@@ -2,7 +2,7 @@
 id: doinbi
 slug: doinbi
 title: DOİNBİ
-sidebar_position: 463
+sidebar_position: 464
 hoverText: ticket/pass § Noun
 ---
 

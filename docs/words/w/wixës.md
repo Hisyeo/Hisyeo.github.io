@@ -2,7 +2,7 @@
 id: wixës
 slug: wixës
 title: WİXËS
-sidebar_position: 777
+sidebar_position: 779
 hoverText: special/unique § Adjective
 ---
 

@@ -1,12 +1,12 @@
 ---
-id: möküon
-slug: möküon
-title: MÖKÜON
-sidebar_position: 665
+id: mökwon
+slug: mökwon
+title: MÖKWON
+sidebar_position: 667
 hoverText: unrelated § Adjective
 ---
 
-### möküon&emsp;<span kind="abugida">ƶıɔʄɽ̃</span>
+### mökwon&emsp;<span kind="abugida">ƶ̑ıʒ̃</span>
 
 *unrelated* **§** Adjective
 

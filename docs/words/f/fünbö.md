@@ -2,7 +2,7 @@
 id: fünbö
 slug: fünbö
 title: FÜNBÖ
-sidebar_position: 650
+sidebar_position: 652
 hoverText: to squeeze (squeezable entity) § Verb
 ---
 

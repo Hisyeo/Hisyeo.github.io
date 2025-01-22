@@ -2,7 +2,7 @@
 id: cënbö
 slug: cënbö
 title: CËNBÖ
-sidebar_position: 324
+sidebar_position: 325
 hoverText: big § Adjective
 ---
 

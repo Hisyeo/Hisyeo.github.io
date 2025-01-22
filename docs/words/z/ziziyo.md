@@ -2,7 +2,7 @@
 id: ziziyo
 slug: ziziyo
 title: ZİZİYO
-sidebar_position: 528
+sidebar_position: 530
 hoverText: tendon/root § Noun
 ---
 

@@ -16,6 +16,6 @@ hoverText: beneficiary/purpose marker (for) § Preposition
 
 **Modifier**: -
 
-Hijazi Arabic عشان ʕašān undefined
+Arabic, Hijazi عشان ʕašān undefined
 
 *Afroasiatic Language Family*

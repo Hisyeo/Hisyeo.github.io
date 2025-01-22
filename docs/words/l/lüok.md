@@ -2,7 +2,7 @@
 id: lüok
 slug: lüok
 title: LÜOK
-sidebar_position: 824
+sidebar_position: 826
 hoverText: spirit/ghost § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: spirit/ghost § Noun
 
 **Modifier**: spirit/ghost/soul-related
 
-Ashkenazi Hebrew רוּחַ rúakh undefined
+Hebrew, Ashkenazi רוּחַ rúakh undefined
 
 *Afroasiatic Language Family*

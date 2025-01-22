@@ -2,7 +2,7 @@
 id: wobi
 slug: wobi
 title: WOBİ
-sidebar_position: 757
+sidebar_position: 759
 hoverText: island § Noun
 ---
 

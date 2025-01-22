@@ -2,7 +2,7 @@
 id: bëmon
 slug: bëmon
 title: BËMON
-sidebar_position: 573
+sidebar_position: 575
 hoverText: to promise (a promise) § Verb
 ---
 

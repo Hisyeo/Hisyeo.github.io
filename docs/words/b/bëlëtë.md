@@ -2,7 +2,7 @@
 id: bëlëtë
 slug: bëlëtë
 title: BËLËTË
-sidebar_position: 574
+sidebar_position: 576
 hoverText: wall § Noun
 ---
 

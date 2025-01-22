@@ -2,7 +2,7 @@
 id: tönkö
 slug: tönkö
 title: TÖNKÖ
-sidebar_position: 282
+sidebar_position: 283
 hoverText: hurting/suffering § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: hurting/suffering § Adjective
 
 **Modifier**: hurting/suffering
 
-Min Nan 痛苦 thòng-khó͘  undefined
+Min, Southern 痛苦 thòng-khó͘  undefined
 
 *Sino-Tibetan Language Family*

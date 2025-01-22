@@ -2,7 +2,7 @@
 id: küonxün
 slug: küonxün
 title: KÜONXÜN
-sidebar_position: 213
+sidebar_position: 214
 hoverText: tolerant § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: tolerant § Adjective
 
 **Modifier**: tolerant
 
-Chinese 寬容 kuānróng undefined
+Mandarin 寬容 kuānróng undefined
 
 *Sino-Tibetan Language Family*

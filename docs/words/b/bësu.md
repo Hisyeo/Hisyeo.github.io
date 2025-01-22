@@ -2,7 +2,7 @@
 id: bësu
 slug: bësu
 title: BËSU
-sidebar_position: 571
+sidebar_position: 573
 hoverText: different § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: different § Adjective
 
 **Modifier**: different
 
-Malay بيذا beza undefined
+Malay بيذا beza undefined
 
 *Austronesian Language Family*

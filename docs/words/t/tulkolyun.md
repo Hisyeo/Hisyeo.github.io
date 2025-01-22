@@ -2,7 +2,7 @@
 id: tulkolyun
 slug: tulkolyun
 title: TULKOLYUN
-sidebar_position: 298
+sidebar_position: 299
 hoverText: rolling/tumbling § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: bucono
 slug: bucono
 title: BUCONO
-sidebar_position: 595
+sidebar_position: 597
 hoverText: to save/rescue (the saved/rescued) § Verb
 ---
 

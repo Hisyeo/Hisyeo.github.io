@@ -2,7 +2,7 @@
 id: mıslı
 slug: mıslı
 title: MISLI
-sidebar_position: 680
+sidebar_position: 682
 hoverText: similative marker (like) § Preposition
 ---
 
@@ -16,6 +16,6 @@ hoverText: similative marker (like) § Preposition
 
 **Modifier**: -
 
-Dari Persion مثل mesl-e undefined
+Persian, Dari مثل mesl-e undefined
 
 *Indo-Iranian Language Family*

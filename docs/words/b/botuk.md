@@ -2,7 +2,7 @@
 id: botuk
 slug: botuk
 title: BOTUK
-sidebar_position: 545
+sidebar_position: 547
 hoverText: flat § Adjective
 ---
 

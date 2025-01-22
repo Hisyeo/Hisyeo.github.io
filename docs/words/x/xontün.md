@@ -2,7 +2,7 @@
 id: xontün
 slug: xontün
 title: XONTÜN
-sidebar_position: 428
+sidebar_position: 429
 hoverText: to provoke (a provocation) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to provoke (a provocation) § Verb
 
 **Modifier**: provokable/harrassable
 
-Chinese 扇動 shāndòng undefined
+Mandarin 扇動 shāndòng undefined
 
 *Sino-Tibetan Language Family*

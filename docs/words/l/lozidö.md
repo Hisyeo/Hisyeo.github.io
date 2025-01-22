@@ -2,7 +2,7 @@
 id: lozidö
 slug: lozidö
 title: LOZİDÖ
-sidebar_position: 790
+sidebar_position: 792
 hoverText: heart § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: heart § Noun
 
 **Modifier**: heart-related
 
-Isthmus Zapotec ladxidó' undefined
+Zapotec, Isthmus ladxidó' undefined
 
 *Oto-Manguean Language Family*

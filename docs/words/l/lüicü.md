@@ -2,7 +2,7 @@
 id: lüicü
 slug: lüicü
 title: LÜİCÜ
-sidebar_position: 825
+sidebar_position: 827
 hoverText: deer/giraffe/pronghorn § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: deer/giraffe/pronghorn § Noun
 
 **Modifier**: deer/giraffe/pronghorn-related
 
-Ayacucho Quechua luychu undefined
+Quechua, Ayacucho luychu undefined
 
 *Quechumaran Language Family*

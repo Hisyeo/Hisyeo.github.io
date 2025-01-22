@@ -2,7 +2,7 @@
 id: cübü
 slug: cübü
 title: CÜBÜ
-sidebar_position: 354
+sidebar_position: 355
 hoverText: fermented/soured § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: fermented/soured § Adjective
 
 **Modifier**: fermented/soured
 
-Batang Tibetan སྐྱུར་མོ skyur mo undefined
+Tibetan, Batang སྐྱུར་མོ skyur mo undefined
 
 *Sino-Tibetan Language Family*

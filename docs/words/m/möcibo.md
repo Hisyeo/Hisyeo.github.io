@@ -2,7 +2,7 @@
 id: möcibo
 slug: möcibo
 title: MÖCİBO
-sidebar_position: 670
+sidebar_position: 672
 hoverText: ongoing § Adjective
 ---
 

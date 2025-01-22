@@ -2,7 +2,7 @@
 id: belisis
 slug: belisis
 title: BELİSİS
-sidebar_position: 568
+sidebar_position: 570
 hoverText: unsure § Adjective
 ---
 

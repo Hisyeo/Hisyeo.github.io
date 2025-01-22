@@ -2,7 +2,7 @@
 id: büzök
 slug: büzök
 title: BÜZÖK
-sidebar_position: 607
+sidebar_position: 609
 hoverText: lack § Determiner
 ---
 

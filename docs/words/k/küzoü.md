@@ -2,7 +2,7 @@
 id: küzoü
 slug: küzoü
 title: KÜZOÜ
-sidebar_position: 219
+sidebar_position: 220
 hoverText: awesome § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: sintokmo
 slug: sintokmo
 title: SİNTOKMO
-sidebar_position: 404
+sidebar_position: 405
 hoverText: phrase § Noun
 ---
 

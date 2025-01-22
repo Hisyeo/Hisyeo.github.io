@@ -2,7 +2,7 @@
 id: bioli
 slug: bioli
 title: BİOLİ
-sidebar_position: 580
+sidebar_position: 582
 hoverText: hello/goodbye § Interjection
 ---
 
@@ -16,6 +16,6 @@ hoverText: hello/goodbye § Interjection
 
 **Modifier**: -
 
-Eastern Huasteca Nahuatl pialli undefined
+Nahuatl, Eastern Huasteca pialli undefined
 
 *Yuto-Nahuatl Language Family*

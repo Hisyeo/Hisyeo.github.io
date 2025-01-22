@@ -2,7 +2,7 @@
 id: liübit
 slug: liübit
 title: LİÜBİT
-sidebar_position: 811
+sidebar_position: 813
 hoverText: to love (the loved) § Verb
 ---
 

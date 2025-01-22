@@ -2,7 +2,7 @@
 id: fiki
 slug: fiki
 title: FİKİ
-sidebar_position: 634
+sidebar_position: 636
 hoverText: fast § Adjective
 ---
 

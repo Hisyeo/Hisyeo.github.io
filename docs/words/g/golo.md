@@ -2,7 +2,7 @@
 id: golo
 slug: golo
 title: GOLO
-sidebar_position: 236
+sidebar_position: 237
 hoverText: to read (a document) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to read (a document) § Verb
 
 **Modifier**: readable
 
-Hijazi Arabic قرا gara undefined
+Arabic, Hijazi قرا gara undefined
 
 *Afroasiatic Language Family*

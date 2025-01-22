@@ -2,7 +2,7 @@
 id: sünkon
 slug: sünkon
 title: SÜNKON
-sidebar_position: 418
+sidebar_position: 419
 hoverText: instantaneous (second) § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: instantaneous (second) § Adjective
 
 **Modifier**: instantaneous
 
-Min Nan 瞬間 sùn-kan undefined
+Min, Southern 瞬間 sùn-kan undefined
 
 *Sino-Tibetan Language Family*

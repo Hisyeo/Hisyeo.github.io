@@ -2,7 +2,7 @@
 id: cıhöü
 slug: cıhöü
 title: CIHÖÜ
-sidebar_position: 325
+sidebar_position: 326
 hoverText: successive marker (after) § Preposition
 ---
 
@@ -16,6 +16,6 @@ hoverText: successive marker (after) § Preposition
 
 **Modifier**: -
 
-Chinese 此後 cǐhòu undefined
+Mandarin 此後 cǐhòu undefined
 
 *Sino-Tibetan Language Family*

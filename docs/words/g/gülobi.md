@@ -2,7 +2,7 @@
 id: gülobi
 slug: gülobi
 title: GÜLOBİ
-sidebar_position: 265
+sidebar_position: 266
 hoverText: pink § Adjective
 ---
 

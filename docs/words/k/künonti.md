@@ -2,7 +2,7 @@
 id: künonti
 slug: künonti
 title: KÜNONTİ
-sidebar_position: 221
+sidebar_position: 222
 hoverText: communication § Noun
 ---
 

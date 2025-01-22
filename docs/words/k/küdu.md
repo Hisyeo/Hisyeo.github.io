@@ -2,7 +2,7 @@
 id: küdu
 slug: küdu
 title: KÜDU
-sidebar_position: 218
+sidebar_position: 219
 hoverText: horse § Noun
 ---
 

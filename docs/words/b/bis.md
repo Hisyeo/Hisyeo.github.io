@@ -2,7 +2,7 @@
 id: bis
 slug: bis
 title: BİS
-sidebar_position: 586
+sidebar_position: 588
 hoverText: bad § Adjective
 ---
 

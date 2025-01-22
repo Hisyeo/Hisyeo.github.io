@@ -2,7 +2,7 @@
 id: gosil
 slug: gosil
 title: GOSİL
-sidebar_position: 230
+sidebar_position: 231
 hoverText: short § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: short § Adjective
 
 **Modifier**: short/low
 
-Hijazi Arabic قصير gaṣīr undefined
+Arabic, Hijazi قصير gaṣīr undefined
 
 *Afroasiatic Language Family*

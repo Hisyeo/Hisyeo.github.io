@@ -2,7 +2,7 @@
 id: golfon
 slug: golfon
 title: GOLFON
-sidebar_position: 239
+sidebar_position: 240
 hoverText: disgusted § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: disgusted § Adjective
 
 **Modifier**: disgusted
 
-Hijazi Arabic قرفان garfān undefined
+Arabic, Hijazi قرفان garfān undefined
 
 *Afroasiatic Language Family*

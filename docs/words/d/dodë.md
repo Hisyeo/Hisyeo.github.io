@@ -2,7 +2,7 @@
 id: dodë
 slug: dodë
 title: DODË
-sidebar_position: 468
+sidebar_position: 470
 hoverText: diving § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: diving § Adjective
 
 **Modifier**: diving/bathing
 
-White Hmong da dej undefined
+Hmong, White da dej undefined
 
 *Hmong-Mien Language Family*

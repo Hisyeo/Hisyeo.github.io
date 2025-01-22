@@ -2,7 +2,7 @@
 id: kocko
 slug: kocko
 title: KOCKO
-sidebar_position: 163
+sidebar_position: 164
 hoverText: rough § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: rough § Adjective
 
 **Modifier**: rough
 
-Quechu qhachqa undefined
+Quechua qhachqa undefined
 
 *Quechumaran Language Family*

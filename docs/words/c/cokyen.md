@@ -2,7 +2,7 @@
 id: cokyen
 slug: cokyen
 title: COKYEN
-sidebar_position: 307
+sidebar_position: 308
 hoverText: almost § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: almost § Adjective
 
 **Modifier**: almost/nearly
 
-Chinese 差點 chàdiǎn undefined
+Mandarin 差點 chàdiǎn undefined
 
 *Sino-Tibetan Language Family*

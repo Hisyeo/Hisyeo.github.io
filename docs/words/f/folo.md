@@ -2,7 +2,7 @@
 id: folo
 slug: folo
 title: FOLO
-sidebar_position: 620
+sidebar_position: 622
 hoverText: atom § Noun
 ---
 

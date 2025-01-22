@@ -2,7 +2,7 @@
 id: libü
 slug: libü
 title: LİBÜ
-sidebar_position: 819
+sidebar_position: 821
 hoverText: sheet § Noun
 ---
 

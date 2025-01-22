@@ -2,7 +2,7 @@
 id: xolxili
 slug: xolxili
 title: XOLXİLİ
-sidebar_position: 432
+sidebar_position: 433
 hoverText: teal § Adjective
 ---
 

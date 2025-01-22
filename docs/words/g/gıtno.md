@@ -2,7 +2,7 @@
 id: gıtno
 slug: gıtno
 title: GITNO
-sidebar_position: 249
+sidebar_position: 250
 hoverText: intermediate marker (between) § Preposition
 ---
 

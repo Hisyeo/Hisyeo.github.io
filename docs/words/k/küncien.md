@@ -2,7 +2,7 @@
 id: küncien
 slug: küncien
 title: KÜNCİEN
-sidebar_position: 224
+sidebar_position: 225
 hoverText: room § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: room § Noun
 
 **Modifier**: room/chamber-related
 
-Chinese 空間 kōngjiān undefined
+Mandarin 空間 kōngjiān undefined
 
 *Sino-Tibetan Language Family*

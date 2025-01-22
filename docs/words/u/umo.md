@@ -16,6 +16,6 @@ hoverText: person § Noun
 
 **Modifier**: person-related
 
-Takalelang Abui  ʔamˈa undefined
+Abui, Takalelang ʔamˈa undefined
 
 *Trans-New Guinea Language Family*

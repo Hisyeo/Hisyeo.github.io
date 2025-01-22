@@ -2,7 +2,7 @@
 id: kuünmë
 slug: kuünmë
 title: KUÜNMË
-sidebar_position: 207
+sidebar_position: 208
 hoverText: technology § Noun
 ---
 

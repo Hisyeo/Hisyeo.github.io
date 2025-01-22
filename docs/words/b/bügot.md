@@ -2,7 +2,7 @@
 id: bügot
 slug: bügot
 title: BÜGOT
-sidebar_position: 602
+sidebar_position: 604
 hoverText: heavy § Adjective
 ---
 

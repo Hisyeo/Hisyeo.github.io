@@ -2,7 +2,7 @@
 id: bülo
 slug: bülo
 title: BÜLO
-sidebar_position: 611
+sidebar_position: 613
 hoverText: brown § Adjective
 ---
 

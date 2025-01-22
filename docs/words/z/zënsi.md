@@ -2,7 +2,7 @@
 id: zënsi
 slug: zënsi
 title: ZËNSİ
-sidebar_position: 520
+sidebar_position: 522
 hoverText: sexual § Adjective
 ---
 

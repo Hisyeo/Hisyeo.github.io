@@ -2,7 +2,7 @@
 id: bölfëlë
 slug: bölfëlë
 title: BÖLFËLË
-sidebar_position: 564
+sidebar_position: 566
 hoverText: powder § Noun
 ---
 

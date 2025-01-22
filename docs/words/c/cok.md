@@ -2,7 +2,7 @@
 id: cok
 slug: cok
 title: COK
-sidebar_position: 305
+sidebar_position: 306
 hoverText: departing § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: golun
 slug: golun
 title: GOLUN
-sidebar_position: 237
+sidebar_position: 238
 hoverText: to respect (the respected) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to respect (the respected) § Verb
 
 **Modifier**: respectable
 
-Tagalog/Bikol galang undefined
+Tagalog galang undefined
 
 *Austronesian Language Family*

@@ -2,7 +2,7 @@
 id: hülodëk
 slug: hülodëk
 title: HÜLODËK
-sidebar_position: 159
+sidebar_position: 160
 hoverText: waste § Noun
 ---
 

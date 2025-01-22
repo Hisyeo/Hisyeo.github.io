@@ -2,7 +2,7 @@
 id: kukwon
 slug: kukwon
 title: KUKWON
-sidebar_position: 208
+sidebar_position: 209
 hoverText: organ/member § Noun
 ---
 

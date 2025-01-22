@@ -2,7 +2,7 @@
 id: toü
 slug: toü
 title: TOÜ
-sidebar_position: 267
+sidebar_position: 268
 hoverText: 06 six § Numeral
 ---
 
@@ -16,6 +16,6 @@ hoverText: 06 six § Numeral
 
 **Modifier**: sixth
 
-White Hmong rau undefined
+Hmong, White rau undefined
 
 *Hmong-Mien Language Family*

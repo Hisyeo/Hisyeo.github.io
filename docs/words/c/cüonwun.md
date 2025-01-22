@@ -2,7 +2,7 @@
 id: cüonwun
 slug: cüonwun
 title: CÜONWUN
-sidebar_position: 349
+sidebar_position: 350
 hoverText: rumor § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: rumor § Noun
 
 **Modifier**: rumor-related
 
-Chinese 傳聞 chuánwén undefined
+Mandarin 傳聞 chuánwén undefined
 
 *Sino-Tibetan Language Family*

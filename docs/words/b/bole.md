@@ -2,7 +2,7 @@
 id: bole
 slug: bole
 title: BOLE
-sidebar_position: 554
+sidebar_position: 556
 hoverText: 12 twelve § Numeral
 ---
 

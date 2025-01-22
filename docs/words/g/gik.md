@@ -2,7 +2,7 @@
 id: gik
 slug: gik
 title: GİK
-sidebar_position: 250
+sidebar_position: 251
 hoverText: arriving § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: arriving § Adjective
 
 **Modifier**: arriving/reaching
 
-Dhuluo gik undefined
+Dholuo gik undefined
 
 *Nilo-Saharan Language Family*

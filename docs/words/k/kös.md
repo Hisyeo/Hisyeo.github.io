@@ -2,7 +2,7 @@
 id: kös
 slug: kös
 title: KÖS
-sidebar_position: 176
+sidebar_position: 177
 hoverText: to cause (an effect) § Verb
 ---
 

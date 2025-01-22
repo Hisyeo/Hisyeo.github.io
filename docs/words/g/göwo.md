@@ -2,7 +2,7 @@
 id: göwo
 slug: göwo
 title: GÖWO
-sidebar_position: 243
+sidebar_position: 244
 hoverText: foolish/obtuse § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: füxübin
 slug: füxübin
 title: FÜXÜBİN
-sidebar_position: 649
+sidebar_position: 651
 hoverText: accessory § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: accessory § Noun
 
 **Modifier**: accessory/attachment-related
 
-Chinese 附屬品 undefined
+Mandarin 附屬品 fùshǔpǐn undefined
 
 *Sino-Tibetan Language Family*

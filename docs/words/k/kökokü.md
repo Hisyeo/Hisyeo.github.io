@@ -2,7 +2,7 @@
 id: kökokü
 slug: kökokü
 title: KÖKOKÜ
-sidebar_position: 172
+sidebar_position: 173
 hoverText: skeleton § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: skeleton § Noun
 
 **Modifier**: frame-related/skeleton-related
 
-Japonese こっかく kokkaku undefined
+Japanese こっかく kokkaku undefined
 
 *Japonic Language Family*

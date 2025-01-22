@@ -2,7 +2,7 @@
 id: dëtoi
 slug: dëtoi
 title: DËTOİ
-sidebar_position: 477
+sidebar_position: 479
 hoverText: detail § Noun
 ---
 

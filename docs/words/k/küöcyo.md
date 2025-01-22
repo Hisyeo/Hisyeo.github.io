@@ -2,7 +2,7 @@
 id: küöcyo
 slug: küöcyo
 title: KÜÖCYO
-sidebar_position: 214
+sidebar_position: 215
 hoverText: state § Noun
 ---
 

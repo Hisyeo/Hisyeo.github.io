@@ -2,7 +2,7 @@
 id: nubuso
 slug: nubuso
 title: NUBUSO
-sidebar_position: 745
+sidebar_position: 747
 hoverText: wet § Adjective
 ---
 

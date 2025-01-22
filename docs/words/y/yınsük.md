@@ -2,7 +2,7 @@
 id: yınsük
 slug: yınsük
 title: YINSÜK
-sidebar_position: 848
+sidebar_position: 850
 hoverText: serious § Adjective
 ---
 

@@ -2,7 +2,7 @@
 id: cunliü
 slug: cunliü
 title: CUNLİÜ
-sidebar_position: 346
+sidebar_position: 347
 hoverText: to distill (the distilled) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to distill (the distilled) § Verb
 
 **Modifier**: distillable
 
-Chinese 蒸餾 zhēngliú undefined
+Mandarin 蒸餾 zhēngliú undefined
 
 *Sino-Tibetan Language Family*

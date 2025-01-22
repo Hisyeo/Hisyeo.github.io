@@ -2,7 +2,7 @@
 id: dinzoü
 slug: dinzoü
 title: DİNZOÜ
-sidebar_position: 486
+sidebar_position: 488
 hoverText: lip/rim/edge § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: lip/rim/edge § Noun
 
 **Modifier**: labial/rim-like/edge-like
 
-Whtie Hmong di ncauj undefined
+Hmong, Whtie di ncauj undefined
 
 *Hmong-Mien Language Family*

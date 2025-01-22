@@ -2,7 +2,7 @@
 id: foxo
 slug: foxo
 title: FOXO
-sidebar_position: 616
+sidebar_position: 618
 hoverText: mirative sentence ender (wow!) § Postposition
 ---
 
@@ -16,6 +16,6 @@ hoverText: mirative sentence ender (wow!) § Postposition
 
 **Modifier**: -
 
-Gerogian ვაშა vaša undefined
+Georgian ვაშა vaša undefined
 
 *Kartvelian Language Family*

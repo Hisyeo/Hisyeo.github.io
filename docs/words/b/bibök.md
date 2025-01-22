@@ -2,7 +2,7 @@
 id: bibök
 slug: bibök
 title: BİBÖK
-sidebar_position: 588
+sidebar_position: 590
 hoverText: white § Adjective
 ---
 

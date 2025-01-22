@@ -2,7 +2,7 @@
 id: yön
 slug: yön
 title: YÖN
-sidebar_position: 845
+sidebar_position: 847
 hoverText: to use (a tool) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to use (a tool) § Verb
 
 **Modifier**: usable
 
-Min Nan 用 iōng undefined
+Min, Southern 用 iōng undefined
 
 *Sino-Tibetan Language Family*

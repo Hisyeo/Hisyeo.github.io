@@ -2,7 +2,7 @@
 id: yoldün
 slug: yoldün
 title: YOLDÜN
-sidebar_position: 840
+sidebar_position: 842
 hoverText: help/aid § Noun
 ---
 

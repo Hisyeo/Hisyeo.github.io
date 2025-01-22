@@ -2,7 +2,7 @@
 id: küldü
 slug: küldü
 title: KÜLDÜ
-sidebar_position: 227
+sidebar_position: 228
 hoverText: wheel § Noun
 ---
 

@@ -2,7 +2,7 @@
 id: mihüon
 slug: mihüon
 title: MİHÜON
-sidebar_position: 686
+sidebar_position: 688
 hoverText: beige § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: beige § Adjective
 
 **Modifier**: beige
 
-Chinese 米黃 mǐhuáng undefined
+Mandarin 米黃 mǐhuáng undefined
 
 *Sino-Tibetan Language Family*

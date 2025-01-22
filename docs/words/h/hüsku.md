@@ -2,7 +2,7 @@
 id: hüsku
 slug: hüsku
 title: HÜSKU
-sidebar_position: 151
+sidebar_position: 152
 hoverText: to remember (a memory) § Verb
 ---
 

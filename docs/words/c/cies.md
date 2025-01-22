@@ -2,7 +2,7 @@
 id: cies
 slug: cies
 title: CİES
-sidebar_position: 334
+sidebar_position: 335
 hoverText: tight/firm § Adjective
 ---
 

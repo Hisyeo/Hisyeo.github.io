@@ -2,7 +2,7 @@
 id: cosni
 slug: cosni
 title: COSNİ
-sidebar_position: 308
+sidebar_position: 309
 hoverText: private/confidential § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: private/confidential § Adjective
 
 **Modifier**: private/confidential
 
-Russian ча́стный • (částnyj undefined
+Russian ча́стный částnyj undefined
 
 *Balto-Slavic Language Family*

@@ -2,7 +2,7 @@
 id: xiüfü
 slug: xiüfü
 title: XİÜFÜ
-sidebar_position: 444
+sidebar_position: 445
 hoverText: to repair (the repaired) § Verb
 ---
 
@@ -16,6 +16,6 @@ hoverText: to repair (the repaired) § Verb
 
 **Modifier**: repairable/restorable
 
-Chinese 修復 xiūfù undefined
+Mandarin 修復 xiūfù undefined
 
 *Sino-Tibetan Language Family*

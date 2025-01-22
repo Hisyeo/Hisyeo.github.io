@@ -2,7 +2,7 @@
 id: kikölö
 slug: kikölö
 title: KİKÖLÖ
-sidebar_position: 199
+sidebar_position: 200
 hoverText: bitter § Adjective
 ---
 

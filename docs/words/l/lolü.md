@@ -2,7 +2,7 @@
 id: lolü
 slug: lolü
 title: LOLÜ
-sidebar_position: 796
+sidebar_position: 798
 hoverText: word § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: word § Noun
 
 **Modifier**: word-related
 
-White Hmong lo lus undefined
+Hmong, White lo lus undefined
 
 *Hmong-Mien Language Family*

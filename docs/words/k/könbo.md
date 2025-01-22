@@ -2,7 +2,7 @@
 id: könbo
 slug: könbo
 title: KÖNBO
-sidebar_position: 186
+sidebar_position: 187
 hoverText: shaking § Adjective
 ---
 

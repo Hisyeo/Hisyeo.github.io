@@ -2,7 +2,7 @@
 id: tiü
 slug: tiü
 title: TİÜ
-sidebar_position: 289
+sidebar_position: 290
 hoverText: 05 five § Numeral
 ---
 

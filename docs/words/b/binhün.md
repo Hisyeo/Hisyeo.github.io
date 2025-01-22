@@ -2,7 +2,7 @@
 id: binhün
 slug: binhün
 title: BİNHÜN
-sidebar_position: 590
+sidebar_position: 592
 hoverText: magenta § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: magenta § Adjective
 
 **Modifier**: magenta
 
-Chinese 品紅 pǐnhóng undefined
+Mandarin 品紅 pǐnhóng undefined
 
 *Sino-Tibetan Language Family*

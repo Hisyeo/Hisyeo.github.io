@@ -2,7 +2,7 @@
 id: mënyüu
 slug: mënyüu
 title: MËNYÜU
-sidebar_position: 679
+sidebar_position: 681
 hoverText: offspring § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: offspring § Noun
 
 **Modifier**: child/offspring-related
 
-White Hmong menyuam undefined
+Hmong, White menyuam undefined
 
 *Hmong-Mien Language Family*

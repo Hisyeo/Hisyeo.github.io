@@ -2,7 +2,7 @@
 id: güwolo
 slug: güwolo
 title: GÜWOLO
-sidebar_position: 264
+sidebar_position: 265
 hoverText: to scratch (the scratched) § Verb
 ---
 

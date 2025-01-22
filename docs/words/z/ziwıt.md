@@ -2,7 +2,7 @@
 id: ziwıt
 slug: ziwıt
 title: ZİWIT
-sidebar_position: 530
+sidebar_position: 532
 hoverText: alive § Adjective
 ---
 

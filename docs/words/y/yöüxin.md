@@ -2,7 +2,7 @@
 id: yöüxin
 slug: yöüxin
 title: YÖÜXİN
-sidebar_position: 841
+sidebar_position: 843
 hoverText: parade/procession § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: parade/procession § Noun
 
 **Modifier**: parade/procession-related
 
-Chinese 遊行 yóuxíng undefined
+Mandarin 遊行 yóuxíng undefined
 
 *Sino-Tibetan Language Family*

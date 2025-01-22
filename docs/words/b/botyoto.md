@@ -2,7 +2,7 @@
 id: botyoto
 slug: botyoto
 title: BOTYOTO
-sidebar_position: 546
+sidebar_position: 548
 hoverText: responsible § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: responsible § Adjective
 
 **Modifier**: responsible/liable
 
-Teluguబాధ్యత bādhyata undefined
+Telugu బాధ్యత bādhyata undefined
 
 *Dravidian Language Family*

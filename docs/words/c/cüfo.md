@@ -2,7 +2,7 @@
 id: cüfo
 slug: cüfo
 title: CÜFO
-sidebar_position: 355
+sidebar_position: 356
 hoverText: to ward (a ward) § Verb
 ---
 

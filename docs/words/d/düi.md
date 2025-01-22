@@ -2,7 +2,7 @@
 id: düi
 slug: düi
 title: DÜİ
-sidebar_position: 494
+sidebar_position: 496
 hoverText: 02 two § Numeral
 ---
 
@@ -16,6 +16,6 @@ hoverText: 02 two § Numeral
 
 **Modifier**: second (ordinal)
 
-Assamisi দুই du'i undefined
+Assamese দুই du'i undefined
 
 *Indo-Iranian Language Family*

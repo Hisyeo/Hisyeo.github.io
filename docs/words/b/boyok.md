@@ -2,7 +2,7 @@
 id: boyok
 slug: boyok
 title: BOYOK
-sidebar_position: 558
+sidebar_position: 560
 hoverText: recent § Adjective
 ---
 

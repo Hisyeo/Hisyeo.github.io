@@ -2,7 +2,7 @@
 id: besol
 slug: besol
 title: BESOL
-sidebar_position: 566
+sidebar_position: 568
 hoverText: to seal/lock (the sealed/locked) § Verb
 ---
 

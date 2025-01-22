@@ -2,7 +2,7 @@
 id: gonbu
 slug: gonbu
 title: GONBU
-sidebar_position: 235
+sidebar_position: 236
 hoverText: leg § Noun
 ---
 

@@ -16,6 +16,6 @@ hoverText: joined § Adjective
 
 **Modifier**: joined/linked/united
 
-Brazilian Portuguese unido undefined
+Portuguese, Brazilian unido undefined
 
 *Romance Language Family*

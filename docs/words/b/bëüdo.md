@@ -2,7 +2,7 @@
 id: bëüdo
 slug: bëüdo
 title: BËÜDO
-sidebar_position: 570
+sidebar_position: 572
 hoverText: to learn (a learning) § Verb
 ---
 

@@ -2,7 +2,7 @@
 id: büntüt
 slug: büntüt
 title: BÜNTÜT
-sidebar_position: 609
+sidebar_position: 611
 hoverText: tail § Noun
 ---
 

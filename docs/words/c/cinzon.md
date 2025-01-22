@@ -2,7 +2,7 @@
 id: cinzon
 slug: cinzon
 title: CİNZON
-sidebar_position: 341
+sidebar_position: 342
 hoverText: nervous/anxious § Adjective
 ---
 
@@ -16,6 +16,6 @@ hoverText: nervous/anxious § Adjective
 
 **Modifier**: nervous/anxious
 
-Chinese 緊張 jǐnzhāng undefined
+Mandarin 緊張 jǐnzhāng undefined
 
 *Sino-Tibetan Language Family*

@@ -2,7 +2,7 @@
 id: si
 slug: si
 title: Sİ
-sidebar_position: 398
+sidebar_position: 399
 hoverText: perfect verb particle § Particle
 ---
 
@@ -16,6 +16,6 @@ hoverText: perfect verb particle § Particle
 
 **Modifier**: -
 
-Alemannic German sii undefined
+German, Alemannic sii undefined
 
 *Germanic Language Family*

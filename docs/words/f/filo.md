@@ -2,7 +2,7 @@
 id: filo
 slug: filo
 title: FİLO
-sidebar_position: 639
+sidebar_position: 641
 hoverText: row § Noun
 ---
 

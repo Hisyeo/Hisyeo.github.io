@@ -2,7 +2,7 @@
 id: sütüö
 slug: sütüö
 title: SÜTÜÖ
-sidebar_position: 414
+sidebar_position: 415
 hoverText: friend § Noun
 ---
 
@@ -16,6 +16,6 @@ hoverText: friend § Noun
 
 **Modifier**: friend-related
 
-North Maasai sútúó undefined
+Maasai, North sútúó undefined
 
 *Nilo-Saharan Language Family*

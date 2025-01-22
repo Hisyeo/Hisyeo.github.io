@@ -2,7 +2,7 @@
 id: nı
 slug: nı
 title: NI
-sidebar_position: 732
+sidebar_position: 734
 hoverText: it § Pronoun
 ---
 
@@ -16,6 +16,6 @@ hoverText: it § Pronoun
 
 **Modifier**: its
 
-White Hmong nws undefined
+Hmong, White nws undefined
 
 *Hmong-Mien Language Family*

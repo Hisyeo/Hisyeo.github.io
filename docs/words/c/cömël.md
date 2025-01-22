@@ -2,7 +2,7 @@
 id: cömël
 slug: cömël
 title: CÖMËL
-sidebar_position: 318
+sidebar_position: 319
 hoverText: cute § Adjective
 ---
 
