@@ -10,12 +10,16 @@ hoverText: to wash (the washed) § Verb
 
 *to wash (the washed)* **§** Verb
 
+**IPA**: /ˈʃus.tɛn/
+
 **Verb**: to wash/rinse
 
 **Noun**: the washed/rinsed
 
 **Modifier**: washable/rinsable
 
-Persian ⁧شُستَن⁩ šostan undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian ⁧شُستَن⁩ šostan [ʃʊs.t̪ʰǽn]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

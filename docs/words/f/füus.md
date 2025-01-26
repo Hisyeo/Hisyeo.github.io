@@ -10,12 +10,16 @@ hoverText: wax § Noun
 
 *wax* **§** Noun
 
+**IPA**: /ˈfu.ʌs/
+
 **Verb**: to be a wax
 
 **Noun**: wax
 
 **Modifier**: wax-related
 
-Luxembourgish wuess undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Luxembourgish wuess /vuəs/<br/>
+    <em>Germanic Language Family</em>
+</details>

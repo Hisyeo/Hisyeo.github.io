@@ -10,12 +10,16 @@ hoverText: instrument/manner marker (using/with) § Preposition
 
 *instrument/manner marker (using/with)* **§** Preposition
 
+**IPA**: /ˈto/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Telugu తో tō undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu తో tō /toː/<br/>
+    <em>Dravidian Language Family</em>
+</details>

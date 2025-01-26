@@ -10,12 +10,16 @@ hoverText: island § Noun
 
 *island* **§** Noun
 
+**IPA**: /ˈwɑ.bi/
+
 **Verb**: to be an island
 
 **Noun**: island
 
 **Modifier**: island-related
 
-Mapudungun wapi undefined
-
-*Araucanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Mapudungun wapi /wapi/<br/>
+    <em>Araucanian Language Family</em>
+</details>

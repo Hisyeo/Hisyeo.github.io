@@ -10,12 +10,16 @@ hoverText: to drink (a drink) § Verb
 
 *to drink (a drink)* **§** Verb
 
+**IPA**: /ˈis.ko/
+
 **Verb**: to drink/suck
 
 **Noun**: a drink
 
 **Modifier**: drinkable/suckable
 
-Chickasaw ishko  undefined
-
-*Muskogean Language Family*
+<details>
+    <summary>Origin</summary>
+    Chickasaw ishko  <br/>
+    <em>Muskogean Language Family</em>
+</details>

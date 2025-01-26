@@ -10,12 +10,16 @@ hoverText: mollusc § Noun
 
 *mollusc* **§** Noun
 
+**IPA**: /ˈmi.ɛn.t͡ɕɑk/
+
 **Verb**: to be a mollusc
 
 **Noun**: mollusc
 
 **Modifier**: mollusc-related
 
-Polish mięczak undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish mięczak /ˈmjɛn.t͡ʂak/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

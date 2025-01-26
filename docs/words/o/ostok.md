@@ -10,12 +10,16 @@ hoverText: sign/signal § Noun
 
 *sign/signal* **§** Noun
 
+**IPA**: /ˈɑs.tɑk/
+
 **Verb**: to be a sign/signal
 
 **Noun**: sign/signal
 
 **Modifier**: sign/signal-related
 
-Armenian ազդակ azdak undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian ազդակ azdak [ɑzdɑ́k]<br/>
+    <em>Armenian Language Family</em>
+</details>

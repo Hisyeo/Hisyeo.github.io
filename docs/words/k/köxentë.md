@@ -10,12 +10,16 @@ hoverText: conscious § Adjective
 
 *conscious* **§** Adjective
 
+**IPA**: /ˈko.ʃɛn.te/
+
 **Verb**: to be conscious
 
 **Noun**: consciousness
 
 **Modifier**: conscious
 
-Italian cosciente undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian cosciente /koʃˈʃɛn.te/<br/>
+    <em>Romance Language Family</em>
+</details>

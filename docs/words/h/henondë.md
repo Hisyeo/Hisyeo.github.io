@@ -10,12 +10,16 @@ hoverText: hanging § Adjective
 
 *hanging* **§** Adjective
 
+**IPA**: /hɛ.ˈnɑn.de/
+
 **Verb**: to be hanging
 
 **Noun**: hanging-ness
 
 **Modifier**: hanging-related
 
-Swedish hängande undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish hängande /hɛːŋɑːndeː/<br/>
+    <em>Germanic Language Family</em>
+</details>

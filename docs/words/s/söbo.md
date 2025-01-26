@@ -10,12 +10,16 @@ hoverText: side/beside § Noun
 
 *side/beside* **§** Noun
 
+**IPA**: /ˈso.bɑ/
+
 **Verb**: to be the side/beside
 
 **Noun**: side/beside(/vicinity/proximity?)
 
 **Modifier**: side-related
 
-Japanese 側 soba undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 側 soba [so̞ba̠]<br/>
+    <em>Japonic Language Family</em>
+</details>

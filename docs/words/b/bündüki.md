@@ -10,12 +10,16 @@ hoverText: gun § Noun
 
 *gun* **§** Noun
 
+**IPA**: /ˈbun.du.ki/
+
 **Verb**: to be a gun
 
 **Noun**: gun
 
 **Modifier**: gun-related
 
-Swahili bunduki undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili bunduki /bʊn'du.ki/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

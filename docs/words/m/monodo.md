@@ -10,12 +10,16 @@ hoverText: to meet (a meetee) § Verb
 
 *to meet (a meetee)* **§** Verb
 
+**IPA**: /ˈmɑ.nɑ.dɑ/
+
 **Verb**: to meet/visit
 
 **Noun**: a meetee/visitee
 
 **Modifier**: meetable/visitable
 
-Korean 만나다 mannada undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 만나다 mannada [ma̠nna̠da̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

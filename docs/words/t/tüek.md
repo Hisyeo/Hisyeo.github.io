@@ -10,12 +10,16 @@ hoverText: to compute (a computation) § Verb
 
 *to compute (a computation)* **§** Verb
 
+**IPA**: /ˈtu.ɛk/
+
 **Verb**: to compute/calculate
 
 **Noun**: a computation/calculation
 
 **Modifier**: computable/calculatable
 
-Burmese တွက် twak undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Burmese တွက် twak /twɛʔ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

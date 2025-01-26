@@ -10,12 +10,16 @@ hoverText: wing § Noun
 
 *wing* **§** Noun
 
+**IPA**: /ˈnɪ.ʃin/
+
 **Verb**: to be a wing
 
 **Noun**: a wing
 
 **Modifier**: wing-related
 
-Mixtec ndɨxin undefined
-
-*Oto-Manguean Language Family*
+<details>
+    <summary>Origin</summary>
+    Mixtec ndɨxin [nᵈɨʃin]<br/>
+    <em>Oto-Manguean Language Family</em>
+</details>

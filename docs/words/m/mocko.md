@@ -10,12 +10,16 @@ hoverText: cat § Noun
 
 *cat* **§** Noun
 
+**IPA**: /ˈmɑt͡ɕ.kɑ/
+
 **Verb**: to be a cat/feline
 
 **Noun**: cat/feline
 
 **Modifier**: cat/feline-related
 
-Czech/Serbo-Croatian/Slovak mačka undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Czech/Serbo-Croatian/Slovak mačka /mât͡ʃka/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

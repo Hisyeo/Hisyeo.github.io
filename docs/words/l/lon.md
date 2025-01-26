@@ -10,12 +10,16 @@ hoverText: distance/duration marker (for) § Preposition
 
 *distance/duration marker (for)* **§** Preposition
 
+**IPA**: /ˈlɑn/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-German lang undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German lang [laŋ]<br/>
+    <em>Germanic Language Family</em>
+</details>

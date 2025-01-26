@@ -10,12 +10,16 @@ hoverText: or § Conjunction
 
 *or* **§** Conjunction
 
+**IPA**: /ˈjɑ.dɑ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Azerbaijani ya da undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani ya da [jɑ dɑ]<br/>
+    <em>Turkic Language Family</em>
+</details>

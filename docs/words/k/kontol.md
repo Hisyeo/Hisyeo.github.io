@@ -10,12 +10,16 @@ hoverText: to sing/play (music) § Verb
 
 *to sing/play (music)* **§** Verb
 
+**IPA**: /ˈkɑn.tɑl/
+
 **Verb**: to sing/play (instrument-wise)
 
 **Noun**: a song/music
 
 **Modifier**: singable/playable
 
-Spanish cantar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish cantar [kãn̪ˈt̪aɾ]<br/>
+    <em>Romance Language Family</em>
+</details>

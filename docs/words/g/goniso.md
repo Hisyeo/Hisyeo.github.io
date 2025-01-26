@@ -10,12 +10,16 @@ hoverText: to think (a thought/opinion) § Verb
 
 *to think (a thought/opinion)* **§** Verb
 
+**IPA**: /ˈgɑ.ni.sɑ/
+
 **Verb**: to think
 
 **Noun**: a thought/opinion
 
 **Modifier**: thinkable/opinable
 
-Chichewa -ganiza undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Chichewa -ganiza /ɡaˈni.za/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

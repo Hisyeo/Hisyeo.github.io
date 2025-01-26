@@ -10,12 +10,16 @@ hoverText: to hug (the hugged) § Verb
 
 *to hug (the hugged)* **§** Verb
 
+**IPA**: /ˈɑn.ku.ɑl/
+
 **Verb**: to hug/embrace
 
 **Noun**: the hugged/embraced
 
 **Modifier**: huggable/embracable
 
-Assamese আঁকোৱাল ãküal undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Assamese আঁকোৱাল ãküal /ãkʊal/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

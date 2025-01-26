@@ -10,12 +10,16 @@ hoverText: worm § Noun
 
 *worm* **§** Noun
 
+**IPA**: /ˈmɪn.jo/
+
 **Verb**: to be a worm
 
 **Noun**: worm
 
 **Modifier**: worm-related
 
-Swahili mnyoo undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili mnyoo /mɲɔː/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

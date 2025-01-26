@@ -10,12 +10,16 @@ hoverText: to ward (a ward) § Verb
 
 *to ward (a ward)* **§** Verb
 
+**IPA**: /ˈt͡ɕu.fɑ/
+
 **Verb**: to ward/guard/watch over
 
 **Noun**: a ward/the guarded/the watched
 
 **Modifier**: wardable/guardable/watchable
 
-Macedonian чува čuva undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Macedonian чува čuva [ˈt͡ʃuva]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

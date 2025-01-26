@@ -10,12 +10,16 @@ hoverText: criminal § Adjective
 
 *criminal* **§** Adjective
 
+**IPA**: /ˈgu.nɑ.kɑl/
+
 **Verb**: to be criminal
 
 **Noun**: criminality
 
 **Modifier**: criminal
 
-Persian ⁧گناهکار⁩ gonâhkâr undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian ⁧گناهکار⁩ gonâhkâr [ɡʊ.nɑːɦ.kʰɑ́ːɾ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

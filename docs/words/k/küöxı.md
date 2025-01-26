@@ -10,12 +10,16 @@ hoverText: fruit § Noun
 
 *fruit* **§** Noun
 
+**IPA**: /ˈku.o.ʃɪ/
+
 **Verb**: to be a fruit
 
 **Noun**: fruit
 
 **Modifier**: fruit-related
 
-Mandarin 果實 guǒshí undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 果實 guǒshí /ku̯ɔ.ʂɨ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

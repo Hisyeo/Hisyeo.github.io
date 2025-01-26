@@ -10,12 +10,16 @@ hoverText: to emit (excreta) § Verb
 
 *to emit (excreta)* **§** Verb
 
+**IPA**: /ˈbɑ.i.fon/
+
 **Verb**: to emit/eject/excrete
 
 **Noun**: excreta
 
 **Modifier**: emittable/ejectable/excretable
 
-Cantonese 排放 paaifong undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 排放 paaifong /pʰaːi̯fɔːŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

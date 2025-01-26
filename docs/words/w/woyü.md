@@ -10,12 +10,16 @@ hoverText: air/wind § Noun
 
 *air/wind* **§** Noun
 
+**IPA**: /ˈwɑ.ju/
+
 **Verb**: to be air/wind
 
 **Noun**: air/wind
 
 **Modifier**: air/wind-related
 
-Sanskrit वायु vāyú undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit वायु vāyú [ʋäː.juː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

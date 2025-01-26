@@ -10,12 +10,16 @@ hoverText: repeating § Adjective
 
 *repeating* **§** Adjective
 
+**IPA**: /ˈt͡ɕun.fu/
+
 **Verb**: to be repeating/repetitive
 
 **Noun**: repetitiveness/repetition/cycle
 
 **Modifier**: repeating/repetitive
 
-Mandarin 重複 chóngfù undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 重複 chóngfù /ʈ͡ʂʰʊŋfu/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

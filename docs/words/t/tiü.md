@@ -10,12 +10,16 @@ hoverText: 05 five § Numeral
 
 *05 five* **§** Numeral
 
+**IPA**: /ˈti.u/
+
 **Verb**: to be five
 
 **Noun**: five
 
 **Modifier**: fifth
 
-Coptic ϯⲟⲩ tiou undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Coptic ϯⲟⲩ tiou /tʼiːw/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

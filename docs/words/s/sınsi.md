@@ -10,12 +10,16 @@ hoverText: town/city § Noun
 
 *town/city* **§** Noun
 
+**IPA**: /ˈsɪn.si/
+
 **Verb**: to be a town/city
 
 **Noun**: town/city
 
 **Modifier**: town/city-related
 
-Cantonese 城市 sing si undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 城市 sing si /sɪŋsiː/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

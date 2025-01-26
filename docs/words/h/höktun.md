@@ -10,12 +10,16 @@ hoverText: mammal § Noun
 
 *mammal* **§** Noun
 
+**IPA**: /ˈhok.tʌn/
+
 **Verb**: to be a mammal
 
 **Noun**: mammal
 
 **Modifier**: mammal-related
 
-Mongolian хөхтөн xöxtön undefined
-
-*Mongolic Language Family*
+<details>
+    <summary>Origin</summary>
+    Mongolian хөхтөн xöxtön [xoxtəŋ]<br/>
+    <em>Mongolic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: step/rung § Noun
 
 *step/rung* **§** Noun
 
+**IPA**: /ˈgis.gul/
+
 **Verb**: to be a step/rung/pedal
 
 **Noun**: step/rung/pedal
 
 **Modifier**: step/rung/pedal-related
 
-Mongolian гишгүүр gišgüür undefined
-
-*Mongolic Language Family*
+<details>
+    <summary>Origin</summary>
+    Mongolian гишгүүр gišgüür [giʃguːr]<br/>
+    <em>Mongolic Language Family</em>
+</details>

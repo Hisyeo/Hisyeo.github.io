@@ -10,12 +10,16 @@ hoverText: orderly § Adjective
 
 *orderly* **§** Adjective
 
+**IPA**: /ˈo.dɑn/
+
 **Verb**: to be orderly
 
 **Noun**: orderliness/order
 
 **Modifier**: orderly
 
-Danish orden undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Danish orden [ˈɒˀd̥n̩]<br/>
+    <em>Germanic Language Family</em>
+</details>

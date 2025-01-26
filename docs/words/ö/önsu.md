@@ -10,12 +10,16 @@ hoverText: 11 eleven § Numeral
 
 *11 eleven* **§** Numeral
 
+**IPA**: /ˈon.sʌ/
+
 **Verb**: to be eleven
 
 **Noun**: eleven
 
 **Modifier**: eleventh
 
-Catalan onze undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan onze [ˈon.zə]<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to scoop (the scooped) § Verb
 
 *to scoop (the scooped)* **§** Verb
 
+**IPA**: /ˈlɑ.bɑ.tol/
+
 **Verb**: to scoop/shovel
 
 **Noun**: the scooped/shoveled
 
 **Modifier**: scoopable/shovelable
 
-Hungarian lapátol undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hungarian lapátol [ˈlɒpaːtol]<br/>
+    <em>Uralic Language Family</em>
+</details>

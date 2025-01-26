@@ -10,12 +10,16 @@ hoverText: special/unique § Adjective
 
 *special/unique* **§** Adjective
 
+**IPA**: /ˈwi.ʃes/
+
 **Verb**: to be special/unique
 
 **Noun**: specialness/uniqueness
 
 **Modifier**: special/unique
 
-Marathi विशेष viśeṣ undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Marathi विशेष viśeṣ /ʋi.ɕeʂ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: mucus § Noun
 
 *mucus* **§** Noun
 
+**IPA**: /ˈsʌk.jʌ.nɪk/
+
 **Verb**: to be a mucus/phlegm/slime
 
 **Noun**: mucus/phlegm/slime
 
 **Modifier**: mucus-related/phlegm-related/slime-related
 
-Khmer សិង្ឃានិក səngkhiənɨk undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer សិង្ឃានិក səngkhiənɨk /səŋ.kʰiə.nɨk/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

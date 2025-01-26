@@ -10,12 +10,16 @@ hoverText: reptile § Noun
 
 *reptile* **§** Noun
 
+**IPA**: /ˈdu.lu.si/
+
 **Verb**: to be a reptile
 
 **Noun**: reptile
 
 **Modifier**: reptile-related
 
-Chichewa buluzi undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Chichewa buluzi <br/>
+    <em>Niger-Congo Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: nonbinary/queer § Adjective
 
 *nonbinary/queer* **§** Adjective
 
+**IPA**: /ˈbi.su/
+
 **Verb**: to be nonbinary/queer
 
 **Noun**: nonbinaryness/queerness
 
 **Modifier**: nonbinary/queer
 
-Buginese ᨅᨗᨔᨘ bissu undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Buginese ᨅᨗᨔᨘ bissu [bisːu]<br/>
+    <em>Austronesian Language Family</em>
+</details>

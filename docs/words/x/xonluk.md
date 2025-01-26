@@ -10,12 +10,16 @@ hoverText: young § Adjective
 
 *young* **§** Adjective
 
+**IPA**: /ˈʃɑn.lʌk/
+
 **Verb**: to be young/youthful
 
 **Noun**: youngness/youthfulness
 
 **Modifier**: young/youthful
 
-Chuvash ҫамрӑк śamrăk undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Chuvash ҫамрӑк śamrăk [ɕɑmrək]<br/>
+    <em>Turkic Language Family</em>
+</details>

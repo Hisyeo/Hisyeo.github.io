@@ -10,12 +10,16 @@ hoverText: strong § Adjective
 
 *strong* **§** Adjective
 
+**IPA**: /ˈlɛn/
+
 **Verb**: to be strong/forceful
 
 **Noun**: strength/force
 
 **Modifier**: strong/forceful
 
-Thai แรง rɛɛng undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai แรง rɛɛng /rɛːŋ˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

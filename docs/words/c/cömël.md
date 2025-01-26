@@ -10,12 +10,16 @@ hoverText: cute § Adjective
 
 *cute* **§** Adjective
 
+**IPA**: /ˈt͡ɕo.mel/
+
 **Verb**: to be cute/charming
 
 **Noun**: cuteness/charmingness
 
 **Modifier**: cute/charming
 
-Malay comel undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay comel [ˈt͡ʃo.mel]<br/>
+    <em>Austronesian Language Family</em>
+</details>

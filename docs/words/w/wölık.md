@@ -10,12 +10,16 @@ hoverText: smoke/cloud § Noun
 
 *smoke/cloud* **§** Noun
 
+**IPA**: /ˈwo.lɪk/
+
 **Verb**: to be smoke/a cloud
 
 **Noun**: smoke/cloud
 
 **Modifier**: smoke/cloud-related
 
-Dutch wolk undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch wolk /ʋɔlk/<br/>
+    <em>Germanic Language Family</em>
+</details>

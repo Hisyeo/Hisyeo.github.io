@@ -10,12 +10,16 @@ hoverText: violet § Adjective
 
 *violet* **§** Adjective
 
+**IPA**: /ˈmɛ.nɛk.ʃɛ/
+
 **Verb**: to be violet
 
 **Noun**: violet-ness
 
 **Modifier**: violet
 
-Turkish menekşe undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish menekşe /mɛnɛcʃɛ/<br/>
+    <em>Turkic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: pink § Adjective
 
 *pink* **§** Adjective
 
+**IPA**: /ˈgu.lɑ.bi/
+
 **Verb**: to be pink
 
 **Noun**: pink
 
 **Modifier**: pink-related
 
-Kannada ಗುಲಾಬಿ gulābi undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Kannada ಗುಲಾಬಿ gulābi /ɡulaːbi/<br/>
+    <em>Dravidian Language Family</em>
+</details>

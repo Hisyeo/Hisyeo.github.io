@@ -10,12 +10,16 @@ hoverText: drone/buzz/hum § Noun
 
 *drone/buzz/hum* **§** Noun
 
+**IPA**: /ˈsun.bi.du/
+
 **Verb**: to be a drone/buzz/hum
 
 **Noun**: a drone/buzz/hum
 
 **Modifier**: drone-related/buzz-related/hum-related
 
-Portuguese zumbido undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese zumbido /zũˈbi.du/<br/>
+    <em>Romance Language Family</em>
+</details>

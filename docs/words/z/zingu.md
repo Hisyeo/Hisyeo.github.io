@@ -10,12 +10,16 @@ hoverText: orange § Adjective
 
 *orange* **§** Adjective
 
+**IPA**: /ˈd͡ʒin.gʌ/
+
 **Verb**: to be orange
 
 **Noun**: orange-ness
 
 **Modifier**: orange
 
-Malay jingga undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay jingga /d͡ʒiŋɡə/<br/>
+    <em>Austronesian Language Family</em>
+</details>

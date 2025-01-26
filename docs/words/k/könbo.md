@@ -10,12 +10,16 @@ hoverText: shaking § Adjective
 
 *shaking* **§** Adjective
 
+**IPA**: /ˈkon.bɑ/
+
 **Verb**: to be shaking/trembling/vibrating/non-traversally moving
 
 **Noun**: shakiness/tremulousness/vibration
 
 **Modifier**: shaking/trembling/vibrating/non-traversally moving
 
-Assamese কঁপা kõpa undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Assamese কঁপা kõpa /kɔ̃pa/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

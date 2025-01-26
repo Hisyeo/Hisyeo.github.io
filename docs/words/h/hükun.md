@@ -10,12 +10,16 @@ hoverText: to order (a command) § Verb
 
 *to order (a command)* **§** Verb
 
+**IPA**: /ˈhu.kʌn/
+
 **Verb**: to order/command
 
 **Noun**: an order/command
 
 **Modifier**: orderable/commandable
 
-Arabic حُكْم ḥukm undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic حُكْم ḥukm /ħukm/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

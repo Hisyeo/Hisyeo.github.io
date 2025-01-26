@@ -10,12 +10,16 @@ hoverText: mature/ripe § Adjective
 
 *mature/ripe* **§** Adjective
 
+**IPA**: /ˈmuk.nɑ/
+
 **Verb**: to be mature/ripe/adult
 
 **Noun**: matureness/ripeness/adultness
 
 **Modifier**: mature/ripe/adult
 
-Swedish mogna undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish mogna [muːgnɑː]<br/>
+    <em>Germanic Language Family</em>
+</details>

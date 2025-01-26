@@ -10,12 +10,16 @@ hoverText: to fold (the folded) § Verb
 
 *to fold (the folded)* **§** Verb
 
+**IPA**: /ˈsu.o.ʃɪt͡ɕ/
+
 **Verb**: to fold
 
 **Noun**: the folded
 
 **Modifier**: foldable
 
-Polish złożyć undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish złożyć /ˈzwɔ.ʐɨt͡ɕ/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

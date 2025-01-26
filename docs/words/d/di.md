@@ -10,12 +10,16 @@ hoverText: to become (a trait) § Verb
 
 *to become (a trait)* **§** Verb
 
+**IPA**: /ˈdi/
+
 **Verb**: to become/change
 
 **Noun**: a quality/aspect/trait
 
 **Modifier**: aspectual/beable
 
-Yoruba di undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba di /di/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

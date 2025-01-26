@@ -10,12 +10,16 @@ hoverText: meat/muscle § Noun
 
 *meat/muscle* **§** Noun
 
+**IPA**: /ˈɑk.sun/
+
 **Verb**: to be meat/muscle
 
 **Noun**: meat/muscle
 
 **Modifier**: meat/muscle-related
 
-Kabyle aksum undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Kabyle aksum /ˈaksum/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

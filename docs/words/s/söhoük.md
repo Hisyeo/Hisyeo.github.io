@@ -10,12 +10,16 @@ hoverText: arithmetic/math § Noun
 
 *arithmetic/math* **§** Noun
 
+**IPA**: /ˈso.hɑ.uk/
+
 **Verb**: to be arithmetic/math
 
 **Noun**: arithmetic/math
 
 **Modifier**: arithmetic/math-related
 
-Vietnamese số học undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese số học [so˧˦ hawk͡p̚˧˨ʔ]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

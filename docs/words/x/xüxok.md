@@ -10,12 +10,16 @@ hoverText: hell § Noun
 
 *hell* **§** Noun
 
+**IPA**: /ˈʃu.ʃɑk/
+
 **Verb**: to be hell
 
 **Noun**: hell
 
 **Modifier**: hell-related
 
-Avar жужахӏ žužaḥʳ undefined
-
-*Nakh-Daghestani Language Family*
+<details>
+    <summary>Origin</summary>
+    Avar жужахӏ žužaḥʳ /ʒuʒaʜ/<br/>
+    <em>Nakh-Daghestani Language Family</em>
+</details>

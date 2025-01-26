@@ -10,12 +10,16 @@ hoverText: to inherit (inheritance) § Verb
 
 *to inherit (inheritance)* **§** Verb
 
+**IPA**: /ˈit͡ɕ.wɑn/
+
 **Verb**: to inherit
 
 **Noun**: inheritance
 
 **Modifier**: inheritable
 
-Mandarin 遺傳 yíchuán undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 遺傳 yíchuán /ji.ʈʂʰwan/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

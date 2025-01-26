@@ -10,12 +10,16 @@ hoverText: revenge/vengeance § Noun
 
 *revenge/vengeance* **§** Noun
 
+**IPA**: /ˈfu.ku.ʃɪ/
+
 **Verb**: to be a revenge/vengeance
 
 **Noun**: revenge/vengeance
 
 **Modifier**: revenge/vengeance-related
 
-Japanese ふくしゅう fukushū undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese ふくしゅう fukushū [ɸɯ̟̊ᵝkɯ̟ᵝɕɨᵝː]<br/>
+    <em>Japonic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: disgusted § Adjective
 
 *disgusted* **§** Adjective
 
+**IPA**: /ˈgɑl.fɑn/
+
 **Verb**: to be disgusted
 
 **Noun**: disgust
 
 **Modifier**: disgusted
 
-Arabic, Hijazi قرفان garfān undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic, Hijazi قرفان garfān /ɡarfaːn/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: week § Noun
 
 *week* **§** Noun
 
+**IPA**: /ˈwe.ʃon/
+
 **Verb**: to be a week
 
 **Noun**: a week
 
 **Modifier**: week-related
 
-Komi-Zyrian вежон vežon undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Komi-Zyrian вежон vežon [ˈʋeʒ̺o̞n]<br/>
+    <em>Uralic Language Family</em>
+</details>

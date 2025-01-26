@@ -10,12 +10,16 @@ hoverText: energy/power § Noun
 
 *energy/power* **§** Noun
 
+**IPA**: /ˈul.d͡ʒɑ/
+
 **Verb**: to be energy/power
 
 **Noun**: energy/power
 
 **Modifier**: energy/power-related
 
-Hindi ऊर्जा ūrjā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi ऊर्जा ūrjā [uːɾ.d͡ʒäː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: only § Adjective
 
 *only* **§** Adjective
 
+**IPA**: /ˈtol.ki/
+
 **Verb**: to be alone/exclusive
 
 **Noun**: aloneness/exclusiveness
 
 **Modifier**: alone/only/exclusively
 
-Belarusian то́лькі tólʹki undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Belarusian то́лькі tólʹki [ˈtolʲkʲi]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

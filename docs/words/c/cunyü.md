@@ -10,12 +10,16 @@ hoverText: cold § Adjective
 
 *cold* **§** Adjective
 
+**IPA**: /ˈt͡ɕʌn.ju/
+
 **Verb**: to be cold
 
 **Noun**: coldness
 
 **Modifier**: cold
 
-Tibetan གྲང་མོ grang mo undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Tibetan གྲང་མོ grang mo /ʈ͡ʂʰəŋ˩˧.ŋu˥˥/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

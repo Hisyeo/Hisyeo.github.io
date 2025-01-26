@@ -10,12 +10,16 @@ hoverText: sphere § Noun
 
 *sphere* **§** Noun
 
+**IPA**: /gʌn.ˈdɑ.le/
+
 **Verb**: to be a sphere
 
 **Noun**: sphere
 
 **Modifier**: sphere-related/spherical
 
-Pashto غونډاری‎ ghunddarai undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Pashto غونډاری‎ ghunddarai /ɣun.ɖɑ.rai/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

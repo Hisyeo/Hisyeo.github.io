@@ -10,12 +10,16 @@ hoverText: to understand (a concept) § Verb
 
 *to understand (a concept)* **§** Verb
 
+**IPA**: /ˈhe.fin/
+
 **Verb**: to understand
 
 **Noun**: a concept
 
 **Modifier**: understandable
 
-Hebrew הֵבִין hevín undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew הֵבִין hevín /(h)eˈvin/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

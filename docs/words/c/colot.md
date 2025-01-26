@@ -10,12 +10,16 @@ hoverText: wise/clever § Adjective
 
 *wise/clever* **§** Adjective
 
+**IPA**: /ˈt͡ɕɑ.lɑt/
+
 **Verb**: to be wise/clever
 
 **Noun**: wiseness/cleverness
 
 **Modifier**: wise/clever
 
-Thai ฉลาด chà-làat undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ฉลาด chà-làat /t͡ɕʰa˨˩.laːt̚˨˩/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

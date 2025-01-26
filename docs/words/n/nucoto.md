@@ -10,12 +10,16 @@ hoverText: planet § Noun
 
 *planet* **§** Noun
 
+**IPA**: /nʌ.ˈt͡ɕɑ.tɑ/
+
 **Verb**: to be a planet
 
 **Noun**: planet
 
 **Modifier**: planet-related
 
-Punjabi ਨਛੱਤਰ nachattar undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Punjabi ਨਛੱਤਰ nachattar /naˈt͡ʃʰa.t̪aɾ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

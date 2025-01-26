@@ -10,12 +10,16 @@ hoverText: pinecone § Noun
 
 *pinecone* **§** Noun
 
+**IPA**: /ˈʃi.ʃʌl.kɑ/
+
 **Verb**: to be a pinecone
 
 **Noun**: pinecone
 
 **Modifier**: pinecone-related
 
-Macedonian шишарка šišarka undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Macedonian шишарка šišarka [ˈʃiʃarka]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

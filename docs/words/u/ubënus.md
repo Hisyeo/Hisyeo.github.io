@@ -10,12 +10,16 @@ hoverText: barely § Adjective
 
 *barely* **§** Adjective
 
+**IPA**: /ʌ.ˈbe.nʌs/
+
 **Verb**: to be barely/scarcely
 
 **Noun**: bareliness/scarceliness
 
 **Modifier**: barely/scarcely
 
-Portuguese abenas undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese abenas /ɐˈpe.nɐʃ/<br/>
+    <em>Romance Language Family</em>
+</details>

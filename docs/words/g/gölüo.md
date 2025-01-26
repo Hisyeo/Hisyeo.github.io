@@ -10,12 +10,16 @@ hoverText: melted § Adjective
 
 *melted* **§** Adjective
 
+**IPA**: /ˈgo.lu.ɑ/
+
 **Verb**: to be melted/liquefied
 
 **Noun**: meltedness/liquefiedness
 
 **Modifier**: melted/liquefied
 
-Assamese গলোৱা golüa undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Assamese গলোৱা golüa /ɡɔ.lʊa/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

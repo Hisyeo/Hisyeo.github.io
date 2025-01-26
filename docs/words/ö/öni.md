@@ -10,12 +10,16 @@ hoverText: agentive verb noun particle § Particle
 
 *agentive verb noun particle* **§** Particle
 
+**IPA**: /ˈo.ni/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Yoruba oni- undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba oni- /ō.nĩ́/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

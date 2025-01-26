@@ -10,12 +10,16 @@ hoverText: door § Noun
 
 *door* **§** Noun
 
+**IPA**: /ˈd͡ʒɪn.kɑn/
+
 **Verb**: to be a door/gate
 
 **Noun**: door/gate
 
 **Modifier**: door/gate-related
 
-Khasi jingkang undefined
-
-*Austro-asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khasi jingkang [dʒɪŋkaŋ<br/>
+    <em>Austro-asiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: sad § Adjective
 
 *sad* **§** Adjective
 
+**IPA**: /ˈku.jo/
+
 **Verb**: to be sad
 
 **Noun**: sadness
 
 **Modifier**: sad
 
-Dholuo kuyo undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Dholuo kuyo <br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

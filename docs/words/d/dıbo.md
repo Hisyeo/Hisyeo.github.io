@@ -10,12 +10,16 @@ hoverText: container § Noun
 
 *container* **§** Noun
 
+**IPA**: /ˈdɪ.bɑ/
+
 **Verb**: to be a container
 
 **Noun**: container
 
 **Modifier**: container-related
 
-Hindi डिब्बा ḍibbā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi डिब्बा ḍibbā [ˈɖɪbːa(ː)]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: ceiling § Noun
 
 *ceiling* **§** Noun
 
+**IPA**: /ˈdɛ.kʌ/
+
 **Verb**: to be a ceiling
 
 **Noun**: ceiling
 
 **Modifier**: ceiling-related
 
-German Decke undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Decke /ˈdɛkə/<br/>
+    <em>Germanic Language Family</em>
+</details>

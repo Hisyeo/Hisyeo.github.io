@@ -10,12 +10,16 @@ hoverText: puzzle/mystery § Noun
 
 *puzzle/mystery* **§** Noun
 
+**IPA**: /ˈnɑ.so/
+
 **Verb**: to be a puzzle/mystery
 
 **Noun**: puzzle/mystery
 
 **Modifier**: puzzle/mystery-related
 
-Japanese なぞ nazo undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese なぞ nazo [na̠zo̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: public/communal § Adjective
 
 *public/communal* **§** Adjective
 
+**IPA**: /ˈfi.mos.jos/
+
 **Verb**: to be public/communal
 
 **Noun**: publicness/communalness
 
 **Modifier**: public/communal
 
-Greek δημόσιος dimósios undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek δημόσιος dimósios /ðiˈmo.si.os/<br/>
+    <em>Hellenic Language Family</em>
+</details>

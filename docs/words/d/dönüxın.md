@@ -10,12 +10,16 @@ hoverText: conversion § Noun
 
 *conversion* **§** Noun
 
+**IPA**: /ˈdo.nu.ʃɪn/
+
 **Verb**: to be a conversion/transformation
 
 **Noun**: conversion/transformation
 
 **Modifier**: conversion/transformation-related
 
-Turkish dönüşüm undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish dönüşüm [dœnyʃʏm]<br/>
+    <em>Turkic Language Family</em>
+</details>

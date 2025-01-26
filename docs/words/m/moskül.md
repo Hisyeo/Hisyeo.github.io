@@ -10,12 +10,16 @@ hoverText: male § Adjective
 
 *male* **§** Adjective
 
+**IPA**: /ˈmɑs.kul/
+
 **Verb**: to be male/masculine
 
 **Noun**: maleness/masculinity
 
 **Modifier**: male/masculine
 
-Romanian mascul undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Romanian mascul [masˈkul]<br/>
+    <em>Romance Language Family</em>
+</details>

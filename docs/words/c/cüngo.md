@@ -10,12 +10,16 @@ hoverText: to filter (the filtered) § Verb
 
 *to filter (the filtered)* **§** Verb
 
+**IPA**: /ˈt͡ɕun.gɑ/
+
 **Verb**: to filter/sieve/winnow
 
 **Noun**: the filtered/sieved/winnowed
 
 **Modifier**: filterable/sieveable/winnowable
 
-Swahili -chunga undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -chunga [tʃuᵑɡ̊ɑ]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

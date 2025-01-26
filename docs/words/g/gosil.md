@@ -10,12 +10,16 @@ hoverText: short § Adjective
 
 *short* **§** Adjective
 
+**IPA**: /ˈgɑ.sil/
+
 **Verb**: to be short/low
 
 **Noun**: shortness/lowness
 
 **Modifier**: short/low
 
-Arabic, Hijazi قصير gaṣīr undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic, Hijazi قصير gaṣīr /ɡa.sˤiːr/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

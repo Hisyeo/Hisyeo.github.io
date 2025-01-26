@@ -10,12 +10,16 @@ hoverText: rhythm/beat § Adjective
 
 *rhythm/beat* **§** Adjective
 
+**IPA**: /ˈkɑn.wɑ/
+
 **Verb**: to be a rhythm/beat
 
 **Noun**: rhythm/beat
 
 **Modifier**: rhythm/beat-related
 
-Khmer ចង្វាក់ cɑngvak undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer ចង្វាក់ cɑngvak /cɑŋ.ˈʋaʔ/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

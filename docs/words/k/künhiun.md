@@ -10,12 +10,16 @@ hoverText: step/pace § Noun
 
 *step/pace* **§** Noun
 
+**IPA**: /ˈkun.hi.ʌn/
+
 **Verb**: to be a step/pace
 
 **Noun**: step/pace
 
 **Modifier**: step/pace-related
 
-Khmer ជំហាន cumhiən undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer ជំហាន cumhiən /cum.ˈhiən/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

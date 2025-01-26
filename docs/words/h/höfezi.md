@@ -10,12 +10,16 @@ hoverText: bovine § Noun
 
 *bovine* **§** Noun
 
+**IPA**: /ˈho.fɛ.d͡ʒi/
+
 **Verb**: to be a cow/bovine
 
 **Noun**: cow/bovine
 
 **Modifier**: cow/bovine-related
 
-Slovak hovädzí undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Slovak hovädzí /ˈɦɔvɛd͡ziː/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

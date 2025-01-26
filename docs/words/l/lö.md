@@ -10,12 +10,16 @@ hoverText: moving § Adjective
 
 *moving* **§** Adjective
 
+**IPA**: /ˈlo/
+
 **Verb**: to be moving/to go
 
 **Noun**: movement
 
 **Modifier**: moving
 
-Yoruba lọ undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba lọ /lɔ̄/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

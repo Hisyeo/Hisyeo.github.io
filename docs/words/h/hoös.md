@@ -10,12 +10,16 @@ hoverText: chaotic § Adjective
 
 *chaotic* **§** Adjective
 
+**IPA**: /ˈhɑ.os/
+
 **Verb**: to be chaotic
 
 **Noun**: chaoticness/chaos
 
 **Modifier**: chaotic
 
-Greek χάος cháos undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek χάος cháos /ˈxa.os/<br/>
+    <em>Hellenic Language Family</em>
+</details>

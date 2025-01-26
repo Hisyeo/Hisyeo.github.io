@@ -10,12 +10,16 @@ hoverText: liquid § Noun
 
 *liquid* **§** Noun
 
+**IPA**: /ˈfɛt͡ɕ.kɑ/
+
 **Verb**: to be a liquid
 
 **Noun**: a liquid
 
 **Modifier**: liquid-related
 
-Swedish vätska undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish vätska [vɛːtskɑ]<br/>
+    <em>Germanic Language Family</em>
+</details>

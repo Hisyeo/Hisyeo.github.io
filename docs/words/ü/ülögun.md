@@ -10,12 +10,16 @@ hoverText: metal § Noun
 
 *metal* **§** Noun
 
+**IPA**: /ˈu.lo.gʌn/
+
 **Verb**: to be metal
 
 **Noun**: metal
 
 **Modifier**: metal-related/metallic
 
-Tamil உலோகம் ulōkam undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil உலோகம் ulōkam /uloːɡɐm/<br/>
+    <em>Dravidian Language Family</em>
+</details>

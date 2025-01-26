@@ -10,12 +10,16 @@ hoverText: bulb § Noun
 
 *bulb* **§** Noun
 
+**IPA**: /ˈlon.kɪn/
+
 **Verb**: to be a bulb
 
 **Noun**: a bulb
 
 **Modifier**: bulb-like
 
-Cantonese 鱗莖 leon4 ging3 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 鱗莖 leon4 ging3 [lɵnkɪŋ]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

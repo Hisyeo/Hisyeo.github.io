@@ -10,12 +10,16 @@ hoverText: furniture § Noun
 
 *furniture* **§** Noun
 
+**IPA**: /ˈmi.e.bɪl/
+
 **Verb**: to be furniture
 
 **Noun**: furniture
 
 **Modifier**: furniture-related
 
-Russian ме́бель mébelʹ undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Russian ме́бель mébelʹ [ˈmʲebʲɪlʲ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

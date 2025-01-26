@@ -10,12 +10,16 @@ hoverText: 15 fifteen § Numeral
 
 *15 fifteen* **§** Numeral
 
+**IPA**: /ˈkin.se/
+
 **Verb**: to be fifteen
 
 **Noun**: fifteen
 
 **Modifier**: fifteenth
 
-Waray kinse undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Waray kinse /ˈkinse/<br/>
+    <em>Austronesian Language Family</em>
+</details>

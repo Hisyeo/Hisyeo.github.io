@@ -10,12 +10,16 @@ hoverText: 01 one § Numeral
 
 *01 one* **§** Numeral
 
+**IPA**: /ˈkʌt/
+
 **Verb**: to be one
 
 **Noun**: one
 
 **Modifier**: first
 
-Zou khèt undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Zou khèt /kʰət˧˩/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

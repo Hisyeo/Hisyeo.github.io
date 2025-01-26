@@ -10,12 +10,16 @@ hoverText: fungus § Noun
 
 *fungus* **§** Noun
 
+**IPA**: /ˈʃɪ.fɑn/
+
 **Verb**: to be a fungus/mushroom
 
 **Noun**: fungus/mushroom
 
 **Modifier**: fungus/mushroom-related
 
-Bavarian schwamm undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Bavarian schwamm /ʃvam/<br/>
+    <em>Germanic Language Family</em>
+</details>

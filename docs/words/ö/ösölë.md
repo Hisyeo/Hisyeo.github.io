@@ -10,12 +10,16 @@ hoverText: afraid § Adjective
 
 *afraid* **§** Adjective
 
+**IPA**: /ˈo.so.le/
+
 **Verb**: to be scared
 
 **Noun**: fear
 
 **Modifier**: scared
 
-Japanese 恐れ osore undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 恐れ osore [o̞so̞ɾe̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

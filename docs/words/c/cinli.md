@@ -10,12 +10,16 @@ hoverText: to undergo (an experience) § Verb
 
 *to undergo (an experience)* **§** Verb
 
+**IPA**: /ˈt͡ɕin.li/
+
 **Verb**: to undergo/experience/go through
 
 **Noun**: an experience
 
 **Modifier**: undergoable/experienceable
 
-Mandarin 經歷 jīnglì undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 經歷 jīnglì [tɕiŋli]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

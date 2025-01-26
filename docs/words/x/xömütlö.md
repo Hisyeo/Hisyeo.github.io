@@ -10,12 +10,16 @@ hoverText: ocean § Noun
 
 *ocean* **§** Noun
 
+**IPA**: /ˈʃo.mut.lo/
+
 **Verb**: to be an ocean/sea
 
 **Noun**: ocean/sea
 
 **Modifier**: ocean/sea-related
 
-Bengali সমুদ্র śomudro undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali সমুদ্র śomudro /ʃo.mud.ro/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

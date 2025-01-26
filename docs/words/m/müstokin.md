@@ -10,12 +10,16 @@ hoverText: straight § Adjective
 
 *straight* **§** Adjective
 
+**IPA**: /ˈmus.tɑ.kin/
+
 **Verb**: to be straight
 
 **Noun**: straightness
 
 **Modifier**: straight
 
-Arabic مُسْتَقِيم mustaqīm undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic مُسْتَقِيم mustaqīm /mus.ta.qiːm/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

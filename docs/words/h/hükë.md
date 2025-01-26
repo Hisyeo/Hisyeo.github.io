@@ -10,12 +10,16 @@ hoverText: to mine (ore) § Verb
 
 *to mine (ore)* **§** Verb
 
+**IPA**: /ˈhu.ke/
+
 **Verb**: to mine/extract
 
 **Noun**: ore/extracted
 
 **Modifier**: minable/extractable
 
-Maori huke undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Maori huke /huke/<br/>
+    <em>Austronesian Language Family</em>
+</details>

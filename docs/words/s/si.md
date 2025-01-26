@@ -10,12 +10,16 @@ hoverText: perfect verb particle § Particle
 
 *perfect verb particle* **§** Particle
 
+**IPA**: /ˈsi/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-German, Alemannic sii undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German, Alemannic sii /siː/<br/>
+    <em>Germanic Language Family</em>
+</details>

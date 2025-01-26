@@ -10,12 +10,16 @@ hoverText: monster § Noun
 
 *monster* **§** Noun
 
+**IPA**: /ˈjuk.wɑ.i/
+
 **Verb**: to be a monster/devil/goblin
 
 **Noun**: monster/devil/goblin
 
 **Modifier**: monster/devil/goblin-related
 
-Cantonese 妖怪  jiu2 gwaai3 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 妖怪  jiu2 gwaai3 /jiːu̯.kʷaːi̯/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

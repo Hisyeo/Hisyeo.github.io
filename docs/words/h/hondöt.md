@@ -10,12 +10,16 @@ hoverText: jealous § Adjective
 
 *jealous* **§** Adjective
 
+**IPA**: /ˈhɑn.dot/
+
 **Verb**: to be jealous/envious
 
 **Noun**: jealousy/envy
 
 **Modifier**: jealous/envious
 
-Armenian խանդոտ xandot undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian խանդոտ xandot [χɑnˈdot]<br/>
+    <em>Armenian Language Family</em>
+</details>

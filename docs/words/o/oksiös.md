@@ -10,12 +10,16 @@ hoverText: worthy § Adjective
 
 *worthy* **§** Adjective
 
+**IPA**: /ˈɑk.si.os/
+
 **Verb**: to be worthy/deserving
 
 **Noun**: merit/deservingness
 
 **Modifier**: worthy/deserving
 
-Greek άξιος áxios undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek άξιος áxios /ˈak.si.os/<br/>
+    <em>Hellenic Language Family</em>
+</details>

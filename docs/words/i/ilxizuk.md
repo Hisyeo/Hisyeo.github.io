@@ -10,12 +10,16 @@ hoverText: temporary § Adjective
 
 *temporary* **§** Adjective
 
+**IPA**: /ˈil.ʃi.d͡ʒʌk/
+
 **Verb**: to be temporary/ephemeral
 
 **Noun**: temporariness/ephemerality
 
 **Modifier**: temporary/ephemeral
 
-Korean 일시적 ilsijeok undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 일시적 ilsijeok [iɭɕʰid͡ʑʌ̹k̚]<br/>
+    <em>Koreic Language Family</em>
+</details>

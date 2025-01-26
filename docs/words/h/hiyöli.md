@@ -10,12 +10,16 @@ hoverText: weak § Adjective
 
 *weak* **§** Adjective
 
+**IPA**: /ˈhi.jo.li/
+
 **Verb**: to be weak
 
 **Noun**: weakness
 
 **Modifier**: weak
 
-Bum hiyòlì undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Bum hiyòlì [híjɔ̀lì]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

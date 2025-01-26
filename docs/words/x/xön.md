@@ -10,12 +10,16 @@ hoverText: good § Adjective
 
 *good* **§** Adjective
 
+**IPA**: /ˈʃon/
+
 **Verb**: to be good
 
 **Noun**: goodness
 
 **Modifier**: good
 
-Hmong, White zoo undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong, White zoo /ʐɔŋ˧/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

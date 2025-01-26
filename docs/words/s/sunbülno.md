@@ -10,12 +10,16 @@ hoverText: flawless § Adjective
 
 *flawless* **§** Adjective
 
+**IPA**: /sʌn.ˈbul.nɑ/
+
 **Verb**: to be flawless/perfect
 
 **Noun**: flawlessness/perfectness
 
 **Modifier**: flawless/perfect
 
-Indonesian sêmpurna undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Indonesian sêmpurna /səm.pur.na/<br/>
+    <em>Austronesian Language Family</em>
+</details>

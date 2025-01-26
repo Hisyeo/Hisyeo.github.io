@@ -10,12 +10,16 @@ hoverText: loud § Adjective
 
 *loud* **§** Adjective
 
+**IPA**: /ˈɑl.tu/
+
 **Verb**: to be loud
 
 **Noun**: loudness
 
 **Modifier**: loud
 
-Portuguese alto undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese alto [ˈaɫ.tu]<br/>
+    <em>Romance Language Family</em>
+</details>

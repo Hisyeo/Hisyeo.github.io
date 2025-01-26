@@ -10,12 +10,16 @@ hoverText: ugly § Adjective
 
 *ugly* **§** Adjective
 
+**IPA**: /ʌ.ˈsun.dʌl/
+
 **Verb**: to be ugly
 
 **Noun**: ugliness
 
 **Modifier**: ugly
 
-Hindi असुंदर asundar undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi असुंदर asundar [ɐ.sʊ̃n̪.d̪ɐɾ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

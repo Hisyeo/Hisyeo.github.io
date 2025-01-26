@@ -10,12 +10,16 @@ hoverText: plant § Noun
 
 *plant* **§** Noun
 
+**IPA**: /ˈgɑs/
+
 **Verb**: to be a plant
 
 **Noun**: plant
 
 **Modifier**: plant-related
 
-Dhivehi ގަސް gas undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Dhivehi ގަސް gas [ɡäs̺]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

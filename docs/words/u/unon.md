@@ -10,12 +10,16 @@ hoverText: to smell (a scent) § Verb
 
 *to smell (a scent)* **§** Verb
 
+**IPA**: /ˈʌ.nɑn/
+
 **Verb**: to smell
 
 **Noun**: a smell/scent
 
 **Modifier**: smellable
 
-Burmese အနံ့ a.nam undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Burmese အနံ့ a.nam /ʔəna̰ɴ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: explosion/blast § Noun
 
 *explosion/blast* **§** Noun
 
+**IPA**: /dʌ.ˈmɑ.kɑ/
+
 **Verb**: to be an explosion/blast
 
 **Noun**: explosion/blast
 
 **Modifier**: explosion/blast-related
 
-Urdu دَھماکَہ dhamākah undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Urdu دَھماکَہ dhamākah /d̪ʱə.mɑː.kɑ(ːɦ)/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

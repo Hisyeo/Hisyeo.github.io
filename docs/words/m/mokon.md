@@ -10,12 +10,16 @@ hoverText: to eat (food) § Verb
 
 *to eat (food)* **§** Verb
 
+**IPA**: /ˈmɑ.kɑn/
+
 **Verb**: to eat
 
 **Noun**: food
 
 **Modifier**: edible
 
-Indonesian makan undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Indonesian makan /ma.kan/<br/>
+    <em>Austronesian Language Family</em>
+</details>

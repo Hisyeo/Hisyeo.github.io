@@ -10,12 +10,16 @@ hoverText: deity § Noun
 
 *deity* **§** Noun
 
+**IPA**: /ˈot.so.tɑt/
+
 **Verb**: to be a deity/god
 
 **Noun**: deity/god
 
 **Modifier**: deity/god-related/divine
 
-Atakapa o'tsotat undefined
-
-*Misc Language Family*
+<details>
+    <summary>Origin</summary>
+    Atakapa o'tsotat -<br/>
+    <em>Misc Language Family</em>
+</details>

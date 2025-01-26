@@ -10,12 +10,16 @@ hoverText: it § Pronoun
 
 *it* **§** Pronoun
 
+**IPA**: /ˈnɪ/
+
 **Verb**: to be it
 
 **Noun**: it
 
 **Modifier**: its
 
-Hmong, White nws undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong, White nws /nɨ˩/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

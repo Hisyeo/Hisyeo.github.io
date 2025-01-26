@@ -10,12 +10,16 @@ hoverText: rail/rack/bar § Noun
 
 *rail/rack/bar* **§** Noun
 
+**IPA**: /ˈkis.ko/
+
 **Verb**: to be a rail/rack/bar
 
 **Noun**: rail/rack/bar
 
 **Modifier**: rail/rack/bar-related
 
-Finnish kisko undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Finnish kisko [ˈk̟is̠ko̞]<br/>
+    <em>Uralic Language Family</em>
+</details>

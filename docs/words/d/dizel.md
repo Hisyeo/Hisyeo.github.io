@@ -10,12 +10,16 @@ hoverText: other § Pronoun
 
 *other* **§** Pronoun
 
+**IPA**: /ˈdi.d͡ʒɛl/
+
 **Verb**: to be the other one
 
 **Noun**: other (one)
 
 **Modifier**: other
 
-Azerbaijani digər undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani digər [ˈdid͡ʒær]<br/>
+    <em>Turkic Language Family</em>
+</details>

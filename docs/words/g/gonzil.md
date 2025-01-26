@@ -10,12 +10,16 @@ hoverText: strange § Adjective
 
 *strange* **§** Adjective
 
+**IPA**: /ˈgɑn.d͡ʒil/
+
 **Verb**: to be strange/weird/abnormal
 
 **Noun**: strangeness/weirdness/abnormality
 
 **Modifier**: strange/weird/abnormal
 
-Malay ݢنجيل‎ ganjil undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay ݢنجيل‎ ganjil /ɡand͡ʒil/<br/>
+    <em>Austronesian Language Family</em>
+</details>

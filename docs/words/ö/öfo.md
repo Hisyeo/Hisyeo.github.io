@@ -10,12 +10,16 @@ hoverText: proximal demonstrative (this/here) § Pronoun
 
 *proximal demonstrative (this/here)* **§** Pronoun
 
+**IPA**: /ˈo.fɑ/
+
 **Verb**: to be this
 
 **Noun**: this
 
 **Modifier**: this
 
-Macedonian ова ova undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Macedonian ова ova [ˈɔva]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

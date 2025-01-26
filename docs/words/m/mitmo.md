@@ -10,12 +10,16 @@ hoverText: colony § Noun
 
 *colony* **§** Noun
 
+**IPA**: /ˈmit.mɑ/
+
 **Verb**: to be a colony
 
 **Noun**: colony
 
 **Modifier**: colony-related
 
-Quechua mitma undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Quechua mitma /'mit.ma/<br/>
+    <em>Quechumaran Language Family</em>
+</details>

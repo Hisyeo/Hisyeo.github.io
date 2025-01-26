@@ -10,12 +10,16 @@ hoverText: to taste (a flavor) § Verb
 
 *to taste (a flavor)* **§** Verb
 
+**IPA**: /ˈsɑ.bo.le/
+
 **Verb**: to taste
 
 **Noun**: a flavor
 
 **Modifier**: tastable
 
-Italian sapore undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian sapore /saˈpo.re/<br/>
+    <em>Romance Language Family</em>
+</details>

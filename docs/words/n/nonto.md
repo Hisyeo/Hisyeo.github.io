@@ -10,12 +10,16 @@ hoverText: tear (of the eye) § Noun
 
 *tear (of the eye)* **§** Noun
 
+**IPA**: /ˈnɑn.tɑ/
+
 **Verb**: to be a tear
 
 **Noun**: tear
 
 **Modifier**: tear-related
 
-Thai น้ำตา nám-dtaa undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai น้ำตา nám-dtaa /nam˦˥.taː˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

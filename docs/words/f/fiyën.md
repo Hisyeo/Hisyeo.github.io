@@ -10,12 +10,16 @@ hoverText: 100 hundred § Numeral
 
 *100 hundred* **§** Numeral
 
+**IPA**: /ˈfi.jen/
+
 **Verb**: to be a hundred
 
 **Noun**: hundred
 
 **Modifier**: hundredth
 
-Spanish cien undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish cien [ˈθjẽn]<br/>
+    <em>Romance Language Family</em>
+</details>

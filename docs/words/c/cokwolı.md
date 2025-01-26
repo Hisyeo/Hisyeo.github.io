@@ -10,12 +10,16 @@ hoverText: pyramid § Noun
 
 *pyramid* **§** Noun
 
+**IPA**: /ˈt͡ɕɑk.wɑ.lɪ/
+
 **Verb**: to be a pyramid
 
 **Noun**: a pyramid
 
 **Modifier**: pyramid-like
 
-Nahuatl tzacualli undefined
-
-*Yuto-Nahuatl Language Family*
+<details>
+    <summary>Origin</summary>
+    Nahuatl tzacualli /tsakʷalli/<br/>
+    <em>Yuto-Nahuatl Language Family</em>
+</details>

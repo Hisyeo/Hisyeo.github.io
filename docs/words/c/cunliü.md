@@ -10,12 +10,16 @@ hoverText: to distill (the distilled) § Verb
 
 *to distill (the distilled)* **§** Verb
 
+**IPA**: /t͡ɕʌn.ˈli.u/
+
 **Verb**: to distill
 
 **Noun**: the distilled
 
 **Modifier**: distillable
 
-Mandarin 蒸餾 zhēngliú undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 蒸餾 zhēngliú [ʈʂəŋljou̯]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

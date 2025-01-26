@@ -10,12 +10,16 @@ hoverText: sexual § Adjective
 
 *sexual* **§** Adjective
 
+**IPA**: /ˈd͡ʒen.si/
+
 **Verb**: to be sexual
 
 **Noun**: sexualness/sexuality
 
 **Modifier**: sexual
 
-Persian جنسی jensi undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian جنسی jensi [d͡ʒen.síː]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

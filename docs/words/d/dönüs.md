@@ -10,12 +10,16 @@ hoverText: pig § Noun
 
 *pig* **§** Noun
 
+**IPA**: /ˈdo.nus/
+
 **Verb**: to be a pig/swine
 
 **Noun**: pig/swine
 
 **Modifier**: pig/swine-related
 
-Azerbaijani donuz undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani donuz [doˈnuz]<br/>
+    <em>Turkic Language Family</em>
+</details>

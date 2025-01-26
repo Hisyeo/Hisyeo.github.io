@@ -10,12 +10,16 @@ hoverText: modest/chaste § Adjective
 
 *modest/chaste* **§** Adjective
 
+**IPA**: /ˈbu.di.ko/
+
 **Verb**: to be modest/chaste
 
 **Noun**: modesty/chastity
 
 **Modifier**: modest/chaste
 
-Italian pudico undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian pudico /puˈdi.ko/<br/>
+    <em>Romance Language Family</em>
+</details>

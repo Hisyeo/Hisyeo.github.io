@@ -10,12 +10,16 @@ hoverText: fraction § Noun
 
 *fraction* **§** Noun
 
+**IPA**: /ˈfʌn/
+
 **Verb**: to be a fraction
 
 **Noun**: fraction
 
 **Modifier**: fraction-related
 
-Vietnamese phần undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese phần [fəŋ˨˩]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: cheek § Noun
 
 *cheek* **§** Noun
 
+**IPA**: /ˈɛ.lɛ.ke/
+
 **Verb**: to be a cheek
 
 **Noun**: cheek
 
 **Modifier**: cheek-related
 
-Yoruba ẹ̀rẹ̀kẹ́ undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba ẹ̀rẹ̀kẹ́ /ɛ̀.ɾɛ̀.kɛ́/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

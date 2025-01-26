@@ -10,12 +10,16 @@ hoverText: to push (the pushed/repelled) § Verb
 
 *to push (the pushed/repelled)* **§** Verb
 
+**IPA**: /ˈgu.fi.o/
+
 **Verb**: to push/repel
 
 **Noun**: the pushed/repelled
 
 **Modifier**: pushable/repellable
 
-Welsh gwthio undefined
-
-*Celtic Language Family*
+<details>
+    <summary>Origin</summary>
+    Welsh gwthio /ˈɡʊθjɔ/<br/>
+    <em>Celtic Language Family</em>
+</details>

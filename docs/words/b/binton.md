@@ -10,12 +10,16 @@ hoverText: star § Noun
 
 *star* **§** Noun
 
+**IPA**: /ˈbin.tɑn/
+
 **Verb**: to be a star
 
 **Noun**: star
 
 **Modifier**: star-like
 
-Malay bintang undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay bintang /bintaŋ/<br/>
+    <em>Austronesian Language Family</em>
+</details>

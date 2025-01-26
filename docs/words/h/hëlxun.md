@@ -10,12 +10,16 @@ hoverText: early § Adjective
 
 *early* **§** Adjective
 
+**IPA**: /ˈhel.ʃʌn/
+
 **Verb**: to be early
 
 **Noun**: earliness
 
 **Modifier**: early-related
 
-Albanian hershëm undefined
-
-*Albanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Albanian hershëm /'heɾ.ʃəm/<br/>
+    <em>Albanian Language Family</em>
+</details>

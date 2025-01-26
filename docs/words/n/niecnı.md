@@ -10,12 +10,16 @@ hoverText: vile § Adjective
 
 *vile* **§** Adjective
 
+**IPA**: /ˈni.ɛt͡ɕ.nɪ/
+
 **Verb**: to be vile/wicked
 
 **Noun**: vileness/wickedness
 
 **Modifier**: vile/wicked
 
-Polish niecny undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish niecny /ˈɲɛ.t͡snɨ/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

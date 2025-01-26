@@ -10,12 +10,16 @@ hoverText: to scratch (the scratched) § Verb
 
 *to scratch (the scratched)* **§** Verb
 
+**IPA**: /ˈgu.wɑ.lɑ/
+
 **Verb**: to scratch/scrape
 
 **Noun**: the scratched/scraped
 
 **Modifier**: scratchable/scrapable
 
-Yegang gwaaraǃ undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Yegang gwaaraǃ <br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: vermilion § Adjective
 
 *vermilion* **§** Adjective
 
+**IPA**: /t͡ɕɪ.ˈno.bʌ/
+
 **Verb**: to be vermilion
 
 **Noun**: vermilion-ness
 
 **Modifier**: vermilion
 
-German Zinnober undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Zinnober /tsɪˈnoːbɐ/<br/>
+    <em>Germanic Language Family</em>
+</details>

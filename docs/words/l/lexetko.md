@@ -10,12 +10,16 @@ hoverText: lattice/array § Noun
 
 *lattice/array* **§** Noun
 
+**IPA**: /ˈlɛ.ʃɛt.kɑ/
+
 **Verb**: to be a lattice/array/grid
 
 **Noun**: lattice/array/grid
 
 **Modifier**: lattice/array/grid-related
 
-Macedonian решетка rešetka undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Macedonian решетка rešetka [ˈrɛʃɛtka]<br/>
+    <em>Germanic Language Family</em>
+</details>

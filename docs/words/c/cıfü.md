@@ -10,12 +10,16 @@ hoverText: to pay (payment) § Verb
 
 *to pay (payment)* **§** Verb
 
+**IPA**: /ˈt͡ɕɪ.fu/
+
 **Verb**: to pay
 
 **Noun**: payment
 
 **Modifier**: payable
 
-Mandarin 支付 zhīfù undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 支付 zhīfù /ʈʂɨ.fu/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: 16 sixteen § Numeral
 
 *16 sixteen* **§** Numeral
 
+**IPA**: /ˈsɛs/
+
 **Verb**: to be sixteen
 
 **Noun**: sixteen
 
 **Modifier**: sixteenth
 
-French seize undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French seize /sɛz/<br/>
+    <em>Romance Language Family</em>
+</details>

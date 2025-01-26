@@ -10,12 +10,16 @@ hoverText: many § Determiner
 
 *many* **§** Determiner
 
+**IPA**: /ˈe.tɑ/
+
 **Verb**: to be many/a lot
 
 **Noun**: plethora/abundance
 
 **Modifier**: very/great
 
-Paraguayan Guarani eta undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Paraguayan Guarani eta [eta]<br/>
+    <em>Tupian Language Family</em>
+</details>

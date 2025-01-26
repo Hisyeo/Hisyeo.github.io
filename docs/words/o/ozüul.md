@@ -10,12 +10,16 @@ hoverText: any/whichever § Pronoun
 
 *any/whichever* **§** Pronoun
 
+**IPA**: /ˈɑ.d͡ʒu.ʌl/
+
 **Verb**: to be whomever/whichever
 
 **Noun**: whomever/whichever
 
 **Modifier**: any/whomever/whichever
 
-Abkhazian аӡәыр aӡəyr undefined
-
-*Abkhazo-Adyghean Language Family*
+<details>
+    <summary>Origin</summary>
+    Abkhazian аӡәыр aӡəyr /ad͡ʑʷər/<br/>
+    <em>Abkhazo-Adyghean Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: attack § Noun
 
 *attack* **§** Noun
 
+**IPA**: /ˈɑk.lʌ.mʌn/
+
 **Verb**: to be an attack/assault
 
 **Noun**: attack/assault
 
 **Modifier**: attack/assault-related
 
-Hindi आक्रमण ākramaṇ undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi आक्रमण ākramaṇ [äːk.ɾɐ.mɐ̃ɳ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

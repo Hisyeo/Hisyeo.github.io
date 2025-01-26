@@ -10,12 +10,16 @@ hoverText: official/formal § Adjective
 
 *official/formal* **§** Adjective
 
+**IPA**: /ˈt͡ɕɛn.tɪk/
+
 **Verb**: to be official/formal
 
 **Noun**: officialness/formalness
 
 **Modifier**: official/formal
 
-Vietnamese chánh thức undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese chánh thức [t͡ɕɛɲ˦˧˥ tʰɨk̚˦˧˥]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

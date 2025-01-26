@@ -10,12 +10,16 @@ hoverText: to cover (the covered) § Verb
 
 *to cover (the covered)* **§** Verb
 
+**IPA**: /ˈdɑk.nu/
+
 **Verb**: to cover
 
 **Noun**: the covered
 
 **Modifier**: coverable
 
-Nepali ढाक्नु ḍhāknu undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Nepali ढाक्नु ḍhāknu [ɖʱä̤knu]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

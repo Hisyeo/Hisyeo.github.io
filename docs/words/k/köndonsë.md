@@ -10,12 +10,16 @@ hoverText: condensed/concentrated § Adjective
 
 *condensed/concentrated* **§** Adjective
 
+**IPA**: /ˈkon.dɑn.se/
+
 **Verb**: to be condensed/concentrated
 
 **Noun**: concentration/condensedness
 
 **Modifier**: condensed/concentrated
 
-French condenser undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French condenser /kɔ̃.dɑ̃.se/<br/>
+    <em>Romance Language Family</em>
+</details>

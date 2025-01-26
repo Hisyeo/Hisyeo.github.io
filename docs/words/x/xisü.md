@@ -10,12 +10,16 @@ hoverText: secular/profane/worldly § Adjective
 
 *secular/profane/worldly* **§** Adjective
 
+**IPA**: /ˈʃi.su/
+
 **Verb**: to be secular/profane/worldly
 
 **Noun**: secularness/profaneness/worldliness
 
 **Modifier**: secular/profane/worldly
 
-Mandarin 世俗 shìsú undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 世俗 shìsú /ʂʐ̩⁵¹ su³⁵/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

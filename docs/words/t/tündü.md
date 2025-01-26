@@ -10,12 +10,16 @@ hoverText: bottom § Noun
 
 *bottom* **§** Noun
 
+**IPA**: /ˈtun.du/
+
 **Verb**: to be a bottom/lowermost region
 
 **Noun**: bottom/lowermost region
 
 **Modifier**: bottom-related
 
-Zarma tundu undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Zarma tundu /'tun.du/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

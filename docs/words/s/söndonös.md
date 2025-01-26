@@ -10,12 +10,16 @@ hoverText: direct/live § Adjective
 
 *direct/live* **§** Adjective
 
+**IPA**: /ˈson.dɑ.nos/
+
 **Verb**: to be direct/live
 
 **Noun**: directness/liveness
 
 **Modifier**: direct/live
 
-Greek ζωντανός zontanós undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek ζωντανός zontanós /zon.daˈnos/<br/>
+    <em>Hellenic Language Family</em>
+</details>

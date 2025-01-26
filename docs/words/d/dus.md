@@ -10,12 +10,16 @@ hoverText: 10 ten § Numeral
 
 *10 ten* **§** Numeral
 
+**IPA**: /ˈdʌs/
+
 **Verb**: to be ten
 
 **Noun**: ten
 
 **Modifier**: tenth
 
-Hindi दस das undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi दस das [d̪ɐs]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

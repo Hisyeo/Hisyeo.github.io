@@ -10,12 +10,16 @@ hoverText: to give (a gift) § Verb
 
 *to give (a gift)* **§** Verb
 
+**IPA**: /ˈt͡ɕu.dɑ/
+
 **Verb**: to give
 
 **Noun**: a gift
 
 **Modifier**: giveable
 
-Korean 주다 juda undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 주다 juda [t͡ɕuda̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

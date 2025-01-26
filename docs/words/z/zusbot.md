@@ -10,12 +10,16 @@ hoverText: emotion § Noun
 
 *emotion* **§** Noun
 
+**IPA**: /ˈd͡ʒʌs.bɑt/
+
 **Verb**: to be an emotion
 
 **Noun**: an emotion
 
 **Modifier**: emotion-related
 
-Urdu  جَذْبَات jaẕbāt undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Urdu  جَذْبَات jaẕbāt [ˈd͡ʒəzbaːt]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

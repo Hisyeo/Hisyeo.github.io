@@ -10,12 +10,16 @@ hoverText: 1000 thousand § Particle
 
 *1000 thousand* **§** Particle
 
+**IPA**: /ˈɛl.fu/
+
 **Verb**: to be a thousand
 
 **Noun**: a thousand
 
 **Modifier**: thousandth
 
-Swahili elfu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili elfu [ɛl.fu]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

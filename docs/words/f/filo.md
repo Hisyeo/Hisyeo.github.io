@@ -10,12 +10,16 @@ hoverText: row § Noun
 
 *row* **§** Noun
 
+**IPA**: /ˈfi.lɑ/
+
 **Verb**: to be a row
 
 **Noun**: row
 
 **Modifier**: row-related
 
-Italian fila undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian fila /ˈfi.la/<br/>
+    <em>Romance Language Family</em>
+</details>

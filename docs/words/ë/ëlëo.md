@@ -10,12 +10,16 @@ hoverText: floating § Adjective
 
 *floating* **§** Adjective
 
+**IPA**: /ˈe.le.ɑ/
+
 **Verb**: to be floating
 
 **Noun**: bouyancy
 
 **Modifier**: floating
 
-Swahili -elea undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -elea /ɛ.le.ɑ/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

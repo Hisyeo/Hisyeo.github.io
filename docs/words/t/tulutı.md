@@ -10,12 +10,16 @@ hoverText: to traverse (the traversed) § Verb
 
 *to traverse (the traversed)* **§** Verb
 
+**IPA**: /ˈtʌ.lʌ.tɪ/
+
 **Verb**: to passthrough/cross/traverse
 
 **Noun**: the crossed/traversed
 
 **Modifier**: passed/crossed/traversed
 
-Sanskrit तरति tárati undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit तरति tárati /ˈt̪ɐ.ɾɐ.t̪i/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

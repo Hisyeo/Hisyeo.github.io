@@ -10,12 +10,16 @@ hoverText: to rub (the rubbed) § Verb
 
 *to rub (the rubbed)* **§** Verb
 
+**IPA**: /fʌl.ˈko.i/
+
 **Verb**: to rub/caress/scratch
 
 **Noun**: the rubbed/caressed/scratched
 
 **Modifier**: rubbable/caressable/scratchable
 
-Albanian fërkoj undefined
-
-*Albanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Albanian fërkoj /fəɾˈkɔj/<br/>
+    <em>Albanian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: female § Adjective
 
 *female* **§** Adjective
 
+**IPA**: /ˈwɑ.hi/
+
 **Verb**: to be female/feminine
 
 **Noun**: femaleness/femininity
 
 **Modifier**: female/feminine
 
-Guaja wahy undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Guaja wahy [wahy]<br/>
+    <em>Tupian Language Family</em>
+</details>

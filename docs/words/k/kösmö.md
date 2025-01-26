@@ -10,12 +10,16 @@ hoverText: space/cosmos § Noun
 
 *space/cosmos* **§** Noun
 
+**IPA**: /ˈkos.mo/
+
 **Verb**: to be space/the cosmos
 
 **Noun**: space/cosmos
 
 **Modifier**: space-related/cosmic
 
-Italian cosmo undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian cosmo /ˈkɔ.zmo/<br/>
+    <em>Romance Language Family</em>
+</details>

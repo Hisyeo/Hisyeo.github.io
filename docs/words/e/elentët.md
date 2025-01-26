@@ -10,12 +10,16 @@ hoverText: opposite § Adjective
 
 *opposite* **§** Adjective
 
+**IPA**: /ˈɛ.lɛn.tet/
+
 **Verb**: to be opposite
 
 **Noun**: oppositeness
 
 **Modifier**: opposite
 
-Hungarian ellentét undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hungarian ellentét [ˈɛlːɛnteːt]<br/>
+    <em>Uralic Language Family</em>
+</details>

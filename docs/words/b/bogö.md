@@ -10,12 +10,16 @@ hoverText: luck § Noun
 
 *luck* **§** Noun
 
+**IPA**: /ˈbɑ.go/
+
 **Verb**: to be luck/fate
 
 **Noun**: luck/fate
 
 **Modifier**: luck/fate-related
 
-Bengali ভাগ্য bhaggo undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali ভাগ্য bhaggo [ˈbʱaɡːoˑ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

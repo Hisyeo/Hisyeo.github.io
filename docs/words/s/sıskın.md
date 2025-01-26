@@ -10,12 +10,16 @@ hoverText: sibling § Noun
 
 *sibling* **§** Noun
 
+**IPA**: /ˈsɪs.kɪn/
+
 **Verb**: to be a sibling
 
 **Noun**: sibling
 
 **Modifier**: sibling/related
 
-Iclandic systkin undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Iclandic systkin /ˈsɪs(t)kɪːn/<br/>
+    <em>Germanic Language Family</em>
+</details>

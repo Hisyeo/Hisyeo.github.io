@@ -10,12 +10,16 @@ hoverText: cream/paste § Noun
 
 *cream/paste* **§** Noun
 
+**IPA**: /ˈmɑ.d͡ʒun/
+
 **Verb**: to be cream/paste
 
 **Noun**: cream/paste
 
 **Modifier**: cream/paste-related
 
-Turkish macun undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish macun /madʒun/<br/>
+    <em>Turkic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to bury (the buried) § Verb
 
 *to bury (the buried)* **§** Verb
 
+**IPA**: /ˈfi.d͡ʒi/
+
 **Verb**: to bury
 
 **Noun**: the buried
 
 **Modifier**: buryable
 
-Songhay fiji undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Songhay fiji [fid͡ʒi]<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

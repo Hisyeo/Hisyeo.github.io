@@ -10,12 +10,16 @@ hoverText: to display/show (a diplay/show) § Verb
 
 *to display/show (a diplay/show)* **§** Verb
 
+**IPA**: /ˈmo.ni.sɑ/
+
 **Verb**: to display/show
 
 **Noun**: a diplay/show
 
 **Modifier**: displayable/showable
 
-Kituba monisa undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Kituba monisa [monisa]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

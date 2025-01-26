@@ -10,12 +10,16 @@ hoverText: prone § Adjective
 
 *prone* **§** Adjective
 
+**IPA**: /ˈbɑ.mɑ.gɛ/
+
 **Verb**: to be prone/prostrate
 
 **Noun**: prone-ness/prostrate-ness
 
 **Modifier**: prone/prostrate-related
 
-Swedish på mage undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish på mage /poːmɑːɡɛ/<br/>
+    <em>Germanic Language Family</em>
+</details>

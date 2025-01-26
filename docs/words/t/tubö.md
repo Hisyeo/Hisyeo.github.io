@@ -10,12 +10,16 @@ hoverText: spot/scar § Noun
 
 *spot/scar* **§** Noun
 
+**IPA**: /ˈtʌ.bo/
+
 **Verb**: spot/stain/scar
 
 **Noun**: spot/stain/scar
 
 **Modifier**: spot/stain/scar-related
 
-Hausa tabṑ undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa tabṑ [tə́.bòː]<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

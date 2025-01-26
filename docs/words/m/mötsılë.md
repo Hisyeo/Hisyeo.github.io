@@ -10,12 +10,16 @@ hoverText: to tie (the tied) § Verb
 
 *to tie (the tied)* **§** Verb
 
+**IPA**: /ˈmot.sɪ.le/
+
 **Verb**: to tie/entangle/knit/weave
 
 **Noun**: the tied/entangled
 
 **Modifier**: tie-able/entangleable
 
-Japanese もつれ motsure undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese もつれ motsure [mo̞t͡sɨᵝɾe̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

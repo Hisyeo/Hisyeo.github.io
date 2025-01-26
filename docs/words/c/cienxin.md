@@ -10,12 +10,16 @@ hoverText: alkaline § Adjective
 
 *alkaline* **§** Adjective
 
+**IPA**: /ˈt͡ɕi.ɛn.ʃin/
+
 **Verb**: to be alkaline
 
 **Noun**: alkalinity
 
 **Modifier**: alkaline
 
-Mandarin 鹼性 jiǎnxìng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 鹼性 jiǎnxìng /tɕjɛn.ɕiŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

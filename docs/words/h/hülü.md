@@ -10,12 +10,16 @@ hoverText: grass § Noun
 
 *grass* **§** Noun
 
+**IPA**: /ˈhu.lu/
+
 **Verb**: to be a ground cover plant
 
 **Noun**: a ground cover plant
 
 **Modifier**: ground cover plant related
 
-Kannada ಹುಲ್ಲು hullu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Kannada ಹುಲ್ಲು hullu /hullu/<br/>
+    <em>Dravidian Language Family</em>
+</details>

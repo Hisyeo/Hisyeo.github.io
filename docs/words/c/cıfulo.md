@@ -10,12 +10,16 @@ hoverText: dancing § Adjective
 
 *dancing* **§** Adjective
 
+**IPA**: /ˈt͡ɕɪ.fʌ.lɑ/
+
 **Verb**: to be dancing
 
 **Noun**: dancingness
 
 **Modifier**: dancing
 
-Amharic č̣əfära undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Amharic č̣əfära [tʃʼɨfəra]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: soft § Adjective
 
 *soft* **§** Adjective
 
+**IPA**: /ˈnʌ.lʌn/
+
 **Verb**: to be soft
 
 **Noun**: softness
 
 **Modifier**: soft
 
-Hindi नरम naram undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi नरम naram [n̪ə.ɾə̃m]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

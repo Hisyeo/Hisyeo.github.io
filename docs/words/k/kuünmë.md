@@ -10,12 +10,16 @@ hoverText: technology § Noun
 
 *technology* **§** Noun
 
+**IPA**: /ˈkʌ.un.me/
+
 **Verb**: to be a technology
 
 **Noun**: technology
 
 **Modifier**: technology-related
 
-Vietnamese công nghệ undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese công nghệ [kəwŋ͡m˧˧ ŋe˧˨ʔ]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

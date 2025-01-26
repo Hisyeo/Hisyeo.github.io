@@ -10,12 +10,16 @@ hoverText: joint § Noun
 
 *joint* **§** Noun
 
+**IPA**: /ˈd͡ʒun.tu.lʌ/
+
 **Verb**: to be a joint
 
 **Noun**: joint
 
 **Modifier**: joint-related
 
-Valencian Catalan juntura undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Valencian Catalan juntura [d͡ʒunˈtu.ɾa]<br/>
+    <em>Romance Language Family</em>
+</details>

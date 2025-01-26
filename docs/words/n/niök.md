@@ -10,12 +10,16 @@ hoverText: growing § Adjective
 
 *growing* **§** Adjective
 
+**IPA**: /ˈni.ok/
+
 **Verb**: to be growing/sprouting
 
 **Noun**: growth
 
 **Modifier**: growing/sprouting
 
-Thai งอก ngɔ̂ɔk undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai งอก ngɔ̂ɔk /ŋɔːk̚˥˩/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

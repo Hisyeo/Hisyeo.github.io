@@ -10,12 +10,16 @@ hoverText: propositive sentence ender (agree?) § Postposition
 
 *propositive sentence ender (agree?)* **§** Postposition
 
+**IPA**: /ˈt͡ɕi/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Korean 지 -ji undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 지 -ji /t͡ɕi/<br/>
+    <em>Koreic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: sweet § Adjective
 
 *sweet* **§** Adjective
 
+**IPA**: /ˈsu.wit/
+
 **Verb**: to be sweet
 
 **Noun**: sweetness
 
 **Modifier**: sweet
 
-English sweet undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    English sweet /swit/<br/>
+    <em>Germanic Language Family</em>
+</details>

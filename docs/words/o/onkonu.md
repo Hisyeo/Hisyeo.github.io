@@ -10,12 +10,16 @@ hoverText: to estimate/guess (an estimation/guess) § Verb
 
 *to estimate/guess (an estimation/guess)* **§** Verb
 
+**IPA**: /ˈɑn.kɑ.nʌ/
+
 **Verb**: to estimate/guess
 
 **Noun**: an estimation/guess
 
 **Modifier**: estimatable/guessable
 
-Telugu అంచనా añcanā undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu అంచనా añcanā /aṁ.ka.nɐː/<br/>
+    <em>Dravidian Language Family</em>
+</details>

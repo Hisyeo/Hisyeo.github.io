@@ -10,12 +10,16 @@ hoverText: top § Noun
 
 *top* **§** Noun
 
+**IPA**: /ˈsɑl.wot͡ɕ/
+
 **Verb**: to be a top/uppermost/peak
 
 **Noun**: top/uppermost/peak
 
 **Modifier**: top/uppermost/peak-related
 
-Hindi सर्वोच्च sarvocc undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi सर्वोच्च sarvocc [sɐɾ.ʋoː(t̚)t͡ʃ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

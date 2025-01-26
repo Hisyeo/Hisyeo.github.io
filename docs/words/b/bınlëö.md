@@ -10,12 +10,16 @@ hoverText: bay/golf § Noun
 
 *bay/golf* **§** Noun
 
+**IPA**: /bɪn.ˈle.o/
+
 **Verb**: to be a bay/golf
 
 **Noun**: bay/golf
 
 **Modifier**: bay/golf-related
 
-Burmese ပင်လယ်အော် panglaiau undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Burmese ပင်လယ်အော် panglaiau /pɪ̀ɴlɛ̀ʔɔ̀/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

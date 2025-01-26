@@ -10,12 +10,16 @@ hoverText: tube § Noun
 
 *tube* **§** Noun
 
+**IPA**: /ˈmo.ko.fɑ/
+
 **Verb**: to be a tube/pipe
 
 **Noun**: tube/pipe
 
 **Modifier**: tube/pipe-related
 
-Zimakani mokova undefined
-
-*Trans-New Guinea Language Family*
+<details>
+    <summary>Origin</summary>
+    Zimakani mokova /mokova/<br/>
+    <em>Trans-New Guinea Language Family</em>
+</details>

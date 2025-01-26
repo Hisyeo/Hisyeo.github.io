@@ -10,12 +10,16 @@ hoverText: fermented/soured § Adjective
 
 *fermented/soured* **§** Adjective
 
+**IPA**: /ˈt͡ɕu.bu/
+
 **Verb**: to be fermented/soured
 
 **Noun**: rancidness/sourness
 
 **Modifier**: fermented/soured
 
-Tibetan, Batang སྐྱུར་མོ skyur mo undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Tibetan, Batang སྐྱུར་མོ skyur mo /ɕu˥.pʊ˥˧/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

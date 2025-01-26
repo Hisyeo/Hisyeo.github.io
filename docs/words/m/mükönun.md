@@ -10,12 +10,16 @@ hoverText: triangle § Noun
 
 *triangle* **§** Noun
 
+**IPA**: /ˈmu.ko.nʌn/
+
 **Verb**: to be a triangle
 
 **Noun**: a triangle
 
 **Modifier**: triangular/triange-related
 
-Tamil முக்கோணம் mukkōṇam undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil முக்கோணம் mukkōṇam /mukːoːɳɐm/<br/>
+    <em>Dravidian Language Family</em>
+</details>

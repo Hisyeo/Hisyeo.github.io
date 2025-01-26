@@ -10,12 +10,16 @@ hoverText: sky § Noun
 
 *sky* **§** Noun
 
+**IPA**: /ˈɑ.kɑ.ʃʌ/
+
 **Verb**: to be the sky
 
 **Noun**: sky
 
 **Modifier**: sky-related
 
-Sanskrit आकाश ākāśa undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit आकाश ākāśa /ɑː.kɑː.ɕɐ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

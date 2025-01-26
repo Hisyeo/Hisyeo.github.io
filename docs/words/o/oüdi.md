@@ -10,12 +10,16 @@ hoverText: seed § Noun
 
 *seed* **§** Noun
 
+**IPA**: /ˈɑ.u.di/
+
 **Verb**: to be a seed
 
 **Noun**: seed
 
 **Modifier**: seed-related
 
-Fula aawdi undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Fula aawdi [aːwdi]<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: belch/burp § Noun
 
 *belch/burp* **§** Noun
 
+**IPA**: /ˈen.bʌ.kʌn/
+
 **Verb**: to be a belch/burp
 
 **Noun**: belch/burp
 
 **Modifier**: belch/burp-related
 
-Malayalam ഏമ്പക്കം ēmpakkaṁ undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malayalam ഏമ്പക്കം ēmpakkaṁ /eːmbɐkkɐm/<br/>
+    <em>Dravidian Language Family</em>
+</details>

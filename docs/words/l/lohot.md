@@ -10,12 +10,16 @@ hoverText: comfortable § Adjective
 
 *comfortable* **§** Adjective
 
+**IPA**: /ˈlɑ.hɑt/
+
 **Verb**: to be comfortable
 
 **Noun**: comfort
 
 **Modifier**: comfortable
 
-Turkish rahat undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish rahat [ɾ̞äˈhätʰ]<br/>
+    <em>Turkic Language Family</em>
+</details>

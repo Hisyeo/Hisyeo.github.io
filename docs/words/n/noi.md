@@ -10,12 +10,16 @@ hoverText: vocative marker § Preposition
 
 *vocative marker* **§** Preposition
 
+**IPA**: /ˈnɑ.i/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Vietnamese này undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese này [na(ː)j˨˩]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

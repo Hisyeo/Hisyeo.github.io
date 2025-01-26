@@ -10,12 +10,16 @@ hoverText: sneeze § Noun
 
 *sneeze* **§** Noun
 
+**IPA**: /ˈnɪ.t͡ɕʌ/
+
 **Verb**: to be a sneeze
 
 **Noun**: sneeze
 
 **Modifier**: sneeze-related
 
-Punjabi ⁧نِچّھ⁩ nicch undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Punjabi ⁧نِچّھ⁩ nicch /nɪ.t͡ʃːʱə̆/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

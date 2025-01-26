@@ -10,12 +10,16 @@ hoverText: slow § Adjective
 
 *slow* **§** Adjective
 
+**IPA**: /ˈdi.le/
+
 **Verb**: to be slow
 
 **Noun**: slowness
 
 **Modifier**: slow
 
-Hindi धीरे dhīre undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi धीरे dhīre /d̪ʱiː.ɾeː/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

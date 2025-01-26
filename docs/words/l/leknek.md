@@ -10,12 +10,16 @@ hoverText: weapon § Noun
 
 *weapon* **§** Noun
 
+**IPA**: /ˈlɛk.nɛk/
+
 **Verb**: to be a weapon
 
 **Noun**: a weapon
 
 **Modifier**: weapon-like
 
-Burmese လက်နက် laknak undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Burmese လက်နက် laknak /lɛʔnɛʔ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: coal/cinder § Noun
 
 *coal/cinder* **§** Noun
 
+**IPA**: /ˈse.ki.tɑn/
+
 **Verb**: to be a coal/cinder
 
 **Noun**: coal/cinder
 
 **Modifier**: coal/cinder-related
 
-Japanese 石炭 sekitan undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 石炭 sekitan [se̞kʲitã̠ɴ]<br/>
+    <em>Japonic Language Family</em>
+</details>

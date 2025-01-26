@@ -10,12 +10,16 @@ hoverText: to invite (an invitation) § Verb
 
 *to invite (an invitation)* **§** Verb
 
+**IPA**: /ˈʃɑ.ku.lu/
+
 **Verb**: to invite/call
 
 **Noun**: an invitation/call
 
 **Modifier**: invitable/callable
 
-Kazakh шақыру şaqyru undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Kazakh шақыру şaqyru [ʃɑqɯˈrʊw]<br/>
+    <em>Turkic Language Family</em>
+</details>

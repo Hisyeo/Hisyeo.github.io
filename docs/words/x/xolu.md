@@ -10,12 +10,16 @@ hoverText: bowl/cup § Noun
 
 *bowl/cup* **§** Noun
 
+**IPA**: /ˈʃɑ.lʌ/
+
 **Verb**: to be a bowl/cup
 
 **Noun**: bowl/cup
 
 **Modifier**: bowl/cup-related
 
-German Schale undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Schale /ˈʃaːlə/<br/>
+    <em>Germanic Language Family</em>
+</details>

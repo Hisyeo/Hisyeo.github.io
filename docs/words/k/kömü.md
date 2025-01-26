@@ -10,12 +10,16 @@ hoverText: horn/spike § Noun
 
 *horn/spike* **§** Noun
 
+**IPA**: /ˈko.mu/
+
 **Verb**: to be a horn/spike
 
 **Noun**: a horn/spike
 
 **Modifier**: horn/spike-related
 
-Telugu కొమ్ము kommu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu కొమ్ము kommu /komːu/<br/>
+    <em>Dravidian Language Family</em>
+</details>

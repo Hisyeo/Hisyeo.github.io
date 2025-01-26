@@ -10,12 +10,16 @@ hoverText: to tickle (the tickled) § Verb
 
 *to tickle (the tickled)* **§** Verb
 
+**IPA**: /ˈdɑk.dɑ.gɑ/
+
 **Verb**: to tickle/stimulate
 
 **Noun**: the tickled/stimulated
 
 **Modifier**: tickleable/stimulatable
 
-Arabic دَغْدَغَ daḡdaḡa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic دَغْدَغَ daḡdaḡa /daɣ.da.ɣa/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: arthropod § Noun
 
 *arthropod* **§** Noun
 
+**IPA**: /sʌn.ˈdi.bɑt/
+
 **Verb**: to be an arthropod
 
 **Noun**: an arthropod
 
 **Modifier**: arthropod-like
 
-Hindi संधिपाद sandhipād undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi संधिपाद sandhipād /sɐn.dʱi.pɑːd̪/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

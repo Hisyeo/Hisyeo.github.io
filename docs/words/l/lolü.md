@@ -10,12 +10,16 @@ hoverText: word § Noun
 
 *word* **§** Noun
 
+**IPA**: /ˈlɑ.lu/
+
 **Verb**: to be a word
 
 **Noun**: word
 
 **Modifier**: word-related
 
-Hmong, White lo lus undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong, White lo lus /lɒ˧.lu˩/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

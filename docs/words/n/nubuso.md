@@ -10,12 +10,16 @@ hoverText: wet § Adjective
 
 *wet* **§** Adjective
 
+**IPA**: /ˈnʌ.bʌ.sɑ/
+
 **Verb**: to be wet
 
 **Noun**: wetness
 
 **Modifier**: wet
 
-Ilocano nabasa undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Ilocano nabasa [nɐbɐˈsa]<br/>
+    <em>Austronesian Language Family</em>
+</details>

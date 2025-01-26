@@ -10,12 +10,16 @@ hoverText: to repair (the repaired) § Verb
 
 *to repair (the repaired)* **§** Verb
 
+**IPA**: /ˈʃi.u.fu/
+
 **Verb**: to repair/restore
 
 **Noun**: the repaired/restored
 
 **Modifier**: repairable/restorable
 
-Mandarin 修復 xiūfù undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 修復 xiūfù /ɕjou̯.fu/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

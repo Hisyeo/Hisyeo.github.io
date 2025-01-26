@@ -10,12 +10,16 @@ hoverText: algae/moss § Noun
 
 *algae/moss* **§** Noun
 
+**IPA**: /ˈfo.dɑ.lɑt͡ɕ/
+
 **Verb**: to be algae/moss
 
 **Noun**: algae/moss
 
 **Modifier**: algae/moss-like
 
-Belarusian во́дарасць vódarascʹ undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Belarusian во́дарасць vódarascʹ [ˈvodarasʲt͡sʲ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: time § Noun
 
 *time* **§** Noun
 
+**IPA**: /ˈwɑ.kut/
+
 **Verb**: to be a time
 
 **Noun**: time
 
 **Modifier**: time-related
 
-Bashkir ваҡыт vaqıt undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Bashkir ваҡыт vaqıt [wɑˈqɯ̞t]<br/>
+    <em>Turkic Language Family</em>
+</details>

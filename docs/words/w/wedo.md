@@ -10,12 +10,16 @@ hoverText: to exchange/trade (the exchanged/traded) § Verb
 
 *to exchange/trade (the exchanged/traded)* **§** Verb
 
+**IPA**: /ˈwɛ.dɑ/
+
 **Verb**: to exchange/trade
 
 **Noun**: the exchanged/traded
 
 **Modifier**: exchangeable/tradable
 
-Pawaia wɛda undefined
-
-*Trans-New Guinea Language Family*
+<details>
+    <summary>Origin</summary>
+    Pawaia wɛda [wɛda]<br/>
+    <em>Trans-New Guinea Language Family</em>
+</details>

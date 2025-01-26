@@ -10,12 +10,16 @@ hoverText: red § Adjective
 
 *red* **§** Adjective
 
+**IPA**: /ˈhun.sɪk/
+
 **Verb**: to be red
 
 **Noun**: redness
 
 **Modifier**: red
 
-Cantonese 紅色 hung sik undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 紅色 hung sik /hʊŋ²¹ sɪk̚⁵/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

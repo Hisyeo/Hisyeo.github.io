@@ -10,12 +10,16 @@ hoverText: to grab/hold (a hold/load) § Verb
 
 *to grab/hold (a hold/load)* **§** Verb
 
+**IPA**: /ˈɑ.gɑ.lɑl/
+
 **Verb**: to grab/hold
 
 **Noun**: a hold/load
 
 **Modifier**: grabable/holdable
 
-Spanish agarrar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish agarrar [a.ɣ̞aˈraɾ]<br/>
+    <em>Romance Language Family</em>
+</details>

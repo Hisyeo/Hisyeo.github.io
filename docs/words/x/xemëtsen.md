@@ -10,12 +10,16 @@ hoverText: noun § Noun
 
 *noun* **§** Noun
 
+**IPA**: /ʃɛ.ˈmet.sɛn/
+
 **Verb**: to be a noun
 
 **Noun**: noun
 
 **Modifier**: noun-related
 
-Hebrew שֵׁם עֶצֶם‎ shem étsem undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew שֵׁם עֶצֶם‎ shem étsem /ʃɛm ˈɛtsɛm/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

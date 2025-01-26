@@ -10,12 +10,16 @@ hoverText: left § Noun
 
 *left* **§** Noun
 
+**IPA**: /ˈʃi.mɑl/
+
 **Verb**: to be the left (side)
 
 **Noun**: left (side)
 
 **Modifier**: leftside-related/left(hand)
 
-Arabic شِمَال šimāl undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic شِمَال šimāl /ʃi.maːl/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: endless/infinite § Adjective
 
 *endless/infinite* **§** Adjective
 
+**IPA**: /ˈson.sus/
+
 **Verb**: to be endless/infinite
 
 **Noun**: endlessness/infinity
 
 **Modifier**: endless/infinite
 
-Turkish sonsuz undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish sonsuz /sɔn.súz/<br/>
+    <em>Turkic Language Family</em>
+</details>

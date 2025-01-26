@@ -10,12 +10,16 @@ hoverText: tired/exhausted § Adjective
 
 *tired/exhausted* **§** Adjective
 
+**IPA**: /ˈbi.t͡ɕu.ɑn/
+
 **Verb**: to be tired/exhausted
 
 **Noun**: tiredness/exhaustedness
 
 **Modifier**: tired/exhausted
 
-Mandarin 疲倦 píjuàn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 疲倦 píjuàn [pʰí.tɕwàn]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

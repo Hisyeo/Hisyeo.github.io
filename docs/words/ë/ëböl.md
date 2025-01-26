@@ -10,12 +10,16 @@ hoverText: shoulder § Noun
 
 *shoulder* **§** Noun
 
+**IPA**: /ˈe.bol/
+
 **Verb**: to be a shoulder
 
 **Noun**: shoulder
 
 **Modifier**: shoulder-related
 
-French épaule undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French épaule /e.pol/<br/>
+    <em>Romance Language Family</em>
+</details>

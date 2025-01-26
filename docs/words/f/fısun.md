@@ -10,12 +10,16 @@ hoverText: to know (knowledge) § Verb
 
 *to know (knowledge)* **§** Verb
 
+**IPA**: /ˈfɪ.sʌn/
+
 **Verb**: to know
 
 **Noun**: knowledge
 
 **Modifier**: knowable
 
-German Wissen undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Wissen /ˈvɪsən/<br/>
+    <em>Germanic Language Family</em>
+</details>

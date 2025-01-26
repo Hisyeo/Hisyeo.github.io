@@ -10,12 +10,16 @@ hoverText: split § Adjective
 
 *split* **§** Adjective
 
+**IPA**: /ˈfʌn.lit/
+
 **Verb**: to be split/divided
 
 **Noun**: splitness/division
 
 **Modifier**: split/divided
 
-Cantonese 分裂 fan lit undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 分裂 fan lit /fɐnliːt̚/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: deep § Adjective
 
 *deep* **§** Adjective
 
+**IPA**: /ˈd͡ʒil.jɑ.is/
+
 **Verb**: to be deep
 
 **Noun**: depth
 
 **Modifier**: deep
 
-Latvian dziļais undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Latvian dziļais [d̪͡z̪iʎɑis̪]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: inside § Noun
 
 *inside* **§** Noun
 
+**IPA**: /ˈli.mi.ɛn/
+
 **Verb**: to be the inside region
 
 **Noun**: inside region
 
 **Modifier**: inside-related/inner
 
-Mandarin 裡面 lǐmiàn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 裡面 lǐmiàn /limi̯ɛn/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

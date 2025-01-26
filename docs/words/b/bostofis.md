@@ -10,12 +10,16 @@ hoverText: representative/delegate § Noun
 
 *representative/delegate* **§** Noun
 
+**IPA**: /ˈbɑs.tɑ.fis/
+
 **Verb**: to be a representative/delegate
 
 **Noun**: representative/delegate
 
 **Modifier**: representative/delegate-related
 
-Latvian pārstāvis undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Latvian pārstāvis [paːrstaːvis]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

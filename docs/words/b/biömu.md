@@ -10,12 +10,16 @@ hoverText: biome § Noun
 
 *biome* **§** Noun
 
+**IPA**: /ˈbi.o.mʌ/
+
 **Verb**: to be a biome
 
 **Noun**: biome
 
 **Modifier**: biome-related
 
-Portuguese bioma undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese bioma /biˈo.mɐ/<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: claw § Noun
 
 *claw* **§** Noun
 
+**IPA**: /ˈi.si.bo/
+
 **Verb**: to be a claw/nail/hoof
 
 **Noun**: claw/nail/hoof
 
 **Modifier**: claw/nail/hoof-related
 
-Zulu izipho undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Zulu izipho /íːziːpʰo/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

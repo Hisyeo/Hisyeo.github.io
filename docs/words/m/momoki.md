@@ -10,12 +10,16 @@ hoverText: surprised § Adjective
 
 *surprised* **§** Adjective
 
+**IPA**: /ˈmɑ.mɑ.ki/
+
 **Verb**: to be surprised/shocked
 
 **Noun**: surprise/shock
 
 **Modifier**: surprised/shocked
 
-Hausa mamaki undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa mamaki /màː.máː.kìː/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

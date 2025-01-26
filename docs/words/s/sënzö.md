@@ -10,12 +10,16 @@ hoverText: ancestral § Adjective
 
 *ancestral* **§** Adjective
 
+**IPA**: /ˈsen.d͡ʒo/
+
 **Verb**: to be ancestral
 
 **Noun**: ancestrality
 
 **Modifier**: ancestral
 
-Japanese 先せん祖ぞ senzo undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 先せん祖ぞ senzo [sẽ̞nd͡zo̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

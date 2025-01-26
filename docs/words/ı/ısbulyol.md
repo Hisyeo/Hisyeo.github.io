@@ -10,12 +10,16 @@ hoverText: to scatter (scatterable entity) § Adjective
 
 *to scatter (scatterable entity)* **§** Adjective
 
+**IPA**: /ˈɪs.bʌl.jɑl/
+
 **Verb**: to spread/scatter/diffuse
 
 **Noun**: spreadable/scatterable/diffusable entity
 
 **Modifier**: spread/scattered/diffused
 
-Portuguese espalhar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese espalhar /(i)ʃ.pɐˈʎaɾ/<br/>
+    <em>Romance Language Family</em>
+</details>

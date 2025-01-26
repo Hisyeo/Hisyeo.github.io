@@ -10,12 +10,16 @@ hoverText: war § Noun
 
 *war* **§** Noun
 
+**IPA**: /ˈgu.ɛ.ʃɑ/
+
 **Verb**: to be a war
 
 **Noun**: war
 
 **Modifier**: war-related
 
-Sicilian guerra undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Sicilian guerra [ˈɡwɛʐːa]<br/>
+    <em>Romance Language Family</em>
+</details>

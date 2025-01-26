@@ -10,12 +10,16 @@ hoverText: new/fresh § Adjective
 
 *new/fresh* **§** Adjective
 
+**IPA**: /ˈne.os/
+
 **Verb**: to be new/fresh
 
 **Noun**: novelty/freshness
 
 **Modifier**: new/fresh
 
-Greek νέος néos undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek νέος néos /ˈne.os/<br/>
+    <em>Hellenic Language Family</em>
+</details>

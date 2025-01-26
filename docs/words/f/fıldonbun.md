@@ -10,12 +10,16 @@ hoverText: evaporated/vaporized § Adjective
 
 *evaporated/vaporized* **§** Adjective
 
+**IPA**: /fɪl.ˈdɑn.bʌn/
+
 **Verb**: to be evaporated/vaporized
 
 **Noun**: evaporation/vaporization
 
 **Modifier**: evaporated/vaporized
 
-Dutch verdampen undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch verdampen [vɛrdaːmpən]<br/>
+    <em>Germanic Language Family</em>
+</details>

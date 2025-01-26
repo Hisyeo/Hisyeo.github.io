@@ -10,12 +10,16 @@ hoverText: hour § Noun
 
 *hour* **§** Noun
 
+**IPA**: /ˈsʌ.hɑt/
+
 **Verb**: to be an hour
 
 **Noun**: hour/o'clock
 
 **Modifier**: hour-related
 
-Adyghe сыхьат səḥat undefined
-
-*Abkhazo-Adyghean Language Family*
+<details>
+    <summary>Origin</summary>
+    Adyghe сыхьат səḥat [səħaːt]<br/>
+    <em>Abkhazo-Adyghean Language Family</em>
+</details>

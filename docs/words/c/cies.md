@@ -10,12 +10,16 @@ hoverText: tight/firm § Adjective
 
 *tight/firm* **§** Adjective
 
+**IPA**: /ˈt͡ɕi.ɛs/
+
 **Verb**: to be tight/firm
 
 **Noun**: tightness/firmness
 
 **Modifier**: tight/firm
 
-Latvian ciešs undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Latvian ciešs [tsiɛ̂ʃ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

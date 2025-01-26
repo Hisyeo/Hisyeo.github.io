@@ -10,12 +10,16 @@ hoverText: storm § Noun
 
 *storm* **§** Noun
 
+**IPA**: /ˈbok.bun/
+
 **Verb**: to be a storm
 
 **Noun**: storm
 
 **Modifier**: storm-related
 
-Korean 폭풍 pokpung undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 폭풍 pokpung [pʰo̞k̚pʰuŋ]<br/>
+    <em>Koreic Language Family</em>
+</details>

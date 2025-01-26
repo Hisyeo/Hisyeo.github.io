@@ -10,12 +10,16 @@ hoverText: economy § Noun
 
 *economy* **§** Noun
 
+**IPA**: /ˈu.t͡ɕu.mi/
+
 **Verb**: to be an economy
 
 **Noun**: economy
 
 **Modifier**: economy-related
 
-Swahili uchumi undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili uchumi [utʃumi]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

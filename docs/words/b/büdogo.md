@@ -10,12 +10,16 @@ hoverText: bubble § Noun
 
 *bubble* **§** Noun
 
+**IPA**: /ˈbu.dɑ.gɑ/
+
 **Verb**: to be a bubble
 
 **Noun**: a bubble
 
 **Modifier**: bubble-like
 
-Telugu బుడగ buḍaga undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu బుడగ buḍaga /buɖaga/<br/>
+    <em>Dravidian Language Family</em>
+</details>

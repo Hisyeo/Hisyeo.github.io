@@ -10,12 +10,16 @@ hoverText: broken/dysfunctional § Adjective
 
 *broken/dysfunctional* **§** Adjective
 
+**IPA**: /ˈkɑ.but/
+
 **Verb**: to be broken/dysfunctional
 
 **Noun**: brokenness/dysfunctionality
 
 **Modifier**: broken/dysfunctional
 
-German kaputt undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German kaputt /kaˈpʊt/<br/>
+    <em>Germanic Language Family</em>
+</details>

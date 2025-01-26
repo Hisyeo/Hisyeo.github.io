@@ -10,12 +10,16 @@ hoverText: dizzy § Adjective
 
 *dizzy* **§** Adjective
 
+**IPA**: /ˈbu.sɪn/
+
 **Verb**: to be dizzy/confused
 
 **Noun**: dizziness/confusion
 
 **Modifier**: dizzy/confused
 
-Indonesian pusing undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Indonesian pusing [ˈpusɪŋ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: layer § Noun
 
 *layer* **§** Noun
 
+**IPA**: /ˈsu.son/
+
 **Verb**: to be a layer
 
 **Noun**: layer
 
 **Modifier**: layer-related
 
-Tagalog susón undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog susón [sʊˈson]<br/>
+    <em>Austronesian Language Family</em>
+</details>

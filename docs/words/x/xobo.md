@@ -10,12 +10,16 @@ hoverText: to strike (the stricken)  § Verb
 
 *to strike (the stricken) * **§** Verb
 
+**IPA**: /ˈʃɑ.bɑ/
+
 **Verb**: to hit/strike
 
 **Noun**: hit/stricken entity
 
 **Modifier**: hittable/strikeable
 
-Sotho shapa undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Sotho shapa /ʃa.pa/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

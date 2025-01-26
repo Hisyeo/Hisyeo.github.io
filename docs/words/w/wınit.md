@@ -10,12 +10,16 @@ hoverText: humble § Adjective
 
 *humble* **§** Adjective
 
+**IPA**: /ˈwɪ.nit/
+
 **Verb**: to be humble
 
 **Noun**: humility
 
 **Modifier**: humble
 
-Hindi विनीत vinīt undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi विनीत vinīt /ʋɪ.niːt̪/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

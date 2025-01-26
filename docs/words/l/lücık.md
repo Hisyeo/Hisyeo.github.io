@@ -10,12 +10,16 @@ hoverText: slippery § Adjective
 
 *slippery* **§** Adjective
 
+**IPA**: /ˈlu.t͡ɕɪk/
+
 **Verb**: to be slippery
 
 **Noun**: slickness
 
 **Modifier**: slippery
 
-German rutschig undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German rutschig [ˈʁʊt.ʃɪk]<br/>
+    <em>Germanic Language Family</em>
+</details>

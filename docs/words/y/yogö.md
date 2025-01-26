@@ -10,12 +10,16 @@ hoverText: part/piece § Noun
 
 *part/piece* **§** Noun
 
+**IPA**: /ˈjɑ.go/
+
 **Verb**: to be a part/piece
 
 **Noun**: part/piece
 
 **Modifier**: part/piece-related
 
-Ingrian jako  undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Ingrian jako  [ˈjɑɡ̊o̞]<br/>
+    <em>Uralic Language Family</em>
+</details>

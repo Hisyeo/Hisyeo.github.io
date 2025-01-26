@@ -10,12 +10,16 @@ hoverText: stone § Noun
 
 *stone* **§** Noun
 
+**IPA**: /ˈi.bu.we/
+
 **Verb**: to be a stone/rock
 
 **Noun**: stone/rock
 
 **Modifier**: stone/rock-related
 
-Shona ibwe undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Shona ibwe <br/>
+    <em>Niger-Congo Language Family</em>
+</details>

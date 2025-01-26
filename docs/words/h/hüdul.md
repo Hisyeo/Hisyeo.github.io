@@ -10,12 +10,16 @@ hoverText: false § Adjective
 
 *false* **§** Adjective
 
+**IPA**: /ˈhu.dʌl/
+
 **Verb**: to be false/fake
 
 **Noun**: falseness/fakeness
 
 **Modifier**: false/fake
 
-Mongolian худал hudal undefined
-
-*Mongolic Language Family*
+<details>
+    <summary>Origin</summary>
+    Mongolian худал hudal /xʊtəɮ/<br/>
+    <em>Mongolic Language Family</em>
+</details>

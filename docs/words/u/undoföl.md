@@ -10,12 +10,16 @@ hoverText: legume § Noun
 
 *legume* **§** Noun
 
+**IPA**: /ʌn.ˈdɑ.fol/
+
 **Verb**: to be a legume
 
 **Noun**: legume
 
 **Modifier**: legume-related
 
-Armenian ընդավոր əndavor undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian ընդավոր əndavor [əndɑˈvoɾ]<br/>
+    <em>Armenian Language Family</em>
+</details>

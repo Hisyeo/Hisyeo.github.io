@@ -10,12 +10,16 @@ hoverText: thin/narrow § Adjective
 
 *thin/narrow* **§** Adjective
 
+**IPA**: /ˈt͡ɕɛn.t͡ɕi/
+
 **Verb**: to be thin/narrow
 
 **Noun**: thinness/narrowness
 
 **Modifier**: thin/narrow
 
-Kashubian cenczi undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Kashubian cenczi [tsɛntʃi]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to start (startable entity) § Verb
 
 *to start (startable entity)* **§** Verb
 
+**IPA**: /ˈsɑ.t͡ɕɑk/
+
 **Verb**: to start/begin
 
 **Noun**: startable/beginnable entity
 
 **Modifier**: started/began
 
-Slovak začať undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Slovak začať [ˈzat͡ʃac]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

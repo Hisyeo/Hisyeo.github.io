@@ -10,12 +10,16 @@ hoverText: hiccup/spasm § Noun
 
 *hiccup/spasm* **§** Noun
 
+**IPA**: /ˈi.t͡ɕi.wu/
+
 **Verb**: to be a hiccup/spasm
 
 **Noun**: hiccup/spasm
 
 **Modifier**: hiccup/spasm-related
 
-Tamil இசிவு icivu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil இசிவு icivu /i.ci.ʋu/<br/>
+    <em>Dravidian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: timid/shy § Adjective
 
 *timid/shy* **§** Adjective
 
+**IPA**: /ˈbu.i.hi/
+
 **Verb**: to be timid/shy
 
 **Noun**: timidness/shyness
 
 **Modifier**: timid/shy
 
-Māori pūihi undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Māori pūihi [puːihi]<br/>
+    <em>Austronesian Language Family</em>
+</details>

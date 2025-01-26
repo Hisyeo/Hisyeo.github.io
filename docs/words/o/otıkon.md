@@ -10,12 +10,16 @@ hoverText: excess § Determiner
 
 *excess* **§** Determiner
 
+**IPA**: /ˈɑ.tɪ.kɑn/
+
 **Verb**: to be excessive/too much
 
 **Noun**: excess/surplus
 
 **Modifier**: excessive/too much
 
-Tamil அதிகம் atikam undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil அதிகம் atikam <br/>
+    <em>Dravidian Language Family</em>
+</details>

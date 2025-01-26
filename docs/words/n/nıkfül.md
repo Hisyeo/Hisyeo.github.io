@@ -10,12 +10,16 @@ hoverText: ficke/capricious § Adjective
 
 *ficke/capricious* **§** Adjective
 
+**IPA**: /ˈnɪk.ful/
+
 **Verb**: to be ficke/capricious
 
 **Noun**: fickleness/capriciousness
 
 **Modifier**: ficke/capricious
 
-Swedish nyckfull undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish nyckfull /nɪkː.fʊlː/<br/>
+    <em>Germanic Language Family</em>
+</details>

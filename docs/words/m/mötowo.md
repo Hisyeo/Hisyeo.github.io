@@ -10,12 +10,16 @@ hoverText: content § Noun
 
 *content* **§** Noun
 
+**IPA**: /ˈmo.tɑ.wɑ/
+
 **Verb**: to be content
 
 **Noun**: content
 
 **Modifier**: content-related
 
-Persian محتوا mohtavâ undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian محتوا mohtavâ [mo̞ɦ.t̪ʰä.wɑ́ː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

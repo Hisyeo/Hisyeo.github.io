@@ -10,12 +10,16 @@ hoverText: lip/rim/edge § Noun
 
 *lip/rim/edge* **§** Noun
 
+**IPA**: /ˈdin.d͡ʒɑ.u/
+
 **Verb**: to be a lip/rim/edge
 
 **Noun**: lip/rim/edge
 
 **Modifier**: labial/rim-like/edge-like
 
-Hmong, Whtie di ncauj undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong, Whtie di ncauj /di˧.ᶮɟau̯˥˧/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: 02 two § Numeral
 
 *02 two* **§** Numeral
 
+**IPA**: /ˈdu.i/
+
 **Verb**: to be two
 
 **Noun**: two
 
 **Modifier**: second (ordinal)
 
-Assamese দুই du'i undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Assamese দুই du'i /dui/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

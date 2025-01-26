@@ -10,12 +10,16 @@ hoverText: different § Adjective
 
 *different* **§** Adjective
 
+**IPA**: /ˈbe.sʌ/
+
 **Verb**: to be different
 
 **Noun**: difference
 
 **Modifier**: different
 
-Malay بيذا beza undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay بيذا beza /be.zə/<br/>
+    <em>Austronesian Language Family</em>
+</details>

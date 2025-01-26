@@ -10,12 +10,16 @@ hoverText: sufficient/enough § Determiner
 
 *sufficient/enough* **§** Determiner
 
+**IPA**: /ˈd͡ʒo.tes.to/
+
 **Verb**: to be sufficient/enough/adequate
 
 **Noun**: enough
 
 **Modifier**: sufficient/enough/adequate
 
-Bengali যথেষ্ট jotheśṭo undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali যথেষ্ট jotheśṭo [ˈdʑɔt̪ʰestoˑ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: amber (color) § Adjective
 
 *amber (color)* **§** Adjective
 
+**IPA**: /ˈʌn.bɑl/
+
 **Verb**: to be amber
 
 **Noun**: amber-ness
 
 **Modifier**: amber
 
-Portuguese âmbar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese âmbar /ˈɐ̃.baɾ/<br/>
+    <em>Romance Language Family</em>
+</details>

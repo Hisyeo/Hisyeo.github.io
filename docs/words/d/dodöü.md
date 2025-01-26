@@ -10,12 +10,16 @@ hoverText: to bet (a bet) § Verb
 
 *to bet (a bet)* **§** Verb
 
+**IPA**: /ˈdɑ.do.u/
+
 **Verb**: to bet/wager
 
 **Noun**: bet/wager
 
 **Modifier**: betable/wagerable
 
-Cantonese 打賭 daa2 dou2 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 打賭 daa2 dou2 /daːdou̯/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: parent § Noun
 
 *parent* **§** Noun
 
+**IPA**: /ˈmɑ.tu.ɑ/
+
 **Verb**: to be a parent
 
 **Noun**: parent
 
 **Modifier**: parent-related
 
-Māori matua undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Māori matua /ma.ˈtu.a/<br/>
+    <em>Austronesian Language Family</em>
+</details>

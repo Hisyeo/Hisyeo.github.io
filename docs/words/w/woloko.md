@@ -10,12 +10,16 @@ hoverText: leaf/petal § Noun
 
 *leaf/petal* **§** Noun
 
+**IPA**: /ˈwɑ.lɑ.kɑ/
+
 **Verb**: to be a leaf/petal
 
 **Noun**: leaf/petal
 
 **Modifier**: leaf/petal-related
 
-Arabic وَرَقَة waraqa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic وَرَقَة waraqa /wa.ra.qa/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

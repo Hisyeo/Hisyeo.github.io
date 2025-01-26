@@ -10,12 +10,16 @@ hoverText: to manufacture (goods) § Verb
 
 *to manufacture (goods)* **§** Verb
 
+**IPA**: /ˈt͡ɕɑn.we.bɑ/
+
 **Verb**: to manufacture
 
 **Noun**: a good
 
 **Modifier**: manufacturable
 
-Georgian წარმოება c̣armoeba undefined
-
-*Kartvelian Language Family*
+<details>
+    <summary>Origin</summary>
+    Georgian წარმოება c̣armoeba [t͡sʼaɾmoeba]<br/>
+    <em>Kartvelian Language Family</em>
+</details>

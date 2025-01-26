@@ -10,12 +10,16 @@ hoverText: abstract § Adjective
 
 *abstract* **§** Adjective
 
+**IPA**: /ˈɑ.mul.tɑ/
+
 **Verb**: to be abstract/theoretical
 
 **Noun**: abstractness/theoreticality
 
 **Modifier**: abstract/theoretical
 
-Malayalam അമൂർത്ത amūṟtta undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malayalam അമൂർത്ത amūṟtta /amuːrt̪ːa/<br/>
+    <em>Dravidian Language Family</em>
+</details>

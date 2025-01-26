@@ -10,12 +10,16 @@ hoverText: to digest (the digested) § Verb
 
 *to digest (the digested)* **§** Verb
 
+**IPA**: /ˈsi.u.fɑ/
+
 **Verb**: to digest/dissolve
 
 **Noun**: the digested/dissolved
 
 **Modifier**: digestible/dissolvable
 
-Cantonese 消化 siu1 faa3 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 消化 siu1 faa3 /siːu̯.faː/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

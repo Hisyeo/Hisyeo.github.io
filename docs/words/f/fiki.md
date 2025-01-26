@@ -10,12 +10,16 @@ hoverText: fast § Adjective
 
 *fast* **§** Adjective
 
+**IPA**: /ˈfi.ki/
+
 **Verb**: to be fast/quick/speedy
 
 **Noun**: fastness/quickness/speed
 
 **Modifier**: fast/quick/speedy
 
-Hawaiian wiki undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hawaiian wiki [ˈviki]<br/>
+    <em>Austronesian Language Family</em>
+</details>

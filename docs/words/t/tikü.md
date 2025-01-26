@@ -10,12 +10,16 @@ hoverText: dead § Adjective
 
 *dead* **§** Adjective
 
+**IPA**: /ˈti.ku/
+
 **Verb**: to be dead
 
 **Noun**: deadness/death
 
 **Modifier**: dead
 
-Yoruba ti kú undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba ti kú /tī/+/kú/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

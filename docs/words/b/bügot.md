@@ -10,12 +10,16 @@ hoverText: heavy § Adjective
 
 *heavy* **§** Adjective
 
+**IPA**: /ˈbu.gɑt/
+
 **Verb**: to be heavy
 
 **Noun**: heaviness/weight
 
 **Modifier**: heavy
 
-Cebuano bug-at undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Cebuano bug-at [bʊɡˈʔat̪]<br/>
+    <em>Austronesian Language Family</em>
+</details>

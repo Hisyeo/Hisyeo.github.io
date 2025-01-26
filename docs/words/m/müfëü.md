@@ -10,12 +10,16 @@ hoverText: clean § Adjective
 
 *clean* **§** Adjective
 
+**IPA**: /ˈmu.fe.u/
+
 **Verb**: to be clean
 
 **Noun**: cleanliness
 
 **Modifier**: clean
 
-Kamba mutheu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Kamba mutheu /mu.ðeu/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: belly § Noun
 
 *belly* **§** Noun
 
+**IPA**: /ˈwɪk.sɛ/
+
 **Verb**: to be a belly/stomach
 
 **Noun**: belly/stomach
 
 **Modifier**: belly/stomach-related
 
-Quechua wiksa undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Quechua wiksa ['wɪksæ]<br/>
+    <em>Quechumaran Language Family</em>
+</details>

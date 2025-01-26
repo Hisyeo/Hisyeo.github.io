@@ -10,12 +10,16 @@ hoverText: color § Noun
 
 *color* **§** Noun
 
+**IPA**: /ˈlɑn.gɪ/
+
 **Verb**: to be a color
 
 **Noun**: color
 
 **Modifier**: color-related
 
-Swahili rangi undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili rangi /ɾɑᵑɡɪ/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

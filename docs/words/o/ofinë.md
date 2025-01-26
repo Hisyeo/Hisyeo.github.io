@@ -10,12 +10,16 @@ hoverText: cultured/refined § Adjective
 
 *cultured/refined* **§** Adjective
 
+**IPA**: /ˈɑ.fi.ne/
+
 **Verb**: to be cultured/refined
 
 **Noun**: culturedness/refinedness
 
 **Modifier**: cultured/refined
 
-French affiné undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French affiné /a.fi.ne/<br/>
+    <em>Romance Language Family</em>
+</details>

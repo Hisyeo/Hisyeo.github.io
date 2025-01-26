@@ -10,12 +10,16 @@ hoverText: problem § Noun
 
 *problem* **§** Noun
 
+**IPA**: /ˈi.ʃo.lo/
+
 **Verb**: to be a problem/affair
 
 **Noun**: problem/affair
 
 **Modifier**: problem/affair-related
 
-Yoruba iṣoro undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba iṣoro /ì.ʃò.ɾō/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

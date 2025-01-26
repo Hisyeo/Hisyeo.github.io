@@ -10,12 +10,16 @@ hoverText: alarm § Noun
 
 *alarm* **§** Noun
 
+**IPA**: /ˈgɑn.gɑ.ʃi/
+
 **Verb**: to be an alarm
 
 **Noun**: alarm
 
 **Modifier**: alarm-related
 
-Georgian განგაში gangaši undefined
-
-*Kartvelian Language Family*
+<details>
+    <summary>Origin</summary>
+    Georgian განგაში gangaši [ɡ̊aŋɡaʃi]<br/>
+    <em>Kartvelian Language Family</em>
+</details>

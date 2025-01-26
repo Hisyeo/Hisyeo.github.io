@@ -10,12 +10,16 @@ hoverText: cereal/grain § Noun
 
 *cereal/grain* **§** Noun
 
+**IPA**: /ˈli.sik/
+
 **Verb**: to be a cereal/grain
 
 **Noun**: cereal/grain
 
 **Modifier**: cereal/grain-related
 
-Arabic رِزْق‎ riziki undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic رِزْق‎ riziki /rizik/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

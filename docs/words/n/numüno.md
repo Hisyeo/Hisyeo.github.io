@@ -10,12 +10,16 @@ hoverText: example § Noun
 
 *example* **§** Noun
 
+**IPA**: /nʌ.ˈmu.nɑ/
+
 **Verb**: to be an example/sample
 
 **Noun**: example/sample
 
 **Modifier**: example/sample-related
 
-Marathi नमूना namunā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Marathi नमूना namunā [n̪ə.muː.n̪äː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

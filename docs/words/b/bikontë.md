@@ -10,12 +10,16 @@ hoverText: spicy § Adjective
 
 *spicy* **§** Adjective
 
+**IPA**: /ˈbi.kɑn.te/
+
 **Verb**: to be spicy
 
 **Noun**: spiciness
 
 **Modifier**: spicy
 
-Spanish picante undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish picante [piˈkãn̪.t̪e]<br/>
+    <em>Romance Language Family</em>
+</details>

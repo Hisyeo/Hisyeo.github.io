@@ -10,12 +10,16 @@ hoverText: way/path § Noun
 
 *way/path* **§** Noun
 
+**IPA**: /ˈti.tɑn/
+
 **Verb**: to be a way/path
 
 **Noun**: way/path
 
 **Modifier**: way/path-related
 
-Thai ทิศทาง tít-taang undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ทิศทาง tít-taang /tʰit̚˦˥.tʰaːŋ˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

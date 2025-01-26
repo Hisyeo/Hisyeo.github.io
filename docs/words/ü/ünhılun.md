@@ -10,12 +10,16 @@ hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
 
 *to surround/envelope (a surrounding/enclosure) * **§** Verb
 
+**IPA**: /ˈun.hɪ.lʌn/
+
 **Verb**: to surround/envelope
 
 **Noun**: a surrounding/enclosure
 
 **Modifier**: surroundable/envelopable
 
-German umhüllen undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German umhüllen /ʊmˈhʏlən/<br/>
+    <em>Germanic Language Family</em>
+</details>

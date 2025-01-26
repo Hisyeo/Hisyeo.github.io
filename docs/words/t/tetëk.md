@@ -10,12 +10,16 @@ hoverText: breast/chest § Noun
 
 *breast/chest* **§** Noun
 
+**IPA**: /ˈtɛ.tek/
+
 **Verb**: to be a breast/chest
 
 **Noun**: breast/chest
 
 **Modifier**: breast/chest-related
 
-Indonesian tetek  undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Indonesian tetek  [ˈt̪ɛt̪ek̚]<br/>
+    <em>Austronesian Language Family</em>
+</details>

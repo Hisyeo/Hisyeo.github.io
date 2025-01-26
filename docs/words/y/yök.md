@@ -10,12 +10,16 @@ hoverText: negatitive particle § Particle
 
 *negatitive particle* **§** Particle
 
+**IPA**: /ˈjok/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Turkish yok undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish yok /ˈjok/<br/>
+    <em>Turkic Language Family</em>
+</details>

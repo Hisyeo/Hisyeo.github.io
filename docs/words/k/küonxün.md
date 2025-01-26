@@ -10,12 +10,16 @@ hoverText: tolerant § Adjective
 
 *tolerant* **§** Adjective
 
+**IPA**: /ˈku.ɑn.ʃun/
+
 **Verb**: to be tolerant
 
 **Noun**: tolerance
 
 **Modifier**: tolerant
 
-Mandarin 寬容 kuānróng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 寬容 kuānróng /kʰwan.ʐʊŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: 14 fourteen § Numeral
 
 *14 fourteen* **§** Numeral
 
+**IPA**: /ˈd͡ʒɪ.jon/
+
 **Verb**: to be fourteen
 
 **Noun**: fourteen
 
 **Modifier**: fourteenth
 
-Japanese じゅうよん jūyon undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese じゅうよん jūyon [d͡ʑɨᵝːjõ̞ɴ]<br/>
+    <em>Japonic Language Family</em>
+</details>

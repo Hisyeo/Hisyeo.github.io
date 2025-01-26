@@ -10,12 +10,16 @@ hoverText: to cook (a meal) § Verb
 
 *to cook (a meal)* **§** Verb
 
+**IPA**: /ˈt͡ɕo.u.fɑn/
+
 **Verb**: to cook
 
 **Noun**: a meal
 
 **Modifier**: cookable
 
-Cantonese 做飯 zou6 faan6 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 做飯 zou6 faan6 /t͡sou.faːn/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

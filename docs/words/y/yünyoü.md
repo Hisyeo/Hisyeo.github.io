@@ -10,12 +10,16 @@ hoverText: to have (a possession) § Verb
 
 *to have (a possession)* **§** Verb
 
+**IPA**: /ˈjun.jɑ.u/
+
 **Verb**: to have/own/possess
 
 **Noun**: a possession
 
 **Modifier**: ownable/possessable
 
-Cantonese 擁有 jung jau undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 擁有 jung jau /jʊŋ.jɐu̯/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: authentic § Adjective
 
 *authentic* **§** Adjective
 
+**IPA**: /ˈhɑ.ki.ki/
+
 **Verb**: to be authentic/true
 
 **Noun**: authenticity/truth
 
 **Modifier**: authentic/true
 
-Arabic حَقِيقِيّ ḥaqīqiyy undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic حَقِيقِيّ ḥaqīqiyy <br/>
+    <em>Afroasiatic Language Family</em>
+</details>

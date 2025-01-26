@@ -10,12 +10,16 @@ hoverText: to maintain (the maintained) § Verb
 
 *to maintain (the maintained)* **§** Verb
 
+**IPA**: /ˈwʌ.it.si/
+
 **Verb**: to maintain/keep/uphold
 
 **Noun**: the maintained/kept/upheld
 
 **Modifier**: maintable/keepable/upholdable
 
-Cantonese 維持 wai4 ci4 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 維持 wai4 ci4 /wɐi̯.tsʰiː/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

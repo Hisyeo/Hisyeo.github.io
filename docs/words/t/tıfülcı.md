@@ -10,12 +10,16 @@ hoverText: creative § Adjective
 
 *creative* **§** Adjective
 
+**IPA**: /tɪ.ˈful.t͡ɕɪ/
+
 **Verb**: to be creative/inventive/imaginative
 
 **Noun**: creativeness/inventiveness/imaginativeness
 
 **Modifier**: creative/inventive/imaginative
 
-Polish twórczy undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish twórczy /ˈtfur.t͡ʂɨ/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: future verb particle § Particle
 
 *future verb particle* **§** Particle
 
+**IPA**: /ˈkɛ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Macedonian ќе undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Macedonian ќе [cɛ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: politeness sentence ender § Postposition
 
 *politeness sentence ender* **§** Postposition
 
+**IPA**: /ˈlot.fɛn/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Persian لطفاً lotfan undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian لطفاً lotfan [lot̪.fæn]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

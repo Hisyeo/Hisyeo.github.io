@@ -10,12 +10,16 @@ hoverText: to touch (a surface) § Verb
 
 *to touch (a surface)* **§** Verb
 
+**IPA**: /ˈɑ.ku.lɑ/
+
 **Verb**: to touch/contact/feel (physically)
 
 **Noun**: a surface
 
 **Modifier**: touchable/physical
 
-Dholuo akura undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Dholuo akura /ɑ.kuː.ra/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

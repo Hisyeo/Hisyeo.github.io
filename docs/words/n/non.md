@@ -10,12 +10,16 @@ hoverText: movie/show § Noun
 
 *movie/show* **§** Noun
 
+**IPA**: /ˈnɑn/
+
 **Verb**: to be a movie/film/show/video
 
 **Noun**: movie/film/show/video
 
 **Modifier**: movie/film/show/video-related
 
-Lü ᦐᧂ ṅang undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Lü ᦐᧂ ṅang /naŋ˥/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

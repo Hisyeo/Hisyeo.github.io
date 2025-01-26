@@ -10,12 +10,16 @@ hoverText: to promise (a promise) § Verb
 
 *to promise (a promise)* **§** Verb
 
+**IPA**: /ˈbe.mɑn/
+
 **Verb**: to promise (to)
 
 **Noun**: a promise
 
 **Modifier**: promisable
 
-Persian پیمان peymân undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian پیمان peymân /pejˈmɒːn/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

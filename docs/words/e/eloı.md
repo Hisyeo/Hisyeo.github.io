@@ -10,12 +10,16 @@ hoverText: boundary/border § Noun
 
 *boundary/border* **§** Noun
 
+**IPA**: /ɛ.ˈlɑ.ɪ/
+
 **Verb**: to be a boundary/border
 
 **Noun**: boundary/border
 
 **Modifier**: boundary/border-related
 
-Tamil எல்லை ellai undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil எல்லை ellai /ɛllɐɪ̯/<br/>
+    <em>Dravidian Language Family</em>
+</details>

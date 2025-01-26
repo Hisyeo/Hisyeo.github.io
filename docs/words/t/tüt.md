@@ -10,12 +10,16 @@ hoverText: hot § Adjective
 
 *hot* **§** Adjective
 
+**IPA**: /ˈtut/
+
 **Verb**: to be hot
 
 **Noun**: hotness/heat
 
 **Modifier**: hot
 
-Bring Klon tut undefined
-
-*Trans-New Guinea Language Family*
+<details>
+    <summary>Origin</summary>
+    Bring Klon tut [tut]<br/>
+    <em>Trans-New Guinea Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: bow (weapon)/bow (music) § Noun
 
 *bow (weapon)/bow (music)* **§** Noun
 
+**IPA**: /ˈgu.dɑ.lo/
+
 **Verb**: to be a bow
 
 **Noun**: bow
 
 **Modifier**: bow-related
 
-Serbo-Croatian гу̀дало gùdalo undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Serbo-Croatian гу̀дало gùdalo /ɡǔdalo/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

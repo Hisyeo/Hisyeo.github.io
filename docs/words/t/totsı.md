@@ -10,12 +10,16 @@ hoverText: standing § Adjective
 
 *standing* **§** Adjective
 
+**IPA**: /ˈtɑt.sɪ/
+
 **Verb**: to be standing/vertical
 
 **Noun**: verticality
 
 **Modifier**: standing/vertical
 
-Japanese 立つ tatsu undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 立つ tatsu [ta̠t͡sɨᵝ]<br/>
+    <em>Japonic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: tendency/inclination § Noun
 
 *tendency/inclination* **§** Noun
 
+**IPA**: /ˈnɛ.i.gɪn/
+
 **Verb**: to be a tendency/inclination
 
 **Noun**: tendency/inclination
 
 **Modifier**: tendency/inclination-related
 
-Dutch neiging undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch neiging /ˈnɛi̯.ɣɪŋ/<br/>
+    <em>Germanic Language Family</em>
+</details>

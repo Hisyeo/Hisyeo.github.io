@@ -10,12 +10,16 @@ hoverText: hurting/suffering § Adjective
 
 *hurting/suffering* **§** Adjective
 
+**IPA**: /ˈton.ko/
+
 **Verb**: to be hurting/suffering
 
 **Noun**: pain/suffering
 
 **Modifier**: hurting/suffering
 
-Min, Southern 痛苦 thòng-khó͘  undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Min, Southern 痛苦 thòng-khó͘  /tʰɔŋkʰɔ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

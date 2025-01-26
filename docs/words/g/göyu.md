@@ -10,12 +10,16 @@ hoverText: mouth § Noun
 
 *mouth* **§** Noun
 
+**IPA**: /ˈgo.jʌ/
+
 **Verb**: to be a mouth
 
 **Noun**: mouth
 
 **Modifier**: mouth-related
 
-Albanian gojë undefined
-
-*Albanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Albanian gojë /ˈɡojə/<br/>
+    <em>Albanian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: station/garage § Noun
 
 *station/garage* **§** Noun
 
+**IPA**: /ˈse.dʌ/
+
 **Verb**: to be a station/garage
 
 **Noun**: station/garage
 
 **Modifier**: station/garage-related
 
-Wu 站頭 ze-deu undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Wu 站頭 ze-deu /ze.dɤ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

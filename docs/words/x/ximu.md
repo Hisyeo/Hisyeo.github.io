@@ -10,12 +10,16 @@ hoverText: water § Noun
 
 *water* **§** Noun
 
+**IPA**: /ˈʃi.mʌ/
+
 **Verb**: to be water
 
 **Noun**: water
 
 **Modifier**: water
 
-Barí xima undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Barí xima /ʃimə(nə)/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

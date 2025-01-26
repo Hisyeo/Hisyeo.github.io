@@ -10,12 +10,16 @@ hoverText: ashamed § Adjective
 
 *ashamed* **§** Adjective
 
+**IPA**: /ˈʃʌl.mɪn.dɑ/
+
 **Verb**: to be ashamed/embarrassed
 
 **Noun**: shame/embarrassment
 
 **Modifier**: ashamed/embarrassed
 
-Hindi शरमिंदा śarmindā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi शरमिंदा śarmindā [ʃəɾ.mɪ̃n̪.d̪äː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

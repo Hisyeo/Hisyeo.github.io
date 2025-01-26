@@ -10,12 +10,16 @@ hoverText: accessory § Noun
 
 *accessory* **§** Noun
 
+**IPA**: /ˈfu.ʃu.bin/
+
 **Verb**: to be an accessory/attachment
 
 **Noun**: accessory/attachment
 
 **Modifier**: accessory/attachment-related
 
-Mandarin 附屬品 fùshǔpǐn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 附屬品 fùshǔpǐn /fùʂǔpʰǐn/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

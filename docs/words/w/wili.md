@@ -10,12 +10,16 @@ hoverText: awake § Adjective
 
 *awake* **§** Adjective
 
+**IPA**: /ˈwi.li/
+
 **Verb**: to be awake
 
 **Noun**: wakefulness
 
 **Modifier**: awake
 
-Tamil விழி viḻi undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil விழி viḻi /ʋiɻi/<br/>
+    <em>Dravidian Language Family</em>
+</details>

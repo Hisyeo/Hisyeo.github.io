@@ -10,12 +10,16 @@ hoverText: diving § Adjective
 
 *diving* **§** Adjective
 
+**IPA**: /ˈdɑ.de/
+
 **Verb**: to be diving/swimming/bathing
 
 **Noun**: dive/swim/bath
 
 **Modifier**: diving/bathing
 
-Hmong, White da dej undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong, White da dej /da˧.de˥˧/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

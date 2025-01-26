@@ -10,12 +10,16 @@ hoverText: eastern § Adjective
 
 *eastern* **§** Adjective
 
+**IPA**: /ˈkɪ.lʌ.ku/
+
 **Verb**: to be eastern
 
 **Noun**: easterliness
 
 **Modifier**: eastern
 
-Tamil கிழக்கு kiḻakku undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil கிழக்கு kiḻakku [kiɻɐkːɯ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

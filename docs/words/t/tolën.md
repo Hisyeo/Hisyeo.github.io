@@ -10,12 +10,16 @@ hoverText: limb § Noun
 
 *limb* **§** Noun
 
+**IPA**: /ˈtɑ.len/
+
 **Verb**: to be a limb/branch
 
 **Noun**: limb/branch
 
 **Modifier**: limb/branch-related
 
-Santali tɑren undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Santali tɑren <br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

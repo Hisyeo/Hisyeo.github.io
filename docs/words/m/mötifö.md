@@ -10,12 +10,16 @@ hoverText: reason § Noun
 
 *reason* **§** Noun
 
+**IPA**: /ˈmo.ti.fo/
+
 **Verb**: to be a reason/motive
 
 **Noun**: reason/motive
 
 **Modifier**: reason/motive-related
 
-Spanish motivo undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish motivo [moˈt̪i.β̞o]<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: language § Noun
 
 *language* **§** Noun
 
+**IPA**: /ˈhis.kun.t͡ɕɑ/
+
 **Verb**: to be a language
 
 **Noun**: a language
 
 **Modifier**: language-related
 
-Basque hizkuntza undefined
-
-*Basque Language Family*
+<details>
+    <summary>Origin</summary>
+    Basque hizkuntza [his̻.kũn.t͡s̻a]<br/>
+    <em>Basque Language Family</em>
+</details>

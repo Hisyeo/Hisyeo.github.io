@@ -10,12 +10,16 @@ hoverText: smooth § Adjective
 
 *smooth* **§** Adjective
 
+**IPA**: /ˈlis/
+
 **Verb**: to be smooth
 
 **Noun**: smoothness
 
 **Modifier**: smooth
 
-French lisse undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French lisse /lis/<br/>
+    <em>Romance Language Family</em>
+</details>

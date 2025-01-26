@@ -10,12 +10,16 @@ hoverText: error § Noun
 
 *error* **§** Noun
 
+**IPA**: /ˈfɑ.ut/
+
 **Verb**: to be an error/mistake/defect
 
 **Noun**: error/mistake/defect
 
 **Modifier**: error/mistake/defect-related
 
-Dutch fout undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch fout /fɑu̯t/<br/>
+    <em>Germanic Language Family</em>
+</details>

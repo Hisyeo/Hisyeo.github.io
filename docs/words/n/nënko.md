@@ -10,12 +10,16 @@ hoverText: reason/cause marker (because of) § Preposition
 
 *reason/cause marker (because of)* **§** Preposition
 
+**IPA**: /ˈnen.kɑ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Zulu ngenxa undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Zulu ngenxa /ŋ(ɡ)eŋka/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

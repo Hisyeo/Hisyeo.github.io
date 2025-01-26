@@ -10,12 +10,16 @@ hoverText: hello/goodbye § Interjection
 
 *hello/goodbye* **§** Interjection
 
+**IPA**: /ˈbi.ɑ.li/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Nahuatl, Eastern Huasteca pialli undefined
-
-*Yuto-Nahuatl Language Family*
+<details>
+    <summary>Origin</summary>
+    Nahuatl, Eastern Huasteca pialli [pialːi]<br/>
+    <em>Yuto-Nahuatl Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to accuse (an accusation) § Verb
 
 *to accuse (an accusation)* **§** Verb
 
+**IPA**: /ˈt͡ɕit.se/
+
 **Verb**: to accuse/blame
 
 **Noun**: an accusation/censure
 
 **Modifier**: accusable/blamable
 
-Mandarin 指責 zhǐzé undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 指責 zhǐzé /ʈʂǐtsé/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

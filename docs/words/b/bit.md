@@ -10,12 +10,16 @@ hoverText: conditional verb particle § Particle
 
 *conditional verb particle* **§** Particle
 
+**IPA**: /ˈbit/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Czech být undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Czech být [ˈbiːt]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

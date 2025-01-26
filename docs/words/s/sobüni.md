@@ -10,12 +10,16 @@ hoverText: ill/sick § Adjective
 
 *ill/sick* **§** Adjective
 
+**IPA**: /ˈsɑ.bu.ni/
+
 **Verb**: to be ill/sick
 
 **Noun**: illness/sickness
 
 **Modifier**: ill/sick
 
-Laz ზაბუნი zabuni undefined
-
-*Kartvelian Language Family*
+<details>
+    <summary>Origin</summary>
+    Laz ზაბუნი zabuni /zabuni/<br/>
+    <em>Kartvelian Language Family</em>
+</details>

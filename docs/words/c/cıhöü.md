@@ -10,12 +10,16 @@ hoverText: successive marker (after) § Preposition
 
 *successive marker (after)* **§** Preposition
 
+**IPA**: /t͡ɕɪ.ˈho.u/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Mandarin 此後 cǐhòu undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 此後 cǐhòu <br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

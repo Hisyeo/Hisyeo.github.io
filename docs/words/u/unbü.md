@@ -10,12 +10,16 @@ hoverText: arrow § Noun
 
 *arrow* **§** Noun
 
+**IPA**: /ˈʌn.bu/
+
 **Verb**: to be an arrow
 
 **Noun**: arrow
 
 **Modifier**: arrow-related
 
-Tamil அம்பு ampu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil அம்பு ampu [ɐmbɯ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

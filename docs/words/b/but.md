@@ -10,12 +10,16 @@ hoverText: open § Adjective
 
 *open* **§** Adjective
 
+**IPA**: /ˈbʌt/
+
 **Verb**: to be open
 
 **Noun**: openness
 
 **Modifier**: open
 
-Thai เปิด bpə̀ət undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai เปิด bpə̀ət /pɤːt̚˨˩/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

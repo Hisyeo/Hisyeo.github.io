@@ -10,12 +10,16 @@ hoverText: irony/sarcasm § Noun
 
 *irony/sarcasm* **§** Noun
 
+**IPA**: /ˈgu.fɑ.ʃe/
+
 **Verb**: to be an irony/sarcasm
 
 **Noun**: irony/sarcasm
 
 **Modifier**: irony/sarcasm-related
 
-Persian گواژه‎ govâže undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian گواژه‎ govâže [guːvɒːʒe]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

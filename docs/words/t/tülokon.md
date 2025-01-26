@@ -10,12 +10,16 @@ hoverText: to adjudge (judgement) § Verb
 
 *to adjudge (judgement)* **§** Verb
 
+**IPA**: /ˈtu.lɑ.kɑn/
+
 **Verb**: to adjudge/condemn
 
 **Noun**: judgement/condemnation
 
 **Modifier**: judgeable/condemnable
 
-Thai ตุลาการ dtù-laa-gaan undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ตุลาการ dtù-laa-gaan /tu˨˩.laː˧.kaːn˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

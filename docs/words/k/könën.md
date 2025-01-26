@@ -10,12 +10,16 @@ hoverText: possible/likely § Adjective
 
 *possible/likely* **§** Adjective
 
+**IPA**: /ˈko.nen/
+
 **Verb**: to be possible/likely
 
 **Noun**: possibility/likeliness
 
 **Modifier**: possible/likely
 
-Hakka 可能 khó-nèn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Hakka 可能 khó-nèn /kʰonen/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

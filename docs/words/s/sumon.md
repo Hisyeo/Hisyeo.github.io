@@ -10,12 +10,16 @@ hoverText: equal/same § Adjective
 
 *equal/same* **§** Adjective
 
+**IPA**: /ˈsʌ.mɑn/
+
 **Verb**: to be equal/the same
 
 **Noun**: sameness/similarity/equality
 
 **Modifier**: equal/same
 
-Hindi समान samān undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi समान samān [s̪əˈmã(ː)n̪]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

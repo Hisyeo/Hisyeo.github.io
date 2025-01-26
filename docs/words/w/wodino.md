@@ -10,12 +10,16 @@ hoverText: stale § Adjective
 
 *stale* **§** Adjective
 
+**IPA**: /ˈwɑ.di.nɑ/
+
 **Verb**: to be stale
 
 **Noun**: staleness
 
 **Modifier**: stale
 
-Telugu వాడిన vāḍina undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu వాడిన vāḍina /ʋaː.di.na/<br/>
+    <em>Dravidian Language Family</em>
+</details>

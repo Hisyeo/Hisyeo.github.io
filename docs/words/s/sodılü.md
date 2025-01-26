@@ -10,12 +10,16 @@ hoverText: loose § Adjective
 
 *loose* **§** Adjective
 
+**IPA**: /ˈsɑ.dɪ.lu/
+
 **Verb**: to be loose
 
 **Noun**: looseness
 
 **Modifier**: loose
 
-Kannada ಸಡಿಲು saḍilu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Kannada ಸಡಿಲು saḍilu [sɐ.ɖɪ.lu]<br/>
+    <em>Dravidian Language Family</em>
+</details>

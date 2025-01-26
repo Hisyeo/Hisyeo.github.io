@@ -10,12 +10,16 @@ hoverText: sponge § Noun
 
 *sponge* **§** Noun
 
+**IPA**: /ˈis.bon.ʃʌ/
+
 **Verb**: to be a sponge
 
 **Noun**: sponge
 
 **Modifier**: sponge-related
 
-Portuguese esponja undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese esponja /isˈpõ.ʒɐ/<br/>
+    <em>Romance Language Family</em>
+</details>

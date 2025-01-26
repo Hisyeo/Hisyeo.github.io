@@ -10,12 +10,16 @@ hoverText: cloth/fabric § Noun
 
 *cloth/fabric* **§** Noun
 
+**IPA**: /ˈbɑl.t͡ɕɛ/
+
 **Verb**: to be cloth/fabric
 
 **Noun**: cloth/fabric
 
 **Modifier**: cloth/fabric-related
 
-Persian پارچه pârče undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian پارچه pârče [pʰɑːɾ.t͡ʃʰǽ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

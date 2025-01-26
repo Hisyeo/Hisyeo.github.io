@@ -10,12 +10,16 @@ hoverText: moon § Noun
 
 *moon* **§** Noun
 
+**IPA**: /ˈmu.e.si/
+
 **Verb**: to be a moon
 
 **Noun**: moon
 
 **Modifier**: moon-related
 
-Chichewa mwezi undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Chichewa mwezi /ˈmʷe.zí/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

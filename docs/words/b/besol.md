@@ -10,12 +10,16 @@ hoverText: to seal/lock (the sealed/locked) § Verb
 
 *to seal/lock (the sealed/locked)* **§** Verb
 
+**IPA**: /ˈbɛ.sɑl/
+
 **Verb**: to seal/lock
 
 **Noun**: the sealed/locked
 
 **Modifier**: sealable/lockable
 
-Hungarian bezár undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hungarian bezár [ˈbɛzaːr]<br/>
+    <em>Uralic Language Family</em>
+</details>

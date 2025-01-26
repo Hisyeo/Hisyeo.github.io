@@ -10,12 +10,16 @@ hoverText: source/origin marker (from) § Preposition
 
 *source/origin marker (from)* **§** Preposition
 
+**IPA**: /ˈsun/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Wu 從 zon undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Wu 從 zon /z̥ʊŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

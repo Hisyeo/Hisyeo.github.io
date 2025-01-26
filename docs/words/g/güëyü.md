@@ -10,12 +10,16 @@ hoverText: eye § Noun
 
 *eye* **§** Noun
 
+**IPA**: /ˈgu.e.ju/
+
 **Verb**: to be an eye
 
 **Noun**: eye
 
 **Modifier**: eye-related
 
-Asturian güeyu undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Asturian güeyu [ˈɡwe.ʝu]<br/>
+    <em>Romance Language Family</em>
+</details>

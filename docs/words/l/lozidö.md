@@ -10,12 +10,16 @@ hoverText: heart § Noun
 
 *heart* **§** Noun
 
+**IPA**: /ˈlɑ.d͡ʒi.do/
+
 **Verb**: to be a heart
 
 **Noun**: heart
 
 **Modifier**: heart-related
 
-Zapotec, Isthmus ladxidó' undefined
-
-*Oto-Manguean Language Family*
+<details>
+    <summary>Origin</summary>
+    Zapotec, Isthmus ladxidó' /ladʒidoʼ/<br/>
+    <em>Oto-Manguean Language Family</em>
+</details>

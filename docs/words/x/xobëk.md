@@ -10,12 +10,16 @@ hoverText: previous § Adjective
 
 *previous* **§** Adjective
 
+**IPA**: /ˈʃɑ.bek/
+
 **Verb**: to be previous/former
 
 **Noun**: previousness/antecedence
 
 **Modifier**: previous/former
 
-Bengali সাবেক śabek undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali সাবেক śabek [ɕabek]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

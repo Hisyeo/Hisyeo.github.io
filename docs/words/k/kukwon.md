@@ -10,12 +10,16 @@ hoverText: organ/member § Noun
 
 *organ/member* **§** Noun
 
+**IPA**: /ˈkʌk.wɑn/
+
 **Verb**: to be an organ/member
 
 **Noun**: organ/member
 
 **Modifier**: organ/member-related
 
-Vietnamese cơ quan undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese cơ quan [kəː˧˧ kwaːŋ˧˧]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

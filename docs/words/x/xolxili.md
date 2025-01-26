@@ -10,12 +10,16 @@ hoverText: teal § Adjective
 
 *teal* **§** Adjective
 
+**IPA**: /ˈʃɑl.ʃi.li/
+
 **Verb**: to be teal
 
 **Noun**: teal-ness
 
 **Modifier**: teal
 
-Arabic شَرْشِيرِيّ šaršīriyy undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic شَرْشِيرِيّ šaršīriyy /ʃar.ʃiː.rijj/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

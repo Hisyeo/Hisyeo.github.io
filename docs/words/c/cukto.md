@@ -10,12 +10,16 @@ hoverText: to write (text) § Verb
 
 *to write (text)* **§** Verb
 
+**IPA**: /ˈt͡ɕʌk.tɑ/
+
 **Verb**: to write
 
 **Noun**: text
 
 **Modifier**: writable
 
-Korean 적다 jeokda undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 적다 jeokda [t͡ɕʌ̹k̚t͈a̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

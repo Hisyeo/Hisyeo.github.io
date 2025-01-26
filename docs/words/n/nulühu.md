@@ -10,12 +10,16 @@ hoverText: abuse § Noun
 
 *abuse* **§** Noun
 
+**IPA**: /nʌ.ˈlu.hʌ/
+
 **Verb**: to be (an) abuse
 
 **Noun**: an abuse
 
 **Modifier**: abuse-related
 
-Ukrainian нару́га narúha undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Ukrainian нару́га narúha [nɐˈruɦɐ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

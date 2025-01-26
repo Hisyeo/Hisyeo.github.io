@@ -10,12 +10,16 @@ hoverText: past § Noun
 
 *past* **§** Noun
 
+**IPA**: /ˈo.hel/
+
 **Verb**: to be a past
 
 **Noun**: past
 
 **Modifier**: beforehand/ago/earlier
 
-K'iche' ojer undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    K'iche' ojer /oχeɾ/<br/>
+    <em>Mayan Language Family</em>
+</details>

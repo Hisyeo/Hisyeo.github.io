@@ -10,12 +10,16 @@ hoverText: 06 six § Numeral
 
 *06 six* **§** Numeral
 
+**IPA**: /ˈtɑ.u/
+
 **Verb**: to be six
 
 **Noun**: six
 
 **Modifier**: sixth
 
-Hmong, White rau undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong, White rau /ʈau̯˧/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

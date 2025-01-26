@@ -10,12 +10,16 @@ hoverText: verb modifier particle § Particle
 
 *verb modifier particle* **§** Particle
 
+**IPA**: /ˈin/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Manx yn- undefined
-
-*Celtic Language Family*
+<details>
+    <summary>Origin</summary>
+    Manx yn- /in/<br/>
+    <em>Celtic Language Family</em>
+</details>

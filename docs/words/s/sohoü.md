@@ -10,12 +10,16 @@ hoverText: healthy § Adjective
 
 *healthy* **§** Adjective
 
+**IPA**: /ˈsɑ.hɑ.u/
+
 **Verb**: to be healthy
 
 **Noun**: healthiness
 
 **Modifier**: healthy
 
-Avar сахав saxaw undefined
-
-*Nakh-Daghestani Language Family*
+<details>
+    <summary>Origin</summary>
+    Avar сахав saxaw [saχaw]<br/>
+    <em>Nakh-Daghestani Language Family</em>
+</details>

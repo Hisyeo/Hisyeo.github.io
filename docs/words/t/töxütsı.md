@@ -10,12 +10,16 @@ hoverText: bump § Noun
 
 *bump* **§** Noun
 
+**IPA**: /ˈto.ʃut.sɪ/
+
 **Verb**: to be a protrusion/bulge/bump
 
 **Noun**: a protrusion/bulge/bump
 
 **Modifier**: protrusion-like/bulge-like/bump-like
 
-Japanese とっしゅつ tosshutsu undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese とっしゅつ tosshutsu [to̞ɕːɯ̟̊ᵝt͡sɨᵝ]<br/>
+    <em>Japonic Language Family</em>
+</details>

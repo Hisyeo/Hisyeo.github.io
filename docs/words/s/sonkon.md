@@ -10,12 +10,16 @@ hoverText: important § Adjective
 
 *important* **§** Adjective
 
+**IPA**: /ˈsɑn.kɑn/
+
 **Verb**: to be important/significant
 
 **Noun**: importance/significance
 
 **Modifier**: important/significant
 
-Thai สำคัญ sǎm-kan undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai สำคัญ sǎm-kan /sam˩˩˦.kʰan˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

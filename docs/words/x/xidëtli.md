@@ -10,12 +10,16 @@ hoverText: strict § Adjective
 
 *strict* **§** Adjective
 
+**IPA**: /ˈʃi.det.li/
+
 **Verb**: to be strict/harsh
 
 **Noun**: strictness/harshness
 
 **Modifier**: strict/harsh
 
-Turkish şiddetli undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish şiddetli <br/>
+    <em>Turkic Language Family</em>
+</details>

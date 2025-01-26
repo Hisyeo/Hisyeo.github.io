@@ -10,12 +10,16 @@ hoverText: address § Noun
 
 *address* **§** Noun
 
+**IPA**: /ˈɑn.wɑ.ni/
+
 **Verb**: to be an address
 
 **Noun**: address
 
 **Modifier**: address-related
 
-Swahili anwani undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili anwani /'ɑn.wɑ.ni/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

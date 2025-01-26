@@ -10,12 +10,16 @@ hoverText: difficult § Adjective
 
 *difficult* **§** Adjective
 
+**IPA**: /ˈkʌ.tɪn/
+
 **Verb**: to be difficult/complex
 
 **Noun**: difficulty/complexity
 
 **Modifier**: difficult/complex
 
-Hindi कठिन kaṭhin undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi कठिन kaṭhin [kə.ʈʰɪ̃n̪]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

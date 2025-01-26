@@ -10,12 +10,16 @@ hoverText: sticky § Adjective
 
 *sticky* **§** Adjective
 
+**IPA**: /ˈbɪ.lit/
+
 **Verb**: to be sticky
 
 **Noun**: stickiness
 
 **Modifier**: sticky
 
-Cebuano pilit undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Cebuano pilit [pɪˈl̪it̪]<br/>
+    <em>Austronesian Language Family</em>
+</details>

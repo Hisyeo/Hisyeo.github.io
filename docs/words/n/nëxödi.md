@@ -10,12 +10,16 @@ hoverText: ethnic § Adjective
 
 *ethnic* **§** Adjective
 
+**IPA**: /ˈne.ʃo.di/
+
 **Verb**: to be ethnic/racial
 
 **Noun**: ethnic/racial-ness
 
 **Modifier**: ethnic/racial
 
-Persian نِژادی nežâdi undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian نِژادی nežâdi [ni.ʒɔ.d̪i]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

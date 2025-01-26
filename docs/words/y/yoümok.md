@@ -10,12 +10,16 @@ hoverText: humorous § Adjective
 
 *humorous* **§** Adjective
 
+**IPA**: /ˈjɑ.u.mɑk/
+
 **Verb**: to be humorous
 
 **Noun**: humorousness
 
 **Modifier**: humorous
 
-Cantonese 幽默 jau1 mak6 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 幽默 jau1 mak6 /jaːu̯.maːk̚/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: opaque § Adjective
 
 *opaque* **§** Adjective
 
+**IPA**: /ˈo.bɑk/
+
 **Verb**: to be opaque
 
 **Noun**: opacity
 
 **Modifier**: opaque
 
-French opaque undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French opaque /ɔ.pak/<br/>
+    <em>Romance Language Family</em>
+</details>

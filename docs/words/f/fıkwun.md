@@ -10,12 +10,16 @@ hoverText: bacteria/microbe § Noun
 
 *bacteria/microbe* **§** Noun
 
+**IPA**: /ˈfɪk.wʌn/
+
 **Verb**: to be a bacteria/microbe
 
 **Noun**: bacteria/microbe
 
 **Modifier**: bacterial/microbial
 
-Vietnamese vi khuẩn undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese vi khuẩn [vɪj˧˧ kʰwəŋ˨˩˦] <br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

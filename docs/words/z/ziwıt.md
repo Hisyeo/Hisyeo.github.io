@@ -10,12 +10,16 @@ hoverText: alive § Adjective
 
 *alive* **§** Adjective
 
+**IPA**: /ˈd͡ʒi.wɪt/
+
 **Verb**: to be alive
 
 **Noun**: aliveness
 
 **Modifier**: alive
 
-Hindi जीवित jīvit undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi जीवित jīvit /d͡ʒiː.ʋɪt̪/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: friend § Noun
 
 *friend* **§** Noun
 
+**IPA**: /ˈsu.tu.o/
+
 **Verb**: to be a friend
 
 **Noun**: a friend
 
 **Modifier**: friend-related
 
-Maasai, North sútúó undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Maasai, North sútúó /sú.tú.ó/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

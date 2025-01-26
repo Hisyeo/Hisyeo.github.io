@@ -10,12 +10,16 @@ hoverText: causative agentive verb noun particle § Particle
 
 *causative agentive verb noun particle* **§** Particle
 
+**IPA**: /ˈfɑ.kɑ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Māori whaka- undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Māori whaka- /ɸaka/<br/>
+    <em>Austronesian Language Family</em>
+</details>

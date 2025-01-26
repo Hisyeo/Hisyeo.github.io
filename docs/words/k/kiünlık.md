@@ -10,12 +10,16 @@ hoverText: authorized § Adjective
 
 *authorized* **§** Adjective
 
+**IPA**: /ˈki.un.lɪk/
+
 **Verb**: to be authorized/sovereign
 
 **Noun**: authority/sovereignty
 
 **Modifier**: authorized/sovereign
 
-Cantonese 權力 kyun4 lik6 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 權力 kyun4 lik6 /kʰyːn.lɪk/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

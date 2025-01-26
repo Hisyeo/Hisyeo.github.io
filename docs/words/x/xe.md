@@ -10,12 +10,16 @@ hoverText: subjective subordinate clause particle § Particle
 
 *subjective subordinate clause particle* **§** Particle
 
+**IPA**: /ˈʃɛ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Hebrew שֶׁ־ she- undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew שֶׁ־ she- [ʃɛː]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

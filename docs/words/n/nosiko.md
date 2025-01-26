@@ -10,12 +10,16 @@ hoverText: nose § Noun
 
 *nose* **§** Noun
 
+**IPA**: /ˈnɑ.si.kɑ/
+
 **Verb**: to be a nose/snout/trunk
 
 **Noun**: nose/snout/trunk
 
 **Modifier**: nose/snout/trunk-related
 
-Marathi नासिका nāsikā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Marathi नासिका nāsikā /nɑ́ː.si.kɑː/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

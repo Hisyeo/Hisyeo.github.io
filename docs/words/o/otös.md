@@ -10,12 +10,16 @@ hoverText: hard § Adjective
 
 *hard* **§** Adjective
 
+**IPA**: /ˈɑ.tos/
+
 **Verb**: to be hard/rigid/stiff
 
 **Noun**: hardness/rigidness/stiffness
 
 **Modifier**: hard/rigid/stiff
 
-Javanese atos undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Javanese atos /atos/<br/>
+    <em>Austronesian Language Family</em>
+</details>

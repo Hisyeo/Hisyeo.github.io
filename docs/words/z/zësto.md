@@ -10,12 +10,16 @@ hoverText: feat/achievement/heroic deed § Noun
 
 *feat/achievement/heroic deed* **§** Noun
 
+**IPA**: /ˈd͡ʒes.tɑ/
+
 **Verb**: to be a feat/achievement/heroic deed
 
 **Noun**: feat/achievement/heroic deed
 
 **Modifier**: feat-like/achievement-like
 
-Catalan gesta undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan gesta /ˈd͡ʒes.ta/<br/>
+    <em>Romance Language Family</em>
+</details>

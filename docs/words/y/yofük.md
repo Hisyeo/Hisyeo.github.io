@@ -10,12 +10,16 @@ hoverText: pillow § Noun
 
 *pillow* **§** Noun
 
+**IPA**: /ˈjɑ.fuk/
+
 **Verb**: to be a pillow/cushion
 
 **Noun**: pillow/cushion
 
 **Modifier**: pillow/cushion-related
 
-Turkmen ýassyk undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkmen ýassyk /jɑ'θːɯq/<br/>
+    <em>Turkic Language Family</em>
+</details>

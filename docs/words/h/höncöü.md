@@ -10,12 +10,16 @@ hoverText: herb § Noun
 
 *herb* **§** Noun
 
+**IPA**: /ˈhon.t͡ɕo.u/
+
 **Verb**: to be an herb
 
 **Noun**: herb
 
 **Modifier**: herb-related
 
-Cantonese 香草 hoeng1 cou2 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 香草 hoeng1 cou2 /hɔːŋ˥ tsʰou̯˧˥/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

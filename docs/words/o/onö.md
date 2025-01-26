@@ -10,12 +10,16 @@ hoverText: distal demonstrative (yon/yonder) § Pronoun
 
 *distal demonstrative (yon/yonder)* **§** Pronoun
 
+**IPA**: /ˈɑ.no/
+
 **Verb**: to be that over there
 
 **Noun**: that over there
 
 **Modifier**: yon/yonder
 
-Japanese あの ano undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese あの ano [a̠no̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

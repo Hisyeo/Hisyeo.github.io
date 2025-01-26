@@ -10,12 +10,16 @@ hoverText: dry § Adjective
 
 *dry* **§** Adjective
 
+**IPA**: /ˈul.gu.kin/
+
 **Verb**: to be dry
 
 **Noun**: dryness
 
 **Modifier**: dry
 
-Evenki олгокин olgokin undefined
-
-*Tungusic Language Family*
+<details>
+    <summary>Origin</summary>
+    Evenki олгокин olgokin /ʊl.gʊ.kin/<br/>
+    <em>Tungusic Language Family</em>
+</details>

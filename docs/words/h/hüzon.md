@@ -10,12 +10,16 @@ hoverText: rain § Noun
 
 *rain* **§** Noun
 
+**IPA**: /ˈhu.d͡ʒɑn/
+
 **Verb**: to be rain
 
 **Noun**: rain
 
 **Modifier**: rain-like
 
-Malay هوجن hujan undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay هوجن hujan /hud͡ʒan/<br/>
+    <em>Austronesian Language Family</em>
+</details>

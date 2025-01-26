@@ -10,12 +10,16 @@ hoverText: person § Noun
 
 *person* **§** Noun
 
+**IPA**: /ˈʌ.mɑ/
+
 **Verb**: to be a person
 
 **Noun**: person
 
 **Modifier**: person-related
 
-Abui, Takalelang ʔamˈa undefined
-
-*Trans-New Guinea Language Family*
+<details>
+    <summary>Origin</summary>
+    Abui, Takalelang ʔamˈa [ɑm'aː]<br/>
+    <em>Trans-New Guinea Language Family</em>
+</details>

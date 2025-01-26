@@ -10,12 +10,16 @@ hoverText: private/confidential § Adjective
 
 *private/confidential* **§** Adjective
 
+**IPA**: /ˈt͡ɕɑs.ni/
+
 **Verb**: to be private/confidential
 
 **Noun**: privateness/confidentiality
 
 **Modifier**: private/confidential
 
-Russian ча́стный částnyj undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Russian ча́стный částnyj [ˈt͡ɕasnɨj]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

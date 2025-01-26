@@ -10,12 +10,16 @@ hoverText: sacred § Adjective
 
 *sacred* **§** Adjective
 
+**IPA**: /ˈko.dʌs/
+
 **Verb**: to be sacred
 
 **Noun**: sacredness/holiness
 
 **Modifier**: sacred
 
-Hebrew קָדוֹשׁ kadósh undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew קָדוֹשׁ kadósh /ˈkɔdəʃ/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

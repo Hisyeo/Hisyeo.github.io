@@ -10,12 +10,16 @@ hoverText: to behave (a behavior) § Verb
 
 *to behave (a behavior)* **§** Verb
 
+**IPA**: /ˈwe.i.lʌn/
+
 **Verb**: to behave
 
 **Noun**: a behavior
 
 **Modifier**: behavable/behavior-like
 
-Mandarin 為人 wèirén undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 為人 wèirén [wei̯ɹən]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

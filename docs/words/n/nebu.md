@@ -10,12 +10,16 @@ hoverText: unlikely/rare § Adjective
 
 *unlikely/rare* **§** Adjective
 
+**IPA**: /ˈnɛ.bʌ/
+
 **Verb**: to be unlikely/rare
 
 **Noun**: unlikeliness/rarity
 
 **Modifier**: unlikely/rare
 
-Norwegian neppe undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Norwegian neppe /²nɛp.pə/<br/>
+    <em>Germanic Language Family</em>
+</details>

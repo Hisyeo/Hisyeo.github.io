@@ -10,12 +10,16 @@ hoverText: waste § Noun
 
 *waste* **§** Noun
 
+**IPA**: /ˈhu.lɑ.dek/
+
 **Verb**: to be waste/garbage
 
 **Noun**: waste/garbage
 
 **Modifier**: waste/garbage-related
 
-Hungarian hulladék undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hungarian hulladék [ˈhulːɒdeːk]<br/>
+    <em>Uralic Language Family</em>
+</details>

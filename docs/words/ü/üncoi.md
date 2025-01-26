@@ -10,12 +10,16 @@ hoverText: proud § Adjective
 
 *proud* **§** Adjective
 
+**IPA**: /ˈun.t͡ɕɑ.i/
+
 **Verb**: to be proud/vane
 
 **Noun**: pride/vanity
 
 **Modifier**: proud/vane
 
-Hindi ऊंचाई ūñcāī undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi ऊंचाई ūñcāī [ũːn.t͡ʃäː.iː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

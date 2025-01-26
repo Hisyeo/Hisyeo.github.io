@@ -10,12 +10,16 @@ hoverText: insect § Noun
 
 *insect* **§** Noun
 
+**IPA**: /ˈmu.ʃi/
+
 **Verb**: to be an insect
 
 **Noun**: an insect
 
 **Modifier**: instect-like
 
-Japanese 虫 mushi undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 虫 mushi /muɕi/<br/>
+    <em>Japonic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: old § Adjective
 
 *old* **§** Adjective
 
+**IPA**: /ˈnɑk.dɑ/
+
 **Verb**: to be old
 
 **Noun**: oldness/age
 
 **Modifier**: old
 
-Korean 낡다 nakda undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 낡다 nakda [na̠k̚t͈a̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

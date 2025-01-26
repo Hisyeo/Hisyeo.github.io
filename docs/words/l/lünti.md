@@ -10,12 +10,16 @@ hoverText: green § Adjective
 
 *green* **§** Adjective
 
+**IPA**: /ˈlun.ti/
+
 **Verb**: to be green
 
 **Noun**: greenness
 
 **Modifier**: green
 
-Tagalog lungti undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog lungti [lʊnˈtiʔ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

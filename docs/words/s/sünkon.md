@@ -10,12 +10,16 @@ hoverText: instantaneous (second) § Adjective
 
 *instantaneous (second)* **§** Adjective
 
+**IPA**: /ˈsun.kɑn/
+
 **Verb**: to be instantaneous
 
 **Noun**: instantaneousness/instant/second (unit)
 
 **Modifier**: instantaneous
 
-Min, Southern 瞬間 sùn-kan undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Min, Southern 瞬間 sùn-kan /suŋkaŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

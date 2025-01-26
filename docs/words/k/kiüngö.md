@@ -10,12 +10,16 @@ hoverText: spice § Noun
 
 *spice* **§** Noun
 
+**IPA**: /ˈki.un.go/
+
 **Verb**: to be a spice
 
 **Noun**: spice
 
 **Modifier**: spice-related
 
-Swahili kiungo undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili kiungo /kjungo/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

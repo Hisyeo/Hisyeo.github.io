@@ -10,12 +10,16 @@ hoverText: money § Noun
 
 *money* **§** Noun
 
+**IPA**: /ˈmʌ.ni/
+
 **Verb**: to be money
 
 **Noun**: money
 
 **Modifier**: money-related
 
-English money undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    English money /ˈmʌni/<br/>
+    <em>Germanic Language Family</em>
+</details>

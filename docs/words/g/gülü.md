@@ -10,12 +10,16 @@ hoverText: wound/injury § Noun
 
 *wound/injury* **§** Noun
 
+**IPA**: /ˈgu.lu/
+
 **Verb**: to be a wound/injury
 
 **Noun**: wound/injry
 
 **Modifier**: wound/injury-related
 
-Songhay guuru undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Songhay guuru [guːɾu]<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

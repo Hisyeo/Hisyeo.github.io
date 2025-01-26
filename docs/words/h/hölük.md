@@ -10,12 +10,16 @@ hoverText: to pump (a pumpable entity) § Noun
 
 *to pump (a pumpable entity)* **§** Noun
 
+**IPA**: /ˈho.luk/
+
 **Verb**: to pump
 
 **Noun**: pumpable entity
 
 **Modifier**: pumped
 
-Mongolian хөөрөг xöörög undefined
-
-*Mongolic Language Family*
+<details>
+    <summary>Origin</summary>
+    Mongolian хөөрөг xöörög [ˈxoːɾʊk]<br/>
+    <em>Mongolic Language Family</em>
+</details>

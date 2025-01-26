@@ -10,12 +10,16 @@ hoverText: tail § Noun
 
 *tail* **§** Noun
 
+**IPA**: /ˈbun.tut/
+
 **Verb**: to be a tail
 
 **Noun**: tail
 
 **Modifier**: caudal/tail-like
 
-Malay بونتوت buntut undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay بونتوت buntut /buntut/<br/>
+    <em>Austronesian Language Family</em>
+</details>

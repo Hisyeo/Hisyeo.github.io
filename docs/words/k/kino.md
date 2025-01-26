@@ -10,12 +10,16 @@ hoverText: rhyme/verse § Noun
 
 *rhyme/verse* **§** Noun
 
+**IPA**: /ˈki.nɑ/
+
 **Verb**: to be a rhyme/verse
 
 **Noun**: rhyme/verse
 
 **Modifier**: rhyme/verse-related
 
-Swahili kina undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili kina /ki.nɑ/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

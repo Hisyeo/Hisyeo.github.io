@@ -10,12 +10,16 @@ hoverText: direction/recipient (towards) § Preposition
 
 *direction/recipient (towards)* **§** Preposition
 
+**IPA**: /ˈmut/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Swedish mot undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish mot /muːt/<br/>
+    <em>Germanic Language Family</em>
+</details>

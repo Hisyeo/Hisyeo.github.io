@@ -10,12 +10,16 @@ hoverText: beneficial § Adjective
 
 *beneficial* **§** Adjective
 
+**IPA**: /ˈjo.u.li/
+
 **Verb**: to be beneficial/advantageous
 
 **Noun**: beneficialness/advantageousness/benefit
 
 **Modifier**: beneficial/advantageous
 
-Mandarin 有利 yǒulì undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 有利 yǒulì /joʊ̯li/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

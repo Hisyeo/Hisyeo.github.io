@@ -10,12 +10,16 @@ hoverText: corner § Noun
 
 *corner* **§** Noun
 
+**IPA**: /ˈɑn.go.lo/
+
 **Verb**: to be a corner/angle
 
 **Noun**: corner/angle
 
 **Modifier**: corner/angle-related
 
-Italian angolo undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian angolo /ˈan.ɡo.lo/<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: right § Noun
 
 *right* **§** Noun
 
+**IPA**: /ˈsɑt.nin/
+
 **Verb**: to be the right (side)
 
 **Noun**: right (side)
 
 **Modifier**: rightside-related/right(hand)
 
-Q'eqchi' sa' nim undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    Q'eqchi' sa' nim /saʔ.nim/<br/>
+    <em>Mayan Language Family</em>
+</details>

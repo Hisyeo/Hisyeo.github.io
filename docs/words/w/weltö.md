@@ -10,12 +10,16 @@ hoverText: limp/flaccid/flabby § Adjective
 
 *limp/flaccid/flabby* **§** Adjective
 
+**IPA**: /ˈwɛl.to/
+
 **Verb**: to be limp/flaccid/flabby
 
 **Noun**: limpness/flaccidness/flabbiness
 
 **Modifier**: limp/flaccid/flabby
 
-Finnish veltto undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Finnish veltto [ˈʋe̞l̪t̪ːo̞]<br/>
+    <em>Uralic Language Family</em>
+</details>

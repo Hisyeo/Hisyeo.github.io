@@ -10,12 +10,16 @@ hoverText: wrong § Adjective
 
 *wrong* **§** Adjective
 
+**IPA**: /ˈjɑn.lus/
+
 **Verb**: to be wrong/incorrect/unfair
 
 **Noun**: wrongness/incorrectness/unfairness
 
 **Modifier**: wrong/incorrect/unfair
 
-Azerbaijani yanlış undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani yanlış [jɑnˈɫɯʃ]<br/>
+    <em>Turkic Language Family</em>
+</details>

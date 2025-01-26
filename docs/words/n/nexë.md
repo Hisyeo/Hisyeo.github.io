@@ -10,12 +10,16 @@ hoverText: intoxicated § Adjective
 
 *intoxicated* **§** Adjective
 
+**IPA**: /ˈnɛ.ʃe/
+
 **Verb**: to be intoxicated
 
 **Noun**: intoxication
 
 **Modifier**: intoxicated
 
-Persian نشئه naš'e undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian نشئه naš'e [næːˈʃe]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

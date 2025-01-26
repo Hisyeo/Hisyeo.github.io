@@ -10,12 +10,16 @@ hoverText: card § Noun
 
 *card* **§** Noun
 
+**IPA**: /ˈtɑl.ʃe.tɑ/
+
 **Verb**: to be a card
 
 **Noun**: card
 
 **Modifier**: card-related
 
-Galician tarxeta undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Galician tarxeta [taɾʃeta]<br/>
+    <em>Romance Language Family</em>
+</details>

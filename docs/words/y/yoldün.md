@@ -10,12 +10,16 @@ hoverText: help/aid § Noun
 
 *help/aid* **§** Noun
 
+**IPA**: /ˈjɑl.dun/
+
 **Verb**: to be help/aid
 
 **Noun**: help/aid
 
 **Modifier**: help/aid-related
 
-Turkish yardım undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish yardım [jɑrˈdɯm]<br/>
+    <em>Turkic Language Family</em>
+</details>

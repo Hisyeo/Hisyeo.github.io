@@ -10,12 +10,16 @@ hoverText: manner/material marker § Preposition
 
 *manner/material marker* **§** Preposition
 
+**IPA**: /ˈbɪ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Hebrew בְּ־ b'- undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew בְּ־ b'- /bi/,/ba/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

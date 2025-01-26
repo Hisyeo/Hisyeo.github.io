@@ -10,12 +10,16 @@ hoverText: to reside in (a residence) § Verb
 
 *to reside in (a residence)* **§** Verb
 
+**IPA**: /ˈnɪ.wɑs/
+
 **Verb**: to reside/live (in)
 
 **Noun**: a residence/home
 
 **Modifier**: residable/livable
 
-Hindi निवास nivās undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi निवास nivās [n̪ɪ.ʋäːs̪]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

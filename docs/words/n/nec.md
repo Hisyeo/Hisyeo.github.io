@@ -10,12 +10,16 @@ hoverText: mesh § Noun
 
 *mesh* **§** Noun
 
+**IPA**: /ˈnɛt͡ɕ/
+
 **Verb**: to be a net/web/mesh
 
 **Noun**: net/web/mesh
 
 **Modifier**: net/web/mesh-related
 
-German Netz undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Netz /nɛt͡s/<br/>
+    <em>Germanic Language Family</em>
+</details>

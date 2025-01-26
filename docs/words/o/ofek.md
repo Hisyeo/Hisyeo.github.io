@@ -10,12 +10,16 @@ hoverText: collaborator marker (alongside/with) § Preposition
 
 *collaborator marker (alongside/with)* **§** Preposition
 
+**IPA**: /ˈɑ.fɛk/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-French avec undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French avec /a.vɛk/<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to blow (a blown entity) § Verb
 
 *to blow (a blown entity)* **§** Verb
 
+**IPA**: /ˈus.lek/
+
 **Verb**: to blow
 
 **Noun**: a blown entity
 
 **Modifier**: blowable
 
-Mongolian үлээх üleex undefined
-
-*Mongolic Language Family*
+<details>
+    <summary>Origin</summary>
+    Mongolian үлээх üleex /uɮex/<br/>
+    <em>Mongolic Language Family</em>
+</details>

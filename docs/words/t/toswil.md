@@ -10,12 +10,16 @@ hoverText: to draw (a picture) § Verb
 
 *to draw (a picture)* **§** Verb
 
+**IPA**: /ˈtɑs.wil/
+
 **Verb**: to draw
 
 **Noun**: a drawing/picture
 
 **Modifier**: drawable
 
-Arabic تَصْوِير taṣwīr undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic تَصْوِير taṣwīr /tasˤ.wiːr/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

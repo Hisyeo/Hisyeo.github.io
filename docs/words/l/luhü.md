@@ -10,12 +10,16 @@ hoverText: blood § Noun
 
 *blood* **§** Noun
 
+**IPA**: /ˈlʌ.hu/
+
 **Verb**: to be blood
 
 **Noun**: blood
 
 **Modifier**: blood-related
 
-Urdu لَہُو lahū undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Urdu لَہُو lahū /lə.ɦuː/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

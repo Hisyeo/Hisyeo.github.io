@@ -10,12 +10,16 @@ hoverText: momentary (minute) § Adjective
 
 *momentary (minute)* **§** Adjective
 
+**IPA**: /ˈe.fʌn/
+
 **Verb**: to be momentary/brief
 
 **Noun**: momentariness/briefness/minute (unit)
 
 **Modifier**: momentary/brief
 
-Dutch even undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch even /ˈeː.və(n)/<br/>
+    <em>Germanic Language Family</em>
+</details>

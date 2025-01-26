@@ -10,12 +10,16 @@ hoverText: thing § Noun
 
 *thing* **§** Noun
 
+**IPA**: /ˈʌ.jɑ/
+
 **Verb**: to be a thing
 
 **Noun**: thing
 
 **Modifier**: thing-related
 
-Burmse အရာ a.ra undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Burmse အရာ a.ra /ʔəjà/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

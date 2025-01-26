@@ -10,12 +10,16 @@ hoverText: to form a pose (a position) § Verb
 
 *to form a pose (a position)* **§** Verb
 
+**IPA**: /ˈbo.sɑl/
+
 **Verb**: to form (pose-wise)
 
 **Noun**: a pose/position
 
 **Modifier**: posable/positionable
 
-Spanish posar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish posar [poˈsaɾ]<br/>
+    <em>Romance Language Family</em>
+</details>

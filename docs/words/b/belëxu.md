@@ -10,12 +10,16 @@ hoverText: to mark (a target) § Verb
 
 *to mark (a target)* **§** Verb
 
+**IPA**: /bɛ.ˈle.ʃʌ/
+
 **Verb**: to mark/target
 
 **Noun**: a target
 
 **Modifier**: markable/targetable
 
-Bulgarian беле́жа beléža undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Bulgarian беле́жа beléža [bɛˈlɛʒɐ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

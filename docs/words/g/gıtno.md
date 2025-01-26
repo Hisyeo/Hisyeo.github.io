@@ -10,12 +10,16 @@ hoverText: intermediate marker (between) § Preposition
 
 *intermediate marker (between)* **§** Preposition
 
+**IPA**: /ˈgɪt.nɑ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Tagalog gitna undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog gitna [ɡɪtˈnaʔ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

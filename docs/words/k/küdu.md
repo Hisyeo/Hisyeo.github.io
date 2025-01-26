@@ -10,12 +10,16 @@ hoverText: horse § Noun
 
 *horse* **§** Noun
 
+**IPA**: /ˈku.dʌ/
+
 **Verb**: to be a horse/equine
 
 **Noun**: horse/equine
 
 **Modifier**: horse/equine-related
 
-Malay کودا kuda undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay کودا kuda /kudə/<br/>
+    <em>Austronesian Language Family</em>
+</details>

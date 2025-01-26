@@ -10,12 +10,16 @@ hoverText: bad § Adjective
 
 *bad* **§** Adjective
 
+**IPA**: /ˈbis/
+
 **Verb**: to be bad
 
 **Noun**: badness
 
 **Modifier**: bad
 
-Azerbaijani pis undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani pis [pis]<br/>
+    <em>Turkic Language Family</em>
+</details>

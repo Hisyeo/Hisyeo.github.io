@@ -10,12 +10,16 @@ hoverText: curious/inquisitive § Adjective
 
 *curious/inquisitive* **§** Adjective
 
+**IPA**: /ˈfo.gi.t͡ɕin/
+
 **Verb**: to be curious/inquisitive
 
 **Noun**: curiosity/inquisitiveness
 
 **Modifier**: curious/inquisitive
 
-Korean 호기심 hogisim undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 호기심 hogisim [ˈɸʷo̞(ː)ɡiɕʰim]<br/>
+    <em>Koreic Language Family</em>
+</details>

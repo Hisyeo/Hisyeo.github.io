@@ -10,12 +10,16 @@ hoverText: dot § Noun
 
 *dot* **§** Noun
 
+**IPA**: /ˈbɪn.du/
+
 **Verb**: to be a dot/point
 
 **Noun**: dot/point
 
 **Modifier**: dot/point-related
 
-Hindi बिंदु bindu undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi बिंदु bindu [bɪ̃n̪.d̪uː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

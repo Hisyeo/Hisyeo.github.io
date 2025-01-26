@@ -10,12 +10,16 @@ hoverText: location/time marker (at) § Preposition
 
 *location/time marker (at)* **§** Preposition
 
+**IPA**: /ˈhɑ.i/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Cantonese 喺 hai undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 喺 hai <br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

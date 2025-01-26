@@ -10,12 +10,16 @@ hoverText: room § Noun
 
 *room* **§** Noun
 
+**IPA**: /ˈkun.t͡ɕi.ɛn/
+
 **Verb**: to be a room/chamber
 
 **Noun**: room/chamber
 
 **Modifier**: room/chamber-related
 
-Mandarin 空間 kōngjiān undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 空間 kōngjiān /kʰʊŋ.tɕjɛn/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

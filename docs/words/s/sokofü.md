@@ -10,12 +10,16 @@ hoverText: floor § Noun
 
 *floor* **§** Noun
 
+**IPA**: /ˈsɑ.kɑ.fu/
+
 **Verb**: to be a floor/base
 
 **Noun**: a floor/base
 
 **Modifier**: floor/base-related
 
-Swahili sakafu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili sakafu /sa'ka.fu/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

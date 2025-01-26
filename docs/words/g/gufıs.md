@@ -10,12 +10,16 @@ hoverText: certain § Adjective
 
 *certain* **§** Adjective
 
+**IPA**: /ˈgʌ.fɪs/
+
 **Verb**: to be certain/sure
 
 **Noun**: certainty/sureness
 
 **Modifier**: certain/sure
 
-German gewiss undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German gewiss /ɡəˈvɪs/<br/>
+    <em>Germanic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: milled/ground/crushed § Adjective
 
 *milled/ground/crushed* **§** Adjective
 
+**IPA**: /gɛ.ˈmɑ.lɛn/
+
 **Verb**: to be milled/ground/crushed
 
 **Noun**: milledness/groundness/crushedness
 
 **Modifier**: milled/ground/crushed
 
-German gemahlen undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German gemahlen <br/>
+    <em>Germanic Language Family</em>
+</details>

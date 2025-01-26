@@ -10,12 +10,16 @@ hoverText: verb § Noun
 
 *verb* **§** Noun
 
+**IPA**: /ˈi.sen.so/
+
 **Verb**: to be a verb
 
 **Noun**: verb
 
 **Modifier**: verb-related
 
-Zulu isénzo undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Zulu isénzo /iséːnzo/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

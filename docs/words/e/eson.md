@@ -10,12 +10,16 @@ hoverText: 09 nine § Numeral
 
 *09 nine* **§** Numeral
 
+**IPA**: /ˈɛ.sɑn/
+
 **Verb**: to be nine
 
 **Noun**: nine
 
 **Modifier**: ninth
 
-Yoruba ẹ̀sán undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba ẹ̀sán /'ɛ.sän/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

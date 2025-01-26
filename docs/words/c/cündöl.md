@@ -10,12 +10,16 @@ hoverText: collision § Noun
 
 *collision* **§** Noun
 
+**IPA**: /ˈt͡ɕun.dol/
+
 **Verb**: to be an impact/crash/collision
 
 **Noun**: impact/crash/collision
 
 **Modifier**: impact/crash/collision-related
 
-Korean 충돌 chungdo undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 충돌 chungdo [t͡ɕʰuŋdo̞ɭ]<br/>
+    <em>Koreic Language Family</em>
+</details>

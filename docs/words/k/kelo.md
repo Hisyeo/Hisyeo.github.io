@@ -10,12 +10,16 @@ hoverText: to play (a game) § Verb
 
 *to play (a game)* **§** Verb
 
+**IPA**: /ˈkɛ.lɑ/
+
 **Verb**: to play (game-wise)
 
 **Noun**: a game
 
 **Modifier**: playable
 
-Assamese খেলা khela undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Assamese খেলা khela /kʰɛ.la/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

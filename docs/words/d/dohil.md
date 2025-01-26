@@ -10,12 +10,16 @@ hoverText: shallow § Adjective
 
 *shallow* **§** Adjective
 
+**IPA**: /ˈdɑ.hil/
+
 **Verb**: to be shallow
 
 **Noun**: shallowness
 
 **Modifier**: shallow
 
-Arabic ضَحِل ḍaḥil undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic ضَحِل ḍaḥil /dˤaħ.ħil/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

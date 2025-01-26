@@ -10,12 +10,16 @@ hoverText: comparison § Noun
 
 *comparison* **§** Noun
 
+**IPA**: /ˈtu.lo.nɑ/
+
 **Verb**: to be a comparison
 
 **Noun**: comparison
 
 **Modifier**: comparison-related
 
-Bengali তুলনা tulona undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali তুলনা tulona [ˈt̪ulonaˑ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

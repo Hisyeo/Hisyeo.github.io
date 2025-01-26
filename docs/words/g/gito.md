@@ -10,12 +10,16 @@ hoverText: line § Noun
 
 *line* **§** Noun
 
+**IPA**: /ˈgi.tɑ/
+
 **Verb**: to be a line
 
 **Noun**: line
 
 **Modifier**: line-related
 
-Telugu గీత gīta undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu గీత gīta /giː.ta/<br/>
+    <em>Dravidian Language Family</em>
+</details>

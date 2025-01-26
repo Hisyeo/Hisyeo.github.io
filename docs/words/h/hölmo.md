@@ -10,12 +10,16 @@ hoverText: dream § Noun
 
 *dream* **§** Noun
 
+**IPA**: /ˈhol.mɑ/
+
 **Verb**: to be a dream
 
 **Noun**: dream
 
 **Modifier**: dream-related
 
-Maltese ħolma undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Maltese ħolma /ˈħɔl.ma/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

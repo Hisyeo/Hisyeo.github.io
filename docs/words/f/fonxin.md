@@ -10,12 +10,16 @@ hoverText: square/rectangle § Noun
 
 *square/rectangle* **§** Noun
 
+**IPA**: /ˈfɑn.ʃin/
+
 **Verb**: to be a square/rectangle
 
 **Noun**: square/rectangle
 
 **Modifier**: square/rectangle-related
 
-Mandarin 方形 fāngxíng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 方形 fāngxíng /fɑŋɕiŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

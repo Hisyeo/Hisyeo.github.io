@@ -10,12 +10,16 @@ hoverText: existent § Adjective
 
 *existent* **§** Adjective
 
+**IPA**: /ˈgo/
+
 **Verb**: to be/exist
 
 **Noun**: existence
 
 **Modifier**: existent
 
-Songhay goo undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Songhay goo <br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

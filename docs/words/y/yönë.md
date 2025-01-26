@@ -10,12 +10,16 @@ hoverText: caprine § Noun
 
 *caprine* **§** Noun
 
+**IPA**: /ˈjo.ne/
+
 **Verb**: to be a goat/sheep/caprine
 
 **Noun**: goat/sheep/caprine
 
 **Modifier**: goat/sheep/caprine-related
 
-Hakka 羊仔 iòng-é undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Hakka 羊仔 iòng-é /iɔŋŋe/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

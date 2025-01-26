@@ -10,12 +10,16 @@ hoverText: loyal/faithful § Adjective
 
 *loyal/faithful* **§** Adjective
 
+**IPA**: /ˈt͡ɕo.un.tɑn/
+
 **Verb**: to be loyal/faithful
 
 **Noun**: loyalty/faithfulness
 
 **Modifier**: loyal/faithful
 
-Vietnamese trung thành undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese trung thành [ʈʊwŋ͡m˧˧ tʰɛɲ˦˩]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

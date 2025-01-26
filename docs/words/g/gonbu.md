@@ -10,12 +10,16 @@ hoverText: leg § Noun
 
 *leg* **§** Noun
 
+**IPA**: /ˈgɑn.bʌ/
+
 **Verb**: to be a leg
 
 **Noun**: leg
 
 **Modifier**: leg-related
 
-Romanian gambă undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Romanian gambă /ˈɡam.bə/<br/>
+    <em>Romance Language Family</em>
+</details>

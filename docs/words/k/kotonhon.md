@@ -10,12 +10,16 @@ hoverText: sudden/urgent § Adjective
 
 *sudden/urgent* **§** Adjective
 
+**IPA**: /ˈkɑ.tɑn.hɑn/
+
 **Verb**: to be sudden/urgent
 
 **Noun**: suddenness/urgency
 
 **Modifier**: sudden/urgent
 
-Thai กะทันหัน gà-tan-hǎn undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai กะทันหัน gà-tan-hǎn /ka˨˩.tʰan˧.han˩˩˦/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

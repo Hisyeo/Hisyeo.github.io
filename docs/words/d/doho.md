@@ -10,12 +10,16 @@ hoverText: to sacrifice (an offering) § Verb
 
 *to sacrifice (an offering)* **§** Verb
 
+**IPA**: /ˈdɑ.hɑ/
+
 **Verb**: to sacrifice
 
 **Noun**: an offering
 
 **Modifier**: sacrificable
 
-Arabic ⁧ضَحَّى⁩ ḍaḥḥā undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic ⁧ضَحَّى⁩ ḍaḥḥā /dˤaħ.ħaː/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

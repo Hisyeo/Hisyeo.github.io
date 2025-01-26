@@ -10,12 +10,16 @@ hoverText: to surrender (the surrendered) § Verb
 
 *to surrender (the surrendered)* **§** Verb
 
+**IPA**: /ˈdʌ.u.hɑn/
+
 **Verb**: to surrender
 
 **Noun**: the surrendered
 
 **Modifier**: surrenderable
 
-Vietnamese đầu hàng undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese đầu hàng [ʔɗəw˨˩ haːŋ˨˩]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

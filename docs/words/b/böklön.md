@@ -10,12 +10,16 @@ hoverText: to govern (the governed) § Verb
 
 *to govern (the governed)* **§** Verb
 
+**IPA**: /ˈbok.lon/
+
 **Verb**: to govern/manage
 
 **Noun**: the governed/managed
 
 **Modifier**: governable/manageable
 
-Thai ปกครอง bpòk-krɔɔng undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ปกครอง bpòk-krɔɔng /pok̚˨˩.kʰrɔːŋ˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

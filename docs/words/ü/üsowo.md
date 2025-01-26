@@ -10,12 +10,16 @@ hoverText: balanced § Adjective
 
 *balanced* **§** Adjective
 
+**IPA**: /ˈu.sɑ.wɑ/
+
 **Verb**: to be balanced/fair
 
 **Noun**: equity/fairness
 
 **Modifier**: balanced/fair
 
-Swahili usawa undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili usawa /u'sawa/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

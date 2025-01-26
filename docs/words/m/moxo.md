@@ -10,12 +10,16 @@ hoverText: decorative/ornamental § Adjective
 
 *decorative/ornamental* **§** Adjective
 
+**IPA**: /ˈmɑ.ʃɑ/
+
 **Verb**: to be decorative/ornamental
 
 **Noun**: decorative-ness/ornamentality
 
 **Modifier**: decorative/ornamental
 
-Irish maiseach undefined
-
-*Celtic Language Family*
+<details>
+    <summary>Origin</summary>
+    Irish maiseach /ˈmˠaʃa(h)/<br/>
+    <em>Celtic Language Family</em>
+</details>

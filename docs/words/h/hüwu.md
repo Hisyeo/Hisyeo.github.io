@@ -10,12 +10,16 @@ hoverText: egg § Noun
 
 *egg* **§** Noun
 
+**IPA**: /ˈhu.wʌ/
+
 **Verb**: to be a egg
 
 **Noun**: egg
 
 **Modifier**: egg-related
 
-Hawaiian hua undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hawaiian hua [ˈhuwə]<br/>
+    <em>Austronesian Language Family</em>
+</details>

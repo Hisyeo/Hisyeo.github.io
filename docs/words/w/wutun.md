@@ -10,12 +10,16 @@ hoverText: ring/circle § Noun
 
 *ring/circle* **§** Noun
 
+**IPA**: /ˈwʌ.tʌn/
+
 **Verb**: to be a ring/circle/disc
 
 **Noun**: ring/circle/disc
 
 **Modifier**: ring/circle/disc-related
 
-Tamil வட்டம் vaṭṭam undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil வட்டம் vaṭṭam /ʋɐʈːɐm/<br/>
+    <em>Dravidian Language Family</em>
+</details>

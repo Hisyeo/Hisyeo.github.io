@@ -10,12 +10,16 @@ hoverText: related § Adjective
 
 *related* **§** Adjective
 
+**IPA**: /ˈli.tɪ.wɛ/
+
 **Verb**: to be related
 
 **Noun**: relatedness/relation
 
 **Modifier**: related
 
-Finnish liittyvä undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Finnish liittyvä [ˈliːt̪ːyʋæ]<br/>
+    <em>Uralic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: map/chart § Noun
 
 *map/chart* **§** Noun
 
+**IPA**: /ˈnok.sɑ/
+
 **Verb**: to be a map/chart
 
 **Noun**: map/chart
 
 **Modifier**: map/chart-related
 
-Assamese নক্সা noksa undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Assamese নক্সা noksa /nɔksa/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

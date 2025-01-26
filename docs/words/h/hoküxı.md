@@ -10,12 +10,16 @@ hoverText: clapping/applauding § Adjective
 
 *clapping/applauding* **§** Adjective
 
+**IPA**: /ˈhɑ.ku.ʃɪ/
+
 **Verb**: to be clapping/appluading
 
 **Noun**: acclaim
 
 **Modifier**: clapping/applauding
 
-Japanese は​くしゅ hakushu undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese は​くしゅ hakushu [ha̠kɯ̟̊ᵝɕɨᵝ]<br/>
+    <em>Japonic Language Family</em>
+</details>

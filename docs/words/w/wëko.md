@@ -10,12 +10,16 @@ hoverText: to place (the placed) § Verb
 
 *to place (the placed)* **§** Verb
 
+**IPA**: /ˈwe.kɑ/
+
 **Verb**: to place
 
 **Noun**: the placed
 
 **Modifier**: placeable
 
-Swahili -weka undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -weka [weka]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

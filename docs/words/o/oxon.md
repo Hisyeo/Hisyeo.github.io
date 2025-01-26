@@ -10,12 +10,16 @@ hoverText: beneficiary/purpose marker (for) § Preposition
 
 *beneficiary/purpose marker (for)* **§** Preposition
 
+**IPA**: /ˈɑ.ʃɑn/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Arabic, Hijazi عشان ʕašān undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic, Hijazi عشان ʕašān /ʕaˈʃaːn/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

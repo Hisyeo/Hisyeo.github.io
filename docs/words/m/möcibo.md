@@ -10,12 +10,16 @@ hoverText: ongoing § Adjective
 
 *ongoing* **§** Adjective
 
+**IPA**: /ˈmo.t͡ɕi.bɑ/
+
 **Verb**: to be ongoing
 
 **Noun**: ongoingness
 
 **Modifier**: ongoing
 
-Nahuatl mochipa undefined
-
-*Yuto-Nahuatl Language Family*
+<details>
+    <summary>Origin</summary>
+    Nahuatl mochipa /motʃipɑ/<br/>
+    <em>Yuto-Nahuatl Language Family</em>
+</details>

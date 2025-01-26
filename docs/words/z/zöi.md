@@ -10,12 +10,16 @@ hoverText: blue § Adjective
 
 *blue* **§** Adjective
 
+**IPA**: /ˈd͡ʒo.i/
+
 **Verb**: to be blue
 
 **Noun**: blueness
 
 **Modifier**: blue
 
-Azerbaijani göy undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani göy [d͡ʒœj]<br/>
+    <em>Turkic Language Family</em>
+</details>

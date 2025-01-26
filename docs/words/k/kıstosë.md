@@ -10,12 +10,16 @@ hoverText: crustacean § Noun
 
 *crustacean* **§** Noun
 
+**IPA**: /kɪs.ˈtɑ.se/
+
 **Verb**: to be a crustacian
 
 **Noun**: crustacean
 
 **Modifier**: crustacean-related
 
-French crustacé undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French crustacé /kʁys.ta.se/<br/>
+    <em>Romance Language Family</em>
+</details>

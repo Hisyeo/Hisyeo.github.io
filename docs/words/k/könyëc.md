@@ -10,12 +10,16 @@ hoverText: ending § Adjective
 
 *ending* **§** Adjective
 
+**IPA**: /ˈkon.jet͡ɕ/
+
 **Verb**: to be ending
 
 **Noun**: endingness/end
 
 **Modifier**: ending
 
-Slovak koniec undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Slovak koniec [ˈkoɲi̯et͡s]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

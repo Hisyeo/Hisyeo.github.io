@@ -10,12 +10,16 @@ hoverText: to take (the taken) § Verb
 
 *to take (the taken)* **§** Verb
 
+**IPA**: /ˈgɑ.mi/
+
 **Verb**: to take/retrieve
 
 **Noun**: the taken
 
 **Modifier**: takeable
 
-Evenki гамӣ gamī undefined
-
-*Tungusic Language Family*
+<details>
+    <summary>Origin</summary>
+    Evenki гамӣ gamī /ɡamiː/<br/>
+    <em>Tungusic Language Family</em>
+</details>

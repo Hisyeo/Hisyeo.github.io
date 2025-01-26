@@ -10,12 +10,16 @@ hoverText: to name [as] (a name) § Verb
 
 *to name [as] (a name)* **§** Verb
 
+**IPA**: /ˈsɑ.mɑ/
+
 **Verb**: to name/designate [as]
 
 **Noun**: name/designation
 
 **Modifier**: nameable/designatable
 
-Arabic سَمَّى sammā undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic سَمَّى sammā /sam.maː/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

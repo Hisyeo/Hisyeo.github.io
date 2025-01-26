@@ -10,12 +10,16 @@ hoverText: correct § Adjective
 
 *correct* **§** Adjective
 
+**IPA**: /ˈdun.dɑn/
+
 **Verb**: to be correct/right/accurate
 
 **Noun**: correctness/accuracy
 
 **Modifier**: correct/right/accurate
 
-Vietnamese đúng đắn undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese đúng đắn [ʔɗʊwŋ͡m˦˥ ʔɗaŋ˦˥]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: safe § Adjective
 
 *safe* **§** Adjective
 
+**IPA**: /ˈmɛ.fus/
+
 **Verb**: to be safe/protected
 
 **Noun**: safety/protection
 
 **Modifier**: safe/protected
 
-Hindi महफ़ूज़ mahfūz undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi महफ़ूज़ mahfūz [mɛɦ.fuːz]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

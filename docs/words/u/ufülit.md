@@ -10,12 +10,16 @@ hoverText: bored § Adjective
 
 *bored* **§** Adjective
 
+**IPA**: /ʌ.ˈfu.lit/
+
 **Verb**: to be bored
 
 **Noun**: boredom
 
 **Modifier**: bored
 
-Catalan avorrit undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan avorrit [ə.vuˈrit]<br/>
+    <em>Romance Language Family</em>
+</details>

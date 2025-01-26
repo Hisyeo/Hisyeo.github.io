@@ -10,12 +10,16 @@ hoverText: lazy § Adjective
 
 *lazy* **§** Adjective
 
+**IPA**: /lɛ.ˈge.fu/
+
 **Verb**: to be lazy
 
 **Noun**: laziness
 
 **Modifier**: lazy
 
-Swahili -legevu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -legevu /lɛ'gɛ.vu/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to overwhelm (the overwhelmed) § Verb
 
 *to overwhelm (the overwhelmed)* **§** Verb
 
+**IPA**: /ˈɑ.bu.lu/
+
 **Verb**: to overwhelm/overpower
 
 **Noun**: the overwhelmed
 
 **Modifier**: overwhelmable
 
-Maori āpuru undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Maori āpuru [aːpuɾu]<br/>
+    <em>Austronesian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: supernatural/miraculous § Adjective
 
 *supernatural/miraculous* **§** Adjective
 
+**IPA**: /ˈhɪk.lɪ.hɑs/
+
 **Verb**: to be supernatural/miraculous
 
 **Noun**: supernaturalness/miraculousness
 
 **Modifier**: supernatural/miraculous
 
-Tagalog higlikás undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog higlikás [hɪɡ.lɪˈxas]<br/>
+    <em>Austronesian Language Family</em>
+</details>

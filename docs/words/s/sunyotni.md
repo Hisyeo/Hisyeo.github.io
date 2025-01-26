@@ -10,12 +10,16 @@ hoverText: interested/amused § Adjective
 
 *interested/amused* **§** Adjective
 
+**IPA**: /sʌn.ˈjɑt.ni/
+
 **Verb**: to be interested/amused
 
 **Noun**: interest/amusement
 
 **Modifier**: interested/amused
 
-Russian заня́тный zanjátnyj undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Russian заня́тный zanjátnyj [zɐˈnʲatnɨj]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

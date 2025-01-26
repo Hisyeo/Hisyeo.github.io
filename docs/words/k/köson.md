@@ -10,12 +10,16 @@ hoverText: to build (a construction) § Verb
 
 *to build (a construction)* **§** Verb
 
+**IPA**: /ˈko.sɑn/
+
 **Verb**: to build/construct
 
 **Noun**: a construction
 
 **Modifier**: construable/buildable
 
-Lao ກໍ່ສ້າງ kǭ sāng undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Lao ກໍ່ສ້າງ kǭ sāng <br/>
+    <em>Kra-Dai Language Family</em>
+</details>

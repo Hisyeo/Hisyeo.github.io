@@ -10,12 +10,16 @@ hoverText: white § Adjective
 
 *white* **§** Adjective
 
+**IPA**: /ˈbi.bok/
+
 **Verb**: to be white
 
 **Noun**: whiteness
 
 **Modifier**: white
 
-Atong পিবোক pibok undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Atong পিবোক pibok /pibok/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

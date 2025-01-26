@@ -10,12 +10,16 @@ hoverText: foolish/obtuse § Adjective
 
 *foolish/obtuse* **§** Adjective
 
+**IPA**: /ˈgo.wɑ/
+
 **Verb**: to be foolish/obtuse
 
 **Noun**: foolishness/obtuseness
 
 **Modifier**: foolish/obtuse
 
-Oromo gowwaa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Oromo gowwaa /gɔwːɑː/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

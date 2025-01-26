@@ -10,12 +10,16 @@ hoverText: to want (a desire) § Verb
 
 *to want (a desire)* **§** Verb
 
+**IPA**: /ˈfo.lʌn/
+
 **Verb**: to want/desire
 
 **Noun**: a desire
 
 **Modifier**: wantable/desirable
 
-German wollen undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German wollen /ˈvɔlən/<br/>
+    <em>Germanic Language Family</em>
+</details>

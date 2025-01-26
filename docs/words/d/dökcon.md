@@ -10,12 +10,16 @@ hoverText: decent § Adjective
 
 *decent* **§** Adjective
 
+**IPA**: /ˈdok.t͡ɕɑn/
+
 **Verb**: to be decent/virtuous
 
 **Noun**: decency/virtuousness
 
 **Modifier**: decent/virtuous
 
-Dutch deugdzaam undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch deugdzaam /ˈdøːxt.saːm/<br/>
+    <em>Germanic Language Family</em>
+</details>

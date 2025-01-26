@@ -10,12 +10,16 @@ hoverText: arachnid § Noun
 
 *arachnid* **§** Noun
 
+**IPA**: /ˈbʌ.jɛn.t͡ɕɑk/
+
 **Verb**: to be an arachnid
 
 **Noun**: an arachnid
 
 **Modifier**: arachnid-like
 
-Polish pajęczak undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish pajęczak /paˈjɛn.t͡ʂak/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

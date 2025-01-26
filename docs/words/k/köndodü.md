@@ -10,12 +10,16 @@ hoverText: to celebrate (a party) § Verb
 
 *to celebrate (a party)* **§** Verb
 
+**IPA**: /ˈkon.dɑ.du/
+
 **Verb**: to celebrate
 
 **Noun**: a party
 
 **Modifier**: celebratable
 
-Tamil கொண்டாடு koṇṭāṭu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil கொண்டாடு koṇṭāṭu [koɳɖaːɖɯ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

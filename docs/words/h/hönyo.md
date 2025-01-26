@@ -10,12 +10,16 @@ hoverText: wilderness § Noun
 
 *wilderness* **§** Noun
 
+**IPA**: /ˈhon.jɑ/
+
 **Verb**: to be the wilderness
 
 **Noun**: wilderness
 
 **Modifier**: wild
 
-Min, Southern 荒野 hong-iá undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Min, Southern 荒野 hong-iá /hɔŋia/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

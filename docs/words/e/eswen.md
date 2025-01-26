@@ -10,12 +10,16 @@ hoverText: more § Determiner
 
 *more* **§** Determiner
 
+**IPA**: /ˈɛs.wɛn/
+
 **Verb**: to be more
 
 **Noun**: moreness/increase
 
 **Modifier**: more/-er
 
-Quechua aswan undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Quechua aswan /ˈæswæn/<br/>
+    <em>Romance Language Family</em>
+</details>

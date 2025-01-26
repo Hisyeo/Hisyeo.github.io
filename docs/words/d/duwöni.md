@@ -10,12 +10,16 @@ hoverText: sand § Noun
 
 *sand* **§** Noun
 
+**IPA**: /dʌ.ˈwo.ni/
+
 **Verb**: to be sand
 
 **Noun**: sand
 
 **Modifier**: sand-related
 
-Ternate dowongi undefined
-
-*Trans-New Guinea Language Family*
+<details>
+    <summary>Origin</summary>
+    Ternate dowongi /do.ˈwo.ŋi/<br/>
+    <em>Trans-New Guinea Language Family</em>
+</details>

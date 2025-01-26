@@ -10,12 +10,16 @@ hoverText: cephalapod § Noun
 
 *cephalapod* **§** Noun
 
+**IPA**: /ˈkot.fu.sʌ/
+
 **Verb**: to be a cephalapod
 
 **Noun**: cephalapod
 
 **Modifier**: cephalapod-related
 
-German kopffüßer undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German kopffüßer /ˈkɔp͡fˌfyːsɐ/<br/>
+    <em>Germanic Language Family</em>
+</details>

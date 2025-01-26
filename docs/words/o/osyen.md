@@ -10,12 +10,16 @@ hoverText: ancient § Adjective
 
 *ancient* **§** Adjective
 
+**IPA**: /ˈɑs.jɛn/
+
 **Verb**: to be ancient/antique
 
 **Noun**: ancience/antiquity
 
 **Modifier**: ancient/antique
 
-French ancien undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French ancien /ɑ̃.sjɛ̃/<br/>
+    <em>Romance Language Family</em>
+</details>

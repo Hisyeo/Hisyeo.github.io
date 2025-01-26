@@ -10,12 +10,16 @@ hoverText: seeming § Adjective
 
 *seeming* **§** Adjective
 
+**IPA**: /ˈʃɑ.in.bɑ/
+
 **Verb**: to seemingly be
 
 **Noun**: seemingness
 
 **Modifier**: seeming
 
-German scheinbar undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German scheinbar [ˈsynəs]<br/>
+    <em>Germanic Language Family</em>
+</details>

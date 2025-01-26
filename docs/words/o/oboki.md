@@ -10,12 +10,16 @@ hoverText: glass § Noun
 
 *glass* **§** Noun
 
+**IPA**: /ˈɑ.bɑ.ki/
+
 **Verb**: to be glass/crystal
 
 **Noun**: glass/crystal
 
 **Modifier**: glass/crystal-related
 
-Armenian ապակի apaki undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian ապակի apaki [ɑpɑˈki]<br/>
+    <em>Armenian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: blunt § Adjective
 
 *blunt* **§** Adjective
 
+**IPA**: /ˈto.t͡ɕit/
+
 **Verb**: to be blunt/dull
 
 **Noun**: bluntness/dullness
 
 **Modifier**: blunt/dull
 
-Romanian tocit undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Romanian tocit /toˈt͡ʃit/<br/>
+    <em>Romance Language Family</em>
+</details>

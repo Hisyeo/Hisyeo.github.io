@@ -10,12 +10,16 @@ hoverText: middle § Noun
 
 *middle* **§** Noun
 
+**IPA**: /ˈmʌt.jʌ/
+
 **Verb**: to be the middle/center
 
 **Noun**: middleness/centralness
 
 **Modifier**: middle/center-related
 
-Sanskrit मध्य madhya undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit मध्य madhya /məd̪ʱ.jᵊ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: skin § Noun
 
 *skin* **§** Noun
 
+**IPA**: /ˈɑ.t͡ɕu.ɑ/
+
 **Verb**: to be skin/hide
 
 **Noun**: skin/hide
 
 **Modifier**: skin/hide-related
 
-Abkhazian а-цәа a-cʷa undefined
-
-*Abkhazo-Adyghean Language Family*
+<details>
+    <summary>Origin</summary>
+    Abkhazian а-цәа a-cʷa [atɕʰʷa]<br/>
+    <em>Abkhazo-Adyghean Language Family</em>
+</details>

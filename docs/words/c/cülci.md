@@ -10,12 +10,16 @@ hoverText: trick/scam § Noun
 
 *trick/scam* **§** Noun
 
+**IPA**: /ˈt͡ɕul.t͡ɕi/
+
 **Verb**: to be a trick/scam
 
 **Noun**: trick/scam
 
 **Modifier**: trick/scam-related
 
-Tamil சூழ்ச்சி cūḻcci undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil சூழ்ச்சி cūḻcci /t͡ʃuːlt͡ʃːi/<br/>
+    <em>Dravidian Language Family</em>
+</details>

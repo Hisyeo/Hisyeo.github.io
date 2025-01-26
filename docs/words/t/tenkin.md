@@ -10,12 +10,16 @@ hoverText: to hear (a sound) § Verb
 
 *to hear (a sound)* **§** Verb
 
+**IPA**: /ˈtɛn.kin/
+
 **Verb**: to hear
 
 **Noun**: a sound
 
 **Modifier**: hearable
 
-Cantonese  聽見 teng gin undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese  聽見 teng gin /tʰɛːŋ⁵⁵ kiːn³³/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

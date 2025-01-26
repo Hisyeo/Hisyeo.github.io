@@ -10,12 +10,16 @@ hoverText: general/universal § Adjective
 
 *general/universal* **§** Adjective
 
+**IPA**: /ˈkɑn.bɑk.bɑ/
+
 **Verb**: to be general/universal
 
 **Noun**: generalness/universality
 
 **Modifier**: general/universal
 
-Khoirao kampakpa undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Khoirao kampakpa /kampakpa/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

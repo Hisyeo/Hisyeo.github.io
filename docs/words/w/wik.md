@@ -10,12 +10,16 @@ hoverText: head § Noun
 
 *head* **§** Noun
 
+**IPA**: /ˈwik/
+
 **Verb**: to be a head
 
 **Noun**: head
 
 **Modifier**: head-related
 
-Luo wich undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Luo wich /wìc/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

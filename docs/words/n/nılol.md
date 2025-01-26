@@ -10,12 +10,16 @@ hoverText: shadow § Noun
 
 *shadow* **§** Noun
 
+**IPA**: /ˈnɪ.lɑl/
+
 **Verb**: to be a shadow
 
 **Noun**: shadow
 
 **Modifier**: shadow-related
 
-Tamil நிழல் niḻal undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil நிழல் niḻal /n̪ɪɻɐl/<br/>
+    <em>Dravidian Language Family</em>
+</details>

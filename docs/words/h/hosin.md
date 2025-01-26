@@ -10,12 +10,16 @@ hoverText: beautiful § Adjective
 
 *beautiful* **§** Adjective
 
+**IPA**: /ˈhɑ.sin/
+
 **Verb**: to be beautiful
 
 **Noun**: beauty
 
 **Modifier**: beautiful
 
-Bengali হাসিন haśin undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali হাসিন haśin [ˈɦasin]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

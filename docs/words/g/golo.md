@@ -10,12 +10,16 @@ hoverText: to read (a document) § Verb
 
 *to read (a document)* **§** Verb
 
+**IPA**: /ˈgɑ.lɑ/
+
 **Verb**: to read
 
 **Noun**: a document
 
 **Modifier**: readable
 
-Arabic, Hijazi قرا gara undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic, Hijazi قرا gara /ɡara/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

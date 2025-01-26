@@ -10,12 +10,16 @@ hoverText: thick § Adjective
 
 *thick* **§** Adjective
 
+**IPA**: /ˈt͡ɕot/
+
 **Verb**: to be thick
 
 **Noun**: thickness
 
 **Modifier**: thick
 
-Mam cho't undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mam cho't /t͡ʃʰɔtʼ/<br/>
+    <em>Mayan Language Family</em>
+</details>

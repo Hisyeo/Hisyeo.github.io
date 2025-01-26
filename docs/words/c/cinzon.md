@@ -10,12 +10,16 @@ hoverText: nervous/anxious § Adjective
 
 *nervous/anxious* **§** Adjective
 
+**IPA**: /ˈt͡ɕin.d͡ʒɑn/
+
 **Verb**: to be nervous/anxious
 
 **Noun**: nervousness/anxiety
 
 **Modifier**: nervous/anxious
 
-Mandarin 緊張 jǐnzhāng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 緊張 jǐnzhāng <br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

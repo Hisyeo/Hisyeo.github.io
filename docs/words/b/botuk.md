@@ -10,12 +10,16 @@ hoverText: flat § Adjective
 
 *flat* **§** Adjective
 
+**IPA**: /ˈbɑ.tʌk/
+
 **Verb**: to be flat
 
 **Noun**: flatness
 
 **Modifier**: flat
 
-Tagalog ᜉᜆᜄ᜔ patag undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog ᜉᜆᜄ᜔ patag [ˈpa.tɐɡ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

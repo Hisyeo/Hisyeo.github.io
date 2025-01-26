@@ -10,12 +10,16 @@ hoverText: empty/incomplete § Adjective
 
 *empty/incomplete* **§** Adjective
 
+**IPA**: /ˈli.to/
+
 **Verb**: to be empty/incomplete
 
 **Noun**: emptiness/incompleteness
 
 **Modifier**: empty/incomplete
 
-Nepali रित्तो ritto undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Nepali रित्तो ritto [rit̪̚t̪o]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

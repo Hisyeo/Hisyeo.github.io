@@ -10,12 +10,16 @@ hoverText: negatitive verb modifier particle § Particle
 
 *negatitive verb modifier particle* **§** Particle
 
+**IPA**: /ˈdes/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Portuguese des- undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese des- /des/<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: almost § Adjective
 
 *almost* **§** Adjective
 
+**IPA**: /ˈt͡ɕɑk.jɛn/
+
 **Verb**: to almost/nearly be
 
 **Noun**: almostness/nearliness
 
 **Modifier**: almost/nearly
 
-Mandarin 差點 chàdiǎn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 差點 chàdiǎn [ʈʂʰatjɛn]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

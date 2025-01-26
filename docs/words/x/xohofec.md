@@ -10,12 +10,16 @@ hoverText: jellyfish/hydra/anemone § Noun
 
 *jellyfish/hydra/anemone* **§** Noun
 
+**IPA**: /ˈʃɑ.hɑ.fɛt͡ɕ/
+
 **Verb**: to be a jellyfish/hydra/anemone
 
 **Noun**: jellyfish/hydra/anemone
 
 **Modifier**: jellyfish/hydra/anemone-related
 
-Czech žahavec undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Czech žahavec [ˈʒaɦavɛt͡s]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: fish § Noun
 
 *fish* **§** Noun
 
+**IPA**: /ˈmi.t͡ɕin/
+
 **Verb**: to be a fish
 
 **Noun**: fish
 
 **Modifier**: fish-related
 
-Nahuatl michin undefined
-
-*Yuto-Nahuatl Language Family*
+<details>
+    <summary>Origin</summary>
+    Nahuatl michin [ˈmi.t͡ʃin]<br/>
+    <em>Yuto-Nahuatl Language Family</em>
+</details>

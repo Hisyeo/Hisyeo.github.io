@@ -10,12 +10,16 @@ hoverText: what § Pronoun
 
 *what* **§** Pronoun
 
+**IPA**: /ˈd͡ʒɪk/
+
 **Verb**: to be what
 
 **Noun**: what/whom
 
 **Modifier**: (of) what
 
-Majang ǯík undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Majang ǯík /dʒɪk̚/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

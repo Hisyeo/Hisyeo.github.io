@@ -10,12 +10,16 @@ hoverText: variable/unstable § Adjective
 
 *variable/unstable* **§** Adjective
 
+**IPA**: /ˈke.ʃik/
+
 **Verb**: to be variable/unstable
 
 **Noun**: variability/unstableness
 
 **Modifier**: variable/unstable
 
-Yucatec kʼexik undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    Yucatec kʼexik /kʼeʃik/<br/>
+    <em>Mayan Language Family</em>
+</details>

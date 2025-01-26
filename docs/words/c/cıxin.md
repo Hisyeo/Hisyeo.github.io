@@ -10,12 +10,16 @@ hoverText: to enforce (the enforced) § Verb
 
 *to enforce (the enforced)* **§** Verb
 
+**IPA**: /ˈt͡ɕɪ.ʃin/
+
 **Verb**: to enforce/impose
 
 **Noun**: the enforced/imposed
 
 **Modifier**: enforceable/imposable
 
-Mandarin 執行 zhíxíng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 執行 zhíxíng /ʈʂɨɕiŋ<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

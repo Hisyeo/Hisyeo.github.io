@@ -10,12 +10,16 @@ hoverText: to operate (a machine) § Verb
 
 *to operate (a machine)* **§** Verb
 
+**IPA**: /t͡ɕʌ.ˈlɑ.nɑ/
+
 **Verb**: to operate/run
 
 **Noun**: a machine/operation
 
 **Modifier**: operatable/runnable
 
-Hindi चलाना calānā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi चलाना calānā [t͡ʃɐ.läː.näː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

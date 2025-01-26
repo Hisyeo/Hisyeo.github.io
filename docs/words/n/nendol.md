@@ -10,12 +10,16 @@ hoverText: famous § Adjective
 
 *famous* **§** Adjective
 
+**IPA**: /ˈnɛn.dɑl/
+
 **Verb**: to be famous
 
 **Noun**: fame
 
 **Modifier**: famous
 
-Persian نامدار nâmdâr undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian نامدار nâmdâr /nɑːm'dɑːɾ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to fortify (the fortified) § Verb
 
 *to fortify (the fortified)* **§** Verb
 
+**IPA**: /t͡ɕʌn.ˈt͡ɕi.ɑn/
+
 **Verb**: to fortify/reinforce
 
 **Noun**: the fortified/reinforced
 
 **Modifier**: fortifiable/reinforceable
 
-Mandarin 增強 zēngqiáng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 增強 zēngqiáng /tsəŋ.tɕʰjaŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

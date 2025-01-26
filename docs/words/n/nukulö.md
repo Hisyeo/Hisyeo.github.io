@@ -10,12 +10,16 @@ hoverText: copy § Noun
 
 *copy* **§** Noun
 
+**IPA**: /ˈnʌ.kʌ.lo/
+
 **Verb**: to be a copy
 
 **Noun**: copy
 
 **Modifier**: copy-related
 
-Odia ନକଲ nôkôlô undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Odia ନକଲ nôkôlô [nʌ'kʌlˌɔ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to cut (the cut/chopped) § Verb
 
 *to cut (the cut/chopped)* **§** Verb
 
+**IPA**: /ˈwe.tu/
+
 **Verb**: to cut/chop
 
 **Noun**: the cut/chopped
 
 **Modifier**: cuttable/choppable
 
-Tamil வெட்டு veṭṭu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil வெட்டு veṭṭu [ʋeʈːɯ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

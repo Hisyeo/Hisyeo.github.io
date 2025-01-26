@@ -10,12 +10,16 @@ hoverText: to love (the loved) § Verb
 
 *to love (the loved)* **§** Verb
 
+**IPA**: /ˈli.u.bit/
+
 **Verb**: to love
 
 **Noun**: the loved
 
 **Modifier**: lovable
 
-Slovak ľúbiť undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Slovak ľúbiť [ˈʎuːbic]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: stick § Noun
 
 *stick* **§** Noun
 
+**IPA**: /ˈnu.jɑ/
+
 **Verb**: to be a stick/staff/pole
 
 **Noun**: stick/staff/pole
 
 **Modifier**: stick/staff/pole-related
 
-Romanian nuia undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Romanian nuia [nuˈja]<br/>
+    <em>Romance Language Family</em>
+</details>

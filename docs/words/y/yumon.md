@@ -10,12 +10,16 @@ hoverText: brutal § Adjective
 
 *brutal* **§** Adjective
 
+**IPA**: /ˈjʌ.mɑn/
+
 **Verb**: to be brutal/vicious
 
 **Noun**: brutality/viciousness
 
 **Modifier**: brutal/vicious
 
-Mandarin 野蠻 yěmán undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 野蠻 yěmán [jɤ˨˩˦.man˧˥]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

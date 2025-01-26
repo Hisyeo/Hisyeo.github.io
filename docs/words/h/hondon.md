@@ -10,12 +10,16 @@ hoverText: family § Noun
 
 *family* **§** Noun
 
+**IPA**: /ˈhɑn.dɑn/
+
 **Verb**: to be a family
 
 **Noun**: family
 
 **Modifier**: family-related
 
-Urdu خانْدان⁩ xāndān undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Urdu خانْدان⁩ xāndān /xɑːn.d̪ɑːn/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

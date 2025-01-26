@@ -10,12 +10,16 @@ hoverText: you § Pronoun
 
 *you* **§** Pronoun
 
+**IPA**: /ˈni.mu/
+
 **Verb**: to be you
 
 **Noun**: you
 
 **Modifier**: your
 
-Dungan ниму nimu undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Dungan ниму nimu [nimʊ]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

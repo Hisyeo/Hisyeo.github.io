@@ -10,12 +10,16 @@ hoverText: 13 thirteen § Numeral
 
 *13 thirteen* **§** Numeral
 
+**IPA**: /ˈtɛ.lo/
+
 **Verb**: to be thirteen
 
 **Noun**: thirteen
 
 **Modifier**: thirteenth
 
-Hajong তেৰ terô undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hajong তেৰ terô /'tɛ.ɹɔ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

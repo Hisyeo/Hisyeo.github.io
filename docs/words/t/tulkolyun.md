@@ -10,12 +10,16 @@ hoverText: rolling/tumbling § Adjective
 
 *rolling/tumbling* **§** Adjective
 
+**IPA**: /tʌl.ˈkɑl.jʌn/
+
 **Verb**: to be rolling/tumbling
 
 **Noun**: rollingness/tumblingness
 
 **Modifier**: rolling/tumbling
 
-Bulgarian търка́лям tǎrkáljam undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Bulgarian търка́лям tǎrkáljam [tɐrˈkalʲɐm]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

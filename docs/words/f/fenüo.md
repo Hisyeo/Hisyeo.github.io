@@ -10,12 +10,16 @@ hoverText: country/region § Noun
 
 *country/region* **§** Noun
 
+**IPA**: /fɛ.ˈnu.ɑ/
+
 **Verb**: to be a country/region/territory
 
 **Noun**: a country/region/territory
 
 **Modifier**: country-like/region-like/territory-like
 
-Maori whenua undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Maori whenua [fɛ.nʉ.ɐ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

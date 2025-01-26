@@ -10,12 +10,16 @@ hoverText: communication § Noun
 
 *communication* **§** Noun
 
+**IPA**: /ˈku.nɑn.ti/
+
 **Verb**: to be a communication
 
 **Noun**: communication
 
 **Modifier**: communication-related
 
-Oromo quunnamtii undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Oromo quunnamtii <br/>
+    <em>Afroasiatic Language Family</em>
+</details>

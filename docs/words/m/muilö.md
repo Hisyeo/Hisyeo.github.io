@@ -10,12 +10,16 @@ hoverText: dirty § Adjective
 
 *dirty* **§** Adjective
 
+**IPA**: /ˈmʌ.i.lo/
+
 **Verb**: to be dirty/polluted/soiled
 
 **Noun**: dirtiness/pollution/soiledness
 
 **Modifier**: dirty/polluted/soiled
 
-Nepali मैलो mailo undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Nepali मैलो mailo [mʌi̯lo]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

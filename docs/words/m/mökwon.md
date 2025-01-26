@@ -10,12 +10,16 @@ hoverText: unrelated § Adjective
 
 *unrelated* **§** Adjective
 
+**IPA**: /ˈmok.wɑn/
+
 **Verb**: to be unrelated
 
 **Noun**: unrelatedness
 
 **Modifier**: unrelated
 
-Hakka 無關 mò-kôan undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Hakka 無關 mò-kôan /mou̯²¹ kʷaːn⁵⁵/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

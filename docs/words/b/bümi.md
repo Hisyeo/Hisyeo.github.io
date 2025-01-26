@@ -10,12 +10,16 @@ hoverText: ground/terrain/earth § Noun
 
 *ground/terrain/earth* **§** Noun
 
+**IPA**: /ˈbu.mi/
+
 **Verb**: to be ground/terrain/earth
 
 **Noun**: ground/terrain/earth
 
 **Modifier**: ground/terrain/earth-related
 
-Sanskrit भूमि bhū́mi undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit भूमि bhū́mi /ˈbʱuː.mi/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

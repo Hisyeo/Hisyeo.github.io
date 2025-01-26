@@ -10,12 +10,16 @@ hoverText: oscillating § Adjective
 
 *oscillating* **§** Adjective
 
+**IPA**: /ˈhit.no.det/
+
 **Verb**: to be oscillating/swaying
 
 **Noun**: oscillating-ness/swaying-ness
 
 **Modifier**: oscillating/swaying
 
-Hebrew הִתְנוֹדֵד⁩ hitnodéd undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew הִתְנוֹדֵד⁩ hitnodéd /hit.no'ded/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

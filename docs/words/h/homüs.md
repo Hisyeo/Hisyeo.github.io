@@ -10,12 +10,16 @@ hoverText: quiet § Adjective
 
 *quiet* **§** Adjective
 
+**IPA**: /ˈhɑ.mus/
+
 **Verb**: to be quiet
 
 **Noun**: quietness
 
 **Modifier**: quiet
 
-Persian خَاموش xâmuš undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian خَاموش xâmuš [xɒː.múːʃ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

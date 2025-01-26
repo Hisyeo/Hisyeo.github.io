@@ -10,12 +10,16 @@ hoverText: up § Noun
 
 *up* **§** Noun
 
+**IPA**: /ˈt͡ɕen/
+
 **Verb**: to be the upper/above region
 
 **Noun**: upper/above region
 
 **Modifier**: over/upper/above
 
-Vietnamese trên undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese trên [t͡ɕen˧˧]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

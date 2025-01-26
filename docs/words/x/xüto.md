@@ -10,12 +10,16 @@ hoverText: river § Noun
 
 *river* **§** Noun
 
+**IPA**: /ˈʃu.tɑ/
+
 **Verb**: to be a river
 
 **Noun**: river
 
 **Modifier**: river-related
 
-Mixtec yuta undefined
-
-*Oto-Manguean Language Family*
+<details>
+    <summary>Origin</summary>
+    Mixtec yuta [ʒuta]<br/>
+    <em>Oto-Manguean Language Family</em>
+</details>

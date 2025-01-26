@@ -10,12 +10,16 @@ hoverText: value/cost § Noun
 
 *value/cost* **§** Noun
 
+**IPA**: /ˈwi.lu.wɑ/
+
 **Verb**: to be a value/cost
 
 **Noun**: value/cost
 
 **Modifier**: value/cost-related
 
-Telugu విలువ viluva undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu విలువ viluva /ʋiluʋa/<br/>
+    <em>Dravidian Language Family</em>
+</details>

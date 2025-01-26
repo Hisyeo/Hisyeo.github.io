@@ -10,12 +10,16 @@ hoverText: to launch (a projectile) § Verb
 
 *to launch (a projectile)* **§** Verb
 
+**IPA**: /ˈlʌn.sɑl/
+
 **Verb**: to launch/throw/shoot
 
 **Noun**: a projectile
 
 **Modifier**: projectable/throwable/shootable
 
-Portuguese lançar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese lançar /lɐ̃ˈsaɾ/<br/>
+    <em>Romance Language Family</em>
+</details>

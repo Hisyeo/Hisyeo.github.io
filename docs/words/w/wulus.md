@@ -10,12 +10,16 @@ hoverText: oil § Noun
 
 *oil* **§** Noun
 
+**IPA**: /ˈwʌ.lʌs/
+
 **Verb**: to be oil
 
 **Noun**: oil
 
 **Modifier**: oil-related
 
-Luxembourgish Ueleg undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Luxembourgish Ueleg [ˈuə̯.ləɕ]<br/>
+    <em>Germanic Language Family</em>
+</details>

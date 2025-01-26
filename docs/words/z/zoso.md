@@ -10,12 +10,16 @@ hoverText: shelf § Noun
 
 *shelf* **§** Noun
 
+**IPA**: /ˈd͡ʒɑ.sɑ/
+
 **Verb**: to be a shelf
 
 **Noun**: shelf
 
 **Modifier**: shelf-related
 
-Uyghur جازا jaza undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Uyghur جازا jaza /d͡ʒɑzɑ/<br/>
+    <em>Turkic Language Family</em>
+</details>

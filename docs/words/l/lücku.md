@@ -10,12 +10,16 @@ hoverText: lever/knob/handle § Noun
 
 *lever/knob/handle* **§** Noun
 
+**IPA**: /ˈlut͡ɕ.kʌ/
+
 **Verb**: to be a lever/knob/handle
 
 **Noun**: lever/knob/handle
 
 **Modifier**: lever/knob/handle-related
 
-Russian ру́чка rúčka undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Russian ру́чка rúčka [ˈrut͡ɕkə]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

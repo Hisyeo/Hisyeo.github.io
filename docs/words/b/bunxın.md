@@ -10,12 +10,16 @@ hoverText: innate/native § Adjective
 
 *innate/native* **§** Adjective
 
+**IPA**: /ˈbʌn.ʃɪn/
+
 **Verb**: to be innate/native
 
 **Noun**: innateness/nativeness
 
 **Modifier**: innate/native
 
-Vietnamese bẩm sinh undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese bẩm sinh [ʔɓəm˨˩˦ ʂɨn˧˧]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

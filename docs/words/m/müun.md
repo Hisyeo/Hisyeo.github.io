@@ -10,12 +10,16 @@ hoverText: late § Adjective
 
 *late* **§** Adjective
 
+**IPA**: /ˈmu.ʌn/
+
 **Verb**: to be late/tardy
 
 **Noun**: lateness/tardiness
 
 **Modifier**: late/tardy
 
-Vietnamese muộn undefined
-
-*Austro-asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese muộn [muəŋ˨˩˨]<br/>
+    <em>Austro-asiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: grey § Adjective
 
 *grey* **§** Adjective
 
+**IPA**: /ˈdu.sʌl/
+
 **Verb**: to be grey
 
 **Noun**: greyness
 
 **Modifier**: grey
 
-Hindi धूसर dhūsar undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi धूसर dhūsar [d̪ʱuː.s̪əɾ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

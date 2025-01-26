@@ -10,12 +10,16 @@ hoverText: night § Noun
 
 *night* **§** Noun
 
+**IPA**: /ˈbɪ.tun/
+
 **Verb**: to be a night
 
 **Noun**: a night
 
 **Modifier**: night-related
 
-Guaraní, Mbyá pytũ undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Guaraní, Mbyá pytũ /pɨtũ/<br/>
+    <em>Tupian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: black § Adjective
 
 *black* **§** Adjective
 
+**IPA**: /ˈne.lo/
+
 **Verb**: to be black/dark
 
 **Noun**: blackness/darkness
 
 **Modifier**: black/dark
 
-Italian nero undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian nero /ˈne.ro/<br/>
+    <em>Romance Language Family</em>
+</details>

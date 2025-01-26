@@ -10,12 +10,16 @@ hoverText: jump § Noun
 
 *jump* **§** Noun
 
+**IPA**: /ˈd͡ʒɑs.tɑn/
+
 **Verb**: to be a jump/ascent/leap
 
 **Noun**: jump/ascent/leap
 
 **Modifier**: jump-like
 
-Persian جستن jastan undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian جستن jastan [d͡ʒas.ˈtan]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

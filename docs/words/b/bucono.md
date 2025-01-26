@@ -10,12 +10,16 @@ hoverText: to save/rescue (the saved/rescued) § Verb
 
 *to save/rescue (the saved/rescued)* **§** Verb
 
+**IPA**: /bʌ.ˈt͡ɕɑ.nɑ/
+
 **Verb**: to save/rescue
 
 **Noun**: the saved/rescued
 
 **Modifier**: saveable/rescuable
 
-Hindi बचाना bacānā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi बचाना bacānā /bə.t͡ʃɑː.nɑː/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

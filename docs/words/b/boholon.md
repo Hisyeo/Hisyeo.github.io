@@ -10,12 +10,16 @@ hoverText: closet/cupboard/cabinet § Noun
 
 *closet/cupboard/cabinet* **§** Noun
 
+**IPA**: /ˈbɑ.hɑ.lɑn/
+
 **Verb**: to be a closet/cupboard/cabinet
 
 **Noun**: closet/cupboard/cabinet
 
 **Modifier**: closet/cupboard/cabinet-related
 
-Armenian պահարան paharan undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian պահարան paharan [pɑhɑˈɾɑn]<br/>
+    <em>Armenian Language Family</em>
+</details>

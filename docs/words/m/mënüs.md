@@ -10,12 +10,16 @@ hoverText: fewer/less § Determiner
 
 *fewer/less* **§** Determiner
 
+**IPA**: /ˈme.nus/
+
 **Verb**: to be less
 
 **Noun**: lessness/decrease
 
 **Modifier**: less
 
-Portuguese menos undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese menos /ˈme.nuʃ/<br/>
+    <em>Romance Language Family</em>
+</details>

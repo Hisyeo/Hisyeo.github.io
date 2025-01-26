@@ -10,12 +10,16 @@ hoverText: electricity § Noun
 
 *electricity* **§** Noun
 
+**IPA**: /ˈt͡ɕɪn.gi/
+
 **Verb**: to be electricity
 
 **Noun**: electricity
 
 **Modifier**: electric
 
-Korean 전기 jeon'gi undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 전기 jeon'gi [ˈt͡ɕɘ(ː)nɡi]<br/>
+    <em>Koreic Language Family</em>
+</details>

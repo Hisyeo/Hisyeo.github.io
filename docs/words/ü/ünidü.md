@@ -10,12 +10,16 @@ hoverText: joined § Adjective
 
 *joined* **§** Adjective
 
+**IPA**: /ˈu.ni.du/
+
 **Verb**: to be joined/linked/united
 
 **Noun**: linkedness/unity
 
 **Modifier**: joined/linked/united
 
-Portuguese, Brazilian unido undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese, Brazilian unido /uˈni.du/<br/>
+    <em>Romance Language Family</em>
+</details>

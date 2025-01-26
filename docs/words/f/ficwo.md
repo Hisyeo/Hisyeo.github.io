@@ -10,12 +10,16 @@ hoverText: hidden/secret § Adjective
 
 *hidden/secret* **§** Adjective
 
+**IPA**: /ˈfit͡ɕ.wɑ/
+
 **Verb**: to be hidden/secret
 
 **Noun**: hiddenness/secretness
 
 **Modifier**: hidden/secret
 
-Swahili -ficha undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -ficha <br/>
+    <em>Niger-Congo Language Family</em>
+</details>

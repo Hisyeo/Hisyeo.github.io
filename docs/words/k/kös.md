@@ -10,12 +10,16 @@ hoverText: to cause (an effect) § Verb
 
 *to cause (an effect)* **§** Verb
 
+**IPA**: /ˈkos/
+
 **Verb**: to cause/produce
 
 **Noun**: an effect/result
 
 **Modifier**: casuable/producable
 
-French cause undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French cause /koz/<br/>
+    <em>Romance Language Family</em>
+</details>

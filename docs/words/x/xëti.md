@@ -10,12 +10,16 @@ hoverText: 07 seven § Numeral
 
 *07 seven* **§** Numeral
 
+**IPA**: /ˈʃe.ti/
+
 **Verb**: to be seven
 
 **Noun**: seven
 
 **Modifier**: seventh
 
-Kazakh жеті jetı undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Kazakh жеті jetı [ʒeˈti]<br/>
+    <em>Turkic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to prepare (a preparation) § Verb
 
 *to prepare (a preparation)* **§** Verb
 
+**IPA**: /ˈɑn.dɑ/
+
 **Verb**: to prepare/ready
 
 **Noun**: a preparation
 
 **Modifier**: preparable/readyable
 
-Swahili -andaa undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -andaa <br/>
+    <em>Niger-Congo Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: thankful/grateful § Adjective
 
 *thankful/grateful* **§** Adjective
 
+**IPA**: /ˈkɑn.ʃɑ/
+
 **Verb**: to be thankful/grateful
 
 **Noun**: thankfulness/gratitude
 
 **Modifier**: thankful/grateful
 
-Japanese か​んしゃ kansha undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese か​んしゃ kansha [kã̠ɰ̃ɕa̠]<br/>
+    <em>Japonic Language Family</em>
+</details>

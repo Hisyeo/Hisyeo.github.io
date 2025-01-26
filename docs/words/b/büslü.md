@@ -10,12 +10,16 @@ hoverText: translucent § Adjective
 
 *translucent* **§** Adjective
 
+**IPA**: /ˈbus.lu/
+
 **Verb**: to be translucent
 
 **Noun**: translucency
 
 **Modifier**: translucent
 
-Turkish buzlu undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish buzlu [buz̪ˈl̠ʊ]<br/>
+    <em>Turkic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: heaven § Noun
 
 *heaven* **§** Noun
 
+**IPA**: /ˈse.mɑ.ɪ/
+
 **Verb**: to be heaven/paradise
 
 **Noun**: heaven/paradise
 
 **Modifier**: heavenly/paradise-like
 
-Tigrinya ሰማይ sämay undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Tigrinya ሰማይ sämay /semaɪ̯/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

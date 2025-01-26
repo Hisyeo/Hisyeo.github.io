@@ -10,12 +10,16 @@ hoverText: purple § Adjective
 
 *purple* **§** Adjective
 
+**IPA**: /ˈd͡ʒɑ.mu.ni/
+
 **Verb**: to be purple
 
 **Noun**: purpleness
 
 **Modifier**: purple
 
-Hindi जामुनी jāmunī undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi जामुनी jāmunī [d͡ʒäː.mʊ.n̪iː]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

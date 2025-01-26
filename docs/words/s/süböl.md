@@ -10,12 +10,16 @@ hoverText: fertile/productive § Adjective
 
 *fertile/productive* **§** Adjective
 
+**IPA**: /ˈsu.bol/
+
 **Verb**: to be fertile/productive
 
 **Noun**: fertility/productivity
 
 **Modifier**: fertile/productive
 
-Malay, Northern subur undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay, Northern subur /subor/<br/>
+    <em>Austronesian Language Family</em>
+</details>

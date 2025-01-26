@@ -10,12 +10,16 @@ hoverText: returning § Adjective
 
 *returning* **§** Adjective
 
+**IPA**: /dʌk.ˈwe.lɪt/
+
 **Verb**: to be returning/reverting/back
 
 **Noun**: returningness/revertingness
 
 **Modifier**: returning/reverting/back
 
-Welsh dychwelyd undefined
-
-*Celtic Language Family*
+<details>
+    <summary>Origin</summary>
+    Welsh dychwelyd /dəχˈweːlɪd/<br/>
+    <em>Celtic Language Family</em>
+</details>

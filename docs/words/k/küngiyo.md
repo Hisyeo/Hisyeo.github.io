@@ -10,12 +10,16 @@ hoverText: organization/enterprise § Noun
 
 *organization/enterprise* **§** Noun
 
+**IPA**: /ˈkun.gi.jɑ/
+
 **Verb**: to be an organization/enterprise
 
 **Noun**: organization/enterprise
 
 **Modifier**: organization/enterprise-related
 
-Hausa ƙungiya undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa ƙungiya /kʼungija/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

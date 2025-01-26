@@ -10,12 +10,16 @@ hoverText: lack § Determiner
 
 *lack* **§** Determiner
 
+**IPA**: /ˈbu.d͡ʒok/
+
 **Verb**: to be lacking/short/deficient
 
 **Noun**: lack/shortage/deficiency
 
 **Modifier**: insufficient/deficient
 
-Korean 부족 undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 부족 [pud͡ʑo̞k̚]<br/>
+    <em>Koreic Language Family</em>
+</details>

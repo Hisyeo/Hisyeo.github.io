@@ -10,12 +10,16 @@ hoverText: facing/pointing § Adjective
 
 *facing/pointing* **§** Adjective
 
+**IPA**: /ˈbɑ.nɑ/
+
 **Verb**: to be facing/pointing
 
 **Noun**: pointedness/directionality
 
 **Modifier**: facing/pointing
 
-Hebrew פָּנָה paná undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew פָּנָה paná /pa'na/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

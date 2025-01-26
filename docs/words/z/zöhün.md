@@ -10,12 +10,16 @@ hoverText: nutrient § Noun
 
 *nutrient* **§** Noun
 
+**IPA**: /ˈd͡ʒo.hun/
+
 **Verb**: to be a nutrient
 
 **Noun**: nutrient
 
 **Modifier**: nutrient-related
 
-Khazak жұғым jūğym undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khazak жұғым jūğym [ʑo̙ʁʊwm]<br/>
+    <em>Turkic Language Family</em>
+</details>

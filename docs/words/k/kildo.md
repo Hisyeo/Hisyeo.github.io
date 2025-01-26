@@ -10,12 +10,16 @@ hoverText: long § Adjective
 
 *long* **§** Adjective
 
+**IPA**: /ˈkil.dɑ/
+
 **Verb**: to be long
 
 **Noun**: longness/length
 
 **Modifier**: long
 
-Korean 길다 gilda undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 길다 gilda [ˈki(ː)ɭda̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: falling § Adjective
 
 *falling* **§** Adjective
 
+**IPA**: /ˈd͡ʒi.gil/
+
 **Verb**: to be falling/sinking
 
 **Noun**: fall/sink
 
 **Modifier**: falling/sinking
 
-Kyrgy жыгыл- jıgıl- undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Kyrgy жыгыл- jıgıl- <br/>
+    <em>Turkic Language Family</em>
+</details>

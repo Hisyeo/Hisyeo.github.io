@@ -10,12 +10,16 @@ hoverText: sharks/rays § Noun
 
 *sharks/rays* **§** Noun
 
+**IPA**: /ˈmɑn.go/
+
 **Verb**: to be a shark/ray
 
 **Noun**: shark/ray
 
 **Modifier**: shark/ray-related
 
-Maori mangō undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Maori mangō <br/>
+    <em>Austronesian Language Family</em>
+</details>

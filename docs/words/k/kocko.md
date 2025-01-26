@@ -10,12 +10,16 @@ hoverText: rough § Adjective
 
 *rough* **§** Adjective
 
+**IPA**: /ˈkɑt͡ɕ.kɑ/
+
 **Verb**: to be rough
 
 **Noun**: roughness
 
 **Modifier**: rough
 
-Quechua qhachqa undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Quechua qhachqa <br/>
+    <em>Quechumaran Language Family</em>
+</details>

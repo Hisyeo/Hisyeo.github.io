@@ -10,12 +10,16 @@ hoverText: bouncing § Adjective
 
 *bouncing* **§** Adjective
 
+**IPA**: /ˈle.fo.tɑl/
+
 **Verb**: to be bouncing
 
 **Noun**: bouncingness
 
 **Modifier**: bouncing
 
-Spanish rebotar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish rebotar [re.β̞oˈt̪aɾ]<br/>
+    <em>Romance Language Family</em>
+</details>

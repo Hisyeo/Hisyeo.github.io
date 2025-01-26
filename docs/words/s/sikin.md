@@ -10,12 +10,16 @@ hoverText: event § Noun
 
 *event* **§** Noun
 
+**IPA**: /ˈsi.kin/
+
 **Verb**: to be an event
 
 **Noun**: event
 
 **Modifier**: event-related
 
-Cantonese 事件 si gin undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 事件 si gin /siːkiːn/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

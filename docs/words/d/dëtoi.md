@@ -10,12 +10,16 @@ hoverText: detail § Noun
 
 *detail* **§** Noun
 
+**IPA**: /ˈde.tɑ.i/
+
 **Verb**: to be a detail
 
 **Noun**: detail
 
 **Modifier**: detail-related
 
-French détail undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French détail /de.taj/<br/>
+    <em>Romance Language Family</em>
+</details>

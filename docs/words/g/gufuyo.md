@@ -10,12 +10,16 @@ hoverText: shop/market § Noun
 
 *shop/market* **§** Noun
 
+**IPA**: /ˈgʌ.fʌ.jɑ/
+
 **Verb**: to be a shop/market
 
 **Noun**: shop/market
 
 **Modifier**: shop/market-related
 
-Amharic ገበያ gäbäya undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Amharic ገበያ gäbäya [gəβ̞əja]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

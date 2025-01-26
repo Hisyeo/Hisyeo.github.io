@@ -10,12 +10,16 @@ hoverText: to sew (the sewn) § Verb
 
 *to sew (the sewn)* **§** Verb
 
+**IPA**: /ˈd͡ʒɑ.hit/
+
 **Verb**: to sew/stitch
 
 **Noun**: the sewn/stitched
 
 **Modifier**: sewable/stichable
 
-Indonesian jahit undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Indonesian jahit /ˈd͡ʒa.hit/<br/>
+    <em>Austronesian Language Family</em>
+</details>

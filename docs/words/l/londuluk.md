@@ -10,12 +10,16 @@ hoverText: rural § Adjective
 
 *rural* **§** Adjective
 
+**IPA**: /ˈlɑn.dʌ.lʌk/
+
 **Verb**: to be rural
 
 **Noun**: ruralness
 
 **Modifier**: rural
 
-Dutch landelijk undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch landelijk /ˈlɑndələk/<br/>
+    <em>Germanic Language Family</em>
+</details>

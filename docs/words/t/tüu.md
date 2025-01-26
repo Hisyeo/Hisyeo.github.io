@@ -10,12 +10,16 @@ hoverText: to do (an action) § Verb
 
 *to do (an action)* **§** Verb
 
+**IPA**: /ˈtu.ʌ/
+
 **Verb**: to do/perform/execute
 
 **Noun**: an action/task
 
 **Modifier**: doable/performable/executable
 
-Khmer ធ្វើ thvəə undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer ធ្វើ thvəə /tʰʋəː/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

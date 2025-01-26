@@ -10,12 +10,16 @@ hoverText: soap § Noun
 
 *soap* **§** Noun
 
+**IPA**: /sʌ.ˈfɑ.un/
+
 **Verb**: to be soap
 
 **Noun**: soap
 
 **Modifier**: soap-related
 
-Portuguese sabão undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese sabão [sɐˈβɐ̃w̃]<br/>
+    <em>Romance Language Family</em>
+</details>

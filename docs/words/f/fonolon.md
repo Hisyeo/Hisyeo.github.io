@@ -10,12 +10,16 @@ hoverText: monkey/ape § Noun
 
 *monkey/ape* **§** Noun
 
+**IPA**: /ˈfɑ.nɑ.lɑn/
+
 **Verb**: to be a monkey/ape
 
 **Noun**: monkey/ape
 
 **Modifier**: monkey/ape-related
 
-Telugu వానరం vānaraṁ undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu వానరం vānaraṁ /β̞ʷäːna.ram/<br/>
+    <em>Dravidian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to receive (the received) § Verb
 
 *to receive (the received)* **§** Verb
 
+**IPA**: /ˈdos.tɑt͡ɕ/
+
 **Verb**: to receive/obtain
 
 **Noun**: the received/obtained
 
 **Modifier**: receivable/obtainable
 
-Polish dostać undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish dostać /ˈdɔ.stat͡ɕ/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

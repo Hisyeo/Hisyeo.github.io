@@ -10,12 +10,16 @@ hoverText: recent § Adjective
 
 *recent* **§** Adjective
 
+**IPA**: /ˈbɑ.jɑk/
+
 **Verb**: to be recent
 
 **Noun**: recentness
 
 **Modifier**: recent/just
 
-Azerbaijani bayaq undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Azerbaijani bayaq [bɑˈjɑχ]<br/>
+    <em>Turkic Language Family</em>
+</details>

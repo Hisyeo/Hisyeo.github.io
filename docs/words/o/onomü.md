@@ -10,12 +10,16 @@ hoverText: rice § Noun
 
 *rice* **§** Noun
 
+**IPA**: /ˈɑ.nɑ.mu/
+
 **Verb**: to be rice
 
 **Noun**: rice
 
 **Modifier**: rice-related
 
-Telugu అన్నము annamu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu అన్నము annamu /an̪n̪amu/<br/>
+    <em>Dravidian Language Family</em>
+</details>

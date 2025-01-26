@@ -10,12 +10,16 @@ hoverText: to forgive (the forgiven) § Verb
 
 *to forgive (the forgiven)* **§** Verb
 
+**IPA**: /ˈjun.lon/
+
 **Verb**: to forgive/excuse/pardon
 
 **Noun**: the forgiven
 
 **Modifier**: forgiveable/excuseable/pardonable
 
-Cantonese 原諒 jyun4 loeng6 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 原諒 jyun4 loeng6 /ȷyːn.lœːŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

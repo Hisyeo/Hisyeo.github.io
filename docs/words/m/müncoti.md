@@ -10,12 +10,16 @@ hoverText: to release/drop (the released/dropped) § Verb
 
 *to release/drop (the released/dropped)* **§** Verb
 
+**IPA**: /ˈmun.t͡ɕɑ.ti/
+
 **Verb**: to release/free/drop/let go
 
 **Noun**: the released/freed/dropped
 
 **Modifier**: releasble/freeable/droppable
 
-Sanskrit मुञ्चति muñcáti  undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit मुञ्चति muñcáti  /muɲ.t͡ɕɐ́.ti/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: predecessive marker (before) § Preposition
 
 *predecessive marker (before)* **§** Preposition
 
+**IPA**: /ˈɪ.lɪk/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Bashkir элек elek undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Bashkir элек elek [ɪ̞ˈlɪ̞k]<br/>
+    <em>Turkic Language Family</em>
+</details>

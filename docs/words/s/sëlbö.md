@@ -10,12 +10,16 @@ hoverText: yellow § Adjective
 
 *yellow* **§** Adjective
 
+**IPA**: /ˈsel.bo/
+
 **Verb**: to be yellow
 
 **Noun**: yellowness
 
 **Modifier**: yellow
 
-Tibetan སེར་པོ ser po undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Tibetan སེར་པོ ser po /ser.po/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

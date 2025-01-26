@@ -10,12 +10,16 @@ hoverText: endangered § Adjective
 
 *endangered* **§** Adjective
 
+**IPA**: /ˈbɑn.go.si/
+
 **Verb**: to be endangered/in danger
 
 **Noun**: endangerment
 
 **Modifier**: endangered/in-danger
 
-Chichewa/Shona pangozi undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Chichewa/Shona pangozi /paᵑɡɔzi/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

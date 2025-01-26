@@ -10,12 +10,16 @@ hoverText: artificial § Adjective
 
 *artificial* **§** Adjective
 
+**IPA**: /ˈjɑ.be/
+
 **Verb**: to be artificial/man-made/synthetic
 
 **Noun**: artificiality/man-madeness/syntheticness
 
 **Modifier**: artificial/man-made/synthetic
 
-Turkish yapay undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish yapay [jɑpɑj]<br/>
+    <em>Turkic Language Family</em>
+</details>

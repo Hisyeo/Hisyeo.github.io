@@ -10,12 +10,16 @@ hoverText: to block (the blocked) § Verb
 
 *to block (the blocked)* **§** Verb
 
+**IPA**: /ˈbo.ko.fɑt͡ɕ/
+
 **Verb**: to block/obstruct
 
 **Noun**: the blocked/obstructed
 
 **Modifier**: blockable/obstructable
 
-Polish blokować undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish blokować /blɔˈkɔ.vat͡ɕ/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

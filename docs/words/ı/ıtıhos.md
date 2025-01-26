@@ -10,12 +10,16 @@ hoverText: history § Noun
 
 *history* **§** Noun
 
+**IPA**: /ˈɪ.tɪ.hɑs/
+
 **Verb**: to be a history
 
 **Noun**: history
 
 **Modifier**: history-related
 
-Hindi इतिहास itihās undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi इतिहास itihās [ɪ.t̪ɪ.ɦäːs]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

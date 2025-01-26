@@ -10,12 +10,16 @@ hoverText: to answer [with] (a response) § Verb
 
 *to answer [with] (a response)* **§** Verb
 
+**IPA**: /d͡ʒʌ.ˈwɑ.bu/
+
 **Verb**: to answer/respond [with]
 
 **Noun**: an answer/response
 
 **Modifier**: answered/responded
 
-Swahili jawabu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili jawabu /d͡ʒa'wa.bu/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

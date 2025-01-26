@@ -10,12 +10,16 @@ hoverText: arm § Noun
 
 *arm* **§** Noun
 
+**IPA**: /ˈɑ.bo/
+
 **Verb**: to be an arm
 
 **Noun**: arm
 
 **Modifier**: arm-related
 
-Ewe abɔ undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Ewe abɔ [abɔ]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

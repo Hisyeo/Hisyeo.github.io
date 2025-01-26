@@ -10,12 +10,16 @@ hoverText: beak § Noun
 
 *beak* **§** Noun
 
+**IPA**: /ˈt͡ɕɑ.no.i/
+
 **Verb**: to be a beak/bill
 
 **Noun**: beak/bill
 
 **Modifier**: beak/bill-related
 
-Thai จะงอย jà-ngɔɔi undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai จะงอย jà-ngɔɔi /t͡ɕa˨˩.ŋɔːj˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

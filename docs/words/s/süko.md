@@ -10,12 +10,16 @@ hoverText: to like (a preference) § Verb
 
 *to like (a preference)* **§** Verb
 
+**IPA**: /ˈsu.kɑ/
+
 **Verb**: to like/enjoy
 
 **Noun**: a preference/liked thing
 
 **Modifier**: likable/enjoyable
 
-Malay ⁧ suka سوک  undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay ⁧ suka سوک  [suka]<br/>
+    <em>Austronesian Language Family</em>
+</details>

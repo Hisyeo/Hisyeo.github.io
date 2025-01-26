@@ -10,12 +10,16 @@ hoverText: to bear (a burden) § Verb
 
 *to bear (a burden)* **§** Verb
 
+**IPA**: /ˈɑ.kot/
+
 **Verb**: to bear/carry/transport
 
 **Noun**: burden/cargo
 
 **Modifier**: bearable/carryable/transportable
 
-Mansaka akot undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Mansaka akot /a.kot/<br/>
+    <em>Austronesian Language Family</em>
+</details>

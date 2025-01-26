@@ -10,12 +10,16 @@ hoverText: laborious § Adjective
 
 *laborious* **§** Adjective
 
+**IPA**: /ˈme.du.sɑn/
+
 **Verb**: to be laborious
 
 **Noun**: laboriousnes/effort
 
 **Modifier**: laborious
 
-Swedish mödosam undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish mödosam [møːduːsɑːm]<br/>
+    <em>Germanic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: nut § Noun
 
 *nut* **§** Noun
 
+**IPA**: /ˈo.d͡ʒil/
+
 **Verb**: to be a nut
 
 **Noun**: nut
 
 **Modifier**: nut-related
 
-Persian آجیل âjil undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian آجیل âjil [ʔɔ.d͡ʒíl]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

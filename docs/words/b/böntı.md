@@ -10,12 +10,16 @@ hoverText: bridge § Noun
 
 *bridge* **§** Noun
 
+**IPA**: /ˈbon.tɪ/
+
 **Verb**: to be a bridge
 
 **Noun**: bridge
 
 **Modifier**: bridge-related
 
-Galician ponte undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Galician ponte [ˈpɔntɪ]<br/>
+    <em>Romance Language Family</em>
+</details>

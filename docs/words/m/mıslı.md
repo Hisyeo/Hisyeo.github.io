@@ -10,12 +10,16 @@ hoverText: similative marker (like) § Preposition
 
 *similative marker (like)* **§** Preposition
 
+**IPA**: /ˈmɪs.lɪ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Persian, Dari مثل mesl-e undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian, Dari مثل mesl-e [mɪs.lɪ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

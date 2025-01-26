@@ -10,12 +10,16 @@ hoverText: to stop (the stopped) § Verb
 
 *to stop (the stopped)* **§** Verb
 
+**IPA**: /ˈnil.tu.gʌ/
+
 **Verb**: to stop
 
 **Noun**: the stopped
 
 **Modifier**: stoppable
 
-Malayalam നിർത്തുക niṟttuka undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malayalam നിർത്തുക niṟttuka /n̪irt̪t̪uɡɐ/<br/>
+    <em>Dravidian Language Family</em>
+</details>

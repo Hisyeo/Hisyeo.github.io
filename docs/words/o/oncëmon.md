@@ -10,12 +10,16 @@ hoverText: to feel/sense (a phenomenon) § Verb
 
 *to feel/sense (a phenomenon)* **§** Verb
 
+**IPA**: /ˈɑn.t͡ɕe.mɑn/
+
 **Verb**: to feel/sense
 
 **Noun**: phenomenon
 
 **Modifier**: feelable/sensible
 
-Basque antzeman undefined
-
-*Basque Language Family*
+<details>
+    <summary>Origin</summary>
+    Basque antzeman /ant̻s̻eman/<br/>
+    <em>Basque Language Family</em>
+</details>

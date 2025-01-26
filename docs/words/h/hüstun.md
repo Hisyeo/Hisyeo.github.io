@@ -10,12 +10,16 @@ hoverText: cough § Noun
 
 *cough* **§** Noun
 
+**IPA**: /ˈhus.tʌn/
+
 **Verb**: to be a cough
 
 **Noun**: cough
 
 **Modifier**: cough-related
 
-German Husten undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Husten /ˈhuːstən/<br/>
+    <em>Germanic Language Family</em>
+</details>

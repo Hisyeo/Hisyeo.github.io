@@ -10,12 +10,16 @@ hoverText: magenta § Adjective
 
 *magenta* **§** Adjective
 
+**IPA**: /ˈbin.hun/
+
 **Verb**: to be magenta
 
 **Noun**: magenta-ness
 
 **Modifier**: magenta
 
-Mandarin 品紅 pǐnhóng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 品紅 pǐnhóng [pʰinhʊŋ]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

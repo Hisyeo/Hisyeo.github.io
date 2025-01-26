@@ -10,12 +10,16 @@ hoverText: scene/stage § Noun
 
 *scene/stage* **§** Noun
 
+**IPA**: /ˈkun.bi/
+
 **Verb**: to be a scene/stage
 
 **Noun**: scene/stage
 
 **Modifier**: scene/stage-related
 
-Swahili kumbi undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili kumbi /kum.bi/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to drive (a vehicle) § Verb
 
 *to drive (a vehicle)* **§** Verb
 
+**IPA**: /ˈɑ.u.to/
+
 **Verb**: to drive
 
 **Noun**: a vehicle
 
 **Modifier**: driveable
 
-German Auto undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Auto [ˈʔaʊ̯tʰoː]<br/>
+    <em>Germanic Language Family</em>
+</details>

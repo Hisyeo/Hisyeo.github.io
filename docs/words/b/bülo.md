@@ -10,12 +10,16 @@ hoverText: brown § Adjective
 
 *brown* **§** Adjective
 
+**IPA**: /ˈbu.lɑ/
+
 **Verb**: to be brown
 
 **Noun**: brownness
 
 **Modifier**: brown
 
-Hindi भूरा bhūrā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi भूरा bhūrā [bʱuː.ɾäː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

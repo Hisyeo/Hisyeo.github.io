@@ -10,12 +10,16 @@ hoverText: pure § Adjective
 
 *pure* **§** Adjective
 
+**IPA**: /ˈsɑ.fin/
+
 **Verb**: to be pure/homogeneous/sorted
 
 **Noun**: purity/homogeneity/sortedness
 
 **Modifier**: pure/homogenous/sorted
 
-Arabic صَافٍ ṣāfin undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic صَافٍ ṣāfin [sˤɑ.fin]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: parade/procession § Noun
 
 *parade/procession* **§** Noun
 
+**IPA**: /ˈjo.u.ʃin/
+
 **Verb**: to be a parade/procession
 
 **Noun**: parade/procession
 
 **Modifier**: parade/procession-related
 
-Mandarin 遊行 yóuxíng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 遊行 yóuxíng [jou̯ɕiŋ]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

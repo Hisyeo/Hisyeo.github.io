@@ -10,12 +10,16 @@ hoverText: to talk (speech) § Verb
 
 *to talk (speech)* **§** Verb
 
+**IPA**: /ˈko.tɑ/
+
 **Verb**: to talk/say
 
 **Noun**: speech
 
 **Modifier**: sayable
 
-Bengali কথা kotha undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali কথা kotha /kɔ.tʰa/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

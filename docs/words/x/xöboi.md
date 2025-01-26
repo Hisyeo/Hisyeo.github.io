@@ -10,12 +10,16 @@ hoverText: salty § Adjective
 
 *salty* **§** Adjective
 
+**IPA**: /ˈʃo.bɑ.i/
+
 **Verb**: to be salty
 
 **Noun**: saltiness
 
 **Modifier**: salty
 
-Japanese 塩っぱい shoppai undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 塩っぱい shoppai [ɕo̞p̚pa̠i]<br/>
+    <em>Japonic Language Family</em>
+</details>

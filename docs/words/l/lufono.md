@@ -10,12 +10,16 @@ hoverText: to ship/send (a package) § Verb
 
 *to ship/send (a package)* **§** Verb
 
+**IPA**: /lʌ.ˈfɑ.nɑ/
+
 **Verb**: to ship/send
 
 **Noun**: a package
 
 **Modifier**: shippable/sendable
 
-Telugu రవాణా ravāṇā undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu రవాణా ravāṇā [rɐvaːnaː]<br/>
+    <em>Dravidian Language Family</em>
+</details>

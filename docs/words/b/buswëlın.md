@@ -10,12 +10,16 @@ hoverText: oath/incantation § Noun
 
 *oath/incantation* **§** Noun
 
+**IPA**: /bʌs.ˈwe.lɪn/
+
 **Verb**: to be an oath/incantation
 
 **Noun**: oath/incancation
 
 **Modifier**: oath/incantation-related
 
-Dutch bezwering undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch bezwering /bəˈzʋeː.rɪŋ/<br/>
+    <em>Germanic Language Family</em>
+</details>

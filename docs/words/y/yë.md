@@ -10,12 +10,16 @@ hoverText: genitive marker (of) § Preposition
 
 *genitive marker (of)* **§** Preposition
 
+**IPA**: /ˈje/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Persian ی -ye undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian ی -ye [je]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

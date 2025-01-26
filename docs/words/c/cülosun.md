@@ -10,12 +10,16 @@ hoverText: to allow (the allowed) § Verb
 
 *to allow (the allowed)* **§** Verb
 
+**IPA**: /ˈt͡ɕu.lɑ.sʌn/
+
 **Verb**: to allow/permit
 
 **Noun**: the allowed/permitted
 
 **Modifier**: allowable/permittable
 
-German zulassen undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German zulassen /ˈtsuːlasən/<br/>
+    <em>Germanic Language Family</em>
+</details>

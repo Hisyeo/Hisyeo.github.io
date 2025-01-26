@@ -10,12 +10,16 @@ hoverText: down § Noun
 
 *down* **§** Noun
 
+**IPA**: /ˈsel/
+
 **Verb**: to be the below region
 
 **Noun**: below region
 
 **Modifier**: below/down
 
-Persian زیر zir undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian زیر zir [zeːɾ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

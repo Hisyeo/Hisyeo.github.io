@@ -10,12 +10,16 @@ hoverText: to capture/intercept (the captured/intercepted) § Verb
 
 *to capture/intercept (the captured/intercepted)* **§** Verb
 
+**IPA**: /ˈdɑ.i.t͡ɕel/
+
 **Verb**: to capture/intercept/arrest
 
 **Noun**: captured/intercepted/arrested entity
 
 **Modifier**: capturable/interceptable/arrestable
 
-Georgian დაიჭერს daič̣ers undefined
-
-*Kartvelian Language Family*
+<details>
+    <summary>Origin</summary>
+    Georgian დაიჭერს daič̣ers [d̥ait͡ʃʼeɾs]<br/>
+    <em>Kartvelian Language Family</em>
+</details>

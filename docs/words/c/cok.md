@@ -10,12 +10,16 @@ hoverText: departing § Adjective
 
 *departing* **§** Adjective
 
+**IPA**: /ˈt͡ɕɑk/
+
 **Verb**: to be departing/leaving
 
 **Noun**: departing-ness/leaving-ness
 
 **Modifier**: departing/leaving
 
-Lao ຈາກ chāk undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Lao ຈາກ chāk [t͡ɕaːk̚˥˥˨]<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

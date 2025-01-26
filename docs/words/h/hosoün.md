@@ -10,12 +10,16 @@ hoverText: ratio/proportion § Noun
 
 *ratio/proportion* **§** Noun
 
+**IPA**: /ˈhɑ.sɑ.un/
+
 **Verb**: to be a ratio/proportion
 
 **Noun**: ratio/proportion
 
 **Modifier**: ratio/proportion-related
 
-Portuguese razão undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese razão [haˈzɐ̃ʊ̯̃]<br/>
+    <em>Romance Language Family</em>
+</details>

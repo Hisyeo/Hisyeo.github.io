@@ -10,12 +10,16 @@ hoverText: defeated § Adjective
 
 *defeated* **§** Adjective
 
+**IPA**: /ˈfʌn.sut/
+
 **Verb**: to be defeated
 
 **Noun**: defeatedness/vanquishment
 
 **Modifier**: defeated
 
-Catalan vençut undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan vençut /vənˈsut/<br/>
+    <em>Romance Language Family</em>
+</details>

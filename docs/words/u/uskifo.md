@@ -10,12 +10,16 @@ hoverText: to avoid/dodge (evasion/dodge) § Verb
 
 *to avoid/dodge (evasion/dodge)* **§** Verb
 
+**IPA**: /ʌs.ˈki.fɑ/
+
 **Verb**: to avoid/dodge/evade
 
 **Noun**: evasion/dodge/escape
 
 **Modifier**: avoidable/dodgable/evadable
 
-Catalan esquivar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan esquivar [əs.kiˈva]<br/>
+    <em>Romance Language Family</em>
+</details>

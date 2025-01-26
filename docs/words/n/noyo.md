@@ -10,12 +10,16 @@ hoverText: I/me § Pronoun
 
 *I/me* **§** Pronoun
 
+**IPA**: /ˈnɑ.jɑ/
+
 **Verb**: to be me
 
 **Noun**: I/me
 
 **Modifier**: my
 
-Aymara naya undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Aymara naya [na.ja]<br/>
+    <em>Quechumaran Language Family</em>
+</details>

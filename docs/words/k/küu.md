@@ -10,12 +10,16 @@ hoverText: deontic verb particle § Particle
 
 *deontic verb particle* **§** Particle
 
+**IPA**: /ˈku.ʌ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Khmer គួរ kuə undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer គួរ kuə /kuə/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

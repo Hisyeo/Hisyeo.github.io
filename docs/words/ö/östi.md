@@ -10,12 +10,16 @@ hoverText: bone § Noun
 
 *bone* **§** Noun
 
+**IPA**: /ˈos.ti/
+
 **Verb**: to be a bone
 
 **Noun**: bone
 
 **Modifier**: bone-related
 
-Bengali অস্থি osthi undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali অস্থি osthi [ˈos.t̪ʰi]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

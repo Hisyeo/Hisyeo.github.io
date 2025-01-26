@@ -10,12 +10,16 @@ hoverText: finger/toe § Noun
 
 *finger/toe* **§** Noun
 
+**IPA**: /ˈd͡ʒi.ʃi.tu/
+
 **Verb**: to be a finger/toe/digit
 
 **Noun**: finger/toe/digit
 
 **Modifier**: finger/toe/digit-related
 
-Portuguese dígito undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese dígito /ˈd͡ʒi.ʒi.tu/<br/>
+    <em>Romance Language Family</em>
+</details>

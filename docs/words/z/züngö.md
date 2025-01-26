@@ -10,12 +10,16 @@ hoverText: hand § Noun
 
 *hand* **§** Noun
 
+**IPA**: /ˈd͡ʒun.go/
+
 **Verb**: to be a hand
 
 **Noun**: hand
 
 **Modifier**: hand-related
 
-Fula junngo undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Fula junngo [d͡ʒuŋᵑɡɔ]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

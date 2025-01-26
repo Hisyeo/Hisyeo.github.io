@@ -10,12 +10,16 @@ hoverText: to find (a discovery) § Verb
 
 *to find (a discovery)* **§** Verb
 
+**IPA**: /ˈjɑs.tɛn/
+
 **Verb**: to find/discover
 
 **Noun**: a finding/discovery
 
 **Modifier**: findable/discoverable
 
-Persian یافتن yâftan undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian یافتن yâftan /jɒːfˈtæn/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

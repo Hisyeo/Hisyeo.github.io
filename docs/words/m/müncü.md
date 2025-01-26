@@ -10,12 +10,16 @@ hoverText: tart § Adjective
 
 *tart* **§** Adjective
 
+**IPA**: /ˈmun.t͡ɕu/
+
 **Verb**: to be tart/tangy
 
 **Noun**: tartness/tanginess
 
 **Modifier**: tart/tangy
 
-Xhosa -muncu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Xhosa -muncu /mu.ᵑǀu/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

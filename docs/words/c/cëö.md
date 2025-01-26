@@ -10,12 +10,16 @@ hoverText: rank/degree § Noun
 
 *rank/degree* **§** Noun
 
+**IPA**: /ˈt͡ɕe.o/
+
 **Verb**: to be a rank/degree
 
 **Noun**: rank/degree
 
 **Modifier**: rank/degree-related
 
-Swahili cheo undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili cheo  [t͡ɕeo]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

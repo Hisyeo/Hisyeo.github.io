@@ -10,12 +10,16 @@ hoverText: to choose (a choice) § Verb
 
 *to choose (a choice)* **§** Verb
 
+**IPA**: /ˈgo.t͡ɕi.dɑn/
+
 **Verb**: to choose
 
 **Noun**: a choice/decision
 
 **Modifier**: choosable
 
-Persian گزیدن gozidan undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian گزیدن gozidan [ɡ̥o.ziː.d̪ǽn]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

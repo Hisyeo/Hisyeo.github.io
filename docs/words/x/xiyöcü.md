@@ -10,12 +10,16 @@ hoverText: occupied/engaged/busy § Adjective
 
 *occupied/engaged/busy* **§** Adjective
 
+**IPA**: /ˈʃi.jo.t͡ɕu/
+
 **Verb**: to be occupied/engaged/busy
 
 **Noun**: occupied/engaged/busy-ness
 
 **Modifier**: occupied/engaged/busy
 
-Japanese しようちゅう shiyōchū undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese しようちゅう shiyōchū [ɕijo̞ːt͡ɕuː]<br/>
+    <em>Japonic Language Family</em>
+</details>

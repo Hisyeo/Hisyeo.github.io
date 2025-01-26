@@ -10,12 +10,16 @@ hoverText: flying § Adjective
 
 *flying* **§** Adjective
 
+**IPA**: /ˈʃi.ko/
+
 **Verb**: to be flying
 
 **Noun**: flight
 
 **Modifier**: flying
 
-Japanese ひこう hikō undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese ひこう hikō [çi̥ko̞ː]<br/>
+    <em>Japonic Language Family</em>
+</details>

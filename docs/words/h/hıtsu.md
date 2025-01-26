@@ -10,12 +10,16 @@ hoverText: crack/fissure § Noun
 
 *crack/fissure* **§** Noun
 
+**IPA**: /ˈhɪt.sʌ/
+
 **Verb**: to be a crack/fissure
 
 **Noun**: crack/fissure
 
 **Modifier**: crack/fissure-related
 
-German Ritze undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Ritze /ˈʁɪt͡sə/<br/>
+    <em>Germanic Language Family</em>
+</details>

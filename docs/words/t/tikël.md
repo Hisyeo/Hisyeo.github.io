@@ -10,12 +10,16 @@ hoverText: reflected § Adjective
 
 *reflected* **§** Adjective
 
+**IPA**: /ˈti.kel/
+
 **Verb**: to be reflected
 
 **Noun**: reflectiveness
 
 **Modifier**: reflected
 
-Hungarian tükör undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hungarian tükör [ˈtykør]<br/>
+    <em>Uralic Language Family</em>
+</details>

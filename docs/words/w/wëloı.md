@@ -10,12 +10,16 @@ hoverText: to work (in an occupation) § Verb
 
 *to work (in an occupation)* **§** Verb
 
+**IPA**: /ˈwe.lɑ.ɪ/
+
 **Verb**: to work (in/on)
 
 **Noun**: occupation/job/work
 
 **Modifier**: workable/occupation/job-like
 
-Tamil வேலை vēlai undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil வேலை vēlai /ʋeːlaɪ̯/<br/>
+    <em>Dravidian Language Family</em>
+</details>

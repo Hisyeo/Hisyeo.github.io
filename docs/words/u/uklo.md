@@ -10,12 +10,16 @@ hoverText: next § Adjective
 
 *next* **§** Adjective
 
+**IPA**: /ˈʌk.lɑ/
+
 **Verb**: to be next/coming (time)
 
 **Noun**: nextness/subsequence
 
 **Modifier**: next/coming
 
-Hindi अगला aglā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi अगला aglā [əɡ.l̪äː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

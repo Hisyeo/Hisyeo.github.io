@@ -10,12 +10,16 @@ hoverText: body § Noun
 
 *body* **§** Noun
 
+**IPA**: /ˈsɑ.li.lɑ/
+
 **Verb**: to be a body/torso
 
 **Noun**: body/torso
 
 **Modifier**: body/torso-related
 
-Sanskrit शरीर śarīra undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit शरीर śarīra [saˈrira]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

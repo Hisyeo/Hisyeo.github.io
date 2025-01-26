@@ -10,12 +10,16 @@ hoverText: gas § Noun
 
 *gas* **§** Noun
 
+**IPA**: /ˈus.mɑn/
+
 **Verb**: to be a gas/vapor
 
 **Noun**: gas/vapor
 
 **Modifier**: gas/vapor-related
 
-Khmer ឧស្ម័ន ʼusman undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer ឧស្ម័ន ʼusman /ʔu.ˈsman/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

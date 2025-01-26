@@ -10,12 +10,16 @@ hoverText: far § Adjective
 
 *far* **§** Adjective
 
+**IPA**: /ˈmon.bɪ.lɪ/
+
 **Verb**: to be far/distant
 
 **Noun**: farness/distance
 
 **Modifier**: far/distant
 
-Guaraní mombyry undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Guaraní mombyry /monpɨlɨ/<br/>
+    <em>Tupian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: to use (a tool) § Verb
 
 *to use (a tool)* **§** Verb
 
+**IPA**: /ˈjon/
+
 **Verb**: to use
 
 **Noun**: a tool
 
 **Modifier**: usable
 
-Min, Southern 用 iōng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Min, Southern 用 iōng /iɔŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

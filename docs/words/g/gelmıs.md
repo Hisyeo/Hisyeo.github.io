@@ -10,12 +10,16 @@ hoverText: stretched § Adjective
 
 *stretched* **§** Adjective
 
+**IPA**: /ˈgɛl.mɪs/
+
 **Verb**: to be stretched
 
 **Noun**: stretchedness
 
 **Modifier**: stretched
 
-Turkish germiş undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish germiş [gɛlmɪʃ]<br/>
+    <em>Turkic Language Family</em>
+</details>

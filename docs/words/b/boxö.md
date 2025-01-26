@@ -10,12 +10,16 @@ hoverText: place § Noun
 
 *place* **§** Noun
 
+**IPA**: /ˈbɑ.ʃo/
+
 **Verb**: to be a place/location
 
 **Noun**: place/location
 
 **Modifier**: place/location-related
 
-Japanese ばしょ basho undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese ばしょ basho [ba̠ɕo̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

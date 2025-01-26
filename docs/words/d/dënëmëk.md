@@ -10,12 +10,16 @@ hoverText: to try (a trial) § Verb
 
 *to try (a trial)* **§** Verb
 
+**IPA**: /ˈde.ne.mek/
+
 **Verb**: to attempt/try
 
 **Noun**: an attempt/trial
 
 **Modifier**: attemptable/triable
 
-Turkish denemek undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish denemek /de.ne.ˈmec/<br/>
+    <em>Turkic Language Family</em>
+</details>

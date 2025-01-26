@@ -10,12 +10,16 @@ hoverText: to regret (a regret) § Verb
 
 *to regret (a regret)* **§** Verb
 
+**IPA**: /ˈd͡ʒu.to/
+
 **Verb**: to regret/symphasize
 
 **Noun**: a regret/sympathy
 
 **Modifier**: regrettable/sympathizable
 
-Swahili juto undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili juto /d͡ʒuto/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

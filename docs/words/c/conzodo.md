@@ -10,12 +10,16 @@ hoverText: asleep § Adjective
 
 *asleep* **§** Adjective
 
+**IPA**: /ˈt͡ɕɑn.d͡ʒɑ.dɑ/
+
 **Verb**: to be asleep
 
 **Noun**: asleepness
 
 **Modifier**: asleep
 
-Korean 잠자다 jamjada undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 잠자다 jamjada [t͡ɕa̠md͡ʑa̠da̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

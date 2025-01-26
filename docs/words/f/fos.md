@@ -10,12 +10,16 @@ hoverText: free subordinate clause particle § Particle
 
 *free subordinate clause particle* **§** Particle
 
+**IPA**: /ˈfɑs/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-German was undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German was /vas/<br/>
+    <em>Germanic Language Family</em>
+</details>

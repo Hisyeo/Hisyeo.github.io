@@ -10,12 +10,16 @@ hoverText: big § Adjective
 
 *big* **§** Adjective
 
+**IPA**: /ˈt͡ɕen.bo/
+
 **Verb**: to be big
 
 **Noun**: bigness/size
 
 **Modifier**: big
 
-Tibetan ཆེན་པོ chen po undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Tibetan ཆེན་པོ chen po /t͡ɕʰem˥˥.po˥˥/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

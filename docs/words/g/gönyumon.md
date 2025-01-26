@@ -10,12 +10,16 @@ hoverText: grunting/growling § Adjective
 
 *grunting/growling* **§** Adjective
 
+**IPA**: /ˈgon.jʌ.mɑn/
+
 **Verb**: to be grunting/growling
 
 **Noun**: gruntiness/growliness
 
 **Modifier**: grunting/growling
 
-French grognement undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French grognement /ɡʁɔ.ɲ(ə).mɑ̃/<br/>
+    <em>Romance Language Family</em>
+</details>

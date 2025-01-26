@@ -10,12 +10,16 @@ hoverText: tooth § Noun
 
 *tooth* **§** Noun
 
+**IPA**: /ˈhɑ.ko.li/
+
 **Verb**: to be a tooth
 
 **Noun**: tooth
 
 **Modifier**: tooth-related/dental
 
-Hausa haƙōrī undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa haƙōrī /há.kʼóː.ɽíː/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

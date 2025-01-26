@@ -10,12 +10,16 @@ hoverText: gastropod § Noun
 
 *gastropod* **§** Noun
 
+**IPA**: /mɪn.ˈjɑ.tɑ/
+
 **Verb**: to be a slug/snail/gastropod
 
 **Noun**: slug/snail/gastropod
 
 **Modifier**: slug/snail/gastropod-related
 
-Sicilian mignatta undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Sicilian mignatta /mɪɲɲat̪t̪a/<br/>
+    <em>Romance Language Family</em>
+</details>

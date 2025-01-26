@@ -10,12 +10,16 @@ hoverText: constrained § Adjective
 
 *constrained* **§** Adjective
 
+**IPA**: /ˈt͡ɕu.ʃi.ɛn/
+
 **Verb**: to be constrained/bound
 
 **Noun**: constrainedness/boundness
 
 **Modifier**: constrained/bound
 
-Mandarin 局限 júxiàn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 局限 júxiàn /tɕu.ɕjɛn/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

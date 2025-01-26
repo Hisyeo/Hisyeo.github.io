@@ -10,12 +10,16 @@ hoverText: journey/trip/voyage § Noun
 
 *journey/trip/voyage* **§** Noun
 
+**IPA**: /ˈwu.ot/
+
 **Verb**: to be a journey/trip/voyage
 
 **Noun**: journery/trip/voyage
 
 **Modifier**: journery/trip/voyage-related
 
-Dholuo wuoth undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Dholuo wuoth [wʊɔt̪]<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

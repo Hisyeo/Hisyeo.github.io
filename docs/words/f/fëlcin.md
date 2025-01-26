@@ -10,12 +10,16 @@ hoverText: last/latest § Adjective
 
 *last/latest* **§** Adjective
 
+**IPA**: /ˈfel.t͡ɕin/
+
 **Verb**: to be last
 
 **Noun**: lastness
 
 **Modifier**: last/latest
 
-Armenian վերջին verǰin undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian վերջին verǰin [veɾˈt͡ʃʰin]<br/>
+    <em>Armenian Language Family</em>
+</details>

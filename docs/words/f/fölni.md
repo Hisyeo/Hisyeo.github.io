@@ -10,12 +10,16 @@ hoverText: free § Adjective
 
 *free* **§** Adjective
 
+**IPA**: /ˈfol.ni/
+
 **Verb**: to be free/unconstrained
 
 **Noun**: freedom/autonomy
 
 **Modifier**: free/unconstrained
 
-Czech volný undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Czech volný [ˈvolniː]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

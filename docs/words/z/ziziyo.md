@@ -10,12 +10,16 @@ hoverText: tendon/root § Noun
 
 *tendon/root* **§** Noun
 
+**IPA**: /ˈd͡ʒi.d͡ʒi.jɑ/
+
 **Verb**: to be a tendon/root
 
 **Noun**: tendon/root
 
 **Modifier**: tendon/root-related
 
-Hausa jíijíyàa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa jíijíyàa <br/>
+    <em>Afroasiatic Language Family</em>
+</details>

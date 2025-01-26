@@ -10,12 +10,16 @@ hoverText: charge/fee/tax § Noun
 
 *charge/fee/tax* **§** Noun
 
+**IPA**: /ˈt͡ɕɪ.nɑ/
+
 **Verb**: to be a charge/fee/tax
 
 **Noun**: charge/fee/tax
 
 **Modifier**: charge/fee/tax-related
 
-Russian цена́ cená undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Russian цена́ cená [t͡sɨˈna]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: 08 eight § Numeral
 
 *08 eight* **§** Numeral
 
+**IPA**: /ˈtʌk.wɑs/
+
 **Verb**: to be eight
 
 **Noun**: eight
 
 **Modifier**: eighth
 
-Hausa takwàs undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa takwàs [tə́.kʷàs]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

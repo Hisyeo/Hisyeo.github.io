@@ -10,12 +10,16 @@ hoverText: brain/mind § Noun
 
 *brain/mind* **§** Noun
 
+**IPA**: /ˈdu.ʌn.t͡ɕit/
+
 **Verb**: to be a brain/mind
 
 **Noun**: brain/mind
 
 **Modifier**: brain/mind-related
 
-Lao ດວງຈິດ dūang chit undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Lao ດວງຈິດ dūang chit [duːə̯ŋ˩˨.t͡ɕit̚˩˨]<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

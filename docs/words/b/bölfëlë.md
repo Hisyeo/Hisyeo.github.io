@@ -10,12 +10,16 @@ hoverText: powder § Noun
 
 *powder* **§** Noun
 
+**IPA**: /ˈbol.fe.le/
+
 **Verb**: to be powder/dust
 
 **Noun**: powder/dust
 
 **Modifier**: powder/dust-related
 
-Italian polvere undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian polvere /ˈpol.ve.re/<br/>
+    <em>Romance Language Family</em>
+</details>

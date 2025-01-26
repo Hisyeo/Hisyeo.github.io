@@ -10,12 +10,16 @@ hoverText: to remember (a memory) § Verb
 
 *to remember (a memory)* **§** Verb
 
+**IPA**: /ˈhus.kʌ/
+
 **Verb**: to remember/recall
 
 **Noun**: a memory
 
 **Modifier**: memorable
 
-Norwegian huske undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Norwegian huske /huskə/<br/>
+    <em>Germanic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: fuel § Noun
 
 *fuel* **§** Noun
 
+**IPA**: /ˈd͡ʒɑ.lɑ.ni/
+
 **Verb**: to be fuel
 
 **Noun**: fuel
 
 **Modifier**: fuel-related
 
-Bengali জ্বালানি jalani undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali জ্বালানি jalani [ˈd͡ʒalani]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

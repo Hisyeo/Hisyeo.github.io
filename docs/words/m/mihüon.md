@@ -10,12 +10,16 @@ hoverText: beige § Adjective
 
 *beige* **§** Adjective
 
+**IPA**: /ˈmi.hu.ɑn/
+
 **Verb**: to be beige
 
 **Noun**: beige-ness
 
 **Modifier**: beige
 
-Mandarin 米黃 mǐhuáng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 米黃 mǐhuáng [mixwaŋ]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

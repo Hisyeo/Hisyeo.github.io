@@ -10,12 +10,16 @@ hoverText: 04 four § Numeral
 
 *04 four* **§** Numeral
 
+**IPA**: /ˈnɑn.ku/
+
 **Verb**: to be four
 
 **Noun**: four
 
 **Modifier**: fourth
 
-Tamil நான்கு nāṉku undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil நான்கு nāṉku [n̪aːnkɯ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: all § Determiner
 
 *all* **§** Determiner
 
+**IPA**: /ˈmo.i/
+
 **Verb**: to be all
 
 **Noun**: all
 
 **Modifier**: most/-est
 
-Vietnamese mọi  undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese mọi   [mɔj˨˩ʔ]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

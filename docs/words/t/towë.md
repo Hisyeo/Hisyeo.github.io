@@ -10,12 +10,16 @@ hoverText: hair/fur/plumage § Noun
 
 *hair/fur/plumage* **§** Noun
 
+**IPA**: /ˈtɑ.we/
+
 **Verb**: to be hair/fur/plumage
 
 **Noun**: hair/fur/plumage
 
 **Modifier**: hair/fur/plumage-related
 
-Guaraní tague undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Guaraní tague /ta.ˈɰʷe/<br/>
+    <em>Tupian Language Family</em>
+</details>

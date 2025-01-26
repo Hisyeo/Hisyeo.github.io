@@ -10,12 +10,16 @@ hoverText: year § Noun
 
 *year* **§** Noun
 
+**IPA**: /ˈu.sen/
+
 **Verb**: to be a year
 
 **Noun**: a year
 
 **Modifier**: year-like
 
-Udi усен usen undefined
-
-*Nakh-Daghestani Language Family*
+<details>
+    <summary>Origin</summary>
+    Udi усен usen <br/>
+    <em>Nakh-Daghestani Language Family</em>
+</details>

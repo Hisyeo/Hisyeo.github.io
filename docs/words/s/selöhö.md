@@ -10,12 +10,16 @@ hoverText: theme/topic § Verb
 
 *theme/topic* **§** Verb
 
+**IPA**: /sɛ.ˈlo.ho/
+
 **Verb**: to be a theme/topic
 
 **Noun**: theme/topic
 
 **Modifier**: thematic/topic-related
 
-Sesotho sehlooho undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Sesotho sehlooho /seɬoːɦɔ/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

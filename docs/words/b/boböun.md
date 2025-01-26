@@ -10,12 +10,16 @@ hoverText: system § Noun
 
 *system* **§** Noun
 
+**IPA**: /ˈbɑ.bo.ʌn/
+
 **Verb**: to be a system
 
 **Noun**: system
 
 **Modifier**: system-related
 
-Khmer ប្រព័ន្ធ prɑpŏən undefined
-
-*Austro-asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer ប្រព័ន្ធ prɑpŏən /prɑ.ˈpŏən/<br/>
+    <em>Austro-asiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: trivial § Adjective
 
 *trivial* **§** Adjective
 
+**IPA**: /ˈmi.tɛ.ten/
+
 **Verb**: to be trivial/negligible
 
 **Noun**: triviality/negligibility
 
 **Modifier**: trivial/negligible
 
-Finnish mitätön undefined
-
-*Uralic Language Family*
+<details>
+    <summary>Origin</summary>
+    Finnish mitätön [ˈmit̪æt̪ø̞n]<br/>
+    <em>Uralic Language Family</em>
+</details>

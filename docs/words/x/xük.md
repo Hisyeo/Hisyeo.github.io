@@ -10,12 +10,16 @@ hoverText: sort/type § Noun
 
 *sort/type* **§** Noun
 
+**IPA**: /ˈʃuk/
+
 **Verb**: to be a sort/type/category
 
 **Noun**: sort/type/category
 
 **Modifier**: sort/type/category-related
 
-Hebrew סוּג sug undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hebrew סוּג sug <br/>
+    <em>Afroasiatic Language Family</em>
+</details>

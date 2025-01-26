@@ -10,12 +10,16 @@ hoverText: tall § Adjective
 
 *tall* **§** Adjective
 
+**IPA**: /ɪ.ˈwɑ.te/
+
 **Verb**: to be tall/high
 
 **Noun**: tallness/height
 
-**Modifier**: tall/high
+**Modifier**: s
 
-Guaraní yvate undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Guaraní yvate [ɨʋate]<br/>
+    <em>Tupian Language Family</em>
+</details>

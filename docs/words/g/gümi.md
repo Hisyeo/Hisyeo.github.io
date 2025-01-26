@@ -10,12 +10,16 @@ hoverText: rubber § Noun
 
 *rubber* **§** Noun
 
+**IPA**: /ˈgu.mi/
+
 **Verb**: to be (a) rubber
 
 **Noun**: rubbber
 
 **Modifier**: rubber-related
 
-German Gummi undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German Gummi /ˈɡʊmi/<br/>
+    <em>Germanic Language Family</em>
+</details>

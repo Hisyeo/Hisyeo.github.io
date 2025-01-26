@@ -10,12 +10,16 @@ hoverText: to immerse (the immersed) § Verb
 
 *to immerse (the immersed)* **§** Verb
 
+**IPA**: /ˈdu.bɑ.nɑ/
+
 **Verb**: to immerse/submerge
 
 **Noun**: the immersed/submerged
 
 **Modifier**: immersible/submersible
 
-Hindi डुबाना ḍubānā undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi डुबाना ḍubānā [ɖʊ.bäː.näː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

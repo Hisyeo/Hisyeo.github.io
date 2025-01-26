@@ -10,12 +10,16 @@ hoverText: southern § Adjective
 
 *southern* **§** Adjective
 
+**IPA**: /ˈd͡ʒɑ.nu.bi/
+
 **Verb**: to be southern
 
 **Noun**: southerliness
 
 **Modifier**: southern
 
-Arabic جَنُوبِيّ janūbiyy undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic جَنُوبِيّ janūbiyy [d͡ʒä.nuː.bíː]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

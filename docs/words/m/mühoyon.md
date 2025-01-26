@@ -10,12 +10,16 @@ hoverText: camp § Noun
 
 *camp* **§** Noun
 
+**IPA**: /ˈmu.hɑ.jɑn/
+
 **Verb**: to be a camp
 
 **Noun**: camp
 
 **Modifier**: camp-related
 
-Arabic مُخَيَّم muḵayyam undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic مُخَيَّم muḵayyam /mu.xaj.jam/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

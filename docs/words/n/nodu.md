@@ -10,12 +10,16 @@ hoverText: tone § Noun
 
 *tone* **§** Noun
 
+**IPA**: /ˈnɑ.dʌ/
+
 **Verb**: to be a tone
 
 **Noun**: tone
 
 **Modifier**: tone-related
 
-Malay nada undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay nada /'na.də/<br/>
+    <em>Austronesian Language Family</em>
+</details>

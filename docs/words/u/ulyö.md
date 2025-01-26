@@ -10,12 +10,16 @@ hoverText: medial demonstrative (that/there) § Pronoun
 
 *medial demonstrative (that/there)* **§** Pronoun
 
+**IPA**: /ˈʌl.jo/
+
 **Verb**: to be that
 
 **Noun**: that
 
 **Modifier**: that
 
-Catalan allò undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan allò /əˈʎɔ/<br/>
+    <em>Romance Language Family</em>
+</details>

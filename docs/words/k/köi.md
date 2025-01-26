@@ -10,12 +10,16 @@ hoverText: epistemic verb particle § Particle
 
 *epistemic verb particle* **§** Particle
 
+**IPA**: /ˈko.i/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Min, Eastern 可以 kō̤-ī undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Min, Eastern 可以 kō̤-ī /kʰɔ.i/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

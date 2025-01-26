@@ -10,12 +10,16 @@ hoverText: constant/stable § Adjective
 
 *constant/stable* **§** Adjective
 
+**IPA**: /ˈsi.ne.ʃis/
+
 **Verb**: to be constant/stable
 
 **Noun**: constantness/stability
 
 **Modifier**: constant/stable
 
-Greek συνεχής synechís undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek συνεχής synechís /si.neˈçis/<br/>
+    <em>Hellenic Language Family</em>
+</details>

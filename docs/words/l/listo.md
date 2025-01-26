@@ -10,12 +10,16 @@ hoverText: strip/band § Noun
 
 *strip/band* **§** Noun
 
+**IPA**: /ˈlis.tɑ/
+
 **Verb**: to be a strip/band
 
 **Noun**: strip/band
 
 **Modifier**: strip/band-related
 
-Italian lista undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian lista /ˈli.sta/<br/>
+    <em>Romance Language Family</em>
+</details>

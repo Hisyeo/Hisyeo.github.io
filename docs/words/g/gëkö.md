@@ -10,12 +10,16 @@ hoverText: soil/dirt § Noun
 
 *soil/dirt* **§** Noun
 
+**IPA**: /ˈge.ko/
+
 **Verb**: to be soil/dirt
 
 **Noun**: soil/dirt
 
 **Modifier**: soil/dirt-related
 
-Kikuyu gĩko undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Kikuyu gĩko [ɣekɔ]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

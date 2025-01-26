@@ -10,12 +10,16 @@ hoverText: to pierce (the pierced) § Verb
 
 *to pierce (the pierced)* **§** Verb
 
+**IPA**: /ˈdun.gɑ/
+
 **Verb**: to pierce/puncture
 
 **Noun**: the pierced/punctured
 
 **Modifier**: piercable/puncturable
 
-Swahili -dunga undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili -dunga [duŋga]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

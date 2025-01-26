@@ -10,12 +10,16 @@ hoverText: to respect (the respected) § Verb
 
 *to respect (the respected)* **§** Verb
 
+**IPA**: /ˈgɑ.lʌn/
+
 **Verb**: to respect
 
 **Noun**: the respected
 
 **Modifier**: respectable
 
-Tagalog galang undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog galang [ˈɡa.lɐŋ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

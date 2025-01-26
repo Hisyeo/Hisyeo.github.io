@@ -10,12 +10,16 @@ hoverText: to bake (a baked good) § Verb
 
 *to bake (a baked good)* **§** Verb
 
+**IPA**: /ˈbi.ɛk/
+
 **Verb**: to bake
 
 **Noun**: baked good
 
 **Modifier**: bakeable
 
-Albanian pjek undefined
-
-*Albanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Albanian pjek [pjɛk]<br/>
+    <em>Albanian Language Family</em>
+</details>

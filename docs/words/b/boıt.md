@@ -10,12 +10,16 @@ hoverText: 256 byte § Numeral
 
 *256 byte* **§** Numeral
 
+**IPA**: /ˈbɑ.ɪt/
+
 **Verb**: to be a byte
 
 **Noun**: a byte
 
 **Modifier**: byte-th (256th)
 
-English byte undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    English byte /baɪt/<br/>
+    <em>Germanic Language Family</em>
+</details>

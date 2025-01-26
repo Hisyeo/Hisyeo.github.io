@@ -10,12 +10,16 @@ hoverText: book § Noun
 
 *book* **§** Noun
 
+**IPA**: /ˈto.mos/
+
 **Verb**: to be a tome/book
 
 **Noun**: a tome/book
 
 **Modifier**: tome/book-related
 
-Greek τόμος tómos undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek τόμος tómos /ˈto.mos/<br/>
+    <em>Hellenic Language Family</em>
+</details>

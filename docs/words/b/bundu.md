@@ -10,12 +10,16 @@ hoverText: closed § Adjective
 
 *closed* **§** Adjective
 
+**IPA**: /ˈbʌn.dʌ/
+
 **Verb**: to be closed
 
 **Noun**: closedness
 
 **Modifier**: closed
 
-Marathi बंद banda undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Marathi बंद banda /bən.d̪ə/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

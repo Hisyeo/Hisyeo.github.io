@@ -10,12 +10,16 @@ hoverText: group § Noun
 
 *group* **§** Noun
 
+**IPA**: /ˈd͡ʒɑ.mɑ/
+
 **Verb**: to be a group/collection
 
 **Noun**: group/collection considered as a whole
 
 **Modifier**: group/collection-related
 
-Arabic جَمَاعَة⁩ jamāʕa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic جَمَاعَة⁩ jamāʕa /d͡ʒa.maː.ʕa/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: ray/beam § Noun
 
 *ray/beam* **§** Noun
 
+**IPA**: /ˈlɑ.d͡ʒo/
+
 **Verb**: to be a ray/beam
 
 **Noun**: ray/beam
 
 **Modifier**: ray/beam-related
 
-Italian raggio undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian raggio /ˈrad.d͡ʒo/<br/>
+    <em>Romance Language Family</em>
+</details>

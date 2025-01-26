@@ -10,12 +10,16 @@ hoverText: arriving § Adjective
 
 *arriving* **§** Adjective
 
+**IPA**: /ˈgik/
+
 **Verb**: to be arriving/reaching
 
 **Noun**: arriving-ness/reaching-ness
 
 **Modifier**: arriving/reaching
 
-Dholuo gik undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Dholuo gik /gik/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

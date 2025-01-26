@@ -10,12 +10,16 @@ hoverText: pasta § Noun
 
 *pasta* **§** Noun
 
+**IPA**: /ˈtɑ.lɪ.jɑ/
+
 **Verb**: to be pasta
 
 **Noun**: pasta
 
 **Modifier**: pasta-related
 
-Hausa taliya undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa taliya /ta.lɨ.j̰a/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

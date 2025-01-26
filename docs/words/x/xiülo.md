@@ -10,12 +10,16 @@ hoverText: hiss/fizz/whistle § Noun
 
 *hiss/fizz/whistle* **§** Noun
 
+**IPA**: /ˈʃi.u.lɑ/
+
 **Verb**: to be a hiss/fizz/whistle
 
 **Noun**: hiss/fizz/whistle
 
 **Modifier**: hiss/fizz/whistle-like
 
-Catalan xiular undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan xiular /ʃiwˈla/<br/>
+    <em>Romance Language Family</em>
+</details>

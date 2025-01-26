@@ -10,12 +10,16 @@ hoverText: science § Noun
 
 *science* **§** Noun
 
+**IPA**: /ˈnɑ.u.kʌ/
+
 **Verb**: to be science
 
 **Noun**: science
 
 **Modifier**: science-related
 
-Ukrainian нау́ка naúka undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Ukrainian нау́ка naúka [nɐˈukɐ]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

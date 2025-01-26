@@ -10,12 +10,16 @@ hoverText: ear § Noun
 
 *ear* **§** Noun
 
+**IPA**: /ˈt͡ɕi.ki.nil/
+
 **Verb**: to be an ear
 
 **Noun**: ear
 
 **Modifier**: ear-related
 
-Tzotzil chikinil undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    Tzotzil chikinil /'ʰi.kʰi.nil/<br/>
+    <em>Mayan Language Family</em>
+</details>

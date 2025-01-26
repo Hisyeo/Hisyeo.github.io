@@ -10,12 +10,16 @@ hoverText: plate § Noun
 
 *plate* **§** Noun
 
+**IPA**: /ˈsi.e.to/
+
 **Verb**: to be a plate
 
 **Noun**: plate
 
 **Modifier**: plate-related
 
-Occitan sieta undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Occitan sieta /'sje.tɔ/<br/>
+    <em>Romance Language Family</em>
+</details>

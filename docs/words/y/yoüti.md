@@ -10,12 +10,16 @@ hoverText: some/a few § Determiner
 
 *some/a few* **§** Determiner
 
+**IPA**: /ˈjɑ.u.ti/
+
 **Verb**: to be some/a few
 
 **Noun**: iota/modicum
 
 **Modifier**: somewhat
 
-Cantonese 有啲 jau di undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 有啲 jau di /jɐu̯tiː/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: each § Determiner
 
 *each* **§** Determiner
 
+**IPA**: /ˈʃɑ.kon/
+
 **Verb**: to be each
 
 **Noun**: each (one)/every(thing)
 
 **Modifier**: -let/-pack/-unit
 
-French chacun undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French chacun /ʃa.kœ̃/<br/>
+    <em>Romance Language Family</em>
+</details>

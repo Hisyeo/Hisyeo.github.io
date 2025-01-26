@@ -10,12 +10,16 @@ hoverText: to hope/wish (a hope/wish) § Verb
 
 *to hope/wish (a hope/wish)* **§** Verb
 
+**IPA**: /ˈʃi.wɑn/
+
 **Verb**: to hope/wish
 
 **Noun**: hope/wish
 
 **Modifier**: hopable/wishable
 
-Mandarin 希望 xīwàng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 希望 xīwàng <br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

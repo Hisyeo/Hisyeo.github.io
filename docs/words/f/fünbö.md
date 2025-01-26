@@ -10,12 +10,16 @@ hoverText: to squeeze (squeezable entity) § Verb
 
 *to squeeze (squeezable entity)* **§** Verb
 
+**IPA**: /ˈfun.bo/
+
 **Verb**: to clench/squeeze
 
 **Noun**: clenchable/squeezable entity
 
 **Modifier**: clenched/squeezed
 
-Yoruba fún pọ̀ undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba fún pọ̀ [fũpɔ̄]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

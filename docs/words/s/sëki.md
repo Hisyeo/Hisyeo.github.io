@@ -10,12 +10,16 @@ hoverText: genitalia § Noun
 
 *genitalia* **§** Noun
 
+**IPA**: /ˈse.ki/
+
 **Verb**: to be genitalia
 
 **Noun**: genitalia
 
 **Modifier**: genital
 
-Japanese せいき seiki undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese せいき seiki [se̞ːkʲi]<br/>
+    <em>Japonic Language Family</em>
+</details>

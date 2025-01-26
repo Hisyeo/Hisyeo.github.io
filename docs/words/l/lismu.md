@@ -10,12 +10,16 @@ hoverText: clay § Noun
 
 *clay* **§** Noun
 
+**IPA**: /ˈlis.mʌ/
+
 **Verb**: to be clay/silt
 
 **Noun**: clay/silt
 
 **Modifier**: clay/silt-related
 
-Albanian lismë undefined
-
-*Albanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Albanian lismë [lismə]<br/>
+    <em>Albanian Language Family</em>
+</details>

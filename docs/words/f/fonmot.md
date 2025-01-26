@@ -10,12 +10,16 @@ hoverText: absent/nonexistent § Adjective
 
 *absent/nonexistent* **§** Adjective
 
+**IPA**: /ˈfɑn.mɑt/
+
 **Verb**: to be absent/nonexistent
 
 **Noun**: absentness/nonexistentness
 
 **Modifier**: absent/nonexistent
 
-Vietnamese vắng mặt undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese vắng mặt [vaŋ˧˦ mat̚˧˨ʔ]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

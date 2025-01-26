@@ -10,12 +10,16 @@ hoverText: wave § Noun
 
 *wave* **§** Noun
 
+**IPA**: /ˈnɑ.o/
+
 **Verb**: to be a wave/undulation
 
 **Noun**: wave/undulation
 
 **Modifier**: wave/undulation-related
 
-Gilbertese nao undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Gilbertese nao /näo/<br/>
+    <em>Austronesian Language Family</em>
+</details>

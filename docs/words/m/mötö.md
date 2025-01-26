@@ -10,12 +10,16 @@ hoverText: fire § Noun
 
 *fire* **§** Noun
 
+**IPA**: /ˈmo.to/
+
 **Verb**: to be fire
 
 **Noun**: fire
 
 **Modifier**: fire-related
 
-Chichewa/Mwani/Ngungwel/Shona/Swahili moto undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Chichewa/Mwani/Ngungwel/Shona/Swahili moto /ˈmó.to/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

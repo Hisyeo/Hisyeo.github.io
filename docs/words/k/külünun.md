@@ -10,12 +10,16 @@ hoverText: cage/kennel/jail/cell § Noun
 
 *cage/kennel/jail/cell* **§** Noun
 
+**IPA**: /ˈku.lu.nʌn/
+
 **Verb**: to be a cage/kennel/jail/cell
 
 **Noun**: cage/kennel/jail/cell
 
 **Modifier**: cage/kennel/jail/cell-related
 
-Tagalog ᜃᜓᜎᜓᜅᜈ᜔ kúlúngan undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog ᜃᜓᜎᜓᜅᜈ᜔ kúlúngan [ˌkuˈlu.ŋɐn]<br/>
+    <em>Austronesian Language Family</em>
+</details>

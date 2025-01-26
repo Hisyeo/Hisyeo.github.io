@@ -10,12 +10,16 @@ hoverText: to guide (the guided) § Verb
 
 *to guide (the guided)* **§** Verb
 
+**IPA**: /jʌn.ˈdo.u/
+
 **Verb**: to guide/lead/direct
 
 **Noun**: the guided/lead/directed
 
 **Modifier**: guidable/leadable/directable
 
-Cantonese 引導 jan5 dou6 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 引導 jan5 dou6 /jɐn.dou̯/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

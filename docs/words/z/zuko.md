@@ -10,12 +10,16 @@ hoverText: bag § Noun
 
 *bag* **§** Noun
 
+**IPA**: /ˈd͡ʒʌ.kɑ/
+
 **Verb**: to be a bag
 
 **Noun**: bag
 
 **Modifier**: bag-related
 
-Hausa jàkā undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa jàkā [d͡ʒə̀.káː]<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

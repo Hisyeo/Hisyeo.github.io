@@ -10,12 +10,16 @@ hoverText: to climb (a slope) § Verb
 
 *to climb (a slope)* **§** Verb
 
+**IPA**: /ˈt͡ɕʌt.ne/
+
 **Verb**: to climb
 
 **Noun**: a slope/ramp
 
 **Modifier**: climbable
 
-Marathi चढणे caḍhṇe undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Marathi चढणे caḍhṇe /t͡səɖʱ.ɳe/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

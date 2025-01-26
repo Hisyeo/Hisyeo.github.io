@@ -10,12 +10,16 @@ hoverText: magical § Adjective
 
 *magical* **§** Adjective
 
+**IPA**: /ˈmɑ.d͡ʒi.ko/
+
 **Verb**: to be magical
 
 **Noun**: magicalness/magic
 
 **Modifier**: magical
 
-Italian magico undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian magico /ˈma.d͡ʒi.ko/<br/>
+    <em>Romance Language Family</em>
+</details>

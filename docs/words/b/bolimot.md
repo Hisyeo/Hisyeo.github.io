@@ -10,12 +10,16 @@ hoverText: voluminous/spacious § Adjective
 
 *voluminous/spacious* **§** Adjective
 
+**IPA**: /ˈbɑ.li.mɑt/
+
 **Verb**: to be voluminous
 
 **Noun**: volume (space)
 
 **Modifier**: voluminous
 
-Thai ปริมาตร bpà-rí-mâat undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ปริมาตร bpà-rí-mâat /pa˨˩.ri˦˥.maːt̚˥˩/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: northern § Adjective
 
 *northern* **§** Adjective
 
+**IPA**: /ˈsol.tus.tɪk/
+
 **Verb**: to be northern
 
 **Noun**: northerliness
 
 **Modifier**: northern
 
-Kazakh солтүстік soltüstık undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Kazakh солтүстік soltüstık [so̙ltʉstɪ̞k]<br/>
+    <em>Turkic Language Family</em>
+</details>

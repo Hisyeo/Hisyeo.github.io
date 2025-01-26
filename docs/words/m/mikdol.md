@@ -10,12 +10,16 @@ hoverText: amount § Noun
 
 *amount* **§** Noun
 
+**IPA**: /ˈmik.dɑl/
+
 **Verb**: to be a number/amount
 
 **Noun**: number/amount
 
 **Modifier**: number/amount-related
 
-Arabic مِقْدَار miqdār undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic مِقْدَار miqdār /miq.daːr/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

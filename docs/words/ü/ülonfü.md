@@ -10,12 +10,16 @@ hoverText: syllable § Noun
 
 *syllable* **§** Noun
 
+**IPA**: /ˈu.lɑn.fu/
+
 **Verb**: to be a syllable
 
 **Noun**: syllable
 
 **Modifier**: syllabe-related
 
-Zulu ûhlâmvu undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Zulu ûhlâmvu /ûːɬâːmvu/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

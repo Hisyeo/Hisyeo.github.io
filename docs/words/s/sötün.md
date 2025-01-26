@@ -10,12 +10,16 @@ hoverText: column § Noun
 
 *column* **§** Noun
 
+**IPA**: /ˈso.tun/
+
 **Verb**: to be a column
 
 **Noun**: column
 
 **Modifier**: column-related
 
-Persian ستون sotun undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian ستون sotun [so.t̪ʰuːn]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: back § Noun
 
 *back* **§** Noun
 
+**IPA**: /ˈsɑ.dɛn/
+
 **Verb**: to be the back/behind region
 
 **Noun**: back/behind region
 
 **Modifier**: back-related/backward
 
-Macedonian заден zaden undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Macedonian заден zaden [ˈzadɛn]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

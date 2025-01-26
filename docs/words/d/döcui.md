@@ -10,12 +10,16 @@ hoverText: toy § Noun
 
 *toy* **§** Noun
 
+**IPA**: /ˈdo.t͡ɕʌ.i/
+
 **Verb**: to be a toy
 
 **Noun**: toy
 
 **Modifier**: toy-related
 
-Vietnamese đồ chơi undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Vietnamese đồ chơi [ʔɗo˨˩ t͡ɕəːj˧˧]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: outside § Noun
 
 *outside* **§** Noun
 
+**IPA**: /ˈwɑk.tɑ/
+
 **Verb**: to be the outside region
 
 **Noun**: outside region
 
 **Modifier**: outside-related/outer
 
-Quechua waqta undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Quechua waqta /waqta/<br/>
+    <em>Quechumaran Language Family</em>
+</details>

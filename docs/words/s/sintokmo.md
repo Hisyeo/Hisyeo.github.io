@@ -10,12 +10,16 @@ hoverText: phrase § Noun
 
 *phrase* **§** Noun
 
+**IPA**: /ˈsin.tɑk.mɑ/
+
 **Verb**: to be a phrase
 
 **Noun**: phrase
 
 **Modifier**: phrase-related
 
-Italian sintagma undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Italian sintagma /sinˈtaɡ.ma/<br/>
+    <em>Romance Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: foreign § Adjective
 
 *foreign* **§** Adjective
 
+**IPA**: /ˈbɑ.lʌ.te/
+
 **Verb**: to be foreign/exotic
 
 **Noun**: foreignness/exoticness
 
 **Modifier**: foreign/exotic
 
-Khmer បរទេស bɑɑrĕəʼteih undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Khmer បរទេស bɑɑrĕəʼteih /ɓɑː.rĕəʔ.teih/<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

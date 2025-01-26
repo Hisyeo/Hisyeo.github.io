@@ -10,12 +10,16 @@ hoverText: to lose/waste (the lost/wasted) § Verb
 
 *to lose/waste (the lost/wasted)* **§** Verb
 
+**IPA**: /ˈnɑ.t͡ɕi.dɑ/
+
 **Verb**: to lose/waste/miss
 
 **Noun**: the lost/wasted/missed
 
 **Modifier**: loseable/wasteable/missable
 
-Korean 놓치다 notchida undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 놓치다 notchida [no̞t̚t͡ɕʰida̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

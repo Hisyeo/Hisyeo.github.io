@@ -16,15 +16,19 @@ hoverText: ${w['Meaning']} § ${w['Type']}
 
 *${w['Meaning']}* **§** ${w['Type']}
 
+**IPA**: ${w['Actual IPA']}
+
 **Verb**: ${w['Verb']}
 
 **Noun**: ${w['Noun']}
 
 **Modifier**: ${w['Modifier']}
 
-${w['Origin']} ${w['IPA']}
-
-*${w['Family']} Language Family*`
+<details>
+    <summary>Origin</summary>
+    ${w['Origin']} ${w['Origin IPA']}<br/>
+    <em>${w['Family']} Language Family</em>
+</details>`
 
 console.log('Clearing existing files...')
 const existingFiles = await glob(['./docs/words/**/*.md', './docs/words/**/*.mdx'])
@@ -42,7 +46,7 @@ const records = await csv(file, {
     columns: true,
 })
 
-process.stdout.write(`Outputting word files...`)
+process.stdout.write(`Outputting words to templates and JSON prep...`)
 await Promise.all(records.map(async (data, idx) => {
     try {
         process.stdout.write(`.`)
@@ -65,9 +69,10 @@ await Promise.all(records.map(async (data, idx) => {
             type: data["Type"],
             kokanu: data["Kokanu"],
             origin: data["Origin"],
-            ipa: data["IPA"],
+            origin_ipa: data["Origin IPA"],
             family: data["Family"],
             group: data["Group"],
+            actual_ipa: data['Actual IPA'],
             length: data["Length"],
             rank: data["Rank"],
         }

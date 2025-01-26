@@ -10,12 +10,16 @@ hoverText: gentle/kind § Adjective
 
 *gentle/kind* **§** Adjective
 
+**IPA**: /ˈʃen.til/
+
 **Verb**: to be gentle/kind
 
 **Noun**: gentleness/kindness
 
 **Modifier**: gentle/kind
 
-Portuguese gentil undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese gentil [ʒẽˈtiɫ]<br/>
+    <em>Romance Language Family</em>
+</details>

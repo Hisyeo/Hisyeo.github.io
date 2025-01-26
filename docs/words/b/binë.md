@@ -10,12 +10,16 @@ hoverText: then § Conjunction
 
 *then* **§** Conjunction
 
+**IPA**: /ˈbi.ne/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Malayalam പിന്നെ pinne undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malayalam പിന്നെ pinne /pin̪n̪e/<br/>
+    <em>Dravidian Language Family</em>
+</details>

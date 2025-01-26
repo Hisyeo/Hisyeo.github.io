@@ -10,12 +10,16 @@ hoverText: unmoving § Adjective
 
 *unmoving* **§** Adjective
 
+**IPA**: /ˈbɑ.di/
+
 **Verb**: to be still/unmoving
 
 **Noun**: stillness
 
 **Modifier**: still/unmoving
 
-Luo podi undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Luo podi /pa.di/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

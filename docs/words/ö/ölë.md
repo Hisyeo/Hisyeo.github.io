@@ -10,12 +10,16 @@ hoverText: experiencer/causee marker § Preposition
 
 *experiencer/causee marker* **§** Preposition
 
+**IPA**: /ˈo.le/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Malay oleh undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malay oleh /o.leh/<br/>
+    <em>Austronesian Language Family</em>
+</details>

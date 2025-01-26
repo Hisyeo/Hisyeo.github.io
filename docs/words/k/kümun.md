@@ -10,12 +10,16 @@ hoverText: hole § Noun
 
 *hole* **§** Noun
 
+**IPA**: /ˈku.mʌn/
+
 **Verb**: to be a hole/opening
 
 **Noun**: hole/opening
 
 **Modifier**: hole/opening-related
 
-Korean 구멍 gumeong undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 구멍 gumeong [kumʌ̹ŋ]<br/>
+    <em>Koreic Language Family</em>
+</details>

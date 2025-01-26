@@ -10,12 +10,16 @@ hoverText: wide § Adjective
 
 *wide* **§** Adjective
 
+**IPA**: /ˈnʌl.tɑ/
+
 **Verb**: to be wide
 
 **Noun**: width
 
 **Modifier**: wide
 
-Korean 넓다 neolda undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 넓다 neolda [nʌ̹ɭt͈a̠]<br/>
+    <em>Koreic Language Family</em>
+</details>

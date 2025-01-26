@@ -10,12 +10,16 @@ hoverText: to trust (a belief) § Verb
 
 *to trust (a belief)* **§** Verb
 
+**IPA**: /ˈi.mɑn/
+
 **Verb**: to trust/believe
 
 **Noun**: a belief
 
 **Modifier**: trustable/believable
 
-Arabic إيمان ʾīmān undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic إيمان ʾīmān /ʔiː.maːn/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: creak/squeak § Noun
 
 *creak/squeak* **§** Noun
 
+**IPA**: /hʌn.ˈd͡ʒi.du/
+
 **Verb**: to be a creak/squeak
 
 **Noun**: a creak/squeak
 
 **Modifier**: creak/squeak-related
 
-Portuguese, Brazilian rangido undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese, Brazilian rangido [hɐ̃ˈʒi.du]<br/>
+    <em>Romance Language Family</em>
+</details>

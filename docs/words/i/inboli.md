@@ -10,12 +10,16 @@ hoverText: flower § Noun
 
 *flower* **§** Noun
 
+**IPA**: /ˈin.bɑ.li/
+
 **Verb**: to be a flower
 
 **Noun**: flower
 
 **Modifier**: flower-related
 
-Zulu ímbali undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Zulu ímbali /ímbaːli/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

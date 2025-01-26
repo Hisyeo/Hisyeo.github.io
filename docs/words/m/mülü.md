@@ -10,12 +10,16 @@ hoverText: full/complete § Adjective
 
 *full/complete* **§** Adjective
 
+**IPA**: /ˈmu.lu/
+
 **Verb**: to be full/complete
 
 **Noun**: fullness/completeness
 
 **Modifier**: full/complete
 
-Tamil முழு muḻu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tamil முழு muḻu [muɻɯ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

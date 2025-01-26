@@ -10,12 +10,16 @@ hoverText: western § Adjective
 
 *western* **§** Adjective
 
+**IPA**: /ˈfi.ti.kos/
+
 **Verb**: to be western
 
 **Noun**: westerliness
 
 **Modifier**: western
 
-Greek δυτικός dytikós undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek δυτικός dytikós /ðitiˈkos/<br/>
+    <em>Hellenic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: but § Conjunction
 
 *but* **§** Conjunction
 
+**IPA**: /ˈle.kɪn/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Hindi लेकिन lekin undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi लेकिन lekin [l̪eː.kɪ̃n̪]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

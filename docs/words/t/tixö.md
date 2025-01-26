@@ -10,12 +10,16 @@ hoverText: threat § Noun
 
 *threat* **§** Noun
 
+**IPA**: /ˈti.ʃo/
+
 **Verb**: to be a threat
 
 **Noun**: threat
 
 **Modifier**: threat-related
 
-Swahili tisho undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili tisho /'ti.ʃo/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

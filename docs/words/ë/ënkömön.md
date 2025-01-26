@@ -10,12 +10,16 @@ hoverText: face § Noun
 
 *face* **§** Noun
 
+**IPA**: /ˈen.ko.mon/
+
 **Verb**: to be a face
 
 **Noun**: face
 
 **Modifier**: facial
 
-Maasai enk-omóm undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Maasai enk-omóm /ēnkōmón<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

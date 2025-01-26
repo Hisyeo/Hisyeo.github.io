@@ -10,12 +10,16 @@ hoverText: 12 twelve § Numeral
 
 *12 twelve* **§** Numeral
 
+**IPA**: /ˈbɑ.lɛ/
+
 **Verb**: to be twelve
 
 **Noun**: twelve
 
 **Modifier**: twelfth
 
-Hindi बारह bārah undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi बारह bārah [bäː.ɾɛʱ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: acidic § Adjective
 
 *acidic* **§** Adjective
 
+**IPA**: /mɪ.ˈʃɑ.fɑ/
+
 **Verb**: to be acidic
 
 **Noun**: acidity
 
 **Modifier**: acidic
 
-Georgian მჟავა mžava undefined
-
-*Nakh-Daghestani Language Family*
+<details>
+    <summary>Origin</summary>
+    Georgian მჟავა mžava /mʒava/<br/>
+    <em>Nakh-Daghestani Language Family</em>
+</details>

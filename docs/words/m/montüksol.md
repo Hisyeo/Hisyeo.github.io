@@ -10,12 +10,16 @@ hoverText: logical § Adjective
 
 *logical* **§** Adjective
 
+**IPA**: /ˈmɑn.tuk.sɑl/
+
 **Verb**: to be logical
 
 **Noun**: logicalness
 
 **Modifier**: logical
 
-Turkish mantıksal undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish mantıksal /man.tɯk.sal/<br/>
+    <em>Turkic Language Family</em>
+</details>

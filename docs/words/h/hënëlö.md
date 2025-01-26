@@ -10,12 +10,16 @@ hoverText: gender § Noun
 
 *gender* **§** Noun
 
+**IPA**: /ˈhe.ne.lo/
+
 **Verb**: to be a gender
 
 **Noun**: gender
 
 **Modifier**: gender-related
 
-Spanish género undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish género [ˈxe.ne.ɾo]<br/>
+    <em>Romance Language Family</em>
+</details>

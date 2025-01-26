@@ -10,12 +10,16 @@ hoverText: overt/evident § Adjective
 
 *overt/evident* **§** Adjective
 
+**IPA**: /wʌk.ˈtɑ.mu/
+
 **Verb**: to be overt/evident
 
 **Noun**: overtness/evidentness
 
 **Modifier**: overt/evidently
 
-Telugu వ్యక్తము vyaktamu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu వ్యక్తము vyaktamu /ʋjəkt̪amu/<br/>
+    <em>Dravidian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: adamant/stubborn § Adjective
 
 *adamant/stubborn* **§** Adjective
 
+**IPA**: /ˈul.ke.fi/
+
 **Verb**: to be adamant/stubborn
 
 **Noun**: adamantness/stubbornness
 
 **Modifier**: adamant/stubborn
 
-Georgian ურყევი urq̇evi undefined
-
-*Kartvelian Language Family*
+<details>
+    <summary>Origin</summary>
+    Georgian ურყევი urq̇evi /urqʼevi/<br/>
+    <em>Kartvelian Language Family</em>
+</details>

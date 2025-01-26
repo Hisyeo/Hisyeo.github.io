@@ -10,12 +10,16 @@ hoverText: to sit on (a seat) § Verb
 
 *to sit on (a seat)* **§** Verb
 
+**IPA**: /ˈsɪt.jɑ/
+
 **Verb**: to sit (on)
 
 **Noun**: a seat
 
 **Modifier**: sitable
 
-Icelandic sitja undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Icelandic sitja /ˈsɪːtja/<br/>
+    <em>Germanic Language Family</em>
+</details>

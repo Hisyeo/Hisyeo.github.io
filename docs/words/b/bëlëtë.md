@@ -10,12 +10,16 @@ hoverText: wall § Noun
 
 *wall* **§** Noun
 
+**IPA**: /ˈbe.le.te/
+
 **Verb**: to be a wall
 
 **Noun**: wall
 
 **Modifier**: wall-related
 
-Romanian perete undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Romanian perete [peˈrete]<br/>
+    <em>Romance Language Family</em>
+</details>

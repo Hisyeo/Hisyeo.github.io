@@ -10,12 +10,16 @@ hoverText: savory § Adjective
 
 *savory* **§** Adjective
 
+**IPA**: /ˈu.mɑ.mi/
+
 **Verb**: to be savory
 
 **Noun**: savoriness
 
 **Modifier**: savory
 
-Japanese 旨味 umami undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 旨味 umami [ɯ̟ᵝma̠mʲi]<br/>
+    <em>Japonic Language Family</em>
+</details>

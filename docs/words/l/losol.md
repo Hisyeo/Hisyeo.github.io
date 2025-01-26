@@ -10,12 +10,16 @@ hoverText: original § Adjective
 
 *original* **§** Adjective
 
+**IPA**: /ˈlɑ.sɑl/
+
 **Verb**: to be original/prototypical
 
 **Noun**: originality/prototypicality
 
 **Modifier**: original/prototypical
 
-Songhay lasal undefined
-
-*Nilo-Saharan Language Family*
+<details>
+    <summary>Origin</summary>
+    Songhay lasal [lasal]<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

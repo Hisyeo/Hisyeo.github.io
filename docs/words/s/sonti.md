@@ -10,12 +10,16 @@ hoverText: calm § Adjective
 
 *calm* **§** Adjective
 
+**IPA**: /ˈsɑn.ti/
+
 **Verb**: to be calm
 
 **Noun**: calmness
 
 **Modifier**: calm
 
-Thai สันติ sǎn-dtì undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai สันติ sǎn-dtì /san˩˩˦.tiʔ˨˩/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: ticket/pass § Noun
 
 *ticket/pass* **§** Noun
 
+**IPA**: /ˈdɑ.in.bi/
+
 **Verb**: to be a ticket/pass
 
 **Noun**: ticket/pass
 
 **Modifier**: ticket/pass-related
 
-Hmong daim pib undefined
-
-*Hmong-Mien Language Family*
+<details>
+    <summary>Origin</summary>
+    Hmong daim pib /daĩ.pi/<br/>
+    <em>Hmong-Mien Language Family</em>
+</details>

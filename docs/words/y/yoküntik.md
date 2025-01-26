@@ -10,12 +10,16 @@ hoverText: prize § Noun
 
 *prize* **§** Noun
 
+**IPA**: /ˈjɑ.kun.tik/
+
 **Verb**: to be a prize/reward
 
 **Noun**: prize/reward
 
 **Modifier**: prize/reward-related
 
-Yucatec yakuntik undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    Yucatec yakuntik /ja.kun.tik/<br/>
+    <em>Mayan Language Family</em>
+</details>

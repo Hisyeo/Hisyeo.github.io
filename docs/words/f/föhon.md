@@ -10,12 +10,16 @@ hoverText: front/forward § Noun
 
 *front/forward* **§** Noun
 
+**IPA**: /ˈfo.hɑn/
+
 **Verb**: to be the front/forward region
 
 **Noun**: front/forward region
 
 **Modifier**: front-related/forward
 
-German voran undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    German voran /foˈʁan/<br/>
+    <em>Germanic Language Family</em>
+</details>

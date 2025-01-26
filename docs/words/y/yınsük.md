@@ -10,12 +10,16 @@ hoverText: serious § Adjective
 
 *serious* **§** Adjective
 
+**IPA**: /ˈjɪn.suk/
+
 **Verb**: to be serious/solemn
 
 **Noun**: seriousness/solemnity
 
 **Modifier**: serious/solemn
 
-Cantonese 嚴肅 jim4 suk1 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 嚴肅 jim4 suk1 [jiːm.sʊk]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

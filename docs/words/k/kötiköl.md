@@ -10,12 +10,16 @@ hoverText: hindering/detrimental § Adjective
 
 *hindering/detrimental* **§** Adjective
 
+**IPA**: /ˈko.ti.kol/
+
 **Verb**: to be hindering/detrimental
 
 **Noun**: hindrance/detrimentality/detriment
 
 **Modifier**: hindering/detrimental
 
-Bengali ক্ষতিকর khotikor undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bengali ক্ষতিকর khotikor [ˈkʰot̪ikɔɾ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

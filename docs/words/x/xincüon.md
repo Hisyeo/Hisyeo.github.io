@@ -10,12 +10,16 @@ hoverText: shape/form § Noun
 
 *shape/form* **§** Noun
 
+**IPA**: /ˈʃin.t͡ɕu.ɑn/
+
 **Verb**: to be a shape/form
 
 **Noun**: shape/form
 
 **Modifier**: shape/form-related
 
-Mandarin 形狀 xíngzhuàng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 形狀 xíngzhuàng /ɕiŋʈ͡ʂu̯ɑŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

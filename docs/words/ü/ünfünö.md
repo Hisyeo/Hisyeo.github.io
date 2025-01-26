@@ -10,12 +10,16 @@ hoverText: vegetable § Noun
 
 *vegetable* **§** Noun
 
+**IPA**: /ˈun.fu.no/
+
 **Verb**: to be a vegetable
 
 **Noun**: vegetable
 
 **Modifier**: vegetable-related
 
-Xhosa úḿfûno undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Xhosa úḿfûno [úḿ̩fûːno]<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

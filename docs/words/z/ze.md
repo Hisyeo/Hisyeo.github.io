@@ -10,12 +10,16 @@ hoverText: aggressive/emotional sentence ender § Postposition
 
 *aggressive/emotional sentence ender* **§** Postposition
 
+**IPA**: /ˈd͡ʒɛ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Japanese ぜ ze undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese ぜ ze [d͡ze̞]<br/>
+    <em>Japonic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: laughing § Adjective
 
 *laughing* **§** Adjective
 
+**IPA**: /ˈli.u.le/
+
 **Verb**: to be laughing/mirthed
 
 **Noun**: merriment/mirth
 
 **Modifier**: laughing/mirthed
 
-Catalan, Valencian riure undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan, Valencian riure /ˈriw.ɾe/<br/>
+    <em>Romance Language Family</em>
+</details>

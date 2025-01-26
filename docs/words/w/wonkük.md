@@ -10,12 +10,16 @@ hoverText: curved § Adjective
 
 *curved* **§** Adjective
 
+**IPA**: /ˈwɑn.kuk/
+
 **Verb**: to be curved
 
 **Noun**: curviness
 
 **Modifier**: curved
 
-Cantonese 彎曲 waan kuk undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 彎曲 waan kuk /waːnkʰʊk̚/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

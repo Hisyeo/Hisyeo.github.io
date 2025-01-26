@@ -10,12 +10,16 @@ hoverText: than § Conjunction
 
 *than* **§** Conjunction
 
+**IPA**: /ˈɛn/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Swedish än undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish än /ɛnː/<br/>
+    <em>Germanic Language Family</em>
+</details>

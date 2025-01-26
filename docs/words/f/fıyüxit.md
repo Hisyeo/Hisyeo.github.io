@@ -10,12 +10,16 @@ hoverText: to employ (the employed) § Verb
 
 *to employ (the employed)* **§** Verb
 
+**IPA**: /fɪ.ˈju.ʃit/
+
 **Verb**: to employ/exploit
 
 **Noun**: the employed/exploited
 
 **Modifier**: employable/exploitable
 
-Czech využít undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Czech využít [ˈvɪjuʒiːt]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: victorious § Adjective
 
 *victorious* **§** Adjective
 
+**IPA**: /ˈbi.lus/
+
 **Verb**: to be victorious
 
 **Noun**: victoriousness/victory
 
 **Modifier**: victorious
 
-Persian پیروز piruz undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian پیروز piruz [pʰiː.ɹúːz]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

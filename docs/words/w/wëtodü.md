@@ -10,12 +10,16 @@ hoverText: to hunt/chase (prey/chasee) § Verb
 
 *to hunt/chase (prey/chasee)* **§** Verb
 
+**IPA**: /ˈwe.tɑ.du/
+
 **Verb**: to hunt/chase/pursue
 
 **Noun**: prey/chasee
 
 **Modifier**: huntable/chaseable/pursuable
 
-Telugu వేటాడు vēṭāḍu undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Telugu వేటాడు vēṭāḍu /ʋeːʈaːɖu/<br/>
+    <em>Dravidian Language Family</em>
+</details>

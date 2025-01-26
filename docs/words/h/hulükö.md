@@ -10,12 +10,16 @@ hoverText: lightweight § Adjective
 
 *lightweight* **§** Adjective
 
+**IPA**: /hʌ.ˈlu.ko/
+
 **Verb**: to be light(weight)
 
 **Noun**: lightness (weight-wise)
 
 **Modifier**: light(weight)
 
-Nepali हलुको haluko undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Nepali हलुको haluko [ɦʌluko]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

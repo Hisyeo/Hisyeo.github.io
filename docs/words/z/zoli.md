@@ -10,12 +10,16 @@ hoverText: bush/shrub § Noun
 
 *bush/shrub* **§** Noun
 
+**IPA**: /ˈd͡ʒɑ.li/
+
 **Verb**: to be a bush/shrub
 
 **Noun**: bush/shrub
 
 **Modifier**: bush/shrub-like
 
-Hindi झाड़ी jhāṛī undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi झाड़ी jhāṛī [d͡ʒʱäː.ɽiː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: precise/specific § Adjective
 
 *precise/specific* **§** Adjective
 
+**IPA**: /ˈt͡ɕon.kok/
+
 **Verb**: to be precise/specific
 
 **Noun**: precision/specificity
 
 **Modifier**: precise/specific
 
-Cantonese 準確 zeon2 kok3 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 準確 zeon2 kok3 /tsɵn.kɔːk̚/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

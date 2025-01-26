@@ -10,12 +10,16 @@ hoverText: also § Adjective
 
 *also* **§** Adjective
 
+**IPA**: /ˈu.tɑk/
+
 **Verb**: to be included
 
 **Noun**: inclusion
 
 **Modifier**: also/too/included
 
-Quechua utaq undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Quechua utaq <br/>
+    <em>Quechumaran Language Family</em>
+</details>

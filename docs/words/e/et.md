@@ -10,12 +10,16 @@ hoverText: collapser/amender particle § Particle
 
 *collapser/amender particle* **§** Particle
 
+**IPA**: /ˈɛt/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-- undefined
-
-*Misc Language Family*
+<details>
+    <summary>Origin</summary>
+    - -<br/>
+    <em>Misc Language Family</em>
+</details>

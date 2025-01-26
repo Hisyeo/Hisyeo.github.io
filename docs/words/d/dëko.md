@@ -10,12 +10,16 @@ hoverText: to see (a view) § Verb
 
 *to see (a view)* **§** Verb
 
+**IPA**: /ˈde.kɑ/
+
 **Verb**: to see/look at
 
 **Noun**: a sight/view
 
 **Modifier**: visible
 
-Hindi देखा dekhā (perfective of देखना dekhnā) undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hindi देखा dekhā (perfective of देखना dekhnā) [d̪eːkʰäː]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

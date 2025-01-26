@@ -10,12 +10,16 @@ hoverText: shell § Noun
 
 *shell* **§** Noun
 
+**IPA**: /ˈbe.i.kʌ/
+
 **Verb**: to be a shell
 
 **Noun**: shell
 
 **Modifier**: shell-related
 
-Mandarin 貝殼 bèiké undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 貝殼 bèiké /pei̯4 kʰɤ2/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

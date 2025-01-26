@@ -10,12 +10,16 @@ hoverText: key § Noun
 
 *key* **§** Noun
 
+**IPA**: /ˈno.i.lʌ/
+
 **Verb**: to be a key
 
 **Noun**: key
 
 **Modifier**: key-related
 
-Danish nøgle undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Danish nøgle [ˈnɒ̽jlə]<br/>
+    <em>Germanic Language Family</em>
+</details>

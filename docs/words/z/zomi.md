@@ -10,12 +10,16 @@ hoverText: society/culture § Noun
 
 *society/culture* **§** Noun
 
+**IPA**: /ˈd͡ʒɑ.mi/
+
 **Verb**: to be a society/culture
 
 **Noun**: society/culture
 
 **Modifier**: society/culture-related
 
-Swahili jamii undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Swahili jamii /dʒɑ'miː/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

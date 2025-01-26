@@ -10,12 +10,16 @@ hoverText: resistant § Adjective
 
 *resistant* **§** Adjective
 
+**IPA**: /ʌ.ˈbol.nɪ/
+
 **Verb**: to be resistant/defiant
 
 **Noun**: resistance/defiance
 
 **Modifier**: resistant/defiant
 
-Polish oporny undefined
-
-*Balto-Slavic Language Family*
+<details>
+    <summary>Origin</summary>
+    Polish oporny /ɔˈpɔr.nɨ/<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

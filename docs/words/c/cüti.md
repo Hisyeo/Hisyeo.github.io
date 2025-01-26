@@ -10,12 +10,16 @@ hoverText: small § Adjective
 
 *small* **§** Adjective
 
+**IPA**: /ˈt͡ɕu.ti/
+
 **Verb**: to be small
 
 **Noun**: smallness
 
 **Modifier**: small
 
-K'iche' ch'uti undefined
-
-*Mayan Language Family*
+<details>
+    <summary>Origin</summary>
+    K'iche' ch'uti [t͡ʃuti]<br/>
+    <em>Mayan Language Family</em>
+</details>

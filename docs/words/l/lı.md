@@ -10,12 +10,16 @@ hoverText: subject complement marker § Preposition
 
 *subject complement marker* **§** Preposition
 
+**IPA**: /ˈlɪ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-- undefined
-
-*Misc Language Family*
+<details>
+    <summary>Origin</summary>
+    - -<br/>
+    <em>Misc Language Family</em>
+</details>

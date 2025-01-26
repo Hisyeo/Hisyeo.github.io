@@ -10,12 +10,16 @@ hoverText: traditional § Adjective
 
 *traditional* **§** Adjective
 
+**IPA**: /ˈdɑn.dʌn/
+
 **Verb**: to be traditional/conventional
 
 **Noun**: traditionality/conventionality
 
 **Modifier**: traditional/conventional
 
-Thai ดั้งเดิม dâng-dəəm undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ดั้งเดิม dâng-dəəm /daŋ˥˩.dɤːm˧/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

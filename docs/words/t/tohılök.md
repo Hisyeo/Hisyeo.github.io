@@ -10,12 +10,16 @@ hoverText: cone § Noun
 
 *cone* **§** Noun
 
+**IPA**: /ˈtɑ.hɪ.lok/
+
 **Verb**: to be a cone
 
 **Noun**: cone
 
 **Modifier**: cone-related
 
-Tagalog tagilog undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Tagalog tagilog [tɐ.ɣɪˈloɡ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

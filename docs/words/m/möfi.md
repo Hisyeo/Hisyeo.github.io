@@ -10,12 +10,16 @@ hoverText: brave/courageous § Adjective
 
 *brave/courageous* **§** Adjective
 
+**IPA**: /ˈmo.fi/
+
 **Verb**: to be brave/courageous
 
 **Noun**: bravery/courageousness
 
 **Modifier**: brave/courageous
 
-Danish modig undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Danish modig [ˈmoːði]<br/>
+    <em>Germanic Language Family</em>
+</details>

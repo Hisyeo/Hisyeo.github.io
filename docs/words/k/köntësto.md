@@ -10,12 +10,16 @@ hoverText: to contend with (a contestant) § Verb
 
 *to contend with (a contestant)* **§** Verb
 
+**IPA**: /ˈkon.tes.tɑ/
+
 **Verb**: to contend/contest/oppose
 
 **Noun**: contestant/opponent
 
 **Modifier**: contendable/contestable/opposable
 
-Portuguese contestar undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Portuguese contestar [kõ.tesˈta(h)]<br/>
+    <em>Romance Language Family</em>
+</details>

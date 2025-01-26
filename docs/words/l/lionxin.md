@@ -10,12 +10,16 @@ hoverText: conscientious § Adjective
 
 *conscientious* **§** Adjective
 
+**IPA**: /ˈli.ɑn.ʃin/
+
 **Verb**: to be conscientious
 
 **Noun**: conscience
 
 **Modifier**: conscientious
 
-Mandarin 良心 liángxīn undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 良心 liángxīn /ljaŋ.ɕin/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

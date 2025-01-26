@@ -10,12 +10,16 @@ hoverText: string § Noun
 
 *string* **§** Noun
 
+**IPA**: /ˈdɑ.i/
+
 **Verb**: to be a string/thread/cord/yarn
 
 **Noun**: string/thread/cord/yarn
 
 **Modifier**: a string/thread/cord/yarn-related
 
-Thai ด้าย dâai undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Thai ด้าย dâai /daːj˥˩/<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

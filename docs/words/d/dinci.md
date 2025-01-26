@@ -10,12 +10,16 @@ hoverText: block § Noun
 
 *block* **§** Noun
 
+**IPA**: /ˈdin.t͡ɕi/
+
 **Verb**: to be a block/brick
 
 **Noun**: block/brick
 
 **Modifier**: block/brick-related
 
-Lao ດິນຈີ່ din chī undefined
-
-*Kra-Dai Language Family*
+<details>
+    <summary>Origin</summary>
+    Lao ດິນຈີ່ din chī [din˩(˧).t͡ɕiː˧]<br/>
+    <em>Kra-Dai Language Family</em>
+</details>

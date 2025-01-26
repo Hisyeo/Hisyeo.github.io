@@ -10,12 +10,16 @@ hoverText: they/them § Pronoun
 
 *they/them* **§** Pronoun
 
+**IPA**: /ˈni.un/
+
 **Verb**: to be them
 
 **Noun**: they/them
 
 **Modifier**: their
 
-Wolof ñoom undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Wolof ñoom /ɲɔːm/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

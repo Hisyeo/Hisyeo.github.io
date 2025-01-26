@@ -10,12 +10,16 @@ hoverText: and § Conjunction
 
 *and* **§** Conjunction
 
+**IPA**: /ˈun/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Malayalam ഉം uṁ undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malayalam ഉം uṁ /um/<br/>
+    <em>Dravidian Language Family</em>
+</details>

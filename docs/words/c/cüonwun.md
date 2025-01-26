@@ -10,12 +10,16 @@ hoverText: rumor § Noun
 
 *rumor* **§** Noun
 
+**IPA**: /ˈt͡ɕu.ɑn.wʌn/
+
 **Verb**: to be a rumor
 
 **Noun**: rumor/hearsay
 
 **Modifier**: rumor-related
 
-Mandarin 傳聞 chuánwén undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 傳聞 chuánwén [ʈʂʰwanwən]<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

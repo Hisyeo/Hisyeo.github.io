@@ -10,12 +10,16 @@ hoverText: to plead (a plea) § Verb
 
 *to plead (a plea)* **§** Verb
 
+**IPA**: /ˈhɑ.fɑ/
+
 **Verb**: to urge/plead/beg/implore
 
 **Noun**: plea/prayer/appeal
 
 **Modifier**: urgable/pleadable/begable/implorable
 
-Arabic حث ḥaṯṯa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic حث ḥaṯṯa /ħaθ.θa/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

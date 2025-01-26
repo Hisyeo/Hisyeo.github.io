@@ -10,12 +10,16 @@ hoverText: beam/joist/stud § Noun
 
 *beam/joist/stud* **§** Noun
 
+**IPA**: /ˈhɑ.ʃɑ.be/
+
 **Verb**: to be a beam/joist/stud
 
 **Noun**: beam/joist/stud
 
 **Modifier**: beam/joist/stud-related
 
-Arabic خشبة ḵašabe undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic خشبة ḵašabe /xa.ʃa.be/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: we/us § Pronoun
 
 *we/us* **§** Pronoun
 
+**IPA**: /ˈnu/
+
 **Verb**: to be us
 
 **Noun**: we
 
 **Modifier**: our
 
-French nous undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    French nous /nu/<br/>
+    <em>Romance Language Family</em>
+</details>

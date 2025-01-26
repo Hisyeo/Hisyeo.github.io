@@ -10,12 +10,16 @@ hoverText: caniform § Noun
 
 *caniform* **§** Noun
 
+**IPA**: /ˈd͡ʒɑ.wɑ/
+
 **Verb**: to be a caniform
 
 **Noun**: caniform
 
 **Modifier**: caniform-related
 
-Guaraní jagua undefined
-
-*Tupian Language Family*
+<details>
+    <summary>Origin</summary>
+    Guaraní jagua /d͡ʒaˈɰʷa/<br/>
+    <em>Tupian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: awesome § Adjective
 
 *awesome* **§** Adjective
 
+**IPA**: /ˈku.d͡ʒɑ.u/
+
 **Verb**: to be awesome/amazing
 
 **Noun**: awe/amazingness
 
 **Modifier**: awesome/amazing
 
-Cebuano kuyaw undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Cebuano kuyaw ['kuː.d͡ʒaʊ̯]<br/>
+    <em>Austronesian Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: easy § Adjective
 
 *easy* **§** Adjective
 
+**IPA**: /ˈɑ.bʌn.jʌn/
+
 **Verb**: to be easy/simple
 
 **Noun**: easiness/simplicity
 
 **Modifier**: easy/simple
 
-Sora apəŋjəŋ undefined
-
-*Austro-Asiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Sora apəŋjəŋ [apəŋjəŋ]<br/>
+    <em>Austro-Asiatic Language Family</em>
+</details>

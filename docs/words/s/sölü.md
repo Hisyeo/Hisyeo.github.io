@@ -10,12 +10,16 @@ hoverText: to ask (a question) § Verb
 
 *to ask (a question)* **§** Verb
 
+**IPA**: /ˈso.lu/
+
 **Verb**: to ask
 
 **Noun**: a question/query
 
 **Modifier**: askable
 
-Turkish soru undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish soru /ˈsɔː.ru/<br/>
+    <em>Turkic Language Family</em>
+</details>

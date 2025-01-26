@@ -10,12 +10,16 @@ hoverText: evidence marker (or so) § Preposition
 
 *evidence marker (or so)* **§** Preposition
 
+**IPA**: /ˈɑl.dɪs/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Dutch aldus undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Dutch aldus /ɑlˈdʏs/<br/>
+    <em>Germanic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: 00 zero § Numeral
 
 *00 zero* **§** Numeral
 
+**IPA**: /ˈʃun.jʌ/
+
 **Verb**: to be zero
 
 **Noun**: zero
 
 **Modifier**: zeroth
 
-Sanskrit शून्य śūnyá undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Sanskrit शून्य śūnyá /ɕuːn.jɐ/<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

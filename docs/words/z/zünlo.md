@@ -10,12 +10,16 @@ hoverText: series/sentence § Noun
 
 *series/sentence* **§** Noun
 
+**IPA**: /ˈd͡ʒun.lɑ/
+
 **Verb**: to be a series/sentence
 
 **Noun**: series/sentence
 
 **Modifier**: series/sentence-related
 
-Arabic جُمْلَة jumla undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic جُمْلَة jumla /d͡ʒum.la/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

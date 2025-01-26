@@ -10,12 +10,16 @@ hoverText: sharp § Adjective
 
 *sharp* **§** Adjective
 
+**IPA**: /ˈkes.kin/
+
 **Verb**: to be sharp
 
 **Noun**: sharpness
 
 **Modifier**: sharp
 
-Turkish keskin undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish keskin /ces.cin/<br/>
+    <em>Turkic Language Family</em>
+</details>

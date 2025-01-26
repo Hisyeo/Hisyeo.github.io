@@ -10,12 +10,16 @@ hoverText: context marker (as for/given) § Preposition
 
 *context marker (as for/given)* **§** Preposition
 
+**IPA**: /ˈhon/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-- undefined
-
-*Misc Language Family*
+<details>
+    <summary>Origin</summary>
+    - -<br/>
+    <em>Misc Language Family</em>
+</details>

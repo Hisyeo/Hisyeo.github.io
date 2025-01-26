@@ -10,12 +10,16 @@ hoverText: interrogative sentence ender (yes?) § Postposition
 
 *interrogative sentence ender (yes?)* **§** Postposition
 
+**IPA**: /ˈkɑ/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Japanese か ka undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese か ka [ka̠]<br/>
+    <em>Japonic Language Family</em>
+</details>

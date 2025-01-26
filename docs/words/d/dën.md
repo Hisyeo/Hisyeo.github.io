@@ -10,12 +10,16 @@ hoverText: counter-agent marker (against) § Preposition
 
 *counter-agent marker (against)* **§** Preposition
 
+**IPA**: /ˈden/
+
 **Verb**: -
 
 **Noun**: -
 
 **Modifier**: -
 
-Armenian դեմ dem undefined
-
-*Armenian Language Family*
+<details>
+    <summary>Origin</summary>
+    Armenian դեմ dem [dem]<br/>
+    <em>Armenian Language Family</em>
+</details>

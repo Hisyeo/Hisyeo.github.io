@@ -10,12 +10,16 @@ hoverText: to approve [of] (the approved) § Verb
 
 *to approve [of] (the approved)* **§** Verb
 
+**IPA**: /ˈwɑ.fɑk/
+
 **Verb**: to approve/agree
 
 **Noun**: an approved/agreed thing
 
 **Modifier**: approvable/aggreeable
 
-Hijazi وافَق wāfag undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hijazi وافَق wāfag /waː.faɡ/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

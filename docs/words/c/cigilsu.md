@@ -10,12 +10,16 @@ hoverText: treatment (medical) § Noun
 
 *treatment (medical)* **§** Noun
 
+**IPA**: /ˈt͡ɕi.gil.sʌ/
+
 **Verb**: to be a treatment
 
 **Noun**: treatment
 
 **Modifier**: treatment-related
 
-Malayalam ചികിത്സ cikitsa undefined
-
-*Dravidian Language Family*
+<details>
+    <summary>Origin</summary>
+    Malayalam ചികിത്സ cikitsa [t͡ʃiɡilsɐ]<br/>
+    <em>Dravidian Language Family</em>
+</details>

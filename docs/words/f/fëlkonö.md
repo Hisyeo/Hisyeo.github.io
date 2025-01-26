@@ -10,12 +10,16 @@ hoverText: close § Adjective
 
 *close* **§** Adjective
 
+**IPA**: /ˈfel.kɑ.no/
+
 **Verb**: to be close
 
 **Noun**: closeness
 
 **Modifier**: close
 
-Spanish cercano undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Spanish cercano [θeɾˈka.no]<br/>
+    <em>Romance Language Family</em>
+</details>

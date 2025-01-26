@@ -10,12 +10,16 @@ hoverText: day § Noun
 
 *day* **§** Noun
 
+**IPA**: /ˈlɑ.nɑ/
+
 **Verb**: to be a day
 
 **Noun**: day
 
 **Modifier**: day-related
 
-Hausa rānā undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Hausa rānā /ɽáː.náː/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

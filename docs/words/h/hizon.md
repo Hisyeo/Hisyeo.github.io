@@ -10,12 +10,16 @@ hoverText: excited § Adjective
 
 *excited* **§** Adjective
 
+**IPA**: /ˈhi.d͡ʒɑn/
+
 **Verb**: to be excited
 
 **Noun**: excitement
 
 **Modifier**: excited
 
-Persian هیجان hayajân  undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian هیجان hayajân  [hiːˈdʒɒːn]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

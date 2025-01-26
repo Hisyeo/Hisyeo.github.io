@@ -10,12 +10,16 @@ hoverText: supine § Adjective
 
 *supine* **§** Adjective
 
+**IPA**: /tɪ.ˈgɑ.jɑ/
+
 **Verb**: to be supine/reclined
 
 **Noun**: supineness/reclined-ness
 
 **Modifier**: supine/reclined
 
-Bikol, Central tigayà undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Bikol, Central tigayà [tiˈɡa.jaʔ]<br/>
+    <em>Austronesian Language Family</em>
+</details>

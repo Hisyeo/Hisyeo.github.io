@@ -10,12 +10,16 @@ hoverText: unsure § Adjective
 
 *unsure* **§** Adjective
 
+**IPA**: /bɛ.ˈli.sis/
+
 **Verb**: to be unsure/uncertain
 
 **Noun**: unsureness/uncertainty
 
 **Modifier**: unsure/uncertain
 
-Turkish bellisiz undefined
-
-*Turkic Language Family*
+<details>
+    <summary>Origin</summary>
+    Turkish bellisiz /bɛl.li'siz/<br/>
+    <em>Turkic Language Family</em>
+</details>

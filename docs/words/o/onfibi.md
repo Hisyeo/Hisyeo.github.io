@@ -10,12 +10,16 @@ hoverText: amphibian § Noun
 
 *amphibian* **§** Noun
 
+**IPA**: /ˈɑn.fi.bi/
+
 **Verb**: to be an amphibian
 
 **Noun**: amphibian
 
 **Modifier**: amphibian-related
 
-Catalan amfibi undefined
-
-*Romance Language Family*
+<details>
+    <summary>Origin</summary>
+    Catalan amfibi /amˈfi.bi/<br/>
+    <em>Romance Language Family</em>
+</details>

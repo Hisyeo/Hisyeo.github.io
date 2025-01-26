@@ -10,12 +10,16 @@ hoverText: to examine [for] (an examination) § Verb
 
 *to examine [for] (an examination)* **§** Verb
 
+**IPA**: /ˈfɑ.hɑ.sɑ/
+
 **Verb**: to examine/investigate
 
 **Noun**: an examination
 
 **Modifier**: examinable/investigatable
 
-Arabic فَحَصَ faḥaṣa undefined
-
-*Afroasiatic Language Family*
+<details>
+    <summary>Origin</summary>
+    Arabic فَحَصَ faḥaṣa /fa.ħa.sˤa/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

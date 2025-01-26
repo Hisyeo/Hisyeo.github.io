@@ -10,12 +10,16 @@ hoverText: tongue § Noun
 
 *tongue* **§** Noun
 
+**IPA**: /ˈd͡ʒu.hʌ/
+
 **Verb**: to be a tongue
 
 **Noun**: tongue
 
 **Modifier**: tongue-related
 
-Albanian gjuhë undefined
-
-*Albanian Language Family*
+<details>
+    <summary>Origin</summary>
+    Albanian gjuhë /ˈɟuhə/<br/>
+    <em>Albanian Language Family</em>
+</details>

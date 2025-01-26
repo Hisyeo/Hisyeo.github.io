@@ -10,12 +10,16 @@ hoverText: flag § Noun
 
 *flag* **§** Noun
 
+**IPA**: /ˈwi.bɑ.lɑ/
+
 **Verb**: to be a flag/banner
 
 **Noun**: flag/banner
 
 **Modifier**: flag/banner-related
 
-Aymara wiphala undefined
-
-*Quechumaran Language Family*
+<details>
+    <summary>Origin</summary>
+    Aymara wiphala [wipʰala]<br/>
+    <em>Quechumaran Language Family</em>
+</details>

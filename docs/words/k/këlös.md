@@ -10,12 +10,16 @@ hoverText: weather § Noun
 
 *weather* **§** Noun
 
+**IPA**: /ˈke.los/
+
 **Verb**: to be the weather
 
 **Noun**: weather
 
 **Modifier**: weather-related
 
-Greek καιρός • (kairós undefined
-
-*Hellenic Language Family*
+<details>
+    <summary>Origin</summary>
+    Greek καιρός • (kairós /ceˈɾos/<br/>
+    <em>Hellenic Language Family</em>
+</details>

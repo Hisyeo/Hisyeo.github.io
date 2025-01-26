@@ -10,12 +10,16 @@ hoverText: rodent § Noun
 
 *rodent* **§** Noun
 
+**IPA**: /ˈt͡ɕu.i/
+
 **Verb**: to be a mouse/rat/rodent
 
 **Noun**: mouse/rat/rodent
 
 **Modifier**: mouse/rat/rodent-related
 
-Korean 쥐 jwi undefined
-
-*Koreic Language Family*
+<details>
+    <summary>Origin</summary>
+    Korean 쥐 jwi [t͡ɕɥi]<br/>
+    <em>Koreic Language Family</em>
+</details>

@@ -10,12 +10,16 @@ hoverText: lawn/meadow § Noun
 
 *lawn/meadow* **§** Noun
 
+**IPA**: /ˈt͡ɕɑ.mɛn/
+
 **Verb**: to be a lawn/meadow
 
 **Noun**: lawn/meadow
 
 **Modifier**: lawn/meadow-related
 
-Persian چمن čaman undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian چمن čaman [t͡ʃʰä.mǽn]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

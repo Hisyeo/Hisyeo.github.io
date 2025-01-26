@@ -10,12 +10,16 @@ hoverText: guts § Noun
 
 *guts* **§** Noun
 
+**IPA**: /ˈʃɑ.fo/
+
 **Verb**: to be guts/entrails/viscera
 
 **Noun**: guts/entrails/viscera
 
 **Modifier**: guts/entrails/viscera
 
-Otomian xafo undefined
-
-*Oto-Manguean Language Family*
+<details>
+    <summary>Origin</summary>
+    Otomian xafo [ʃaɸo]<br/>
+    <em>Oto-Manguean Language Family</em>
+</details>

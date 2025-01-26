@@ -10,12 +10,16 @@ hoverText: to announce (an announcement) § Verb
 
 *to announce (an announcement)* **§** Verb
 
+**IPA**: /ˈhɑ.bi.jo/
+
 **Verb**: to announce
 
 **Noun**: an announcement/decleration
 
 **Modifier**: announcable
 
-Japanese 発表 happyō undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese 発表 happyō [ha̠p̚ʲpʲo̞ː]<br/>
+    <em>Japonic Language Family</em>
+</details>

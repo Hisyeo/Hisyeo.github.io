@@ -10,12 +10,16 @@ hoverText: modifier (adjective) § Noun
 
 *modifier (adjective)* **§** Noun
 
+**IPA**: /jɪn.ˈjun.t͡ɕi/
+
 **Verb**: to be a modifier
 
 **Noun**: modifier
 
 **Modifier**: modifier-related
 
-Cantonese 形容詞 jing4 jung4 ci4 undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Cantonese 形容詞 jing4 jung4 ci4 /jɪŋ.jʊŋ.tsʰiː/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

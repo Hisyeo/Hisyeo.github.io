@@ -10,12 +10,16 @@ hoverText: light § Noun
 
 *light* **§** Noun
 
+**IPA**: /ˈku.ɑn/
+
 **Verb**: to be light
 
 **Noun**: light
 
 **Modifier**: light-related
 
-Mandarin 光 guāng undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 光 guāng /ku̯ɑŋ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

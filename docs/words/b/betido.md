@@ -10,12 +10,16 @@ hoverText: to mean (a meaning) § Verb
 
 *to mean (a meaning)* **§** Verb
 
+**IPA**: /bɛ.ˈti.dɑ/
+
 **Verb**: to mean/convey
 
 **Noun**: a meaning
 
 **Modifier**: conveyable/meaning-like
 
-Swedish betyda undefined
-
-*Germanic Language Family*
+<details>
+    <summary>Origin</summary>
+    Swedish betyda /bɛ¹tyːda/<br/>
+    <em>Germanic Language Family</em>
+</details>

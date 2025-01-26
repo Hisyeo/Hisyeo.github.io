@@ -10,12 +10,16 @@ hoverText: building § Noun
 
 *building* **§** Noun
 
+**IPA**: /ˈi.le/
+
 **Verb**: to be a building
 
 **Noun**: building
 
 **Modifier**: building-related
 
-Yoruba ilé  undefined
-
-*Niger-Congo Language Family*
+<details>
+    <summary>Origin</summary>
+    Yoruba ilé  <br/>
+    <em>Niger-Congo Language Family</em>
+</details>

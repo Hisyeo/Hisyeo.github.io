@@ -10,12 +10,16 @@ hoverText: functional § Adjective
 
 *functional* **§** Adjective
 
+**IPA**: /ˈki.no.ʃi/
+
 **Verb**: to be functional
 
 **Noun**: functionality
 
 **Modifier**: functional
 
-Japanese きのうし kinō shi undefined
-
-*Japonic Language Family*
+<details>
+    <summary>Origin</summary>
+    Japanese きのうし kinō shi [kinoːɕi]<br/>
+    <em>Japonic Language Family</em>
+</details>

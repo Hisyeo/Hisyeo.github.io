@@ -10,12 +10,16 @@ hoverText: 03 three § Numeral
 
 *03 three* **§** Numeral
 
+**IPA**: /ˈsɑn/
+
 **Verb**: to be three
 
 **Noun**: three
 
 **Modifier**: third
 
-Mandarin 三 sān undefined
-
-*Sino-Tibetan Language Family*
+<details>
+    <summary>Origin</summary>
+    Mandarin 三 sān /sän/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

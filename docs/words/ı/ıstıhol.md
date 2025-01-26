@@ -10,12 +10,16 @@ hoverText: honor/glory § Noun
 
 *honor/glory* **§** Noun
 
+**IPA**: /ˈɪs.tɪ.hɑl/
+
 **Verb**: to be honor/glory
 
 **Noun**: honor/glory
 
 **Modifier**: honor/glory-related
 
-Persian, Dari افتخار eftexâr undefined
-
-*Indo-Iranian Language Family*
+<details>
+    <summary>Origin</summary>
+    Persian, Dari افتخار eftexâr [ʔɪf.t̪ʰɪ.xɑ́ːɾ]<br/>
+    <em>Indo-Iranian Language Family</em>
+</details>

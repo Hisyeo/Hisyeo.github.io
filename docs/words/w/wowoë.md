@@ -10,12 +10,16 @@ hoverText: foot § Noun
 
 *foot* **§** Noun
 
+**IPA**: /ˈwɑ.wɑ.e/
+
 **Verb**: to be a foot
 
 **Noun**: foot
 
 **Modifier**: foot-related
 
-Hawaiian wāwae undefined
-
-*Austronesian Language Family*
+<details>
+    <summary>Origin</summary>
+    Hawaiian wāwae /wā.wae/<br/>
+    <em>Austronesian Language Family</em>
+</details>

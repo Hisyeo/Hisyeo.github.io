@@ -10,12 +10,16 @@ hoverText: wheel § Noun
 
 *wheel* **§** Noun
 
+**IPA**: /ˈkul.du/
+
 **Verb**: to be a wheel
 
 **Noun**: wheel
 
 **Modifier**: wheel-related
 
-Mongolian ᠬᠦᠷᠳᠦ kürdü undefined
-
-*Mongolic Language Family*
+<details>
+    <summary>Origin</summary>
+    Mongolian ᠬᠦᠷᠳᠦ kürdü <br/>
+    <em>Mongolic Language Family</em>
+</details>

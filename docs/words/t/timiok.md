@@ -10,12 +10,16 @@ hoverText: bird § Noun
 
 *bird* **§** Noun
 
+**IPA**: /ˈti.mi.ɑk/
+
 **Verb**: to be a bird
 
 **Noun**: bird
 
 **Modifier**: bird-related
 
-Greenlandic timmiaq undefined
-
-*Eskaleut Language Family*
+<details>
+    <summary>Origin</summary>
+    Greenlandic timmiaq /timjaq/<br/>
+    <em>Eskaleut Language Family</em>
+</details>
