@@ -2,6 +2,7 @@
   "label": "Works",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Translation projects in Hisyëö."
   }
 }
