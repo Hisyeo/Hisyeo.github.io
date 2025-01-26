@@ -3,7 +3,8 @@ id: höktun
 slug: höktun
 title: HÖKTUN
 sidebar_position: 128
-hoverText: mammal § Noun
+tags: [höktun, Noun, Mongolic]
+description: mammal § Noun
 ---
 
 ### höktun&emsp;<span kind="abugida">ɂ̑ıc̃ʃ</span>

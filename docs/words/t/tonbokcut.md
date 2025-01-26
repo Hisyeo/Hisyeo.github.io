@@ -3,7 +3,8 @@ id: tonbokcut
 slug: tonbokcut
 title: TONBOKCUT
 sidebar_position: 273
-hoverText: protein § Noun
+tags: [tonbokcut, Noun, Sino-Tibetan]
+description: protein § Noun
 ---
 
 ### tonbokcut&emsp;<span kind="abugida">c̃ʋ̑ꞇ̆ʃ</span>

@@ -3,7 +3,8 @@ id: nëxödi
 slug: nëxödi
 title: NËXÖDİ
 sidebar_position: 731
-hoverText: ethnic § Adjective
+tags: [nëxödi, Adjective, Indo-Iranian]
+description: ethnic § Adjective
 ---
 
 ### nëxödi&emsp;<span kind="abugida">ƨʇɋıʌɟ</span>

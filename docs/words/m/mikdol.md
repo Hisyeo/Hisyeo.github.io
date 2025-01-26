@@ -3,7 +3,8 @@ id: mikdol
 slug: mikdol
 title: MİKDOL
 sidebar_position: 689
-hoverText: amount § Noun
+tags: [mikdol, Noun, Afroasiatic]
+description: amount § Noun
 ---
 
 ### mikdol&emsp;<span kind="abugida">ƶ̑ɟʌ͊</span>

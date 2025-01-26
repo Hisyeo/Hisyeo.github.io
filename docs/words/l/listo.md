@@ -3,7 +3,8 @@ id: listo
 slug: listo
 title: LİSTO
 sidebar_position: 819
-hoverText: strip/band § Noun
+tags: [listo, Noun, Romance]
+description: strip/band § Noun
 ---
 
 ### listo&emsp;<span kind="abugida">ʓ́ɟc</span>

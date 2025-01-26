@@ -3,7 +3,8 @@ id: dinzoü
 slug: dinzoü
 title: DİNZOÜ
 sidebar_position: 488
-hoverText: lip/rim/edge § Noun
+tags: [dinzoü, Noun, Hmong-Mien]
+description: lip/rim/edge § Noun
 ---
 
 ### dinzoü&emsp;<span kind="abugida">ʌ̃ɟⱴɽʄ</span>

@@ -3,7 +3,8 @@ id: küyö
 slug: küyö
 title: KÜYÖ
 sidebar_position: 229
-hoverText: sad § Adjective
+tags: [küyö, Adjective, Nilo-Saharan]
+description: sad § Adjective
 ---
 
 ### küyö&emsp;<span kind="abugida">ɔʄɀı</span>

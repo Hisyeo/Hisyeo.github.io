@@ -3,7 +3,8 @@ id: ibüwë
 slug: ibüwë
 title: İBÜWË
 sidebar_position: 78
-hoverText: stone § Noun
+tags: [ibüwë, Noun, Niger-Congo]
+description: stone § Noun
 ---
 
 ### ibüwë&emsp;<span kind="abugida">ɽɟʋʄʒʇ</span>

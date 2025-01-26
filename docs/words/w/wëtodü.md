@@ -3,7 +3,8 @@ id: wëtodü
 slug: wëtodü
 title: WËTODÜ
 sidebar_position: 771
-hoverText: to hunt/chase (prey/chasee) § Verb
+tags: [wëtodü, Verb, Dravidian]
+description: to hunt/chase (prey/chasee) § Verb
 ---
 
 ### wëtodü&emsp;<span kind="abugida">ʒʇcʌʄ</span>

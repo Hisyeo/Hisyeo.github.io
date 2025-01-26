@@ -3,7 +3,8 @@ id: küöxı
 slug: küöxı
 title: KÜÖXI
 sidebar_position: 216
-hoverText: fruit § Noun
+tags: [küöxı, Noun, Sino-Tibetan]
+description: fruit § Noun
 ---
 
 ### küöxı&emsp;<span kind="abugida">ɔʄɽıɋȷ</span>

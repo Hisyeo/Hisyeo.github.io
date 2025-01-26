@@ -3,7 +3,8 @@ id: köxentë
 slug: köxentë
 title: KÖXENTË
 sidebar_position: 180
-hoverText: conscious § Adjective
+tags: [köxentë, Adjective, Romance]
+description: conscious § Adjective
 ---
 
 ### köxentë&emsp;<span kind="abugida">ɔıɋ̃ɿcʇ</span>

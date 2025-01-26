@@ -3,7 +3,8 @@ id: dohil
 slug: dohil
 title: DOHİL
 sidebar_position: 466
-hoverText: shallow § Adjective
+tags: [dohil, Adjective, Afroasiatic]
+description: shallow § Adjective
 ---
 
 ### dohil&emsp;<span kind="abugida">ʌɂ͊ɟ</span>

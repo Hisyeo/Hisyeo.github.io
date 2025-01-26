@@ -3,7 +3,8 @@ id: cömël
 slug: cömël
 title: CÖMËL
 sidebar_position: 319
-hoverText: cute § Adjective
+tags: [cömël, Adjective, Austronesian]
+description: cute § Adjective
 ---
 
 ### cömël&emsp;<span kind="abugida">ꞇıƶ͊ʇ</span>

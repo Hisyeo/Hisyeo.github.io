@@ -3,7 +3,8 @@ id: biömu
 slug: biömu
 title: BİÖMU
 sidebar_position: 583
-hoverText: biome § Noun
+tags: [biömu, Noun, Romance]
+description: biome § Noun
 ---
 
 ### biömu&emsp;<span kind="abugida">ʋɟɽıƶʃ</span>

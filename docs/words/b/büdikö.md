@@ -3,7 +3,8 @@ id: büdikö
 slug: büdikö
 title: BÜDİKÖ
 sidebar_position: 608
-hoverText: modest/chaste § Adjective
+tags: [büdikö, Adjective, Romance]
+description: modest/chaste § Adjective
 ---
 
 ### büdikö&emsp;<span kind="abugida">ʋʄʌɟɔı</span>

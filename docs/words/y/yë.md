@@ -3,7 +3,8 @@ id: yë
 slug: yë
 title: YË
 sidebar_position: 849
-hoverText: genitive marker (of) § Preposition
+tags: [yë, Preposition, Indo-Iranian]
+description: genitive marker (of) § Preposition
 ---
 
 ### yë&emsp;<span kind="abugida">ɀʇ</span>

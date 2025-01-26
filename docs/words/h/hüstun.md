@@ -3,7 +3,8 @@ id: hüstun
 slug: hüstun
 title: HÜSTUN
 sidebar_position: 153
-hoverText: cough § Noun
+tags: [hüstun, Noun, Germanic]
+description: cough § Noun
 ---
 
 ### hüstun&emsp;<span kind="abugida">ɂ́ʄc̃ʃ</span>

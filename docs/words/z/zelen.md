@@ -3,7 +3,8 @@ id: zelen
 slug: zelen
 title: ZELEN
 sidebar_position: 520
-hoverText: upcoming § Adjective
+tags: [zelen, Adjective, Turkic]
+description: upcoming § Adjective
 ---
 
 ### zelen&emsp;<span kind="abugida">ⱴɿʓ̃ɿ</span>

@@ -3,7 +3,8 @@ id: oboki
 slug: oboki
 title: OBOKİ
 sidebar_position: 16
-hoverText: glass § Noun
+tags: [oboki, Noun, Armenian]
+description: glass § Noun
 ---
 
 ### oboki&emsp;<span kind="abugida">ɽʋɔɟ</span>

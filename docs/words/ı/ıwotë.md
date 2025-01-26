@@ -3,7 +3,8 @@ id: ıwotë
 slug: ıwotë
 title: IWOTË
 sidebar_position: 68
-hoverText: tall § Adjective
+tags: [ıwotë, Adjective, Tupian]
+description: tall § Adjective
 ---
 
 ### ıwotë&emsp;<span kind="abugida">ɽȷʒcʇ</span>

@@ -3,7 +3,8 @@ id: fütsün
 slug: fütsün
 title: FÜTSÜN
 sidebar_position: 650
-hoverText: to obey (a rule) § Verb
+tags: [fütsün, Verb, Sino-Tibetan]
+description: to obey (a rule) § Verb
 ---
 
 ### fütsün&emsp;<span kind="abugida">ɤ̆ʄɐ̃ʄ</span>

@@ -3,7 +3,8 @@ id: gos
 slug: gos
 title: GOS
 sidebar_position: 230
-hoverText: plant § Noun
+tags: [gos, Noun, Indo-Iranian]
+description: plant § Noun
 ---
 
 ### gos&emsp;<span kind="abugida">ꜿ́</span>

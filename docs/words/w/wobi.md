@@ -3,7 +3,8 @@ id: wobi
 slug: wobi
 title: WOBİ
 sidebar_position: 759
-hoverText: island § Noun
+tags: [wobi, Noun, Araucanian]
+description: island § Noun
 ---
 
 ### wobi&emsp;<span kind="abugida">ʒʋɟ</span>

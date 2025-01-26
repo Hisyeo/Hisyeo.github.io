@@ -3,7 +3,8 @@ id: tündü
 slug: tündü
 title: TÜNDÜ
 sidebar_position: 303
-hoverText: bottom § Noun
+tags: [tündü, Noun, Nilo-Saharan]
+description: bottom § Noun
 ---
 
 ### tündü&emsp;<span kind="abugida">c̃ʄʌʄ</span>

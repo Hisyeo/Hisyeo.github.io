@@ -3,7 +3,8 @@ id: kiso
 slug: kiso
 title: KİSO
 sidebar_position: 201
-hoverText: to narrate (a story) § Verb
+tags: [kiso, Verb, Afroasiatic]
+description: to narrate (a story) § Verb
 ---
 
 ### kiso&emsp;<span kind="abugida">ɔɟɐ</span>

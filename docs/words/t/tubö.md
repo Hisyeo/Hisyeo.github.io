@@ -3,7 +3,8 @@ id: tubö
 slug: tubö
 title: TUBÖ
 sidebar_position: 297
-hoverText: spot/scar § Noun
+tags: [tubö, Noun, Nilo-Saharan]
+description: spot/scar § Noun
 ---
 
 ### tubö&emsp;<span kind="abugida">cʃʋı</span>

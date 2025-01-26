@@ -3,7 +3,8 @@ id: betido
 slug: betido
 title: BETİDO
 sidebar_position: 567
-hoverText: to mean (a meaning) § Verb
+tags: [betido, Verb, Germanic]
+description: to mean (a meaning) § Verb
 ---
 
 ### betido&emsp;<span kind="abugida">ʋɿcɟʌ</span>

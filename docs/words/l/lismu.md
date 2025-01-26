@@ -3,7 +3,8 @@ id: lismu
 slug: lismu
 title: LİSMU
 sidebar_position: 820
-hoverText: clay § Noun
+tags: [lismu, Noun, Albanian]
+description: clay § Noun
 ---
 
 ### lismu&emsp;<span kind="abugida">ʓ́ɟƶʃ</span>

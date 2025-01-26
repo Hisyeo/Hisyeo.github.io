@@ -3,7 +3,8 @@ id: zuwobü
 slug: zuwobü
 title: ZUWOBÜ
 sidebar_position: 536
-hoverText: to answer [with] (a response) § Verb
+tags: [zuwobü, Verb, Niger-Congo]
+description: to answer [with] (a response) § Verb
 ---
 
 ### zuwobü&emsp;<span kind="abugida">ⱴʃʒʋʄ</span>

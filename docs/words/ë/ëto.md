@@ -3,7 +3,8 @@ id: ëto
 slug: ëto
 title: ËTO
 sidebar_position: 56
-hoverText: many § Determiner
+tags: [ëto, Determiner, Tupian]
+description: many § Determiner
 ---
 
 ### ëto&emsp;<span kind="abugida">ɽʇc</span>

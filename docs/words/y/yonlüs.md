@@ -3,7 +3,8 @@ id: yonlüs
 slug: yonlüs
 title: YONLÜS
 sidebar_position: 841
-hoverText: wrong § Adjective
+tags: [yonlüs, Adjective, Turkic]
+description: wrong § Adjective
 ---
 
 ### yonlüs&emsp;<span kind="abugida">ɀ̃ʓ́ʄ</span>

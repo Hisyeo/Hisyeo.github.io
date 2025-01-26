@@ -3,7 +3,8 @@ id: uskifo
 slug: uskifo
 title: USKİFO
 sidebar_position: 86
-hoverText: to avoid/dodge (evasion/dodge) § Verb
+tags: [uskifo, Verb, Romance]
+description: to avoid/dodge (evasion/dodge) § Verb
 ---
 
 ### uskifo&emsp;<span kind="abugida">ɽ́ʃɔɟɤ</span>

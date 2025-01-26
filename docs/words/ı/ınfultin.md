@@ -3,7 +3,8 @@ id: ınfultin
 slug: ınfultin
 title: INFULTİN
 sidebar_position: 67
-hoverText: rotating/spinning § Adjective
+tags: [ınfultin, Adjective, Romance]
+description: rotating/spinning § Adjective
 ---
 
 ### ınfultin&emsp;<span kind="abugida">ɽ̃ȷɤ͊ʃc̃ɟ</span>

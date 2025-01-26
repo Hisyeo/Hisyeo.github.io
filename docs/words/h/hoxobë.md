@@ -3,7 +3,8 @@ id: hoxobë
 slug: hoxobë
 title: HOXOBË
 sidebar_position: 122
-hoverText: beam/joist/stud § Noun
+tags: [hoxobë, Noun, Afroasiatic]
+description: beam/joist/stud § Noun
 ---
 
 ### hoxobë&emsp;<span kind="abugida">ɂɋʋʇ</span>

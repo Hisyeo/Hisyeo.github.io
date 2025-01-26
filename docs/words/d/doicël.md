@@ -3,7 +3,8 @@ id: doicël
 slug: doicël
 title: DOİCËL
 sidebar_position: 463
-hoverText: to capture/intercept (the captured/intercepted) § Verb
+tags: [doicël, Verb, Kartvelian]
+description: to capture/intercept (the captured/intercepted) § Verb
 ---
 
 ### doicël&emsp;<span kind="abugida">ʌɽɟꞇ͊ʇ</span>

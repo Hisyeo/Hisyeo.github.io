@@ -3,7 +3,8 @@ id: toliko
 slug: toliko
 title: TOLİKO
 sidebar_position: 277
-hoverText: method § Noun
+tags: [toliko, Noun, Afroasiatic]
+description: method § Noun
 ---
 
 ### toliko&emsp;<span kind="abugida">cʓɟɔ</span>

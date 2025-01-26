@@ -3,7 +3,8 @@ id: nodu
 slug: nodu
 title: NODU
 sidebar_position: 716
-hoverText: tone § Noun
+tags: [nodu, Noun, Austronesian]
+description: tone § Noun
 ---
 
 ### nodu&emsp;<span kind="abugida">ƨʌʃ</span>

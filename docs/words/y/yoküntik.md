@@ -3,7 +3,8 @@ id: yoküntik
 slug: yoküntik
 title: YOKÜNTİK
 sidebar_position: 834
-hoverText: prize § Noun
+tags: [yoküntik, Noun, Mayan]
+description: prize § Noun
 ---
 
 ### yoküntik&emsp;<span kind="abugida">ɀɔ̃ʄc̑ɟ</span>

@@ -3,7 +3,8 @@ id: zoli
 slug: zoli
 title: ZOLİ
 sidebar_position: 514
-hoverText: bush/shrub § Noun
+tags: [zoli, Noun, Indo-Iranian]
+description: bush/shrub § Noun
 ---
 
 ### zoli&emsp;<span kind="abugida">ⱴʓɟ</span>

@@ -3,7 +3,8 @@ id: lönkın
 slug: lönkın
 title: LÖNKIN
 sidebar_position: 803
-hoverText: bulb § Noun
+tags: [lönkın, Noun, Sino-Tibetan]
+description: bulb § Noun
 ---
 
 ### lönkın&emsp;<span kind="abugida">ʓ̃ıɔ̃ȷ</span>

@@ -3,7 +3,8 @@ id: onküol
 slug: onküol
 title: ONKÜOL
 sidebar_position: 26
-hoverText: to hug (the hugged) § Verb
+tags: [onküol, Verb, Indo-Iranian]
+description: to hug (the hugged) § Verb
 ---
 
 ### onküol&emsp;<span kind="abugida">ɽ̃ɔʄɽ͊</span>

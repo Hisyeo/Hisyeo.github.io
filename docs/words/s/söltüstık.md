@@ -3,7 +3,8 @@ id: söltüstık
 slug: söltüstık
 title: SÖLTÜSTIK
 sidebar_position: 386
-hoverText: northern § Adjective
+tags: [söltüstık, Adjective, Turkic]
+description: northern § Adjective
 ---
 
 ### söltüstık&emsp;<span kind="abugida">ɐ͊ıćʄc̑ȷ</span>

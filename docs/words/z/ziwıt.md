@@ -3,7 +3,8 @@ id: ziwıt
 slug: ziwıt
 title: ZİWIT
 sidebar_position: 532
-hoverText: alive § Adjective
+tags: [ziwıt, Adjective, Indo-Iranian]
+description: alive § Adjective
 ---
 
 ### ziwıt&emsp;<span kind="abugida">ⱴɟʒ̆ȷ</span>

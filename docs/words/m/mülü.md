@@ -3,7 +3,8 @@ id: mülü
 slug: mülü
 title: MÜLÜ
 sidebar_position: 708
-hoverText: full/complete § Adjective
+tags: [mülü, Adjective, Dravidian]
+description: full/complete § Adjective
 ---
 
 ### mülü&emsp;<span kind="abugida">ƶʄʓʄ</span>

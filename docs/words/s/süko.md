@@ -3,7 +3,8 @@ id: süko
 slug: süko
 title: SÜKO
 sidebar_position: 414
-hoverText: to like (a preference) § Verb
+tags: [süko, Verb, Austronesian]
+description: to like (a preference) § Verb
 ---
 
 ### süko&emsp;<span kind="abugida">ɐʄɔ</span>

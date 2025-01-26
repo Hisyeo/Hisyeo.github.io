@@ -3,7 +3,8 @@ id: füküxı
 slug: füküxı
 title: FÜKÜXI
 sidebar_position: 649
-hoverText: revenge/vengeance § Noun
+tags: [füküxı, Noun, Japonic]
+description: revenge/vengeance § Noun
 ---
 
 ### füküxı&emsp;<span kind="abugida">ɤʄɔʄɋȷ</span>

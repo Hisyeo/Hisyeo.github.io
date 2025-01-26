@@ -3,7 +3,8 @@ id: neigın
 slug: neigın
 title: NEİGIN
 sidebar_position: 725
-hoverText: tendency/inclination § Noun
+tags: [neigın, Noun, Germanic]
+description: tendency/inclination § Noun
 ---
 
 ### neigın&emsp;<span kind="abugida">ƨɿɽɟꜿ̃ȷ</span>

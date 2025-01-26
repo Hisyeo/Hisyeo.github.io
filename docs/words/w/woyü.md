@@ -3,7 +3,8 @@ id: woyü
 slug: woyü
 title: WOYÜ
 sidebar_position: 764
-hoverText: air/wind § Noun
+tags: [woyü, Noun, Indo-Iranian]
+description: air/wind § Noun
 ---
 
 ### woyü&emsp;<span kind="abugida">ʒɀʄ</span>

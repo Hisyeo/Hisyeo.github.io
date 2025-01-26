@@ -3,7 +3,8 @@ id: foüt
 slug: foüt
 title: FOÜT
 sidebar_position: 614
-hoverText: error § Noun
+tags: [foüt, Noun, Germanic]
+description: error § Noun
 ---
 
 ### foüt&emsp;<span kind="abugida">ɤɽ̆ʄ</span>

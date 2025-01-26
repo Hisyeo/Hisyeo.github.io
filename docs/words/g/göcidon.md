@@ -3,7 +3,8 @@ id: göcidon
 slug: göcidon
 title: GÖCİDON
 sidebar_position: 242
-hoverText: to choose (a choice) § Verb
+tags: [göcidon, Verb, Indo-Iranian]
+description: to choose (a choice) § Verb
 ---
 
 ### göcidon&emsp;<span kind="abugida">ꜿıꞇɟʌ̃</span>

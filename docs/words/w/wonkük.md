@@ -3,7 +3,8 @@ id: wonkük
 slug: wonkük
 title: WONKÜK
 sidebar_position: 761
-hoverText: curved § Adjective
+tags: [wonkük, Adjective, Sino-Tibetan]
+description: curved § Adjective
 ---
 
 ### wonkük&emsp;<span kind="abugida">ʒ̃ɔ̑ʄ</span>

@@ -3,7 +3,8 @@ id: xontün
 slug: xontün
 title: XONTÜN
 sidebar_position: 429
-hoverText: to provoke (a provocation) § Verb
+tags: [xontün, Verb, Sino-Tibetan]
+description: to provoke (a provocation) § Verb
 ---
 
 ### xontün&emsp;<span kind="abugida">ɋ̃c̃ʄ</span>

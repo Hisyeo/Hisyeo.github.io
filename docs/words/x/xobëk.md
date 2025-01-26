@@ -3,7 +3,8 @@ id: xobëk
 slug: xobëk
 title: XOBËK
 sidebar_position: 427
-hoverText: previous § Adjective
+tags: [xobëk, Adjective, Indo-Iranian]
+description: previous § Adjective
 ---
 
 ### xobëk&emsp;<span kind="abugida">ɋʋ̑ʇ</span>

@@ -3,7 +3,8 @@ id: conwëbo
 slug: conwëbo
 title: CONWËBO
 sidebar_position: 313
-hoverText: to manufacture (goods) § Verb
+tags: [conwëbo, Verb, Kartvelian]
+description: to manufacture (goods) § Verb
 ---
 
 ### conwëbo&emsp;<span kind="abugida">ꞇ̃ʒʇʋ</span>

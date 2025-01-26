@@ -3,7 +3,8 @@ id: öitun
 slug: öitun
 title: ÖİTUN
 sidebar_position: 34
-hoverText: to vocalize (a vocalization) § Verb
+tags: [öitun, Verb, Germanic]
+description: to vocalize (a vocalization) § Verb
 ---
 
 ### öitun&emsp;<span kind="abugida">ɽıɽɟc̃ʃ</span>

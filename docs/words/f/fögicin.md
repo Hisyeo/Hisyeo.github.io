@@ -3,7 +3,8 @@ id: fögicin
 slug: fögicin
 title: FÖGİCİN
 sidebar_position: 624
-hoverText: curious/inquisitive § Adjective
+tags: [fögicin, Adjective, Koreic]
+description: curious/inquisitive § Adjective
 ---
 
 ### fögicin&emsp;<span kind="abugida">ɤıꜿɟꞇ̃ɟ</span>

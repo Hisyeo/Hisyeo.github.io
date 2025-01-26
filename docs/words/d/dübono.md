@@ -3,7 +3,8 @@ id: dübono
 slug: dübono
 title: DÜBONO
 sidebar_position: 500
-hoverText: to immerse (the immersed) § Verb
+tags: [dübono, Verb, Indo-Iranian]
+description: to immerse (the immersed) § Verb
 ---
 
 ### dübono&emsp;<span kind="abugida">ʌʄʋƨ</span>

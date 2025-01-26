@@ -3,7 +3,8 @@ id: nomü
 slug: nomü
 title: NOMÜ
 sidebar_position: 718
-hoverText: tree § Noun
+tags: [nomü, Noun, Koreic]
+description: tree § Noun
 ---
 
 ### nomü&emsp;<span kind="abugida">ƨƶʄ</span>

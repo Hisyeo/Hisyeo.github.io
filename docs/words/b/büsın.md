@@ -3,7 +3,8 @@ id: büsın
 slug: büsın
 title: BÜSIN
 sidebar_position: 605
-hoverText: dizzy § Adjective
+tags: [büsın, Adjective, Austronesian]
+description: dizzy § Adjective
 ---
 
 ### büsın&emsp;<span kind="abugida">ʋʄɐ̃ȷ</span>

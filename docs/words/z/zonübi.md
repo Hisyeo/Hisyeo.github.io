@@ -3,7 +3,8 @@ id: zonübi
 slug: zonübi
 title: ZONÜBİ
 sidebar_position: 510
-hoverText: southern § Adjective
+tags: [zonübi, Adjective, Afroasiatic]
+description: southern § Adjective
 ---
 
 ### zonübi&emsp;<span kind="abugida">ⱴƨʄʋɟ</span>

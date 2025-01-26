@@ -3,7 +3,8 @@ id: mënüs
 slug: mënüs
 title: MËNÜS
 sidebar_position: 680
-hoverText: fewer/less § Determiner
+tags: [mënüs, Determiner, Romance]
+description: fewer/less § Determiner
 ---
 
 ### mënüs&emsp;<span kind="abugida">ƶʇƨ́ʄ</span>

@@ -3,7 +3,8 @@ id: lis
 slug: lis
 title: LİS
 sidebar_position: 817
-hoverText: smooth § Adjective
+tags: [lis, Adjective, Romance]
+description: smooth § Adjective
 ---
 
 ### lis&emsp;<span kind="abugida">ʓ́ɟ</span>

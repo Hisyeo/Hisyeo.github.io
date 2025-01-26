@@ -3,7 +3,8 @@ id: tüek
 slug: tüek
 title: TÜEK
 sidebar_position: 300
-hoverText: to compute (a computation) § Verb
+tags: [tüek, Verb, Sino-Tibetan]
+description: to compute (a computation) § Verb
 ---
 
 ### tüek&emsp;<span kind="abugida">cʄɽ̑ɿ</span>

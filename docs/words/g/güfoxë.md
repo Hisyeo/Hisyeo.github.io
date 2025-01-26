@@ -3,7 +3,8 @@ id: güfoxë
 slug: güfoxë
 title: GÜFOXË
 sidebar_position: 261
-hoverText: irony/sarcasm § Noun
+tags: [güfoxë, Noun, Indo-Iranian]
+description: irony/sarcasm § Noun
 ---
 
 ### güfoxë&emsp;<span kind="abugida">ꜿʄɤɋʇ</span>

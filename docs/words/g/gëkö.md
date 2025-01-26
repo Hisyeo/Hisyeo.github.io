@@ -3,7 +3,8 @@ id: gëkö
 slug: gëkö
 title: GËKÖ
 sidebar_position: 249
-hoverText: soil/dirt § Noun
+tags: [gëkö, Noun, Niger-Congo]
+description: soil/dirt § Noun
 ---
 
 ### gëkö&emsp;<span kind="abugida">ꜿʇɔı</span>

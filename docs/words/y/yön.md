@@ -3,7 +3,8 @@ id: yön
 slug: yön
 title: YÖN
 sidebar_position: 847
-hoverText: to use (a tool) § Verb
+tags: [yön, Verb, Sino-Tibetan]
+description: to use (a tool) § Verb
 ---
 
 ### yön&emsp;<span kind="abugida">ɀ̃ı</span>

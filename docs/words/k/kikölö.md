@@ -3,7 +3,8 @@ id: kikölö
 slug: kikölö
 title: KİKÖLÖ
 sidebar_position: 200
-hoverText: bitter § Adjective
+tags: [kikölö, Adjective, Niger-Congo]
+description: bitter § Adjective
 ---
 
 ### kikölö&emsp;<span kind="abugida">ɔɟɔıʓı</span>

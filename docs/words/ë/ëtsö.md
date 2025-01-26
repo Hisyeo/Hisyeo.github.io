@@ -3,7 +3,8 @@ id: ëtsö
 slug: ëtsö
 title: ËTSÖ
 sidebar_position: 57
-hoverText: state/quality/attribute § Noun
+tags: [ëtsö, Noun, Misc]
+description: state/quality/attribute § Noun
 ---
 
 ### ëtsö&emsp;<span kind="abugida">ɽ̆ʇɐı</span>

@@ -3,7 +3,8 @@ id: bogö
 slug: bogö
 title: BOGÖ
 sidebar_position: 546
-hoverText: luck § Noun
+tags: [bogö, Noun, Indo-Iranian]
+description: luck § Noun
 ---
 
 ### bogö&emsp;<span kind="abugida">ʋꜿı</span>

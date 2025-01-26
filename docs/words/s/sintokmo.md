@@ -3,7 +3,8 @@ id: sintokmo
 slug: sintokmo
 title: SİNTOKMO
 sidebar_position: 405
-hoverText: phrase § Noun
+tags: [sintokmo, Noun, Romance]
+description: phrase § Noun
 ---
 
 ### sintokmo&emsp;<span kind="abugida">ɐ̃ɟc̑ƶ</span>

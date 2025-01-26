@@ -3,7 +3,8 @@ id: bököfoc
 slug: bököfoc
 title: BÖKÖFOC
 sidebar_position: 561
-hoverText: to block (the blocked) § Verb
+tags: [bököfoc, Verb, Balto-Slavic]
+description: to block (the blocked) § Verb
 ---
 
 ### bököfoc&emsp;<span kind="abugida">ʋıɔıɤ̄</span>

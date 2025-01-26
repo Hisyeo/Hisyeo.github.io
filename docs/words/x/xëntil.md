@@ -3,7 +3,8 @@ id: xëntil
 slug: xëntil
 title: XËNTİL
 sidebar_position: 442
-hoverText: gentle/kind § Adjective
+tags: [xëntil, Adjective, Romance]
+description: gentle/kind § Adjective
 ---
 
 ### xëntil&emsp;<span kind="abugida">ɋ̃ʇc͊ɟ</span>

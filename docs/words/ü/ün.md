@@ -3,7 +3,8 @@ id: ün
 slug: ün
 title: ÜN
 sidebar_position: 105
-hoverText: and § Conjunction
+tags: [ün, Conjunction, Dravidian]
+description: and § Conjunction
 ---
 
 ### ün&emsp;<span kind="abugida">ɽ̃ʄ</span>

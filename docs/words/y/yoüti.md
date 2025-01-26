@@ -3,7 +3,8 @@ id: yoüti
 slug: yoüti
 title: YOÜTİ
 sidebar_position: 832
-hoverText: some/a few § Determiner
+tags: [yoüti, Determiner, Sino-Tibetan]
+description: some/a few § Determiner
 ---
 
 ### yoüti&emsp;<span kind="abugida">ɀɽʄcɟ</span>

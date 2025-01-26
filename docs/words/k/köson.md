@@ -3,7 +3,8 @@ id: köson
 slug: köson
 title: KÖSON
 sidebar_position: 178
-hoverText: to build (a construction) § Verb
+tags: [köson, Verb, Kra-Dai]
+description: to build (a construction) § Verb
 ---
 
 ### köson&emsp;<span kind="abugida">ɔıɐ̃</span>

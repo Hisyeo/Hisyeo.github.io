@@ -3,7 +3,8 @@ id: eloı
 slug: eloı
 title: ELOI
 sidebar_position: 51
-hoverText: boundary/border § Noun
+tags: [eloı, Noun, Dravidian]
+description: boundary/border § Noun
 ---
 
 ### eloı&emsp;<span kind="abugida">ɽɿʓɽȷ</span>

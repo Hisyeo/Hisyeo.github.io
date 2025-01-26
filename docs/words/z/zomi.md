@@ -3,7 +3,8 @@ id: zomi
 slug: zomi
 title: ZOMİ
 sidebar_position: 508
-hoverText: society/culture § Noun
+tags: [zomi, Noun, Niger-Congo]
+description: society/culture § Noun
 ---
 
 ### zomi&emsp;<span kind="abugida">ⱴƶɟ</span>

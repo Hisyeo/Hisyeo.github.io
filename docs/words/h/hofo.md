@@ -3,7 +3,8 @@ id: hofo
 slug: hofo
 title: HOFO
 sidebar_position: 124
-hoverText: to plead (a plea) § Verb
+tags: [hofo, Verb, Afroasiatic]
+description: to plead (a plea) § Verb
 ---
 
 ### hofo&emsp;<span kind="abugida">ɂɤ</span>

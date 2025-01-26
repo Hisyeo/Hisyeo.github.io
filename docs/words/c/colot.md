@@ -3,7 +3,8 @@ id: colot
 slug: colot
 title: COLOT
 sidebar_position: 314
-hoverText: wise/clever § Adjective
+tags: [colot, Adjective, Kra-Dai]
+description: wise/clever § Adjective
 ---
 
 ### colot&emsp;<span kind="abugida">ꞇʓ̆</span>

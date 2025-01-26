@@ -3,7 +3,8 @@ id: hükë
 slug: hükë
 title: HÜKË
 sidebar_position: 150
-hoverText: to mine (ore) § Verb
+tags: [hükë, Verb, Austronesian]
+description: to mine (ore) § Verb
 ---
 
 ### hükë&emsp;<span kind="abugida">ɂʄɔʇ</span>

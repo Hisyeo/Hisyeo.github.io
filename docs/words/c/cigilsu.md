@@ -3,7 +3,8 @@ id: cigilsu
 slug: cigilsu
 title: CİGİLSU
 sidebar_position: 339
-hoverText: treatment (medical) § Noun
+tags: [cigilsu, Noun, Dravidian]
+description: treatment (medical) § Noun
 ---
 
 ### cigilsu&emsp;<span kind="abugida">ꞇɟꜿ͊ɟɐʃ</span>

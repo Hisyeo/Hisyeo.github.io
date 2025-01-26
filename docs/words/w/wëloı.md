@@ -3,7 +3,8 @@ id: wëloı
 slug: wëloı
 title: WËLOI
 sidebar_position: 774
-hoverText: to work (in an occupation) § Verb
+tags: [wëloı, Verb, Dravidian]
+description: to work (in an occupation) § Verb
 ---
 
 ### wëloı&emsp;<span kind="abugida">ʒʇʓɽȷ</span>

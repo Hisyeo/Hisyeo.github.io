@@ -3,7 +3,8 @@ id: gisgül
 slug: gisgül
 title: GİSGÜL
 sidebar_position: 253
-hoverText: step/rung § Noun
+tags: [gisgül, Noun, Mongolic]
+description: step/rung § Noun
 ---
 
 ### gisgül&emsp;<span kind="abugida">ꜿ́ɟꜿ͊ʄ</span>

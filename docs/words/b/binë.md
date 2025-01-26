@@ -3,7 +3,8 @@ id: binë
 slug: binë
 title: BİNË
 sidebar_position: 591
-hoverText: then § Conjunction
+tags: [binë, Conjunction, Dravidian]
+description: then § Conjunction
 ---
 
 ### binë&emsp;<span kind="abugida">ʋɟƨʇ</span>

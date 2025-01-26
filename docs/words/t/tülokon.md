@@ -3,7 +3,8 @@ id: tülokon
 slug: tülokon
 title: TÜLOKON
 sidebar_position: 304
-hoverText: to adjudge (judgement) § Verb
+tags: [tülokon, Verb, Kra-Dai]
+description: to adjudge (judgement) § Verb
 ---
 
 ### tülokon&emsp;<span kind="abugida">cʄʓɔ̃</span>

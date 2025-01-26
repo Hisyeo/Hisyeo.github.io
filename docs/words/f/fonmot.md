@@ -3,7 +3,8 @@ id: fonmot
 slug: fonmot
 title: FONMOT
 sidebar_position: 621
-hoverText: absent/nonexistent § Adjective
+tags: [fonmot, Adjective, Austro-Asiatic]
+description: absent/nonexistent § Adjective
 ---
 
 ### fonmot&emsp;<span kind="abugida">ɤ̃ƶ̆</span>

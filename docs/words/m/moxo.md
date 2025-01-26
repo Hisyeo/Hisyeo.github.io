@@ -3,7 +3,8 @@ id: moxo
 slug: moxo
 title: MOXO
 sidebar_position: 658
-hoverText: decorative/ornamental § Adjective
+tags: [moxo, Adjective, Celtic]
+description: decorative/ornamental § Adjective
 ---
 
 ### moxo&emsp;<span kind="abugida">ƶɋ</span>

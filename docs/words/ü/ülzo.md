@@ -3,7 +3,8 @@ id: ülzo
 slug: ülzo
 title: ÜLZO
 sidebar_position: 114
-hoverText: energy/power § Noun
+tags: [ülzo, Noun, Indo-Iranian]
+description: energy/power § Noun
 ---
 
 ### ülzo&emsp;<span kind="abugida">ɽ͊ʄⱴ</span>

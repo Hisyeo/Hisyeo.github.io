@@ -3,7 +3,8 @@ id: hönyo
 slug: hönyo
 title: HÖNYO
 sidebar_position: 133
-hoverText: wilderness § Noun
+tags: [hönyo, Noun, Sino-Tibetan]
+description: wilderness § Noun
 ---
 
 ### hönyo&emsp;<span kind="abugida">ɂ̃ıɀ</span>

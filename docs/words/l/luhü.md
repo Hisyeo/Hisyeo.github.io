@@ -3,7 +3,8 @@ id: luhü
 slug: luhü
 title: LUHÜ
 sidebar_position: 823
-hoverText: blood § Noun
+tags: [luhü, Noun, Sino-Tibetan]
+description: blood § Noun
 ---
 
 ### luhü&emsp;<span kind="abugida">ʓʃɂʄ</span>

@@ -3,7 +3,8 @@ id: cıfü
 slug: cıfü
 title: CIFÜ
 sidebar_position: 330
-hoverText: to pay (payment) § Verb
+tags: [cıfü, Verb, Sino-Tibetan]
+description: to pay (payment) § Verb
 ---
 
 ### cıfü&emsp;<span kind="abugida">ꞇȷɤʄ</span>

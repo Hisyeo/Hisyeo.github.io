@@ -3,7 +3,8 @@ id: lüko
 slug: lüko
 title: LÜKO
 sidebar_position: 828
-hoverText: interrupted § Adjective
+tags: [lüko, Adjective, Indo-Iranian]
+description: interrupted § Adjective
 ---
 
 ### lüko&emsp;<span kind="abugida">ʓʄɔ</span>

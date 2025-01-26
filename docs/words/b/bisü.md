@@ -3,7 +3,8 @@ id: bisü
 slug: bisü
 title: BİSÜ
 sidebar_position: 589
-hoverText: nonbinary/queer § Adjective
+tags: [bisü, Adjective, Austronesian]
+description: nonbinary/queer § Adjective
 ---
 
 ### bisü&emsp;<span kind="abugida">ʋɟɐʄ</span>

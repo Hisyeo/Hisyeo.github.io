@@ -3,7 +3,8 @@ id: hoköli
 slug: hoköli
 title: HOKÖLİ
 sidebar_position: 117
-hoverText: tooth § Noun
+tags: [hoköli, Noun, Afroasiatic]
+description: tooth § Noun
 ---
 
 ### hoköli&emsp;<span kind="abugida">ɂɔıʓɟ</span>

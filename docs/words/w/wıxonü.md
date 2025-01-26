@@ -3,7 +3,8 @@ id: wıxonü
 slug: wıxonü
 title: WIXONÜ
 sidebar_position: 776
-hoverText: virus § Noun
+tags: [wıxonü, Noun, Indo-Iranian]
+description: virus § Noun
 ---
 
 ### wıxonü&emsp;<span kind="abugida">ʒȷɋƨʄ</span>

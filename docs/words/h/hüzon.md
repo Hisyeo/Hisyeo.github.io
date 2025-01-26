@@ -3,7 +3,8 @@ id: hüzon
 slug: hüzon
 title: HÜZON
 sidebar_position: 155
-hoverText: rain § Noun
+tags: [hüzon, Noun, Austronesian]
+description: rain § Noun
 ---
 
 ### hüzon&emsp;<span kind="abugida">ɂʄⱴ̃</span>

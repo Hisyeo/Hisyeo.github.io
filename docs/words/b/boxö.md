@@ -3,7 +3,8 @@ id: boxö
 slug: boxö
 title: BOXÖ
 sidebar_position: 550
-hoverText: place § Noun
+tags: [boxö, Noun, Japonic]
+description: place § Noun
 ---
 
 ### boxö&emsp;<span kind="abugida">ʋɋı</span>

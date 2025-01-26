@@ -3,7 +3,8 @@ id: dodöü
 slug: dodöü
 title: DODÖÜ
 sidebar_position: 469
-hoverText: to bet (a bet) § Verb
+tags: [dodöü, Verb, Sino-Tibetan]
+description: to bet (a bet) § Verb
 ---
 
 ### dodöü&emsp;<span kind="abugida">ʌʌıɽʄ</span>

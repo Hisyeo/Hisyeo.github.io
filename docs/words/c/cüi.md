@@ -3,7 +3,8 @@ id: cüi
 slug: cüi
 title: CÜİ
 sidebar_position: 351
-hoverText: rodent § Noun
+tags: [cüi, Noun, Koreic]
+description: rodent § Noun
 ---
 
 ### cüi&emsp;<span kind="abugida">ꞇʄɽɟ</span>

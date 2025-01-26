@@ -3,7 +3,8 @@ id: onö
 slug: onö
 title: ONÖ
 sidebar_position: 24
-hoverText: distal demonstrative (yon/yonder) § Pronoun
+tags: [onö, Pronoun, Japonic]
+description: distal demonstrative (yon/yonder) § Pronoun
 ---
 
 ### onö&emsp;<span kind="abugida">ɽƨı</span>

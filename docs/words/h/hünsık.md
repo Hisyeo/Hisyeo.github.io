@@ -3,7 +3,8 @@ id: hünsık
 slug: hünsık
 title: HÜNSIK
 sidebar_position: 156
-hoverText: red § Adjective
+tags: [hünsık, Adjective, Sino-Tibetan]
+description: red § Adjective
 ---
 
 ### hünsık&emsp;<span kind="abugida">ɂ̃ʄɐ̑ȷ</span>

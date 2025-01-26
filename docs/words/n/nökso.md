@@ -3,7 +3,8 @@ id: nökso
 slug: nökso
 title: NÖKSO
 sidebar_position: 724
-hoverText: map/chart § Noun
+tags: [nökso, Noun, Indo-Iranian]
+description: map/chart § Noun
 ---
 
 ### nökso&emsp;<span kind="abugida">ƨ̑ıɐ</span>

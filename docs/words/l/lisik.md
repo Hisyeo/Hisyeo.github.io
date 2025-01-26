@@ -3,7 +3,8 @@ id: lisik
 slug: lisik
 title: LİSİK
 sidebar_position: 818
-hoverText: cereal/grain § Noun
+tags: [lisik, Noun, Afroasiatic]
+description: cereal/grain § Noun
 ---
 
 ### lisik&emsp;<span kind="abugida">ʓɟɐ̑ɟ</span>

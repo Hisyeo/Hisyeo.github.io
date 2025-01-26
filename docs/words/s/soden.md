@@ -3,7 +3,8 @@ id: soden
 slug: soden
 title: SODEN
 sidebar_position: 368
-hoverText: back § Noun
+tags: [soden, Noun, Balto-Slavic]
+description: back § Noun
 ---
 
 ### soden&emsp;<span kind="abugida">ɐʌ̃ɿ</span>

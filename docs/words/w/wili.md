@@ -3,7 +3,8 @@ id: wili
 slug: wili
 title: WİLİ
 sidebar_position: 781
-hoverText: awake § Adjective
+tags: [wili, Adjective, Dravidian]
+description: awake § Adjective
 ---
 
 ### wili&emsp;<span kind="abugida">ʒɟʓɟ</span>

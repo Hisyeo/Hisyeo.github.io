@@ -3,7 +3,8 @@ id: cëö
 slug: cëö
 title: CËÖ
 sidebar_position: 323
-hoverText: rank/degree § Noun
+tags: [cëö, Noun, Niger-Congo]
+description: rank/degree § Noun
 ---
 
 ### cëö&emsp;<span kind="abugida">ꞇʇɽı</span>

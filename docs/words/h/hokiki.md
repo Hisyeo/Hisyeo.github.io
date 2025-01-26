@@ -3,7 +3,8 @@ id: hokiki
 slug: hokiki
 title: HOKİKİ
 sidebar_position: 118
-hoverText: authentic § Adjective
+tags: [hokiki, Adjective, Afroasiatic]
+description: authentic § Adjective
 ---
 
 ### hokiki&emsp;<span kind="abugida">ɂɔɟɔɟ</span>

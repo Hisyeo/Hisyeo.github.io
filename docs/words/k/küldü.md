@@ -3,7 +3,8 @@ id: küldü
 slug: küldü
 title: KÜLDÜ
 sidebar_position: 228
-hoverText: wheel § Noun
+tags: [küldü, Noun, Mongolic]
+description: wheel § Noun
 ---
 
 ### küldü&emsp;<span kind="abugida">ɔ͊ʄʌʄ</span>

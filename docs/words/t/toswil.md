@@ -3,7 +3,8 @@ id: toswil
 slug: toswil
 title: TOSWİL
 sidebar_position: 272
-hoverText: to draw (a picture) § Verb
+tags: [toswil, Verb, Afroasiatic]
+description: to draw (a picture) § Verb
 ---
 
 ### toswil&emsp;<span kind="abugida">ćʒ͊ɟ</span>

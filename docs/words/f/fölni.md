@@ -3,7 +3,8 @@ id: fölni
 slug: fölni
 title: FÖLNİ
 sidebar_position: 627
-hoverText: free § Adjective
+tags: [fölni, Adjective, Balto-Slavic]
+description: free § Adjective
 ---
 
 ### fölni&emsp;<span kind="abugida">ɤ͊ıƨɟ</span>

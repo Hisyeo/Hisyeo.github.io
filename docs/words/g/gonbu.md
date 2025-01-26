@@ -3,7 +3,8 @@ id: gonbu
 slug: gonbu
 title: GONBU
 sidebar_position: 236
-hoverText: leg § Noun
+tags: [gonbu, Noun, Romance]
+description: leg § Noun
 ---
 
 ### gonbu&emsp;<span kind="abugida">ꜿ̃ʋʃ</span>

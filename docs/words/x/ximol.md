@@ -3,7 +3,8 @@ id: ximol
 slug: ximol
 title: XİMOL
 sidebar_position: 451
-hoverText: left § Noun
+tags: [ximol, Noun, Afroasiatic]
+description: left § Noun
 ---
 
 ### ximol&emsp;<span kind="abugida">ɋɟƶ͊</span>

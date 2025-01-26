@@ -3,7 +3,8 @@ id: lexetko
 slug: lexetko
 title: LEXETKO
 sidebar_position: 806
-hoverText: lattice/array § Noun
+tags: [lexetko, Noun, Germanic]
+description: lattice/array § Noun
 ---
 
 ### lexetko&emsp;<span kind="abugida">ʓɿɋ̆ɿɔ</span>

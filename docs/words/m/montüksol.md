@@ -3,7 +3,8 @@ id: montüksol
 slug: montüksol
 title: MONTÜKSOL
 sidebar_position: 664
-hoverText: logical § Adjective
+tags: [montüksol, Adjective, Turkic]
+description: logical § Adjective
 ---
 
 ### montüksol&emsp;<span kind="abugida">ƶ̃c̑ʄɐ͊</span>

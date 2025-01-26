@@ -3,7 +3,8 @@ id: nonkü
 slug: nonkü
 title: NONKÜ
 sidebar_position: 720
-hoverText: 04 four § Numeral
+tags: [nonkü, Numeral, Dravidian]
+description: 04 four § Numeral
 ---
 
 ### nonkü&emsp;<span kind="abugida">ƨ̃ɔʄ</span>

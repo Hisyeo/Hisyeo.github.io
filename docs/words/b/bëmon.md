@@ -3,7 +3,8 @@ id: bëmon
 slug: bëmon
 title: BËMON
 sidebar_position: 575
-hoverText: to promise (a promise) § Verb
+tags: [bëmon, Verb, Indo-Iranian]
+description: to promise (a promise) § Verb
 ---
 
 ### bëmon&emsp;<span kind="abugida">ʋʇƶ̃</span>

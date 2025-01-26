@@ -3,7 +3,8 @@ id: müësi
 slug: müësi
 title: MÜËSİ
 sidebar_position: 697
-hoverText: moon § Noun
+tags: [müësi, Noun, Niger-Congo]
+description: moon § Noun
 ---
 
 ### müësi&emsp;<span kind="abugida">ƶʄɽʇɐɟ</span>

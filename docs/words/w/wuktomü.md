@@ -3,7 +3,8 @@ id: wuktomü
 slug: wuktomü
 title: WUKTOMÜ
 sidebar_position: 784
-hoverText: overt/evident § Adjective
+tags: [wuktomü, Adjective, Dravidian]
+description: overt/evident § Adjective
 ---
 
 ### wuktomü&emsp;<span kind="abugida">ʒ̑ʃcƶʄ</span>

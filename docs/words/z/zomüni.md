@@ -3,7 +3,8 @@ id: zomüni
 slug: zomüni
 title: ZOMÜNİ
 sidebar_position: 509
-hoverText: purple § Adjective
+tags: [zomüni, Adjective, Sino-Tibetan]
+description: purple § Adjective
 ---
 
 ### zomüni&emsp;<span kind="abugida">ⱴƶʄƨɟ</span>

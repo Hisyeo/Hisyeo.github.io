@@ -3,7 +3,8 @@ id: öhël
 slug: öhël
 title: ÖHËL
 sidebar_position: 35
-hoverText: past § Noun
+tags: [öhël, Noun, Mayan]
+description: past § Noun
 ---
 
 ### öhël&emsp;<span kind="abugida">ɽıɂ͊ʇ</span>

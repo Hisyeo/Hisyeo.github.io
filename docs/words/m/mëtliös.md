@@ -3,7 +3,8 @@ id: mëtliös
 slug: mëtliös
 title: MËTLİÖS
 sidebar_position: 678
-hoverText: medium/average § Adjective
+tags: [mëtliös, Adjective, Hellenic]
+description: medium/average § Adjective
 ---
 
 ### mëtliös&emsp;<span kind="abugida">ƶ̆ʇʓɟɽ́ı</span>

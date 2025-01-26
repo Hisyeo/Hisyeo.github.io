@@ -3,7 +3,8 @@ id: kuünmë
 slug: kuünmë
 title: KUÜNMË
 sidebar_position: 208
-hoverText: technology § Noun
+tags: [kuünmë, Noun, Austro-Asiatic]
+description: technology § Noun
 ---
 
 ### kuünmë&emsp;<span kind="abugida">ɔʃɽ̃ʄƶʇ</span>

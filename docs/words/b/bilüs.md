@@ -3,7 +3,8 @@ id: bilüs
 slug: bilüs
 title: BİLÜS
 sidebar_position: 594
-hoverText: victorious § Adjective
+tags: [bilüs, Adjective, Indo-Iranian]
+description: victorious § Adjective
 ---
 
 ### bilüs&emsp;<span kind="abugida">ʋɟʓ́ʄ</span>

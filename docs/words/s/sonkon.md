@@ -3,7 +3,8 @@ id: sonkon
 slug: sonkon
 title: SONKON
 sidebar_position: 376
-hoverText: important § Adjective
+tags: [sonkon, Adjective, Kra-Dai]
+description: important § Adjective
 ---
 
 ### sonkon&emsp;<span kind="abugida">ɐ̃ɔ̃</span>

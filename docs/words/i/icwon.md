@@ -3,7 +3,8 @@ id: icwon
 slug: icwon
 title: İCWON
 sidebar_position: 71
-hoverText: to inherit (inheritance) § Verb
+tags: [icwon, Verb, Sino-Tibetan]
+description: to inherit (inheritance) § Verb
 ---
 
 ### icwon&emsp;<span kind="abugida">ɽ̄ɟʒ̃</span>

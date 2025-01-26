@@ -3,7 +3,8 @@ id: hulükö
 slug: hulükö
 title: HULÜKÖ
 sidebar_position: 148
-hoverText: lightweight § Adjective
+tags: [hulükö, Adjective, Indo-Iranian]
+description: lightweight § Adjective
 ---
 
 ### hulükö&emsp;<span kind="abugida">ɂʃʓʄɔı</span>

@@ -3,7 +3,8 @@ id: oköt
 slug: oköt
 title: OKÖT
 sidebar_position: 3
-hoverText: to bear (a burden) § Verb
+tags: [oköt, Verb, Austronesian]
+description: to bear (a burden) § Verb
 ---
 
 ### oköt&emsp;<span kind="abugida">ɽɔ̆ı</span>

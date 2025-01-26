@@ -3,7 +3,8 @@ id: künonti
 slug: künonti
 title: KÜNONTİ
 sidebar_position: 222
-hoverText: communication § Noun
+tags: [künonti, Noun, Afroasiatic]
+description: communication § Noun
 ---
 
 ### künonti&emsp;<span kind="abugida">ɔʄƨ̃cɟ</span>

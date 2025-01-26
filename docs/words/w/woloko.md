@@ -3,7 +3,8 @@ id: woloko
 slug: woloko
 title: WOLOKO
 sidebar_position: 763
-hoverText: leaf/petal § Noun
+tags: [woloko, Noun, Afroasiatic]
+description: leaf/petal § Noun
 ---
 
 ### woloko&emsp;<span kind="abugida">ʒʓɔ</span>

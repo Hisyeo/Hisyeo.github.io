@@ -3,7 +3,8 @@ id: noi
 slug: noi
 title: NOİ
 sidebar_position: 710
-hoverText: vocative marker § Preposition
+tags: [noi, Preposition, Austro-Asiatic]
+description: vocative marker § Preposition
 ---
 
 ### noi&emsp;<span kind="abugida">ƨɽɟ</span>

@@ -3,7 +3,8 @@ id: gosil
 slug: gosil
 title: GOSİL
 sidebar_position: 231
-hoverText: short § Adjective
+tags: [gosil, Adjective, Afroasiatic]
+description: short § Adjective
 ---
 
 ### gosil&emsp;<span kind="abugida">ꜿɐ͊ɟ</span>

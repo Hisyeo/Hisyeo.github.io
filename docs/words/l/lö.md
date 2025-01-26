@@ -3,7 +3,8 @@ id: lö
 slug: lö
 title: LÖ
 sidebar_position: 799
-hoverText: moving § Adjective
+tags: [lö, Adjective, Niger-Congo]
+description: moving § Adjective
 ---
 
 ### lö&emsp;<span kind="abugida">ʓı</span>

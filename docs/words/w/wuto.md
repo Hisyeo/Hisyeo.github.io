@@ -3,7 +3,8 @@ id: wuto
 slug: wuto
 title: WUTO
 sidebar_position: 785
-hoverText: month § Noun
+tags: [wuto, Noun, Afroasiatic]
+description: month § Noun
 ---
 
 ### wuto&emsp;<span kind="abugida">ʒʃc</span>

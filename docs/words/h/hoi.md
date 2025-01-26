@@ -3,7 +3,8 @@ id: hoi
 slug: hoi
 title: HOİ
 sidebar_position: 116
-hoverText: location/time marker (at) § Preposition
+tags: [hoi, Preposition, Sino-Tibetan]
+description: location/time marker (at) § Preposition
 ---
 
 ### hoi&emsp;<span kind="abugida">ɂɽɟ</span>

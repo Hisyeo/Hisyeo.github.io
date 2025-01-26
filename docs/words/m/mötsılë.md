@@ -3,7 +3,8 @@ id: mötsılë
 slug: mötsılë
 title: MÖTSILË
 sidebar_position: 671
-hoverText: to tie (the tied) § Verb
+tags: [mötsılë, Verb, Japonic]
+description: to tie (the tied) § Verb
 ---
 
 ### mötsılë&emsp;<span kind="abugida">ƶ̆ıɐȷʓʇ</span>

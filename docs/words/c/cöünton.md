@@ -3,7 +3,8 @@ id: cöünton
 slug: cöünton
 title: CÖÜNTON
 sidebar_position: 316
-hoverText: loyal/faithful § Adjective
+tags: [cöünton, Adjective, Austro-Asiatic]
+description: loyal/faithful § Adjective
 ---
 
 ### cöünton&emsp;<span kind="abugida">ꞇıɽ̃ʄc̃</span>

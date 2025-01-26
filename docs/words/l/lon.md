@@ -3,7 +3,8 @@ id: lon
 slug: lon
 title: LON
 sidebar_position: 794
-hoverText: distance/duration marker (for) § Preposition
+tags: [lon, Preposition, Germanic]
+description: distance/duration marker (for) § Preposition
 ---
 
 ### lon&emsp;<span kind="abugida">ʓ̃</span>

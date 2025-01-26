@@ -3,7 +3,8 @@ id: wınit
 slug: wınit
 title: WINİT
 sidebar_position: 777
-hoverText: humble § Adjective
+tags: [wınit, Adjective, Indo-Iranian]
+description: humble § Adjective
 ---
 
 ### wınit&emsp;<span kind="abugida">ʒȷƨ̆ɟ</span>

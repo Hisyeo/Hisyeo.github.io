@@ -3,7 +3,8 @@ id: comen
 slug: comen
 title: COMEN
 sidebar_position: 310
-hoverText: lawn/meadow § Noun
+tags: [comen, Noun, Indo-Iranian]
+description: lawn/meadow § Noun
 ---
 
 ### comen&emsp;<span kind="abugida">ꞇƶ̃ɿ</span>

@@ -3,7 +3,8 @@ id: ünhılun
 slug: ünhılun
 title: ÜNHILUN
 sidebar_position: 107
-hoverText: to surround/envelope (a surrounding/enclosure)  § Verb
+tags: [ünhılun, Verb, Germanic]
+description: to surround/envelope (a surrounding/enclosure)  § Verb
 ---
 
 ### ünhılun&emsp;<span kind="abugida">ɽ̃ʄɂȷʓ̃ʃ</span>

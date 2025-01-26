@@ -3,7 +3,8 @@ id: muilö
 slug: muilö
 title: MUİLÖ
 sidebar_position: 694
-hoverText: dirty § Adjective
+tags: [muilö, Adjective, Indo-Iranian]
+description: dirty § Adjective
 ---
 
 ### muilö&emsp;<span kind="abugida">ƶʃɽɟʓı</span>

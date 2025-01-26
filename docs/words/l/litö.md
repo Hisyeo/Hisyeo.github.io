@@ -3,7 +3,8 @@ id: litö
 slug: litö
 title: LİTÖ
 sidebar_position: 815
-hoverText: empty/incomplete § Adjective
+tags: [litö, Adjective, Indo-Iranian]
+description: empty/incomplete § Adjective
 ---
 
 ### litö&emsp;<span kind="abugida">ʓɟcı</span>

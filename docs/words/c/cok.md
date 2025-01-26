@@ -3,7 +3,8 @@ id: cok
 slug: cok
 title: COK
 sidebar_position: 306
-hoverText: departing § Adjective
+tags: [cok, Adjective, Kra-Dai]
+description: departing § Adjective
 ---
 
 ### cok&emsp;<span kind="abugida">ꞇ̑</span>

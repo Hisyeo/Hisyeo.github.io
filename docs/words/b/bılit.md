@@ -3,7 +3,8 @@ id: bılit
 slug: bılit
 title: BILİT
 sidebar_position: 581
-hoverText: sticky § Adjective
+tags: [bılit, Adjective, Austronesian]
+description: sticky § Adjective
 ---
 
 ### bılit&emsp;<span kind="abugida">ʋȷʓ̆ɟ</span>

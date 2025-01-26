@@ -3,7 +3,8 @@ id: xëti
 slug: xëti
 title: XËTİ
 sidebar_position: 441
-hoverText: 07 seven § Numeral
+tags: [xëti, Numeral, Turkic]
+description: 07 seven § Numeral
 ---
 
 ### xëti&emsp;<span kind="abugida">ɋʇcɟ</span>

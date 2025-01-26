@@ -3,7 +3,8 @@ id: xofö
 slug: xofö
 title: XOFÖ
 sidebar_position: 428
-hoverText: guts § Noun
+tags: [xofö, Noun, Oto-Manguean]
+description: guts § Noun
 ---
 
 ### xofö&emsp;<span kind="abugida">ɋɤı</span>

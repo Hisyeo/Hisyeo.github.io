@@ -3,7 +3,8 @@ id: sünbidü
 slug: sünbidü
 title: SÜNBİDÜ
 sidebar_position: 420
-hoverText: drone/buzz/hum § Noun
+tags: [sünbidü, Noun, Romance]
+description: drone/buzz/hum § Noun
 ---
 
 ### sünbidü&emsp;<span kind="abugida">ɐ̃ʄʋɟʌʄ</span>

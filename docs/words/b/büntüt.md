@@ -3,7 +3,8 @@ id: büntüt
 slug: büntüt
 title: BÜNTÜT
 sidebar_position: 611
-hoverText: tail § Noun
+tags: [büntüt, Noun, Austronesian]
+description: tail § Noun
 ---
 
 ### büntüt&emsp;<span kind="abugida">ʋ̃ʄc̆ʄ</span>

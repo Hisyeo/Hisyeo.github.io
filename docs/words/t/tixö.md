@@ -3,7 +3,8 @@ id: tixö
 slug: tixö
 title: TİXÖ
 sidebar_position: 294
-hoverText: threat § Noun
+tags: [tixö, Noun, Niger-Congo]
+description: threat § Noun
 ---
 
 ### tixö&emsp;<span kind="abugida">cɟɋı</span>

@@ -3,7 +3,8 @@ id: müstokin
 slug: müstokin
 title: MÜSTOKİN
 sidebar_position: 703
-hoverText: straight § Adjective
+tags: [müstokin, Adjective, Afroasiatic]
+description: straight § Adjective
 ---
 
 ### müstokin&emsp;<span kind="abugida">ƶ́ʄcɔ̃ɟ</span>

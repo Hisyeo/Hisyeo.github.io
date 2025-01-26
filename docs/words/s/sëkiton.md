@@ -3,7 +3,8 @@ id: sëkiton
 slug: sëkiton
 title: SËKİTON
 sidebar_position: 390
-hoverText: coal/cinder § Noun
+tags: [sëkiton, Noun, Japonic]
+description: coal/cinder § Noun
 ---
 
 ### sëkiton&emsp;<span kind="abugida">ɐʇɔɟc̃</span>

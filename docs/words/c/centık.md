@@ -3,7 +3,8 @@ id: centık
 slug: centık
 title: CENTIK
 sidebar_position: 321
-hoverText: official/formal § Adjective
+tags: [centık, Adjective, Austro-Asiatic]
+description: official/formal § Adjective
 ---
 
 ### centık&emsp;<span kind="abugida">ꞇ̃ɿc̑ȷ</span>

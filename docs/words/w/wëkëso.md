@@ -3,7 +3,8 @@ id: wëkëso
 slug: wëkëso
 title: WËKËSO
 sidebar_position: 770
-hoverText: to invest [in] (an investee) § Verb
+tags: [wëkëso, Verb, Niger-Congo]
+description: to invest [in] (an investee) § Verb
 ---
 
 ### wëkëso&emsp;<span kind="abugida">ʒʇɔʇɐ</span>

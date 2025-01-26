@@ -3,7 +3,8 @@ id: küsowi
 slug: küsowi
 title: KÜSOWİ
 sidebar_position: 218
-hoverText: matter/material § Noun
+tags: [küsowi, Noun, Afroasiatic]
+description: matter/material § Noun
 ---
 
 ### küsowi&emsp;<span kind="abugida">ɔʄɐʒɟ</span>

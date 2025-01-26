@@ -3,7 +3,8 @@ id: nonto
 slug: nonto
 title: NONTO
 sidebar_position: 721
-hoverText: tear (of the eye) § Noun
+tags: [nonto, Noun, Kra-Dai]
+description: tear (of the eye) § Noun
 ---
 
 ### nonto&emsp;<span kind="abugida">ƨ̃c</span>

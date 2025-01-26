@@ -3,7 +3,8 @@ id: len
 slug: len
 title: LEN
 sidebar_position: 807
-hoverText: strong § Adjective
+tags: [len, Adjective, Kra-Dai]
+description: strong § Adjective
 ---
 
 ### len&emsp;<span kind="abugida">ʓ̃ɿ</span>

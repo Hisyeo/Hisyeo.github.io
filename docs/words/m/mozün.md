@@ -3,7 +3,8 @@ id: mozün
 slug: mozün
 title: MOZÜN
 sidebar_position: 660
-hoverText: cream/paste § Noun
+tags: [mozün, Noun, Turkic]
+description: cream/paste § Noun
 ---
 
 ### mozün&emsp;<span kind="abugida">ƶⱴ̃ʄ</span>

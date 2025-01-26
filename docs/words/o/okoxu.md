@@ -3,7 +3,8 @@ id: okoxu
 slug: okoxu
 title: OKOXU
 sidebar_position: 2
-hoverText: sky § Noun
+tags: [okoxu, Noun, Indo-Iranian]
+description: sky § Noun
 ---
 
 ### okoxu&emsp;<span kind="abugida">ɽɔɋʃ</span>

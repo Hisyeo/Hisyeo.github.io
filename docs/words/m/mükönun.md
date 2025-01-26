@@ -3,7 +3,8 @@ id: mükönun
 slug: mükönun
 title: MÜKÖNUN
 sidebar_position: 700
-hoverText: triangle § Noun
+tags: [mükönun, Noun, Dravidian]
+description: triangle § Noun
 ---
 
 ### mükönun&emsp;<span kind="abugida">ƶʄɔıƨ̃ʃ</span>

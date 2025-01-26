@@ -3,7 +3,8 @@ id: zıyön
 slug: zıyön
 title: ZIYÖN
 sidebar_position: 526
-hoverText: 14 fourteen § Numeral
+tags: [zıyön, Numeral, Japonic]
+description: 14 fourteen § Numeral
 ---
 
 ### zıyön&emsp;<span kind="abugida">ⱴȷɀ̃ı</span>

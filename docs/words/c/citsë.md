@@ -3,7 +3,8 @@ id: citsë
 slug: citsë
 title: CİTSË
 sidebar_position: 340
-hoverText: to accuse (an accusation) § Verb
+tags: [citsë, Verb, Sino-Tibetan]
+description: to accuse (an accusation) § Verb
 ---
 
 ### citsë&emsp;<span kind="abugida">ꞇ̆ɟɐʇ</span>

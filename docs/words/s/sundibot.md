@@ -3,7 +3,8 @@ id: sundibot
 slug: sundibot
 title: SUNDİBOT
 sidebar_position: 410
-hoverText: arthropod § Noun
+tags: [sundibot, Noun, Indo-Iranian]
+description: arthropod § Noun
 ---
 
 ### sundibot&emsp;<span kind="abugida">ɐ̃ʃʌɟʋ̆</span>

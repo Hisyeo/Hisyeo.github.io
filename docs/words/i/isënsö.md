@@ -3,7 +3,8 @@ id: isënsö
 slug: isënsö
 title: İSËNSÖ
 sidebar_position: 72
-hoverText: verb § Noun
+tags: [isënsö, Noun, Niger-Congo]
+description: verb § Noun
 ---
 
 ### isënsö&emsp;<span kind="abugida">ɽɟɐ̃ʇɐı</span>

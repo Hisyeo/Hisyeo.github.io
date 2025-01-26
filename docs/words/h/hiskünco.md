@@ -3,7 +3,8 @@ id: hiskünco
 slug: hiskünco
 title: HİSKÜNCO
 sidebar_position: 144
-hoverText: language § Noun
+tags: [hiskünco, Noun, Basque]
+description: language § Noun
 ---
 
 ### hiskünco&emsp;<span kind="abugida">ɂ́ɟɔ̃ʄꞇ</span>

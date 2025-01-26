@@ -3,7 +3,8 @@ id: yodo
 slug: yodo
 title: YODO
 sidebar_position: 838
-hoverText: or § Conjunction
+tags: [yodo, Conjunction, Turkic]
+description: or § Conjunction
 ---
 
 ### yodo&emsp;<span kind="abugida">ɀʌ</span>

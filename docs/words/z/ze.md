@@ -3,7 +3,8 @@ id: ze
 slug: ze
 title: ZE
 sidebar_position: 519
-hoverText: aggressive/emotional sentence ender § Postposition
+tags: [ze, Postposition, Japonic]
+description: aggressive/emotional sentence ender § Postposition
 ---
 
 ### ze&emsp;<span kind="abugida">ⱴɿ</span>

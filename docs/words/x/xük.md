@@ -3,7 +3,8 @@ id: xük
 slug: xük
 title: XÜK
 sidebar_position: 457
-hoverText: sort/type § Noun
+tags: [xük, Noun, Afroasiatic]
+description: sort/type § Noun
 ---
 
 ### xük&emsp;<span kind="abugida">ɋ̑ʄ</span>

@@ -3,7 +3,8 @@ id: lobotöl
 slug: lobotöl
 title: LOBOTÖL
 sidebar_position: 793
-hoverText: to scoop (the scooped) § Verb
+tags: [lobotöl, Verb, Uralic]
+description: to scoop (the scooped) § Verb
 ---
 
 ### lobotöl&emsp;<span kind="abugida">ʓʋc͊ı</span>

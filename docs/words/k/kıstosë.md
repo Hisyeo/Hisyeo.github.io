@@ -3,7 +3,8 @@ id: kıstosë
 slug: kıstosë
 title: KISTOSË
 sidebar_position: 195
-hoverText: crustacean § Noun
+tags: [kıstosë, Noun, Romance]
+description: crustacean § Noun
 ---
 
 ### kıstosë&emsp;<span kind="abugida">ɔ́ȷcɐʇ</span>

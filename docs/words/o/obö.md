@@ -3,7 +3,8 @@ id: obö
 slug: obö
 title: OBÖ
 sidebar_position: 17
-hoverText: arm § Noun
+tags: [obö, Noun, Niger-Congo]
+description: arm § Noun
 ---
 
 ### obö&emsp;<span kind="abugida">ɽʋı</span>

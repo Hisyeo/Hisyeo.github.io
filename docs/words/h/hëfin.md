@@ -3,7 +3,8 @@ id: hëfin
 slug: hëfin
 title: HËFİN
 sidebar_position: 138
-hoverText: to understand (a concept) § Verb
+tags: [hëfin, Verb, Afroasiatic]
+description: to understand (a concept) § Verb
 ---
 
 ### hëfin&emsp;<span kind="abugida">ɂʇɤ̃ɟ</span>

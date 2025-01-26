@@ -3,7 +3,8 @@ id: nöilu
 slug: nöilu
 title: NÖİLU
 sidebar_position: 723
-hoverText: key § Noun
+tags: [nöilu, Noun, Germanic]
+description: key § Noun
 ---
 
 ### nöilu&emsp;<span kind="abugida">ƨıɽɟʓʃ</span>

@@ -3,7 +3,8 @@ id: küdu
 slug: küdu
 title: KÜDU
 sidebar_position: 219
-hoverText: horse § Noun
+tags: [küdu, Noun, Austronesian]
+description: horse § Noun
 ---
 
 ### küdu&emsp;<span kind="abugida">ɔʄʌʃ</span>

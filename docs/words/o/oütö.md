@@ -3,7 +3,8 @@ id: oütö
 slug: oütö
 title: OÜTÖ
 sidebar_position: 0
-hoverText: to drive (a vehicle) § Verb
+tags: [oütö, Verb, Germanic]
+description: to drive (a vehicle) § Verb
 ---
 
 ### oütö&emsp;<span kind="abugida">ɽɽʄcı</span>

@@ -3,7 +3,8 @@ id: bëlëtë
 slug: bëlëtë
 title: BËLËTË
 sidebar_position: 576
-hoverText: wall § Noun
+tags: [bëlëtë, Noun, Romance]
+description: wall § Noun
 ---
 
 ### bëlëtë&emsp;<span kind="abugida">ʋʇʓʇcʇ</span>

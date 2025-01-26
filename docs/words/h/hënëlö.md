@@ -3,7 +3,8 @@ id: hënëlö
 slug: hënëlö
 title: HËNËLÖ
 sidebar_position: 139
-hoverText: gender § Noun
+tags: [hënëlö, Noun, Romance]
+description: gender § Noun
 ---
 
 ### hënëlö&emsp;<span kind="abugida">ɂʇƨʇʓı</span>

@@ -3,7 +3,8 @@ id: son
 slug: son
 title: SON
 sidebar_position: 375
-hoverText: 03 three § Numeral
+tags: [son, Numeral, Sino-Tibetan]
+description: 03 three § Numeral
 ---
 
 ### son&emsp;<span kind="abugida">ɐ̃</span>

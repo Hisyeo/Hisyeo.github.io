@@ -3,7 +3,8 @@ id: tikü
 slug: tikü
 title: TİKÜ
 sidebar_position: 292
-hoverText: dead § Adjective
+tags: [tikü, Adjective, Niger-Congo]
+description: dead § Adjective
 ---
 
 ### tikü&emsp;<span kind="abugida">cɟɔʄ</span>

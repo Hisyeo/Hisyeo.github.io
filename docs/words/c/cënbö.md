@@ -3,7 +3,8 @@ id: cënbö
 slug: cënbö
 title: CËNBÖ
 sidebar_position: 325
-hoverText: big § Adjective
+tags: [cënbö, Adjective, Sino-Tibetan]
+description: big § Adjective
 ---
 
 ### cënbö&emsp;<span kind="abugida">ꞇ̃ʇʋı</span>

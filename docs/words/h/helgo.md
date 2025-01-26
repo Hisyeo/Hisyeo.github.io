@@ -3,7 +3,8 @@ id: helgo
 slug: helgo
 title: HELGO
 sidebar_position: 137
-hoverText: to venerate (the venerated) § Verb
+tags: [helgo, Verb, Germanic]
+description: to venerate (the venerated) § Verb
 ---
 
 ### helgo&emsp;<span kind="abugida">ɂ͊ɿꜿ</span>

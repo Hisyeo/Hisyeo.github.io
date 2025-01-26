@@ -3,7 +3,8 @@ id: cokyen
 slug: cokyen
 title: COKYEN
 sidebar_position: 308
-hoverText: almost § Adjective
+tags: [cokyen, Adjective, Sino-Tibetan]
+description: almost § Adjective
 ---
 
 ### cokyen&emsp;<span kind="abugida">ꞇ̑ɀ̃ɿ</span>

@@ -3,7 +3,8 @@ id: yök
 slug: yök
 title: YÖK
 sidebar_position: 845
-hoverText: negatitive particle § Particle
+tags: [yök, Particle, Turkic]
+description: negatitive particle § Particle
 ---
 
 ### yök&emsp;<span kind="abugida">ɀ̑ı</span>

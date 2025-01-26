@@ -3,7 +3,8 @@ id: noyo
 slug: noyo
 title: NOYO
 sidebar_position: 722
-hoverText: I/me § Pronoun
+tags: [noyo, Pronoun, Quechumaran]
+description: I/me § Pronoun
 ---
 
 ### noyo&emsp;<span kind="abugida">ƨɀ</span>

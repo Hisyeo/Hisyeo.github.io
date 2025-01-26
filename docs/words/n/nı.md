@@ -3,7 +3,8 @@ id: nı
 slug: nı
 title: NI
 sidebar_position: 734
-hoverText: it § Pronoun
+tags: [nı, Pronoun, Hmong-Mien]
+description: it § Pronoun
 ---
 
 ### nı&emsp;<span kind="abugida">ƨȷ</span>

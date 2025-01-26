@@ -3,7 +3,8 @@ id: hünsüon
 slug: hünsüon
 title: HÜNSÜON
 sidebar_position: 157
-hoverText: partner § Noun
+tags: [hünsüon, Noun, Kra-Dai]
+description: partner § Noun
 ---
 
 ### hünsüon&emsp;<span kind="abugida">ɂ̃ʄɐʄɽ̃</span>

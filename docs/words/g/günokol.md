@@ -3,7 +3,8 @@ id: günokol
 slug: günokol
 title: GÜNOKOL
 sidebar_position: 264
-hoverText: criminal § Adjective
+tags: [günokol, Adjective, Indo-Iranian]
+description: criminal § Adjective
 ---
 
 ### günokol&emsp;<span kind="abugida">ꜿʄƨɔ͊</span>

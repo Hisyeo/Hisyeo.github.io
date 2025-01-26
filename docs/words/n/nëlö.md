@@ -3,7 +3,8 @@ id: nëlö
 slug: nëlö
 title: NËLÖ
 sidebar_position: 733
-hoverText: black § Adjective
+tags: [nëlö, Adjective, Romance]
+description: black § Adjective
 ---
 
 ### nëlö&emsp;<span kind="abugida">ƨʇʓı</span>

@@ -3,7 +3,8 @@ id: müncü
 slug: müncü
 title: MÜNCÜ
 sidebar_position: 707
-hoverText: tart § Adjective
+tags: [müncü, Adjective, Niger-Congo]
+description: tart § Adjective
 ---
 
 ### müncü&emsp;<span kind="abugida">ƶ̃ʄꞇʄ</span>

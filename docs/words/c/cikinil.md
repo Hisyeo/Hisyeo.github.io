@@ -3,7 +3,8 @@ id: cikinil
 slug: cikinil
 title: CİKİNİL
 sidebar_position: 338
-hoverText: ear § Noun
+tags: [cikinil, Noun, Mayan]
+description: ear § Noun
 ---
 
 ### cikinil&emsp;<span kind="abugida">ꞇɟɔɟƨ͊ɟ</span>

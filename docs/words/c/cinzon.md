@@ -3,7 +3,8 @@ id: cinzon
 slug: cinzon
 title: CİNZON
 sidebar_position: 342
-hoverText: nervous/anxious § Adjective
+tags: [cinzon, Adjective, Sino-Tibetan]
+description: nervous/anxious § Adjective
 ---
 
 ### cinzon&emsp;<span kind="abugida">ꞇ̃ɟⱴ̃</span>

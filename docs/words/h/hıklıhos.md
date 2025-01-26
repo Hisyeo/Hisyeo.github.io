@@ -3,7 +3,8 @@ id: hıklıhos
 slug: hıklıhos
 title: HIKLIHOS
 sidebar_position: 141
-hoverText: supernatural/miraculous § Adjective
+tags: [hıklıhos, Adjective, Austronesian]
+description: supernatural/miraculous § Adjective
 ---
 
 ### hıklıhos&emsp;<span kind="abugida">ɂ̑ȷʓȷɂ́</span>

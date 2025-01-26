@@ -3,7 +3,8 @@ id: bono
 slug: bono
 title: BONO
 sidebar_position: 554
-hoverText: facing/pointing § Adjective
+tags: [bono, Adjective, Afroasiatic]
+description: facing/pointing § Adjective
 ---
 
 ### bono&emsp;<span kind="abugida">ʋƨ</span>

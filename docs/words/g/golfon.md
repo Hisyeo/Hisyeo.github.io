@@ -3,7 +3,8 @@ id: golfon
 slug: golfon
 title: GOLFON
 sidebar_position: 240
-hoverText: disgusted § Adjective
+tags: [golfon, Adjective, Afroasiatic]
+description: disgusted § Adjective
 ---
 
 ### golfon&emsp;<span kind="abugida">ꜿ͊ɤ̃</span>

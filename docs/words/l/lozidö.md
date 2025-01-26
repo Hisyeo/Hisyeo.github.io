@@ -3,7 +3,8 @@ id: lozidö
 slug: lozidö
 title: LOZİDÖ
 sidebar_position: 792
-hoverText: heart § Noun
+tags: [lozidö, Noun, Oto-Manguean]
+description: heart § Noun
 ---
 
 ### lozidö&emsp;<span kind="abugida">ʓⱴɟʌı</span>

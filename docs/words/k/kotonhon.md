@@ -3,7 +3,8 @@ id: kotonhon
 slug: kotonhon
 title: KOTONHON
 sidebar_position: 163
-hoverText: sudden/urgent § Adjective
+tags: [kotonhon, Adjective, Kra-Dai]
+description: sudden/urgent § Adjective
 ---
 
 ### kotonhon&emsp;<span kind="abugida">ɔc̃ɂ̃</span>

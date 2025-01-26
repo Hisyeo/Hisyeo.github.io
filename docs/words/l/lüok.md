@@ -3,7 +3,8 @@ id: lüok
 slug: lüok
 title: LÜOK
 sidebar_position: 826
-hoverText: spirit/ghost § Noun
+tags: [lüok, Noun, Afroasiatic]
+description: spirit/ghost § Noun
 ---
 
 ### lüok&emsp;<span kind="abugida">ʓʄɽ̑</span>

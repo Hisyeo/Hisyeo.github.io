@@ -3,7 +3,8 @@ id: zuko
 slug: zuko
 title: ZUKO
 sidebar_position: 534
-hoverText: bag § Noun
+tags: [zuko, Noun, Afroasiatic]
+description: bag § Noun
 ---
 
 ### zuko&emsp;<span kind="abugida">ⱴʃɔ</span>

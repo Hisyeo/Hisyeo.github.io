@@ -3,7 +3,8 @@ id: boböun
 slug: boböun
 title: BOBÖUN
 sidebar_position: 552
-hoverText: system § Noun
+tags: [boböun, Noun, Austro-asiatic]
+description: system § Noun
 ---
 
 ### boböun&emsp;<span kind="abugida">ʋʋıɽ̃ʃ</span>

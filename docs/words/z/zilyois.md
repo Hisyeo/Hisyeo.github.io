@@ -3,7 +3,8 @@ id: zilyois
 slug: zilyois
 title: ZİLYOİS
 sidebar_position: 533
-hoverText: deep § Adjective
+tags: [zilyois, Adjective, Balto-Slavic]
+description: deep § Adjective
 ---
 
 ### zilyois&emsp;<span kind="abugida">ⱴ͊ɟɀɽ́ɟ</span>

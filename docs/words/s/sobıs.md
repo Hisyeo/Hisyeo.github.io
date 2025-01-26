@@ -3,7 +3,8 @@ id: sobıs
 slug: sobıs
 title: SOBIS
 sidebar_position: 371
-hoverText: to record (data/a recording) § Verb
+tags: [sobıs, Verb, Balto-Slavic]
+description: to record (data/a recording) § Verb
 ---
 
 ### sobıs&emsp;<span kind="abugida">ɐʋ́ȷ</span>

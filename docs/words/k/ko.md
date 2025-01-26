@@ -3,7 +3,8 @@ id: ko
 slug: ko
 title: KO
 sidebar_position: 162
-hoverText: interrogative sentence ender (yes?) § Postposition
+tags: [ko, Postposition, Japonic]
+description: interrogative sentence ender (yes?) § Postposition
 ---
 
 ### ko&emsp;<span kind="abugida">ɔ</span>

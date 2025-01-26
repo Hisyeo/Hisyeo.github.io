@@ -3,7 +3,8 @@ id: cienxin
 slug: cienxin
 title: CİENXİN
 sidebar_position: 336
-hoverText: alkaline § Adjective
+tags: [cienxin, Adjective, Sino-Tibetan]
+description: alkaline § Adjective
 ---
 
 ### cienxin&emsp;<span kind="abugida">ꞇɟɽ̃ɿɋ̃ɟ</span>

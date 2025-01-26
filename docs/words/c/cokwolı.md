@@ -3,7 +3,8 @@ id: cokwolı
 slug: cokwolı
 title: COKWOLI
 sidebar_position: 307
-hoverText: pyramid § Noun
+tags: [cokwolı, Noun, Yuto-Nahuatl]
+description: pyramid § Noun
 ---
 
 ### cokwolı&emsp;<span kind="abugida">ꞇ̑ʒʓȷ</span>

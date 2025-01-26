@@ -3,7 +3,8 @@ id: cunyü
 slug: cunyü
 title: CUNYÜ
 sidebar_position: 348
-hoverText: cold § Adjective
+tags: [cunyü, Adjective, Sino-Tibetan]
+description: cold § Adjective
 ---
 
 ### cunyü&emsp;<span kind="abugida">ꞇ̃ʃɀʄ</span>

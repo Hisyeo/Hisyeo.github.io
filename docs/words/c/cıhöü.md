@@ -3,7 +3,8 @@ id: cıhöü
 slug: cıhöü
 title: CIHÖÜ
 sidebar_position: 326
-hoverText: successive marker (after) § Preposition
+tags: [cıhöü, Preposition, Sino-Tibetan]
+description: successive marker (after) § Preposition
 ---
 
 ### cıhöü&emsp;<span kind="abugida">ꞇȷɂıɽʄ</span>

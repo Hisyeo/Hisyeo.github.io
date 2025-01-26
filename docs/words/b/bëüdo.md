@@ -3,7 +3,8 @@ id: bëüdo
 slug: bëüdo
 title: BËÜDO
 sidebar_position: 572
-hoverText: to learn (a learning) § Verb
+tags: [bëüdo, Verb, Koreic]
+description: to learn (a learning) § Verb
 ---
 
 ### bëüdo&emsp;<span kind="abugida">ʋʇɽʄʌ</span>

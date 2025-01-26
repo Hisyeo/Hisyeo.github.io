@@ -3,7 +3,8 @@ id: cosni
 slug: cosni
 title: COSNİ
 sidebar_position: 309
-hoverText: private/confidential § Adjective
+tags: [cosni, Adjective, Balto-Slavic]
+description: private/confidential § Adjective
 ---
 
 ### cosni&emsp;<span kind="abugida">ꞇ́ƨɟ</span>

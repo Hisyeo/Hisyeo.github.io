@@ -3,7 +3,8 @@ id: mitetën
 slug: mitetën
 title: MİTETËN
 sidebar_position: 690
-hoverText: trivial § Adjective
+tags: [mitetën, Adjective, Uralic]
+description: trivial § Adjective
 ---
 
 ### mitetën&emsp;<span kind="abugida">ƶɟcɿc̃ʇ</span>

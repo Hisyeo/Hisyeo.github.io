@@ -3,7 +3,8 @@ id: tulutı
 slug: tulutı
 title: TULUTI
 sidebar_position: 298
-hoverText: to traverse (the traversed) § Verb
+tags: [tulutı, Verb, Indo-Iranian]
+description: to traverse (the traversed) § Verb
 ---
 
 ### tulutı&emsp;<span kind="abugida">cʃʓʃcȷ</span>

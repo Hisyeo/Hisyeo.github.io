@@ -3,7 +3,8 @@ id: büslü
 slug: büslü
 title: BÜSLÜ
 sidebar_position: 606
-hoverText: translucent § Adjective
+tags: [büslü, Adjective, Turkic]
+description: translucent § Adjective
 ---
 
 ### büslü&emsp;<span kind="abugida">ʋ́ʄʓʄ</span>

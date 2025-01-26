@@ -3,7 +3,8 @@ id: weltö
 slug: weltö
 title: WELTÖ
 sidebar_position: 767
-hoverText: limp/flaccid/flabby § Adjective
+tags: [weltö, Adjective, Uralic]
+description: limp/flaccid/flabby § Adjective
 ---
 
 ### weltö&emsp;<span kind="abugida">ʒ͊ɿcı</span>

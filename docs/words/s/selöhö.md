@@ -3,7 +3,8 @@ id: selöhö
 slug: selöhö
 title: SELÖHÖ
 sidebar_position: 388
-hoverText: theme/topic § Verb
+tags: [selöhö, Verb, Niger-Congo]
+description: theme/topic § Verb
 ---
 
 ### selöhö&emsp;<span kind="abugida">ɐɿʓıɂı</span>

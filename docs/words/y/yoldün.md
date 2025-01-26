@@ -3,7 +3,8 @@ id: yoldün
 slug: yoldün
 title: YOLDÜN
 sidebar_position: 842
-hoverText: help/aid § Noun
+tags: [yoldün, Noun, Turkic]
+description: help/aid § Noun
 ---
 
 ### yoldün&emsp;<span kind="abugida">ɀ͊ʌ̃ʄ</span>

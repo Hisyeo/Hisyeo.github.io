@@ -3,7 +3,8 @@ id: ülögun
 slug: ülögun
 title: ÜLÖGUN
 sidebar_position: 111
-hoverText: metal § Noun
+tags: [ülögun, Noun, Dravidian]
+description: metal § Noun
 ---
 
 ### ülögun&emsp;<span kind="abugida">ɽʄʓıꜿ̃ʃ</span>

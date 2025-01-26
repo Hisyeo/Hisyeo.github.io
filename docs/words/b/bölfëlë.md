@@ -3,7 +3,8 @@ id: bölfëlë
 slug: bölfëlë
 title: BÖLFËLË
 sidebar_position: 566
-hoverText: powder § Noun
+tags: [bölfëlë, Noun, Romance]
+description: powder § Noun
 ---
 
 ### bölfëlë&emsp;<span kind="abugida">ʋ͊ıɤʇʓʇ</span>

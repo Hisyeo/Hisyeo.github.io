@@ -3,7 +3,8 @@ id: tulkolyun
 slug: tulkolyun
 title: TULKOLYUN
 sidebar_position: 299
-hoverText: rolling/tumbling § Adjective
+tags: [tulkolyun, Adjective, Balto-Slavic]
+description: rolling/tumbling § Adjective
 ---
 
 ### tulkolyun&emsp;<span kind="abugida">c͊ʃɔ͊ɀ̃ʃ</span>

@@ -3,7 +3,8 @@ id: osyen
 slug: osyen
 title: OSYEN
 sidebar_position: 13
-hoverText: ancient § Adjective
+tags: [osyen, Adjective, Romance]
+description: ancient § Adjective
 ---
 
 ### osyen&emsp;<span kind="abugida">ɽ́ɀ̃ɿ</span>

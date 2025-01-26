@@ -3,7 +3,8 @@ id: cıxin
 slug: cıxin
 title: CIXİN
 sidebar_position: 327
-hoverText: to enforce (the enforced) § Verb
+tags: [cıxin, Verb, Sino-Tibetan]
+description: to enforce (the enforced) § Verb
 ---
 
 ### cıxin&emsp;<span kind="abugida">ꞇȷɋ̃ɟ</span>

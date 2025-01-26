@@ -3,7 +3,8 @@ id: sëlbö
 slug: sëlbö
 title: SËLBÖ
 sidebar_position: 395
-hoverText: yellow § Adjective
+tags: [sëlbö, Adjective, Sino-Tibetan]
+description: yellow § Adjective
 ---
 
 ### sëlbö&emsp;<span kind="abugida">ɐ͊ʇʋı</span>

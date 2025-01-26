@@ -3,7 +3,8 @@ id: muni
 slug: muni
 title: MUNİ
 sidebar_position: 696
-hoverText: money § Noun
+tags: [muni, Noun, Germanic]
+description: money § Noun
 ---
 
 ### muni&emsp;<span kind="abugida">ƶʃƨɟ</span>

@@ -3,7 +3,8 @@ id: zötëstö
 slug: zötëstö
 title: ZÖTËSTÖ
 sidebar_position: 518
-hoverText: sufficient/enough § Determiner
+tags: [zötëstö, Determiner, Indo-Iranian]
+description: sufficient/enough § Determiner
 ---
 
 ### zötëstö&emsp;<span kind="abugida">ⱴıćʇcı</span>

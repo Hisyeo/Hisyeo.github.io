@@ -3,7 +3,8 @@ id: wibolo
 slug: wibolo
 title: WİBOLO
 sidebar_position: 780
-hoverText: flag § Noun
+tags: [wibolo, Noun, Quechumaran]
+description: flag § Noun
 ---
 
 ### wibolo&emsp;<span kind="abugida">ʒɟʋʓ</span>

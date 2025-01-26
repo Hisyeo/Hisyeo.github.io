@@ -3,7 +3,8 @@ id: cönkök
 slug: cönkök
 title: CÖNKÖK
 sidebar_position: 320
-hoverText: precise/specific § Adjective
+tags: [cönkök, Adjective, Sino-Tibetan]
+description: precise/specific § Adjective
 ---
 
 ### cönkök&emsp;<span kind="abugida">ꞇ̃ıɔ̑ı</span>

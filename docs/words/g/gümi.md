@@ -3,7 +3,8 @@ id: gümi
 slug: gümi
 title: GÜMİ
 sidebar_position: 263
-hoverText: rubber § Noun
+tags: [gümi, Noun, Germanic]
+description: rubber § Noun
 ---
 
 ### gümi&emsp;<span kind="abugida">ꜿʄƶɟ</span>

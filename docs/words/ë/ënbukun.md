@@ -3,7 +3,8 @@ id: ënbukun
 slug: ënbukun
 title: ËNBUKUN
 sidebar_position: 62
-hoverText: belch/burp § Noun
+tags: [ënbukun, Noun, Dravidian]
+description: belch/burp § Noun
 ---
 
 ### ënbukun&emsp;<span kind="abugida">ɽ̃ʇʋʃɔ̃ʃ</span>

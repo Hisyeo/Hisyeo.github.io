@@ -3,7 +3,8 @@ id: totsı
 slug: totsı
 title: TOTSI
 sidebar_position: 271
-hoverText: standing § Adjective
+tags: [totsı, Adjective, Japonic]
+description: standing § Adjective
 ---
 
 ### totsı&emsp;<span kind="abugida">c̆ɐȷ</span>

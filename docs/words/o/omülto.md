@@ -3,7 +3,8 @@ id: omülto
 slug: omülto
 title: OMÜLTO
 sidebar_position: 22
-hoverText: abstract § Adjective
+tags: [omülto, Adjective, Dravidian]
+description: abstract § Adjective
 ---
 
 ### omülto&emsp;<span kind="abugida">ɽƶ͊ʄc</span>

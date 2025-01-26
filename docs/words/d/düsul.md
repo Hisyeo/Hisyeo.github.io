@@ -3,7 +3,8 @@ id: düsul
 slug: düsul
 title: DÜSUL
 sidebar_position: 498
-hoverText: grey § Adjective
+tags: [düsul, Adjective, Indo-Iranian]
+description: grey § Adjective
 ---
 
 ### düsul&emsp;<span kind="abugida">ʌʄɐ͊ʃ</span>

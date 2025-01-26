@@ -3,7 +3,8 @@ id: kiüngö
 slug: kiüngö
 title: KİÜNGÖ
 sidebar_position: 198
-hoverText: spice § Noun
+tags: [kiüngö, Noun, Niger-Congo]
+description: spice § Noun
 ---
 
 ### kiüngö&emsp;<span kind="abugida">ɔɟɽ̃ʄꜿı</span>

@@ -3,7 +3,8 @@ id: zingu
 slug: zingu
 title: ZİNGU
 sidebar_position: 531
-hoverText: orange § Adjective
+tags: [zingu, Adjective, Austronesian]
+description: orange § Adjective
 ---
 
 ### zingu&emsp;<span kind="abugida">ⱴ̃ɟꜿʃ</span>

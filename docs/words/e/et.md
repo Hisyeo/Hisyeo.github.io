@@ -3,7 +3,8 @@ id: et
 slug: et
 title: ET
 sidebar_position: 47
-hoverText: collapser/amender particle § Particle
+tags: [et, Particle, Misc]
+description: collapser/amender particle § Particle
 ---
 
 ### et&emsp;<span kind="abugida">ɽ̆ɿ</span>

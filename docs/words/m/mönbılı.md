@@ -3,7 +3,8 @@ id: mönbılı
 slug: mönbılı
 title: MÖNBILI
 sidebar_position: 675
-hoverText: far § Adjective
+tags: [mönbılı, Adjective, Tupian]
+description: far § Adjective
 ---
 
 ### mönbılı&emsp;<span kind="abugida">ƶ̃ıʋȷʓȷ</span>

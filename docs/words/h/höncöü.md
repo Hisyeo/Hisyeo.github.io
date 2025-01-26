@@ -3,7 +3,8 @@ id: höncöü
 slug: höncöü
 title: HÖNCÖÜ
 sidebar_position: 132
-hoverText: herb § Noun
+tags: [höncöü, Noun, Sino-Tibetan]
+description: herb § Noun
 ---
 
 ### höncöü&emsp;<span kind="abugida">ɂ̃ıꞇıɽʄ</span>

@@ -3,7 +3,8 @@ id: künhiun
 slug: künhiun
 title: KÜNHİUN
 sidebar_position: 223
-hoverText: step/pace § Noun
+tags: [künhiun, Noun, Austro-Asiatic]
+description: step/pace § Noun
 ---
 
 ### künhiun&emsp;<span kind="abugida">ɔ̃ʄɂɟɽ̃ʃ</span>

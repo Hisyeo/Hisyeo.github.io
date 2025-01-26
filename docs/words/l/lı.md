@@ -3,7 +3,8 @@ id: lı
 slug: lı
 title: LI
 sidebar_position: 810
-hoverText: subject complement marker § Preposition
+tags: [lı, Preposition, Misc]
+description: subject complement marker § Preposition
 ---
 
 ### lı&emsp;<span kind="abugida">ʓȷ</span>

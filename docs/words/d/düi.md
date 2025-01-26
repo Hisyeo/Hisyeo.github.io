@@ -3,7 +3,8 @@ id: düi
 slug: düi
 title: DÜİ
 sidebar_position: 496
-hoverText: 02 two § Numeral
+tags: [düi, Numeral, Indo-Iranian]
+description: 02 two § Numeral
 ---
 
 ### düi&emsp;<span kind="abugida">ʌʄɽɟ</span>

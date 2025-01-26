@@ -3,7 +3,8 @@ id: söhoük
 slug: söhoük
 title: SÖHOÜK
 sidebar_position: 380
-hoverText: arithmetic/math § Noun
+tags: [söhoük, Noun, Austro-Asiatic]
+description: arithmetic/math § Noun
 ---
 
 ### söhoük&emsp;<span kind="abugida">ɐıɂɽ̑ʄ</span>

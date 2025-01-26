@@ -3,7 +3,8 @@ id: könën
 slug: könën
 title: KÖNËN
 sidebar_position: 183
-hoverText: possible/likely § Adjective
+tags: [könën, Adjective, Sino-Tibetan]
+description: possible/likely § Adjective
 ---
 
 ### könën&emsp;<span kind="abugida">ɔıƨ̃ʇ</span>

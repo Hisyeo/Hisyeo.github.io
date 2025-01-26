@@ -3,7 +3,8 @@ id: güexo
 slug: güexo
 title: GÜEXO
 sidebar_position: 257
-hoverText: war § Noun
+tags: [güexo, Noun, Romance]
+description: war § Noun
 ---
 
 ### güexo&emsp;<span kind="abugida">ꜿʄɽɿɋ</span>

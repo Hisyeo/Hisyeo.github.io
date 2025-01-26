@@ -3,7 +3,8 @@ id: ücümi
 slug: ücümi
 title: ÜCÜMİ
 sidebar_position: 99
-hoverText: economy § Noun
+tags: [ücümi, Noun, Niger-Congo]
+description: economy § Noun
 ---
 
 ### ücümi&emsp;<span kind="abugida">ɽʄꞇʄƶɟ</span>

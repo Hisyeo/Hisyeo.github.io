@@ -3,7 +3,8 @@ id: cies
 slug: cies
 title: CİES
 sidebar_position: 335
-hoverText: tight/firm § Adjective
+tags: [cies, Adjective, Balto-Slavic]
+description: tight/firm § Adjective
 ---
 
 ### cies&emsp;<span kind="abugida">ꞇɟɽ́ɿ</span>

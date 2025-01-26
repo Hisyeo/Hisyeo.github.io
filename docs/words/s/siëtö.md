@@ -3,7 +3,8 @@ id: siëtö
 slug: siëtö
 title: SİËTÖ
 sidebar_position: 400
-hoverText: plate § Noun
+tags: [siëtö, Noun, Romance]
+description: plate § Noun
 ---
 
 ### siëtö&emsp;<span kind="abugida">ɐɟɽʇcı</span>

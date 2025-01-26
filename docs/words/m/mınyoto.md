@@ -3,7 +3,8 @@ id: mınyoto
 slug: mınyoto
 title: MINYOTO
 sidebar_position: 684
-hoverText: gastropod § Noun
+tags: [mınyoto, Noun, Romance]
+description: gastropod § Noun
 ---
 
 ### mınyoto&emsp;<span kind="abugida">ƶ̃ȷɀc</span>

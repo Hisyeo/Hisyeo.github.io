@@ -3,7 +3,8 @@ id: micin
 slug: micin
 title: MİCİN
 sidebar_position: 692
-hoverText: fish § Noun
+tags: [micin, Noun, Yuto-Nahuatl]
+description: fish § Noun
 ---
 
 ### micin&emsp;<span kind="abugida">ƶɟꞇ̃ɟ</span>

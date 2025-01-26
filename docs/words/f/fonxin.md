@@ -3,7 +3,8 @@ id: fonxin
 slug: fonxin
 title: FONXİN
 sidebar_position: 620
-hoverText: square/rectangle § Noun
+tags: [fonxin, Noun, Sino-Tibetan]
+description: square/rectangle § Noun
 ---
 
 ### fonxin&emsp;<span kind="abugida">ɤ̃ɋ̃ɟ</span>

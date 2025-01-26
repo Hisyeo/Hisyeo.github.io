@@ -3,7 +3,8 @@ id: di
 slug: di
 title: Dİ
 sidebar_position: 484
-hoverText: to become (a trait) § Verb
+tags: [di, Verb, Niger-Congo]
+description: to become (a trait) § Verb
 ---
 
 ### di&emsp;<span kind="abugida">ʌɟ</span>

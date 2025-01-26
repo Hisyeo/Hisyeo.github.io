@@ -3,7 +3,8 @@ id: güso
 slug: güso
 title: GÜSO
 sidebar_position: 259
-hoverText: angry § Adjective
+tags: [güso, Adjective, Indo-Iranian]
+description: angry § Adjective
 ---
 
 ### güso&emsp;<span kind="abugida">ꜿʄɐ</span>

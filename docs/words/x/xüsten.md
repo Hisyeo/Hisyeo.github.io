@@ -3,7 +3,8 @@ id: xüsten
 slug: xüsten
 title: XÜSTEN
 sidebar_position: 459
-hoverText: to wash (the washed) § Verb
+tags: [xüsten, Verb, Indo-Iranian]
+description: to wash (the washed) § Verb
 ---
 
 ### xüsten&emsp;<span kind="abugida">ɋ́ʄc̃ɿ</span>

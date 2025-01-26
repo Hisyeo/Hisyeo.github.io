@@ -3,7 +3,8 @@ id: döcui
 slug: döcui
 title: DÖCUİ
 sidebar_position: 473
-hoverText: toy § Noun
+tags: [döcui, Noun, Austro-Asiatic]
+description: toy § Noun
 ---
 
 ### döcui&emsp;<span kind="abugida">ʌıꞇʃɽɟ</span>

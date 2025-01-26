@@ -3,7 +3,8 @@ id: tö
 slug: tö
 title: TÖ
 sidebar_position: 279
-hoverText: instrument/manner marker (using/with) § Preposition
+tags: [tö, Preposition, Dravidian]
+description: instrument/manner marker (using/with) § Preposition
 ---
 
 ### tö&emsp;<span kind="abugida">cı</span>

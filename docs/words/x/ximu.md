@@ -3,7 +3,8 @@ id: ximu
 slug: ximu
 title: XİMU
 sidebar_position: 452
-hoverText: water § Noun
+tags: [ximu, Noun, Nilo-Saharan]
+description: water § Noun
 ---
 
 ### ximu&emsp;<span kind="abugida">ɋɟƶʃ</span>

@@ -3,7 +3,8 @@ id: xolxili
 slug: xolxili
 title: XOLXİLİ
 sidebar_position: 433
-hoverText: teal § Adjective
+tags: [xolxili, Adjective, Afroasiatic]
+description: teal § Adjective
 ---
 
 ### xolxili&emsp;<span kind="abugida">ɋ͊ɋɟʓɟ</span>

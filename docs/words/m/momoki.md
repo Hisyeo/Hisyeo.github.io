@@ -3,7 +3,8 @@ id: momoki
 slug: momoki
 title: MOMOKİ
 sidebar_position: 661
-hoverText: surprised § Adjective
+tags: [momoki, Adjective, Afroasiatic]
+description: surprised § Adjective
 ---
 
 ### momoki&emsp;<span kind="abugida">ƶƶɔɟ</span>

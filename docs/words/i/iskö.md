@@ -3,7 +3,8 @@ id: iskö
 slug: iskö
 title: İSKÖ
 sidebar_position: 74
-hoverText: to drink (a drink) § Verb
+tags: [iskö, Verb, Muskogean]
+description: to drink (a drink) § Verb
 ---
 
 ### iskö&emsp;<span kind="abugida">ɽ́ɟɔı</span>

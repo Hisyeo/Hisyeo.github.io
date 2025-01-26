@@ -3,7 +3,8 @@ id: ulyö
 slug: ulyö
 title: ULYÖ
 sidebar_position: 95
-hoverText: medial demonstrative (that/there) § Pronoun
+tags: [ulyö, Pronoun, Romance]
+description: medial demonstrative (that/there) § Pronoun
 ---
 
 ### ulyö&emsp;<span kind="abugida">ɽ͊ʃɀı</span>

@@ -3,7 +3,8 @@ id: limien
 slug: limien
 title: LİMİEN
 sidebar_position: 822
-hoverText: inside § Noun
+tags: [limien, Noun, Sino-Tibetan]
+description: inside § Noun
 ---
 
 ### limien&emsp;<span kind="abugida">ʓɟƶɟɽ̃ɿ</span>

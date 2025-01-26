@@ -3,7 +3,8 @@ id: bındü
 slug: bındü
 title: BINDÜ
 sidebar_position: 579
-hoverText: dot § Noun
+tags: [bındü, Noun, Indo-Iranian]
+description: dot § Noun
 ---
 
 ### bındü&emsp;<span kind="abugida">ʋ̃ȷʌʄ</span>

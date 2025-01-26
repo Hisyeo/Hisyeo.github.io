@@ -3,7 +3,8 @@ id: kösmö
 slug: kösmö
 title: KÖSMÖ
 sidebar_position: 179
-hoverText: space/cosmos § Noun
+tags: [kösmö, Noun, Romance]
+description: space/cosmos § Noun
 ---
 
 ### kösmö&emsp;<span kind="abugida">ɔ́ıƶı</span>

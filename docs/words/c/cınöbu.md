@@ -3,7 +3,8 @@ id: cınöbu
 slug: cınöbu
 title: CINÖBU
 sidebar_position: 332
-hoverText: vermilion § Adjective
+tags: [cınöbu, Adjective, Germanic]
+description: vermilion § Adjective
 ---
 
 ### cınöbu&emsp;<span kind="abugida">ꞇȷƨıʋʃ</span>

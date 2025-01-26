@@ -3,7 +3,8 @@ id: nulühu
 slug: nulühu
 title: NULÜHU
 sidebar_position: 751
-hoverText: abuse § Noun
+tags: [nulühu, Noun, Balto-Slavic]
+description: abuse § Noun
 ---
 
 ### nulühu&emsp;<span kind="abugida">ƨʃʓʄɂʃ</span>

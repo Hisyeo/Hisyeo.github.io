@@ -3,7 +3,8 @@ id: ses
 slug: ses
 title: SES
 sidebar_position: 387
-hoverText: 16 sixteen § Numeral
+tags: [ses, Numeral, Romance]
+description: 16 sixteen § Numeral
 ---
 
 ### ses&emsp;<span kind="abugida">ɐ́ɿ</span>

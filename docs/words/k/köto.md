@@ -3,7 +3,8 @@ id: köto
 slug: köto
 title: KÖTO
 sidebar_position: 174
-hoverText: to talk (speech) § Verb
+tags: [köto, Verb, Indo-Iranian]
+description: to talk (speech) § Verb
 ---
 
 ### köto&emsp;<span kind="abugida">ɔıc</span>

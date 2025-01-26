@@ -3,7 +3,8 @@ id: woküt
 slug: woküt
 title: WOKÜT
 sidebar_position: 756
-hoverText: time § Noun
+tags: [woküt, Noun, Turkic]
+description: time § Noun
 ---
 
 ### woküt&emsp;<span kind="abugida">ʒɔ̆ʄ</span>

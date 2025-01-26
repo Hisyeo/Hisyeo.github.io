@@ -3,7 +3,8 @@ id: bostofis
 slug: bostofis
 title: BOSTOFİS
 sidebar_position: 549
-hoverText: representative/delegate § Noun
+tags: [bostofis, Noun, Balto-Slavic]
+description: representative/delegate § Noun
 ---
 
 ### bostofis&emsp;<span kind="abugida">ʋ́cɤ́ɟ</span>

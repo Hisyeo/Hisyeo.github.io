@@ -3,7 +3,8 @@ id: zigil
 slug: zigil
 title: ZİGİL
 sidebar_position: 527
-hoverText: falling § Adjective
+tags: [zigil, Adjective, Turkic]
+description: falling § Adjective
 ---
 
 ### zigil&emsp;<span kind="abugida">ⱴɟꜿ͊ɟ</span>

@@ -3,7 +3,8 @@ id: mefüs
 slug: mefüs
 title: MEFÜS
 sidebar_position: 676
-hoverText: safe § Adjective
+tags: [mefüs, Adjective, Indo-Iranian]
+description: safe § Adjective
 ---
 
 ### mefüs&emsp;<span kind="abugida">ƶɿɤ́ʄ</span>

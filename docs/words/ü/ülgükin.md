@@ -3,7 +3,8 @@ id: ülgükin
 slug: ülgükin
 title: ÜLGÜKİN
 sidebar_position: 113
-hoverText: dry § Adjective
+tags: [ülgükin, Adjective, Tungusic]
+description: dry § Adjective
 ---
 
 ### ülgükin&emsp;<span kind="abugida">ɽ͊ʄꜿʄɔ̃ɟ</span>

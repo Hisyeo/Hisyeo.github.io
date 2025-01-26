@@ -3,7 +3,8 @@ id: yobë
 slug: yobë
 title: YOBË
 sidebar_position: 839
-hoverText: artificial § Adjective
+tags: [yobë, Adjective, Turkic]
+description: artificial § Adjective
 ---
 
 ### yobë&emsp;<span kind="abugida">ɀʋʇ</span>

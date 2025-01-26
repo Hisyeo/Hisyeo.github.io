@@ -3,7 +3,8 @@ id: zütö
 slug: zütö
 title: ZÜTÖ
 sidebar_position: 538
-hoverText: to regret (a regret) § Verb
+tags: [zütö, Verb, Niger-Congo]
+description: to regret (a regret) § Verb
 ---
 
 ### zütö&emsp;<span kind="abugida">ⱴʄcı</span>

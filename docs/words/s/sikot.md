@@ -3,7 +3,8 @@ id: sikot
 slug: sikot
 title: SİKOT
 sidebar_position: 402
-hoverText: brush/comb/rake/broom § Noun
+tags: [sikot, Noun, Austronesian]
+description: brush/comb/rake/broom § Noun
 ---
 
 ### sikot&emsp;<span kind="abugida">ɐɟɔ̆</span>

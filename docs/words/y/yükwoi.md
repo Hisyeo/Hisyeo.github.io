@@ -3,7 +3,8 @@ id: yükwoi
 slug: yükwoi
 title: YÜKWOİ
 sidebar_position: 854
-hoverText: monster § Noun
+tags: [yükwoi, Noun, Sino-Tibetan]
+description: monster § Noun
 ---
 
 ### yükwoi&emsp;<span kind="abugida">ɀ̑ʄʒɽɟ</span>

@@ -3,7 +3,8 @@ id: ëo
 slug: ëo
 title: ËO
 sidebar_position: 55
-hoverText: causative verb particle § Particle
+tags: [ëo, Particle, Misc]
+description: causative verb particle § Particle
 ---
 
 ### ëo&emsp;<span kind="abugida">ɽʇɽ</span>

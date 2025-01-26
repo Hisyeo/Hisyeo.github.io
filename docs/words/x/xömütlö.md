@@ -3,7 +3,8 @@ id: xömütlö
 slug: xömütlö
 title: XÖMÜTLÖ
 sidebar_position: 435
-hoverText: ocean § Noun
+tags: [xömütlö, Noun, Indo-Iranian]
+description: ocean § Noun
 ---
 
 ### xömütlö&emsp;<span kind="abugida">ɋıƶ̆ʄʓı</span>

@@ -3,7 +3,8 @@ id: hüwuncul
 slug: hüwuncul
 title: HÜWUNCUL
 sidebar_position: 159
-hoverText: plastic § Noun
+tags: [hüwuncul, Noun, Mongolic]
+description: plastic § Noun
 ---
 
 ### hüwuncul&emsp;<span kind="abugida">ɂʄʒ̃ʃꞇ͊ʃ</span>

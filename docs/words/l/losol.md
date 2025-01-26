@@ -3,7 +3,8 @@ id: losol
 slug: losol
 title: LOSOL
 sidebar_position: 790
-hoverText: original § Adjective
+tags: [losol, Adjective, Nilo-Saharan]
+description: original § Adjective
 ---
 
 ### losol&emsp;<span kind="abugida">ʓɐ͊</span>

@@ -3,7 +3,8 @@ id: köi
 slug: köi
 title: KÖİ
 sidebar_position: 172
-hoverText: epistemic verb particle § Particle
+tags: [köi, Particle, Sino-Tibetan]
+description: epistemic verb particle § Particle
 ---
 
 ### köi&emsp;<span kind="abugida">ɔıɽɟ</span>

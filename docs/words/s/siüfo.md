@@ -3,7 +3,8 @@ id: siüfo
 slug: siüfo
 title: SİÜFO
 sidebar_position: 401
-hoverText: to digest (the digested) § Verb
+tags: [siüfo, Verb, Sino-Tibetan]
+description: to digest (the digested) § Verb
 ---
 
 ### siüfo&emsp;<span kind="abugida">ɐɟɽʄɤ</span>

@@ -3,7 +3,8 @@ id: solilo
 slug: solilo
 title: SOLİLO
 sidebar_position: 378
-hoverText: body § Noun
+tags: [solilo, Noun, Indo-Iranian]
+description: body § Noun
 ---
 
 ### solilo&emsp;<span kind="abugida">ɐʓɟʓ</span>

@@ -3,7 +3,8 @@ id: nëös
 slug: nëös
 title: NËÖS
 sidebar_position: 730
-hoverText: new/fresh § Adjective
+tags: [nëös, Adjective, Hellenic]
+description: new/fresh § Adjective
 ---
 
 ### nëös&emsp;<span kind="abugida">ƨʇɽ́ı</span>

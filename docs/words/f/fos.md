@@ -3,7 +3,8 @@ id: fos
 slug: fos
 title: FOS
 sidebar_position: 617
-hoverText: free subordinate clause particle § Particle
+tags: [fos, Particle, Germanic]
+description: free subordinate clause particle § Particle
 ---
 
 ### fos&emsp;<span kind="abugida">ɤ́</span>

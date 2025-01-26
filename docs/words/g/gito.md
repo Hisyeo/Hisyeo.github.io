@@ -3,7 +3,8 @@ id: gito
 slug: gito
 title: GİTO
 sidebar_position: 252
-hoverText: line § Noun
+tags: [gito, Noun, Dravidian]
+description: line § Noun
 ---
 
 ### gito&emsp;<span kind="abugida">ꜿɟc</span>

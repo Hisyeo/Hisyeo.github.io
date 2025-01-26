@@ -3,7 +3,8 @@ id: müncoti
 slug: müncoti
 title: MÜNCOTİ
 sidebar_position: 706
-hoverText: to release/drop (the released/dropped) § Verb
+tags: [müncoti, Verb, Indo-Iranian]
+description: to release/drop (the released/dropped) § Verb
 ---
 
 ### müncoti&emsp;<span kind="abugida">ƶ̃ʄꞇcɟ</span>

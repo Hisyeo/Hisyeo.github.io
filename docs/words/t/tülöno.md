@@ -3,7 +3,8 @@ id: tülöno
 slug: tülöno
 title: TÜLÖNO
 sidebar_position: 305
-hoverText: comparison § Noun
+tags: [tülöno, Noun, Indo-Iranian]
+description: comparison § Noun
 ---
 
 ### tülöno&emsp;<span kind="abugida">cʄʓıƨ</span>

@@ -3,7 +3,8 @@ id: but
 slug: but
 title: BUT
 sidebar_position: 596
-hoverText: open § Adjective
+tags: [but, Adjective, Kra-Dai]
+description: open § Adjective
 ---
 
 ### but&emsp;<span kind="abugida">ʋ̆ʃ</span>

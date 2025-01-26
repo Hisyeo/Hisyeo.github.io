@@ -3,7 +3,8 @@ id: sunyotni
 slug: sunyotni
 title: SUNYOTNİ
 sidebar_position: 412
-hoverText: interested/amused § Adjective
+tags: [sunyotni, Adjective, Balto-Slavic]
+description: interested/amused § Adjective
 ---
 
 ### sunyotni&emsp;<span kind="abugida">ɐ̃ʃɀ̆ƨɟ</span>

@@ -3,7 +3,8 @@ id: kukwon
 slug: kukwon
 title: KUKWON
 sidebar_position: 209
-hoverText: organ/member § Noun
+tags: [kukwon, Noun, Austro-Asiatic]
+description: organ/member § Noun
 ---
 
 ### kukwon&emsp;<span kind="abugida">ɔ̑ʃʒ̃</span>

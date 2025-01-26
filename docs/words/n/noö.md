@@ -3,7 +3,8 @@ id: noö
 slug: noö
 title: NOÖ
 sidebar_position: 709
-hoverText: wave § Noun
+tags: [noö, Noun, Austronesian]
+description: wave § Noun
 ---
 
 ### noö&emsp;<span kind="abugida">ƨɽı</span>

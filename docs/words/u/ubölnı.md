@@ -3,7 +3,8 @@ id: ubölnı
 slug: ubölnı
 title: UBÖLNI
 sidebar_position: 87
-hoverText: resistant § Adjective
+tags: [ubölnı, Adjective, Balto-Slavic]
+description: resistant § Adjective
 ---
 
 ### ubölnı&emsp;<span kind="abugida">ɽʃʋ͊ıƨȷ</span>

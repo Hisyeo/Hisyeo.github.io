@@ -3,7 +3,8 @@ id: küonxün
 slug: küonxün
 title: KÜONXÜN
 sidebar_position: 214
-hoverText: tolerant § Adjective
+tags: [küonxün, Adjective, Sino-Tibetan]
+description: tolerant § Adjective
 ---
 
 ### küonxün&emsp;<span kind="abugida">ɔʄɽ̃ɋ̃ʄ</span>

@@ -3,7 +3,8 @@ id: böklön
 slug: böklön
 title: BÖKLÖN
 sidebar_position: 563
-hoverText: to govern (the governed) § Verb
+tags: [böklön, Verb, Kra-Dai]
+description: to govern (the governed) § Verb
 ---
 
 ### böklön&emsp;<span kind="abugida">ʋ̑ıʓ̃ı</span>

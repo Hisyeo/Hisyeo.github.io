@@ -3,7 +3,8 @@ id: lionxin
 slug: lionxin
 title: LİONXİN
 sidebar_position: 811
-hoverText: conscientious § Adjective
+tags: [lionxin, Adjective, Sino-Tibetan]
+description: conscientious § Adjective
 ---
 
 ### lionxin&emsp;<span kind="abugida">ʓɟɽ̃ɋ̃ɟ</span>

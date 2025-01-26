@@ -3,7 +3,8 @@ id: künbi
 slug: künbi
 title: KÜNBİ
 sidebar_position: 226
-hoverText: scene/stage § Noun
+tags: [künbi, Noun, Niger-Congo]
+description: scene/stage § Noun
 ---
 
 ### künbi&emsp;<span kind="abugida">ɔ̃ʄʋɟ</span>

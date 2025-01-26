@@ -3,7 +3,8 @@ id: büzök
 slug: büzök
 title: BÜZÖK
 sidebar_position: 609
-hoverText: lack § Determiner
+tags: [büzök, Determiner, Koreic]
+description: lack § Determiner
 ---
 
 ### büzök&emsp;<span kind="abugida">ʋʄⱴ̑ı</span>

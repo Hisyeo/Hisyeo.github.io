@@ -3,7 +3,8 @@ id: fiki
 slug: fiki
 title: FİKİ
 sidebar_position: 636
-hoverText: fast § Adjective
+tags: [fiki, Adjective, Austronesian]
+description: fast § Adjective
 ---
 
 ### fiki&emsp;<span kind="abugida">ɤɟɔɟ</span>

@@ -3,7 +3,8 @@ id: xön
 slug: xön
 title: XÖN
 sidebar_position: 436
-hoverText: good § Adjective
+tags: [xön, Adjective, Hmong-Mien]
+description: good § Adjective
 ---
 
 ### xön&emsp;<span kind="abugida">ɋ̃ı</span>

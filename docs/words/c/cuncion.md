@@ -3,7 +3,8 @@ id: cuncion
 slug: cuncion
 title: CUNCİON
 sidebar_position: 346
-hoverText: to fortify (the fortified) § Verb
+tags: [cuncion, Verb, Sino-Tibetan]
+description: to fortify (the fortified) § Verb
 ---
 
 ### cuncion&emsp;<span kind="abugida">ꞇ̃ʃꞇɟɽ̃</span>

@@ -3,7 +3,8 @@ id: yundöü
 slug: yundöü
 title: YUNDÖÜ
 sidebar_position: 853
-hoverText: to guide (the guided) § Verb
+tags: [yundöü, Verb, Sino-Tibetan]
+description: to guide (the guided) § Verb
 ---
 
 ### yundöü&emsp;<span kind="abugida">ɀ̃ʃʌıɽʄ</span>

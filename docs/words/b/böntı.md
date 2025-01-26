@@ -3,7 +3,8 @@ id: böntı
 slug: böntı
 title: BÖNTI
 sidebar_position: 565
-hoverText: bridge § Noun
+tags: [böntı, Noun, Romance]
+description: bridge § Noun
 ---
 
 ### böntı&emsp;<span kind="abugida">ʋ̃ıcȷ</span>

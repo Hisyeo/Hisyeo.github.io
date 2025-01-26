@@ -3,7 +3,8 @@ id: yöüli
 slug: yöüli
 title: YÖÜLİ
 sidebar_position: 844
-hoverText: beneficial § Adjective
+tags: [yöüli, Adjective, Sino-Tibetan]
+description: beneficial § Adjective
 ---
 
 ### yöüli&emsp;<span kind="abugida">ɀıɽʄʓɟ</span>

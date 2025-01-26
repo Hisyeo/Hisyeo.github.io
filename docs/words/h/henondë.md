@@ -3,7 +3,8 @@ id: henondë
 slug: henondë
 title: HENONDË
 sidebar_position: 136
-hoverText: hanging § Adjective
+tags: [henondë, Adjective, Germanic]
+description: hanging § Adjective
 ---
 
 ### henondë&emsp;<span kind="abugida">ɂɿƨ̃ʌʇ</span>

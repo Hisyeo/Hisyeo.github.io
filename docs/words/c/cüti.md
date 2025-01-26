@@ -3,7 +3,8 @@ id: cüti
 slug: cüti
 title: CÜTİ
 sidebar_position: 352
-hoverText: small § Adjective
+tags: [cüti, Adjective, Mayan]
+description: small § Adjective
 ---
 
 ### cüti&emsp;<span kind="abugida">ꞇʄcɟ</span>

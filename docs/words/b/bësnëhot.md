@@ -3,7 +3,8 @@ id: bësnëhot
 slug: bësnëhot
 title: BËSNËHOT
 sidebar_position: 574
-hoverText: to suggest (a suggestion) § Verb
+tags: [bësnëhot, Verb, Indo-Iranian]
+description: to suggest (a suggestion) § Verb
 ---
 
 ### bësnëhot&emsp;<span kind="abugida">ʋ́ʇƨʇɂ̆</span>

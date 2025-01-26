@@ -3,7 +3,8 @@ id: üsowo
 slug: üsowo
 title: ÜSOWO
 sidebar_position: 100
-hoverText: balanced § Adjective
+tags: [üsowo, Adjective, Niger-Congo]
+description: balanced § Adjective
 ---
 
 ### üsowo&emsp;<span kind="abugida">ɽʄɐʒ</span>

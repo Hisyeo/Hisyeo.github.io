@@ -3,7 +3,8 @@ id: sofin
 slug: sofin
 title: SOFİN
 sidebar_position: 373
-hoverText: pure § Adjective
+tags: [sofin, Adjective, Afroasiatic]
+description: pure § Adjective
 ---
 
 ### sofin&emsp;<span kind="abugida">ɐɤ̃ɟ</span>

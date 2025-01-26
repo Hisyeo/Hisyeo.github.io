@@ -3,7 +3,8 @@ id: kinsë
 slug: kinsë
 title: KİNSË
 sidebar_position: 205
-hoverText: 15 fifteen § Numeral
+tags: [kinsë, Numeral, Austronesian]
+description: 15 fifteen § Numeral
 ---
 
 ### kinsë&emsp;<span kind="abugida">ɔ̃ɟɐʇ</span>

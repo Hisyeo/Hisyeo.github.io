@@ -3,7 +3,8 @@ id: öbok
 slug: öbok
 title: ÖBOK
 sidebar_position: 41
-hoverText: opaque § Adjective
+tags: [öbok, Adjective, Romance]
+description: opaque § Adjective
 ---
 
 ### öbok&emsp;<span kind="abugida">ɽıʋ̑</span>

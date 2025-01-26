@@ -3,7 +3,8 @@ id: ubënus
 slug: ubënus
 title: UBËNUS
 sidebar_position: 88
-hoverText: barely § Adjective
+tags: [ubënus, Adjective, Romance]
+description: barely § Adjective
 ---
 
 ### ubënus&emsp;<span kind="abugida">ɽʃʋʇƨ́ʃ</span>

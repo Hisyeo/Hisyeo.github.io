@@ -3,7 +3,8 @@ id: ixölö
 slug: ixölö
 title: İXÖLÖ
 sidebar_position: 76
-hoverText: problem § Noun
+tags: [ixölö, Noun, Niger-Congo]
+description: problem § Noun
 ---
 
 ### ixölö&emsp;<span kind="abugida">ɽɟɋıʓı</span>

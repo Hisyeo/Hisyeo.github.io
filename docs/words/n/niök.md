@@ -3,7 +3,8 @@ id: niök
 slug: niök
 title: NİÖK
 sidebar_position: 740
-hoverText: growing § Adjective
+tags: [niök, Adjective, Kra-Dai]
+description: growing § Adjective
 ---
 
 ### niök&emsp;<span kind="abugida">ƨɟɽ̑ı</span>

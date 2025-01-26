@@ -3,7 +3,8 @@ id: xincüon
 slug: xincüon
 title: XİNCÜON
 sidebar_position: 453
-hoverText: shape/form § Noun
+tags: [xincüon, Noun, Sino-Tibetan]
+description: shape/form § Noun
 ---
 
 ### xincüon&emsp;<span kind="abugida">ɋ̃ɟꞇʄɽ̃</span>

@@ -3,7 +3,8 @@ id: hunzidü
 slug: hunzidü
 title: HUNZİDÜ
 sidebar_position: 147
-hoverText: creak/squeak § Noun
+tags: [hunzidü, Noun, Romance]
+description: creak/squeak § Noun
 ---
 
 ### hunzidü&emsp;<span kind="abugida">ɂ̃ʃⱴɟʌʄ</span>

@@ -3,7 +3,8 @@ id: si
 slug: si
 title: Sİ
 sidebar_position: 399
-hoverText: perfect verb particle § Particle
+tags: [si, Particle, Germanic]
+description: perfect verb particle § Particle
 ---
 
 ### si&emsp;<span kind="abugida">ɐɟ</span>

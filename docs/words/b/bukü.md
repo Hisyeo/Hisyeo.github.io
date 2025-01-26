@@ -3,7 +3,8 @@ id: bukü
 slug: bukü
 title: BUKÜ
 sidebar_position: 595
-hoverText: frozen § Adjective
+tags: [bukü, Adjective, Austronesian]
+description: frozen § Adjective
 ---
 
 ### bukü&emsp;<span kind="abugida">ʋʃɔʄ</span>

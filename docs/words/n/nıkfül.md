@@ -3,7 +3,8 @@ id: nıkfül
 slug: nıkfül
 title: NIKFÜL
 sidebar_position: 735
-hoverText: ficke/capricious § Adjective
+tags: [nıkfül, Adjective, Germanic]
+description: ficke/capricious § Adjective
 ---
 
 ### nıkfül&emsp;<span kind="abugida">ƨ̑ȷɤ͊ʄ</span>

@@ -3,7 +3,8 @@ id: ufülit
 slug: ufülit
 title: UFÜLİT
 sidebar_position: 89
-hoverText: bored § Adjective
+tags: [ufülit, Adjective, Romance]
+description: bored § Adjective
 ---
 
 ### ufülit&emsp;<span kind="abugida">ɽʃɤʄʓ̆ɟ</span>

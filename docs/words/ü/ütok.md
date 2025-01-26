@@ -3,7 +3,8 @@ id: ütok
 slug: ütok
 title: ÜTOK
 sidebar_position: 98
-hoverText: also § Adjective
+tags: [ütok, Adjective, Quechumaran]
+description: also § Adjective
 ---
 
 ### ütok&emsp;<span kind="abugida">ɽʄc̑</span>

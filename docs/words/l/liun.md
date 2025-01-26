@@ -3,7 +3,8 @@ id: liun
 slug: liun
 title: LİUN
 sidebar_position: 812
-hoverText: to nurture/grow (the nurtured/grown) § Verb
+tags: [liun, Verb, Austro-Asiatic]
+description: to nurture/grow (the nurtured/grown) § Verb
 ---
 
 ### liun&emsp;<span kind="abugida">ʓɟɽ̃ʃ</span>

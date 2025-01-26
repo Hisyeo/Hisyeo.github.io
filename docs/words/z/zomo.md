@@ -3,7 +3,8 @@ id: zomo
 slug: zomo
 title: ZOMO
 sidebar_position: 507
-hoverText: group § Noun
+tags: [zomo, Noun, Afroasiatic]
+description: group § Noun
 ---
 
 ### zomo&emsp;<span kind="abugida">ⱴƶ</span>

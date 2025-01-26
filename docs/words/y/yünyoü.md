@@ -3,7 +3,8 @@ id: yünyoü
 slug: yünyoü
 title: YÜNYOÜ
 sidebar_position: 856
-hoverText: to have (a possession) § Verb
+tags: [yünyoü, Verb, Sino-Tibetan]
+description: to have (a possession) § Verb
 ---
 
 ### yünyoü&emsp;<span kind="abugida">ɀ̃ʄɀɽʄ</span>

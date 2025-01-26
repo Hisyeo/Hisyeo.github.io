@@ -3,7 +3,8 @@ id: doi
 slug: doi
 title: DOİ
 sidebar_position: 462
-hoverText: string § Noun
+tags: [doi, Noun, Kra-Dai]
+description: string § Noun
 ---
 
 ### doi&emsp;<span kind="abugida">ʌɽɟ</span>

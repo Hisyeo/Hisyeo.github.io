@@ -3,7 +3,8 @@ id: lözic
 slug: lözic
 title: LÖZİC
 sidebar_position: 802
-hoverText: to give birth to (a baby) § Verb
+tags: [lözic, Verb, Balto-Slavic]
+description: to give birth to (a baby) § Verb
 ---
 
 ### lözic&emsp;<span kind="abugida">ʓıⱴ̄ɟ</span>

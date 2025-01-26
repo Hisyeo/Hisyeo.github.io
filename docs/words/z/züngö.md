@@ -3,7 +3,8 @@ id: züngö
 slug: züngö
 title: ZÜNGÖ
 sidebar_position: 539
-hoverText: hand § Noun
+tags: [züngö, Noun, Niger-Congo]
+description: hand § Noun
 ---
 
 ### züngö&emsp;<span kind="abugida">ⱴ̃ʄꜿı</span>

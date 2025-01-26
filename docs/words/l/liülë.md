@@ -3,7 +3,8 @@ id: liülë
 slug: liülë
 title: LİÜLË
 sidebar_position: 814
-hoverText: laughing § Adjective
+tags: [liülë, Adjective, Romance]
+description: laughing § Adjective
 ---
 
 ### liülë&emsp;<span kind="abugida">ʓɟɽʄʓʇ</span>

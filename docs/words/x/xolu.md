@@ -3,7 +3,8 @@ id: xolu
 slug: xolu
 title: XOLU
 sidebar_position: 432
-hoverText: bowl/cup § Noun
+tags: [xolu, Noun, Germanic]
+description: bowl/cup § Noun
 ---
 
 ### xolu&emsp;<span kind="abugida">ɋʓʃ</span>

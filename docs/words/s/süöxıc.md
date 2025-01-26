@@ -3,7 +3,8 @@ id: süöxıc
 slug: süöxıc
 title: SÜÖXIC
 sidebar_position: 413
-hoverText: to fold (the folded) § Verb
+tags: [süöxıc, Verb, Balto-Slavic]
+description: to fold (the folded) § Verb
 ---
 
 ### süöxıc&emsp;<span kind="abugida">ɐʄɽıɋ̄ȷ</span>

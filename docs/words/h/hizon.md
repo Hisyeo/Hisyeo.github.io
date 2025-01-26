@@ -3,7 +3,8 @@ id: hizon
 slug: hizon
 title: HİZON
 sidebar_position: 145
-hoverText: excited § Adjective
+tags: [hizon, Adjective, Indo-Iranian]
+description: excited § Adjective
 ---
 
 ### hizon&emsp;<span kind="abugida">ɂɟⱴ̃</span>

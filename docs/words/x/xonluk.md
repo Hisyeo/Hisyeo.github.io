@@ -3,7 +3,8 @@ id: xonluk
 slug: xonluk
 title: XONLUK
 sidebar_position: 430
-hoverText: young § Adjective
+tags: [xonluk, Adjective, Turkic]
+description: young § Adjective
 ---
 
 ### xonluk&emsp;<span kind="abugida">ɋ̃ʓ̑ʃ</span>

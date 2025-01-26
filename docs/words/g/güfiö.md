@@ -3,7 +3,8 @@ id: güfiö
 slug: güfiö
 title: GÜFİÖ
 sidebar_position: 262
-hoverText: to push (the pushed/repelled) § Verb
+tags: [güfiö, Verb, Celtic]
+description: to push (the pushed/repelled) § Verb
 ---
 
 ### güfiö&emsp;<span kind="abugida">ꜿʄɤɟɽı</span>

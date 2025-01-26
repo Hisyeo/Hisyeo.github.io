@@ -3,7 +3,8 @@ id: conöi
 slug: conöi
 title: CONÖİ
 sidebar_position: 311
-hoverText: beak § Noun
+tags: [conöi, Noun, Kra-Dai]
+description: beak § Noun
 ---
 
 ### conöi&emsp;<span kind="abugida">ꞇƨıɽɟ</span>

@@ -3,7 +3,8 @@ id: zünlo
 slug: zünlo
 title: ZÜNLO
 sidebar_position: 541
-hoverText: series/sentence § Noun
+tags: [zünlo, Noun, Afroasiatic]
+description: series/sentence § Noun
 ---
 
 ### zünlo&emsp;<span kind="abugida">ⱴ̃ʄʓ</span>

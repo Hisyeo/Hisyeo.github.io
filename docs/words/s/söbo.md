@@ -3,7 +3,8 @@ id: söbo
 slug: söbo
 title: SÖBO
 sidebar_position: 382
-hoverText: side/beside § Noun
+tags: [söbo, Noun, Japonic]
+description: side/beside § Noun
 ---
 
 ### söbo&emsp;<span kind="abugida">ɐıʋ</span>

@@ -3,7 +3,8 @@ id: dilë
 slug: dilë
 title: DİLË
 sidebar_position: 489
-hoverText: slow § Adjective
+tags: [dilë, Adjective, Indo-Iranian]
+description: slow § Adjective
 ---
 
 ### dilë&emsp;<span kind="abugida">ʌɟʓʇ</span>

@@ -3,7 +3,8 @@ id: wilüwo
 slug: wilüwo
 title: WİLÜWO
 sidebar_position: 782
-hoverText: value/cost § Noun
+tags: [wilüwo, Noun, Dravidian]
+description: value/cost § Noun
 ---
 
 ### wilüwo&emsp;<span kind="abugida">ʒɟʓʄʒ</span>

@@ -3,7 +3,8 @@ id: mükno
 slug: mükno
 title: MÜKNO
 sidebar_position: 701
-hoverText: mature/ripe § Adjective
+tags: [mükno, Adjective, Germanic]
+description: mature/ripe § Adjective
 ---
 
 ### mükno&emsp;<span kind="abugida">ƶ̑ʄƨ</span>

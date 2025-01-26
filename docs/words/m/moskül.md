@@ -3,7 +3,8 @@ id: moskül
 slug: moskül
 title: MOSKÜL
 sidebar_position: 657
-hoverText: male § Adjective
+tags: [moskül, Adjective, Romance]
+description: male § Adjective
 ---
 
 ### moskül&emsp;<span kind="abugida">ƶ́ɔ͊ʄ</span>

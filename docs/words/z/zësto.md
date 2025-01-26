@@ -3,7 +3,8 @@ id: zësto
 slug: zësto
 title: ZËSTO
 sidebar_position: 521
-hoverText: feat/achievement/heroic deed § Noun
+tags: [zësto, Noun, Romance]
+description: feat/achievement/heroic deed § Noun
 ---
 
 ### zësto&emsp;<span kind="abugida">ⱴ́ʇc</span>

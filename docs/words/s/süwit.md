@@ -3,7 +3,8 @@ id: süwit
 slug: süwit
 title: SÜWİT
 sidebar_position: 421
-hoverText: sweet § Adjective
+tags: [süwit, Adjective, Germanic]
+description: sweet § Adjective
 ---
 
 ### süwit&emsp;<span kind="abugida">ɐʄʒ̆ɟ</span>

@@ -3,7 +3,8 @@ id: züntülu
 slug: züntülu
 title: ZÜNTÜLU
 sidebar_position: 540
-hoverText: joint § Noun
+tags: [züntülu, Noun, Romance]
+description: joint § Noun
 ---
 
 ### züntülu&emsp;<span kind="abugida">ⱴ̃ʄcʄʓʃ</span>

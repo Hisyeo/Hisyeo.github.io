@@ -3,7 +3,8 @@ id: kino
 slug: kino
 title: KİNO
 sidebar_position: 203
-hoverText: rhyme/verse § Noun
+tags: [kino, Noun, Niger-Congo]
+description: rhyme/verse § Noun
 ---
 
 ### kino&emsp;<span kind="abugida">ɔɟƨ</span>

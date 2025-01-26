@@ -3,7 +3,8 @@ id: gomi
 slug: gomi
 title: GOMİ
 sidebar_position: 232
-hoverText: to take (the taken) § Verb
+tags: [gomi, Verb, Tungusic]
+description: to take (the taken) § Verb
 ---
 
 ### gomi&emsp;<span kind="abugida">ꜿƶɟ</span>

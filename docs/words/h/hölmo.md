@@ -3,7 +3,8 @@ id: hölmo
 slug: hölmo
 title: HÖLMO
 sidebar_position: 135
-hoverText: dream § Noun
+tags: [hölmo, Noun, Afroasiatic]
+description: dream § Noun
 ---
 
 ### hölmo&emsp;<span kind="abugida">ɂ͊ıƶ</span>

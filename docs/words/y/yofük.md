@@ -3,7 +3,8 @@ id: yofük
 slug: yofük
 title: YOFÜK
 sidebar_position: 840
-hoverText: pillow § Noun
+tags: [yofük, Noun, Turkic]
+description: pillow § Noun
 ---
 
 ### yofük&emsp;<span kind="abugida">ɀɤ̑ʄ</span>

@@ -3,7 +3,8 @@ id: xidëtli
 slug: xidëtli
 title: XİDËTLİ
 sidebar_position: 450
-hoverText: strict § Adjective
+tags: [xidëtli, Adjective, Turkic]
+description: strict § Adjective
 ---
 
 ### xidëtli&emsp;<span kind="abugida">ɋɟʌ̆ʇʓɟ</span>

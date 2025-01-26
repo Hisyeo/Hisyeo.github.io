@@ -3,7 +3,8 @@ id: bınlëö
 slug: bınlëö
 title: BINLËÖ
 sidebar_position: 580
-hoverText: bay/golf § Noun
+tags: [bınlëö, Noun, Sino-Tibetan]
+description: bay/golf § Noun
 ---
 
 ### bınlëö&emsp;<span kind="abugida">ʋ̃ȷʓʇɽı</span>

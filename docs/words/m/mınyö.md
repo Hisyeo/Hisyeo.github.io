@@ -3,7 +3,8 @@ id: mınyö
 slug: mınyö
 title: MINYÖ
 sidebar_position: 685
-hoverText: worm § Noun
+tags: [mınyö, Noun, Niger-Congo]
+description: worm § Noun
 ---
 
 ### mınyö&emsp;<span kind="abugida">ƶ̃ȷɀı</span>

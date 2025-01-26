@@ -3,7 +3,8 @@ id: cızi
 slug: cızi
 title: CIZİ
 sidebar_position: 328
-hoverText: self § Pronoun
+tags: [cızi, Pronoun, Sino-Tibetan]
+description: self § Pronoun
 ---
 
 ### cızi&emsp;<span kind="abugida">ꞇȷⱴɟ</span>

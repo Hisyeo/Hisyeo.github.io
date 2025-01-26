@@ -3,7 +3,8 @@ id: onomü
 slug: onomü
 title: ONOMÜ
 sidebar_position: 23
-hoverText: rice § Noun
+tags: [onomü, Noun, Dravidian]
+description: rice § Noun
 ---
 
 ### onomü&emsp;<span kind="abugida">ɽƨƶʄ</span>

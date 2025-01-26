@@ -3,7 +3,8 @@ id: nozi
 slug: nozi
 title: NOZİ
 sidebar_position: 717
-hoverText: venom/poison § Noun
+tags: [nozi, Noun, Nilo-Saharan]
+description: venom/poison § Noun
 ---
 
 ### nozi&emsp;<span kind="abugida">ƨⱴɟ</span>

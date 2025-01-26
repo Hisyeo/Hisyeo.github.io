@@ -3,7 +3,8 @@ id: wowoë
 slug: wowoë
 title: WOWOË
 sidebar_position: 762
-hoverText: foot § Noun
+tags: [wowoë, Noun, Austronesian]
+description: foot § Noun
 ---
 
 ### wowoë&emsp;<span kind="abugida">ʒʒɽʇ</span>

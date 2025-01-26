@@ -3,7 +3,8 @@ id: bunxın
 slug: bunxın
 title: BUNXIN
 sidebar_position: 600
-hoverText: innate/native § Adjective
+tags: [bunxın, Adjective, Austro-Asiatic]
+description: innate/native § Adjective
 ---
 
 ### bunxın&emsp;<span kind="abugida">ʋ̃ʃɋ̃ȷ</span>

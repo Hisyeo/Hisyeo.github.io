@@ -3,7 +3,8 @@ id: füus
 slug: füus
 title: FÜUS
 sidebar_position: 648
-hoverText: wax § Noun
+tags: [füus, Noun, Germanic]
+description: wax § Noun
 ---
 
 ### füus&emsp;<span kind="abugida">ɤʄɽ́ʃ</span>

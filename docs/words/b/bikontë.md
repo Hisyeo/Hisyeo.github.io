@@ -3,7 +3,8 @@ id: bikontë
 slug: bikontë
 title: BİKONTË
 sidebar_position: 585
-hoverText: spicy § Adjective
+tags: [bikontë, Adjective, Romance]
+description: spicy § Adjective
 ---
 
 ### bikontë&emsp;<span kind="abugida">ʋɟɔ̃cʇ</span>

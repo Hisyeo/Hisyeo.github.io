@@ -3,7 +3,8 @@ id: lozö
 slug: lozö
 title: LOZÖ
 sidebar_position: 791
-hoverText: ray/beam § Noun
+tags: [lozö, Noun, Romance]
+description: ray/beam § Noun
 ---
 
 ### lozö&emsp;<span kind="abugida">ʓⱴı</span>

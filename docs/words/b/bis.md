@@ -3,7 +3,8 @@ id: bis
 slug: bis
 title: BİS
 sidebar_position: 588
-hoverText: bad § Adjective
+tags: [bis, Adjective, Turkic]
+description: bad § Adjective
 ---
 
 ### bis&emsp;<span kind="abugida">ʋ́ɟ</span>

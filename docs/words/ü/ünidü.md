@@ -3,7 +3,8 @@ id: ünidü
 slug: ünidü
 title: ÜNİDÜ
 sidebar_position: 106
-hoverText: joined § Adjective
+tags: [ünidü, Adjective, Romance]
+description: joined § Adjective
 ---
 
 ### ünidü&emsp;<span kind="abugida">ɽʄƨɟʌʄ</span>

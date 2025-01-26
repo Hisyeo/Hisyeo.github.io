@@ -3,7 +3,8 @@ id: binhün
 slug: binhün
 title: BİNHÜN
 sidebar_position: 592
-hoverText: magenta § Adjective
+tags: [binhün, Adjective, Sino-Tibetan]
+description: magenta § Adjective
 ---
 
 ### binhün&emsp;<span kind="abugida">ʋ̃ɟɂ̃ʄ</span>

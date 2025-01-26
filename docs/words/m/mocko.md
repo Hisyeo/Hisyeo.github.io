@@ -3,7 +3,8 @@ id: mocko
 slug: mocko
 title: MOCKO
 sidebar_position: 656
-hoverText: cat § Noun
+tags: [mocko, Noun, Balto-Slavic]
+description: cat § Noun
 ---
 
 ### mocko&emsp;<span kind="abugida">ƶ̄ɔ</span>

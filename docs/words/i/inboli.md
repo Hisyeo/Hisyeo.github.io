@@ -3,7 +3,8 @@ id: inboli
 slug: inboli
 title: İNBOLİ
 sidebar_position: 81
-hoverText: flower § Noun
+tags: [inboli, Noun, Niger-Congo]
+description: flower § Noun
 ---
 
 ### inboli&emsp;<span kind="abugida">ɽ̃ɟʋʓɟ</span>

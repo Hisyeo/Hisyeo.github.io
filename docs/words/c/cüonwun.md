@@ -3,7 +3,8 @@ id: cüonwun
 slug: cüonwun
 title: CÜONWUN
 sidebar_position: 350
-hoverText: rumor § Noun
+tags: [cüonwun, Noun, Sino-Tibetan]
+description: rumor § Noun
 ---
 
 ### cüonwun&emsp;<span kind="abugida">ꞇʄɽ̃ʒ̃ʃ</span>

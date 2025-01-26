@@ -3,7 +3,8 @@ id: motüo
 slug: motüo
 title: MOTÜO
 sidebar_position: 654
-hoverText: parent § Noun
+tags: [motüo, Noun, Austronesian]
+description: parent § Noun
 ---
 
 ### motüo&emsp;<span kind="abugida">ƶcʄɽ</span>

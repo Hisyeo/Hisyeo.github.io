@@ -3,7 +3,8 @@ id: dündon
 slug: dündon
 title: DÜNDON
 sidebar_position: 502
-hoverText: correct § Adjective
+tags: [dündon, Adjective, Austro-Asiatic]
+description: correct § Adjective
 ---
 
 ### dündon&emsp;<span kind="abugida">ʌ̃ʄʌ̃</span>

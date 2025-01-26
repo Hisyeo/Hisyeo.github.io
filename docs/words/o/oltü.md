@@ -3,7 +3,8 @@ id: oltü
 slug: oltü
 title: OLTÜ
 sidebar_position: 32
-hoverText: loud § Adjective
+tags: [oltü, Adjective, Romance]
+description: loud § Adjective
 ---
 
 ### oltü&emsp;<span kind="abugida">ɽ͊cʄ</span>

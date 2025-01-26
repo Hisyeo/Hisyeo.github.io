@@ -3,7 +3,8 @@ id: golo
 slug: golo
 title: GOLO
 sidebar_position: 237
-hoverText: to read (a document) § Verb
+tags: [golo, Verb, Afroasiatic]
+description: to read (a document) § Verb
 ---
 
 ### golo&emsp;<span kind="abugida">ꜿʓ</span>

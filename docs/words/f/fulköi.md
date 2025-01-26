@@ -3,7 +3,8 @@ id: fulköi
 slug: fulköi
 title: FULKÖİ
 sidebar_position: 646
-hoverText: to rub (the rubbed) § Verb
+tags: [fulköi, Verb, Albanian]
+description: to rub (the rubbed) § Verb
 ---
 
 ### fulköi&emsp;<span kind="abugida">ɤ͊ʃɔıɽɟ</span>

@@ -3,7 +3,8 @@ id: tölki
 slug: tölki
 title: TÖLKİ
 sidebar_position: 284
-hoverText: only § Adjective
+tags: [tölki, Adjective, Balto-Slavic]
+description: only § Adjective
 ---
 
 ### tölki&emsp;<span kind="abugida">c͊ıɔɟ</span>

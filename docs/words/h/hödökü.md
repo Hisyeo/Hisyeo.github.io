@@ -3,7 +3,8 @@ id: hödökü
 slug: hödökü
 title: HÖDÖKÜ
 sidebar_position: 129
-hoverText: to untie (the untied) § Verb
+tags: [hödökü, Verb, Japonic]
+description: to untie (the untied) § Verb
 ---
 
 ### hödökü&emsp;<span kind="abugida">ɂıʌıɔʄ</span>

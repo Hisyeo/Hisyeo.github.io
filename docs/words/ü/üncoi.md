@@ -3,7 +3,8 @@ id: üncoi
 slug: üncoi
 title: ÜNCOİ
 sidebar_position: 108
-hoverText: proud § Adjective
+tags: [üncoi, Adjective, Indo-Iranian]
+description: proud § Adjective
 ---
 
 ### üncoi&emsp;<span kind="abugida">ɽ̃ʄꞇɽɟ</span>

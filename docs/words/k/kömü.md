@@ -3,7 +3,8 @@ id: kömü
 slug: kömü
 title: KÖMÜ
 sidebar_position: 182
-hoverText: horn/spike § Noun
+tags: [kömü, Noun, Dravidian]
+description: horn/spike § Noun
 ---
 
 ### kömü&emsp;<span kind="abugida">ɔıƶʄ</span>

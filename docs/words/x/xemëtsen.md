@@ -3,7 +3,8 @@ id: xemëtsen
 slug: xemëtsen
 title: XEMËTSEN
 sidebar_position: 440
-hoverText: noun § Noun
+tags: [xemëtsen, Noun, Afroasiatic]
+description: noun § Noun
 ---
 
 ### xemëtsen&emsp;<span kind="abugida">ɋɿƶ̆ʇɐ̃ɿ</span>

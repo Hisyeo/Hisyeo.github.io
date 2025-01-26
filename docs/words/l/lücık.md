@@ -3,7 +3,8 @@ id: lücık
 slug: lücık
 title: LÜCIK
 sidebar_position: 829
-hoverText: slippery § Adjective
+tags: [lücık, Adjective, Germanic]
+description: slippery § Adjective
 ---
 
 ### lücık&emsp;<span kind="abugida">ʓʄꞇ̑ȷ</span>

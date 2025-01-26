@@ -3,7 +3,8 @@ id: müxi
 slug: müxi
 title: MÜXİ
 sidebar_position: 704
-hoverText: insect § Noun
+tags: [müxi, Noun, Japonic]
+description: insect § Noun
 ---
 
 ### müxi&emsp;<span kind="abugida">ƶʄɋɟ</span>

@@ -3,7 +3,8 @@ id: yınyünci
 slug: yınyünci
 title: YINYÜNCİ
 sidebar_position: 851
-hoverText: modifier (adjective) § Noun
+tags: [yınyünci, Noun, Sino-Tibetan]
+description: modifier (adjective) § Noun
 ---
 
 ### yınyünci&emsp;<span kind="abugida">ɀ̃ȷɀ̃ʄꞇɟ</span>

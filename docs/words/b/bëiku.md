@@ -3,7 +3,8 @@ id: bëiku
 slug: bëiku
 title: BËİKU
 sidebar_position: 571
-hoverText: shell § Noun
+tags: [bëiku, Noun, Sino-Tibetan]
+description: shell § Noun
 ---
 
 ### bëiku&emsp;<span kind="abugida">ʋʇɽɟɔʃ</span>

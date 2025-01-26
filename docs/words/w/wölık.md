@@ -3,7 +3,8 @@ id: wölık
 slug: wölık
 title: WÖLIK
 sidebar_position: 765
-hoverText: smoke/cloud § Noun
+tags: [wölık, Noun, Germanic]
+description: smoke/cloud § Noun
 ---
 
 ### wölık&emsp;<span kind="abugida">ʒıʓ̑ȷ</span>

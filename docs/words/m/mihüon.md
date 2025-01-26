@@ -3,7 +3,8 @@ id: mihüon
 slug: mihüon
 title: MİHÜON
 sidebar_position: 688
-hoverText: beige § Adjective
+tags: [mihüon, Adjective, Sino-Tibetan]
+description: beige § Adjective
 ---
 
 ### mihüon&emsp;<span kind="abugida">ƶɟɂʄɽ̃</span>

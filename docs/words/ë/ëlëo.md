@@ -3,7 +3,8 @@ id: ëlëo
 slug: ëlëo
 title: ËLËO
 sidebar_position: 63
-hoverText: floating § Adjective
+tags: [ëlëo, Adjective, Niger-Congo]
+description: floating § Adjective
 ---
 
 ### ëlëo&emsp;<span kind="abugida">ɽʇʓʇɽ</span>

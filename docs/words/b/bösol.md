@@ -3,7 +3,8 @@ id: bösol
 slug: bösol
 title: BÖSOL
 sidebar_position: 564
-hoverText: to form a pose (a position) § Verb
+tags: [bösol, Verb, Romance]
+description: to form a pose (a position) § Verb
 ---
 
 ### bösol&emsp;<span kind="abugida">ʋıɐ͊</span>

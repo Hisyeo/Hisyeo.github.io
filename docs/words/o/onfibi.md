@@ -3,7 +3,8 @@ id: onfibi
 slug: onfibi
 title: ONFİBİ
 sidebar_position: 30
-hoverText: amphibian § Noun
+tags: [onfibi, Noun, Romance]
+description: amphibian § Noun
 ---
 
 ### onfibi&emsp;<span kind="abugida">ɽ̃ɤɟʋɟ</span>

@@ -3,7 +3,8 @@ id: bümi
 slug: bümi
 title: BÜMİ
 sidebar_position: 610
-hoverText: ground/terrain/earth § Noun
+tags: [bümi, Noun, Indo-Iranian]
+description: ground/terrain/earth § Noun
 ---
 
 ### bümi&emsp;<span kind="abugida">ʋʄƶɟ</span>

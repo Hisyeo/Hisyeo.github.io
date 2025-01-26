@@ -3,7 +3,8 @@ id: cukto
 slug: cukto
 title: CUKTO
 sidebar_position: 344
-hoverText: to write (text) § Verb
+tags: [cukto, Verb, Koreic]
+description: to write (text) § Verb
 ---
 
 ### cukto&emsp;<span kind="abugida">ꞇ̑ʃc</span>

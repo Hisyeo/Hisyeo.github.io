@@ -3,7 +3,8 @@ id: dülüsi
 slug: dülüsi
 title: DÜLÜSİ
 sidebar_position: 503
-hoverText: reptile § Noun
+tags: [dülüsi, Noun, Niger-Congo]
+description: reptile § Noun
 ---
 
 ### dülüsi&emsp;<span kind="abugida">ʌʄʓʄɐɟ</span>

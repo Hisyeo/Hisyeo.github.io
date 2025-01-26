@@ -3,7 +3,8 @@ id: tolën
 slug: tolën
 title: TOLËN
 sidebar_position: 275
-hoverText: limb § Noun
+tags: [tolën, Noun, Austro-Asiatic]
+description: limb § Noun
 ---
 
 ### tolën&emsp;<span kind="abugida">cʓ̃ʇ</span>

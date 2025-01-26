@@ -3,7 +3,8 @@ id: zınkon
 slug: zınkon
 title: ZINKON
 sidebar_position: 525
-hoverText: door § Noun
+tags: [zınkon, Noun, Austro-asiatic]
+description: door § Noun
 ---
 
 ### zınkon&emsp;<span kind="abugida">ⱴ̃ȷɔ̃</span>

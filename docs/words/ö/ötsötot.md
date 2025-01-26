@@ -3,7 +3,8 @@ id: ötsötot
 slug: ötsötot
 title: ÖTSÖTOT
 sidebar_position: 36
-hoverText: deity § Noun
+tags: [ötsötot, Noun, Misc]
+description: deity § Noun
 ---
 
 ### ötsötot&emsp;<span kind="abugida">ɽ̆ıɐıc̆</span>

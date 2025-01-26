@@ -3,7 +3,8 @@ id: yöcno
 slug: yöcno
 title: YÖCNO
 sidebar_position: 846
-hoverText: program/plan § Noun
+tags: [yöcno, Noun, Indo-Iranian]
+description: program/plan § Noun
 ---
 
 ### yöcno&emsp;<span kind="abugida">ɀ̄ıƨ</span>

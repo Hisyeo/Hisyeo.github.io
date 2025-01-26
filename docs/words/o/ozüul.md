@@ -3,7 +3,8 @@ id: ozüul
 slug: ozüul
 title: OZÜUL
 sidebar_position: 15
-hoverText: any/whichever § Pronoun
+tags: [ozüul, Pronoun, Abkhazo-Adyghean]
+description: any/whichever § Pronoun
 ---
 
 ### ozüul&emsp;<span kind="abugida">ɽⱴʄɽ͊ʃ</span>

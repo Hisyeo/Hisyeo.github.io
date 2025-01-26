@@ -3,7 +3,8 @@ id: gölüo
 slug: gölüo
 title: GÖLÜO
 sidebar_position: 245
-hoverText: melted § Adjective
+tags: [gölüo, Adjective, Indo-Iranian]
+description: melted § Adjective
 ---
 
 ### gölüo&emsp;<span kind="abugida">ꜿıʓʄɽ</span>

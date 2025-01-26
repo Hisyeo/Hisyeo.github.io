@@ -3,7 +3,8 @@ id: hoküxı
 slug: hoküxı
 title: HOKÜXI
 sidebar_position: 119
-hoverText: clapping/applauding § Adjective
+tags: [hoküxı, Adjective, Japonic]
+description: clapping/applauding § Adjective
 ---
 
 ### hoküxı&emsp;<span kind="abugida">ɂɔʄɋȷ</span>

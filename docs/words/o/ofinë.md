@@ -3,7 +3,8 @@ id: ofinë
 slug: ofinë
 title: OFİNË
 sidebar_position: 21
-hoverText: cultured/refined § Adjective
+tags: [ofinë, Adjective, Romance]
+description: cultured/refined § Adjective
 ---
 
 ### ofinë&emsp;<span kind="abugida">ɽɤɟƨʇ</span>

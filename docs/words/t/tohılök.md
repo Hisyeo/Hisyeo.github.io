@@ -3,7 +3,8 @@ id: tohılök
 slug: tohılök
 title: TOHILÖK
 sidebar_position: 270
-hoverText: cone § Noun
+tags: [tohılök, Noun, Austronesian]
+description: cone § Noun
 ---
 
 ### tohılök&emsp;<span kind="abugida">cɂȷʓ̑ı</span>

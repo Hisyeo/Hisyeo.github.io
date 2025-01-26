@@ -3,7 +3,8 @@ id: küöcyo
 slug: küöcyo
 title: KÜÖCYO
 sidebar_position: 215
-hoverText: state § Noun
+tags: [küöcyo, Noun, Sino-Tibetan]
+description: state § Noun
 ---
 
 ### küöcyo&emsp;<span kind="abugida">ɔʄɽ̄ıɀ</span>

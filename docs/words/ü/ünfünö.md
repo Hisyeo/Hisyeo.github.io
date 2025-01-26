@@ -3,7 +3,8 @@ id: ünfünö
 slug: ünfünö
 title: ÜNFÜNÖ
 sidebar_position: 109
-hoverText: vegetable § Noun
+tags: [ünfünö, Noun, Niger-Congo]
+description: vegetable § Noun
 ---
 
 ### ünfünö&emsp;<span kind="abugida">ɽ̃ʄɤʄƨı</span>

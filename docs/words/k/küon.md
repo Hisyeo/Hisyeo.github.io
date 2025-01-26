@@ -3,7 +3,8 @@ id: küon
 slug: küon
 title: KÜON
 sidebar_position: 213
-hoverText: light § Noun
+tags: [küon, Noun, Sino-Tibetan]
+description: light § Noun
 ---
 
 ### küon&emsp;<span kind="abugida">ɔʄɽ̃</span>

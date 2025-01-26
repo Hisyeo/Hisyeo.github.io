@@ -3,7 +3,8 @@ id: xiyöcü
 slug: xiyöcü
 title: XİYÖCÜ
 sidebar_position: 455
-hoverText: occupied/engaged/busy § Adjective
+tags: [xiyöcü, Adjective, Japonic]
+description: occupied/engaged/busy § Adjective
 ---
 
 ### xiyöcü&emsp;<span kind="abugida">ɋɟɀıꞇʄ</span>

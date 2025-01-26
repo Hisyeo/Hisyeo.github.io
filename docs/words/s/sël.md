@@ -3,7 +3,8 @@ id: sël
 slug: sël
 title: SËL
 sidebar_position: 394
-hoverText: down § Noun
+tags: [sël, Noun, Indo-Iranian]
+description: down § Noun
 ---
 
 ### sël&emsp;<span kind="abugida">ɐ͊ʇ</span>

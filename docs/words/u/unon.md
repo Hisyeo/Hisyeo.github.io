@@ -3,7 +3,8 @@ id: unon
 slug: unon
 title: UNON
 sidebar_position: 91
-hoverText: to smell (a scent) § Verb
+tags: [unon, Verb, Sino-Tibetan]
+description: to smell (a scent) § Verb
 ---
 
 ### unon&emsp;<span kind="abugida">ɽʃƨ̃</span>

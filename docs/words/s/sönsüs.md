@@ -3,7 +3,8 @@ id: sönsüs
 slug: sönsüs
 title: SÖNSÜS
 sidebar_position: 383
-hoverText: endless/infinite § Adjective
+tags: [sönsüs, Adjective, Turkic]
+description: endless/infinite § Adjective
 ---
 
 ### sönsüs&emsp;<span kind="abugida">ɐ̃ıɐ́ʄ</span>

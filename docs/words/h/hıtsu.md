@@ -3,7 +3,8 @@ id: hıtsu
 slug: hıtsu
 title: HITSU
 sidebar_position: 142
-hoverText: crack/fissure § Noun
+tags: [hıtsu, Noun, Germanic]
+description: crack/fissure § Noun
 ---
 
 ### hıtsu&emsp;<span kind="abugida">ɂ̆ȷɐʃ</span>

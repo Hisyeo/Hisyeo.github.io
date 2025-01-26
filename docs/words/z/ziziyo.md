@@ -3,7 +3,8 @@ id: ziziyo
 slug: ziziyo
 title: ZİZİYO
 sidebar_position: 530
-hoverText: tendon/root § Noun
+tags: [ziziyo, Noun, Afroasiatic]
+description: tendon/root § Noun
 ---
 
 ### ziziyo&emsp;<span kind="abugida">ⱴɟⱴɟɀ</span>

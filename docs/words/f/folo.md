@@ -3,7 +3,8 @@ id: folo
 slug: folo
 title: FOLO
 sidebar_position: 622
-hoverText: atom § Noun
+tags: [folo, Noun, Afroasiatic]
+description: atom § Noun
 ---
 
 ### folo&emsp;<span kind="abugida">ɤʓ</span>

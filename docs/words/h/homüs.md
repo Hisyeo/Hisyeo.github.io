@@ -3,7 +3,8 @@ id: homüs
 slug: homüs
 title: HOMÜS
 sidebar_position: 125
-hoverText: quiet § Adjective
+tags: [homüs, Adjective, Indo-Iranian]
+description: quiet § Adjective
 ---
 
 ### homüs&emsp;<span kind="abugida">ɂƶ́ʄ</span>

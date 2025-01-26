@@ -3,7 +3,8 @@ id: sodolun
 slug: sodolun
 title: SODOLUN
 sidebar_position: 367
-hoverText: normal § Adjective
+tags: [sodolun, Adjective, Indo-Iranian]
+description: normal § Adjective
 ---
 
 ### sodolun&emsp;<span kind="abugida">ɐʌʓ̃ʃ</span>

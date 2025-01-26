@@ -3,7 +3,8 @@ id: titon
 slug: titon
 title: TİTON
 sidebar_position: 293
-hoverText: way/path § Noun
+tags: [titon, Noun, Kra-Dai]
+description: way/path § Noun
 ---
 
 ### titon&emsp;<span kind="abugida">cɟc̃</span>

@@ -3,7 +3,8 @@ id: nokdo
 slug: nokdo
 title: NOKDO
 sidebar_position: 712
-hoverText: old § Adjective
+tags: [nokdo, Adjective, Koreic]
+description: old § Adjective
 ---
 
 ### nokdo&emsp;<span kind="abugida">ƨ̑ʌ</span>

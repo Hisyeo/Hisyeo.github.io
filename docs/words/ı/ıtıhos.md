@@ -3,7 +3,8 @@ id: ıtıhos
 slug: ıtıhos
 title: ITIHOS
 sidebar_position: 64
-hoverText: history § Noun
+tags: [ıtıhos, Noun, Indo-Iranian]
+description: history § Noun
 ---
 
 ### ıtıhos&emsp;<span kind="abugida">ɽȷcȷɂ́</span>

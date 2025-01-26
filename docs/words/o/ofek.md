@@ -3,7 +3,8 @@ id: ofek
 slug: ofek
 title: OFEK
 sidebar_position: 20
-hoverText: collaborator marker (alongside/with) § Preposition
+tags: [ofek, Preposition, Romance]
+description: collaborator marker (alongside/with) § Preposition
 ---
 
 ### ofek&emsp;<span kind="abugida">ɽɤ̑ɿ</span>

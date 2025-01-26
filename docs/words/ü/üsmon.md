@@ -3,7 +3,8 @@ id: üsmon
 slug: üsmon
 title: ÜSMON
 sidebar_position: 102
-hoverText: gas § Noun
+tags: [üsmon, Noun, Austro-Asiatic]
+description: gas § Noun
 ---
 
 ### üsmon&emsp;<span kind="abugida">ɽ́ʄƶ̃</span>

@@ -3,7 +3,8 @@ id: fıyüxit
 slug: fıyüxit
 title: FIYÜXİT
 sidebar_position: 635
-hoverText: to employ (the employed) § Verb
+tags: [fıyüxit, Verb, Balto-Slavic]
+description: to employ (the employed) § Verb
 ---
 
 ### fıyüxit&emsp;<span kind="abugida">ɤȷɀʄɋ̆ɟ</span>

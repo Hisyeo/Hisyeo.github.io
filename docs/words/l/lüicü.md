@@ -3,7 +3,8 @@ id: lüicü
 slug: lüicü
 title: LÜİCÜ
 sidebar_position: 827
-hoverText: deer/giraffe/pronghorn § Noun
+tags: [lüicü, Noun, Quechumaran]
+description: deer/giraffe/pronghorn § Noun
 ---
 
 ### lüicü&emsp;<span kind="abugida">ʓʄɽɟꞇʄ</span>

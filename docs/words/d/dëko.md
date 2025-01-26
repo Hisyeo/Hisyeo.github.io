@@ -3,7 +3,8 @@ id: dëko
 slug: dëko
 title: DËKO
 sidebar_position: 478
-hoverText: to see (a view) § Verb
+tags: [dëko, Verb, Indo-Iranian]
+description: to see (a view) § Verb
 ---
 
 ### dëko&emsp;<span kind="abugida">ʌʇɔ</span>

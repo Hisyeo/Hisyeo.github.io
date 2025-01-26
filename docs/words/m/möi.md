@@ -3,7 +3,8 @@ id: möi
 slug: möi
 title: MÖİ
 sidebar_position: 665
-hoverText: all § Determiner
+tags: [möi, Determiner, Austro-Asiatic]
+description: all § Determiner
 ---
 
 ### möi&emsp;<span kind="abugida">ƶıɽɟ</span>

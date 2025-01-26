@@ -3,7 +3,8 @@ id: tüu
 slug: tüu
 title: TÜU
 sidebar_position: 301
-hoverText: to do (an action) § Verb
+tags: [tüu, Verb, Austro-Asiatic]
+description: to do (an action) § Verb
 ---
 
 ### tüu&emsp;<span kind="abugida">cʄɽʃ</span>

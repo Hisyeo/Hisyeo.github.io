@@ -3,7 +3,8 @@ id: gundolë
 slug: gundolë
 title: GUNDOLË
 sidebar_position: 256
-hoverText: sphere § Noun
+tags: [gundolë, Noun, Indo-Iranian]
+description: sphere § Noun
 ---
 
 ### gundolë&emsp;<span kind="abugida">ꜿ̃ʃʌʓʇ</span>

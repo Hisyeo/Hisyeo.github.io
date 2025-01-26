@@ -3,7 +3,8 @@ id: in
 slug: in
 title: İN
 sidebar_position: 80
-hoverText: verb modifier particle § Particle
+tags: [in, Particle, Celtic]
+description: verb modifier particle § Particle
 ---
 
 ### in&emsp;<span kind="abugida">ɽ̃ɟ</span>

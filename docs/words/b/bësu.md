@@ -3,7 +3,8 @@ id: bësu
 slug: bësu
 title: BËSU
 sidebar_position: 573
-hoverText: different § Adjective
+tags: [bësu, Adjective, Austronesian]
+description: different § Adjective
 ---
 
 ### bësu&emsp;<span kind="abugida">ʋʇɐʃ</span>

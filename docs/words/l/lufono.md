@@ -3,7 +3,8 @@ id: lufono
 slug: lufono
 title: LUFONO
 sidebar_position: 824
-hoverText: to ship/send (a package) § Verb
+tags: [lufono, Verb, Dravidian]
+description: to ship/send (a package) § Verb
 ---
 
 ### lufono&emsp;<span kind="abugida">ʓʃɤƨ</span>

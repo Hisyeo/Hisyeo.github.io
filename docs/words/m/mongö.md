@@ -3,7 +3,8 @@ id: mongö
 slug: mongö
 title: MONGÖ
 sidebar_position: 663
-hoverText: sharks/rays § Noun
+tags: [mongö, Noun, Austronesian]
+description: sharks/rays § Noun
 ---
 
 ### mongö&emsp;<span kind="abugida">ƶ̃ꜿı</span>

@@ -3,7 +3,8 @@ id: cünfü
 slug: cünfü
 title: CÜNFÜ
 sidebar_position: 359
-hoverText: repeating § Adjective
+tags: [cünfü, Adjective, Sino-Tibetan]
+description: repeating § Adjective
 ---
 
 ### cünfü&emsp;<span kind="abugida">ꞇ̃ʄɤʄ</span>

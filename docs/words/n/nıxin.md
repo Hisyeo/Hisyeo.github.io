@@ -3,7 +3,8 @@ id: nıxin
 slug: nıxin
 title: NIXİN
 sidebar_position: 737
-hoverText: wing § Noun
+tags: [nıxin, Noun, Oto-Manguean]
+description: wing § Noun
 ---
 
 ### nıxin&emsp;<span kind="abugida">ƨȷɋ̃ɟ</span>

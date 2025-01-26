@@ -3,7 +3,8 @@ id: belisis
 slug: belisis
 title: BELİSİS
 sidebar_position: 570
-hoverText: unsure § Adjective
+tags: [belisis, Adjective, Turkic]
+description: unsure § Adjective
 ---
 
 ### belisis&emsp;<span kind="abugida">ʋɿʓɟɐ́ɟ</span>

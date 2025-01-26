@@ -3,7 +3,8 @@ id: usündul
 slug: usündul
 title: USÜNDUL
 sidebar_position: 85
-hoverText: ugly § Adjective
+tags: [usündul, Adjective, Indo-Iranian]
+description: ugly § Adjective
 ---
 
 ### usündul&emsp;<span kind="abugida">ɽʃɐ̃ʄʌ͊ʃ</span>

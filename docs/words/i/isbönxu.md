@@ -3,7 +3,8 @@ id: isbönxu
 slug: isbönxu
 title: İSBÖNXU
 sidebar_position: 75
-hoverText: sponge § Noun
+tags: [isbönxu, Noun, Romance]
+description: sponge § Noun
 ---
 
 ### isbönxu&emsp;<span kind="abugida">ɽ́ɟʋ̃ıɋʃ</span>

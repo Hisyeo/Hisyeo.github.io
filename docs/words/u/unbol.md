@@ -3,7 +3,8 @@ id: unbol
 slug: unbol
 title: UNBOL
 sidebar_position: 93
-hoverText: amber (color) § Adjective
+tags: [unbol, Adjective, Romance]
+description: amber (color) § Adjective
 ---
 
 ### unbol&emsp;<span kind="abugida">ɽ̃ʃʋ͊</span>

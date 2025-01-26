@@ -3,7 +3,8 @@ id: lëfötol
 slug: lëfötol
 title: LËFÖTOL
 sidebar_position: 809
-hoverText: bouncing § Adjective
+tags: [lëfötol, Adjective, Romance]
+description: bouncing § Adjective
 ---
 
 ### lëfötol&emsp;<span kind="abugida">ʓʇɤıc͊</span>

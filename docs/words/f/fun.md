@@ -3,7 +3,8 @@ id: fun
 slug: fun
 title: FUN
 sidebar_position: 643
-hoverText: fraction § Noun
+tags: [fun, Noun, Austro-Asiatic]
+description: fraction § Noun
 ---
 
 ### fun&emsp;<span kind="abugida">ɤ̃ʃ</span>

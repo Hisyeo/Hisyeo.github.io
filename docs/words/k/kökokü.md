@@ -3,7 +3,8 @@ id: kökokü
 slug: kökokü
 title: KÖKOKÜ
 sidebar_position: 173
-hoverText: skeleton § Noun
+tags: [kökokü, Noun, Japonic]
+description: skeleton § Noun
 ---
 
 ### kökokü&emsp;<span kind="abugida">ɔıɔɔʄ</span>

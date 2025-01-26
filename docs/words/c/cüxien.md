@@ -3,7 +3,8 @@ id: cüxien
 slug: cüxien
 title: CÜXİEN
 sidebar_position: 353
-hoverText: constrained § Adjective
+tags: [cüxien, Adjective, Sino-Tibetan]
+description: constrained § Adjective
 ---
 
 ### cüxien&emsp;<span kind="abugida">ꞇʄɋɟɽ̃ɿ</span>

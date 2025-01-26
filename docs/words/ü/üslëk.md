@@ -3,7 +3,8 @@ id: üslëk
 slug: üslëk
 title: ÜSLËK
 sidebar_position: 103
-hoverText: to blow (a blown entity) § Verb
+tags: [üslëk, Verb, Mongolic]
+description: to blow (a blown entity) § Verb
 ---
 
 ### üslëk&emsp;<span kind="abugida">ɽ́ʄʓ̑ʇ</span>

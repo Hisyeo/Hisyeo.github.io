@@ -3,7 +3,8 @@ id: fenüo
 slug: fenüo
 title: FENÜO
 sidebar_position: 629
-hoverText: country/region § Noun
+tags: [fenüo, Noun, Austronesian]
+description: country/region § Noun
 ---
 
 ### fenüo&emsp;<span kind="abugida">ɤɿƨʄɽ</span>

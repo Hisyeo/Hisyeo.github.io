@@ -3,7 +3,8 @@ id: tolıyo
 slug: tolıyo
 title: TOLIYO
 sidebar_position: 276
-hoverText: pasta § Noun
+tags: [tolıyo, Noun, Afroasiatic]
+description: pasta § Noun
 ---
 
 ### tolıyo&emsp;<span kind="abugida">cʓȷɀ</span>

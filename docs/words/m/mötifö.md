@@ -3,7 +3,8 @@ id: mötifö
 slug: mötifö
 title: MÖTİFÖ
 sidebar_position: 670
-hoverText: reason § Noun
+tags: [mötifö, Noun, Romance]
+description: reason § Noun
 ---
 
 ### mötifö&emsp;<span kind="abugida">ƶıcɟɤı</span>

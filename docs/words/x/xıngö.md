@@ -3,7 +3,8 @@ id: xıngö
 slug: xıngö
 title: XINGÖ
 sidebar_position: 444
-hoverText: neck/throat § Noun
+tags: [xıngö, Noun, Niger-Congo]
+description: neck/throat § Noun
 ---
 
 ### xıngö&emsp;<span kind="abugida">ɋ̃ȷꜿı</span>

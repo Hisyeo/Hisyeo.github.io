@@ -3,7 +3,8 @@ id: dinci
 slug: dinci
 title: DİNCİ
 sidebar_position: 487
-hoverText: block § Noun
+tags: [dinci, Noun, Kra-Dai]
+description: block § Noun
 ---
 
 ### dinci&emsp;<span kind="abugida">ʌ̃ɟꞇɟ</span>

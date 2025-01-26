@@ -3,7 +3,8 @@ id: cihun
 slug: cihun
 title: CİHUN
 sidebar_position: 337
-hoverText: to pull/attract (the pulled/attracted) § Verb
+tags: [cihun, Verb, Germanic]
+description: to pull/attract (the pulled/attracted) § Verb
 ---
 
 ### cihun&emsp;<span kind="abugida">ꞇɟɂ̃ʃ</span>

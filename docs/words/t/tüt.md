@@ -3,7 +3,8 @@ id: tüt
 slug: tüt
 title: TÜT
 sidebar_position: 302
-hoverText: hot § Adjective
+tags: [tüt, Adjective, Trans-New Guinea]
+description: hot § Adjective
 ---
 
 ### tüt&emsp;<span kind="abugida">c̆ʄ</span>

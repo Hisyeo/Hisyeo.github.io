@@ -3,7 +3,8 @@ id: dënëmëk
 slug: dënëmëk
 title: DËNËMËK
 sidebar_position: 482
-hoverText: to try (a trial) § Verb
+tags: [dënëmëk, Verb, Turkic]
+description: to try (a trial) § Verb
 ---
 
 ### dënëmëk&emsp;<span kind="abugida">ʌʇƨʇƶ̑ʇ</span>

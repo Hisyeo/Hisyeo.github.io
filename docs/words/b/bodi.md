@@ -3,7 +3,8 @@ id: bodi
 slug: bodi
 title: BODİ
 sidebar_position: 551
-hoverText: unmoving § Adjective
+tags: [bodi, Adjective, Nilo-Saharan]
+description: unmoving § Adjective
 ---
 
 ### bodi&emsp;<span kind="abugida">ʋʌɟ</span>

@@ -3,7 +3,8 @@ id: mühoyon
 slug: mühoyon
 title: MÜHOYON
 sidebar_position: 699
-hoverText: camp § Noun
+tags: [mühoyon, Noun, Afroasiatic]
+description: camp § Noun
 ---
 
 ### mühoyon&emsp;<span kind="abugida">ƶʄɂɀ̃</span>

@@ -3,7 +3,8 @@ id: ısbulyol
 slug: ısbulyol
 title: ISBULYOL
 sidebar_position: 66
-hoverText: to scatter (scatterable entity) § Adjective
+tags: [ısbulyol, Adjective, Romance]
+description: to scatter (scatterable entity) § Adjective
 ---
 
 ### ısbulyol&emsp;<span kind="abugida">ɽ́ȷʋ͊ʃɀ͊</span>

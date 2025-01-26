@@ -3,7 +3,8 @@ id: yönë
 slug: yönë
 title: YÖNË
 sidebar_position: 848
-hoverText: caprine § Noun
+tags: [yönë, Noun, Sino-Tibetan]
+description: caprine § Noun
 ---
 
 ### yönë&emsp;<span kind="abugida">ɀıƨʇ</span>

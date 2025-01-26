@@ -3,7 +3,8 @@ id: yogö
 slug: yogö
 title: YOGÖ
 sidebar_position: 835
-hoverText: part/piece § Noun
+tags: [yogö, Noun, Uralic]
+description: part/piece § Noun
 ---
 
 ### yogö&emsp;<span kind="abugida">ɀꜿı</span>

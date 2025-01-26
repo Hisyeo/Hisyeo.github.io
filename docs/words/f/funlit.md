@@ -3,7 +3,8 @@ id: funlit
 slug: funlit
 title: FUNLİT
 sidebar_position: 645
-hoverText: split § Adjective
+tags: [funlit, Adjective, Sino-Tibetan]
+description: split § Adjective
 ---
 
 ### funlit&emsp;<span kind="abugida">ɤ̃ʃʓ̆ɟ</span>

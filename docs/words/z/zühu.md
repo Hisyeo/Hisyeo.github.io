@@ -3,7 +3,8 @@ id: zühu
 slug: zühu
 title: ZÜHU
 sidebar_position: 537
-hoverText: tongue § Noun
+tags: [zühu, Noun, Albanian]
+description: tongue § Noun
 ---
 
 ### zühu&emsp;<span kind="abugida">ⱴʄɂʃ</span>

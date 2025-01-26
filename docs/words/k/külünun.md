@@ -3,7 +3,8 @@ id: külünun
 slug: külünun
 title: KÜLÜNUN
 sidebar_position: 227
-hoverText: cage/kennel/jail/cell § Noun
+tags: [külünun, Noun, Austronesian]
+description: cage/kennel/jail/cell § Noun
 ---
 
 ### külünun&emsp;<span kind="abugida">ɔʄʓʄƨ̃ʃ</span>

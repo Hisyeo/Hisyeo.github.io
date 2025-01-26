@@ -3,7 +3,8 @@ id: këxik
 slug: këxik
 title: KËXİK
 sidebar_position: 193
-hoverText: variable/unstable § Adjective
+tags: [këxik, Adjective, Mayan]
+description: variable/unstable § Adjective
 ---
 
 ### këxik&emsp;<span kind="abugida">ɔʇɋ̑ɟ</span>

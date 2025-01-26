@@ -3,7 +3,8 @@ id: cülci
 slug: cülci
 title: CÜLCİ
 sidebar_position: 362
-hoverText: trick/scam § Noun
+tags: [cülci, Noun, Dravidian]
+description: trick/scam § Noun
 ---
 
 ### cülci&emsp;<span kind="abugida">ꞇ͊ʄꞇɟ</span>

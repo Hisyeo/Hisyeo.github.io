@@ -3,7 +3,8 @@ id: zixitü
 slug: zixitü
 title: ZİXİTÜ
 sidebar_position: 529
-hoverText: finger/toe § Noun
+tags: [zixitü, Noun, Romance]
+description: finger/toe § Noun
 ---
 
 ### zixitü&emsp;<span kind="abugida">ⱴɟɋɟcʄ</span>

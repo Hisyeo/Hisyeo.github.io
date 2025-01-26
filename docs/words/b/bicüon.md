@@ -3,7 +3,8 @@ id: bicüon
 slug: bicüon
 title: BİCÜON
 sidebar_position: 587
-hoverText: tired/exhausted § Adjective
+tags: [bicüon, Adjective, Sino-Tibetan]
+description: tired/exhausted § Adjective
 ---
 
 ### bicüon&emsp;<span kind="abugida">ʋɟꞇʄɽ̃</span>

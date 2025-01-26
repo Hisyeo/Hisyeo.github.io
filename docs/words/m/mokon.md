@@ -3,7 +3,8 @@ id: mokon
 slug: mokon
 title: MOKON
 sidebar_position: 653
-hoverText: to eat (food) § Verb
+tags: [mokon, Verb, Austronesian]
+description: to eat (food) § Verb
 ---
 
 ### mokon&emsp;<span kind="abugida">ƶɔ̃</span>

@@ -3,7 +3,8 @@ id: mököfo
 slug: mököfo
 title: MÖKÖFO
 sidebar_position: 666
-hoverText: tube § Noun
+tags: [mököfo, Noun, Trans-New Guinea]
+description: tube § Noun
 ---
 
 ### mököfo&emsp;<span kind="abugida">ƶıɔıɤ</span>

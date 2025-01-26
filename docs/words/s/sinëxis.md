@@ -3,7 +3,8 @@ id: sinëxis
 slug: sinëxis
 title: SİNËXİS
 sidebar_position: 404
-hoverText: constant/stable § Adjective
+tags: [sinëxis, Adjective, Hellenic]
+description: constant/stable § Adjective
 ---
 
 ### sinëxis&emsp;<span kind="abugida">ɐɟƨʇɋ́ɟ</span>

@@ -3,7 +3,8 @@ id: nec
 slug: nec
 title: NEC
 sidebar_position: 726
-hoverText: mesh § Noun
+tags: [nec, Noun, Germanic]
+description: mesh § Noun
 ---
 
 ### nec&emsp;<span kind="abugida">ƨ̄ɿ</span>

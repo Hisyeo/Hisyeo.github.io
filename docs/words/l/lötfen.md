@@ -3,7 +3,8 @@ id: lötfen
 slug: lötfen
 title: LÖTFEN
 sidebar_position: 801
-hoverText: politeness sentence ender § Postposition
+tags: [lötfen, Postposition, Indo-Iranian]
+description: politeness sentence ender § Postposition
 ---
 
 ### lötfen&emsp;<span kind="abugida">ʓ̆ıɤ̃ɿ</span>

@@ -3,7 +3,8 @@ id: zowo
 slug: zowo
 title: ZOWO
 sidebar_position: 512
-hoverText: caniform § Noun
+tags: [zowo, Noun, Tupian]
+description: caniform § Noun
 ---
 
 ### zowo&emsp;<span kind="abugida">ⱴʒ</span>

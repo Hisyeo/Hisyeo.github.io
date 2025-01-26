@@ -3,7 +3,8 @@ id: bioli
 slug: bioli
 title: BİOLİ
 sidebar_position: 582
-hoverText: hello/goodbye § Interjection
+tags: [bioli, Interjection, Yuto-Nahuatl]
+description: hello/goodbye § Interjection
 ---
 
 ### bioli&emsp;<span kind="abugida">ʋɟɽʓɟ</span>

@@ -3,7 +3,8 @@ id: hüdul
 slug: hüdul
 title: HÜDUL
 sidebar_position: 154
-hoverText: false § Adjective
+tags: [hüdul, Adjective, Mongolic]
+description: false § Adjective
 ---
 
 ### hüdul&emsp;<span kind="abugida">ɂʄʌ͊ʃ</span>

@@ -3,7 +3,8 @@ id: doinbi
 slug: doinbi
 title: DOİNBİ
 sidebar_position: 464
-hoverText: ticket/pass § Noun
+tags: [doinbi, Noun, Hmong-Mien]
+description: ticket/pass § Noun
 ---
 
 ### doinbi&emsp;<span kind="abugida">ʌɽ̃ɟʋɟ</span>

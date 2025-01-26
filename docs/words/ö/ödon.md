@@ -3,7 +3,8 @@ id: ödon
 slug: ödon
 title: ÖDON
 sidebar_position: 39
-hoverText: orderly § Adjective
+tags: [ödon, Adjective, Germanic]
+description: orderly § Adjective
 ---
 
 ### ödon&emsp;<span kind="abugida">ɽıʌ̃</span>

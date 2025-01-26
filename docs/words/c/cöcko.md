@@ -3,7 +3,8 @@ id: cöcko
 slug: cöcko
 title: CÖCKO
 sidebar_position: 318
-hoverText: lens § Noun
+tags: [cöcko, Noun, Balto-Slavic]
+description: lens § Noun
 ---
 
 ### cöcko&emsp;<span kind="abugida">ꞇ̄ıɔ</span>

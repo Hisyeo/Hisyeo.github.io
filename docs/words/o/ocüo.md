@@ -3,7 +3,8 @@ id: ocüo
 slug: ocüo
 title: OCÜO
 sidebar_position: 11
-hoverText: skin § Noun
+tags: [ocüo, Noun, Abkhazo-Adyghean]
+description: skin § Noun
 ---
 
 ### ocüo&emsp;<span kind="abugida">ɽꞇʄɽ</span>

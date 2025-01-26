@@ -3,7 +3,8 @@ id: iciwü
 slug: iciwü
 title: İCİWÜ
 sidebar_position: 70
-hoverText: hiccup/spasm § Noun
+tags: [iciwü, Noun, Dravidian]
+description: hiccup/spasm § Noun
 ---
 
 ### iciwü&emsp;<span kind="abugida">ɽɟꞇɟʒʄ</span>

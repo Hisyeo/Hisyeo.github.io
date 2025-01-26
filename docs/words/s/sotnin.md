@@ -3,7 +3,8 @@ id: sotnin
 slug: sotnin
 title: SOTNİN
 sidebar_position: 365
-hoverText: right § Noun
+tags: [sotnin, Noun, Mayan]
+description: right § Noun
 ---
 
 ### sotnin&emsp;<span kind="abugida">ɐ̆ƨ̃ɟ</span>

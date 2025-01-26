@@ -3,7 +3,8 @@ id: hondon
 slug: hondon
 title: HONDON
 sidebar_position: 126
-hoverText: family § Noun
+tags: [hondon, Noun, Indo-Iranian]
+description: family § Noun
 ---
 
 ### hondon&emsp;<span kind="abugida">ɂ̃ʌ̃</span>

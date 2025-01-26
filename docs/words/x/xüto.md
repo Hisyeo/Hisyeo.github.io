@@ -3,7 +3,8 @@ id: xüto
 slug: xüto
 title: XÜTO
 sidebar_position: 458
-hoverText: river § Noun
+tags: [xüto, Noun, Oto-Manguean]
+description: river § Noun
 ---
 
 ### xüto&emsp;<span kind="abugida">ɋʄc</span>

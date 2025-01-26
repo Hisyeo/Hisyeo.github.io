@@ -3,7 +3,8 @@ id: xe
 slug: xe
 title: XE
 sidebar_position: 437
-hoverText: subjective subordinate clause particle § Particle
+tags: [xe, Particle, Afroasiatic]
+description: subjective subordinate clause particle § Particle
 ---
 
 ### xe&emsp;<span kind="abugida">ɋɿ</span>

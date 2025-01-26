@@ -3,7 +3,8 @@ id: müt
 slug: müt
 title: MÜT
 sidebar_position: 702
-hoverText: direction/recipient (towards) § Preposition
+tags: [müt, Preposition, Germanic]
+description: direction/recipient (towards) § Preposition
 ---
 
 ### müt&emsp;<span kind="abugida">ƶ̆ʄ</span>

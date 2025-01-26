@@ -3,7 +3,8 @@ id: köndonsë
 slug: köndonsë
 title: KÖNDONSË
 sidebar_position: 185
-hoverText: condensed/concentrated § Adjective
+tags: [köndonsë, Adjective, Romance]
+description: condensed/concentrated § Adjective
 ---
 
 ### köndonsë&emsp;<span kind="abugida">ɔ̃ıʌ̃ɐʇ</span>

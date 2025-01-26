@@ -3,7 +3,8 @@ id: sumon
 slug: sumon
 title: SUMON
 sidebar_position: 409
-hoverText: equal/same § Adjective
+tags: [sumon, Adjective, Indo-Iranian]
+description: equal/same § Adjective
 ---
 
 ### sumon&emsp;<span kind="abugida">ɐʃƶ̃</span>

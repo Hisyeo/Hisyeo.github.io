@@ -3,7 +3,8 @@ id: mozikö
 slug: mozikö
 title: MOZİKÖ
 sidebar_position: 659
-hoverText: magical § Adjective
+tags: [mozikö, Adjective, Romance]
+description: magical § Adjective
 ---
 
 ### mozikö&emsp;<span kind="abugida">ƶⱴɟɔı</span>

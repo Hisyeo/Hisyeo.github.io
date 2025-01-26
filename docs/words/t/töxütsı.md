@@ -3,7 +3,8 @@ id: töxütsı
 slug: töxütsı
 title: TÖXÜTSI
 sidebar_position: 281
-hoverText: bump § Noun
+tags: [töxütsı, Noun, Japonic]
+description: bump § Noun
 ---
 
 ### töxütsı&emsp;<span kind="abugida">cıɋ̆ʄɐȷ</span>

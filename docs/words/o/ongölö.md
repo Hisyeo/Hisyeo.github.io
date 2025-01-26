@@ -3,7 +3,8 @@ id: ongölö
 slug: ongölö
 title: ONGÖLÖ
 sidebar_position: 27
-hoverText: corner § Noun
+tags: [ongölö, Noun, Romance]
+description: corner § Noun
 ---
 
 ### ongölö&emsp;<span kind="abugida">ɽ̃ꜿıʓı</span>

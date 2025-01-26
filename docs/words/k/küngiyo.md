@@ -3,7 +3,8 @@ id: küngiyo
 slug: küngiyo
 title: KÜNGİYO
 sidebar_position: 224
-hoverText: organization/enterprise § Noun
+tags: [küngiyo, Noun, Afroasiatic]
+description: organization/enterprise § Noun
 ---
 
 ### küngiyo&emsp;<span kind="abugida">ɔ̃ʄꜿɟɀ</span>

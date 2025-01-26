@@ -3,7 +3,8 @@ id: kildo
 slug: kildo
 title: KİLDO
 sidebar_position: 207
-hoverText: long § Adjective
+tags: [kildo, Adjective, Koreic]
+description: long § Adjective
 ---
 
 ### kildo&emsp;<span kind="abugida">ɔ͊ɟʌ</span>

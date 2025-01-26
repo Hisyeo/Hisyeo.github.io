@@ -3,7 +3,8 @@ id: gik
 slug: gik
 title: GİK
 sidebar_position: 251
-hoverText: arriving § Adjective
+tags: [gik, Adjective, Nilo-Saharan]
+description: arriving § Adjective
 ---
 
 ### gik&emsp;<span kind="abugida">ꜿ̑ɟ</span>

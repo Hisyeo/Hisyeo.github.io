@@ -3,7 +3,8 @@ id: gıtno
 slug: gıtno
 title: GITNO
 sidebar_position: 250
-hoverText: intermediate marker (between) § Preposition
+tags: [gıtno, Preposition, Austronesian]
+description: intermediate marker (between) § Preposition
 ---
 
 ### gıtno&emsp;<span kind="abugida">ꜿ̆ȷƨ</span>

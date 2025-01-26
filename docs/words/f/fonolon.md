@@ -3,7 +3,8 @@ id: fonolon
 slug: fonolon
 title: FONOLON
 sidebar_position: 619
-hoverText: monkey/ape § Noun
+tags: [fonolon, Noun, Dravidian]
+description: monkey/ape § Noun
 ---
 
 ### fonolon&emsp;<span kind="abugida">ɤƨʓ̃</span>

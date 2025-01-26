@@ -3,7 +3,8 @@ id: sënzö
 slug: sënzö
 title: SËNZÖ
 sidebar_position: 393
-hoverText: ancestral § Adjective
+tags: [sënzö, Adjective, Japonic]
+description: ancestral § Adjective
 ---
 
 ### sënzö&emsp;<span kind="abugida">ɐ̃ʇⱴı</span>

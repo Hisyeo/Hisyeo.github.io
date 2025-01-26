@@ -3,7 +3,8 @@ id: hosoün
 slug: hosoün
 title: HOSOÜN
 sidebar_position: 120
-hoverText: ratio/proportion § Noun
+tags: [hosoün, Noun, Romance]
+description: ratio/proportion § Noun
 ---
 
 ### hosoün&emsp;<span kind="abugida">ɂɐɽ̃ʄ</span>

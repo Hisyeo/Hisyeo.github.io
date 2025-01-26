@@ -3,7 +3,8 @@ id: goniso
 slug: goniso
 title: GONİSO
 sidebar_position: 233
-hoverText: to think (a thought/opinion) § Verb
+tags: [goniso, Verb, Niger-Congo]
+description: to think (a thought/opinion) § Verb
 ---
 
 ### goniso&emsp;<span kind="abugida">ꜿƨɟɐ</span>

@@ -3,7 +3,8 @@ id: dökcon
 slug: dökcon
 title: DÖKCON
 sidebar_position: 472
-hoverText: decent § Adjective
+tags: [dökcon, Adjective, Germanic]
+description: decent § Adjective
 ---
 
 ### dökcon&emsp;<span kind="abugida">ʌ̑ıꞇ̃</span>

@@ -3,7 +3,8 @@ id: kiösö
 slug: kiösö
 title: KİÖSÖ
 sidebar_position: 197
-hoverText: athletic § Adjective
+tags: [kiösö, Adjective, Japonic]
+description: athletic § Adjective
 ---
 
 ### kiösö&emsp;<span kind="abugida">ɔɟɽıɐı</span>

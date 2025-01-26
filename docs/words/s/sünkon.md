@@ -3,7 +3,8 @@ id: sünkon
 slug: sünkon
 title: SÜNKON
 sidebar_position: 419
-hoverText: instantaneous (second) § Adjective
+tags: [sünkon, Adjective, Sino-Tibetan]
+description: instantaneous (second) § Adjective
 ---
 
 ### sünkon&emsp;<span kind="abugida">ɐ̃ʄɔ̃</span>

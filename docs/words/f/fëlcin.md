@@ -3,7 +3,8 @@ id: fëlcin
 slug: fëlcin
 title: FËLCİN
 sidebar_position: 631
-hoverText: last/latest § Adjective
+tags: [fëlcin, Adjective, Armenian]
+description: last/latest § Adjective
 ---
 
 ### fëlcin&emsp;<span kind="abugida">ɤ͊ʇꞇ̃ɟ</span>

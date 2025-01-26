@@ -3,7 +3,8 @@ id: mile
 slug: mile
 title: MİLE
 sidebar_position: 693
-hoverText: future § Adjective
+tags: [mile, Adjective, Koreic]
+description: future § Adjective
 ---
 
 ### mile&emsp;<span kind="abugida">ƶɟʓɿ</span>

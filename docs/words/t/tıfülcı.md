@@ -3,7 +3,8 @@ id: tıfülcı
 slug: tıfülcı
 title: TIFÜLCI
 sidebar_position: 289
-hoverText: creative § Adjective
+tags: [tıfülcı, Adjective, Balto-Slavic]
+description: creative § Adjective
 ---
 
 ### tıfülcı&emsp;<span kind="abugida">cȷɤ͊ʄꞇȷ</span>

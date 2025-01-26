@@ -3,7 +3,8 @@ id: möcibo
 slug: möcibo
 title: MÖCİBO
 sidebar_position: 672
-hoverText: ongoing § Adjective
+tags: [möcibo, Adjective, Yuto-Nahuatl]
+description: ongoing § Adjective
 ---
 
 ### möcibo&emsp;<span kind="abugida">ƶıꞇɟʋ</span>

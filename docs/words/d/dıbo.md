@@ -3,7 +3,8 @@ id: dıbo
 slug: dıbo
 title: DIBO
 sidebar_position: 483
-hoverText: container § Noun
+tags: [dıbo, Noun, Indo-Iranian]
+description: container § Noun
 ---
 
 ### dıbo&emsp;<span kind="abugida">ʌȷʋ</span>

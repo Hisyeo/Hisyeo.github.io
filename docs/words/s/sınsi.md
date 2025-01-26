@@ -3,7 +3,8 @@ id: sınsi
 slug: sınsi
 title: SINSİ
 sidebar_position: 398
-hoverText: town/city § Noun
+tags: [sınsi, Noun, Sino-Tibetan]
+description: town/city § Noun
 ---
 
 ### sınsi&emsp;<span kind="abugida">ɐ̃ȷɐɟ</span>

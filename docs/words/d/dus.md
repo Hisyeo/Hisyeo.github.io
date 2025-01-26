@@ -3,7 +3,8 @@ id: dus
 slug: dus
 title: DUS
 sidebar_position: 493
-hoverText: 10 ten § Numeral
+tags: [dus, Numeral, Indo-Iranian]
+description: 10 ten § Numeral
 ---
 
 ### dus&emsp;<span kind="abugida">ʌ́ʃ</span>

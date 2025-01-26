@@ -3,7 +3,8 @@ id: isibö
 slug: isibö
 title: İSİBÖ
 sidebar_position: 73
-hoverText: claw § Noun
+tags: [isibö, Noun, Niger-Congo]
+description: claw § Noun
 ---
 
 ### isibö&emsp;<span kind="abugida">ɽɟɐɟʋı</span>

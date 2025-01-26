@@ -3,7 +3,8 @@ id: gelmıs
 slug: gelmıs
 title: GELMIS
 sidebar_position: 248
-hoverText: stretched § Adjective
+tags: [gelmıs, Adjective, Turkic]
+description: stretched § Adjective
 ---
 
 ### gelmıs&emsp;<span kind="abugida">ꜿ͊ɿƶ́ȷ</span>

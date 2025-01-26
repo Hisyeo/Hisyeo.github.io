@@ -3,7 +3,8 @@ id: xüxok
 slug: xüxok
 title: XÜXOK
 sidebar_position: 460
-hoverText: hell § Noun
+tags: [xüxok, Noun, Nakh-Daghestani]
+description: hell § Noun
 ---
 
 ### xüxok&emsp;<span kind="abugida">ɋʄɋ̑</span>

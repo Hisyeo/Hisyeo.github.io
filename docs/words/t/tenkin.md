@@ -3,7 +3,8 @@ id: tenkin
 slug: tenkin
 title: TENKİN
 sidebar_position: 286
-hoverText: to hear (a sound) § Verb
+tags: [tenkin, Verb, Sino-Tibetan]
+description: to hear (a sound) § Verb
 ---
 
 ### tenkin&emsp;<span kind="abugida">c̃ɿɔ̃ɟ</span>

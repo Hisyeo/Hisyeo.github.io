@@ -3,7 +3,8 @@ id: ëböl
 slug: ëböl
 title: ËBÖL
 sidebar_position: 58
-hoverText: shoulder § Noun
+tags: [ëböl, Noun, Romance]
+description: shoulder § Noun
 ---
 
 ### ëböl&emsp;<span kind="abugida">ɽʇʋ͊ı</span>

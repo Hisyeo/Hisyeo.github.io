@@ -3,7 +3,8 @@ id: ci
 slug: ci
 title: Cİ
 sidebar_position: 334
-hoverText: propositive sentence ender (agree?) § Postposition
+tags: [ci, Postposition, Koreic]
+description: propositive sentence ender (agree?) § Postposition
 ---
 
 ### ci&emsp;<span kind="abugida">ꞇɟ</span>

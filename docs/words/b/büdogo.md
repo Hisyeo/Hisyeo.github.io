@@ -3,7 +3,8 @@ id: büdogo
 slug: büdogo
 title: BÜDOGO
 sidebar_position: 607
-hoverText: bubble § Noun
+tags: [büdogo, Noun, Dravidian]
+description: bubble § Noun
 ---
 
 ### büdogo&emsp;<span kind="abugida">ʋʄʌꜿ</span>

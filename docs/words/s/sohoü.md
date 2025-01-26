@@ -3,7 +3,8 @@ id: sohoü
 slug: sohoü
 title: SOHOÜ
 sidebar_position: 363
-hoverText: healthy § Adjective
+tags: [sohoü, Adjective, Nakh-Daghestani]
+description: healthy § Adjective
 ---
 
 ### sohoü&emsp;<span kind="abugida">ɐɂɽʄ</span>

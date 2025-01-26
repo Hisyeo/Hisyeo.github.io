@@ -3,7 +3,8 @@ id: wıkse
 slug: wıkse
 title: WIKSE
 sidebar_position: 775
-hoverText: belly § Noun
+tags: [wıkse, Noun, Quechumaran]
+description: belly § Noun
 ---
 
 ### wıkse&emsp;<span kind="abugida">ʒ̑ȷɐɿ</span>

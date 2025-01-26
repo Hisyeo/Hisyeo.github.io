@@ -3,7 +3,8 @@ id: küzoü
 slug: küzoü
 title: KÜZOÜ
 sidebar_position: 220
-hoverText: awesome § Adjective
+tags: [küzoü, Adjective, Austronesian]
+description: awesome § Adjective
 ---
 
 ### küzoü&emsp;<span kind="abugida">ɔʄⱴɽʄ</span>

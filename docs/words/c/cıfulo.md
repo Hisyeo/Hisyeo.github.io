@@ -3,7 +3,8 @@ id: cıfulo
 slug: cıfulo
 title: CIFULO
 sidebar_position: 329
-hoverText: dancing § Adjective
+tags: [cıfulo, Adjective, Afroasiatic]
+description: dancing § Adjective
 ---
 
 ### cıfulo&emsp;<span kind="abugida">ꞇȷɤʃʓ</span>

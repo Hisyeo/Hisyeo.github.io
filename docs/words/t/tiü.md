@@ -3,7 +3,8 @@ id: tiü
 slug: tiü
 title: TİÜ
 sidebar_position: 290
-hoverText: 05 five § Numeral
+tags: [tiü, Numeral, Afroasiatic]
+description: 05 five § Numeral
 ---
 
 ### tiü&emsp;<span kind="abugida">cɟɽʄ</span>

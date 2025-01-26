@@ -3,7 +3,8 @@ id: gö
 slug: gö
 title: GÖ
 sidebar_position: 241
-hoverText: existent § Adjective
+tags: [gö, Adjective, Nilo-Saharan]
+description: existent § Adjective
 ---
 
 ### gö&emsp;<span kind="abugida">ꜿı</span>

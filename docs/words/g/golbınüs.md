@@ -3,7 +3,8 @@ id: golbınüs
 slug: golbınüs
 title: GOLBINÜS
 sidebar_position: 239
-hoverText: chartreuse § Adjective
+tags: [golbınüs, Adjective, Romance]
+description: chartreuse § Adjective
 ---
 
 ### golbınüs&emsp;<span kind="abugida">ꜿ͊ʋȷƨ́ʄ</span>

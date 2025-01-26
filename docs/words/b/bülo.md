@@ -3,7 +3,8 @@ id: bülo
 slug: bülo
 title: BÜLO
 sidebar_position: 613
-hoverText: brown § Adjective
+tags: [bülo, Adjective, Indo-Iranian]
+description: brown § Adjective
 ---
 
 ### bülo&emsp;<span kind="abugida">ʋʄʓ</span>

@@ -3,7 +3,8 @@ id: gülobi
 slug: gülobi
 title: GÜLOBİ
 sidebar_position: 266
-hoverText: pink § Adjective
+tags: [gülobi, Adjective, Dravidian]
+description: pink § Adjective
 ---
 
 ### gülobi&emsp;<span kind="abugida">ꜿʄʓʋɟ</span>

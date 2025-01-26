@@ -3,7 +3,8 @@ id: nüyo
 slug: nüyo
 title: NÜYO
 sidebar_position: 754
-hoverText: stick § Noun
+tags: [nüyo, Noun, Romance]
+description: stick § Noun
 ---
 
 ### nüyo&emsp;<span kind="abugida">ƨʄɀ</span>

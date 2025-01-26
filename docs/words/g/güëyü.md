@@ -3,7 +3,8 @@ id: güëyü
 slug: güëyü
 title: GÜËYÜ
 sidebar_position: 258
-hoverText: eye § Noun
+tags: [güëyü, Noun, Romance]
+description: eye § Noun
 ---
 
 ### güëyü&emsp;<span kind="abugida">ꜿʄɽʇɀʄ</span>

@@ -3,7 +3,8 @@ id: motsı
 slug: motsı
 title: MOTSI
 sidebar_position: 655
-hoverText: to await (an expectation) § Verb
+tags: [motsı, Verb, Japonic]
+description: to await (an expectation) § Verb
 ---
 
 ### motsı&emsp;<span kind="abugida">ƶ̆ɐȷ</span>

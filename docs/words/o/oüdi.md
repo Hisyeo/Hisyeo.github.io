@@ -3,7 +3,8 @@ id: oüdi
 slug: oüdi
 title: OÜDİ
 sidebar_position: 1
-hoverText: seed § Noun
+tags: [oüdi, Noun, Nilo-Saharan]
+description: seed § Noun
 ---
 
 ### oüdi&emsp;<span kind="abugida">ɽɽʄʌɟ</span>

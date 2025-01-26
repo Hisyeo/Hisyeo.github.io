@@ -3,7 +3,8 @@ id: sötün
 slug: sötün
 title: SÖTÜN
 sidebar_position: 381
-hoverText: column § Noun
+tags: [sötün, Noun, Indo-Iranian]
+description: column § Noun
 ---
 
 ### sötün&emsp;<span kind="abugida">ɐıc̃ʄ</span>

@@ -3,7 +3,8 @@ id: boıt
 slug: boıt
 title: BOIT
 sidebar_position: 543
-hoverText: 256 byte § Numeral
+tags: [boıt, Numeral, Germanic]
+description: 256 byte § Numeral
 ---
 
 ### boıt&emsp;<span kind="abugida">ʋɽ̆ȷ</span>

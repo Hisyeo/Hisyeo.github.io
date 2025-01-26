@@ -3,7 +3,8 @@ id: hüsku
 slug: hüsku
 title: HÜSKU
 sidebar_position: 152
-hoverText: to remember (a memory) § Verb
+tags: [hüsku, Verb, Germanic]
+description: to remember (a memory) § Verb
 ---
 
 ### hüsku&emsp;<span kind="abugida">ɂ́ʄɔʃ</span>

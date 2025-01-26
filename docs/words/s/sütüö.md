@@ -3,7 +3,8 @@ id: sütüö
 slug: sütüö
 title: SÜTÜÖ
 sidebar_position: 415
-hoverText: friend § Noun
+tags: [sütüö, Noun, Nilo-Saharan]
+description: friend § Noun
 ---
 
 ### sütüö&emsp;<span kind="abugida">ɐʄcʄɽı</span>

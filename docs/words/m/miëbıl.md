@@ -3,7 +3,8 @@ id: miëbıl
 slug: miëbıl
 title: MİËBIL
 sidebar_position: 687
-hoverText: furniture § Noun
+tags: [miëbıl, Noun, Balto-Slavic]
+description: furniture § Noun
 ---
 
 ### miëbıl&emsp;<span kind="abugida">ƶɟɽʇʋ͊ȷ</span>

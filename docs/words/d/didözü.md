@@ -3,7 +3,8 @@ id: didözü
 slug: didözü
 title: DİDÖZÜ
 sidebar_position: 485
-hoverText: neutral § Adjective
+tags: [didözü, Adjective, Niger-Congo]
+description: neutral § Adjective
 ---
 
 ### didözü&emsp;<span kind="abugida">ʌɟʌıⱴʄ</span>

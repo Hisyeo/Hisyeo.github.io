@@ -3,7 +3,8 @@ id: nukulö
 slug: nukulö
 title: NUKULÖ
 sidebar_position: 745
-hoverText: copy § Noun
+tags: [nukulö, Noun, Indo-Iranian]
+description: copy § Noun
 ---
 
 ### nukulö&emsp;<span kind="abugida">ƨʃɔʃʓı</span>

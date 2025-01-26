@@ -3,7 +3,8 @@ id: elekë
 slug: elekë
 title: ELEKË
 sidebar_position: 52
-hoverText: cheek § Noun
+tags: [elekë, Noun, Niger-Congo]
+description: cheek § Noun
 ---
 
 ### elekë&emsp;<span kind="abugida">ɽɿʓɿɔʇ</span>

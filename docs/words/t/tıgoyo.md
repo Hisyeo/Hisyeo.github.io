@@ -3,7 +3,8 @@ id: tıgoyo
 slug: tıgoyo
 title: TIGOYO
 sidebar_position: 288
-hoverText: supine § Adjective
+tags: [tıgoyo, Adjective, Austronesian]
+description: supine § Adjective
 ---
 
 ### tıgoyo&emsp;<span kind="abugida">cȷꜿɀ</span>

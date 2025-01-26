@@ -3,7 +3,8 @@ id: sufoün
 slug: sufoün
 title: SUFOÜN
 sidebar_position: 408
-hoverText: soap § Noun
+tags: [sufoün, Noun, Romance]
+description: soap § Noun
 ---
 
 ### sufoün&emsp;<span kind="abugida">ɐʃɤɽ̃ʄ</span>

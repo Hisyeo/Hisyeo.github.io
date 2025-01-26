@@ -3,7 +3,8 @@ id: zicoü
 slug: zicoü
 title: ZİCOÜ
 sidebar_position: 528
-hoverText: to train (a skill/ability) § Verb
+tags: [zicoü, Verb, Sino-Tibetan]
+description: to train (a skill/ability) § Verb
 ---
 
 ### zicoü&emsp;<span kind="abugida">ⱴɟꞇɽʄ</span>

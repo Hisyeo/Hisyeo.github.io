@@ -3,7 +3,8 @@ id: bibök
 slug: bibök
 title: BİBÖK
 sidebar_position: 590
-hoverText: white § Adjective
+tags: [bibök, Adjective, Sino-Tibetan]
+description: white § Adjective
 ---
 
 ### bibök&emsp;<span kind="abugida">ʋɟʋ̑ı</span>

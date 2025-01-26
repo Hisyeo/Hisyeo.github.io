@@ -3,7 +3,8 @@ id: yınsük
 slug: yınsük
 title: YINSÜK
 sidebar_position: 850
-hoverText: serious § Adjective
+tags: [yınsük, Adjective, Sino-Tibetan]
+description: serious § Adjective
 ---
 
 ### yınsük&emsp;<span kind="abugida">ɀ̃ȷɐ̑ʄ</span>

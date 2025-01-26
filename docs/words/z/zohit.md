@@ -3,7 +3,8 @@ id: zohit
 slug: zohit
 title: ZOHİT
 sidebar_position: 504
-hoverText: to sew (the sewn) § Verb
+tags: [zohit, Verb, Austronesian]
+description: to sew (the sewn) § Verb
 ---
 
 ### zohit&emsp;<span kind="abugida">ⱴɂ̆ɟ</span>

@@ -3,7 +3,8 @@ id: gonzil
 slug: gonzil
 title: GONZİL
 sidebar_position: 235
-hoverText: strange § Adjective
+tags: [gonzil, Adjective, Austronesian]
+description: strange § Adjective
 ---
 
 ### gonzil&emsp;<span kind="abugida">ꜿ̃ⱴ͊ɟ</span>

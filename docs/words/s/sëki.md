@@ -3,7 +3,8 @@ id: sëki
 slug: sëki
 title: SËKİ
 sidebar_position: 389
-hoverText: genitalia § Noun
+tags: [sëki, Noun, Japonic]
+description: genitalia § Noun
 ---
 
 ### sëki&emsp;<span kind="abugida">ɐʇɔɟ</span>

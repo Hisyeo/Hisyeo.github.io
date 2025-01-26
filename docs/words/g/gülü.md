@@ -3,7 +3,8 @@ id: gülü
 slug: gülü
 title: GÜLÜ
 sidebar_position: 267
-hoverText: wound/injury § Noun
+tags: [gülü, Noun, Nilo-Saharan]
+description: wound/injury § Noun
 ---
 
 ### gülü&emsp;<span kind="abugida">ꜿʄʓʄ</span>

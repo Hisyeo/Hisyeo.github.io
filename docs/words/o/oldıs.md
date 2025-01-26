@@ -3,7 +3,8 @@ id: oldıs
 slug: oldıs
 title: OLDIS
 sidebar_position: 33
-hoverText: evidence marker (or so) § Preposition
+tags: [oldıs, Preposition, Germanic]
+description: evidence marker (or so) § Preposition
 ---
 
 ### oldıs&emsp;<span kind="abugida">ɽ͊ʌ́ȷ</span>

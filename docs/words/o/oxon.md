@@ -3,7 +3,8 @@ id: oxon
 slug: oxon
 title: OXON
 sidebar_position: 14
-hoverText: beneficiary/purpose marker (for) § Preposition
+tags: [oxon, Preposition, Afroasiatic]
+description: beneficiary/purpose marker (for) § Preposition
 ---
 
 ### oxon&emsp;<span kind="abugida">ɽɋ̃</span>

@@ -3,7 +3,8 @@ id: konxo
 slug: konxo
 title: KONXO
 sidebar_position: 168
-hoverText: thankful/grateful § Adjective
+tags: [konxo, Adjective, Japonic]
+description: thankful/grateful § Adjective
 ---
 
 ### konxo&emsp;<span kind="abugida">ɔ̃ɋ</span>

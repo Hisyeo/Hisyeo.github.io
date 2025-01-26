@@ -3,7 +3,8 @@ id: möfi
 slug: möfi
 title: MÖFİ
 sidebar_position: 673
-hoverText: brave/courageous § Adjective
+tags: [möfi, Adjective, Germanic]
+description: brave/courageous § Adjective
 ---
 
 ### möfi&emsp;<span kind="abugida">ƶıɤɟ</span>

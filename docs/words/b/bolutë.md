@@ -3,7 +3,8 @@ id: bolutë
 slug: bolutë
 title: BOLUTË
 sidebar_position: 558
-hoverText: foreign § Adjective
+tags: [bolutë, Adjective, Austro-Asiatic]
+description: foreign § Adjective
 ---
 
 ### bolutë&emsp;<span kind="abugida">ʋʓʃcʇ</span>

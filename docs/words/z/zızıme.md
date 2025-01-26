@@ -3,7 +3,8 @@ id: zızıme
 slug: zızıme
 title: ZIZIME
 sidebar_position: 524
-hoverText: generation § Noun
+tags: [zızıme, Noun, Niger-Congo]
+description: generation § Noun
 ---
 
 ### zızıme&emsp;<span kind="abugida">ⱴȷⱴȷƶɿ</span>

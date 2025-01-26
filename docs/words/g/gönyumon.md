@@ -3,7 +3,8 @@ id: gönyumon
 slug: gönyumon
 title: GÖNYUMON
 sidebar_position: 243
-hoverText: grunting/growling § Adjective
+tags: [gönyumon, Adjective, Romance]
+description: grunting/growling § Adjective
 ---
 
 ### gönyumon&emsp;<span kind="abugida">ꜿ̃ıɀʃƶ̃</span>

@@ -3,7 +3,8 @@ id: diyondë
 slug: diyondë
 title: DİYONDË
 sidebar_position: 490
-hoverText: to focus [on]/pay attention [to] § Verb
+tags: [diyondë, Verb, Indo-Iranian]
+description: to focus [on]/pay attention [to] § Verb
 ---
 
 ### diyondë&emsp;<span kind="abugida">ʌɟɀ̃ʌʇ</span>

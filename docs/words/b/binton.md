@@ -3,7 +3,8 @@ id: binton
 slug: binton
 title: BİNTON
 sidebar_position: 593
-hoverText: star § Noun
+tags: [binton, Noun, Austronesian]
+description: star § Noun
 ---
 
 ### binton&emsp;<span kind="abugida">ʋ̃ɟc̃</span>

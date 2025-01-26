@@ -3,7 +3,8 @@ id: ülonfü
 slug: ülonfü
 title: ÜLONFÜ
 sidebar_position: 110
-hoverText: syllable § Noun
+tags: [ülonfü, Noun, Niger-Congo]
+description: syllable § Noun
 ---
 
 ### ülonfü&emsp;<span kind="abugida">ɽʄʓ̃ɤʄ</span>

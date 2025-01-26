@@ -3,7 +3,8 @@ id: wüöt
 slug: wüöt
 title: WÜÖT
 sidebar_position: 788
-hoverText: journey/trip/voyage § Noun
+tags: [wüöt, Noun, Nilo-Saharan]
+description: journey/trip/voyage § Noun
 ---
 
 ### wüöt&emsp;<span kind="abugida">ʒʄɽ̆ı</span>

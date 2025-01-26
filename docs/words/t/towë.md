@@ -3,7 +3,8 @@ id: towë
 slug: towë
 title: TOWË
 sidebar_position: 274
-hoverText: hair/fur/plumage § Noun
+tags: [towë, Noun, Tupian]
+description: hair/fur/plumage § Noun
 ---
 
 ### towë&emsp;<span kind="abugida">cʒʇ</span>

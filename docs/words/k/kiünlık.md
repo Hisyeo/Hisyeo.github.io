@@ -3,7 +3,8 @@ id: kiünlık
 slug: kiünlık
 title: KİÜNLIK
 sidebar_position: 199
-hoverText: authorized § Adjective
+tags: [kiünlık, Adjective, Sino-Tibetan]
+description: authorized § Adjective
 ---
 
 ### kiünlık&emsp;<span kind="abugida">ɔɟɽ̃ʄʓ̑ȷ</span>

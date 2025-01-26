@@ -3,7 +3,8 @@ id: elfü
 slug: elfü
 title: ELFÜ
 sidebar_position: 54
-hoverText: 1000 thousand § Particle
+tags: [elfü, Particle, Niger-Congo]
+description: 1000 thousand § Particle
 ---
 
 ### elfü&emsp;<span kind="abugida">ɽ͊ɿɤʄ</span>

@@ -3,7 +3,8 @@ id: legëfü
 slug: legëfü
 title: LEGËFÜ
 sidebar_position: 805
-hoverText: lazy § Adjective
+tags: [legëfü, Adjective, Niger-Congo]
+description: lazy § Adjective
 ---
 
 ### legëfü&emsp;<span kind="abugida">ʓɿꜿʇɤʄ</span>

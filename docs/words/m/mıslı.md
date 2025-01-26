@@ -3,7 +3,8 @@ id: mıslı
 slug: mıslı
 title: MISLI
 sidebar_position: 682
-hoverText: similative marker (like) § Preposition
+tags: [mıslı, Preposition, Indo-Iranian]
+description: similative marker (like) § Preposition
 ---
 
 ### mıslı&emsp;<span kind="abugida">ƶ́ȷʓȷ</span>

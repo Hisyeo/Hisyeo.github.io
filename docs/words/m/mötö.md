@@ -3,7 +3,8 @@ id: mötö
 slug: mötö
 title: MÖTÖ
 sidebar_position: 669
-hoverText: fire § Noun
+tags: [mötö, Noun, Niger-Congo]
+description: fire § Noun
 ---
 
 ### mötö&emsp;<span kind="abugida">ƶıcı</span>

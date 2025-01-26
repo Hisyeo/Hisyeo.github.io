@@ -3,7 +3,8 @@ id: sonti
 slug: sonti
 title: SONTİ
 sidebar_position: 377
-hoverText: calm § Adjective
+tags: [sonti, Adjective, Kra-Dai]
+description: calm § Adjective
 ---
 
 ### sonti&emsp;<span kind="abugida">ɐ̃cɟ</span>

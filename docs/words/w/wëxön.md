@@ -3,7 +3,8 @@ id: wëxön
 slug: wëxön
 title: WËXÖN
 sidebar_position: 773
-hoverText: week § Noun
+tags: [wëxön, Noun, Uralic]
+description: week § Noun
 ---
 
 ### wëxön&emsp;<span kind="abugida">ʒʇɋ̃ı</span>

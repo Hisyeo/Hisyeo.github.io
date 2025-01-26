@@ -3,7 +3,8 @@ id: büihi
 slug: büihi
 title: BÜİHİ
 sidebar_position: 603
-hoverText: timid/shy § Adjective
+tags: [büihi, Adjective, Austronesian]
+description: timid/shy § Adjective
 ---
 
 ### büihi&emsp;<span kind="abugida">ʋʄɽɟɂɟ</span>

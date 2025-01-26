@@ -3,7 +3,8 @@ id: kocko
 slug: kocko
 title: KOCKO
 sidebar_position: 164
-hoverText: rough § Adjective
+tags: [kocko, Adjective, Quechumaran]
+description: rough § Adjective
 ---
 
 ### kocko&emsp;<span kind="abugida">ɔ̄ɔ</span>

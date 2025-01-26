@@ -3,7 +3,8 @@ id: könyëc
 slug: könyëc
 title: KÖNYËC
 sidebar_position: 188
-hoverText: ending § Adjective
+tags: [könyëc, Adjective, Balto-Slavic]
+description: ending § Adjective
 ---
 
 ### könyëc&emsp;<span kind="abugida">ɔ̃ıɀ̄ʇ</span>

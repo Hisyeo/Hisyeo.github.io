@@ -3,7 +3,8 @@ id: menekxe
 slug: menekxe
 title: MENEKXE
 sidebar_position: 677
-hoverText: violet § Adjective
+tags: [menekxe, Adjective, Turkic]
+description: violet § Adjective
 ---
 
 ### menekxe&emsp;<span kind="abugida">ƶɿƨ̑ɿɋɿ</span>

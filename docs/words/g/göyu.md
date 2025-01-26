@@ -3,7 +3,8 @@ id: göyu
 slug: göyu
 title: GÖYU
 sidebar_position: 246
-hoverText: mouth § Noun
+tags: [göyu, Noun, Albanian]
+description: mouth § Noun
 ---
 
 ### göyu&emsp;<span kind="abugida">ꜿıɀʃ</span>

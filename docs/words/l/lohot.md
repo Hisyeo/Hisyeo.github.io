@@ -3,7 +3,8 @@ id: lohot
 slug: lohot
 title: LOHOT
 sidebar_position: 789
-hoverText: comfortable § Adjective
+tags: [lohot, Adjective, Turkic]
+description: comfortable § Adjective
 ---
 
 ### lohot&emsp;<span kind="abugida">ʓɂ̆</span>

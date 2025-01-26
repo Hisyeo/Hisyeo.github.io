@@ -3,7 +3,8 @@ id: cibon
 slug: cibon
 title: CİBON
 sidebar_position: 341
-hoverText: fat/grease § Noun
+tags: [cibon, Noun, Koreic]
+description: fat/grease § Noun
 ---
 
 ### cibon&emsp;<span kind="abugida">ꞇɟʋ̃</span>

@@ -3,7 +3,8 @@ id: oksün
 slug: oksün
 title: OKSÜN
 sidebar_position: 6
-hoverText: meat/muscle § Noun
+tags: [oksün, Noun, Afroasiatic]
+description: meat/muscle § Noun
 ---
 
 ### oksün&emsp;<span kind="abugida">ɽ̑ɐ̃ʄ</span>

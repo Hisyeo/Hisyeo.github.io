@@ -3,7 +3,8 @@ id: töcit
 slug: töcit
 title: TÖCİT
 sidebar_position: 280
-hoverText: blunt § Adjective
+tags: [töcit, Adjective, Romance]
+description: blunt § Adjective
 ---
 
 ### töcit&emsp;<span kind="abugida">cıꞇ̆ɟ</span>

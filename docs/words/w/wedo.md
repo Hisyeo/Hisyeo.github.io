@@ -3,7 +3,8 @@ id: wedo
 slug: wedo
 title: WEDO
 sidebar_position: 766
-hoverText: to exchange/trade (the exchanged/traded) § Verb
+tags: [wedo, Verb, Trans-New Guinea]
+description: to exchange/trade (the exchanged/traded) § Verb
 ---
 
 ### wedo&emsp;<span kind="abugida">ʒɿʌ</span>

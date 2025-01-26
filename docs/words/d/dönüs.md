@@ -3,7 +3,8 @@ id: dönüs
 slug: dönüs
 title: DÖNÜS
 sidebar_position: 475
-hoverText: pig § Noun
+tags: [dönüs, Noun, Turkic]
+description: pig § Noun
 ---
 
 ### dönüs&emsp;<span kind="abugida">ʌıƨ́ʄ</span>

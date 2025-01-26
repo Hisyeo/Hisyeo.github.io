@@ -3,7 +3,8 @@ id: dodë
 slug: dodë
 title: DODË
 sidebar_position: 470
-hoverText: diving § Adjective
+tags: [dodë, Adjective, Hmong-Mien]
+description: diving § Adjective
 ---
 
 ### dodë&emsp;<span kind="abugida">ʌʌʇ</span>

@@ -3,7 +3,8 @@ id: üsën
 slug: üsën
 title: ÜSËN
 sidebar_position: 101
-hoverText: year § Noun
+tags: [üsën, Noun, Nakh-Daghestani]
+description: year § Noun
 ---
 
 ### üsën&emsp;<span kind="abugida">ɽʄɐ̃ʇ</span>

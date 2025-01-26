@@ -3,7 +3,8 @@ id: lëkın
 slug: lëkın
 title: LËKIN
 sidebar_position: 808
-hoverText: but § Conjunction
+tags: [lëkın, Conjunction, Indo-Iranian]
+description: but § Conjunction
 ---
 
 ### lëkın&emsp;<span kind="abugida">ʓʇɔ̃ȷ</span>

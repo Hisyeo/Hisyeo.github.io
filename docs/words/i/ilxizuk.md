@@ -3,7 +3,8 @@ id: ilxizuk
 slug: ilxizuk
 title: İLXİZUK
 sidebar_position: 83
-hoverText: temporary § Adjective
+tags: [ilxizuk, Adjective, Koreic]
+description: temporary § Adjective
 ---
 
 ### ilxizuk&emsp;<span kind="abugida">ɽ͊ɟɋɟⱴ̑ʃ</span>

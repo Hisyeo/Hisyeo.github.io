@@ -3,7 +3,8 @@ id: kötfüsu
 slug: kötfüsu
 title: KÖTFÜSU
 sidebar_position: 176
-hoverText: cephalapod § Noun
+tags: [kötfüsu, Noun, Germanic]
+description: cephalapod § Noun
 ---
 
 ### kötfüsu&emsp;<span kind="abugida">ɔ̆ıɤʄɐʃ</span>

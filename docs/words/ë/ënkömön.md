@@ -3,7 +3,8 @@ id: ënkömön
 slug: ënkömön
 title: ËNKÖMÖN
 sidebar_position: 61
-hoverText: face § Noun
+tags: [ënkömön, Noun, Nilo-Saharan]
+description: face § Noun
 ---
 
 ### ënkömön&emsp;<span kind="abugida">ɽ̃ʇɔıƶ̃ı</span>

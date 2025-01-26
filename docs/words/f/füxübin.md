@@ -3,7 +3,8 @@ id: füxübin
 slug: füxübin
 title: FÜXÜBİN
 sidebar_position: 651
-hoverText: accessory § Noun
+tags: [füxübin, Noun, Sino-Tibetan]
+description: accessory § Noun
 ---
 
 ### füxübin&emsp;<span kind="abugida">ɤʄɋʄʋ̃ɟ</span>

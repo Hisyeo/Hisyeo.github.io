@@ -3,7 +3,8 @@ id: xefizec
 slug: xefizec
 title: XEFİZEC
 sidebar_position: 439
-hoverText: to predict (a prediction) § Verb
+tags: [xefizec, Verb, Balto-Slavic]
+description: to predict (a prediction) § Verb
 ---
 
 ### xefizec&emsp;<span kind="abugida">ɋɿɤɟⱴ̄ɿ</span>

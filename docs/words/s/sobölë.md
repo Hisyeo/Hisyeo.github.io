@@ -3,7 +3,8 @@ id: sobölë
 slug: sobölë
 title: SOBÖLË
 sidebar_position: 370
-hoverText: to taste (a flavor) § Verb
+tags: [sobölë, Verb, Romance]
+description: to taste (a flavor) § Verb
 ---
 
 ### sobölë&emsp;<span kind="abugida">ɐʋıʓʇ</span>

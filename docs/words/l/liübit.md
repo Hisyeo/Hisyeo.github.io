@@ -3,7 +3,8 @@ id: liübit
 slug: liübit
 title: LİÜBİT
 sidebar_position: 813
-hoverText: to love (the loved) § Verb
+tags: [liübit, Verb, Balto-Slavic]
+description: to love (the loved) § Verb
 ---
 
 ### liübit&emsp;<span kind="abugida">ʓɟɽʄʋ̆ɟ</span>

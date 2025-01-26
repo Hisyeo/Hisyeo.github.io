@@ -3,7 +3,8 @@ id: yünlön
 slug: yünlön
 title: YÜNLÖN
 sidebar_position: 855
-hoverText: to forgive (the forgiven) § Verb
+tags: [yünlön, Verb, Sino-Tibetan]
+description: to forgive (the forgiven) § Verb
 ---
 
 ### yünlön&emsp;<span kind="abugida">ɀ̃ʄʓ̃ı</span>

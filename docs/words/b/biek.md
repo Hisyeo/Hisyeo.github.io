@@ -3,7 +3,8 @@ id: biek
 slug: biek
 title: BİEK
 sidebar_position: 584
-hoverText: to bake (a baked good) § Verb
+tags: [biek, Verb, Albanian]
+description: to bake (a baked good) § Verb
 ---
 
 ### biek&emsp;<span kind="abugida">ʋɟɽ̑ɿ</span>

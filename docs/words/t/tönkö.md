@@ -3,7 +3,8 @@ id: tönkö
 slug: tönkö
 title: TÖNKÖ
 sidebar_position: 283
-hoverText: hurting/suffering § Adjective
+tags: [tönkö, Adjective, Sino-Tibetan]
+description: hurting/suffering § Adjective
 ---
 
 ### tönkö&emsp;<span kind="abugida">c̃ıɔı</span>

@@ -3,7 +3,8 @@ id: yosten
 slug: yosten
 title: YOSTEN
 sidebar_position: 837
-hoverText: to find (a discovery) § Verb
+tags: [yosten, Verb, Indo-Iranian]
+description: to find (a discovery) § Verb
 ---
 
 ### yosten&emsp;<span kind="abugida">ɀ́c̃ɿ</span>

@@ -3,7 +3,8 @@ id: otıkon
 slug: otıkon
 title: OTIKON
 sidebar_position: 10
-hoverText: excess § Determiner
+tags: [otıkon, Determiner, Dravidian]
+description: excess § Determiner
 ---
 
 ### otıkon&emsp;<span kind="abugida">ɽcȷɔ̃</span>

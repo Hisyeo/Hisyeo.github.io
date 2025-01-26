@@ -3,7 +3,8 @@ id: dukwëlıt
 slug: dukwëlıt
 title: DUKWËLIT
 sidebar_position: 492
-hoverText: returning § Adjective
+tags: [dukwëlıt, Adjective, Celtic]
+description: returning § Adjective
 ---
 
 ### dukwëlıt&emsp;<span kind="abugida">ʌ̑ʃʒʇʓ̆ȷ</span>

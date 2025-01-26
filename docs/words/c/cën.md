@@ -3,7 +3,8 @@ id: cën
 slug: cën
 title: CËN
 sidebar_position: 324
-hoverText: up § Noun
+tags: [cën, Noun, Austro-Asiatic]
+description: up § Noun
 ---
 
 ### cën&emsp;<span kind="abugida">ꞇ̃ʇ</span>

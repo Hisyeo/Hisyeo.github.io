@@ -3,7 +3,8 @@ id: cinli
 slug: cinli
 title: CİNLİ
 sidebar_position: 343
-hoverText: to undergo (an experience) § Verb
+tags: [cinli, Verb, Sino-Tibetan]
+description: to undergo (an experience) § Verb
 ---
 
 ### cinli&emsp;<span kind="abugida">ꞇ̃ɟʓɟ</span>

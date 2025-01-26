@@ -3,7 +3,8 @@ id: öfo
 slug: öfo
 title: ÖFO
 sidebar_position: 42
-hoverText: proximal demonstrative (this/here) § Pronoun
+tags: [öfo, Pronoun, Balto-Slavic]
+description: proximal demonstrative (this/here) § Pronoun
 ---
 
 ### öfo&emsp;<span kind="abugida">ɽıɤ</span>

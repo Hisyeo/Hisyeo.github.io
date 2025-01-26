@@ -3,7 +3,8 @@ id: dën
 slug: dën
 title: DËN
 sidebar_position: 481
-hoverText: counter-agent marker (against) § Preposition
+tags: [dën, Preposition, Armenian]
+description: counter-agent marker (against) § Preposition
 ---
 
 ### dën&emsp;<span kind="abugida">ʌ̃ʇ</span>

@@ -3,7 +3,8 @@ id: kelo
 slug: kelo
 title: KELO
 sidebar_position: 191
-hoverText: to play (a game) § Verb
+tags: [kelo, Verb, Indo-Iranian]
+description: to play (a game) § Verb
 ---
 
 ### kelo&emsp;<span kind="abugida">ɔɿʓ</span>

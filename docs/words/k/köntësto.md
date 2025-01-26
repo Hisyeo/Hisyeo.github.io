@@ -3,7 +3,8 @@ id: köntësto
 slug: köntësto
 title: KÖNTËSTO
 sidebar_position: 184
-hoverText: to contend with (a contestant) § Verb
+tags: [köntësto, Verb, Romance]
+description: to contend with (a contestant) § Verb
 ---
 
 ### köntësto&emsp;<span kind="abugida">ɔ̃ıćʇc</span>

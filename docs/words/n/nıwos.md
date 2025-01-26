@@ -3,7 +3,8 @@ id: nıwos
 slug: nıwos
 title: NIWOS
 sidebar_position: 738
-hoverText: to reside in (a residence) § Verb
+tags: [nıwos, Verb, Indo-Iranian]
+description: to reside in (a residence) § Verb
 ---
 
 ### nıwos&emsp;<span kind="abugida">ƨȷʒ́</span>

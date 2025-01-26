@@ -3,7 +3,8 @@ id: litıwe
 slug: litıwe
 title: LİTIWE
 sidebar_position: 816
-hoverText: related § Adjective
+tags: [litıwe, Adjective, Uralic]
+description: related § Adjective
 ---
 
 ### litıwe&emsp;<span kind="abugida">ʓɟcȷʒɿ</span>

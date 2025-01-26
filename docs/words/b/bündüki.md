@@ -3,7 +3,8 @@ id: bündüki
 slug: bündüki
 title: BÜNDÜKİ
 sidebar_position: 612
-hoverText: gun § Noun
+tags: [bündüki, Noun, Niger-Congo]
+description: gun § Noun
 ---
 
 ### bündüki&emsp;<span kind="abugida">ʋ̃ʄʌʄɔɟ</span>

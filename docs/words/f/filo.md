@@ -3,7 +3,8 @@ id: filo
 slug: filo
 title: FİLO
 sidebar_position: 641
-hoverText: row § Noun
+tags: [filo, Noun, Romance]
+description: row § Noun
 ---
 
 ### filo&emsp;<span kind="abugida">ɤɟʓ</span>

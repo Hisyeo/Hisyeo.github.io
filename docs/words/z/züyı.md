@@ -3,7 +3,8 @@ id: züyı
 slug: züyı
 title: ZÜYI
 sidebar_position: 542
-hoverText: to spot/notice (the spotted/noticed) § Verb
+tags: [züyı, Verb, Sino-Tibetan]
+description: to spot/notice (the spotted/noticed) § Verb
 ---
 
 ### züyı&emsp;<span kind="abugida">ⱴʄɀȷ</span>

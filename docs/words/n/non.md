@@ -3,7 +3,8 @@ id: non
 slug: non
 title: NON
 sidebar_position: 719
-hoverText: movie/show § Noun
+tags: [non, Noun, Kra-Dai]
+description: movie/show § Noun
 ---
 
 ### non&emsp;<span kind="abugida">ƨ̃</span>

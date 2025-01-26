@@ -3,7 +3,8 @@ id: en
 slug: en
 title: EN
 sidebar_position: 50
-hoverText: than § Conjunction
+tags: [en, Conjunction, Germanic]
+description: than § Conjunction
 ---
 
 ### en&emsp;<span kind="abugida">ɽ̃ɿ</span>

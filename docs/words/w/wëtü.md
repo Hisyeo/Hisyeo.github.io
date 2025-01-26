@@ -3,7 +3,8 @@ id: wëtü
 slug: wëtü
 title: WËTÜ
 sidebar_position: 772
-hoverText: to cut (the cut/chopped) § Verb
+tags: [wëtü, Verb, Dravidian]
+description: to cut (the cut/chopped) § Verb
 ---
 
 ### wëtü&emsp;<span kind="abugida">ʒʇcʄ</span>

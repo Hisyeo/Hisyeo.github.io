@@ -3,7 +3,8 @@ id: sëdu
 slug: sëdu
 title: SËDU
 sidebar_position: 391
-hoverText: station/garage § Noun
+tags: [sëdu, Noun, Sino-Tibetan]
+description: station/garage § Noun
 ---
 
 ### sëdu&emsp;<span kind="abugida">ɐʇʌʃ</span>

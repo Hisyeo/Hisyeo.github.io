@@ -3,7 +3,8 @@ id: kümun
 slug: kümun
 title: KÜMUN
 sidebar_position: 221
-hoverText: hole § Noun
+tags: [kümun, Noun, Koreic]
+description: hole § Noun
 ---
 
 ### kümun&emsp;<span kind="abugida">ɔʄƶ̃ʃ</span>

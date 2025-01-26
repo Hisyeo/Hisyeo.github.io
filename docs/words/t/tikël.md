@@ -3,7 +3,8 @@ id: tikël
 slug: tikël
 title: TİKËL
 sidebar_position: 291
-hoverText: reflected § Adjective
+tags: [tikël, Adjective, Uralic]
+description: reflected § Adjective
 ---
 
 ### tikël&emsp;<span kind="abugida">cɟɔ͊ʇ</span>

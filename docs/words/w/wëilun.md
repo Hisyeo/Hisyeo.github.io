@@ -3,7 +3,8 @@ id: wëilun
 slug: wëilun
 title: WËİLUN
 sidebar_position: 768
-hoverText: to behave (a behavior) § Verb
+tags: [wëilun, Verb, Sino-Tibetan]
+description: to behave (a behavior) § Verb
 ---
 
 ### wëilun&emsp;<span kind="abugida">ʒʇɽɟʓ̃ʃ</span>

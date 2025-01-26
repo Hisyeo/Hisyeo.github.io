@@ -3,7 +3,8 @@ id: süsön
 slug: süsön
 title: SÜSÖN
 sidebar_position: 416
-hoverText: layer § Noun
+tags: [süsön, Noun, Austronesian]
+description: layer § Noun
 ---
 
 ### süsön&emsp;<span kind="abugida">ɐʄɐ̃ı</span>

@@ -3,7 +3,8 @@ id: okülo
 slug: okülo
 title: OKÜLO
 sidebar_position: 4
-hoverText: to touch (a surface) § Verb
+tags: [okülo, Verb, Nilo-Saharan]
+description: to touch (a surface) § Verb
 ---
 
 ### okülo&emsp;<span kind="abugida">ɽɔʄʓ</span>

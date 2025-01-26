@@ -3,7 +3,8 @@ id: xobo
 slug: xobo
 title: XOBO
 sidebar_position: 426
-hoverText: to strike (the stricken)  § Verb
+tags: [xobo, Verb, Niger-Congo]
+description: to strike (the stricken)  § Verb
 ---
 
 ### xobo&emsp;<span kind="abugida">ɋʋ</span>

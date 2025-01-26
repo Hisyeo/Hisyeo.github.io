@@ -3,7 +3,8 @@ id: hitnödët
 slug: hitnödët
 title: HİTNÖDËT
 sidebar_position: 143
-hoverText: oscillating § Adjective
+tags: [hitnödët, Adjective, Afroasiatic]
+description: oscillating § Adjective
 ---
 
 ### hitnödët&emsp;<span kind="abugida">ɂ̆ɟƨıʌ̆ʇ</span>

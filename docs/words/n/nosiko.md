@@ -3,7 +3,8 @@ id: nosiko
 slug: nosiko
 title: NOSİKO
 sidebar_position: 715
-hoverText: nose § Noun
+tags: [nosiko, Noun, Indo-Iranian]
+description: nose § Noun
 ---
 
 ### nosiko&emsp;<span kind="abugida">ƨɐɟɔ</span>

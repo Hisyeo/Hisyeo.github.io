@@ -3,7 +3,8 @@ id: dokdogo
 slug: dokdogo
 title: DOKDOGO
 sidebar_position: 467
-hoverText: to tickle (the tickled) § Verb
+tags: [dokdogo, Verb, Afroasiatic]
+description: to tickle (the tickled) § Verb
 ---
 
 ### dokdogo&emsp;<span kind="abugida">ʌ̑ʌꜿ</span>

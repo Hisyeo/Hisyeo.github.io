@@ -3,7 +3,8 @@ id: xiülo
 slug: xiülo
 title: XİÜLO
 sidebar_position: 446
-hoverText: hiss/fizz/whistle § Noun
+tags: [xiülo, Noun, Romance]
+description: hiss/fizz/whistle § Noun
 ---
 
 ### xiülo&emsp;<span kind="abugida">ɋɟɽʄʓ</span>

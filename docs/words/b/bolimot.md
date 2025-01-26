@@ -3,7 +3,8 @@ id: bolimot
 slug: bolimot
 title: BOLİMOT
 sidebar_position: 557
-hoverText: voluminous/spacious § Adjective
+tags: [bolimot, Adjective, Kra-Dai]
+description: voluminous/spacious § Adjective
 ---
 
 ### bolimot&emsp;<span kind="abugida">ʋʓɟƶ̆</span>

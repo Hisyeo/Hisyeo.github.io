@@ -3,7 +3,8 @@ id: somo
 slug: somo
 title: SOMO
 sidebar_position: 374
-hoverText: to name [as] (a name) § Verb
+tags: [somo, Verb, Afroasiatic]
+description: to name [as] (a name) § Verb
 ---
 
 ### somo&emsp;<span kind="abugida">ɐƶ</span>

@@ -3,7 +3,8 @@ id: timiok
 slug: timiok
 title: TİMİOK
 sidebar_position: 295
-hoverText: bird § Noun
+tags: [timiok, Noun, Eskaleut]
+description: bird § Noun
 ---
 
 ### timiok&emsp;<span kind="abugida">cɟƶɟɽ̑</span>

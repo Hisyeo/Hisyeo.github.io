@@ -3,7 +3,8 @@ id: sıtyo
 slug: sıtyo
 title: SITYO
 sidebar_position: 396
-hoverText: to sit on (a seat) § Verb
+tags: [sıtyo, Verb, Germanic]
+description: to sit on (a seat) § Verb
 ---
 
 ### sıtyo&emsp;<span kind="abugida">ɐ̆ȷɀ</span>

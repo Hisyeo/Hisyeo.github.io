@@ -3,7 +3,8 @@ id: zık
 slug: zık
 title: ZIK
 sidebar_position: 523
-hoverText: what § Pronoun
+tags: [zık, Pronoun, Nilo-Saharan]
+description: what § Pronoun
 ---
 
 ### zık&emsp;<span kind="abugida">ⱴ̑ȷ</span>

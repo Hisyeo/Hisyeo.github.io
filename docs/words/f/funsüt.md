@@ -3,7 +3,8 @@ id: funsüt
 slug: funsüt
 title: FUNSÜT
 sidebar_position: 644
-hoverText: defeated § Adjective
+tags: [funsüt, Adjective, Romance]
+description: defeated § Adjective
 ---
 
 ### funsüt&emsp;<span kind="abugida">ɤ̃ʃɐ̆ʄ</span>

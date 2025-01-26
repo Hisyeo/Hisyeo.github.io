@@ -3,7 +3,8 @@ id: numüno
 slug: numüno
 title: NUMÜNO
 sidebar_position: 748
-hoverText: example § Noun
+tags: [numüno, Noun, Indo-Iranian]
+description: example § Noun
 ---
 
 ### numüno&emsp;<span kind="abugida">ƨʃƶʄƨ</span>

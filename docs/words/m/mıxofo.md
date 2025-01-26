@@ -3,7 +3,8 @@ id: mıxofo
 slug: mıxofo
 title: MIXOFO
 sidebar_position: 683
-hoverText: acidic § Adjective
+tags: [mıxofo, Adjective, Nakh-Daghestani]
+description: acidic § Adjective
 ---
 
 ### mıxofo&emsp;<span kind="abugida">ƶȷɋɤ</span>

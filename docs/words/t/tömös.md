@@ -3,7 +3,8 @@ id: tömös
 slug: tömös
 title: TÖMÖS
 sidebar_position: 282
-hoverText: book § Noun
+tags: [tömös, Noun, Hellenic]
+description: book § Noun
 ---
 
 ### tömös&emsp;<span kind="abugida">cıƶ́ı</span>

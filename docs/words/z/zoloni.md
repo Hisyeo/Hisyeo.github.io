@@ -3,7 +3,8 @@ id: zoloni
 slug: zoloni
 title: ZOLONİ
 sidebar_position: 513
-hoverText: fuel § Noun
+tags: [zoloni, Noun, Indo-Iranian]
+description: fuel § Noun
 ---
 
 ### zoloni&emsp;<span kind="abugida">ⱴʓƨɟ</span>

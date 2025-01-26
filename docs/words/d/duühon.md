@@ -3,7 +3,8 @@ id: duühon
 slug: duühon
 title: DUÜHON
 sidebar_position: 491
-hoverText: to surrender (the surrendered) § Verb
+tags: [duühon, Verb, Austro-Asiatic]
+description: to surrender (the surrendered) § Verb
 ---
 
 ### duühon&emsp;<span kind="abugida">ʌʃɽʄɂ̃</span>

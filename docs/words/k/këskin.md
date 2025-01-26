@@ -3,7 +3,8 @@ id: këskin
 slug: këskin
 title: KËSKİN
 sidebar_position: 192
-hoverText: sharp § Adjective
+tags: [këskin, Adjective, Turkic]
+description: sharp § Adjective
 ---
 
 ### këskin&emsp;<span kind="abugida">ɔ́ʇɔ̃ɟ</span>

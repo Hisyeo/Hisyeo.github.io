@@ -3,7 +3,8 @@ id: boifön
 slug: boifön
 title: BOİFÖN
 sidebar_position: 544
-hoverText: to emit (excreta) § Verb
+tags: [boifön, Verb, Sino-Tibetan]
+description: to emit (excreta) § Verb
 ---
 
 ### boifön&emsp;<span kind="abugida">ʋɽɟɤ̃ı</span>

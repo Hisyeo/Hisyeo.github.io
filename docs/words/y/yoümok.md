@@ -3,7 +3,8 @@ id: yoümok
 slug: yoümok
 title: YOÜMOK
 sidebar_position: 833
-hoverText: humorous § Adjective
+tags: [yoümok, Adjective, Sino-Tibetan]
+description: humorous § Adjective
 ---
 
 ### yoümok&emsp;<span kind="abugida">ɀɽʄƶ̑</span>

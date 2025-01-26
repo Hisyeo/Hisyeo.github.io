@@ -3,7 +3,8 @@ id: belëxu
 slug: belëxu
 title: BELËXU
 sidebar_position: 569
-hoverText: to mark (a target) § Verb
+tags: [belëxu, Verb, Balto-Slavic]
+description: to mark (a target) § Verb
 ---
 
 ### belëxu&emsp;<span kind="abugida">ʋɿʓʇɋʃ</span>

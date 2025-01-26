@@ -3,7 +3,8 @@ id: undoföl
 slug: undoföl
 title: UNDOFÖL
 sidebar_position: 92
-hoverText: legume § Noun
+tags: [undoföl, Noun, Armenian]
+description: legume § Noun
 ---
 
 ### undoföl&emsp;<span kind="abugida">ɽ̃ʃʌɤ͊ı</span>

@@ -3,7 +3,8 @@ id: hülü
 slug: hülü
 title: HÜLÜ
 sidebar_position: 161
-hoverText: grass § Noun
+tags: [hülü, Noun, Dravidian]
+description: grass § Noun
 ---
 
 ### hülü&emsp;<span kind="abugida">ɂʄʓʄ</span>

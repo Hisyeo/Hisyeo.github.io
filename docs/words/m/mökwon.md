@@ -3,7 +3,8 @@ id: mökwon
 slug: mökwon
 title: MÖKWON
 sidebar_position: 667
-hoverText: unrelated § Adjective
+tags: [mökwon, Adjective, Sino-Tibetan]
+description: unrelated § Adjective
 ---
 
 ### mökwon&emsp;<span kind="abugida">ƶ̑ıʒ̃</span>

@@ -3,7 +3,8 @@ id: ogolol
 slug: ogolol
 title: OGOLOL
 sidebar_position: 8
-hoverText: to grab/hold (a hold/load) § Verb
+tags: [ogolol, Verb, Romance]
+description: to grab/hold (a hold/load) § Verb
 ---
 
 ### ogolol&emsp;<span kind="abugida">ɽꜿʓ͊</span>

@@ -3,7 +3,8 @@ id: ke
 slug: ke
 title: KE
 sidebar_position: 190
-hoverText: future verb particle § Particle
+tags: [ke, Particle, Balto-Slavic]
+description: future verb particle § Particle
 ---
 
 ### ke&emsp;<span kind="abugida">ɔɿ</span>

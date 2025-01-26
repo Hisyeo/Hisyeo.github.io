@@ -3,7 +3,8 @@ id: deku
 slug: deku
 title: DEKU
 sidebar_position: 477
-hoverText: ceiling § Noun
+tags: [deku, Noun, Germanic]
+description: ceiling § Noun
 ---
 
 ### deku&emsp;<span kind="abugida">ʌɿɔʃ</span>

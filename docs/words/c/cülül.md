@@ -3,7 +3,8 @@ id: cülül
 slug: cülül
 title: CÜLÜL
 sidebar_position: 361
-hoverText: coil § Noun
+tags: [cülül, Noun, Dravidian]
+description: coil § Noun
 ---
 
 ### cülül&emsp;<span kind="abugida">ꞇʄʓ͊ʄ</span>

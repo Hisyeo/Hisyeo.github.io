@@ -3,7 +3,8 @@ id: hölük
 slug: hölük
 title: HÖLÜK
 sidebar_position: 134
-hoverText: to pump (a pumpable entity) § Noun
+tags: [hölük, Noun, Mongolic]
+description: to pump (a pumpable entity) § Noun
 ---
 
 ### hölük&emsp;<span kind="abugida">ɂıʓ̑ʄ</span>

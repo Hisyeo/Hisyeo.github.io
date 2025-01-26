@@ -3,7 +3,8 @@ id: unbü
 slug: unbü
 title: UNBÜ
 sidebar_position: 94
-hoverText: arrow § Noun
+tags: [unbü, Noun, Dravidian]
+description: arrow § Noun
 ---
 
 ### unbü&emsp;<span kind="abugida">ɽ̃ʃʋʄ</span>

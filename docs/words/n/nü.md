@@ -3,7 +3,8 @@ id: nü
 slug: nü
 title: NÜ
 sidebar_position: 753
-hoverText: we/us § Pronoun
+tags: [nü, Pronoun, Romance]
+description: we/us § Pronoun
 ---
 
 ### nü&emsp;<span kind="abugida">ƨʄ</span>

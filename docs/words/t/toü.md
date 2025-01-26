@@ -3,7 +3,8 @@ id: toü
 slug: toü
 title: TOÜ
 sidebar_position: 268
-hoverText: 06 six § Numeral
+tags: [toü, Numeral, Hmong-Mien]
+description: 06 six § Numeral
 ---
 
 ### toü&emsp;<span kind="abugida">cɽʄ</span>

@@ -3,7 +3,8 @@ id: ëmë
 slug: ëmë
 title: ËMË
 sidebar_position: 60
-hoverText: vague/imprecise § Adjective
+tags: [ëmë, Adjective, Sino-Tibetan]
+description: vague/imprecise § Adjective
 ---
 
 ### ëmë&emsp;<span kind="abugida">ɽʇƶʇ</span>

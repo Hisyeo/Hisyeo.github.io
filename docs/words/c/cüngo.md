@@ -3,7 +3,8 @@ id: cüngo
 slug: cüngo
 title: CÜNGO
 sidebar_position: 357
-hoverText: to filter (the filtered) § Verb
+tags: [cüngo, Verb, Niger-Congo]
+description: to filter (the filtered) § Verb
 ---
 
 ### cüngo&emsp;<span kind="abugida">ꞇ̃ʄꜿ</span>

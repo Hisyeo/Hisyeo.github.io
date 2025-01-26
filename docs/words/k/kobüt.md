@@ -3,7 +3,8 @@ id: kobüt
 slug: kobüt
 title: KOBÜT
 sidebar_position: 165
-hoverText: broken/dysfunctional § Adjective
+tags: [kobüt, Adjective, Germanic]
+description: broken/dysfunctional § Adjective
 ---
 
 ### kobüt&emsp;<span kind="abugida">ɔʋ̆ʄ</span>

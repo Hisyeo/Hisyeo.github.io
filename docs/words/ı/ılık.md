@@ -3,7 +3,8 @@ id: ılık
 slug: ılık
 title: ILIK
 sidebar_position: 69
-hoverText: predecessive marker (before) § Preposition
+tags: [ılık, Preposition, Turkic]
+description: predecessive marker (before) § Preposition
 ---
 
 ### ılık&emsp;<span kind="abugida">ɽȷʓ̑ȷ</span>

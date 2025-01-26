@@ -3,7 +3,8 @@ id: ködus
 slug: ködus
 title: KÖDUS
 sidebar_position: 181
-hoverText: sacred § Adjective
+tags: [ködus, Adjective, Afroasiatic]
+description: sacred § Adjective
 ---
 
 ### ködus&emsp;<span kind="abugida">ɔıʌ́ʃ</span>

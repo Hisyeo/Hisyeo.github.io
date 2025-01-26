@@ -3,7 +3,8 @@ id: niecnı
 slug: niecnı
 title: NİECNI
 sidebar_position: 741
-hoverText: vile § Adjective
+tags: [niecnı, Adjective, Balto-Slavic]
+description: vile § Adjective
 ---
 
 ### niecnı&emsp;<span kind="abugida">ƨɟɽ̄ɿƨȷ</span>

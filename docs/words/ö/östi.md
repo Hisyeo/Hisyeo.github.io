@@ -3,7 +3,8 @@ id: östi
 slug: östi
 title: ÖSTİ
 sidebar_position: 38
-hoverText: bone § Noun
+tags: [östi, Noun, Indo-Iranian]
+description: bone § Noun
 ---
 
 ### östi&emsp;<span kind="abugida">ɽ́ıcɟ</span>

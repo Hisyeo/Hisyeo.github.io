@@ -3,7 +3,8 @@ id: lono
 slug: lono
 title: LONO
 sidebar_position: 795
-hoverText: day § Noun
+tags: [lono, Noun, Afroasiatic]
+description: day § Noun
 ---
 
 ### lono&emsp;<span kind="abugida">ʓƨ</span>

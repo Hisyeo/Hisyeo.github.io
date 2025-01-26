@@ -3,7 +3,8 @@ id: yoskinyo
 slug: yoskinyo
 title: YOSKİNYO
 sidebar_position: 836
-hoverText: cave § Noun
+tags: [yoskinyo, Noun, Balto-Slavic]
+description: cave § Noun
 ---
 
 ### yoskinyo&emsp;<span kind="abugida">ɀ́ɔ̃ɟɀ</span>

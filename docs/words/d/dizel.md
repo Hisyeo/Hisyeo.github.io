@@ -3,7 +3,8 @@ id: dizel
 slug: dizel
 title: DİZEL
 sidebar_position: 486
-hoverText: other § Pronoun
+tags: [dizel, Pronoun, Turkic]
+description: other § Pronoun
 ---
 
 ### dizel&emsp;<span kind="abugida">ʌɟⱴ͊ɿ</span>

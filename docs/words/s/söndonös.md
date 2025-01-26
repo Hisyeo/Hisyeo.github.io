@@ -3,7 +3,8 @@ id: söndonös
 slug: söndonös
 title: SÖNDONÖS
 sidebar_position: 384
-hoverText: direct/live § Adjective
+tags: [söndonös, Adjective, Hellenic]
+description: direct/live § Adjective
 ---
 
 ### söndonös&emsp;<span kind="abugida">ɐ̃ıʌƨ́ı</span>

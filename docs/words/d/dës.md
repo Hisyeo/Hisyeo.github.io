@@ -3,7 +3,8 @@ id: dës
 slug: dës
 title: DËS
 sidebar_position: 480
-hoverText: negatitive verb modifier particle § Particle
+tags: [dës, Particle, Romance]
+description: negatitive verb modifier particle § Particle
 ---
 
 ### dës&emsp;<span kind="abugida">ʌ́ʇ</span>

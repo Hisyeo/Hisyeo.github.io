@@ -3,7 +3,8 @@ id: lünti
 slug: lünti
 title: LÜNTİ
 sidebar_position: 831
-hoverText: green § Adjective
+tags: [lünti, Adjective, Austronesian]
+description: green § Adjective
 ---
 
 ### lünti&emsp;<span kind="abugida">ʓ̃ʄcɟ</span>

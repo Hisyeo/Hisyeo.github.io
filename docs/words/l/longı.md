@@ -3,7 +3,8 @@ id: longı
 slug: longı
 title: LONGI
 sidebar_position: 796
-hoverText: color § Noun
+tags: [longı, Noun, Niger-Congo]
+description: color § Noun
 ---
 
 ### longı&emsp;<span kind="abugida">ʓ̃ꜿȷ</span>

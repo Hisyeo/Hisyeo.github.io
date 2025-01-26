@@ -3,7 +3,8 @@ id: niltügu
 slug: niltügu
 title: NİLTÜGU
 sidebar_position: 744
-hoverText: to stop (the stopped) § Verb
+tags: [niltügu, Verb, Dravidian]
+description: to stop (the stopped) § Verb
 ---
 
 ### niltügu&emsp;<span kind="abugida">ƨ͊ɟcʄꜿʃ</span>

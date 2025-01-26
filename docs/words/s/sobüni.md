@@ -3,7 +3,8 @@ id: sobüni
 slug: sobüni
 title: SOBÜNİ
 sidebar_position: 372
-hoverText: ill/sick § Adjective
+tags: [sobüni, Adjective, Kartvelian]
+description: ill/sick § Adjective
 ---
 
 ### sobüni&emsp;<span kind="abugida">ɐʋʄƨɟ</span>

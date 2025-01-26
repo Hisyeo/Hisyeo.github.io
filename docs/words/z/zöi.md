@@ -3,7 +3,8 @@ id: zöi
 slug: zöi
 title: ZÖİ
 sidebar_position: 515
-hoverText: blue § Adjective
+tags: [zöi, Adjective, Turkic]
+description: blue § Adjective
 ---
 
 ### zöi&emsp;<span kind="abugida">ⱴıɽɟ</span>

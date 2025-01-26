@@ -3,7 +3,8 @@ id: wuitsi
 slug: wuitsi
 title: WUİTSİ
 sidebar_position: 783
-hoverText: to maintain (the maintained) § Verb
+tags: [wuitsi, Verb, Sino-Tibetan]
+description: to maintain (the maintained) § Verb
 ---
 
 ### wuitsi&emsp;<span kind="abugida">ʒʃɽ̆ɟɐɟ</span>

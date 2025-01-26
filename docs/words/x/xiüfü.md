@@ -3,7 +3,8 @@ id: xiüfü
 slug: xiüfü
 title: XİÜFÜ
 sidebar_position: 445
-hoverText: to repair (the repaired) § Verb
+tags: [xiüfü, Verb, Sino-Tibetan]
+description: to repair (the repaired) § Verb
 ---
 
 ### xiüfü&emsp;<span kind="abugida">ɋɟɽʄɤʄ</span>

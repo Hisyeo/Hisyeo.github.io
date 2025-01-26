@@ -3,7 +3,8 @@ id: xokön
 slug: xokön
 title: XOKÖN
 sidebar_position: 424
-hoverText: each § Determiner
+tags: [xokön, Determiner, Romance]
+description: each § Determiner
 ---
 
 ### xokön&emsp;<span kind="abugida">ɋɔ̃ı</span>

@@ -3,7 +3,8 @@ id: kötiköl
 slug: kötiköl
 title: KÖTİKÖL
 sidebar_position: 175
-hoverText: hindering/detrimental § Adjective
+tags: [kötiköl, Adjective, Indo-Iranian]
+description: hindering/detrimental § Adjective
 ---
 
 ### kötiköl&emsp;<span kind="abugida">ɔıcɟɔ͊ı</span>

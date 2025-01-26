@@ -3,7 +3,8 @@ id: uklo
 slug: uklo
 title: UKLO
 sidebar_position: 84
-hoverText: next § Adjective
+tags: [uklo, Adjective, Indo-Iranian]
+description: next § Adjective
 ---
 
 ### uklo&emsp;<span kind="abugida">ɽ̑ʃʓ</span>

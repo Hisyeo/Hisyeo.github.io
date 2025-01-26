@@ -3,7 +3,8 @@ id: cündöl
 slug: cündöl
 title: CÜNDÖL
 sidebar_position: 358
-hoverText: collision § Noun
+tags: [cündöl, Noun, Koreic]
+description: collision § Noun
 ---
 
 ### cündöl&emsp;<span kind="abugida">ꞇ̃ʄʌ͊ı</span>

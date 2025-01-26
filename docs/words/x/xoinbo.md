@@ -3,7 +3,8 @@ id: xoinbo
 slug: xoinbo
 title: XOİNBO
 sidebar_position: 422
-hoverText: seeming § Adjective
+tags: [xoinbo, Adjective, Germanic]
+description: seeming § Adjective
 ---
 
 ### xoinbo&emsp;<span kind="abugida">ɋɽ̃ɟʋ</span>

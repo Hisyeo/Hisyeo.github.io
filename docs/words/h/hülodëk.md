@@ -3,7 +3,8 @@ id: hülodëk
 slug: hülodëk
 title: HÜLODËK
 sidebar_position: 160
-hoverText: waste § Noun
+tags: [hülodëk, Noun, Uralic]
+description: waste § Noun
 ---
 
 ### hülodëk&emsp;<span kind="abugida">ɂʄʓʌ̑ʇ</span>

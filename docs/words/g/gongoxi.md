@@ -3,7 +3,8 @@ id: gongoxi
 slug: gongoxi
 title: GONGOXİ
 sidebar_position: 234
-hoverText: alarm § Noun
+tags: [gongoxi, Noun, Kartvelian]
+description: alarm § Noun
 ---
 
 ### gongoxi&emsp;<span kind="abugida">ꜿ̃ꜿɋɟ</span>

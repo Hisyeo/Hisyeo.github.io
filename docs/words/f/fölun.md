@@ -3,7 +3,8 @@ id: fölun
 slug: fölun
 title: FÖLUN
 sidebar_position: 626
-hoverText: to want (a desire) § Verb
+tags: [fölun, Verb, Germanic]
+description: to want (a desire) § Verb
 ---
 
 ### fölun&emsp;<span kind="abugida">ɤıʓ̃ʃ</span>

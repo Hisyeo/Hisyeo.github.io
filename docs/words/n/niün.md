@@ -3,7 +3,8 @@ id: niün
 slug: niün
 title: NİÜN
 sidebar_position: 742
-hoverText: they/them § Pronoun
+tags: [niün, Pronoun, Niger-Congo]
+description: they/them § Pronoun
 ---
 
 ### niün&emsp;<span kind="abugida">ƨɟɽ̃ʄ</span>

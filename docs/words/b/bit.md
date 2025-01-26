@@ -3,7 +3,8 @@ id: bit
 slug: bit
 title: BİT
 sidebar_position: 586
-hoverText: conditional verb particle § Particle
+tags: [bit, Particle, Balto-Slavic]
+description: conditional verb particle § Particle
 ---
 
 ### bit&emsp;<span kind="abugida">ʋ̆ɟ</span>

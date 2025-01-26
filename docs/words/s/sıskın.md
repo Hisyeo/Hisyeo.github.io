@@ -3,7 +3,8 @@ id: sıskın
 slug: sıskın
 title: SISKIN
 sidebar_position: 397
-hoverText: sibling § Noun
+tags: [sıskın, Noun, Germanic]
+description: sibling § Noun
 ---
 
 ### sıskın&emsp;<span kind="abugida">ɐ́ȷɔ̃ȷ</span>

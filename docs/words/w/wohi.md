@@ -3,7 +3,8 @@ id: wohi
 slug: wohi
 title: WOHİ
 sidebar_position: 755
-hoverText: female § Adjective
+tags: [wohi, Adjective, Tupian]
+description: female § Adjective
 ---
 
 ### wohi&emsp;<span kind="abugida">ʒɂɟ</span>

@@ -3,7 +3,8 @@ id: uyo
 slug: uyo
 title: UYO
 sidebar_position: 96
-hoverText: thing § Noun
+tags: [uyo, Noun, Sino-Tibetan]
+description: thing § Noun
 ---
 
 ### uyo&emsp;<span kind="abugida">ɽʃɀ</span>

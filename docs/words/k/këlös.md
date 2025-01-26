@@ -3,7 +3,8 @@ id: këlös
 slug: këlös
 title: KËLÖS
 sidebar_position: 194
-hoverText: weather § Noun
+tags: [këlös, Noun, Hellenic]
+description: weather § Noun
 ---
 
 ### këlös&emsp;<span kind="abugida">ɔʇʓ́ı</span>

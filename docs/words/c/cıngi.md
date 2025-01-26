@@ -3,7 +3,8 @@ id: cıngi
 slug: cıngi
 title: CINGİ
 sidebar_position: 333
-hoverText: electricity § Noun
+tags: [cıngi, Noun, Koreic]
+description: electricity § Noun
 ---
 
 ### cıngi&emsp;<span kind="abugida">ꞇ̃ȷꜿɟ</span>

@@ -3,7 +3,8 @@ id: otös
 slug: otös
 title: OTÖS
 sidebar_position: 9
-hoverText: hard § Adjective
+tags: [otös, Adjective, Austronesian]
+description: hard § Adjective
 ---
 
 ### otös&emsp;<span kind="abugida">ɽćı</span>

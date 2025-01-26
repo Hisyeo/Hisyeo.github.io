@@ -3,7 +3,8 @@ id: süböl
 slug: süböl
 title: SÜBÖL
 sidebar_position: 417
-hoverText: fertile/productive § Adjective
+tags: [süböl, Adjective, Austronesian]
+description: fertile/productive § Adjective
 ---
 
 ### süböl&emsp;<span kind="abugida">ɐʄʋ͊ı</span>

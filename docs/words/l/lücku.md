@@ -3,7 +3,8 @@ id: lücku
 slug: lücku
 title: LÜCKU
 sidebar_position: 830
-hoverText: lever/knob/handle § Noun
+tags: [lücku, Noun, Balto-Slavic]
+description: lever/knob/handle § Noun
 ---
 
 ### lücku&emsp;<span kind="abugida">ʓ̄ʄɔʃ</span>

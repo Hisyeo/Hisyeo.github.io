@@ -3,7 +3,8 @@ id: fëlkonö
 slug: fëlkonö
 title: FËLKONÖ
 sidebar_position: 630
-hoverText: close § Adjective
+tags: [fëlkonö, Adjective, Romance]
+description: close § Adjective
 ---
 
 ### fëlkonö&emsp;<span kind="abugida">ɤ͊ʇɔƨı</span>

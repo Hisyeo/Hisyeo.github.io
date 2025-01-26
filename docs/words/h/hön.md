@@ -3,7 +3,8 @@ id: hön
 slug: hön
 title: HÖN
 sidebar_position: 131
-hoverText: context marker (as for/given) § Preposition
+tags: [hön, Preposition, Misc]
+description: context marker (as for/given) § Preposition
 ---
 
 ### hön&emsp;<span kind="abugida">ɂ̃ı</span>

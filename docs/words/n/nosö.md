@@ -3,7 +3,8 @@ id: nosö
 slug: nosö
 title: NOSÖ
 sidebar_position: 714
-hoverText: puzzle/mystery § Noun
+tags: [nosö, Noun, Japonic]
+description: puzzle/mystery § Noun
 ---
 
 ### nosö&emsp;<span kind="abugida">ƨɐı</span>

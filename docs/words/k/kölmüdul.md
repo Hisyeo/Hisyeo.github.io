@@ -3,7 +3,8 @@ id: kölmüdul
 slug: kölmüdul
 title: KÖLMÜDUL
 sidebar_position: 189
-hoverText: purchase § Noun
+tags: [kölmüdul, Noun, Dravidian]
+description: purchase § Noun
 ---
 
 ### kölmüdul&emsp;<span kind="abugida">ɔ͊ıƶʄʌ͊ʃ</span>

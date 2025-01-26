@@ -2,14 +2,16 @@ import csv from 'neat-csv';
 
 import {capitalize} from './helpers.mjs';
 
+let tags = "";
 const words = {}
 const snippets = {}
-const template = (w, i) => `---
+const docTmpl = (w, i) => `---
 id: ${w['Hisyëö']}
 slug: ${w['Hisyëö']}
 title: ${capitalize(w['Hisyëö'])}
 sidebar_position: ${i}
-hoverText: ${w['Meaning']} § ${w['Type']}
+tags: [${w['Hisyëö']}, ${w['Type']}, ${w['Family']}]
+description: ${w['Meaning']} § ${w['Type']}
 ---
 
 ### ${w['Hisyëö']}&emsp;<span kind="abugida">${w['ɂ́ɟɀʇɽʃ']}</span>
@@ -30,8 +32,17 @@ hoverText: ${w['Meaning']} § ${w['Type']}
     <em>${w['Family']} Language Family</em>
 </details>`
 
+const tagTmpl = (w) => `${w['Hisyëö']}:
+    label: ${w['Hisyëö']}
+    description: ${w['Meaning']}
+`
+
 console.log('Clearing existing files...')
-const existingFiles = await glob(['./docs/words/**/*.md', './docs/words/**/*.mdx'])
+const existingFiles = await glob([
+    './docs/words/**/*.md',
+    './docs/words/**/*.mdx',
+    './docs/tags.yaml',
+])
 try {
     await $`rm ${existingFiles}`
     console.log('Cleared existing files!')
@@ -50,7 +61,11 @@ process.stdout.write(`Outputting words to templates and JSON prep...`)
 await Promise.all(records.map(async (data, idx) => {
     try {
         process.stdout.write(`.`)
-        await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, template(data, idx))
+        
+        await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, docTmpl(data, idx))
+
+        tags = `${tags}${tagTmpl(data)}`
+
         snippets[`${data['Hisyëö']}`] = {
             scope: "markdown,mdx,fountain",
             prefix: data['Hisyëö'],
@@ -82,6 +97,13 @@ await Promise.all(records.map(async (data, idx) => {
 
 }))
 console.log('')
+
+console.log(`Outputting tags file...`)
+try {
+    await fs.outputFile(`./docs/tags.yml`, tags)
+} catch (err) {
+    console.error(err)
+}
 
 console.log(`Outputting snippets file...`)
 try {

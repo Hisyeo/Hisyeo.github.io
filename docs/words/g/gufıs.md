@@ -3,7 +3,8 @@ id: gufıs
 slug: gufıs
 title: GUFIS
 sidebar_position: 254
-hoverText: certain § Adjective
+tags: [gufıs, Adjective, Germanic]
+description: certain § Adjective
 ---
 
 ### gufıs&emsp;<span kind="abugida">ꜿʃɤ́ȷ</span>

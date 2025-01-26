@@ -3,7 +3,8 @@ id: düngo
 slug: düngo
 title: DÜNGO
 sidebar_position: 501
-hoverText: to pierce (the pierced) § Verb
+tags: [düngo, Verb, Niger-Congo]
+description: to pierce (the pierced) § Verb
 ---
 
 ### düngo&emsp;<span kind="abugida">ʌ̃ʄꜿ</span>

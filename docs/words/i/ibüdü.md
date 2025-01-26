@@ -3,7 +3,8 @@ id: ibüdü
 slug: ibüdü
 title: İBÜDÜ
 sidebar_position: 77
-hoverText: now § Adjective
+tags: [ibüdü, Adjective, Dravidian]
+description: now § Adjective
 ---
 
 ### ibüdü&emsp;<span kind="abugida">ɽɟʋʄʌʄ</span>

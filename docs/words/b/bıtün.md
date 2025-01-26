@@ -3,7 +3,8 @@ id: bıtün
 slug: bıtün
 title: BITÜN
 sidebar_position: 578
-hoverText: night § Noun
+tags: [bıtün, Noun, Tupian]
+description: night § Noun
 ---
 
 ### bıtün&emsp;<span kind="abugida">ʋȷc̃ʄ</span>

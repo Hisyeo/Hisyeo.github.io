@@ -3,7 +3,8 @@ id: ilë
 slug: ilë
 title: İLË
 sidebar_position: 82
-hoverText: building § Noun
+tags: [ilë, Noun, Niger-Congo]
+description: building § Noun
 ---
 
 ### ilë&emsp;<span kind="abugida">ɽɟʓʇ</span>

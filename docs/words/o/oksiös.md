@@ -3,7 +3,8 @@ id: oksiös
 slug: oksiös
 title: OKSİÖS
 sidebar_position: 5
-hoverText: worthy § Adjective
+tags: [oksiös, Adjective, Hellenic]
+description: worthy § Adjective
 ---
 
 ### oksiös&emsp;<span kind="abugida">ɽ̑ɐɟɽ́ı</span>

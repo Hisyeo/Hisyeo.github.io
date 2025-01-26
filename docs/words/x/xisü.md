@@ -3,7 +3,8 @@ id: xisü
 slug: xisü
 title: XİSÜ
 sidebar_position: 448
-hoverText: secular/profane/worldly § Adjective
+tags: [xisü, Adjective, Sino-Tibetan]
+description: secular/profane/worldly § Adjective
 ---
 
 ### xisü&emsp;<span kind="abugida">ɋɟɐʄ</span>

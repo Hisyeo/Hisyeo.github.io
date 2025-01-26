@@ -3,7 +3,8 @@ id: umo
 slug: umo
 title: UMO
 sidebar_position: 90
-hoverText: person § Noun
+tags: [umo, Noun, Trans-New Guinea]
+description: person § Noun
 ---
 
 ### umo&emsp;<span kind="abugida">ɽʃƶ</span>

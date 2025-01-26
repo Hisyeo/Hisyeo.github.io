@@ -3,7 +3,8 @@ id: küncien
 slug: küncien
 title: KÜNCİEN
 sidebar_position: 225
-hoverText: room § Noun
+tags: [küncien, Noun, Sino-Tibetan]
+description: room § Noun
 ---
 
 ### küncien&emsp;<span kind="abugida">ɔ̃ʄꞇɟɽ̃ɿ</span>

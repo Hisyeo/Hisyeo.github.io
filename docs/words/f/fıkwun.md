@@ -3,7 +3,8 @@ id: fıkwun
 slug: fıkwun
 title: FIKWUN
 sidebar_position: 632
-hoverText: bacteria/microbe § Noun
+tags: [fıkwun, Noun, Austro-Asiatic]
+description: bacteria/microbe § Noun
 ---
 
 ### fıkwun&emsp;<span kind="abugida">ɤ̑ȷʒ̃ʃ</span>

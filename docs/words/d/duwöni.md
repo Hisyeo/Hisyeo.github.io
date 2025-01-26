@@ -3,7 +3,8 @@ id: duwöni
 slug: duwöni
 title: DUWÖNİ
 sidebar_position: 495
-hoverText: sand § Noun
+tags: [duwöni, Noun, Trans-New Guinea]
+description: sand § Noun
 ---
 
 ### duwöni&emsp;<span kind="abugida">ʌʃʒıƨɟ</span>

@@ -3,7 +3,8 @@ id: zögoc
 slug: zögoc
 title: ZÖGOC
 sidebar_position: 517
-hoverText: pitch/tar § Noun
+tags: [zögoc, Noun, Balto-Slavic]
+description: pitch/tar § Noun
 ---
 
 ### zögoc&emsp;<span kind="abugida">ⱴıꜿ̄</span>

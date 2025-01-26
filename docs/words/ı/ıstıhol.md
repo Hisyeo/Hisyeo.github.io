@@ -3,7 +3,8 @@ id: ıstıhol
 slug: ıstıhol
 title: ISTIHOL
 sidebar_position: 65
-hoverText: honor/glory § Noun
+tags: [ıstıhol, Noun, Indo-Iranian]
+description: honor/glory § Noun
 ---
 
 ### ıstıhol&emsp;<span kind="abugida">ɽ́ȷcȷɂ͊</span>

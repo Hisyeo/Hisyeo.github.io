@@ -3,7 +3,8 @@ id: öni
 slug: öni
 title: ÖNİ
 sidebar_position: 43
-hoverText: agentive verb noun particle § Particle
+tags: [öni, Particle, Niger-Congo]
+description: agentive verb noun particle § Particle
 ---
 
 ### öni&emsp;<span kind="abugida">ɽıƨɟ</span>

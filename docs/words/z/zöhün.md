@@ -3,7 +3,8 @@ id: zöhün
 slug: zöhün
 title: ZÖHÜN
 sidebar_position: 516
-hoverText: nutrient § Noun
+tags: [zöhün, Noun, Turkic]
+description: nutrient § Noun
 ---
 
 ### zöhün&emsp;<span kind="abugida">ⱴıɂ̃ʄ</span>

@@ -3,7 +3,8 @@ id: lolü
 slug: lolü
 title: LOLÜ
 sidebar_position: 798
-hoverText: word § Noun
+tags: [lolü, Noun, Hmong-Mien]
+description: word § Noun
 ---
 
 ### lolü&emsp;<span kind="abugida">ʓʓʄ</span>

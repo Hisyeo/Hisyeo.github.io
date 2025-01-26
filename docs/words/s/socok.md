@@ -3,7 +3,8 @@ id: socok
 slug: socok
 title: SOCOK
 sidebar_position: 366
-hoverText: to start (startable entity) § Verb
+tags: [socok, Verb, Balto-Slavic]
+description: to start (startable entity) § Verb
 ---
 
 ### socok&emsp;<span kind="abugida">ɐꞇ̑</span>

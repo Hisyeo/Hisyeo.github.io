@@ -3,7 +3,8 @@ id: dönüxın
 slug: dönüxın
 title: DÖNÜXIN
 sidebar_position: 476
-hoverText: conversion § Noun
+tags: [dönüxın, Noun, Turkic]
+description: conversion § Noun
 ---
 
 ### dönüxın&emsp;<span kind="abugida">ʌıƨʄɋ̃ȷ</span>

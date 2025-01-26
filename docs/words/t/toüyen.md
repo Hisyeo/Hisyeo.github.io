@@ -3,7 +3,8 @@ id: toüyen
 slug: toüyen
 title: TOÜYEN
 sidebar_position: 269
-hoverText: to hate (a hated entity) § Verb
+tags: [toüyen, Verb, Sino-Tibetan]
+description: to hate (a hated entity) § Verb
 ---
 
 ### toüyen&emsp;<span kind="abugida">cɽʄɀ̃ɿ</span>

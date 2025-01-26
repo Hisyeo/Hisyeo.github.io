@@ -3,7 +3,8 @@ id: obülü
 slug: obülü
 title: OBÜLÜ
 sidebar_position: 19
-hoverText: to overwhelm (the overwhelmed) § Verb
+tags: [obülü, Verb, Austronesian]
+description: to overwhelm (the overwhelmed) § Verb
 ---
 
 ### obülü&emsp;<span kind="abugida">ɽʋʄʓʄ</span>

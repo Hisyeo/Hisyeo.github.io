@@ -3,7 +3,8 @@ id: sokofü
 slug: sokofü
 title: SOKOFÜ
 sidebar_position: 364
-hoverText: floor § Noun
+tags: [sokofü, Noun, Niger-Congo]
+description: floor § Noun
 ---
 
 ### sokofü&emsp;<span kind="abugida">ɐɔɤʄ</span>

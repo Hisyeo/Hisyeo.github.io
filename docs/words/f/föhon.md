@@ -3,7 +3,8 @@ id: föhon
 slug: föhon
 title: FÖHON
 sidebar_position: 623
-hoverText: front/forward § Noun
+tags: [föhon, Noun, Germanic]
+description: front/forward § Noun
 ---
 
 ### föhon&emsp;<span kind="abugida">ɤıɂ̃</span>

@@ -3,7 +3,8 @@ id: wixës
 slug: wixës
 title: WİXËS
 sidebar_position: 779
-hoverText: special/unique § Adjective
+tags: [wixës, Adjective, Indo-Iranian]
+description: special/unique § Adjective
 ---
 
 ### wixës&emsp;<span kind="abugida">ʒɟɋ́ʇ</span>

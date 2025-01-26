@@ -3,7 +3,8 @@ id: ostok
 slug: ostok
 title: OSTOK
 sidebar_position: 12
-hoverText: sign/signal § Noun
+tags: [ostok, Noun, Armenian]
+description: sign/signal § Noun
 ---
 
 ### ostok&emsp;<span kind="abugida">ɽ́c̑</span>

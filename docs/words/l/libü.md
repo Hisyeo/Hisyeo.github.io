@@ -3,7 +3,8 @@ id: libü
 slug: libü
 title: LİBÜ
 sidebar_position: 821
-hoverText: sheet § Noun
+tags: [libü, Noun, Uralic]
+description: sheet § Noun
 ---
 
 ### libü&emsp;<span kind="abugida">ʓɟʋʄ</span>

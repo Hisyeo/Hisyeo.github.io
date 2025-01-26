@@ -3,7 +3,8 @@ id: hobiyö
 slug: hobiyö
 title: HOBİYÖ
 sidebar_position: 123
-hoverText: to announce (an announcement) § Verb
+tags: [hobiyö, Verb, Japonic]
+description: to announce (an announcement) § Verb
 ---
 
 ### hobiyö&emsp;<span kind="abugida">ɂʋɟɀı</span>

@@ -3,7 +3,8 @@ id: cüdo
 slug: cüdo
 title: CÜDO
 sidebar_position: 354
-hoverText: to give (a gift) § Verb
+tags: [cüdo, Verb, Koreic]
+description: to give (a gift) § Verb
 ---
 
 ### cüdo&emsp;<span kind="abugida">ꞇʄʌ</span>

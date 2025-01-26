@@ -3,7 +3,8 @@ id: zoso
 slug: zoso
 title: ZOSO
 sidebar_position: 505
-hoverText: shelf § Noun
+tags: [zoso, Noun, Turkic]
+description: shelf § Noun
 ---
 
 ### zoso&emsp;<span kind="abugida">ⱴɐ</span>

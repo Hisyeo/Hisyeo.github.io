@@ -3,7 +3,8 @@ id: xıfon
 slug: xıfon
 title: XIFON
 sidebar_position: 443
-hoverText: fungus § Noun
+tags: [xıfon, Noun, Germanic]
+description: fungus § Noun
 ---
 
 ### xıfon&emsp;<span kind="abugida">ɋȷɤ̃</span>

@@ -3,7 +3,8 @@ id: sodılü
 slug: sodılü
 title: SODILÜ
 sidebar_position: 369
-hoverText: loose § Adjective
+tags: [sodılü, Adjective, Dravidian]
+description: loose § Adjective
 ---
 
 ### sodılü&emsp;<span kind="abugida">ɐʌȷʓʄ</span>

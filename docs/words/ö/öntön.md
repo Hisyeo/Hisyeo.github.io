@@ -3,7 +3,8 @@ id: öntön
 slug: öntön
 title: ÖNTÖN
 sidebar_position: 44
-hoverText: to wear (clothing) § Verb
+tags: [öntön, Verb, Germanic]
+description: to wear (clothing) § Verb
 ---
 
 ### öntön&emsp;<span kind="abugida">ɽ̃ıc̃ı</span>

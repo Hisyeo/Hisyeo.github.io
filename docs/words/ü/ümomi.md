@@ -3,7 +3,8 @@ id: ümomi
 slug: ümomi
 title: ÜMOMİ
 sidebar_position: 104
-hoverText: savory § Adjective
+tags: [ümomi, Adjective, Japonic]
+description: savory § Adjective
 ---
 
 ### ümomi&emsp;<span kind="abugida">ɽʄƶƶɟ</span>

@@ -3,7 +3,8 @@ id: göwo
 slug: göwo
 title: GÖWO
 sidebar_position: 244
-hoverText: foolish/obtuse § Adjective
+tags: [göwo, Adjective, Afroasiatic]
+description: foolish/obtuse § Adjective
 ---
 
 ### göwo&emsp;<span kind="abugida">ꜿıʒ</span>

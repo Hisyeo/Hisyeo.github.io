@@ -3,7 +3,8 @@ id: oklumun
 slug: oklumun
 title: OKLUMUN
 sidebar_position: 7
-hoverText: attack § Noun
+tags: [oklumun, Noun, Indo-Iranian]
+description: attack § Noun
 ---
 
 ### oklumun&emsp;<span kind="abugida">ɽ̑ʓʃƶ̃ʃ</span>

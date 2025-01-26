@@ -3,7 +3,8 @@ id: bole
 slug: bole
 title: BOLE
 sidebar_position: 556
-hoverText: 12 twelve § Numeral
+tags: [bole, Numeral, Indo-Iranian]
+description: 12 twelve § Numeral
 ---
 
 ### bole&emsp;<span kind="abugida">ʋʓɿ</span>

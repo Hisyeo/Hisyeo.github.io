@@ -3,7 +3,8 @@ id: zënsi
 slug: zënsi
 title: ZËNSİ
 sidebar_position: 522
-hoverText: sexual § Adjective
+tags: [zënsi, Adjective, Afroasiatic]
+description: sexual § Adjective
 ---
 
 ### zënsi&emsp;<span kind="abugida">ⱴ̃ʇɐɟ</span>

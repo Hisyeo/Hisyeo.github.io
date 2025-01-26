@@ -3,7 +3,8 @@ id: sëmoı
 slug: sëmoı
 title: SËMOI
 sidebar_position: 392
-hoverText: heaven § Noun
+tags: [sëmoı, Noun, Afroasiatic]
+description: heaven § Noun
 ---
 
 ### sëmoı&emsp;<span kind="abugida">ɐʇƶɽȷ</span>

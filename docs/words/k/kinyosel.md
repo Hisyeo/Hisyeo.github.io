@@ -3,7 +3,8 @@ id: kinyosel
 slug: kinyosel
 title: KİNYOSEL
 sidebar_position: 206
-hoverText: chemical § Noun
+tags: [kinyosel, Noun, Turkic]
+description: chemical § Noun
 ---
 
 ### kinyosel&emsp;<span kind="abugida">ɔ̃ɟɀɐ͊ɿ</span>

@@ -3,7 +3,8 @@ id: kös
 slug: kös
 title: KÖS
 sidebar_position: 177
-hoverText: to cause (an effect) § Verb
+tags: [kös, Verb, Romance]
+description: to cause (an effect) § Verb
 ---
 
 ### kös&emsp;<span kind="abugida">ɔ́ı</span>

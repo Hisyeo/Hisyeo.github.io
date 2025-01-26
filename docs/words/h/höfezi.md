@@ -3,7 +3,8 @@ id: höfezi
 slug: höfezi
 title: HÖFEZİ
 sidebar_position: 130
-hoverText: bovine § Noun
+tags: [höfezi, Noun, Balto-Slavic]
+description: bovine § Noun
 ---
 
 ### höfezi&emsp;<span kind="abugida">ɂıɤɿⱴɟ</span>

@@ -3,7 +3,8 @@ id: wik
 slug: wik
 title: WİK
 sidebar_position: 778
-hoverText: head § Noun
+tags: [wik, Noun, Nilo-Saharan]
+description: head § Noun
 ---
 
 ### wik&emsp;<span kind="abugida">ʒ̑ɟ</span>

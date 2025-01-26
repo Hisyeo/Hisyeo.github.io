@@ -3,7 +3,8 @@ id: cöt
 slug: cöt
 title: CÖT
 sidebar_position: 317
-hoverText: thick § Adjective
+tags: [cöt, Adjective, Mayan]
+description: thick § Adjective
 ---
 
 ### cöt&emsp;<span kind="abugida">ꞇ̆ı</span>

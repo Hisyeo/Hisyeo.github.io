@@ -3,7 +3,8 @@ id: fizi
 slug: fizi
 title: FİZİ
 sidebar_position: 639
-hoverText: to bury (the buried) § Verb
+tags: [fizi, Verb, Nilo-Saharan]
+description: to bury (the buried) § Verb
 ---
 
 ### fizi&emsp;<span kind="abugida">ɤɟⱴɟ</span>

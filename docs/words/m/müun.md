@@ -3,7 +3,8 @@ id: müun
 slug: müun
 title: MÜUN
 sidebar_position: 698
-hoverText: late § Adjective
+tags: [müun, Adjective, Austro-asiatic]
+description: late § Adjective
 ---
 
 ### müun&emsp;<span kind="abugida">ƶʄɽ̃ʃ</span>

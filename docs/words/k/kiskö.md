@@ -3,7 +3,8 @@ id: kiskö
 slug: kiskö
 title: KİSKÖ
 sidebar_position: 202
-hoverText: rail/rack/bar § Noun
+tags: [kiskö, Noun, Uralic]
+description: rail/rack/bar § Noun
 ---
 
 ### kiskö&emsp;<span kind="abugida">ɔ́ɟɔı</span>

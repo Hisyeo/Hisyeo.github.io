@@ -3,7 +3,8 @@ id: bı
 slug: bı
 title: BI
 sidebar_position: 577
-hoverText: manner/material marker § Preposition
+tags: [bı, Preposition, Afroasiatic]
+description: manner/material marker § Preposition
 ---
 
 ### bı&emsp;<span kind="abugida">ʋȷ</span>

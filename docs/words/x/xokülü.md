@@ -3,7 +3,8 @@ id: xokülü
 slug: xokülü
 title: XOKÜLÜ
 sidebar_position: 425
-hoverText: to invite (an invitation) § Verb
+tags: [xokülü, Verb, Turkic]
+description: to invite (an invitation) § Verb
 ---
 
 ### xokülü&emsp;<span kind="abugida">ɋɔʄʓʄ</span>

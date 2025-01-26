@@ -3,7 +3,8 @@ id: xixulko
 slug: xixulko
 title: XİXULKO
 sidebar_position: 449
-hoverText: pinecone § Noun
+tags: [xixulko, Noun, Balto-Slavic]
+description: pinecone § Noun
 ---
 
 ### xixulko&emsp;<span kind="abugida">ɋɟɋ͊ʃɔ</span>

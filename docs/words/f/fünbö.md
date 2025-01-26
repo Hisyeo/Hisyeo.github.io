@@ -3,7 +3,8 @@ id: fünbö
 slug: fünbö
 title: FÜNBÖ
 sidebar_position: 652
-hoverText: to squeeze (squeezable entity) § Verb
+tags: [fünbö, Verb, Niger-Congo]
+description: to squeeze (squeezable entity) § Verb
 ---
 
 ### fünbö&emsp;<span kind="abugida">ɤ̃ʄʋı</span>

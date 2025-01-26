@@ -3,7 +3,8 @@ id: ülkëfi
 slug: ülkëfi
 title: ÜLKËFİ
 sidebar_position: 112
-hoverText: adamant/stubborn § Adjective
+tags: [ülkëfi, Adjective, Kartvelian]
+description: adamant/stubborn § Adjective
 ---
 
 ### ülkëfi&emsp;<span kind="abugida">ɽ͊ʄɔʇɤɟ</span>

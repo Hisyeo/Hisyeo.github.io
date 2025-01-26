@@ -3,7 +3,8 @@ id: önsu
 slug: önsu
 title: ÖNSU
 sidebar_position: 45
-hoverText: 11 eleven § Numeral
+tags: [önsu, Numeral, Romance]
+description: 11 eleven § Numeral
 ---
 
 ### önsu&emsp;<span kind="abugida">ɽ̃ıɐʃ</span>

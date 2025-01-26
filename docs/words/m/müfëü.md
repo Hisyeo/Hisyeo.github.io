@@ -3,7 +3,8 @@ id: müfëü
 slug: müfëü
 title: MÜFËÜ
 sidebar_position: 705
-hoverText: clean § Adjective
+tags: [müfëü, Adjective, Niger-Congo]
+description: clean § Adjective
 ---
 
 ### müfëü&emsp;<span kind="abugida">ƶʄɤʇɽʄ</span>

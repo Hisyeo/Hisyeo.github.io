@@ -3,7 +3,8 @@ id: elentët
 slug: elentët
 title: ELENTËT
 sidebar_position: 53
-hoverText: opposite § Adjective
+tags: [elentët, Adjective, Uralic]
+description: opposite § Adjective
 ---
 
 ### elentët&emsp;<span kind="abugida">ɽɿʓ̃ɿc̆ʇ</span>

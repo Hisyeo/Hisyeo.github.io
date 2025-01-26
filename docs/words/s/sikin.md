@@ -3,7 +3,8 @@ id: sikin
 slug: sikin
 title: SİKİN
 sidebar_position: 403
-hoverText: event § Noun
+tags: [sikin, Noun, Sino-Tibetan]
+description: event § Noun
 ---
 
 ### sikin&emsp;<span kind="abugida">ɐɟɔ̃ɟ</span>

@@ -3,7 +3,8 @@ id: solwöc
 slug: solwöc
 title: SOLWÖC
 sidebar_position: 379
-hoverText: top § Noun
+tags: [solwöc, Noun, Indo-Iranian]
+description: top § Noun
 ---
 
 ### solwöc&emsp;<span kind="abugida">ɐ͊ʒ̄ı</span>

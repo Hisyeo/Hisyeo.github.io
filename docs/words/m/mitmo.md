@@ -3,7 +3,8 @@ id: mitmo
 slug: mitmo
 title: MİTMO
 sidebar_position: 691
-hoverText: colony § Noun
+tags: [mitmo, Noun, Quechumaran]
+description: colony § Noun
 ---
 
 ### mitmo&emsp;<span kind="abugida">ƶ̆ɟƶ</span>

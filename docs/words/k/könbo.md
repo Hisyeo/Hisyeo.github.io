@@ -3,7 +3,8 @@ id: könbo
 slug: könbo
 title: KÖNBO
 sidebar_position: 187
-hoverText: shaking § Adjective
+tags: [könbo, Adjective, Indo-Iranian]
+description: shaking § Adjective
 ---
 
 ### könbo&emsp;<span kind="abugida">ɔ̃ıʋ</span>

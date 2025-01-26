@@ -3,7 +3,8 @@ id: nocido
 slug: nocido
 title: NOCİDO
 sidebar_position: 713
-hoverText: to lose/waste (the lost/wasted) § Verb
+tags: [nocido, Verb, Koreic]
+description: to lose/waste (the lost/wasted) § Verb
 ---
 
 ### nocido&emsp;<span kind="abugida">ƨꞇɟʌ</span>

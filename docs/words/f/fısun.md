@@ -3,7 +3,8 @@ id: fısun
 slug: fısun
 title: FISUN
 sidebar_position: 633
-hoverText: to know (knowledge) § Verb
+tags: [fısun, Verb, Germanic]
+description: to know (knowledge) § Verb
 ---
 
 ### fısun&emsp;<span kind="abugida">ɤȷɐ̃ʃ</span>

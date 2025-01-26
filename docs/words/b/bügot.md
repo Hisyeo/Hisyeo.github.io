@@ -3,7 +3,8 @@ id: bügot
 slug: bügot
 title: BÜGOT
 sidebar_position: 604
-hoverText: heavy § Adjective
+tags: [bügot, Adjective, Austronesian]
+description: heavy § Adjective
 ---
 
 ### bügot&emsp;<span kind="abugida">ʋʄꜿ̆</span>

@@ -3,7 +3,8 @@ id: mënyüu
 slug: mënyüu
 title: MËNYÜU
 sidebar_position: 681
-hoverText: offspring § Noun
+tags: [mënyüu, Noun, Hmong-Mien]
+description: offspring § Noun
 ---
 
 ### mënyüu&emsp;<span kind="abugida">ƶ̃ʇɀʄɽʃ</span>

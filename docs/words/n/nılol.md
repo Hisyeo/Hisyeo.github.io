@@ -3,7 +3,8 @@ id: nılol
 slug: nılol
 title: NILOL
 sidebar_position: 739
-hoverText: shadow § Noun
+tags: [nılol, Noun, Dravidian]
+description: shadow § Noun
 ---
 
 ### nılol&emsp;<span kind="abugida">ƨȷʓ͊</span>

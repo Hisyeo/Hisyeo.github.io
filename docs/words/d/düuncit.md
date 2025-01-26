@@ -3,7 +3,8 @@ id: düuncit
 slug: düuncit
 title: DÜUNCİT
 sidebar_position: 497
-hoverText: brain/mind § Noun
+tags: [düuncit, Noun, Kra-Dai]
+description: brain/mind § Noun
 ---
 
 ### düuncit&emsp;<span kind="abugida">ʌʄɽ̃ʃꞇ̆ɟ</span>

@@ -3,7 +3,8 @@ id: cıno
 slug: cıno
 title: CINO
 sidebar_position: 331
-hoverText: charge/fee/tax § Noun
+tags: [cıno, Noun, Balto-Slavic]
+description: charge/fee/tax § Noun
 ---
 
 ### cıno&emsp;<span kind="abugida">ꞇȷƨ</span>

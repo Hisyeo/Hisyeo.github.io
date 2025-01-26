@@ -3,7 +3,8 @@ id: kinöxi
 slug: kinöxi
 title: KİNÖXİ
 sidebar_position: 204
-hoverText: functional § Adjective
+tags: [kinöxi, Adjective, Japonic]
+description: functional § Adjective
 ---
 
 ### kinöxi&emsp;<span kind="abugida">ɔɟƨıɋɟ</span>

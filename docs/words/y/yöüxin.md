@@ -3,7 +3,8 @@ id: yöüxin
 slug: yöüxin
 title: YÖÜXİN
 sidebar_position: 843
-hoverText: parade/procession § Noun
+tags: [yöüxin, Noun, Sino-Tibetan]
+description: parade/procession § Noun
 ---
 
 ### yöüxin&emsp;<span kind="abugida">ɀıɽʄɋ̃ɟ</span>

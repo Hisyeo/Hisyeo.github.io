@@ -3,7 +3,8 @@ id: hiyöli
 slug: hiyöli
 title: HİYÖLİ
 sidebar_position: 146
-hoverText: weak § Adjective
+tags: [hiyöli, Adjective, Niger-Congo]
+description: weak § Adjective
 ---
 
 ### hiyöli&emsp;<span kind="abugida">ɂɟɀıʓɟ</span>

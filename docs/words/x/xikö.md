@@ -3,7 +3,8 @@ id: xikö
 slug: xikö
 title: XİKÖ
 sidebar_position: 447
-hoverText: flying § Adjective
+tags: [xikö, Adjective, Japonic]
+description: flying § Adjective
 ---
 
 ### xikö&emsp;<span kind="abugida">ɋɟɔı</span>

@@ -3,7 +3,8 @@ id: bökbün
 slug: bökbün
 title: BÖKBÜN
 sidebar_position: 562
-hoverText: storm § Noun
+tags: [bökbün, Noun, Koreic]
+description: storm § Noun
 ---
 
 ### bökbün&emsp;<span kind="abugida">ʋ̑ıʋ̃ʄ</span>

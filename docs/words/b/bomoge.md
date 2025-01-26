@@ -3,7 +3,8 @@ id: bomoge
 slug: bomoge
 title: BOMOGE
 sidebar_position: 553
-hoverText: prone § Adjective
+tags: [bomoge, Adjective, Germanic]
+description: prone § Adjective
 ---
 
 ### bomoge&emsp;<span kind="abugida">ʋƶꜿɿ</span>

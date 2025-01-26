@@ -3,7 +3,8 @@ id: buswëlın
 slug: buswëlın
 title: BUSWËLIN
 sidebar_position: 599
-hoverText: oath/incantation § Noun
+tags: [buswëlın, Noun, Germanic]
+description: oath/incantation § Noun
 ---
 
 ### buswëlın&emsp;<span kind="abugida">ʋ́ʃʒʇʓ̃ȷ</span>

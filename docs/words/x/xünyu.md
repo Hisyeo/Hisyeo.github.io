@@ -3,7 +3,8 @@ id: xünyu
 slug: xünyu
 title: XÜNYU
 sidebar_position: 461
-hoverText: 00 zero § Numeral
+tags: [xünyu, Numeral, Indo-Iranian]
+description: 00 zero § Numeral
 ---
 
 ### xünyu&emsp;<span kind="abugida">ɋ̃ʄɀʃ</span>

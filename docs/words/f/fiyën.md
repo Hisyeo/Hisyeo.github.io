@@ -3,7 +3,8 @@ id: fiyën
 slug: fiyën
 title: FİYËN
 sidebar_position: 642
-hoverText: 100 hundred § Numeral
+tags: [fiyën, Numeral, Romance]
+description: 100 hundred § Numeral
 ---
 
 ### fiyën&emsp;<span kind="abugida">ɤɟɀ̃ʇ</span>
