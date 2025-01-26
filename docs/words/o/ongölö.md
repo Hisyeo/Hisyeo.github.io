@@ -9,7 +9,7 @@ description: corner § Noun
 
 ### ongölö&emsp;<span kind="abugida">ɽ̃ꜿıʓı</span>
 
-*corner* **§** Noun
+*corner* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑn.go.lo/
 

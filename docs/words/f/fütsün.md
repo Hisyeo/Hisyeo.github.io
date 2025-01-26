@@ -9,7 +9,7 @@ description: to obey (a rule) § Verb
 
 ### fütsün&emsp;<span kind="abugida">ɤ̆ʄɐ̃ʄ</span>
 
-*to obey (a rule)* **§** Verb
+*to obey (a rule)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈfut.sun/
 

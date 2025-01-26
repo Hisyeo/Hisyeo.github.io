@@ -9,7 +9,7 @@ description: milled/ground/crushed § Adjective
 
 ### gemolen&emsp;<span kind="abugida">ꜿɿƶʓ̃ɿ</span>
 
-*milled/ground/crushed* **§** Adjective
+*milled/ground/crushed* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /gɛ.ˈmɑ.lɛn/
 

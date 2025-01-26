@@ -9,7 +9,7 @@ description: flag § Noun
 
 ### wibolo&emsp;<span kind="abugida">ʒɟʋʓ</span>
 
-*flag* **§** Noun
+*flag* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwi.bɑ.lɑ/
 

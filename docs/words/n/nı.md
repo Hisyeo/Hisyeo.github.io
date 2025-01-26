@@ -9,7 +9,7 @@ description: it § Pronoun
 
 ### nı&emsp;<span kind="abugida">ƨȷ</span>
 
-*it* **§** Pronoun
+*it* **§** [Pronoun](../../tags/Pronoun)
 
 **IPA**: /ˈnɪ/
 

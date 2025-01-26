@@ -9,7 +9,7 @@ description: weather § Noun
 
 ### këlös&emsp;<span kind="abugida">ɔʇʓ́ı</span>
 
-*weather* **§** Noun
+*weather* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈke.los/
 

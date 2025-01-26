@@ -9,7 +9,7 @@ description: to wash (the washed) § Verb
 
 ### xüsten&emsp;<span kind="abugida">ɋ́ʄc̃ɿ</span>
 
-*to wash (the washed)* **§** Verb
+*to wash (the washed)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈʃus.tɛn/
 

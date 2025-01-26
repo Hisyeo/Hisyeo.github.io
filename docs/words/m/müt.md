@@ -9,7 +9,7 @@ description: direction/recipient (towards) § Preposition
 
 ### müt&emsp;<span kind="abugida">ƶ̆ʄ</span>
 
-*direction/recipient (towards)* **§** Preposition
+*direction/recipient (towards)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈmut/
 

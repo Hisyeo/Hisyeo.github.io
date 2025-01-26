@@ -9,7 +9,7 @@ description: all § Determiner
 
 ### möi&emsp;<span kind="abugida">ƶıɽɟ</span>
 
-*all* **§** Determiner
+*all* **§** [Determiner](../../tags/Determiner)
 
 **IPA**: /ˈmo.i/
 

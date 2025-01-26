@@ -9,7 +9,7 @@ description: rail/rack/bar § Noun
 
 ### kiskö&emsp;<span kind="abugida">ɔ́ɟɔı</span>
 
-*rail/rack/bar* **§** Noun
+*rail/rack/bar* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkis.ko/
 

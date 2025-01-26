@@ -9,7 +9,7 @@ description: surprised § Adjective
 
 ### momoki&emsp;<span kind="abugida">ƶƶɔɟ</span>
 
-*surprised* **§** Adjective
+*surprised* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmɑ.mɑ.ki/
 

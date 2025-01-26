@@ -9,7 +9,7 @@ description: to respect (the respected) § Verb
 
 ### golun&emsp;<span kind="abugida">ꜿʓ̃ʃ</span>
 
-*to respect (the respected)* **§** Verb
+*to respect (the respected)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈgɑ.lʌn/
 

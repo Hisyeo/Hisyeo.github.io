@@ -9,7 +9,7 @@ description: to give (a gift) § Verb
 
 ### cüdo&emsp;<span kind="abugida">ꞇʄʌ</span>
 
-*to give (a gift)* **§** Verb
+*to give (a gift)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈt͡ɕu.dɑ/
 

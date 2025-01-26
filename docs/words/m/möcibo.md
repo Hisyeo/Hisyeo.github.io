@@ -9,7 +9,7 @@ description: ongoing § Adjective
 
 ### möcibo&emsp;<span kind="abugida">ƶıꞇɟʋ</span>
 
-*ongoing* **§** Adjective
+*ongoing* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmo.t͡ɕi.bɑ/
 

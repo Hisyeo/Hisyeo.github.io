@@ -9,7 +9,7 @@ description: cereal/grain § Noun
 
 ### lisik&emsp;<span kind="abugida">ʓɟɐ̑ɟ</span>
 
-*cereal/grain* **§** Noun
+*cereal/grain* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈli.sik/
 

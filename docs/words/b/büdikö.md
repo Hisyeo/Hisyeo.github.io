@@ -9,7 +9,7 @@ description: modest/chaste § Adjective
 
 ### büdikö&emsp;<span kind="abugida">ʋʄʌɟɔı</span>
 
-*modest/chaste* **§** Adjective
+*modest/chaste* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbu.di.ko/
 

@@ -9,7 +9,7 @@ description: arrow § Noun
 
 ### unbü&emsp;<span kind="abugida">ɽ̃ʃʋʄ</span>
 
-*arrow* **§** Noun
+*arrow* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʌn.bu/
 

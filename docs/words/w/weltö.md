@@ -9,7 +9,7 @@ description: limp/flaccid/flabby § Adjective
 
 ### weltö&emsp;<span kind="abugida">ʒ͊ɿcı</span>
 
-*limp/flaccid/flabby* **§** Adjective
+*limp/flaccid/flabby* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈwɛl.to/
 

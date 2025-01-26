@@ -9,7 +9,7 @@ description: asleep § Adjective
 
 ### conzodo&emsp;<span kind="abugida">ꞇ̃ⱴʌ</span>
 
-*asleep* **§** Adjective
+*asleep* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕɑn.d͡ʒɑ.dɑ/
 

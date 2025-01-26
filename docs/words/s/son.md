@@ -9,7 +9,7 @@ description: 03 three § Numeral
 
 ### son&emsp;<span kind="abugida">ɐ̃</span>
 
-*03 three* **§** Numeral
+*03 three* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈsɑn/
 

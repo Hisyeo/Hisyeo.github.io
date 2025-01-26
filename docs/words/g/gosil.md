@@ -9,7 +9,7 @@ description: short § Adjective
 
 ### gosil&emsp;<span kind="abugida">ꜿɐ͊ɟ</span>
 
-*short* **§** Adjective
+*short* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgɑ.sil/
 

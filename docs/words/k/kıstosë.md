@@ -9,7 +9,7 @@ description: crustacean § Noun
 
 ### kıstosë&emsp;<span kind="abugida">ɔ́ȷcɐʇ</span>
 
-*crustacean* **§** Noun
+*crustacean* **§** [Noun](../../tags/Noun)
 
 **IPA**: /kɪs.ˈtɑ.se/
 

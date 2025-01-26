@@ -9,7 +9,7 @@ description: to adjudge (judgement) § Verb
 
 ### tülokon&emsp;<span kind="abugida">cʄʓɔ̃</span>
 
-*to adjudge (judgement)* **§** Verb
+*to adjudge (judgement)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈtu.lɑ.kɑn/
 

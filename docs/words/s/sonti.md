@@ -9,7 +9,7 @@ description: calm § Adjective
 
 ### sonti&emsp;<span kind="abugida">ɐ̃cɟ</span>
 
-*calm* **§** Adjective
+*calm* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsɑn.ti/
 

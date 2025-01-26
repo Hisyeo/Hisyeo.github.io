@@ -9,7 +9,7 @@ description: strip/band § Noun
 
 ### listo&emsp;<span kind="abugida">ʓ́ɟc</span>
 
-*strip/band* **§** Noun
+*strip/band* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlis.tɑ/
 

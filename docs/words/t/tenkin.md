@@ -9,7 +9,7 @@ description: to hear (a sound) § Verb
 
 ### tenkin&emsp;<span kind="abugida">c̃ɿɔ̃ɟ</span>
 
-*to hear (a sound)* **§** Verb
+*to hear (a sound)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈtɛn.kin/
 

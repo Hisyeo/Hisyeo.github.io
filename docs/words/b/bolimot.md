@@ -9,7 +9,7 @@ description: voluminous/spacious § Adjective
 
 ### bolimot&emsp;<span kind="abugida">ʋʓɟƶ̆</span>
 
-*voluminous/spacious* **§** Adjective
+*voluminous/spacious* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑ.li.mɑt/
 

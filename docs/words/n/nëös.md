@@ -9,7 +9,7 @@ description: new/fresh § Adjective
 
 ### nëös&emsp;<span kind="abugida">ƨʇɽ́ı</span>
 
-*new/fresh* **§** Adjective
+*new/fresh* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈne.os/
 

@@ -9,7 +9,7 @@ description: limb § Noun
 
 ### tolën&emsp;<span kind="abugida">cʓ̃ʇ</span>
 
-*limb* **§** Noun
+*limb* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɑ.len/
 

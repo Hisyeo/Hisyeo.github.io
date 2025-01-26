@@ -9,7 +9,7 @@ description: to use (a tool) § Verb
 
 ### yön&emsp;<span kind="abugida">ɀ̃ı</span>
 
-*to use (a tool)* **§** Verb
+*to use (a tool)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈjon/
 

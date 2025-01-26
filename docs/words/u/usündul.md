@@ -9,7 +9,7 @@ description: ugly § Adjective
 
 ### usündul&emsp;<span kind="abugida">ɽʃɐ̃ʄʌ͊ʃ</span>
 
-*ugly* **§** Adjective
+*ugly* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ʌ.ˈsun.dʌl/
 

@@ -9,7 +9,7 @@ description: pitch/tar § Noun
 
 ### zögoc&emsp;<span kind="abugida">ⱴıꜿ̄</span>
 
-*pitch/tar* **§** Noun
+*pitch/tar* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒo.gɑt͡ɕ/
 

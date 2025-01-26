@@ -9,7 +9,7 @@ description: heaven § Noun
 
 ### sëmoı&emsp;<span kind="abugida">ɐʇƶɽȷ</span>
 
-*heaven* **§** Noun
+*heaven* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈse.mɑ.ɪ/
 

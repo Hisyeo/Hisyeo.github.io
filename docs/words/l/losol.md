@@ -9,7 +9,7 @@ description: original § Adjective
 
 ### losol&emsp;<span kind="abugida">ʓɐ͊</span>
 
-*original* **§** Adjective
+*original* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈlɑ.sɑl/
 

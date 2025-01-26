@@ -9,7 +9,7 @@ description: teal § Adjective
 
 ### xolxili&emsp;<span kind="abugida">ɋ͊ɋɟʓɟ</span>
 
-*teal* **§** Adjective
+*teal* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʃɑl.ʃi.li/
 

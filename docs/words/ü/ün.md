@@ -9,7 +9,7 @@ description: and § Conjunction
 
 ### ün&emsp;<span kind="abugida">ɽ̃ʄ</span>
 
-*and* **§** Conjunction
+*and* **§** [Conjunction](../../tags/Conjunction)
 
 **IPA**: /ˈun/
 

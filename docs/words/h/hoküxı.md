@@ -9,7 +9,7 @@ description: clapping/applauding § Adjective
 
 ### hoküxı&emsp;<span kind="abugida">ɂɔʄɋȷ</span>
 
-*clapping/applauding* **§** Adjective
+*clapping/applauding* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhɑ.ku.ʃɪ/
 

@@ -9,7 +9,7 @@ description: drone/buzz/hum § Noun
 
 ### sünbidü&emsp;<span kind="abugida">ɐ̃ʄʋɟʌʄ</span>
 
-*drone/buzz/hum* **§** Noun
+*drone/buzz/hum* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsun.bi.du/
 

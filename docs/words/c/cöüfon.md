@@ -9,7 +9,7 @@ description: to cook (a meal) § Verb
 
 ### cöüfon&emsp;<span kind="abugida">ꞇıɽʄɤ̃</span>
 
-*to cook (a meal)* **§** Verb
+*to cook (a meal)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈt͡ɕo.u.fɑn/
 

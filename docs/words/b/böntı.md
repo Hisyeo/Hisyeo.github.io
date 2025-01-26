@@ -9,7 +9,7 @@ description: bridge § Noun
 
 ### böntı&emsp;<span kind="abugida">ʋ̃ıcȷ</span>
 
-*bridge* **§** Noun
+*bridge* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbon.tɪ/
 

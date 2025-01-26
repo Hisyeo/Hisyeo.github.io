@@ -9,7 +9,7 @@ description: year § Noun
 
 ### üsën&emsp;<span kind="abugida">ɽʄɐ̃ʇ</span>
 
-*year* **§** Noun
+*year* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈu.sen/
 

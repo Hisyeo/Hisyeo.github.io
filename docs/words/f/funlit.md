@@ -9,7 +9,7 @@ description: split § Adjective
 
 ### funlit&emsp;<span kind="abugida">ɤ̃ʃʓ̆ɟ</span>
 
-*split* **§** Adjective
+*split* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈfʌn.lit/
 

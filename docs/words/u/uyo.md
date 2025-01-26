@@ -9,7 +9,7 @@ description: thing § Noun
 
 ### uyo&emsp;<span kind="abugida">ɽʃɀ</span>
 
-*thing* **§** Noun
+*thing* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʌ.jɑ/
 

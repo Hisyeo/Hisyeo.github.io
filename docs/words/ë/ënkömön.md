@@ -9,7 +9,7 @@ description: face § Noun
 
 ### ënkömön&emsp;<span kind="abugida">ɽ̃ʇɔıƶ̃ı</span>
 
-*face* **§** Noun
+*face* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈen.ko.mon/
 

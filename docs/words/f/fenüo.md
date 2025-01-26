@@ -9,7 +9,7 @@ description: country/region § Noun
 
 ### fenüo&emsp;<span kind="abugida">ɤɿƨʄɽ</span>
 
-*country/region* **§** Noun
+*country/region* **§** [Noun](../../tags/Noun)
 
 **IPA**: /fɛ.ˈnu.ɑ/
 

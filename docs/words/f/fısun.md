@@ -9,7 +9,7 @@ description: to know (knowledge) § Verb
 
 ### fısun&emsp;<span kind="abugida">ɤȷɐ̃ʃ</span>
 
-*to know (knowledge)* **§** Verb
+*to know (knowledge)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈfɪ.sʌn/
 

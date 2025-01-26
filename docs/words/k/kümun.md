@@ -9,7 +9,7 @@ description: hole § Noun
 
 ### kümun&emsp;<span kind="abugida">ɔʄƶ̃ʃ</span>
 
-*hole* **§** Noun
+*hole* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈku.mʌn/
 

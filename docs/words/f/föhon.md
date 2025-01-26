@@ -9,7 +9,7 @@ description: front/forward § Noun
 
 ### föhon&emsp;<span kind="abugida">ɤıɂ̃</span>
 
-*front/forward* **§** Noun
+*front/forward* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfo.hɑn/
 

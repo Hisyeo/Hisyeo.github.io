@@ -9,7 +9,7 @@ description: 13 thirteen § Numeral
 
 ### telö&emsp;<span kind="abugida">cɿʓı</span>
 
-*13 thirteen* **§** Numeral
+*13 thirteen* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈtɛ.lo/
 

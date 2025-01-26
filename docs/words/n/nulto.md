@@ -9,7 +9,7 @@ description: wide § Adjective
 
 ### nulto&emsp;<span kind="abugida">ƨ͊ʃc</span>
 
-*wide* **§** Adjective
+*wide* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnʌl.tɑ/
 

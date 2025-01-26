@@ -9,7 +9,7 @@ description: special/unique § Adjective
 
 ### wixës&emsp;<span kind="abugida">ʒɟɋ́ʇ</span>
 
-*special/unique* **§** Adjective
+*special/unique* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈwi.ʃes/
 

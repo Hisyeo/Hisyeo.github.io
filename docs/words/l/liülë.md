@@ -9,7 +9,7 @@ description: laughing § Adjective
 
 ### liülë&emsp;<span kind="abugida">ʓɟɽʄʓʇ</span>
 
-*laughing* **§** Adjective
+*laughing* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈli.u.le/
 

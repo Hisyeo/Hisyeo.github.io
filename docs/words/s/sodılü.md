@@ -9,7 +9,7 @@ description: loose § Adjective
 
 ### sodılü&emsp;<span kind="abugida">ɐʌȷʓʄ</span>
 
-*loose* **§** Adjective
+*loose* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsɑ.dɪ.lu/
 

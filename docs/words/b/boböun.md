@@ -9,7 +9,7 @@ description: system § Noun
 
 ### boböun&emsp;<span kind="abugida">ʋʋıɽ̃ʃ</span>
 
-*system* **§** Noun
+*system* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbɑ.bo.ʌn/
 

@@ -9,7 +9,7 @@ description: tendon/root § Noun
 
 ### ziziyo&emsp;<span kind="abugida">ⱴɟⱴɟɀ</span>
 
-*tendon/root* **§** Noun
+*tendon/root* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒi.d͡ʒi.jɑ/
 

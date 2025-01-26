@@ -9,7 +9,7 @@ description: lever/knob/handle § Noun
 
 ### lücku&emsp;<span kind="abugida">ʓ̄ʄɔʃ</span>
 
-*lever/knob/handle* **§** Noun
+*lever/knob/handle* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlut͡ɕ.kʌ/
 

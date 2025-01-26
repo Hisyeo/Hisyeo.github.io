@@ -9,7 +9,7 @@ description: related § Adjective
 
 ### litıwe&emsp;<span kind="abugida">ʓɟcȷʒɿ</span>
 
-*related* **§** Adjective
+*related* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈli.tɪ.wɛ/
 

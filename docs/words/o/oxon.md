@@ -9,7 +9,7 @@ description: beneficiary/purpose marker (for) § Preposition
 
 ### oxon&emsp;<span kind="abugida">ɽɋ̃</span>
 
-*beneficiary/purpose marker (for)* **§** Preposition
+*beneficiary/purpose marker (for)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈɑ.ʃɑn/
 

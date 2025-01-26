@@ -9,7 +9,7 @@ description: energy/power § Noun
 
 ### ülzo&emsp;<span kind="abugida">ɽ͊ʄⱴ</span>
 
-*energy/power* **§** Noun
+*energy/power* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈul.d͡ʒɑ/
 

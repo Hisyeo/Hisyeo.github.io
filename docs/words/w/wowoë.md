@@ -9,7 +9,7 @@ description: foot § Noun
 
 ### wowoë&emsp;<span kind="abugida">ʒʒɽʇ</span>
 
-*foot* **§** Noun
+*foot* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwɑ.wɑ.e/
 

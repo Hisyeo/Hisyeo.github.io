@@ -9,7 +9,7 @@ description: right § Noun
 
 ### sotnin&emsp;<span kind="abugida">ɐ̆ƨ̃ɟ</span>
 
-*right* **§** Noun
+*right* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsɑt.nin/
 

@@ -9,7 +9,7 @@ description: map/chart § Noun
 
 ### nökso&emsp;<span kind="abugida">ƨ̑ıɐ</span>
 
-*map/chart* **§** Noun
+*map/chart* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnok.sɑ/
 

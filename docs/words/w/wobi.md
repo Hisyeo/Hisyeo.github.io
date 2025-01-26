@@ -9,7 +9,7 @@ description: island § Noun
 
 ### wobi&emsp;<span kind="abugida">ʒʋɟ</span>
 
-*island* **§** Noun
+*island* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwɑ.bi/
 

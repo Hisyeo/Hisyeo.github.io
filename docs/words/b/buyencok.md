@@ -9,7 +9,7 @@ description: arachnid § Noun
 
 ### buyencok&emsp;<span kind="abugida">ʋʃɀ̃ɿꞇ̑</span>
 
-*arachnid* **§** Noun
+*arachnid* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbʌ.jɛn.t͡ɕɑk/
 

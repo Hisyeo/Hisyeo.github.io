@@ -9,7 +9,7 @@ description: agentive verb noun particle § Particle
 
 ### öni&emsp;<span kind="abugida">ɽıƨɟ</span>
 
-*agentive verb noun particle* **§** Particle
+*agentive verb noun particle* **§** [Particle](../../tags/Particle)
 
 **IPA**: /ˈo.ni/
 

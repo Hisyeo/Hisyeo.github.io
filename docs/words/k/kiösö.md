@@ -9,7 +9,7 @@ description: athletic § Adjective
 
 ### kiösö&emsp;<span kind="abugida">ɔɟɽıɐı</span>
 
-*athletic* **§** Adjective
+*athletic* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈki.o.so/
 

@@ -9,7 +9,7 @@ description: to answer [with] (a response) § Verb
 
 ### zuwobü&emsp;<span kind="abugida">ⱴʃʒʋʄ</span>
 
-*to answer [with] (a response)* **§** Verb
+*to answer [with] (a response)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /d͡ʒʌ.ˈwɑ.bu/
 

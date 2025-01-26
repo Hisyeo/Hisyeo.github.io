@@ -9,7 +9,7 @@ description: bouncing § Adjective
 
 ### lëfötol&emsp;<span kind="abugida">ʓʇɤıc͊</span>
 
-*bouncing* **§** Adjective
+*bouncing* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈle.fo.tɑl/
 

@@ -9,7 +9,7 @@ description: to approve [of] (the approved) § Verb
 
 ### wofok&emsp;<span kind="abugida">ʒɤ̑</span>
 
-*to approve [of] (the approved)* **§** Verb
+*to approve [of] (the approved)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈwɑ.fɑk/
 

@@ -9,7 +9,7 @@ description: movie/show § Noun
 
 ### non&emsp;<span kind="abugida">ƨ̃</span>
 
-*movie/show* **§** Noun
+*movie/show* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑn/
 

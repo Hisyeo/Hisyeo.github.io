@@ -9,7 +9,7 @@ description: to record (data/a recording) § Verb
 
 ### sobıs&emsp;<span kind="abugida">ɐʋ́ȷ</span>
 
-*to record (data/a recording)* **§** Verb
+*to record (data/a recording)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsɑ.bɪs/
 

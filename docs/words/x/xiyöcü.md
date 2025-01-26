@@ -9,7 +9,7 @@ description: occupied/engaged/busy § Adjective
 
 ### xiyöcü&emsp;<span kind="abugida">ɋɟɀıꞇʄ</span>
 
-*occupied/engaged/busy* **§** Adjective
+*occupied/engaged/busy* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʃi.jo.t͡ɕu/
 

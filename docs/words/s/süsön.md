@@ -9,7 +9,7 @@ description: layer § Noun
 
 ### süsön&emsp;<span kind="abugida">ɐʄɐ̃ı</span>
 
-*layer* **§** Noun
+*layer* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsu.son/
 

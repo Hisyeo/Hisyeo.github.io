@@ -9,7 +9,7 @@ description: to remember (a memory) § Verb
 
 ### hüsku&emsp;<span kind="abugida">ɂ́ʄɔʃ</span>
 
-*to remember (a memory)* **§** Verb
+*to remember (a memory)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈhus.kʌ/
 

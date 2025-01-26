@@ -9,7 +9,7 @@ description: we/us § Pronoun
 
 ### nü&emsp;<span kind="abugida">ƨʄ</span>
 
-*we/us* **§** Pronoun
+*we/us* **§** [Pronoun](../../tags/Pronoun)
 
 **IPA**: /ˈnu/
 

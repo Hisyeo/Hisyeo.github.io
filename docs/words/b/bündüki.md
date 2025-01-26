@@ -9,7 +9,7 @@ description: gun § Noun
 
 ### bündüki&emsp;<span kind="abugida">ʋ̃ʄʌʄɔɟ</span>
 
-*gun* **§** Noun
+*gun* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbun.du.ki/
 

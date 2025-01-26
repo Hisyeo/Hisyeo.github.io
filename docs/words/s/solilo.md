@@ -9,7 +9,7 @@ description: body § Noun
 
 ### solilo&emsp;<span kind="abugida">ɐʓɟʓ</span>
 
-*body* **§** Noun
+*body* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsɑ.li.lɑ/
 

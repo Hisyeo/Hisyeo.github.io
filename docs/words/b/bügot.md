@@ -9,7 +9,7 @@ description: heavy § Adjective
 
 ### bügot&emsp;<span kind="abugida">ʋʄꜿ̆</span>
 
-*heavy* **§** Adjective
+*heavy* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbu.gɑt/
 

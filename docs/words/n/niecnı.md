@@ -9,7 +9,7 @@ description: vile § Adjective
 
 ### niecnı&emsp;<span kind="abugida">ƨɟɽ̄ɿƨȷ</span>
 
-*vile* **§** Adjective
+*vile* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈni.ɛt͡ɕ.nɪ/
 

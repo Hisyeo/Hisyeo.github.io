@@ -9,7 +9,7 @@ description: theme/topic § Verb
 
 ### selöhö&emsp;<span kind="abugida">ɐɿʓıɂı</span>
 
-*theme/topic* **§** Verb
+*theme/topic* **§** [Verb](../../tags/Verb)
 
 **IPA**: /sɛ.ˈlo.ho/
 

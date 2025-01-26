@@ -9,7 +9,7 @@ description: direct/live § Adjective
 
 ### söndonös&emsp;<span kind="abugida">ɐ̃ıʌƨ́ı</span>
 
-*direct/live* **§** Adjective
+*direct/live* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈson.dɑ.nos/
 

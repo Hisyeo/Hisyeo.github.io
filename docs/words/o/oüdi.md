@@ -9,7 +9,7 @@ description: seed § Noun
 
 ### oüdi&emsp;<span kind="abugida">ɽɽʄʌɟ</span>
 
-*seed* **§** Noun
+*seed* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑ.u.di/
 

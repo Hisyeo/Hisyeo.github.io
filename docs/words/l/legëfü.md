@@ -9,7 +9,7 @@ description: lazy § Adjective
 
 ### legëfü&emsp;<span kind="abugida">ʓɿꜿʇɤʄ</span>
 
-*lazy* **§** Adjective
+*lazy* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /lɛ.ˈge.fu/
 

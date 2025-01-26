@@ -9,7 +9,7 @@ description: oath/incantation § Noun
 
 ### buswëlın&emsp;<span kind="abugida">ʋ́ʃʒʇʓ̃ȷ</span>
 
-*oath/incantation* **§** Noun
+*oath/incantation* **§** [Noun](../../tags/Noun)
 
 **IPA**: /bʌs.ˈwe.lɪn/
 

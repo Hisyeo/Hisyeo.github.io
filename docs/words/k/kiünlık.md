@@ -9,7 +9,7 @@ description: authorized § Adjective
 
 ### kiünlık&emsp;<span kind="abugida">ɔɟɽ̃ʄʓ̑ȷ</span>
 
-*authorized* **§** Adjective
+*authorized* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈki.un.lɪk/
 

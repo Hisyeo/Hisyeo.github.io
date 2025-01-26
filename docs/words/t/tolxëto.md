@@ -9,7 +9,7 @@ description: card § Noun
 
 ### tolxëto&emsp;<span kind="abugida">c͊ɋʇc</span>
 
-*card* **§** Noun
+*card* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɑl.ʃe.tɑ/
 

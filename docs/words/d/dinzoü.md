@@ -9,7 +9,7 @@ description: lip/rim/edge § Noun
 
 ### dinzoü&emsp;<span kind="abugida">ʌ̃ɟⱴɽʄ</span>
 
-*lip/rim/edge* **§** Noun
+*lip/rim/edge* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdin.d͡ʒɑ.u/
 

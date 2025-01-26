@@ -9,7 +9,7 @@ description: to need (a requirement) § Verb
 
 ### buswen&emsp;<span kind="abugida">ʋ́ʃʒ̃ɿ</span>
 
-*to need (a requirement)* **§** Verb
+*to need (a requirement)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈbʌs.wɛn/
 

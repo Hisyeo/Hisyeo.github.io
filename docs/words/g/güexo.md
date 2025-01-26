@@ -9,7 +9,7 @@ description: war § Noun
 
 ### güexo&emsp;<span kind="abugida">ꜿʄɽɿɋ</span>
 
-*war* **§** Noun
+*war* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈgu.ɛ.ʃɑ/
 

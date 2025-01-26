@@ -9,7 +9,7 @@ description: quiet § Adjective
 
 ### homüs&emsp;<span kind="abugida">ɂƶ́ʄ</span>
 
-*quiet* **§** Adjective
+*quiet* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhɑ.mus/
 

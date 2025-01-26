@@ -9,7 +9,7 @@ description: to ask (a question) § Verb
 
 ### sölü&emsp;<span kind="abugida">ɐıʓʄ</span>
 
-*to ask (a question)* **§** Verb
+*to ask (a question)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈso.lu/
 

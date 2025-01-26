@@ -9,7 +9,7 @@ description: fraction § Noun
 
 ### fun&emsp;<span kind="abugida">ɤ̃ʃ</span>
 
-*fraction* **§** Noun
+*fraction* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfʌn/
 

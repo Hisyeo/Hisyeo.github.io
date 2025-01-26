@@ -9,7 +9,7 @@ description: acidic § Adjective
 
 ### mıxofo&emsp;<span kind="abugida">ƶȷɋɤ</span>
 
-*acidic* **§** Adjective
+*acidic* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /mɪ.ˈʃɑ.fɑ/
 

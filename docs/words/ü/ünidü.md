@@ -9,7 +9,7 @@ description: joined § Adjective
 
 ### ünidü&emsp;<span kind="abugida">ɽʄƨɟʌʄ</span>
 
-*joined* **§** Adjective
+*joined* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈu.ni.du/
 

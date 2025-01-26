@@ -9,7 +9,7 @@ description: unlikely/rare § Adjective
 
 ### nebu&emsp;<span kind="abugida">ƨɿʋʃ</span>
 
-*unlikely/rare* **§** Adjective
+*unlikely/rare* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnɛ.bʌ/
 

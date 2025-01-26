@@ -9,7 +9,7 @@ description: excess § Determiner
 
 ### otıkon&emsp;<span kind="abugida">ɽcȷɔ̃</span>
 
-*excess* **§** Determiner
+*excess* **§** [Determiner](../../tags/Determiner)
 
 **IPA**: /ˈɑ.tɪ.kɑn/
 

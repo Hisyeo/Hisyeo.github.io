@@ -9,7 +9,7 @@ description: cream/paste § Noun
 
 ### mozün&emsp;<span kind="abugida">ƶⱴ̃ʄ</span>
 
-*cream/paste* **§** Noun
+*cream/paste* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmɑ.d͡ʒun/
 

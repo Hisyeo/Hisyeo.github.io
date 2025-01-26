@@ -9,7 +9,7 @@ description: to hope/wish (a hope/wish) § Verb
 
 ### xiwon&emsp;<span kind="abugida">ɋɟʒ̃</span>
 
-*to hope/wish (a hope/wish)* **§** Verb
+*to hope/wish (a hope/wish)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈʃi.wɑn/
 

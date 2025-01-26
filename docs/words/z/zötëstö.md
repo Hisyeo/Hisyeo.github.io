@@ -9,7 +9,7 @@ description: sufficient/enough § Determiner
 
 ### zötëstö&emsp;<span kind="abugida">ⱴıćʇcı</span>
 
-*sufficient/enough* **§** Determiner
+*sufficient/enough* **§** [Determiner](../../tags/Determiner)
 
 **IPA**: /ˈd͡ʒo.tes.to/
 

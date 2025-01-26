@@ -9,7 +9,7 @@ description: to overwhelm (the overwhelmed) § Verb
 
 ### obülü&emsp;<span kind="abugida">ɽʋʄʓʄ</span>
 
-*to overwhelm (the overwhelmed)* **§** Verb
+*to overwhelm (the overwhelmed)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑ.bu.lu/
 

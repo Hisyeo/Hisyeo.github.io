@@ -9,7 +9,7 @@ description: alarm § Noun
 
 ### gongoxi&emsp;<span kind="abugida">ꜿ̃ꜿɋɟ</span>
 
-*alarm* **§** Noun
+*alarm* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈgɑn.gɑ.ʃi/
 

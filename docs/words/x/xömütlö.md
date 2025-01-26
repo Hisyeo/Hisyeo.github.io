@@ -9,7 +9,7 @@ description: ocean § Noun
 
 ### xömütlö&emsp;<span kind="abugida">ɋıƶ̆ʄʓı</span>
 
-*ocean* **§** Noun
+*ocean* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʃo.mut.lo/
 

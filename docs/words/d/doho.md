@@ -9,7 +9,7 @@ description: to sacrifice (an offering) § Verb
 
 ### doho&emsp;<span kind="abugida">ʌɂ</span>
 
-*to sacrifice (an offering)* **§** Verb
+*to sacrifice (an offering)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdɑ.hɑ/
 

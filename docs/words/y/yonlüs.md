@@ -9,7 +9,7 @@ description: wrong § Adjective
 
 ### yonlüs&emsp;<span kind="abugida">ɀ̃ʓ́ʄ</span>
 
-*wrong* **§** Adjective
+*wrong* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈjɑn.lus/
 

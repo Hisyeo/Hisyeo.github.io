@@ -9,7 +9,7 @@ description: artificial § Adjective
 
 ### yobë&emsp;<span kind="abugida">ɀʋʇ</span>
 
-*artificial* **§** Adjective
+*artificial* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈjɑ.be/
 

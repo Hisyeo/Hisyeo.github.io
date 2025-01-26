@@ -9,7 +9,7 @@ description: coil § Noun
 
 ### cülül&emsp;<span kind="abugida">ꞇʄʓ͊ʄ</span>
 
-*coil* **§** Noun
+*coil* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈt͡ɕu.lul/
 

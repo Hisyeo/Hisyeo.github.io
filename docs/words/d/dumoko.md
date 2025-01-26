@@ -9,7 +9,7 @@ description: explosion/blast § Noun
 
 ### dumoko&emsp;<span kind="abugida">ʌʃƶɔ</span>
 
-*explosion/blast* **§** Noun
+*explosion/blast* **§** [Noun](../../tags/Noun)
 
 **IPA**: /dʌ.ˈmɑ.kɑ/
 

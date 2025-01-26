@@ -9,7 +9,7 @@ description: science § Noun
 
 ### noüku&emsp;<span kind="abugida">ƨɽʄɔʃ</span>
 
-*science* **§** Noun
+*science* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑ.u.kʌ/
 

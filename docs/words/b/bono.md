@@ -9,7 +9,7 @@ description: facing/pointing § Adjective
 
 ### bono&emsp;<span kind="abugida">ʋƨ</span>
 
-*facing/pointing* **§** Adjective
+*facing/pointing* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑ.nɑ/
 

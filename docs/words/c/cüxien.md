@@ -9,7 +9,7 @@ description: constrained § Adjective
 
 ### cüxien&emsp;<span kind="abugida">ꞇʄɋɟɽ̃ɿ</span>
 
-*constrained* **§** Adjective
+*constrained* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕu.ʃi.ɛn/
 

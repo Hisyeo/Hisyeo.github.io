@@ -9,7 +9,7 @@ description: to form a pose (a position) § Verb
 
 ### bösol&emsp;<span kind="abugida">ʋıɐ͊</span>
 
-*to form a pose (a position)* **§** Verb
+*to form a pose (a position)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈbo.sɑl/
 

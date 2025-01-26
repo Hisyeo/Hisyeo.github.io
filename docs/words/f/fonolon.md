@@ -9,7 +9,7 @@ description: monkey/ape § Noun
 
 ### fonolon&emsp;<span kind="abugida">ɤƨʓ̃</span>
 
-*monkey/ape* **§** Noun
+*monkey/ape* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfɑ.nɑ.lɑn/
 

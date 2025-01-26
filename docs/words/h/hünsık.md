@@ -9,7 +9,7 @@ description: red § Adjective
 
 ### hünsık&emsp;<span kind="abugida">ɂ̃ʄɐ̑ȷ</span>
 
-*red* **§** Adjective
+*red* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhun.sɪk/
 

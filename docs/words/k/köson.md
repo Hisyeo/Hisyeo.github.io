@@ -9,7 +9,7 @@ description: to build (a construction) § Verb
 
 ### köson&emsp;<span kind="abugida">ɔıɐ̃</span>
 
-*to build (a construction)* **§** Verb
+*to build (a construction)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈko.sɑn/
 

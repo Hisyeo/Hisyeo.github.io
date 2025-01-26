@@ -9,7 +9,7 @@ description: bored § Adjective
 
 ### ufülit&emsp;<span kind="abugida">ɽʃɤʄʓ̆ɟ</span>
 
-*bored* **§** Adjective
+*bored* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ʌ.ˈfu.lit/
 

@@ -9,7 +9,7 @@ description: spot/scar § Noun
 
 ### tubö&emsp;<span kind="abugida">cʃʋı</span>
 
-*spot/scar* **§** Noun
+*spot/scar* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtʌ.bo/
 

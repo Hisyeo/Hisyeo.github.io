@@ -9,7 +9,7 @@ description: to focus [on]/pay attention [to] § Verb
 
 ### diyondë&emsp;<span kind="abugida">ʌɟɀ̃ʌʇ</span>
 
-*to focus [on]/pay attention [to]* **§** Verb
+*to focus [on]/pay attention [to]* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdi.jɑn.de/
 

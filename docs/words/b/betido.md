@@ -9,7 +9,7 @@ description: to mean (a meaning) § Verb
 
 ### betido&emsp;<span kind="abugida">ʋɿcɟʌ</span>
 
-*to mean (a meaning)* **§** Verb
+*to mean (a meaning)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /bɛ.ˈti.dɑ/
 

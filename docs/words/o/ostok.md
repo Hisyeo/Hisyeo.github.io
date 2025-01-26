@@ -9,7 +9,7 @@ description: sign/signal § Noun
 
 ### ostok&emsp;<span kind="abugida">ɽ́c̑</span>
 
-*sign/signal* **§** Noun
+*sign/signal* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑs.tɑk/
 

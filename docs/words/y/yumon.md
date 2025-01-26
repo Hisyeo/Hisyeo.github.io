@@ -9,7 +9,7 @@ description: brutal § Adjective
 
 ### yumon&emsp;<span kind="abugida">ɀʃƶ̃</span>
 
-*brutal* **§** Adjective
+*brutal* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈjʌ.mɑn/
 

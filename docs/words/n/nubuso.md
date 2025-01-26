@@ -9,7 +9,7 @@ description: wet § Adjective
 
 ### nubuso&emsp;<span kind="abugida">ƨʃʋʃɐ</span>
 
-*wet* **§** Adjective
+*wet* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnʌ.bʌ.sɑ/
 

@@ -9,7 +9,7 @@ description: ashamed § Adjective
 
 ### xulmındo&emsp;<span kind="abugida">ɋ͊ʃƶ̃ȷʌ</span>
 
-*ashamed* **§** Adjective
+*ashamed* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʃʌl.mɪn.dɑ/
 

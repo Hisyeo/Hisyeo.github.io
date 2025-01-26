@@ -9,7 +9,7 @@ description: bird § Noun
 
 ### timiok&emsp;<span kind="abugida">cɟƶɟɽ̑</span>
 
-*bird* **§** Noun
+*bird* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈti.mi.ɑk/
 

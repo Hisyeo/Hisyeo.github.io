@@ -9,7 +9,7 @@ description: hair/fur/plumage § Noun
 
 ### towë&emsp;<span kind="abugida">cʒʇ</span>
 
-*hair/fur/plumage* **§** Noun
+*hair/fur/plumage* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɑ.we/
 

@@ -9,7 +9,7 @@ description: chartreuse § Adjective
 
 ### golbınüs&emsp;<span kind="abugida">ꜿ͊ʋȷƨ́ʄ</span>
 
-*chartreuse* **§** Adjective
+*chartreuse* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgɑl.bɪ.nus/
 

@@ -9,7 +9,7 @@ description: planet § Noun
 
 ### nucoto&emsp;<span kind="abugida">ƨʃꞇc</span>
 
-*planet* **§** Noun
+*planet* **§** [Noun](../../tags/Noun)
 
 **IPA**: /nʌ.ˈt͡ɕɑ.tɑ/
 

@@ -9,7 +9,7 @@ description: bovine § Noun
 
 ### höfezi&emsp;<span kind="abugida">ɂıɤɿⱴɟ</span>
 
-*bovine* **§** Noun
+*bovine* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈho.fɛ.d͡ʒi/
 

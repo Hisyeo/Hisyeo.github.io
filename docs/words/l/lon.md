@@ -9,7 +9,7 @@ description: distance/duration marker (for) § Preposition
 
 ### lon&emsp;<span kind="abugida">ʓ̃</span>
 
-*distance/duration marker (for)* **§** Preposition
+*distance/duration marker (for)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈlɑn/
 

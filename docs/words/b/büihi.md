@@ -9,7 +9,7 @@ description: timid/shy § Adjective
 
 ### büihi&emsp;<span kind="abugida">ʋʄɽɟɂɟ</span>
 
-*timid/shy* **§** Adjective
+*timid/shy* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbu.i.hi/
 

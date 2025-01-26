@@ -9,7 +9,7 @@ description: balanced § Adjective
 
 ### üsowo&emsp;<span kind="abugida">ɽʄɐʒ</span>
 
-*balanced* **§** Adjective
+*balanced* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈu.sɑ.wɑ/
 

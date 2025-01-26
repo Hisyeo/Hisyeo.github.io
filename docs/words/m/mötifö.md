@@ -9,7 +9,7 @@ description: reason § Noun
 
 ### mötifö&emsp;<span kind="abugida">ƶıcɟɤı</span>
 
-*reason* **§** Noun
+*reason* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmo.ti.fo/
 

@@ -9,7 +9,7 @@ description: arriving § Adjective
 
 ### gik&emsp;<span kind="abugida">ꜿ̑ɟ</span>
 
-*arriving* **§** Adjective
+*arriving* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgik/
 

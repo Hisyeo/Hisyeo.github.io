@@ -9,7 +9,7 @@ description: 08 eight § Numeral
 
 ### tukwos&emsp;<span kind="abugida">c̑ʃʒ́</span>
 
-*08 eight* **§** Numeral
+*08 eight* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈtʌk.wɑs/
 

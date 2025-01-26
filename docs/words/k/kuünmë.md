@@ -9,7 +9,7 @@ description: technology § Noun
 
 ### kuünmë&emsp;<span kind="abugida">ɔʃɽ̃ʄƶʇ</span>
 
-*technology* **§** Noun
+*technology* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkʌ.un.me/
 

@@ -9,7 +9,7 @@ description: ring/circle § Noun
 
 ### wutun&emsp;<span kind="abugida">ʒʃc̃ʃ</span>
 
-*ring/circle* **§** Noun
+*ring/circle* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwʌ.tʌn/
 

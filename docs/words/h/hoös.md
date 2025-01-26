@@ -9,7 +9,7 @@ description: chaotic § Adjective
 
 ### hoös&emsp;<span kind="abugida">ɂɽ́ı</span>
 
-*chaotic* **§** Adjective
+*chaotic* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhɑ.os/
 

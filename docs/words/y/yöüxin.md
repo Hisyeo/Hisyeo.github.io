@@ -9,7 +9,7 @@ description: parade/procession § Noun
 
 ### yöüxin&emsp;<span kind="abugida">ɀıɽʄɋ̃ɟ</span>
 
-*parade/procession* **§** Noun
+*parade/procession* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈjo.u.ʃin/
 

@@ -9,7 +9,7 @@ description: tear (of the eye) § Noun
 
 ### nonto&emsp;<span kind="abugida">ƨ̃c</span>
 
-*tear (of the eye)* **§** Noun
+*tear (of the eye)* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑn.tɑ/
 

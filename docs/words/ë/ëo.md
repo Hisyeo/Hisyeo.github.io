@@ -9,7 +9,7 @@ description: causative verb particle § Particle
 
 ### ëo&emsp;<span kind="abugida">ɽʇɽ</span>
 
-*causative verb particle* **§** Particle
+*causative verb particle* **§** [Particle](../../tags/Particle)
 
 **IPA**: /ˈe.ɑ/
 

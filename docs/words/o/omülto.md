@@ -9,7 +9,7 @@ description: abstract § Adjective
 
 ### omülto&emsp;<span kind="abugida">ɽƶ͊ʄc</span>
 
-*abstract* **§** Adjective
+*abstract* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈɑ.mul.tɑ/
 

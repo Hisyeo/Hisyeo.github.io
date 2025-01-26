@@ -9,7 +9,7 @@ description: absent/nonexistent § Adjective
 
 ### fonmot&emsp;<span kind="abugida">ɤ̃ƶ̆</span>
 
-*absent/nonexistent* **§** Adjective
+*absent/nonexistent* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈfɑn.mɑt/
 

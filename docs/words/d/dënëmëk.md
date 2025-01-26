@@ -9,7 +9,7 @@ description: to try (a trial) § Verb
 
 ### dënëmëk&emsp;<span kind="abugida">ʌʇƨʇƶ̑ʇ</span>
 
-*to try (a trial)* **§** Verb
+*to try (a trial)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈde.ne.mek/
 

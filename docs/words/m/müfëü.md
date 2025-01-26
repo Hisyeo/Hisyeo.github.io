@@ -9,7 +9,7 @@ description: clean § Adjective
 
 ### müfëü&emsp;<span kind="abugida">ƶʄɤʇɽʄ</span>
 
-*clean* **§** Adjective
+*clean* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmu.fe.u/
 

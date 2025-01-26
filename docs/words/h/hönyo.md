@@ -9,7 +9,7 @@ description: wilderness § Noun
 
 ### hönyo&emsp;<span kind="abugida">ɂ̃ıɀ</span>
 
-*wilderness* **§** Noun
+*wilderness* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhon.jɑ/
 

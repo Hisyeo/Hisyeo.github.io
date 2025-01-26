@@ -9,7 +9,7 @@ description: to grab/hold (a hold/load) § Verb
 
 ### ogolol&emsp;<span kind="abugida">ɽꜿʓ͊</span>
 
-*to grab/hold (a hold/load)* **§** Verb
+*to grab/hold (a hold/load)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑ.gɑ.lɑl/
 

@@ -9,7 +9,7 @@ description: temporary § Adjective
 
 ### ilxizuk&emsp;<span kind="abugida">ɽ͊ɟɋɟⱴ̑ʃ</span>
 
-*temporary* **§** Adjective
+*temporary* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈil.ʃi.d͡ʒʌk/
 

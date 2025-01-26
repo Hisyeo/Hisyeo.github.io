@@ -9,7 +9,7 @@ description: what § Pronoun
 
 ### zık&emsp;<span kind="abugida">ⱴ̑ȷ</span>
 
-*what* **§** Pronoun
+*what* **§** [Pronoun](../../tags/Pronoun)
 
 **IPA**: /ˈd͡ʒɪk/
 

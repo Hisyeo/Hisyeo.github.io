@@ -9,7 +9,7 @@ description: book § Noun
 
 ### tömös&emsp;<span kind="abugida">cıƶ́ı</span>
 
-*book* **§** Noun
+*book* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈto.mos/
 

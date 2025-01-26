@@ -9,7 +9,7 @@ description: blunt § Adjective
 
 ### töcit&emsp;<span kind="abugida">cıꞇ̆ɟ</span>
 
-*blunt* **§** Adjective
+*blunt* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈto.t͡ɕit/
 

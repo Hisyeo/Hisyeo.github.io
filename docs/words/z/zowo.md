@@ -9,7 +9,7 @@ description: caniform § Noun
 
 ### zowo&emsp;<span kind="abugida">ⱴʒ</span>
 
-*caniform* **§** Noun
+*caniform* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒɑ.wɑ/
 

@@ -9,7 +9,7 @@ description: salty § Adjective
 
 ### xöboi&emsp;<span kind="abugida">ɋıʋɽɟ</span>
 
-*salty* **§** Adjective
+*salty* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʃo.bɑ.i/
 

@@ -9,7 +9,7 @@ description: to spot/notice (the spotted/noticed) § Verb
 
 ### züyı&emsp;<span kind="abugida">ⱴʄɀȷ</span>
 
-*to spot/notice (the spotted/noticed)* **§** Verb
+*to spot/notice (the spotted/noticed)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈd͡ʒu.jɪ/
 

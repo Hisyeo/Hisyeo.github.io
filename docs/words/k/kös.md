@@ -9,7 +9,7 @@ description: to cause (an effect) § Verb
 
 ### kös&emsp;<span kind="abugida">ɔ́ı</span>
 
-*to cause (an effect)* **§** Verb
+*to cause (an effect)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈkos/
 

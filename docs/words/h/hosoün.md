@@ -9,7 +9,7 @@ description: ratio/proportion § Noun
 
 ### hosoün&emsp;<span kind="abugida">ɂɐɽ̃ʄ</span>
 
-*ratio/proportion* **§** Noun
+*ratio/proportion* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhɑ.sɑ.un/
 

@@ -9,7 +9,7 @@ description: brain/mind § Noun
 
 ### düuncit&emsp;<span kind="abugida">ʌʄɽ̃ʃꞇ̆ɟ</span>
 
-*brain/mind* **§** Noun
+*brain/mind* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdu.ʌn.t͡ɕit/
 

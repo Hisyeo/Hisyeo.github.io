@@ -9,7 +9,7 @@ description: monster § Noun
 
 ### yükwoi&emsp;<span kind="abugida">ɀ̑ʄʒɽɟ</span>
 
-*monster* **§** Noun
+*monster* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈjuk.wɑ.i/
 

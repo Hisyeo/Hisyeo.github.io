@@ -9,7 +9,7 @@ description: word § Noun
 
 ### lolü&emsp;<span kind="abugida">ʓʓʄ</span>
 
-*word* **§** Noun
+*word* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlɑ.lu/
 

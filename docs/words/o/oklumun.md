@@ -9,7 +9,7 @@ description: attack § Noun
 
 ### oklumun&emsp;<span kind="abugida">ɽ̑ʓʃƶ̃ʃ</span>
 
-*attack* **§** Noun
+*attack* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑk.lʌ.mʌn/
 

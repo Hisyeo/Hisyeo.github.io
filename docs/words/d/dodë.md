@@ -9,7 +9,7 @@ description: diving § Adjective
 
 ### dodë&emsp;<span kind="abugida">ʌʌʇ</span>
 
-*diving* **§** Adjective
+*diving* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈdɑ.de/
 

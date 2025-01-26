@@ -9,7 +9,7 @@ description: to display/show (a diplay/show) § Verb
 
 ### möniso&emsp;<span kind="abugida">ƶıƨɟɐ</span>
 
-*to display/show (a diplay/show)* **§** Verb
+*to display/show (a diplay/show)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈmo.ni.sɑ/
 

@@ -9,7 +9,7 @@ description: shelf § Noun
 
 ### zoso&emsp;<span kind="abugida">ⱴɐ</span>
 
-*shelf* **§** Noun
+*shelf* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒɑ.sɑ/
 

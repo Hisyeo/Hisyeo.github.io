@@ -9,7 +9,7 @@ description: epistemic verb particle § Particle
 
 ### köi&emsp;<span kind="abugida">ɔıɽɟ</span>
 
-*epistemic verb particle* **§** Particle
+*epistemic verb particle* **§** [Particle](../../tags/Particle)
 
 **IPA**: /ˈko.i/
 

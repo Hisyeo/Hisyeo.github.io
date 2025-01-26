@@ -9,7 +9,7 @@ description: to surround/envelope (a surrounding/enclosure)  § Verb
 
 ### ünhılun&emsp;<span kind="abugida">ɽ̃ʄɂȷʓ̃ʃ</span>
 
-*to surround/envelope (a surrounding/enclosure) * **§** Verb
+*to surround/envelope (a surrounding/enclosure) * **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈun.hɪ.lʌn/
 

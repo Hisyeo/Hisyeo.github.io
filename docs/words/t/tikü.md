@@ -9,7 +9,7 @@ description: dead § Adjective
 
 ### tikü&emsp;<span kind="abugida">cɟɔʄ</span>
 
-*dead* **§** Adjective
+*dead* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈti.ku/
 

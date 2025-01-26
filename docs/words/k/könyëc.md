@@ -9,7 +9,7 @@ description: ending § Adjective
 
 ### könyëc&emsp;<span kind="abugida">ɔ̃ıɀ̄ʇ</span>
 
-*ending* **§** Adjective
+*ending* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈkon.jet͡ɕ/
 

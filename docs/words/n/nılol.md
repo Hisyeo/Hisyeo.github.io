@@ -9,7 +9,7 @@ description: shadow § Noun
 
 ### nılol&emsp;<span kind="abugida">ƨȷʓ͊</span>
 
-*shadow* **§** Noun
+*shadow* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɪ.lɑl/
 

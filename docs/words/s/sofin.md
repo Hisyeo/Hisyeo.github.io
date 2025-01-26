@@ -9,7 +9,7 @@ description: pure § Adjective
 
 ### sofin&emsp;<span kind="abugida">ɐɤ̃ɟ</span>
 
-*pure* **§** Adjective
+*pure* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsɑ.fin/
 

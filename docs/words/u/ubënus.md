@@ -9,7 +9,7 @@ description: barely § Adjective
 
 ### ubënus&emsp;<span kind="abugida">ɽʃʋʇƨ́ʃ</span>
 
-*barely* **§** Adjective
+*barely* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ʌ.ˈbe.nʌs/
 

@@ -9,7 +9,7 @@ description: to find (a discovery) § Verb
 
 ### yosten&emsp;<span kind="abugida">ɀ́c̃ɿ</span>
 
-*to find (a discovery)* **§** Verb
+*to find (a discovery)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈjɑs.tɛn/
 

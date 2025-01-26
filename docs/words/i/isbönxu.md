@@ -9,7 +9,7 @@ description: sponge § Noun
 
 ### isbönxu&emsp;<span kind="abugida">ɽ́ɟʋ̃ıɋʃ</span>
 
-*sponge* **§** Noun
+*sponge* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈis.bon.ʃʌ/
 

@@ -9,7 +9,7 @@ description: weapon § Noun
 
 ### leknek&emsp;<span kind="abugida">ʓ̑ɿƨ̑ɿ</span>
 
-*weapon* **§** Noun
+*weapon* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlɛk.nɛk/
 

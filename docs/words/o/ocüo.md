@@ -9,7 +9,7 @@ description: skin § Noun
 
 ### ocüo&emsp;<span kind="abugida">ɽꞇʄɽ</span>
 
-*skin* **§** Noun
+*skin* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑ.t͡ɕu.ɑ/
 

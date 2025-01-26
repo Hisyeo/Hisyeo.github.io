@@ -9,7 +9,7 @@ description: to bear (a burden) § Verb
 
 ### oköt&emsp;<span kind="abugida">ɽɔ̆ı</span>
 
-*to bear (a burden)* **§** Verb
+*to bear (a burden)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑ.kot/
 

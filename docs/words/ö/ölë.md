@@ -9,7 +9,7 @@ description: experiencer/causee marker § Preposition
 
 ### ölë&emsp;<span kind="abugida">ɽıʓʇ</span>
 
-*experiencer/causee marker* **§** Preposition
+*experiencer/causee marker* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈo.le/
 

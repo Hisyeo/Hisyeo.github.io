@@ -9,7 +9,7 @@ description: reflected § Adjective
 
 ### tikël&emsp;<span kind="abugida">cɟɔ͊ʇ</span>
 
-*reflected* **§** Adjective
+*reflected* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈti.kel/
 

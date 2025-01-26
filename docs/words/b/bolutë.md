@@ -9,7 +9,7 @@ description: foreign § Adjective
 
 ### bolutë&emsp;<span kind="abugida">ʋʓʃcʇ</span>
 
-*foreign* **§** Adjective
+*foreign* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑ.lʌ.te/
 

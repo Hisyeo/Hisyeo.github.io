@@ -9,7 +9,7 @@ description: than § Conjunction
 
 ### en&emsp;<span kind="abugida">ɽ̃ɿ</span>
 
-*than* **§** Conjunction
+*than* **§** [Conjunction](../../tags/Conjunction)
 
 **IPA**: /ˈɛn/
 

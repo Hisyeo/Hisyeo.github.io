@@ -9,7 +9,7 @@ description: loud § Adjective
 
 ### oltü&emsp;<span kind="abugida">ɽ͊cʄ</span>
 
-*loud* **§** Adjective
+*loud* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈɑl.tu/
 

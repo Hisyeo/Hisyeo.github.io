@@ -9,7 +9,7 @@ description: constant/stable § Adjective
 
 ### sinëxis&emsp;<span kind="abugida">ɐɟƨʇɋ́ɟ</span>
 
-*constant/stable* **§** Adjective
+*constant/stable* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsi.ne.ʃis/
 

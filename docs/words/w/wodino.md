@@ -9,7 +9,7 @@ description: stale § Adjective
 
 ### wodino&emsp;<span kind="abugida">ʒʌɟƨ</span>
 
-*stale* **§** Adjective
+*stale* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈwɑ.di.nɑ/
 

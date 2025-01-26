@@ -9,7 +9,7 @@ description: interrogative sentence ender (yes?) § Postposition
 
 ### ko&emsp;<span kind="abugida">ɔ</span>
 
-*interrogative sentence ender (yes?)* **§** Postposition
+*interrogative sentence ender (yes?)* **§** [Postposition](../../tags/Postposition)
 
 **IPA**: /ˈkɑ/
 

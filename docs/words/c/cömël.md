@@ -9,7 +9,7 @@ description: cute § Adjective
 
 ### cömël&emsp;<span kind="abugida">ꞇıƶ͊ʇ</span>
 
-*cute* **§** Adjective
+*cute* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕo.mel/
 

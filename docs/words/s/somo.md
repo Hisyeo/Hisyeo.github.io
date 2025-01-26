@@ -9,7 +9,7 @@ description: to name [as] (a name) § Verb
 
 ### somo&emsp;<span kind="abugida">ɐƶ</span>
 
-*to name [as] (a name)* **§** Verb
+*to name [as] (a name)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsɑ.mɑ/
 

@@ -9,7 +9,7 @@ description: finger/toe § Noun
 
 ### zixitü&emsp;<span kind="abugida">ⱴɟɋɟcʄ</span>
 
-*finger/toe* **§** Noun
+*finger/toe* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒi.ʃi.tu/
 

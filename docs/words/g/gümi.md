@@ -9,7 +9,7 @@ description: rubber § Noun
 
 ### gümi&emsp;<span kind="abugida">ꜿʄƶɟ</span>
 
-*rubber* **§** Noun
+*rubber* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈgu.mi/
 

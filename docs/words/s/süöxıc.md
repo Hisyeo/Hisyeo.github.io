@@ -9,7 +9,7 @@ description: to fold (the folded) § Verb
 
 ### süöxıc&emsp;<span kind="abugida">ɐʄɽıɋ̄ȷ</span>
 
-*to fold (the folded)* **§** Verb
+*to fold (the folded)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsu.o.ʃɪt͡ɕ/
 

@@ -9,7 +9,7 @@ description: sad § Adjective
 
 ### küyö&emsp;<span kind="abugida">ɔʄɀı</span>
 
-*sad* **§** Adjective
+*sad* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈku.jo/
 

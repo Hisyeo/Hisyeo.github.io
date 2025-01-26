@@ -9,7 +9,7 @@ description: reptile § Noun
 
 ### dülüsi&emsp;<span kind="abugida">ʌʄʓʄɐɟ</span>
 
-*reptile* **§** Noun
+*reptile* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdu.lu.si/
 

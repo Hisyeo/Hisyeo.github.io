@@ -9,7 +9,7 @@ description: wound/injury § Noun
 
 ### gülü&emsp;<span kind="abugida">ꜿʄʓʄ</span>
 
-*wound/injury* **§** Noun
+*wound/injury* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈgu.lu/
 

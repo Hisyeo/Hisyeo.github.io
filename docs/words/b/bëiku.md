@@ -9,7 +9,7 @@ description: shell § Noun
 
 ### bëiku&emsp;<span kind="abugida">ʋʇɽɟɔʃ</span>
 
-*shell* **§** Noun
+*shell* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbe.i.kʌ/
 

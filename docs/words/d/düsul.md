@@ -9,7 +9,7 @@ description: grey § Adjective
 
 ### düsul&emsp;<span kind="abugida">ʌʄɐ͊ʃ</span>
 
-*grey* **§** Adjective
+*grey* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈdu.sʌl/
 

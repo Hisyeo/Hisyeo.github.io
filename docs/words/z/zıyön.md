@@ -9,7 +9,7 @@ description: 14 fourteen § Numeral
 
 ### zıyön&emsp;<span kind="abugida">ⱴȷɀ̃ı</span>
 
-*14 fourteen* **§** Numeral
+*14 fourteen* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈd͡ʒɪ.jon/
 

@@ -9,7 +9,7 @@ description: to measure (the measured) § Verb
 
 ### düstu&emsp;<span kind="abugida">ʌ́ʄcʃ</span>
 
-*to measure (the measured)* **§** Verb
+*to measure (the measured)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdus.tʌ/
 

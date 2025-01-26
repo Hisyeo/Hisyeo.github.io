@@ -9,7 +9,7 @@ description: modifier (adjective) § Noun
 
 ### yınyünci&emsp;<span kind="abugida">ɀ̃ȷɀ̃ʄꞇɟ</span>
 
-*modifier (adjective)* **§** Noun
+*modifier (adjective)* **§** [Noun](../../tags/Noun)
 
 **IPA**: /jɪn.ˈjun.t͡ɕi/
 

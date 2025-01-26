@@ -9,7 +9,7 @@ description: eastern § Adjective
 
 ### kılukü&emsp;<span kind="abugida">ɔȷʓʃɔʄ</span>
 
-*eastern* **§** Adjective
+*eastern* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈkɪ.lʌ.ku/
 

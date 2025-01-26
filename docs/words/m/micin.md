@@ -9,7 +9,7 @@ description: fish § Noun
 
 ### micin&emsp;<span kind="abugida">ƶɟꞇ̃ɟ</span>
 
-*fish* **§** Noun
+*fish* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmi.t͡ɕin/
 

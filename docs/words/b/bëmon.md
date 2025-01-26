@@ -9,7 +9,7 @@ description: to promise (a promise) § Verb
 
 ### bëmon&emsp;<span kind="abugida">ʋʇƶ̃</span>
 
-*to promise (a promise)* **§** Verb
+*to promise (a promise)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈbe.mɑn/
 

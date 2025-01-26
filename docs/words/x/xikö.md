@@ -9,7 +9,7 @@ description: flying § Adjective
 
 ### xikö&emsp;<span kind="abugida">ɋɟɔı</span>
 
-*flying* **§** Adjective
+*flying* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʃi.ko/
 

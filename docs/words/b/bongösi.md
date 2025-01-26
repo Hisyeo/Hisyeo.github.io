@@ -9,7 +9,7 @@ description: endangered § Adjective
 
 ### bongösi&emsp;<span kind="abugida">ʋ̃ꜿıɐɟ</span>
 
-*endangered* **§** Adjective
+*endangered* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑn.go.si/
 

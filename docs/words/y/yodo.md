@@ -9,7 +9,7 @@ description: or § Conjunction
 
 ### yodo&emsp;<span kind="abugida">ɀʌ</span>
 
-*or* **§** Conjunction
+*or* **§** [Conjunction](../../tags/Conjunction)
 
 **IPA**: /ˈjɑ.dɑ/
 

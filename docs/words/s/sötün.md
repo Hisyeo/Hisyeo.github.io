@@ -9,7 +9,7 @@ description: column § Noun
 
 ### sötün&emsp;<span kind="abugida">ɐıc̃ʄ</span>
 
-*column* **§** Noun
+*column* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈso.tun/
 

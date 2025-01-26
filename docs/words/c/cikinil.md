@@ -9,7 +9,7 @@ description: ear § Noun
 
 ### cikinil&emsp;<span kind="abugida">ꞇɟɔɟƨ͊ɟ</span>
 
-*ear* **§** Noun
+*ear* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈt͡ɕi.ki.nil/
 

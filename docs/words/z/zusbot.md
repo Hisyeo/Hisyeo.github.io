@@ -9,7 +9,7 @@ description: emotion § Noun
 
 ### zusbot&emsp;<span kind="abugida">ⱴ́ʃʋ̆</span>
 
-*emotion* **§** Noun
+*emotion* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒʌs.bɑt/
 

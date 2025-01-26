@@ -9,7 +9,7 @@ description: victorious § Adjective
 
 ### bilüs&emsp;<span kind="abugida">ʋɟʓ́ʄ</span>
 
-*victorious* **§** Adjective
+*victorious* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbi.lus/
 

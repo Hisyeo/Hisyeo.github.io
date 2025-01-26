@@ -9,7 +9,7 @@ description: nut § Noun
 
 ### özil&emsp;<span kind="abugida">ɽıⱴ͊ɟ</span>
 
-*nut* **§** Noun
+*nut* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈo.d͡ʒil/
 

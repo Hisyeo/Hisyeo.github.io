@@ -9,7 +9,7 @@ description: deep § Adjective
 
 ### zilyois&emsp;<span kind="abugida">ⱴ͊ɟɀɽ́ɟ</span>
 
-*deep* **§** Adjective
+*deep* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈd͡ʒil.jɑ.is/
 

@@ -9,7 +9,7 @@ description: hour § Noun
 
 ### suhot&emsp;<span kind="abugida">ɐʃɂ̆</span>
 
-*hour* **§** Noun
+*hour* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsʌ.hɑt/
 

@@ -9,7 +9,7 @@ description: frozen § Adjective
 
 ### bukü&emsp;<span kind="abugida">ʋʃɔʄ</span>
 
-*frozen* **§** Adjective
+*frozen* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbʌ.ku/
 

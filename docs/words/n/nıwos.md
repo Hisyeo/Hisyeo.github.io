@@ -9,7 +9,7 @@ description: to reside in (a residence) § Verb
 
 ### nıwos&emsp;<span kind="abugida">ƨȷʒ́</span>
 
-*to reside in (a residence)* **§** Verb
+*to reside in (a residence)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈnɪ.wɑs/
 

@@ -9,7 +9,7 @@ description: powder § Noun
 
 ### bölfëlë&emsp;<span kind="abugida">ʋ͊ıɤʇʓʇ</span>
 
-*powder* **§** Noun
+*powder* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbol.fe.le/
 

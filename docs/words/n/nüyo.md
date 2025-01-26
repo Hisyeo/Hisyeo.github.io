@@ -9,7 +9,7 @@ description: stick § Noun
 
 ### nüyo&emsp;<span kind="abugida">ƨʄɀ</span>
 
-*stick* **§** Noun
+*stick* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnu.jɑ/
 

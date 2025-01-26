@@ -9,7 +9,7 @@ description: next § Adjective
 
 ### uklo&emsp;<span kind="abugida">ɽ̑ʃʓ</span>
 
-*next* **§** Adjective
+*next* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʌk.lɑ/
 

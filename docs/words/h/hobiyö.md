@@ -9,7 +9,7 @@ description: to announce (an announcement) § Verb
 
 ### hobiyö&emsp;<span kind="abugida">ɂʋɟɀı</span>
 
-*to announce (an announcement)* **§** Verb
+*to announce (an announcement)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈhɑ.bi.jo/
 

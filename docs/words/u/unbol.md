@@ -9,7 +9,7 @@ description: amber (color) § Adjective
 
 ### unbol&emsp;<span kind="abugida">ɽ̃ʃʋ͊</span>
 
-*amber (color)* **§** Adjective
+*amber (color)* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʌn.bɑl/
 

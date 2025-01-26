@@ -9,7 +9,7 @@ description: collaborator marker (alongside/with) § Preposition
 
 ### ofek&emsp;<span kind="abugida">ɽɤ̑ɿ</span>
 
-*collaborator marker (alongside/with)* **§** Preposition
+*collaborator marker (alongside/with)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈɑ.fɛk/
 

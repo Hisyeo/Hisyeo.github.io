@@ -9,7 +9,7 @@ description: tired/exhausted § Adjective
 
 ### bicüon&emsp;<span kind="abugida">ʋɟꞇʄɽ̃</span>
 
-*tired/exhausted* **§** Adjective
+*tired/exhausted* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbi.t͡ɕu.ɑn/
 

@@ -9,7 +9,7 @@ description: precise/specific § Adjective
 
 ### cönkök&emsp;<span kind="abugida">ꞇ̃ıɔ̑ı</span>
 
-*precise/specific* **§** Adjective
+*precise/specific* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕon.kok/
 

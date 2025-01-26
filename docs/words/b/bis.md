@@ -9,7 +9,7 @@ description: bad § Adjective
 
 ### bis&emsp;<span kind="abugida">ʋ́ɟ</span>
 
-*bad* **§** Adjective
+*bad* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbis/
 

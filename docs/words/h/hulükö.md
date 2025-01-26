@@ -9,7 +9,7 @@ description: lightweight § Adjective
 
 ### hulükö&emsp;<span kind="abugida">ɂʃʓʄɔı</span>
 
-*lightweight* **§** Adjective
+*lightweight* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /hʌ.ˈlu.ko/
 

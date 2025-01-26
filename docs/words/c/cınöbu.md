@@ -9,7 +9,7 @@ description: vermilion § Adjective
 
 ### cınöbu&emsp;<span kind="abugida">ꞇȷƨıʋʃ</span>
 
-*vermilion* **§** Adjective
+*vermilion* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /t͡ɕɪ.ˈno.bʌ/
 

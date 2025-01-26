@@ -9,7 +9,7 @@ description: overt/evident § Adjective
 
 ### wuktomü&emsp;<span kind="abugida">ʒ̑ʃcƶʄ</span>
 
-*overt/evident* **§** Adjective
+*overt/evident* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /wʌk.ˈtɑ.mu/
 

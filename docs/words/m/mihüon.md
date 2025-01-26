@@ -9,7 +9,7 @@ description: beige § Adjective
 
 ### mihüon&emsp;<span kind="abugida">ƶɟɂʄɽ̃</span>
 
-*beige* **§** Adjective
+*beige* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmi.hu.ɑn/
 

@@ -9,7 +9,7 @@ description: caprine § Noun
 
 ### yönë&emsp;<span kind="abugida">ɀıƨʇ</span>
 
-*caprine* **§** Noun
+*caprine* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈjo.ne/
 

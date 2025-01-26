@@ -9,7 +9,7 @@ description: to estimate/guess (an estimation/guess) § Verb
 
 ### onkonu&emsp;<span kind="abugida">ɽ̃ɔƨʃ</span>
 
-*to estimate/guess (an estimation/guess)* **§** Verb
+*to estimate/guess (an estimation/guess)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑn.kɑ.nʌ/
 

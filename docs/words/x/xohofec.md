@@ -9,7 +9,7 @@ description: jellyfish/hydra/anemone § Noun
 
 ### xohofec&emsp;<span kind="abugida">ɋɂɤ̄ɿ</span>
 
-*jellyfish/hydra/anemone* **§** Noun
+*jellyfish/hydra/anemone* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʃɑ.hɑ.fɛt͡ɕ/
 

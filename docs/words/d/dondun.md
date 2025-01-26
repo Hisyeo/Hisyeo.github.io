@@ -9,7 +9,7 @@ description: traditional § Adjective
 
 ### dondun&emsp;<span kind="abugida">ʌ̃ʌ̃ʃ</span>
 
-*traditional* **§** Adjective
+*traditional* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈdɑn.dʌn/
 

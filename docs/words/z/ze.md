@@ -9,7 +9,7 @@ description: aggressive/emotional sentence ender § Postposition
 
 ### ze&emsp;<span kind="abugida">ⱴɿ</span>
 
-*aggressive/emotional sentence ender* **§** Postposition
+*aggressive/emotional sentence ender* **§** [Postposition](../../tags/Postposition)
 
 **IPA**: /ˈd͡ʒɛ/
 

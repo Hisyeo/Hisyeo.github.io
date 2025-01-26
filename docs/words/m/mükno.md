@@ -9,7 +9,7 @@ description: mature/ripe § Adjective
 
 ### mükno&emsp;<span kind="abugida">ƶ̑ʄƨ</span>
 
-*mature/ripe* **§** Adjective
+*mature/ripe* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmuk.nɑ/
 

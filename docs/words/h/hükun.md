@@ -9,7 +9,7 @@ description: to order (a command) § Verb
 
 ### hükun&emsp;<span kind="abugida">ɂʄɔ̃ʃ</span>
 
-*to order (a command)* **§** Verb
+*to order (a command)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈhu.kʌn/
 

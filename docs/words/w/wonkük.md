@@ -9,7 +9,7 @@ description: curved § Adjective
 
 ### wonkük&emsp;<span kind="abugida">ʒ̃ɔ̑ʄ</span>
 
-*curved* **§** Adjective
+*curved* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈwɑn.kuk/
 

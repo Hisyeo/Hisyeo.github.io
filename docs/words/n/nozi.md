@@ -9,7 +9,7 @@ description: venom/poison § Noun
 
 ### nozi&emsp;<span kind="abugida">ƨⱴɟ</span>
 
-*venom/poison* **§** Noun
+*venom/poison* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑ.d͡ʒi/
 

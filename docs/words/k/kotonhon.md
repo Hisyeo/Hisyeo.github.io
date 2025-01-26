@@ -9,7 +9,7 @@ description: sudden/urgent § Adjective
 
 ### kotonhon&emsp;<span kind="abugida">ɔc̃ɂ̃</span>
 
-*sudden/urgent* **§** Adjective
+*sudden/urgent* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈkɑ.tɑn.hɑn/
 

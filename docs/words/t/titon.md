@@ -9,7 +9,7 @@ description: way/path § Noun
 
 ### titon&emsp;<span kind="abugida">cɟc̃</span>
 
-*way/path* **§** Noun
+*way/path* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈti.tɑn/
 

@@ -9,7 +9,7 @@ description: difficult § Adjective
 
 ### kutın&emsp;<span kind="abugida">ɔʃc̃ȷ</span>
 
-*difficult* **§** Adjective
+*difficult* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈkʌ.tɪn/
 

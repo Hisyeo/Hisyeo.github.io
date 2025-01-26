@@ -9,7 +9,7 @@ description: tight/firm § Adjective
 
 ### cies&emsp;<span kind="abugida">ꞇɟɽ́ɿ</span>
 
-*tight/firm* **§** Adjective
+*tight/firm* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕi.ɛs/
 

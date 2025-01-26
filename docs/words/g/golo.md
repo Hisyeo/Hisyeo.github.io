@@ -9,7 +9,7 @@ description: to read (a document) § Verb
 
 ### golo&emsp;<span kind="abugida">ꜿʓ</span>
 
-*to read (a document)* **§** Verb
+*to read (a document)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈgɑ.lɑ/
 

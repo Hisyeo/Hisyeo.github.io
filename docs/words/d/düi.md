@@ -9,7 +9,7 @@ description: 02 two § Numeral
 
 ### düi&emsp;<span kind="abugida">ʌʄɽɟ</span>
 
-*02 two* **§** Numeral
+*02 two* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈdu.i/
 

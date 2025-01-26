@@ -9,7 +9,7 @@ description: to play (a game) § Verb
 
 ### kelo&emsp;<span kind="abugida">ɔɿʓ</span>
 
-*to play (a game)* **§** Verb
+*to play (a game)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈkɛ.lɑ/
 

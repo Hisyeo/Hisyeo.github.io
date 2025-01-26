@@ -9,7 +9,7 @@ description: to forgive (the forgiven) § Verb
 
 ### yünlön&emsp;<span kind="abugida">ɀ̃ʄʓ̃ı</span>
 
-*to forgive (the forgiven)* **§** Verb
+*to forgive (the forgiven)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈjun.lon/
 

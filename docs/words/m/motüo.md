@@ -9,7 +9,7 @@ description: parent § Noun
 
 ### motüo&emsp;<span kind="abugida">ƶcʄɽ</span>
 
-*parent* **§** Noun
+*parent* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmɑ.tu.ɑ/
 

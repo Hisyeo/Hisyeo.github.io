@@ -9,7 +9,7 @@ description: friend § Noun
 
 ### sütüö&emsp;<span kind="abugida">ɐʄcʄɽı</span>
 
-*friend* **§** Noun
+*friend* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsu.tu.o/
 

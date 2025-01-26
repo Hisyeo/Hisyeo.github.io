@@ -9,7 +9,7 @@ description: to touch (a surface) § Verb
 
 ### okülo&emsp;<span kind="abugida">ɽɔʄʓ</span>
 
-*to touch (a surface)* **§** Verb
+*to touch (a surface)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑ.ku.lɑ/
 

@@ -9,7 +9,7 @@ description: language § Noun
 
 ### hiskünco&emsp;<span kind="abugida">ɂ́ɟɔ̃ʄꞇ</span>
 
-*language* **§** Noun
+*language* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhis.kun.t͡ɕɑ/
 

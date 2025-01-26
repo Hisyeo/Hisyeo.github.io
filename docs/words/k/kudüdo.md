@@ -9,7 +9,7 @@ description: to harvest (a harvest) § Verb
 
 ### kudüdo&emsp;<span kind="abugida">ɔʃʌʄʌ</span>
 
-*to harvest (a harvest)* **§** Verb
+*to harvest (a harvest)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /kʌ.ˈdu.dɑ/
 

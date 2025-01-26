@@ -9,7 +9,7 @@ description: criminal § Adjective
 
 ### günokol&emsp;<span kind="abugida">ꜿʄƨɔ͊</span>
 
-*criminal* **§** Adjective
+*criminal* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgu.nɑ.kɑl/
 

@@ -9,7 +9,7 @@ description: to hate (a hated entity) § Verb
 
 ### toüyen&emsp;<span kind="abugida">cɽʄɀ̃ɿ</span>
 
-*to hate (a hated entity)* **§** Verb
+*to hate (a hated entity)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈtɑ.u.jɛn/
 

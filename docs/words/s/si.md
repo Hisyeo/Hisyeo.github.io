@@ -9,7 +9,7 @@ description: perfect verb particle § Particle
 
 ### si&emsp;<span kind="abugida">ɐɟ</span>
 
-*perfect verb particle* **§** Particle
+*perfect verb particle* **§** [Particle](../../tags/Particle)
 
 **IPA**: /ˈsi/
 

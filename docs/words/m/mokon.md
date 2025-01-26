@@ -9,7 +9,7 @@ description: to eat (food) § Verb
 
 ### mokon&emsp;<span kind="abugida">ƶɔ̃</span>
 
-*to eat (food)* **§** Verb
+*to eat (food)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈmɑ.kɑn/
 

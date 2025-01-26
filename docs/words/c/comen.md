@@ -9,7 +9,7 @@ description: lawn/meadow § Noun
 
 ### comen&emsp;<span kind="abugida">ꞇƶ̃ɿ</span>
 
-*lawn/meadow* **§** Noun
+*lawn/meadow* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈt͡ɕɑ.mɛn/
 

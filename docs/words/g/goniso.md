@@ -9,7 +9,7 @@ description: to think (a thought/opinion) § Verb
 
 ### goniso&emsp;<span kind="abugida">ꜿƨɟɐ</span>
 
-*to think (a thought/opinion)* **§** Verb
+*to think (a thought/opinion)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈgɑ.ni.sɑ/
 

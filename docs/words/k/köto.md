@@ -9,7 +9,7 @@ description: to talk (speech) § Verb
 
 ### köto&emsp;<span kind="abugida">ɔıc</span>
 
-*to talk (speech)* **§** Verb
+*to talk (speech)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈko.tɑ/
 

@@ -9,7 +9,7 @@ description: organ/member § Noun
 
 ### kukwon&emsp;<span kind="abugida">ɔ̑ʃʒ̃</span>
 
-*organ/member* **§** Noun
+*organ/member* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkʌk.wɑn/
 

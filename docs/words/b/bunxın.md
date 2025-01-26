@@ -9,7 +9,7 @@ description: innate/native § Adjective
 
 ### bunxın&emsp;<span kind="abugida">ʋ̃ʃɋ̃ȷ</span>
 
-*innate/native* **§** Adjective
+*innate/native* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbʌn.ʃɪn/
 

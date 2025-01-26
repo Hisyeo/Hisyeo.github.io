@@ -9,7 +9,7 @@ description: rhyme/verse § Noun
 
 ### kino&emsp;<span kind="abugida">ɔɟƨ</span>
 
-*rhyme/verse* **§** Noun
+*rhyme/verse* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈki.nɑ/
 

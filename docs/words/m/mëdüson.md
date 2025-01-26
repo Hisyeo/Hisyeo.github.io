@@ -9,7 +9,7 @@ description: laborious § Adjective
 
 ### mëdüson&emsp;<span kind="abugida">ƶʇʌʄɐ̃</span>
 
-*laborious* **§** Adjective
+*laborious* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈme.du.sɑn/
 

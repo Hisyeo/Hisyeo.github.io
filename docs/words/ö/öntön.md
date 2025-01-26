@@ -9,7 +9,7 @@ description: to wear (clothing) § Verb
 
 ### öntön&emsp;<span kind="abugida">ɽ̃ıc̃ı</span>
 
-*to wear (clothing)* **§** Verb
+*to wear (clothing)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈon.ton/
 

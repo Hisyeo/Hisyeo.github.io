@@ -9,7 +9,7 @@ description: key § Noun
 
 ### nöilu&emsp;<span kind="abugida">ƨıɽɟʓʃ</span>
 
-*key* **§** Noun
+*key* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈno.i.lʌ/
 

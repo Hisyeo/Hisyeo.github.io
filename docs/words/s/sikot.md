@@ -9,7 +9,7 @@ description: brush/comb/rake/broom § Noun
 
 ### sikot&emsp;<span kind="abugida">ɐɟɔ̆</span>
 
-*brush/comb/rake/broom* **§** Noun
+*brush/comb/rake/broom* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsi.kɑt/
 

@@ -9,7 +9,7 @@ description: tone § Noun
 
 ### nodu&emsp;<span kind="abugida">ƨʌʃ</span>
 
-*tone* **§** Noun
+*tone* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑ.dʌ/
 

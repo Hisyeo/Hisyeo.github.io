@@ -9,7 +9,7 @@ description: inside § Noun
 
 ### limien&emsp;<span kind="abugida">ʓɟƶɟɽ̃ɿ</span>
 
-*inside* **§** Noun
+*inside* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈli.mi.ɛn/
 

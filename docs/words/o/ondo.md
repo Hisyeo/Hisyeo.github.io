@@ -9,7 +9,7 @@ description: to prepare (a preparation) § Verb
 
 ### ondo&emsp;<span kind="abugida">ɽ̃ʌ</span>
 
-*to prepare (a preparation)* **§** Verb
+*to prepare (a preparation)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑn.dɑ/
 

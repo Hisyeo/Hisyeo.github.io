@@ -9,7 +9,7 @@ description: abuse § Noun
 
 ### nulühu&emsp;<span kind="abugida">ƨʃʓʄɂʃ</span>
 
-*abuse* **§** Noun
+*abuse* **§** [Noun](../../tags/Noun)
 
 **IPA**: /nʌ.ˈlu.hʌ/
 

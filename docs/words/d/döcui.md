@@ -9,7 +9,7 @@ description: toy § Noun
 
 ### döcui&emsp;<span kind="abugida">ʌıꞇʃɽɟ</span>
 
-*toy* **§** Noun
+*toy* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdo.t͡ɕʌ.i/
 

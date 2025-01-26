@@ -9,7 +9,7 @@ description: to pay (payment) § Verb
 
 ### cıfü&emsp;<span kind="abugida">ꞇȷɤʄ</span>
 
-*to pay (payment)* **§** Verb
+*to pay (payment)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈt͡ɕɪ.fu/
 

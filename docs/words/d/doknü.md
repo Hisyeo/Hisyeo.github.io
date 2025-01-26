@@ -9,7 +9,7 @@ description: to cover (the covered) § Verb
 
 ### doknü&emsp;<span kind="abugida">ʌ̑ƨʄ</span>
 
-*to cover (the covered)* **§** Verb
+*to cover (the covered)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdɑk.nu/
 

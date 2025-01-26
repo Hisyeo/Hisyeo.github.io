@@ -9,7 +9,7 @@ description: sand § Noun
 
 ### duwöni&emsp;<span kind="abugida">ʌʃʒıƨɟ</span>
 
-*sand* **§** Noun
+*sand* **§** [Noun](../../tags/Noun)
 
 **IPA**: /dʌ.ˈwo.ni/
 

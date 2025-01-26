@@ -9,7 +9,7 @@ description: sacred § Adjective
 
 ### ködus&emsp;<span kind="abugida">ɔıʌ́ʃ</span>
 
-*sacred* **§** Adjective
+*sacred* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈko.dʌs/
 

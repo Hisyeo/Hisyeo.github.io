@@ -9,7 +9,7 @@ description: naked § Adjective
 
 ### nungo&emsp;<span kind="abugida">ƨ̃ʃꜿ</span>
 
-*naked* **§** Adjective
+*naked* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnʌn.gɑ/
 

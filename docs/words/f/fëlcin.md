@@ -9,7 +9,7 @@ description: last/latest § Adjective
 
 ### fëlcin&emsp;<span kind="abugida">ɤ͊ʇꞇ̃ɟ</span>
 
-*last/latest* **§** Adjective
+*last/latest* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈfel.t͡ɕin/
 

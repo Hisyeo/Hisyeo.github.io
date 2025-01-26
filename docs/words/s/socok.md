@@ -9,7 +9,7 @@ description: to start (startable entity) § Verb
 
 ### socok&emsp;<span kind="abugida">ɐꞇ̑</span>
 
-*to start (startable entity)* **§** Verb
+*to start (startable entity)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsɑ.t͡ɕɑk/
 

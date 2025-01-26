@@ -9,7 +9,7 @@ description: charge/fee/tax § Noun
 
 ### cıno&emsp;<span kind="abugida">ꞇȷƨ</span>
 
-*charge/fee/tax* **§** Noun
+*charge/fee/tax* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈt͡ɕɪ.nɑ/
 

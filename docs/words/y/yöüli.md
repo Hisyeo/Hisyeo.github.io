@@ -9,7 +9,7 @@ description: beneficial § Adjective
 
 ### yöüli&emsp;<span kind="abugida">ɀıɽʄʓɟ</span>
 
-*beneficial* **§** Adjective
+*beneficial* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈjo.u.li/
 

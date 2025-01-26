@@ -9,7 +9,7 @@ description: moving § Adjective
 
 ### lö&emsp;<span kind="abugida">ʓı</span>
 
-*moving* **§** Adjective
+*moving* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈlo/
 

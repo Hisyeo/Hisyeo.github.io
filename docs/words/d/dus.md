@@ -9,7 +9,7 @@ description: 10 ten § Numeral
 
 ### dus&emsp;<span kind="abugida">ʌ́ʃ</span>
 
-*10 ten* **§** Numeral
+*10 ten* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈdʌs/
 

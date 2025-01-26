@@ -9,7 +9,7 @@ description: instantaneous (second) § Adjective
 
 ### sünkon&emsp;<span kind="abugida">ɐ̃ʄɔ̃</span>
 
-*instantaneous (second)* **§** Adjective
+*instantaneous (second)* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsun.kɑn/
 

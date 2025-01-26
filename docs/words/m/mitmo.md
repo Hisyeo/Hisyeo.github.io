@@ -9,7 +9,7 @@ description: colony § Noun
 
 ### mitmo&emsp;<span kind="abugida">ƶ̆ɟƶ</span>
 
-*colony* **§** Noun
+*colony* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmit.mɑ/
 

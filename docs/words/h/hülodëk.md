@@ -9,7 +9,7 @@ description: waste § Noun
 
 ### hülodëk&emsp;<span kind="abugida">ɂʄʓʌ̑ʇ</span>
 
-*waste* **§** Noun
+*waste* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhu.lɑ.dek/
 

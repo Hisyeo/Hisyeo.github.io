@@ -9,7 +9,7 @@ description: fertile/productive § Adjective
 
 ### süböl&emsp;<span kind="abugida">ɐʄʋ͊ı</span>
 
-*fertile/productive* **§** Adjective
+*fertile/productive* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsu.bol/
 

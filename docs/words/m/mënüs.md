@@ -9,7 +9,7 @@ description: fewer/less § Determiner
 
 ### mënüs&emsp;<span kind="abugida">ƶʇƨ́ʄ</span>
 
-*fewer/less* **§** Determiner
+*fewer/less* **§** [Determiner](../../tags/Determiner)
 
 **IPA**: /ˈme.nus/
 

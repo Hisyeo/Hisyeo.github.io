@@ -9,7 +9,7 @@ description: breast/chest § Noun
 
 ### tetëk&emsp;<span kind="abugida">cɿc̑ʇ</span>
 
-*breast/chest* **§** Noun
+*breast/chest* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɛ.tek/
 

@@ -9,7 +9,7 @@ description: comparison § Noun
 
 ### tülöno&emsp;<span kind="abugida">cʄʓıƨ</span>
 
-*comparison* **§** Noun
+*comparison* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtu.lo.nɑ/
 

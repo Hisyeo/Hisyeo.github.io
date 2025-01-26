@@ -9,7 +9,7 @@ description: value/cost § Noun
 
 ### wilüwo&emsp;<span kind="abugida">ʒɟʓʄʒ</span>
 
-*value/cost* **§** Noun
+*value/cost* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwi.lu.wɑ/
 

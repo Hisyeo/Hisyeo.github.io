@@ -9,7 +9,7 @@ description: to smell (a scent) § Verb
 
 ### unon&emsp;<span kind="abugida">ɽʃƨ̃</span>
 
-*to smell (a scent)* **§** Verb
+*to smell (a scent)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈʌ.nɑn/
 

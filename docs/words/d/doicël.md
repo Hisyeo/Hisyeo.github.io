@@ -9,7 +9,7 @@ description: to capture/intercept (the captured/intercepted) § Verb
 
 ### doicël&emsp;<span kind="abugida">ʌɽɟꞇ͊ʇ</span>
 
-*to capture/intercept (the captured/intercepted)* **§** Verb
+*to capture/intercept (the captured/intercepted)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdɑ.i.t͡ɕel/
 

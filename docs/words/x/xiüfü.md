@@ -9,7 +9,7 @@ description: to repair (the repaired) § Verb
 
 ### xiüfü&emsp;<span kind="abugida">ɋɟɽʄɤʄ</span>
 
-*to repair (the repaired)* **§** Verb
+*to repair (the repaired)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈʃi.u.fu/
 

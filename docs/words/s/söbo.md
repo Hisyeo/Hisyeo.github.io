@@ -9,7 +9,7 @@ description: side/beside § Noun
 
 ### söbo&emsp;<span kind="abugida">ɐıʋ</span>
 
-*side/beside* **§** Noun
+*side/beside* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈso.bɑ/
 

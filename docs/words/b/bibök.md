@@ -9,7 +9,7 @@ description: white § Adjective
 
 ### bibök&emsp;<span kind="abugida">ʋɟʋ̑ı</span>
 
-*white* **§** Adjective
+*white* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbi.bok/
 

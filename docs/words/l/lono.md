@@ -9,7 +9,7 @@ description: day § Noun
 
 ### lono&emsp;<span kind="abugida">ʓƨ</span>
 
-*day* **§** Noun
+*day* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlɑ.nɑ/
 

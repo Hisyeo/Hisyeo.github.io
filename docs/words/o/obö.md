@@ -9,7 +9,7 @@ description: arm § Noun
 
 ### obö&emsp;<span kind="abugida">ɽʋı</span>
 
-*arm* **§** Noun
+*arm* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑ.bo/
 

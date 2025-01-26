@@ -9,7 +9,7 @@ description: melted § Adjective
 
 ### gölüo&emsp;<span kind="abugida">ꜿıʓʄɽ</span>
 
-*melted* **§** Adjective
+*melted* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgo.lu.ɑ/
 

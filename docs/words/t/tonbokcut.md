@@ -9,7 +9,7 @@ description: protein § Noun
 
 ### tonbokcut&emsp;<span kind="abugida">c̃ʋ̑ꞇ̆ʃ</span>
 
-*protein* **§** Noun
+*protein* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɑn.bɑk.t͡ɕʌt/
 

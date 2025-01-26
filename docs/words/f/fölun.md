@@ -9,7 +9,7 @@ description: to want (a desire) § Verb
 
 ### fölun&emsp;<span kind="abugida">ɤıʓ̃ʃ</span>
 
-*to want (a desire)* **§** Verb
+*to want (a desire)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈfo.lʌn/
 

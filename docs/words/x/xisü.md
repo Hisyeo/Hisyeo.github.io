@@ -9,7 +9,7 @@ description: secular/profane/worldly § Adjective
 
 ### xisü&emsp;<span kind="abugida">ɋɟɐʄ</span>
 
-*secular/profane/worldly* **§** Adjective
+*secular/profane/worldly* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈʃi.su/
 

@@ -9,7 +9,7 @@ description: guts § Noun
 
 ### xofö&emsp;<span kind="abugida">ɋɤı</span>
 
-*guts* **§** Noun
+*guts* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʃɑ.fo/
 

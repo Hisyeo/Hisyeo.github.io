@@ -9,7 +9,7 @@ description: wax § Noun
 
 ### füus&emsp;<span kind="abugida">ɤʄɽ́ʃ</span>
 
-*wax* **§** Noun
+*wax* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfu.ʌs/
 

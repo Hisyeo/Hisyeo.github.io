@@ -9,7 +9,7 @@ description: pasta § Noun
 
 ### tolıyo&emsp;<span kind="abugida">cʓȷɀ</span>
 
-*pasta* **§** Noun
+*pasta* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɑ.lɪ.jɑ/
 

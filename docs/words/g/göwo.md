@@ -9,7 +9,7 @@ description: foolish/obtuse § Adjective
 
 ### göwo&emsp;<span kind="abugida">ꜿıʒ</span>
 
-*foolish/obtuse* **§** Adjective
+*foolish/obtuse* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgo.wɑ/
 

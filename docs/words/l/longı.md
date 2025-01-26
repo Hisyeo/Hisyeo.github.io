@@ -9,7 +9,7 @@ description: color § Noun
 
 ### longı&emsp;<span kind="abugida">ʓ̃ꜿȷ</span>
 
-*color* **§** Noun
+*color* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlɑn.gɪ/
 

@@ -9,7 +9,7 @@ description: bulb § Noun
 
 ### lönkın&emsp;<span kind="abugida">ʓ̃ıɔ̃ȷ</span>
 
-*bulb* **§** Noun
+*bulb* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlon.kɪn/
 

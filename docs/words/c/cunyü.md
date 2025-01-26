@@ -9,7 +9,7 @@ description: cold § Adjective
 
 ### cunyü&emsp;<span kind="abugida">ꞇ̃ʃɀʄ</span>
 
-*cold* **§** Adjective
+*cold* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕʌn.ju/
 

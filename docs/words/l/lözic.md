@@ -9,7 +9,7 @@ description: to give birth to (a baby) § Verb
 
 ### lözic&emsp;<span kind="abugida">ʓıⱴ̄ɟ</span>
 
-*to give birth to (a baby)* **§** Verb
+*to give birth to (a baby)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈlo.d͡ʒit͡ɕ/
 

@@ -9,7 +9,7 @@ description: location/time marker (at) § Preposition
 
 ### hoi&emsp;<span kind="abugida">ɂɽɟ</span>
 
-*location/time marker (at)* **§** Preposition
+*location/time marker (at)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈhɑ.i/
 

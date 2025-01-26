@@ -9,7 +9,7 @@ description: neutral § Adjective
 
 ### didözü&emsp;<span kind="abugida">ʌɟʌıⱴʄ</span>
 
-*neutral* **§** Adjective
+*neutral* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈdi.do.d͡ʒu/
 

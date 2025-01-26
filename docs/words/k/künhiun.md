@@ -9,7 +9,7 @@ description: step/pace § Noun
 
 ### künhiun&emsp;<span kind="abugida">ɔ̃ʄɂɟɽ̃ʃ</span>
 
-*step/pace* **§** Noun
+*step/pace* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkun.hi.ʌn/
 

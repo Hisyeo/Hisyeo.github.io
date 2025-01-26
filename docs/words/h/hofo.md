@@ -9,7 +9,7 @@ description: to plead (a plea) § Verb
 
 ### hofo&emsp;<span kind="abugida">ɂɤ</span>
 
-*to plead (a plea)* **§** Verb
+*to plead (a plea)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈhɑ.fɑ/
 

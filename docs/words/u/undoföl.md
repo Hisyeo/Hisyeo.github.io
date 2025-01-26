@@ -9,7 +9,7 @@ description: legume § Noun
 
 ### undoföl&emsp;<span kind="abugida">ɽ̃ʃʌɤ͊ı</span>
 
-*legume* **§** Noun
+*legume* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ʌn.ˈdɑ.fol/
 

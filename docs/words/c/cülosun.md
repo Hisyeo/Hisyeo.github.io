@@ -9,7 +9,7 @@ description: to allow (the allowed) § Verb
 
 ### cülosun&emsp;<span kind="abugida">ꞇʄʓɐ̃ʃ</span>
 
-*to allow (the allowed)* **§** Verb
+*to allow (the allowed)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈt͡ɕu.lɑ.sʌn/
 

@@ -9,7 +9,7 @@ description: spirit/ghost § Noun
 
 ### lüok&emsp;<span kind="abugida">ʓʄɽ̑</span>
 
-*spirit/ghost* **§** Noun
+*spirit/ghost* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlu.ɑk/
 

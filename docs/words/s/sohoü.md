@@ -9,7 +9,7 @@ description: healthy § Adjective
 
 ### sohoü&emsp;<span kind="abugida">ɐɂɽʄ</span>
 
-*healthy* **§** Adjective
+*healthy* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsɑ.hɑ.u/
 

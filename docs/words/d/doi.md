@@ -9,7 +9,7 @@ description: string § Noun
 
 ### doi&emsp;<span kind="abugida">ʌɽɟ</span>
 
-*string* **§** Noun
+*string* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdɑ.i/
 

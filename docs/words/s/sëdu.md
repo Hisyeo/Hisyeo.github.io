@@ -9,7 +9,7 @@ description: station/garage § Noun
 
 ### sëdu&emsp;<span kind="abugida">ɐʇʌʃ</span>
 
-*station/garage* **§** Noun
+*station/garage* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈse.dʌ/
 

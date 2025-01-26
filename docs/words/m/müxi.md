@@ -9,7 +9,7 @@ description: insect § Noun
 
 ### müxi&emsp;<span kind="abugida">ƶʄɋɟ</span>
 
-*insect* **§** Noun
+*insect* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmu.ʃi/
 

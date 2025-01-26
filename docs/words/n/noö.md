@@ -9,7 +9,7 @@ description: wave § Noun
 
 ### noö&emsp;<span kind="abugida">ƨɽı</span>
 
-*wave* **§** Noun
+*wave* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑ.o/
 

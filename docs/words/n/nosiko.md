@@ -9,7 +9,7 @@ description: nose § Noun
 
 ### nosiko&emsp;<span kind="abugida">ƨɐɟɔ</span>
 
-*nose* **§** Noun
+*nose* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑ.si.kɑ/
 

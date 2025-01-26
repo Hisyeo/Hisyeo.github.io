@@ -9,7 +9,7 @@ description: full/complete § Adjective
 
 ### mülü&emsp;<span kind="abugida">ƶʄʓʄ</span>
 
-*full/complete* **§** Adjective
+*full/complete* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmu.lu/
 

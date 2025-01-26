@@ -9,7 +9,7 @@ description: hiss/fizz/whistle § Noun
 
 ### xiülo&emsp;<span kind="abugida">ɋɟɽʄʓ</span>
 
-*hiss/fizz/whistle* **§** Noun
+*hiss/fizz/whistle* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʃi.u.lɑ/
 

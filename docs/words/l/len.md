@@ -9,7 +9,7 @@ description: strong § Adjective
 
 ### len&emsp;<span kind="abugida">ʓ̃ɿ</span>
 
-*strong* **§** Adjective
+*strong* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈlɛn/
 

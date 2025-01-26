@@ -9,7 +9,7 @@ description: stretched § Adjective
 
 ### gelmıs&emsp;<span kind="abugida">ꜿ͊ɿƶ́ȷ</span>
 
-*stretched* **§** Adjective
+*stretched* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈgɛl.mɪs/
 

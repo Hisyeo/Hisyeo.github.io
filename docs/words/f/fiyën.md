@@ -9,7 +9,7 @@ description: 100 hundred § Numeral
 
 ### fiyën&emsp;<span kind="abugida">ɤɟɀ̃ʇ</span>
 
-*100 hundred* **§** Numeral
+*100 hundred* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈfi.jen/
 

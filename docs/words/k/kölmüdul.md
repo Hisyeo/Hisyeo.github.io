@@ -9,7 +9,7 @@ description: purchase § Noun
 
 ### kölmüdul&emsp;<span kind="abugida">ɔ͊ıƶʄʌ͊ʃ</span>
 
-*purchase* **§** Noun
+*purchase* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkol.mu.dʌl/
 

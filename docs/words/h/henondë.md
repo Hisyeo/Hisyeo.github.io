@@ -9,7 +9,7 @@ description: hanging § Adjective
 
 ### henondë&emsp;<span kind="abugida">ɂɿƨ̃ʌʇ</span>
 
-*hanging* **§** Adjective
+*hanging* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /hɛ.ˈnɑn.de/
 

@@ -9,7 +9,7 @@ description: sibling § Noun
 
 ### sıskın&emsp;<span kind="abugida">ɐ́ȷɔ̃ȷ</span>
 
-*sibling* **§** Noun
+*sibling* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsɪs.kɪn/
 

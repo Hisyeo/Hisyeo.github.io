@@ -9,7 +9,7 @@ description: they/them § Pronoun
 
 ### niün&emsp;<span kind="abugida">ƨɟɽ̃ʄ</span>
 
-*they/them* **§** Pronoun
+*they/them* **§** [Pronoun](../../tags/Pronoun)
 
 **IPA**: /ˈni.un/
 

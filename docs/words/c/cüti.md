@@ -9,7 +9,7 @@ description: small § Adjective
 
 ### cüti&emsp;<span kind="abugida">ꞇʄcɟ</span>
 
-*small* **§** Adjective
+*small* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕu.ti/
 

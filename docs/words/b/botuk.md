@@ -9,7 +9,7 @@ description: flat § Adjective
 
 ### botuk&emsp;<span kind="abugida">ʋc̑ʃ</span>
 
-*flat* **§** Adjective
+*flat* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑ.tʌk/
 

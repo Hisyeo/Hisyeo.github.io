@@ -9,7 +9,7 @@ description: fruit § Noun
 
 ### küöxı&emsp;<span kind="abugida">ɔʄɽıɋȷ</span>
 
-*fruit* **§** Noun
+*fruit* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈku.o.ʃɪ/
 

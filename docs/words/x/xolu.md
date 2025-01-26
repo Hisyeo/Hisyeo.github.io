@@ -9,7 +9,7 @@ description: bowl/cup § Noun
 
 ### xolu&emsp;<span kind="abugida">ɋʓʃ</span>
 
-*bowl/cup* **§** Noun
+*bowl/cup* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʃɑ.lʌ/
 

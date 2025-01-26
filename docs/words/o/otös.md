@@ -9,7 +9,7 @@ description: hard § Adjective
 
 ### otös&emsp;<span kind="abugida">ɽćı</span>
 
-*hard* **§** Adjective
+*hard* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈɑ.tos/
 

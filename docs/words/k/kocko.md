@@ -9,7 +9,7 @@ description: rough § Adjective
 
 ### kocko&emsp;<span kind="abugida">ɔ̄ɔ</span>
 
-*rough* **§** Adjective
+*rough* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈkɑt͡ɕ.kɑ/
 

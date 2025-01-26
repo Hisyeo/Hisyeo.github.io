@@ -9,7 +9,7 @@ description: collapser/amender particle § Particle
 
 ### et&emsp;<span kind="abugida">ɽ̆ɿ</span>
 
-*collapser/amender particle* **§** Particle
+*collapser/amender particle* **§** [Particle](../../tags/Particle)
 
 **IPA**: /ˈɛt/
 

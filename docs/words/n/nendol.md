@@ -9,7 +9,7 @@ description: famous § Adjective
 
 ### nendol&emsp;<span kind="abugida">ƨ̃ɿʌ͊</span>
 
-*famous* **§** Adjective
+*famous* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnɛn.dɑl/
 

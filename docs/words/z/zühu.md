@@ -9,7 +9,7 @@ description: tongue § Noun
 
 ### zühu&emsp;<span kind="abugida">ⱴʄɂʃ</span>
 
-*tongue* **§** Noun
+*tongue* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒu.hʌ/
 

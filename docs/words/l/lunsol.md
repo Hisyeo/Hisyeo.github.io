@@ -9,7 +9,7 @@ description: to launch (a projectile) § Verb
 
 ### lunsol&emsp;<span kind="abugida">ʓ̃ʃɐ͊</span>
 
-*to launch (a projectile)* **§** Verb
+*to launch (a projectile)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈlʌn.sɑl/
 

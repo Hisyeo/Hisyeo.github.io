@@ -9,7 +9,7 @@ description: to taste (a flavor) § Verb
 
 ### sobölë&emsp;<span kind="abugida">ɐʋıʓʇ</span>
 
-*to taste (a flavor)* **§** Verb
+*to taste (a flavor)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsɑ.bo.le/
 

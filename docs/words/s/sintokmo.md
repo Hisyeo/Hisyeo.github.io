@@ -9,7 +9,7 @@ description: phrase § Noun
 
 ### sintokmo&emsp;<span kind="abugida">ɐ̃ɟc̑ƶ</span>
 
-*phrase* **§** Noun
+*phrase* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsin.tɑk.mɑ/
 

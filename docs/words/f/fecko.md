@@ -9,7 +9,7 @@ description: liquid § Noun
 
 ### fecko&emsp;<span kind="abugida">ɤ̄ɿɔ</span>
 
-*liquid* **§** Noun
+*liquid* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfɛt͡ɕ.kɑ/
 

@@ -9,7 +9,7 @@ description: late § Adjective
 
 ### müun&emsp;<span kind="abugida">ƶʄɽ̃ʃ</span>
 
-*late* **§** Adjective
+*late* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmu.ʌn/
 

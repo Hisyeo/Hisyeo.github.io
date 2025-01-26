@@ -9,7 +9,7 @@ description: evidence marker (or so) § Preposition
 
 ### oldıs&emsp;<span kind="abugida">ɽ͊ʌ́ȷ</span>
 
-*evidence marker (or so)* **§** Preposition
+*evidence marker (or so)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈɑl.dɪs/
 

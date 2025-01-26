@@ -9,7 +9,7 @@ description: old § Adjective
 
 ### nokdo&emsp;<span kind="abugida">ƨ̑ʌ</span>
 
-*old* **§** Adjective
+*old* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnɑk.dɑ/
 

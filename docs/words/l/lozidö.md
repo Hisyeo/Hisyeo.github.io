@@ -9,7 +9,7 @@ description: heart § Noun
 
 ### lozidö&emsp;<span kind="abugida">ʓⱴɟʌı</span>
 
-*heart* **§** Noun
+*heart* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlɑ.d͡ʒi.do/
 

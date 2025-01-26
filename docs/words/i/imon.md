@@ -9,7 +9,7 @@ description: to trust (a belief) § Verb
 
 ### imon&emsp;<span kind="abugida">ɽɟƶ̃</span>
 
-*to trust (a belief)* **§** Verb
+*to trust (a belief)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈi.mɑn/
 

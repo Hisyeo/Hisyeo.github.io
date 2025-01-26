@@ -9,7 +9,7 @@ description: glass § Noun
 
 ### oboki&emsp;<span kind="abugida">ɽʋɔɟ</span>
 
-*glass* **§** Noun
+*glass* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑ.bɑ.ki/
 

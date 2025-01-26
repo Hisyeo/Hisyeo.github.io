@@ -9,7 +9,7 @@ description: row § Noun
 
 ### filo&emsp;<span kind="abugida">ɤɟʓ</span>
 
-*row* **§** Noun
+*row* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfi.lɑ/
 

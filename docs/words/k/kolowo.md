@@ -9,7 +9,7 @@ description: art § Noun
 
 ### kolowo&emsp;<span kind="abugida">ɔʓʒ</span>
 
-*art* **§** Noun
+*art* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkɑ.lɑ.wɑ/
 

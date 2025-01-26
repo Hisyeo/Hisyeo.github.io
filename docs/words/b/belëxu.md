@@ -9,7 +9,7 @@ description: to mark (a target) § Verb
 
 ### belëxu&emsp;<span kind="abugida">ʋɿʓʇɋʃ</span>
 
-*to mark (a target)* **§** Verb
+*to mark (a target)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /bɛ.ˈle.ʃʌ/
 

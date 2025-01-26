@@ -9,7 +9,7 @@ description: wing § Noun
 
 ### nıxin&emsp;<span kind="abugida">ƨȷɋ̃ɟ</span>
 
-*wing* **§** Noun
+*wing* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɪ.ʃin/
 

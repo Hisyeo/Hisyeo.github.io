@@ -9,7 +9,7 @@ description: journey/trip/voyage § Noun
 
 ### wüöt&emsp;<span kind="abugida">ʒʄɽ̆ı</span>
 
-*journey/trip/voyage* **§** Noun
+*journey/trip/voyage* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwu.ot/
 

@@ -9,7 +9,7 @@ description: to lose/waste (the lost/wasted) § Verb
 
 ### nocido&emsp;<span kind="abugida">ƨꞇɟʌ</span>
 
-*to lose/waste (the lost/wasted)* **§** Verb
+*to lose/waste (the lost/wasted)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈnɑ.t͡ɕi.dɑ/
 

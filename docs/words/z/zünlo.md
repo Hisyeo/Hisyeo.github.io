@@ -9,7 +9,7 @@ description: series/sentence § Noun
 
 ### zünlo&emsp;<span kind="abugida">ⱴ̃ʄʓ</span>
 
-*series/sentence* **§** Noun
+*series/sentence* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒun.lɑ/
 

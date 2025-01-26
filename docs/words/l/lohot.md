@@ -9,7 +9,7 @@ description: comfortable § Adjective
 
 ### lohot&emsp;<span kind="abugida">ʓɂ̆</span>
 
-*comfortable* **§** Adjective
+*comfortable* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈlɑ.hɑt/
 

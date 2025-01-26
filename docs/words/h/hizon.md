@@ -9,7 +9,7 @@ description: excited § Adjective
 
 ### hizon&emsp;<span kind="abugida">ɂɟⱴ̃</span>
 
-*excited* **§** Adjective
+*excited* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhi.d͡ʒɑn/
 

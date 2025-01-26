@@ -9,7 +9,7 @@ description: to examine [for] (an examination) § Verb
 
 ### fohoso&emsp;<span kind="abugida">ɤɂɐ</span>
 
-*to examine [for] (an examination)* **§** Verb
+*to examine [for] (an examination)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈfɑ.hɑ.sɑ/
 

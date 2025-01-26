@@ -9,7 +9,7 @@ description: to celebrate (a party) § Verb
 
 ### köndodü&emsp;<span kind="abugida">ɔ̃ıʌʌʄ</span>
 
-*to celebrate (a party)* **§** Verb
+*to celebrate (a party)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈkon.dɑ.du/
 

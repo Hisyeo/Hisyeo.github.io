@@ -9,7 +9,7 @@ description: generation § Noun
 
 ### zızıme&emsp;<span kind="abugida">ⱴȷⱴȷƶɿ</span>
 
-*generation* **§** Noun
+*generation* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒɪ.d͡ʒɪ.mɛ/
 

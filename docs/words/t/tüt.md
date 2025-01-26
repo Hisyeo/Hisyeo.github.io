@@ -9,7 +9,7 @@ description: hot § Adjective
 
 ### tüt&emsp;<span kind="abugida">c̆ʄ</span>
 
-*hot* **§** Adjective
+*hot* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈtut/
 

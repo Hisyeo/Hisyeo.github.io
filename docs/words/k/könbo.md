@@ -9,7 +9,7 @@ description: shaking § Adjective
 
 ### könbo&emsp;<span kind="abugida">ɔ̃ıʋ</span>
 
-*shaking* **§** Adjective
+*shaking* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈkon.bɑ/
 

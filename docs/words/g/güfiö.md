@@ -9,7 +9,7 @@ description: to push (the pushed/repelled) § Verb
 
 ### güfiö&emsp;<span kind="abugida">ꜿʄɤɟɽı</span>
 
-*to push (the pushed/repelled)* **§** Verb
+*to push (the pushed/repelled)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈgu.fi.o/
 

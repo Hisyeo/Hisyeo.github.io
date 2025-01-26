@@ -9,7 +9,7 @@ description: early § Adjective
 
 ### hëlxun&emsp;<span kind="abugida">ɂ͊ʇɋ̃ʃ</span>
 
-*early* **§** Adjective
+*early* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhel.ʃʌn/
 

@@ -9,7 +9,7 @@ description: violet § Adjective
 
 ### menekxe&emsp;<span kind="abugida">ƶɿƨ̑ɿɋɿ</span>
 
-*violet* **§** Adjective
+*violet* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmɛ.nɛk.ʃɛ/
 

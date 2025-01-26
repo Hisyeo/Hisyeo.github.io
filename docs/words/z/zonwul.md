@@ -9,7 +9,7 @@ description: animal § Noun
 
 ### zonwul&emsp;<span kind="abugida">ⱴ̃ʒ͊ʃ</span>
 
-*animal* **§** Noun
+*animal* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒɑn.wʌl/
 

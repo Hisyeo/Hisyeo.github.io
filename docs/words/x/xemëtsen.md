@@ -9,7 +9,7 @@ description: noun § Noun
 
 ### xemëtsen&emsp;<span kind="abugida">ɋɿƶ̆ʇɐ̃ɿ</span>
 
-*noun* **§** Noun
+*noun* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ʃɛ.ˈmet.sɛn/
 

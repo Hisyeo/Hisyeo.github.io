@@ -9,7 +9,7 @@ description: to suggest (a suggestion) § Verb
 
 ### bësnëhot&emsp;<span kind="abugida">ʋ́ʇƨʇɂ̆</span>
 
-*to suggest (a suggestion)* **§** Verb
+*to suggest (a suggestion)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈbes.ne.hɑt/
 

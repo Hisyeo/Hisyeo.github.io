@@ -9,7 +9,7 @@ description: method § Noun
 
 ### toliko&emsp;<span kind="abugida">cʓɟɔ</span>
 
-*method* **§** Noun
+*method* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈtɑ.li.kɑ/
 

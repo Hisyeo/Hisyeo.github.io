@@ -9,7 +9,7 @@ description: only § Adjective
 
 ### tölki&emsp;<span kind="abugida">c͊ıɔɟ</span>
 
-*only* **§** Adjective
+*only* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈtol.ki/
 

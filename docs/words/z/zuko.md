@@ -9,7 +9,7 @@ description: bag § Noun
 
 ### zuko&emsp;<span kind="abugida">ⱴʃɔ</span>
 
-*bag* **§** Noun
+*bag* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒʌ.kɑ/
 

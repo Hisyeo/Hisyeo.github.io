@@ -9,7 +9,7 @@ description: to like (a preference) § Verb
 
 ### süko&emsp;<span kind="abugida">ɐʄɔ</span>
 
-*to like (a preference)* **§** Verb
+*to like (a preference)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsu.kɑ/
 

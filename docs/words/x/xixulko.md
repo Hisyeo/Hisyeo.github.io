@@ -9,7 +9,7 @@ description: pinecone § Noun
 
 ### xixulko&emsp;<span kind="abugida">ɋɟɋ͊ʃɔ</span>
 
-*pinecone* **§** Noun
+*pinecone* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈʃi.ʃʌl.kɑ/
 

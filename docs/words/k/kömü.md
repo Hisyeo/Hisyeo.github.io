@@ -9,7 +9,7 @@ description: horn/spike § Noun
 
 ### kömü&emsp;<span kind="abugida">ɔıƶʄ</span>
 
-*horn/spike* **§** Noun
+*horn/spike* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈko.mu/
 

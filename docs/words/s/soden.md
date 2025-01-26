@@ -9,7 +9,7 @@ description: back § Noun
 
 ### soden&emsp;<span kind="abugida">ɐʌ̃ɿ</span>
 
-*back* **§** Noun
+*back* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsɑ.dɛn/
 

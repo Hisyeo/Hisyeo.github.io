@@ -9,7 +9,7 @@ description: egg § Noun
 
 ### hüwu&emsp;<span kind="abugida">ɂʄʒʃ</span>
 
-*egg* **§** Noun
+*egg* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhu.wʌ/
 

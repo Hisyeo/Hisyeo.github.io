@@ -9,7 +9,7 @@ description: rice § Noun
 
 ### onomü&emsp;<span kind="abugida">ɽƨƶʄ</span>
 
-*rice* **§** Noun
+*rice* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑ.nɑ.mu/
 

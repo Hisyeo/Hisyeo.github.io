@@ -9,7 +9,7 @@ description: 06 six § Numeral
 
 ### toü&emsp;<span kind="abugida">cɽʄ</span>
 
-*06 six* **§** Numeral
+*06 six* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈtɑ.u/
 

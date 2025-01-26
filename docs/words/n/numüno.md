@@ -9,7 +9,7 @@ description: example § Noun
 
 ### numüno&emsp;<span kind="abugida">ƨʃƶʄƨ</span>
 
-*example* **§** Noun
+*example* **§** [Noun](../../tags/Noun)
 
 **IPA**: /nʌ.ˈmu.nɑ/
 

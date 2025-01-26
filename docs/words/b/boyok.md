@@ -9,7 +9,7 @@ description: recent § Adjective
 
 ### boyok&emsp;<span kind="abugida">ʋɀ̑</span>
 
-*recent* **§** Adjective
+*recent* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑ.jɑk/
 

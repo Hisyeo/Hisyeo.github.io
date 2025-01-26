@@ -9,7 +9,7 @@ description: dot § Noun
 
 ### bındü&emsp;<span kind="abugida">ʋ̃ȷʌʄ</span>
 
-*dot* **§** Noun
+*dot* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbɪn.du/
 

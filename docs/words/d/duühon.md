@@ -9,7 +9,7 @@ description: to surrender (the surrendered) § Verb
 
 ### duühon&emsp;<span kind="abugida">ʌʃɽʄɂ̃</span>
 
-*to surrender (the surrendered)* **§** Verb
+*to surrender (the surrendered)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdʌ.u.hɑn/
 

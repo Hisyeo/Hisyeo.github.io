@@ -9,7 +9,7 @@ description: threat § Noun
 
 ### tixö&emsp;<span kind="abugida">cɟɋı</span>
 
-*threat* **§** Noun
+*threat* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈti.ʃo/
 

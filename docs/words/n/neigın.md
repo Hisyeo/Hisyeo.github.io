@@ -9,7 +9,7 @@ description: tendency/inclination § Noun
 
 ### neigın&emsp;<span kind="abugida">ƨɿɽɟꜿ̃ȷ</span>
 
-*tendency/inclination* **§** Noun
+*tendency/inclination* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɛ.i.gɪn/
 

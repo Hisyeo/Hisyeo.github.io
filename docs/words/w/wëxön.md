@@ -9,7 +9,7 @@ description: week § Noun
 
 ### wëxön&emsp;<span kind="abugida">ʒʇɋ̃ı</span>
 
-*week* **§** Noun
+*week* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwe.ʃon/
 

@@ -9,7 +9,7 @@ description: tart § Adjective
 
 ### müncü&emsp;<span kind="abugida">ƶ̃ʄꞇʄ</span>
 
-*tart* **§** Adjective
+*tart* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈmun.t͡ɕu/
 

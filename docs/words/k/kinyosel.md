@@ -9,7 +9,7 @@ description: chemical § Noun
 
 ### kinyosel&emsp;<span kind="abugida">ɔ̃ɟɀɐ͊ɿ</span>
 
-*chemical* **§** Noun
+*chemical* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkin.jɑ.sɛl/
 

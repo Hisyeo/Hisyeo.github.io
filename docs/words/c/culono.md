@@ -9,7 +9,7 @@ description: to operate (a machine) § Verb
 
 ### culono&emsp;<span kind="abugida">ꞇʃʓƨ</span>
 
-*to operate (a machine)* **§** Verb
+*to operate (a machine)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /t͡ɕʌ.ˈlɑ.nɑ/
 

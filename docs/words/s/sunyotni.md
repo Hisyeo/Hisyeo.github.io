@@ -9,7 +9,7 @@ description: interested/amused § Adjective
 
 ### sunyotni&emsp;<span kind="abugida">ɐ̃ʃɀ̆ƨɟ</span>
 
-*interested/amused* **§** Adjective
+*interested/amused* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /sʌn.ˈjɑt.ni/
 

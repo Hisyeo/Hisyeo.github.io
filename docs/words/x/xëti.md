@@ -9,7 +9,7 @@ description: 07 seven § Numeral
 
 ### xëti&emsp;<span kind="abugida">ɋʇcɟ</span>
 
-*07 seven* **§** Numeral
+*07 seven* **§** [Numeral](../../tags/Numeral)
 
 **IPA**: /ˈʃe.ti/
 

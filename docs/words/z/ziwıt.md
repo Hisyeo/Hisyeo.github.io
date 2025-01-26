@@ -9,7 +9,7 @@ description: alive § Adjective
 
 ### ziwıt&emsp;<span kind="abugida">ⱴɟʒ̆ȷ</span>
 
-*alive* **§** Adjective
+*alive* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈd͡ʒi.wɪt/
 

@@ -9,7 +9,7 @@ description: counter-agent marker (against) § Preposition
 
 ### dën&emsp;<span kind="abugida">ʌ̃ʇ</span>
 
-*counter-agent marker (against)* **§** Preposition
+*counter-agent marker (against)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈden/
 

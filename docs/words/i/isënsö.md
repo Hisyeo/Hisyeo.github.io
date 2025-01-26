@@ -9,7 +9,7 @@ description: verb § Noun
 
 ### isënsö&emsp;<span kind="abugida">ɽɟɐ̃ʇɐı</span>
 
-*verb* **§** Noun
+*verb* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈi.sen.so/
 

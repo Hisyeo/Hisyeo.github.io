@@ -9,7 +9,7 @@ description: to drive (a vehicle) § Verb
 
 ### oütö&emsp;<span kind="abugida">ɽɽʄcı</span>
 
-*to drive (a vehicle)* **§** Verb
+*to drive (a vehicle)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈɑ.u.to/
 

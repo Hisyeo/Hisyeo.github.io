@@ -9,7 +9,7 @@ description: to manufacture (goods) § Verb
 
 ### conwëbo&emsp;<span kind="abugida">ꞇ̃ʒʇʋ</span>
 
-*to manufacture (goods)* **§** Verb
+*to manufacture (goods)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈt͡ɕɑn.we.bɑ/
 

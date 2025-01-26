@@ -9,7 +9,7 @@ description: pillow § Noun
 
 ### yofük&emsp;<span kind="abugida">ɀɤ̑ʄ</span>
 
-*pillow* **§** Noun
+*pillow* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈjɑ.fuk/
 

@@ -9,7 +9,7 @@ description: almost § Adjective
 
 ### cokyen&emsp;<span kind="abugida">ꞇ̑ɀ̃ɿ</span>
 
-*almost* **§** Adjective
+*almost* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕɑk.jɛn/
 

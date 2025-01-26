@@ -9,7 +9,7 @@ description: ticket/pass § Noun
 
 ### doinbi&emsp;<span kind="abugida">ʌɽ̃ɟʋɟ</span>
 
-*ticket/pass* **§** Noun
+*ticket/pass* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdɑ.in.bi/
 

@@ -9,7 +9,7 @@ description: plate § Noun
 
 ### siëtö&emsp;<span kind="abugida">ɐɟɽʇcı</span>
 
-*plate* **§** Noun
+*plate* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsi.e.to/
 

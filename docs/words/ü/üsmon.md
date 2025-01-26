@@ -9,7 +9,7 @@ description: gas § Noun
 
 ### üsmon&emsp;<span kind="abugida">ɽ́ʄƶ̃</span>
 
-*gas* **§** Noun
+*gas* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈus.mɑn/
 

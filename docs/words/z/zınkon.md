@@ -9,7 +9,7 @@ description: door § Noun
 
 ### zınkon&emsp;<span kind="abugida">ⱴ̃ȷɔ̃</span>
 
-*door* **§** Noun
+*door* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈd͡ʒɪn.kɑn/
 

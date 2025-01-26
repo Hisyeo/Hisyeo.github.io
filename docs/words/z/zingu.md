@@ -9,7 +9,7 @@ description: orange § Adjective
 
 ### zingu&emsp;<span kind="abugida">ⱴ̃ɟꜿʃ</span>
 
-*orange* **§** Adjective
+*orange* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈd͡ʒin.gʌ/
 

@@ -9,7 +9,7 @@ description: prone § Adjective
 
 ### bomoge&emsp;<span kind="abugida">ʋƶꜿɿ</span>
 
-*prone* **§** Adjective
+*prone* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbɑ.mɑ.gɛ/
 

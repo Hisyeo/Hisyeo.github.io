@@ -9,7 +9,7 @@ description: to have (a possession) § Verb
 
 ### yünyoü&emsp;<span kind="abugida">ɀ̃ʄɀɽʄ</span>
 
-*to have (a possession)* **§** Verb
+*to have (a possession)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈjun.jɑ.u/
 

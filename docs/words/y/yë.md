@@ -9,7 +9,7 @@ description: genitive marker (of) § Preposition
 
 ### yë&emsp;<span kind="abugida">ɀʇ</span>
 
-*genitive marker (of)* **§** Preposition
+*genitive marker (of)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈje/
 

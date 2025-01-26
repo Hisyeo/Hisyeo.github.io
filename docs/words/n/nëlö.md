@@ -9,7 +9,7 @@ description: black § Adjective
 
 ### nëlö&emsp;<span kind="abugida">ƨʇʓı</span>
 
-*black* **§** Adjective
+*black* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈne.lo/
 

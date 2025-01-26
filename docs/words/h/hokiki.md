@@ -9,7 +9,7 @@ description: authentic § Adjective
 
 ### hokiki&emsp;<span kind="abugida">ɂɔɟɔɟ</span>
 
-*authentic* **§** Adjective
+*authentic* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈhɑ.ki.ki/
 

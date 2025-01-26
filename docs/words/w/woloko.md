@@ -9,7 +9,7 @@ description: leaf/petal § Noun
 
 ### woloko&emsp;<span kind="abugida">ʒʓɔ</span>
 
-*leaf/petal* **§** Noun
+*leaf/petal* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwɑ.lɑ.kɑ/
 

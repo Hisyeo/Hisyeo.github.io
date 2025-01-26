@@ -9,7 +9,7 @@ description: supine § Adjective
 
 ### tıgoyo&emsp;<span kind="abugida">cȷꜿɀ</span>
 
-*supine* **§** Adjective
+*supine* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /tɪ.ˈgɑ.jɑ/
 

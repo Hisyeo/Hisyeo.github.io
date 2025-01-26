@@ -9,7 +9,7 @@ description: to traverse (the traversed) § Verb
 
 ### tulutı&emsp;<span kind="abugida">cʃʓʃcȷ</span>
 
-*to traverse (the traversed)* **§** Verb
+*to traverse (the traversed)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈtʌ.lʌ.tɪ/
 

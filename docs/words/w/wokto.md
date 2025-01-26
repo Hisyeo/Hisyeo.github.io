@@ -9,7 +9,7 @@ description: outside § Noun
 
 ### wokto&emsp;<span kind="abugida">ʒ̑c</span>
 
-*outside* **§** Noun
+*outside* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈwɑk.tɑ/
 

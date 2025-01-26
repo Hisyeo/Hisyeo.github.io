@@ -9,7 +9,7 @@ description: tail § Noun
 
 ### büntüt&emsp;<span kind="abugida">ʋ̃ʄc̆ʄ</span>
 
-*tail* **§** Noun
+*tail* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbun.tut/
 

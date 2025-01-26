@@ -9,7 +9,7 @@ description: to squeeze (squeezable entity) § Verb
 
 ### fünbö&emsp;<span kind="abugida">ɤ̃ʄʋı</span>
 
-*to squeeze (squeezable entity)* **§** Verb
+*to squeeze (squeezable entity)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈfun.bo/
 

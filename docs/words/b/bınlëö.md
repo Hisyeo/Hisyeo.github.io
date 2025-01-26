@@ -9,7 +9,7 @@ description: bay/golf § Noun
 
 ### bınlëö&emsp;<span kind="abugida">ʋ̃ȷʓʇɽı</span>
 
-*bay/golf* **§** Noun
+*bay/golf* **§** [Noun](../../tags/Noun)
 
 **IPA**: /bɪn.ˈle.o/
 

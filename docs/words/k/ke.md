@@ -9,7 +9,7 @@ description: future verb particle § Particle
 
 ### ke&emsp;<span kind="abugida">ɔɿ</span>
 
-*future verb particle* **§** Particle
+*future verb particle* **§** [Particle](../../tags/Particle)
 
 **IPA**: /ˈkɛ/
 

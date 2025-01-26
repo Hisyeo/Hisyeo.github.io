@@ -9,7 +9,7 @@ description: rain § Noun
 
 ### hüzon&emsp;<span kind="abugida">ɂʄⱴ̃</span>
 
-*rain* **§** Noun
+*rain* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhu.d͡ʒɑn/
 

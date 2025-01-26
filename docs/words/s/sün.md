@@ -9,7 +9,7 @@ description: source/origin marker (from) § Preposition
 
 ### sün&emsp;<span kind="abugida">ɐ̃ʄ</span>
 
-*source/origin marker (from)* **§** Preposition
+*source/origin marker (from)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈsun/
 

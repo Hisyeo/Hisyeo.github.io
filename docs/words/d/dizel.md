@@ -9,7 +9,7 @@ description: other § Pronoun
 
 ### dizel&emsp;<span kind="abugida">ʌɟⱴ͊ɿ</span>
 
-*other* **§** Pronoun
+*other* **§** [Pronoun](../../tags/Pronoun)
 
 **IPA**: /ˈdi.d͡ʒɛl/
 

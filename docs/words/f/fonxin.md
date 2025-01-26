@@ -9,7 +9,7 @@ description: square/rectangle § Noun
 
 ### fonxin&emsp;<span kind="abugida">ɤ̃ɋ̃ɟ</span>
 
-*square/rectangle* **§** Noun
+*square/rectangle* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfɑn.ʃin/
 

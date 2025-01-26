@@ -9,7 +9,7 @@ description: hiccup/spasm § Noun
 
 ### iciwü&emsp;<span kind="abugida">ɽɟꞇɟʒʄ</span>
 
-*hiccup/spasm* **§** Noun
+*hiccup/spasm* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈi.t͡ɕi.wu/
 

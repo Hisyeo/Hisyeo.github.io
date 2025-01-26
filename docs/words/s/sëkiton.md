@@ -9,7 +9,7 @@ description: coal/cinder § Noun
 
 ### sëkiton&emsp;<span kind="abugida">ɐʇɔɟc̃</span>
 
-*coal/cinder* **§** Noun
+*coal/cinder* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈse.ki.tɑn/
 

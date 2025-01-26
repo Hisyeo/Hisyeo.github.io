@@ -9,7 +9,7 @@ description: humble § Adjective
 
 ### wınit&emsp;<span kind="abugida">ʒȷƨ̆ɟ</span>
 
-*humble* **§** Adjective
+*humble* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈwɪ.nit/
 

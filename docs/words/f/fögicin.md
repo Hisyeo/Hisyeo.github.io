@@ -9,7 +9,7 @@ description: curious/inquisitive § Adjective
 
 ### fögicin&emsp;<span kind="abugida">ɤıꜿɟꞇ̃ɟ</span>
 
-*curious/inquisitive* **§** Adjective
+*curious/inquisitive* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈfo.gi.t͡ɕin/
 

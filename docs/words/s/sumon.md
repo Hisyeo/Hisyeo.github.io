@@ -9,7 +9,7 @@ description: equal/same § Adjective
 
 ### sumon&emsp;<span kind="abugida">ɐʃƶ̃</span>
 
-*equal/same* **§** Adjective
+*equal/same* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsʌ.mɑn/
 

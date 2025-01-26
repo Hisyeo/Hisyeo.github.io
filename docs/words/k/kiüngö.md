@@ -9,7 +9,7 @@ description: spice § Noun
 
 ### kiüngö&emsp;<span kind="abugida">ɔɟɽ̃ʄꜿı</span>
 
-*spice* **§** Noun
+*spice* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈki.un.go/
 

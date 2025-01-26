@@ -9,7 +9,7 @@ description: tree § Noun
 
 ### nomü&emsp;<span kind="abugida">ƨƶʄ</span>
 
-*tree* **§** Noun
+*tree* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈnɑ.mu/
 

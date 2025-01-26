@@ -9,7 +9,7 @@ description: dream § Noun
 
 ### hölmo&emsp;<span kind="abugida">ɂ͊ıƶ</span>
 
-*dream* **§** Noun
+*dream* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhol.mɑ/
 

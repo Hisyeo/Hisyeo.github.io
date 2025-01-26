@@ -9,7 +9,7 @@ description: sky § Noun
 
 ### okoxu&emsp;<span kind="abugida">ɽɔɋʃ</span>
 
-*sky* **§** Noun
+*sky* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈɑ.kɑ.ʃʌ/
 

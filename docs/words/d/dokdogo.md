@@ -9,7 +9,7 @@ description: to tickle (the tickled) § Verb
 
 ### dokdogo&emsp;<span kind="abugida">ʌ̑ʌꜿ</span>
 
-*to tickle (the tickled)* **§** Verb
+*to tickle (the tickled)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈdɑk.dɑ.gɑ/
 

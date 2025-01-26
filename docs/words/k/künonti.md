@@ -9,7 +9,7 @@ description: communication § Noun
 
 ### künonti&emsp;<span kind="abugida">ɔʄƨ̃cɟ</span>
 
-*communication* **§** Noun
+*communication* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈku.nɑn.ti/
 

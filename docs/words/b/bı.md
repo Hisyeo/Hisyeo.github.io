@@ -9,7 +9,7 @@ description: manner/material marker § Preposition
 
 ### bı&emsp;<span kind="abugida">ʋȷ</span>
 
-*manner/material marker* **§** Preposition
+*manner/material marker* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈbɪ/
 

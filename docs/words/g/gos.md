@@ -9,7 +9,7 @@ description: plant § Noun
 
 ### gos&emsp;<span kind="abugida">ꜿ́</span>
 
-*plant* **§** Noun
+*plant* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈgɑs/
 

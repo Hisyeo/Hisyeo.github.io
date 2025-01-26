@@ -9,7 +9,7 @@ description: interrupted § Adjective
 
 ### lüko&emsp;<span kind="abugida">ʓʄɔ</span>
 
-*interrupted* **§** Adjective
+*interrupted* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈlu.kɑ/
 

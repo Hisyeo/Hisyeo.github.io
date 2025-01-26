@@ -9,7 +9,7 @@ description: private/confidential § Adjective
 
 ### cosni&emsp;<span kind="abugida">ꞇ́ƨɟ</span>
 
-*private/confidential* **§** Adjective
+*private/confidential* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕɑs.ni/
 

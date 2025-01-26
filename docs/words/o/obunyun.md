@@ -9,7 +9,7 @@ description: easy § Adjective
 
 ### obunyun&emsp;<span kind="abugida">ɽʋ̃ʃɀ̃ʃ</span>
 
-*easy* **§** Adjective
+*easy* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈɑ.bʌn.jʌn/
 

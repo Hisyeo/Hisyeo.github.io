@@ -9,7 +9,7 @@ description: to do (an action) § Verb
 
 ### tüu&emsp;<span kind="abugida">cʄɽʃ</span>
 
-*to do (an action)* **§** Verb
+*to do (an action)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈtu.ʌ/
 

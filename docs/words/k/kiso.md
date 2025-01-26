@@ -9,7 +9,7 @@ description: to narrate (a story) § Verb
 
 ### kiso&emsp;<span kind="abugida">ɔɟɐ</span>
 
-*to narrate (a story)* **§** Verb
+*to narrate (a story)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈki.sɑ/
 

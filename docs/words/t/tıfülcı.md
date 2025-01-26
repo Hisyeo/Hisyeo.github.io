@@ -9,7 +9,7 @@ description: creative § Adjective
 
 ### tıfülcı&emsp;<span kind="abugida">cȷɤ͊ʄꞇȷ</span>
 
-*creative* **§** Adjective
+*creative* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /tɪ.ˈful.t͡ɕɪ/
 

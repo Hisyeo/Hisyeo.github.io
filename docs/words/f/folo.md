@@ -9,7 +9,7 @@ description: atom § Noun
 
 ### folo&emsp;<span kind="abugida">ɤʓ</span>
 
-*atom* **§** Noun
+*atom* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈfɑ.lɑ/
 

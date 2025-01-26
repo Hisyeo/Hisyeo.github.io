@@ -9,7 +9,7 @@ description: to sit on (a seat) § Verb
 
 ### sıtyo&emsp;<span kind="abugida">ɐ̆ȷɀ</span>
 
-*to sit on (a seat)* **§** Verb
+*to sit on (a seat)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈsɪt.jɑ/
 

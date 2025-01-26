@@ -16,7 +16,7 @@ description: ${w['Meaning']} § ${w['Type']}
 
 ### ${w['Hisyëö']}&emsp;<span kind="abugida">${w['ɂ́ɟɀʇɽʃ']}</span>
 
-*${w['Meaning']}* **§** ${w['Type']}
+*${w['Meaning']}* **§** [${w['Type']}](../../tags/${w['Type']})
 
 **IPA**: ${w['Actual IPA']}
 

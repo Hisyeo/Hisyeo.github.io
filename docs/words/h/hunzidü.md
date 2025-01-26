@@ -9,7 +9,7 @@ description: creak/squeak § Noun
 
 ### hunzidü&emsp;<span kind="abugida">ɂ̃ʃⱴɟʌʄ</span>
 
-*creak/squeak* **§** Noun
+*creak/squeak* **§** [Noun](../../tags/Noun)
 
 **IPA**: /hʌn.ˈd͡ʒi.du/
 

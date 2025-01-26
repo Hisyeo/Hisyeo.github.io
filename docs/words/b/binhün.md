@@ -9,7 +9,7 @@ description: magenta § Adjective
 
 ### binhün&emsp;<span kind="abugida">ʋ̃ɟɂ̃ʄ</span>
 
-*magenta* **§** Adjective
+*magenta* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈbin.hun/
 

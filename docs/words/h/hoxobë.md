@@ -9,7 +9,7 @@ description: beam/joist/stud § Noun
 
 ### hoxobë&emsp;<span kind="abugida">ɂɋʋʇ</span>
 
-*beam/joist/stud* **§** Noun
+*beam/joist/stud* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈhɑ.ʃɑ.be/
 

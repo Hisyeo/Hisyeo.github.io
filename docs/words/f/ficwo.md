@@ -9,7 +9,7 @@ description: hidden/secret § Adjective
 
 ### ficwo&emsp;<span kind="abugida">ɤ̄ɟʒ</span>
 
-*hidden/secret* **§** Adjective
+*hidden/secret* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈfit͡ɕ.wɑ/
 

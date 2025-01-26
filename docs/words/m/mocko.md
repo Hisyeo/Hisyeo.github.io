@@ -9,7 +9,7 @@ description: cat § Noun
 
 ### mocko&emsp;<span kind="abugida">ƶ̄ɔ</span>
 
-*cat* **§** Noun
+*cat* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmɑt͡ɕ.kɑ/
 

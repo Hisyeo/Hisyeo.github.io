@@ -9,7 +9,7 @@ description: container § Noun
 
 ### dıbo&emsp;<span kind="abugida">ʌȷʋ</span>
 
-*container* **§** Noun
+*container* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈdɪ.bɑ/
 

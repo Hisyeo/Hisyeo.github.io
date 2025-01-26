@@ -9,7 +9,7 @@ description: worm § Noun
 
 ### mınyö&emsp;<span kind="abugida">ƶ̃ȷɀı</span>
 
-*worm* **§** Noun
+*worm* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmɪn.jo/
 

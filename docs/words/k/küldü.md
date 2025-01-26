@@ -9,7 +9,7 @@ description: wheel § Noun
 
 ### küldü&emsp;<span kind="abugida">ɔ͊ʄʌʄ</span>
 
-*wheel* **§** Noun
+*wheel* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈkul.du/
 

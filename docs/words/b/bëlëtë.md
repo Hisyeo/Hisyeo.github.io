@@ -9,7 +9,7 @@ description: wall § Noun
 
 ### bëlëtë&emsp;<span kind="abugida">ʋʇʓʇcʇ</span>
 
-*wall* **§** Noun
+*wall* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈbe.le.te/
 

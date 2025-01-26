@@ -9,7 +9,7 @@ description: problem § Noun
 
 ### ixölö&emsp;<span kind="abugida">ɽɟɋıʓı</span>
 
-*problem* **§** Noun
+*problem* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈi.ʃo.lo/
 

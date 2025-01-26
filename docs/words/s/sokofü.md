@@ -9,7 +9,7 @@ description: floor § Noun
 
 ### sokofü&emsp;<span kind="abugida">ɐɔɤʄ</span>
 
-*floor* **§** Noun
+*floor* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈsɑ.kɑ.fu/
 

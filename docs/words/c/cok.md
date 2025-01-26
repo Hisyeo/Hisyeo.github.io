@@ -9,7 +9,7 @@ description: departing § Adjective
 
 ### cok&emsp;<span kind="abugida">ꞇ̑</span>
 
-*departing* **§** Adjective
+*departing* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈt͡ɕɑk/
 

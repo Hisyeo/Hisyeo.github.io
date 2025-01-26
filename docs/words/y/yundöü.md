@@ -9,7 +9,7 @@ description: to guide (the guided) § Verb
 
 ### yundöü&emsp;<span kind="abugida">ɀ̃ʃʌıɽʄ</span>
 
-*to guide (the guided)* **§** Verb
+*to guide (the guided)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /jʌn.ˈdo.u/
 

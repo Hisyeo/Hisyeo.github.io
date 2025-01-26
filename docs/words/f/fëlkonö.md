@@ -9,7 +9,7 @@ description: close § Adjective
 
 ### fëlkonö&emsp;<span kind="abugida">ɤ͊ʇɔƨı</span>
 
-*close* **§** Adjective
+*close* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈfel.kɑ.no/
 

@@ -9,7 +9,7 @@ description: furniture § Noun
 
 ### miëbıl&emsp;<span kind="abugida">ƶɟɽʇʋ͊ȷ</span>
 
-*furniture* **§** Noun
+*furniture* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈmi.e.bɪl/
 

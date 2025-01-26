@@ -9,7 +9,7 @@ description: to hunt/chase (prey/chasee) § Verb
 
 ### wëtodü&emsp;<span kind="abugida">ʒʇcʌʄ</span>
 
-*to hunt/chase (prey/chasee)* **§** Verb
+*to hunt/chase (prey/chasee)* **§** [Verb](../../tags/Verb)
 
 **IPA**: /ˈwe.tɑ.du/
 

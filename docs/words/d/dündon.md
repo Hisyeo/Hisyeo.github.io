@@ -9,7 +9,7 @@ description: correct § Adjective
 
 ### dündon&emsp;<span kind="abugida">ʌ̃ʄʌ̃</span>
 
-*correct* **§** Adjective
+*correct* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈdun.dɑn/
 

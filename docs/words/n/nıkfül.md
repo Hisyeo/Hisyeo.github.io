@@ -9,7 +9,7 @@ description: ficke/capricious § Adjective
 
 ### nıkfül&emsp;<span kind="abugida">ƨ̑ȷɤ͊ʄ</span>
 
-*ficke/capricious* **§** Adjective
+*ficke/capricious* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈnɪk.ful/
 

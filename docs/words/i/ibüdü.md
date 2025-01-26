@@ -9,7 +9,7 @@ description: now § Adjective
 
 ### ibüdü&emsp;<span kind="abugida">ɽɟʋʄʌʄ</span>
 
-*now* **§** Adjective
+*now* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈi.bu.du/
 

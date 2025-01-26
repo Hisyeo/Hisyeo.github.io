@@ -9,7 +9,7 @@ description: lattice/array § Noun
 
 ### lexetko&emsp;<span kind="abugida">ʓɿɋ̆ɿɔ</span>
 
-*lattice/array* **§** Noun
+*lattice/array* **§** [Noun](../../tags/Noun)
 
 **IPA**: /ˈlɛ.ʃɛt.kɑ/
 
