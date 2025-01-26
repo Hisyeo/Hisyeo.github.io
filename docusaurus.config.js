@@ -120,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'Reddit',
-                href: 'https://www.reddit.com/r/hisy98/',
+                href: 'https://www.reddit.com/r/hisyeo/',
               },
               {
                 label: 'Discord',
