@@ -4,19 +4,19 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Expansive',
-    Svg: require('@site/static/img/undraw_trip_re_f724.svg').default,
+    title: 'Succinct',
+    Svg: require('@site/static/img/undraw_everyday_life_re_1lfb.svg').default,
     description: (
       <>
-        Evolved from Kokanu but with a larger lexicon. Added words were
-        identified in review of scientific, literary and lyrical sources.
-        An emphasis on reducing of the semantic space within each word.
+        There are under 900 words to learn. Not as small as Kokanu or Toki Pona
+        but much smaller than Globasa, Lidepla and Esperanto. A tiny fraction of
+        the lexicon sizes of natural languages.
       </>
     ),
   },
   {
-    title: 'Expressive',
-    Svg: require('@site/static/img/undraw_book_reading_re_fu2c.svg').default,
+    title: 'Expansive',
+    Svg: require('@site/static/img/undraw_trip_re_f724.svg').default,
     description: (
       <>
         Words are considered based upon the length and comprehensibility of
@@ -26,13 +26,13 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Succinct',
-    Svg: require('@site/static/img/undraw_everyday_life_re_1lfb.svg').default,
+    title: 'Expressive',
+    Svg: require('@site/static/img/undraw_book_reading_re_fu2c.svg').default,
     description: (
       <>
-        Several new grammatical particles to increase the breadth of grammar
-        that is available. Providing a greater amount of information density
-        at the cost of a slight reduction in ease-of-learning.
+        The grammar has the capability of formulating complex meanings with the
+        limited vocabulary whilst maintaining shorter sentences and limited
+        nested clauses.
       </>
     ),
   },
