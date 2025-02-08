@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Hisyëö',
+  title: 'Hîsyêô',
   tagline: 'A world language & community',
   favicon: 'img/hisyeo.ico',
   url: 'https://hisyeo.github.io',
@@ -74,9 +74,9 @@ const config = {
       //   isCloseable: false,
       // },
       navbar: {
-        title: 'Hisyëö',
+        title: 'Hîsyêô',
         logo: {
-          alt: 'Hisyëö Flag',
+          alt: 'Hîsyêô Flag',
           src: 'img/hisyeo_flag.png',
         },
         items: [
@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Hisyëö, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hîsyêô, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
