@@ -1,0 +1,26 @@
+---
+id: sêkî
+slug: sêkî
+title: SÊK
+sidebar_position: 389
+tags: [sêkî, Noun, Japonic]
+description: genitalia § Noun
+---
+
+### sêkî&emsp;<span kind="abugida">ɐʇɔɟ</span>
+
+*genitalia* **§** [Noun](../../tags/Noun)
+
+**IPA**: /ˈse.ki/
+
+**Verb**: to be genitalia
+
+**Noun**: genitalia
+
+**Modifier**: genital
+
+<details>
+    <summary>Origin</summary>
+    Japanese せいき seiki [se̞ːkʲi]<br/>
+    <em>Japonic Language Family</em>
+</details>

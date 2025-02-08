@@ -1,0 +1,26 @@
+---
+id: mûstokîn
+slug: mûstokîn
+title: MÛSTOKN
+sidebar_position: 703
+tags: [mûstokîn, Adjective, Afroasiatic]
+description: straight § Adjective
+---
+
+### mûstokîn&emsp;<span kind="abugida">ƶ́ʄcɔ̃ɟ</span>
+
+*straight* **§** [Adjective](../../tags/Adjective)
+
+**IPA**: /ˈmus.tɑ.kin/
+
+**Verb**: to be straight
+
+**Noun**: straightness
+
+**Modifier**: straight
+
+<details>
+    <summary>Origin</summary>
+    Arabic مُسْتَقِيم mustaqīm /mus.ta.qiːm/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

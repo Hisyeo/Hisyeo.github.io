@@ -1,14 +1,14 @@
 ---
-slug: mötowo-kut
-title: Mötowo Kut
+slug: môtowo-kut
+title: Môtowo Kut
 authors: [govuliel]
-tags: [hiskünco]
+tags: [hîskûnco]
 ---
 
-lı ëo xowosë ölë noyo ü xe möniso mötowo kut hoi yogö zentık **Hisyëö**.
+li êo xowosê ôlê noyo û xe mônîso môtowo kut hoî yogô zentik **Hîsyêô**.
 
-toswil yë döcui nulun Dokyüsölus lı:
+toswîl yê dôcuî nulun Dokyûsôlus li:
 
 ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
 
-bioli!
+bîolî!

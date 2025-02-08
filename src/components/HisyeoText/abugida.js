@@ -1,8 +1,8 @@
 const latinConsonants  = ["'", "ꞌ", 'h', 'k', 'g', 't', 'c', 's', 'x', 'd', 'z', 'b', 'f', 'm', 'n', 'w', 'l', 'y'],
 	  hisyeoConsonants = ['ɽ', 'ɽ', 'ɂ', 'ɔ', 'ꜿ', 'c', 'ꞇ', 'ɐ', 'ɋ', 'ʌ', 'ⱴ', 'ʋ', 'ɤ', 'ƶ', 'ƨ', 'ʒ', 'ʓ', 'ɀ'],
 
-      latinVowels      = ['o', 'ö', 'u', 'ü', 'ı', 'i', 'e', 'ë'],
-      hisyeoVowels     = ['',  'ı', 'ʃ', 'ʄ', 'ȷ', 'ɟ', 'ɿ', 'ʇ'],
+      latinVowels      = ['o', 'ô', 'u', 'û', 'i', 'i', 'e', 'ê'],
+      hisyeoVowels     = ['',  'i', 'ʃ', 'ʄ', 'ȷ', 'ɟ', 'ɿ', 'ʇ'],
 
       latinDiacritics  = ['t',/* ◌̑ */'k',/* ◌͒ */ 's',/* ◌̀ */'c',/* ◌̄ */'n',/* ◌̉ */'l',/* ◌̉ */],
       hisyeoDiacritics = ['\u0306',  '\u0311',   '\u0301',  '\u0304',  '\u0303',  '\u034a',];
@@ -10,7 +10,7 @@ const latinConsonants  = ["'", "ꞌ", 'h', 'k', 'g', 't', 'c', 's', 'x', 'd', 'z
 const index = (loc, val) => loc.indexOf(val.toLowerCase());
 
 const transcribeInner = text => text.replace(
-    /([ꞌhkgtcsxdzbfmnlwy])?([oöuüıieë])((?:[kntscl])(?![oöuüıieë]))?|([ꞌhkgtcsxdzbfmnlwy])(?![oöuüıieë])/gi, // RegEx: cons?+vowel+n? | const
+    /([ꞌhkgtcsxdzbfmnlwy])?([oôuûiieê])((?:[kntscl])(?![oôuûiieê]))?|([ꞌhkgtcsxdzbfmnlwy])(?![oôuûiieê])/gi, // RegEx: cons?+vowel+n? | const
     (p0, p1, p2, p3, p4) => {
         // console.log(p0);
         return p4 // If no vowel found
@@ -26,7 +26,7 @@ const transcribeInner = text => text.replace(
  * @returns {[string, boolean]}
  */
 export const transcribe = text => {
-    if (text.match(/\b[OÖEËIİUÜHKGTCSXDZBFMNLWY][OÖEËIİUÜHKGTCSXDZBFMNLWYoöeëıiuühkgtcsxdzbfmnlwy]*(?: [OÖEËIİUÜHKGTCSXDZBFMNLWY][OÖEËIİUÜHKGTCSXDZBFMNLWYoöeëıiuühkgtcsxdzbfmnlwy]*)*/)) {
+    if (text.match(/\b[OÔEÊIİUÛHKGTCSXDZBFMNLWY][OÔEÊIİUÛHKGTCSXDZBFMNLWYoôeêiiuûhkgtcsxdzbfmnlwy]*(?: [OÔEÊIİUÛHKGTCSXDZBFMNLWY][OÔEÊIİUÛHKGTCSXDZBFMNLWYoôeêiiuûhkgtcsxdzbfmnlwy]*)*/)) {
         return [`‹${transcribeInner(text)}›`, true]
     } else {
         return [transcribeInner(text),        false]

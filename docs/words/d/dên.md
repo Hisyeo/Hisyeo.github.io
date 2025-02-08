@@ -1,0 +1,26 @@
+---
+id: dên
+slug: dên
+title: DÊN
+sidebar_position: 481
+tags: [dên, Preposition, Armenian]
+description: counter-agent marker (against) § Preposition
+---
+
+### dên&emsp;<span kind="abugida">ʌ̃ʇ</span>
+
+*counter-agent marker (against)* **§** [Preposition](../../tags/Preposition)
+
+**IPA**: /ˈden/
+
+**Verb**: -
+
+**Noun**: -
+
+**Modifier**: -
+
+<details>
+    <summary>Origin</summary>
+    Armenian դեմ dem [dem]<br/>
+    <em>Armenian Language Family</em>
+</details>

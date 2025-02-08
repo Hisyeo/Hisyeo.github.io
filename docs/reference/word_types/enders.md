@@ -13,10 +13,10 @@ pause in spoken language.
 
 :::tip Unlike Kokanu
 
-This is different from Kokanu because many of the words in Hisyëö that do not
+This is different from Kokanu because many of the words in Hîsyêô that do not
 exist in Kokanu, were chosen so that they *reduce* the need for inner clauses.
 The spoken comma particle was added to Kokanu to help reduce the comprehension
-challenges of having many inner clauses in a sentence. Since Hisyëö has 2.5
+challenges of having many inner clauses in a sentence. Since Hîsyêô has 2.5
 times the amount of words as Kokanu, there's less need for inner clauses and so
 the added non-naturalistic spoken comma has far less utility.
 
@@ -28,7 +28,7 @@ for the appropriate segment.
 
 ## Sentence Enders
 
-There are many sentence enders in Hisyëö unlike Kokanu. These allow Hisyëö
+There are many sentence enders in Hîsyêô unlike Kokanu. These allow Hîsyêô
 speakers to properly express what could be considered as "registers" in that
 they change the overall tone of what is being said. The content remains the
 same, but the meaning is changed considerably.
@@ -40,9 +40,9 @@ words like "do", "sure", "really" to indicate that the sentence is of greater
 importance to the surrounding explanation or to affirm a predicate as true.
 
 <HisyeoTabs>
-    <p>niün tüu si yoüti foüt löicök.&emsp;<em>"Indeed, he made several mistakes"</em></p>
-    <p>noyo lı xoinbo in dëko ëto mıslı nimü löicök.&emsp;<em>"I do look very similar to you"</em></p>
-    <p>nimü küu lı yoümok löicök.&emsp;<em>"Surely, you must be joking"</em></p>
+    <p>nîûn tûu sî yoûtî foût lôîcôk.&emsp;<em>"Indeed, he made several mistakes"</em></p>
+    <p>noyo li xoînbo in dêko êto misli nîmû lôîcôk.&emsp;<em>"I do look very similar to you"</em></p>
+    <p>nîmû kûu li yoûmok lôîcôk.&emsp;<em>"Surely, you must be joking"</em></p>
 </HisyeoTabs>
 
 ### Surprise/Excitement
@@ -54,9 +54,9 @@ or we might use an exclamation point to indicate this feeling in certain
 sentences that don't have an explicit spoken word.
 
 <HisyeoTabs>
-    <p>nimü lı si gik foxo.&emsp;<em>"Wow, you made it!"</em></p>
-    <p>niün döstoc wilüwo kon kelo foxo.&emsp;<em>"He scored!"</em></p>
-    <p>niün ke lı zigil foxo.&emsp;<em>"They are going to fall!"</em></p>
+    <p>nîmû li sî gîk foxo.&emsp;<em>"Wow, you made it!"</em></p>
+    <p>nîûn dôstoc wîlûwo kon kelo foxo.&emsp;<em>"He scored!"</em></p>
+    <p>nîûn ke li zîgîl foxo.&emsp;<em>"They are going to fall!"</em></p>
 </HisyeoTabs>
 
 ### Tag Questions

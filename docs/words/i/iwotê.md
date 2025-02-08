@@ -1,0 +1,26 @@
+---
+id: iwotê
+slug: iwotê
+title: İWOTÊ
+sidebar_position: 68
+tags: [iwotê, Adjective, Tupian]
+description: tall § Adjective
+---
+
+### iwotê&emsp;<span kind="abugida">ɽȷʒcʇ</span>
+
+*tall* **§** [Adjective](../../tags/Adjective)
+
+**IPA**: /ɪ.ˈwɑ.te/
+
+**Verb**: to be tall/high
+
+**Noun**: tallness/height
+
+**Modifier**: s
+
+<details>
+    <summary>Origin</summary>
+    Guaraní yvate [ɨʋate]<br/>
+    <em>Tupian Language Family</em>
+</details>

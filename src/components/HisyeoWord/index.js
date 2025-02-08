@@ -51,10 +51,10 @@ function useTabQueryString({
 export default function HisyeoWord({is}) {
   const [queryString, _] = useTabQueryString({
     queryString: true,
-    groupId: "boböun-kon-cukto",
+    groupId: "bobôun-kon-cukto",
   })
   if (words[is] != undefined) { 
-    if (queryString == "opügido") { return (
+    if (queryString == "opûgido") { return (
       <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='abugida'>{words[is]['abugida']}</a>
     ) } else { return (
       <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='latin'>{words[is]['latin']}</a>
