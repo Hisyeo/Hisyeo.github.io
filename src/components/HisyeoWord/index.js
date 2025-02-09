@@ -54,7 +54,7 @@ export default function HisyeoWord({is}) {
     groupId: "bobôun-kon-cukto",
   })
   if (words[is] != undefined) { 
-    if (queryString == "opûgido") { return (
+    if (queryString == "obûgîdo") { return (
       <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='abugida'>{words[is]['abugida']}</a>
     ) } else { return (
       <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='latin'>{words[is]['latin']}</a>
