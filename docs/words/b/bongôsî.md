@@ -1,0 +1,26 @@
+---
+id: bongôsî
+slug: bongôsî
+title: BONGÔS
+sidebar_position: 555
+tags: [bongôsî, Adjective, Niger-Congo]
+description: endangered § Adjective
+---
+
+### bongôsî&emsp;<span kind="abugida">ʋ̃ꜿıɐɟ</span>
+
+*endangered* **§** [Adjective](../../tags/Adjective)
+
+**IPA**: /ˈbɑn.go.si/
+
+**Verb**: to be endangered/in danger
+
+**Noun**: endangerment
+
+**Modifier**: endangered/in-danger
+
+<details>
+    <summary>Origin</summary>
+    Chichewa/Shona pangozi /paᵑɡɔzi/<br/>
+    <em>Niger-Congo Language Family</em>
+</details>

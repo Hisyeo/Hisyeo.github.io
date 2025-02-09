@@ -16,13 +16,13 @@ const letterMap = {
     l: 'L',
     y: 'Y',
     o: 'O',
-    ö: 'Ö',
+    ô: 'Ô',
     e: 'E',
-    ë: 'Ë',
-    ı: 'I',
+    ê: 'Ê',
+    i: 'I',
     i: 'İ',
     u: 'U',
-    ü: 'Ü',
+    û: 'Û',
 }
 
 export const capitalize = word => word.split('').map(l => letterMap[l]).join('')

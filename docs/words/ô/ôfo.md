@@ -1,0 +1,26 @@
+---
+id: ôfo
+slug: ôfo
+title: ÔFO
+sidebar_position: 42
+tags: [ôfo, Pronoun, Balto-Slavic]
+description: proximal demonstrative (this/here) § Pronoun
+---
+
+### ôfo&emsp;<span kind="abugida">ɽıɤ</span>
+
+*proximal demonstrative (this/here)* **§** [Pronoun](../../tags/Pronoun)
+
+**IPA**: /ˈo.fɑ/
+
+**Verb**: to be this
+
+**Noun**: this
+
+**Modifier**: this
+
+<details>
+    <summary>Origin</summary>
+    Macedonian ова ova [ˈɔva]<br/>
+    <em>Balto-Slavic Language Family</em>
+</details>

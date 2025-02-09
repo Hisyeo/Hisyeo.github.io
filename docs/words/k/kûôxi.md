@@ -1,0 +1,26 @@
+---
+id: kûôxi
+slug: kûôxi
+title: KÛÔXİ
+sidebar_position: 216
+tags: [kûôxi, Noun, Sino-Tibetan]
+description: fruit § Noun
+---
+
+### kûôxi&emsp;<span kind="abugida">ɔʄɽıɋȷ</span>
+
+*fruit* **§** [Noun](../../tags/Noun)
+
+**IPA**: /ˈku.o.ʃɪ/
+
+**Verb**: to be a fruit
+
+**Noun**: fruit
+
+**Modifier**: fruit-related
+
+<details>
+    <summary>Origin</summary>
+    Mandarin 果實 guǒshí /ku̯ɔ.ʂɨ/<br/>
+    <em>Sino-Tibetan Language Family</em>
+</details>

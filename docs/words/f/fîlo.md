@@ -1,0 +1,26 @@
+---
+id: fîlo
+slug: fîlo
+title: FLO
+sidebar_position: 641
+tags: [fîlo, Noun, Romance]
+description: row § Noun
+---
+
+### fîlo&emsp;<span kind="abugida">ɤɟʓ</span>
+
+*row* **§** [Noun](../../tags/Noun)
+
+**IPA**: /ˈfi.lɑ/
+
+**Verb**: to be a row
+
+**Noun**: row
+
+**Modifier**: row-related
+
+<details>
+    <summary>Origin</summary>
+    Italian fila /ˈfi.la/<br/>
+    <em>Romance Language Family</em>
+</details>

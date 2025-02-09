@@ -1,0 +1,26 @@
+---
+id: fîmôsyôs
+slug: fîmôsyôs
+title: FMÔSYÔS
+sidebar_position: 640
+tags: [fîmôsyôs, Adjective, Hellenic]
+description: public/communal § Adjective
+---
+
+### fîmôsyôs&emsp;<span kind="abugida">ɤɟƶ́ıɀ́ı</span>
+
+*public/communal* **§** [Adjective](../../tags/Adjective)
+
+**IPA**: /ˈfi.mos.jos/
+
+**Verb**: to be public/communal
+
+**Noun**: publicness/communalness
+
+**Modifier**: public/communal
+
+<details>
+    <summary>Origin</summary>
+    Greek δημόσιος dimósios /ðiˈmo.si.os/<br/>
+    <em>Hellenic Language Family</em>
+</details>

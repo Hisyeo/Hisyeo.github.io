@@ -1,0 +1,26 @@
+---
+id: zik
+slug: zik
+title: ZİK
+sidebar_position: 523
+tags: [zik, Pronoun, Nilo-Saharan]
+description: what § Pronoun
+---
+
+### zik&emsp;<span kind="abugida">ⱴ̑ȷ</span>
+
+*what* **§** [Pronoun](../../tags/Pronoun)
+
+**IPA**: /ˈd͡ʒɪk/
+
+**Verb**: to be what
+
+**Noun**: what/whom
+
+**Modifier**: (of) what
+
+<details>
+    <summary>Origin</summary>
+    Majang ǯík /dʒɪk̚/<br/>
+    <em>Nilo-Saharan Language Family</em>
+</details>

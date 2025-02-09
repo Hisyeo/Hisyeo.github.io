@@ -1,19 +1,19 @@
 ---
-slug: üsën-nëös-2025
-title: usën nëös 2025
+slug: ûsên-nêôs-2025
+title: usên nêôs 2025
 authors: [govuliel]
-tags: [hiskünco]
+tags: [hîskûnco]
 ---
 
 The new year is almost here. I am excited to keep growing the learning materials
 here on this site and eventually also making some lesson videos. I want 2025 to
-be the Year of Hisyëö.
+be the Year of Hîsyêô.
 
 ---
 
-üsën nëös onö bı cokyen hoi öfo. noyo lı hizon oxon xe wuitsi xe liun mötowo kon
-bëüdo hoi boxö öfo ün bı zelen bı ütok sobıs non kon bëüdo. noyo fölun üsën 2025
-xe lı üsën yë hiskünco Hisyëö.
+ûsên nêôs onô bi cokyen hoî ôfo. noyo li hîzon oxon xe wuîtsî xe lîun môtowo kon
+bêûdo hoî boxô ôfo ûn bi zelen bi ûtok sobis non kon bêûdo. noyo fôlun ûsên 2025
+xe li ûsên yê hîskûnco Hîsyêô.
 
 <!-- truncate -->
 
@@ -35,10 +35,10 @@ accomplishments:
   the lexicon is robust enough to handle the translating I've done so far.
 - Completed an abugida and implemented a font that properly kerns the various
   abugida characters
-- Designed a featural syllabary that has symbols for all possible Hisyëö
+- Designed a featural syllabary that has symbols for all possible Hîsyêô
   phonemes and am about 30% complete on implementing all the SVGs in FontForge
 
-That's quite a bit of work and it's just the first real year of Hisyëö
+That's quite a bit of work and it's just the first real year of Hîsyêô
 development. For 2025, we plan to do so much more:
 
 - Finish translating A Poor Count's Christmas
@@ -53,4 +53,4 @@ new year.
 
 Wishing you all the best ahead,
 
-Team Hisyëö
+Team Hîsyêô

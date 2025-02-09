@@ -5,8 +5,8 @@ import reactStringReplace from 'react-string-replace'
 import words from '@site/static/words.json'
 import { transcribe } from './abugida';
 
-const lc = 'oöeëıiuühkgtcsxdzbfmnlwy'
-const uc = 'OÖEËIİUÜHKGTCSXDZBFMNLWY'
+const lc = 'oôeêiîuûhkgtcsxdzbfmnlwy'
+const uc = 'OÔEÊIÎUÛHKGTCSXDZBFMNLWY'
 
 /**
  * 

@@ -1,0 +1,26 @@
+---
+id: sêmoi
+slug: sêmoi
+title: SÊMOİ
+sidebar_position: 392
+tags: [sêmoi, Noun, Afroasiatic]
+description: heaven § Noun
+---
+
+### sêmoi&emsp;<span kind="abugida">ɐʇƶɽȷ</span>
+
+*heaven* **§** [Noun](../../tags/Noun)
+
+**IPA**: /ˈse.mɑ.ɪ/
+
+**Verb**: to be heaven/paradise
+
+**Noun**: heaven/paradise
+
+**Modifier**: heavenly/paradise-like
+
+<details>
+    <summary>Origin</summary>
+    Tigrinya ሰማይ sämay /semaɪ̯/<br/>
+    <em>Afroasiatic Language Family</em>
+</details>

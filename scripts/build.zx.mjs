@@ -6,15 +6,15 @@ let tags = "";
 const words = {}
 const snippets = {}
 const docTmpl = (w, i) => `---
-id: ${w['Hisyëö']}
-slug: ${w['Hisyëö']}
-title: ${capitalize(w['Hisyëö'])}
+id: ${w['Hîsyêô']}
+slug: ${w['Hîsyêô']}
+title: ${capitalize(w['Hîsyêô'])}
 sidebar_position: ${i}
-tags: [${w['Hisyëö']}, ${w['Type']}, ${w['Family']}]
+tags: [${w['Hîsyêô']}, ${w['Type']}, ${w['Family']}]
 description: ${w['Meaning']} § ${w['Type']}
 ---
 
-### ${w['Hisyëö']}&emsp;<span kind="abugida">${w['ɂ́ɟɀʇɽʃ']}</span>
+### ${w['Hîsyêô']}&emsp;<span kind="abugida">${w['ɂ́ɟɀʇɽʃ']}</span>
 
 *${w['Meaning']}* **§** [${w['Type']}](../../tags/${w['Type']})
 
@@ -32,8 +32,8 @@ description: ${w['Meaning']} § ${w['Type']}
     <em>${w['Family']} Language Family</em>
 </details>`
 
-const tagTmpl = (w) => `${w['Hisyëö']}:
-    label: ${w['Hisyëö']}
+const tagTmpl = (w) => `${w['Hîsyêô']}:
+    label: ${w['Hîsyêô']}
     description: ${w['Meaning']}
 `
 
@@ -62,20 +62,20 @@ await Promise.all(records.map(async (data, idx) => {
     try {
         process.stdout.write(`.`)
         
-        await fs.outputFile(`./docs/words/${data['Hisyëö'][0]}/${data['Hisyëö']}.md`, docTmpl(data, idx))
+        await fs.outputFile(`./docs/words/${data['Hîsyêô'][0]}/${data['Hîsyêô']}.md`, docTmpl(data, idx))
 
         tags = `${tags}${tagTmpl(data)}`
 
-        snippets[`${data['Hisyëö']}`] = {
+        snippets[`${data['Hîsyêô']}`] = {
             scope: "markdown,mdx,fountain",
-            prefix: data['Hisyëö'],
-            body: `${data['Hisyëö']}`,
+            prefix: data['Hîsyêô'],
+            body: `${data['Hîsyêô']}`,
             description: data['Meaning'],
         }
-        words[data["Hisyëö"]] = {
+        words[data["Hîsyêô"]] = {
             index: idx,
             abugida: data["ɂ́ɟɀʇɽʃ"],
-            latin: data["Hisyëö"],
+            latin: data["Hîsyêô"],
             meaning: data["Meaning"],
             verb: data["Verb"],
             noun: data["Noun"],

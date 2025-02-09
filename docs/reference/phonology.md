@@ -10,11 +10,11 @@ Docusaurus can manage multiple versions of your docs.
 
 ### Consonants
 
-Hisyëö has 16 consonants and 1 null consonant which is necessary for the
+Hîsyêô has 16 consonants and 1 null consonant which is necessary for the
 alphasyllabary but you can optionally include a ⟨ ꞌ ⟩ character in Latin
 representations too.
 
-| Hisyëö |  Latin   |      IPA      | Transliteration Sources                                    |
+| Hîsyêô |  Latin   |      IPA      | Transliteration Sources                                    |
 | :----: | :------: | :-----------: | ---------------------------------------------------------- |
 | ⟨ɽ⟩  | ⟨ ꞌ ⟩ |     / . /     | glottal stops & hiatus: ʔ .                                |
 | ⟨ɂ⟩  |  ⟨h⟩   |  /h/ ~ / x /  | back fricatives: x χ ʁ ʀ ħ ʕ h ɦ ʢ ʜ ɧ                     |
@@ -47,15 +47,15 @@ representations too.
 
 ### Vowels
 
-| Hisyëö  | Latin | IPA | Transliteration Sources                             |
+| Hîsyêô  | Latin | IPA | Transliteration Sources                             |
 | :-----: | :---: | --- | --------------------------------------------------- |
 |         | ⟨o⟩ | /ɑ/ | open-back unrounded vowels: a ɑ ɐ                        |
-| ⟨ ı ⟩ | ⟨ö⟩ | /ɔ/ | open-back-close-back rounded vowels: ɶ ɒ ɞ ɔ o ɵ               |
-| ⟨ ʄ ⟩ | ⟨ü⟩ | /u/ | back close vowels: u ʉ ʊ ɯ                          |
-| ⟨ ȷ ⟩ | ⟨ı⟩ | /ɪ/ | central near-close-mid vowels: ɪ ʏ ɨ ɘ       |
-| ⟨ ɟ ⟩ | ⟨i⟩ | /i/ | front close vowels: i y                     |
+| ⟨ ı ⟩ | ⟨ô⟩ | /ɔ/ | open-back-close-back rounded vowels: ɶ ɒ ɞ ɔ o ɵ               |
+| ⟨ ʄ ⟩ | ⟨û⟩ | /u/ | back close vowels: u ʉ ʊ ɯ                          |
+| ⟨ ȷ ⟩ | ⟨i⟩ | /ɪ/ | central near-close-mid vowels: ɪ ʏ ɨ ɘ       |
+| ⟨ ɟ ⟩ | ⟨î⟩ | /i/ | front close vowels: i y                     |
 | ⟨ ɿ ⟩ | ⟨e⟩ | /ɛ/ | front/central unrounded near-open-mid vowels: ɛ ɜ æ |
-| ⟨ ʇ ⟩ | ⟨ë⟩ | /e/ | front close-mid vowels: e ø                         |
+| ⟨ ʇ ⟩ | ⟨ê⟩ | /e/ | front close-mid vowels: e ø                         |
 
 ## Phonotactics
 
@@ -80,8 +80,8 @@ Strong vowels are slightly geminated compared to the weak vowels:
 
 |         |               Strong               |        Weak         |
 | ------- | :--------------------------------: | :-----------------: |
-| Abugida | (null), ⟨ı⟩, ⟨ʄ⟩, ⟨ɟ⟩, ⟨ʇ⟩ | ⟨ʃ⟩, ⟨ȷ⟩, ⟨ɿ⟩ |
-| Latin   | ⟨o⟩, ⟨ö⟩, ⟨ü⟩, ⟨i⟩, ⟨ë⟩  | ⟨u⟩, ⟨ı⟩, ⟨e⟩ |
+| Abugida | (null), ⟨ı ⟩, ⟨ʄ⟩, ⟨ɟ⟩, ⟨ʇ⟩ | ⟨ʃ⟩, ⟨ȷ⟩, ⟨ɿ⟩ |
+| Latin   | ⟨o⟩, ⟨ô⟩, ⟨û⟩, ⟨i⟩, ⟨ê⟩  | ⟨u⟩, ⟨i⟩, ⟨e⟩ |
 
 ## Prosody
 
@@ -97,7 +97,7 @@ sentence ender particles.
 
 ## Word restrictions
 
-All of the dictionary words of Hisyëö (not including proper nouns or loanwords,
+All of the dictionary words of Hîsyêô (not including proper nouns or loanwords,
 etc.) are either one-, two- or three-syllables long. There are no minimal pairs
 that contrast using any “conflicting phonemes”.
 
@@ -121,13 +121,13 @@ that contrast using any “conflicting phonemes”.
 - /j/ with Ø and /l/
 
 ### Vowel Conflicts
-- /ɑ/ with /ə/ and /ı/           
-- /æ/ with /ı/ and /ə/    
-- /ı/ with /ɑ/, /i/, and /e/
+- /ɑ/ with /ə/ and /i/           
+- /æ/ with /i/ and /ə/    
+- /ı / with /ɑ/, /i/, and /e/
 - /ə/ with /ɑ/, /ɔ/, and /æ/
 - /ɔ/ with /u/ and /ə/
-- /e/ with /ı/ and /i/
-- /i/ with /e/ and /ı/
+- /e/ with /i/ and /i/
+- /i/ with /e/ and /i/
 - /u/ with /ɔ/
 
-This means that two words that differ by one sound cannot have any of these conflicting phonemes as the differing sounds. For example, since %%yöcno@yöcno%% is a Hisyëö word, there are no words like yözmo, yözto or özno also in the language because they differ by one phoneme that conflicts with a phoneme in %%yöcno@yöcno%%.
+This means that two words that differ by one sound cannot have any of these conflicting phonemes as the differing sounds. For example, since %%yôcno@yôcno%% is a Hîsyêô word, there are no words like yôzmo, yôzto or ôzno also in the language because they differ by one phoneme that conflicts with a phoneme in %%yôcno@yôcno%%.

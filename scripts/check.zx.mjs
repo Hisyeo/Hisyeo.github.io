@@ -3,10 +3,10 @@ import csv from 'neat-csv'
 const file = await fs.readFile('./static/words.csv', 'utf8')
 
 const neuVowels = {
-    o: 'a', ö: 'o',
-    e: 'e', ë: 'i',
-    ı: 'e', i: 'i',
-    u: 'a', ü: 'u',
+    o: 'a', ô: 'o',
+    e: 'e', ê: 'e',
+    i: 'i', î: 'i',
+    u: 'a', û: 'u',
 }
 
 const minPairs = {
@@ -28,15 +28,15 @@ const minPairs = {
     l:   ['ꞌ', 'y', 'w'],
     y:   ['ꞌ', 'l'],
     // Vowels
-    o:   ['u'],           ö:   ['ü', 'u'],
-    e:   ['ı', 'u', 'ë'], ë:   ['ı', 'i', 'e'],
-    ı:   ['o', 'i', 'ë'], i:   ['ë', 'ı'],
-    u:   ['o', 'ö', 'e'], ü:   ['ö'],
+    o:   ['e', 'i', 'u'],      ô:   ['o', 'û'],
+    e:   ['o', 'ê', 'i', 'u'], ê:   ['e', 'i', 'î'],
+    i:   ['o', 'î', 'ê', 'u'], î:   ['e', 'ê', 'i'],
+    u:   ['o', 'e', 'i'],      û:   ['u', 'ô'],
 }
 
 // let badSyllablesIdentified = false
 // const badSyllablesMessage = "Some words have improper syllable structure"
-const syllableRegex = /(?<onset>[ꞌhkgtcxsdzbfmnlwy])?(?<nucleus>[oöeëıiuü])(?<coda>[tkscnl](?![oöeëıiuü]))?/gi
+const syllableRegex = /(?<onset>[ꞌhkgtcxsdzbfmnlwy])?(?<nucleus>[oôeêiîuû])(?<coda>[tkscnl](?![oôeêiîuû]))?/gi
 
 
 const records = await csv(file, {
@@ -53,18 +53,18 @@ const apocopes = []
 const collisions = []
 
 for (const record of records) {
-    words.push(record["Hisyëö"])
-    neutrals.push(neutralize(record["Hisyëö"]))
-    const smoothed = monophthongize(record["Hisyëö"])
+    words.push(record["Hîsyêô"])
+    neutrals.push(neutralize(record["Hîsyêô"]))
+    const smoothed = monophthongize(record["Hîsyêô"])
     if (smoothed != undefined)
-        monophthongs[smoothed] = [...monophthongs[smoothed] ?? [], record["Hisyëö"]];
+        monophthongs[smoothed] = [...monophthongs[smoothed] ?? [], record["Hîsyêô"]];
     if (![ 'Preposition',
            'Conjunction',
            'Postposition',
            'Interjection'
         ].includes(record["Type"]) &&
-        /[oöeëıiuü]/.test(record["Hisyëö"][0])) {
-        apocopes.push(`l${record["Hisyëö"]}`, `p${record["Hisyëö"]}`);
+        /[oôeêiiuû]/.test(record["Hîsyêô"][0])) {
+        apocopes.push(`l${record["Hîsyêô"]}`, `p${record["Hîsyêô"]}`);
     }
 }
 
@@ -207,76 +207,76 @@ function monophthongize(word) {
     for (let index = 0; index < letters.length; index++) {
         switch(`${letters[index]}${letters[index + 1]}`) {
         case 'oo': console.error(`Illegal syllable in ${word}`)
-        case 'oö': return smoothL(letters, index)
+        case 'oô': return smoothL(letters, index)
         case 'oe': console.error(`Illegal syllable in ${word}`)
-        case 'oë': return smoothL(letters, index)
-        case 'oı': return smoothL(letters, index)
+        case 'oê': return smoothL(letters, index)
         case 'oi': return smoothL(letters, index)
+        case 'oî': return smoothL(letters, index)
         case 'ou': console.error(`Illegal syllable in ${word}`)
-        case 'oü': return smoothL(letters, index)
+        case 'oû': return smoothL(letters, index)
         
-        case 'öo': return smoothL(letters, index)
-        case 'öö': console.error(`Illegal syllable in ${word}`)
-        case 'öe': return smoothL(letters, index)
-        case 'öë': return smoothL(letters, index)
-        case 'öı': return smoothL(letters, index)
-        case 'öi': return smoothL(letters, index)
-        case 'öu': return smoothL(letters, index)
-        case 'öü': return smoothL(letters, index)
+        case 'ôo': return smoothL(letters, index)
+        case 'ôô': console.error(`Illegal syllable in ${word}`)
+        case 'ôe': return smoothL(letters, index)
+        case 'ôê': return smoothL(letters, index)
+        case 'ôi': return smoothL(letters, index)
+        case 'ôî': return smoothL(letters, index)
+        case 'ôu': return smoothL(letters, index)
+        case 'ôû': return smoothL(letters, index)
         
         case 'eo': console.error(`Illegal syllable in ${word}`)
-        case 'eö': return smoothL(letters, index)
+        case 'eô': return smoothL(letters, index)
         case 'ee': console.error(`Illegal syllable in ${word}`)
-        case 'eë': console.error(`Illegal syllable in ${word}`)
-        case 'eı': return smoothL(letters, index)
+        case 'eê': console.error(`Illegal syllable in ${word}`)
         case 'ei': return smoothL(letters, index)
+        case 'eî': return smoothL(letters, index)
         case 'eu': console.error(`Illegal syllable in ${word}`)
-        case 'eü': return smoothL(letters, index)
+        case 'eû': return smoothL(letters, index)
 
-        case 'ëo': return smoothR(letters, index)
-        case 'ëö': return smoothR(letters, index)
-        case 'ëe': console.error(`Illegal syllable in ${word}`)
-        case 'ëë': console.error(`Illegal syllable in ${word}`)
-        case 'ëı': return smoothL(letters, index)
-        case 'ëi': return smoothL(letters, index)
-        case 'ëu': return smoothR(letters, index)
-        case 'ëü': return smoothR(letters, index)
+        case 'êo': return smoothR(letters, index)
+        case 'êô': return smoothR(letters, index)
+        case 'êe': console.error(`Illegal syllable in ${word}`)
+        case 'êê': console.error(`Illegal syllable in ${word}`)
+        case 'êi': return smoothL(letters, index)
+        case 'êî': return smoothL(letters, index)
+        case 'êu': return smoothR(letters, index)
+        case 'êû': return smoothR(letters, index)
         
-        case 'ıo': console.error(`Illegal syllable in ${word}`)
-        case 'ıö': return smoothR(letters, index)
-        case 'ıe': console.error(`Illegal syllable in ${word}`)
-        case 'ıë': console.error(`Illegal syllable in ${word}`)
-        case 'ıı': console.error(`Illegal syllable in ${word}`)
-        case 'ıi': console.error(`Illegal syllable in ${word}`)
-        case 'ıu': console.error(`Illegal syllable in ${word}`)
-        case 'ıü': return smoothR(letters, index)
-
-        case 'io': return smoothR(letters, index)
-        case 'iö': return smoothR(letters, index)
-        case 'ie': return smoothR(letters, index)
-        case 'ië': return smoothR(letters, index)
-        case 'iı': return smoothR(letters, index)
+        case 'io': console.error(`Illegal syllable in ${word}`)
+        case 'iô': return smoothR(letters, index)
+        case 'ie': console.error(`Illegal syllable in ${word}`)
+        case 'iê': console.error(`Illegal syllable in ${word}`)
         case 'ii': console.error(`Illegal syllable in ${word}`)
-        case 'iu': return smoothR(letters, index)
-        case 'iü': return smoothR(letters, index)
+        case 'iî': console.error(`Illegal syllable in ${word}`)
+        case 'iu': console.error(`Illegal syllable in ${word}`)
+        case 'iû': return smoothR(letters, index)
+
+        case 'îo': return smoothR(letters, index)
+        case 'îô': return smoothR(letters, index)
+        case 'îe': return smoothR(letters, index)
+        case 'îê': return smoothR(letters, index)
+        case 'îi': return smoothR(letters, index)
+        case 'îî': console.error(`Illegal syllable in ${word}`)
+        case 'îu': return smoothR(letters, index)
+        case 'îû': return smoothR(letters, index)
 
         case 'uo': console.error(`Illegal syllable in ${word}`)
-        case 'uö': return smoothR(letters, index)
+        case 'uô': return smoothR(letters, index)
         case 'ue': console.error(`Illegal syllable in ${word}`)
-        case 'uë': return smoothL(letters, index)
-        case 'uı': console.error(`Illegal syllable in ${word}`)
-        case 'ui': return smoothL(letters, index)
+        case 'uê': return smoothL(letters, index)
+        case 'ui': console.error(`Illegal syllable in ${word}`)
+        case 'uî': return smoothL(letters, index)
         case 'uu': console.error(`Illegal syllable in ${word}`)
-        case 'uü': return smoothL(letters, index)
+        case 'uû': return smoothL(letters, index)
         
-        case 'üo': return smoothR(letters, index)
-        case 'üö': return smoothR(letters, index)
-        case 'üe': return smoothR(letters, index)
-        case 'üë': return smoothR(letters, index)
-        case 'üı': return smoothR(letters, index)
-        case 'üi': return smoothR(letters, index)
-        case 'üu': return smoothR(letters, index)
-        case 'üü': console.error(`Illegal syllable in ${word}`)
+        case 'ûo': return smoothR(letters, index)
+        case 'ûô': return smoothR(letters, index)
+        case 'ûe': return smoothR(letters, index)
+        case 'ûê': return smoothR(letters, index)
+        case 'ûi': return smoothR(letters, index)
+        case 'ûî': return smoothR(letters, index)
+        case 'ûu': return smoothR(letters, index)
+        case 'ûû': console.error(`Illegal syllable in ${word}`)
         }
     }
 }
