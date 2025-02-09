@@ -7,10 +7,23 @@ tags: [hîskûnco]
 
 After some discussions on the [Auxlang Discord
 server](https://discord.com/channels/379965248565936128/1318647577142624356),
-the diacritic used in the Hîsyêô Latin-based orthography will be changed from  the
-[two dots](https://en.wikipedia.org/wiki/Two_dots_(diacritic))
-([umlaut](https://en.wikipedia.org/wiki/Umlaut_(diacritic))) to the
-[circumflex](https://en.wikipedia.org/wiki/Circumflex). <!-- truncate -->
+the diacritic used in the Hîsyêô Latin-based orthography will be changed from
+the [two dots](https://en.wikipedia.org/wiki/Two_dots_(diacritic)) to the
+[circumflex](https://en.wikipedia.org/wiki/Circumflex).
+
+---
+
+cihôû yoûtî xe kôto mût xokôn dîzel hoî [boxô yê yôn Dîskôldu et yê hîskûnco yê
+în yôn
+nucoto]((https://discord.com/channels/379965248565936128/1318647577142624356)),
+solwôc yê yogô ûlonfû fos yôn ni hoî bobôun kon cukto yê xûk Letin et yê
+hîskûnco Hîsyêô, ke dî sûn [dûî
+bindû](https://en.wikipedia.org/wiki/Two_dots_(diacritic)) mût [ongôlô xe bono
+cên](https://en.wikipedia.org/wiki/Circumflex).
+
+<!-- truncate -->
+
+---
 
 This change will eliminate the confusion for those familiar
 with how the umlaut vowels are pronounced, or for those familiar with its usage
