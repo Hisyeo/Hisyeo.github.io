@@ -1,17 +1,17 @@
 ---
-id: son
-slug: son
-title: SON
+id: niswî
+slug: niswî
+title: NİSW
 sidebar_position: 375
-tags: [son, Numeral, Sino-Tibetan]
+tags: [niswî, Numeral, Algic]
 description: 03 three § Numeral
 ---
 
-### son&emsp;<span kind="abugida">ɐ̃</span>
+### niswî&emsp;<span kind="abugida">ƨ́ȷʒɟ</span>
 
 *03 three* **§** [Numeral](../../tags/Numeral)
 
-**IPA**: /ˈsɑn/
+**IPA**: /ˈnɪs.wi/
 
 **Verb**: to be three
 
@@ -21,6 +21,6 @@ description: 03 three § Numeral
 
 <details>
     <summary>Origin</summary>
-    Mandarin 三 sān /sän/<br/>
-    <em>Sino-Tibetan Language Family</em>
+    Ojibwe niswi /ˈnɪsˌwɨ/<br/>
+    <em>Algic Language Family</em>
 </details>

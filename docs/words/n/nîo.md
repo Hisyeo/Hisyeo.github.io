@@ -1,17 +1,17 @@
 ---
-id: nîûn
-slug: nîûn
-title: NÛN
+id: nîo
+slug: nîo
+title: NO
 sidebar_position: 742
-tags: [nîûn, Pronoun, Niger-Congo]
+tags: [nîo, Pronoun, Austronesian]
 description: they/them § Pronoun
 ---
 
-### nîûn&emsp;<span kind="abugida">ƨɟɽ̃ʄ</span>
+### nîo&emsp;<span kind="abugida">ƨɟɽ</span>
 
 *they/them* **§** [Pronoun](../../tags/Pronoun)
 
-**IPA**: /ˈni.un/
+**IPA**: /ˈni.ɑ/
 
 **Verb**: to be them
 
@@ -21,6 +21,6 @@ description: they/them § Pronoun
 
 <details>
     <summary>Origin</summary>
-    Wolof ñoom /ɲɔːm/<br/>
-    <em>Niger-Congo Language Family</em>
+    Tagalog ᜈᜒᜌ niyá [ˈɲa]<br/>
+    <em>Austronesian Language Family</em>
 </details>
