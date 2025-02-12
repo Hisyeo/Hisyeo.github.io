@@ -40,7 +40,7 @@ words like "do", "sure", "really" to indicate that the sentence is of greater
 importance to the surrounding explanation or to affirm a predicate as true.
 
 <HisyeoTabs>
-    <p>nîûn tûu sî yoûtî foût lôîcôk.&emsp;<em>"Indeed, he made several mistakes"</em></p>
+    <p>nîo tûu sî yoûtî foût lôîcôk.&emsp;<em>"Indeed, he made several mistakes"</em></p>
     <p>noyo li xoînbo in dêko êto misli nîmû lôîcôk.&emsp;<em>"I do look very similar to you"</em></p>
     <p>nîmû kûu li yoûmok lôîcôk.&emsp;<em>"Surely, you must be joking"</em></p>
 </HisyeoTabs>
@@ -55,8 +55,8 @@ sentences that don't have an explicit spoken word.
 
 <HisyeoTabs>
     <p>nîmû li sî gîk foxo.&emsp;<em>"Wow, you made it!"</em></p>
-    <p>nîûn dôstoc wîlûwo kon kelo foxo.&emsp;<em>"He scored!"</em></p>
-    <p>nîûn ke li zîgîl foxo.&emsp;<em>"They are going to fall!"</em></p>
+    <p>nîo dôstoc wîlûwo kon kelo foxo.&emsp;<em>"He scored!"</em></p>
+    <p>nîo ke li zîgîl foxo.&emsp;<em>"They are going to fall!"</em></p>
 </HisyeoTabs>
 
 ### Tag Questions
