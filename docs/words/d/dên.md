@@ -2,7 +2,7 @@
 id: dên
 slug: dên
 title: DÊN
-sidebar_position: 481
+sidebar_position: 480
 tags: [dên, Preposition, Armenian]
 description: counter-agent marker (against) § Preposition
 ---

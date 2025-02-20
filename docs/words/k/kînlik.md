@@ -2,7 +2,7 @@
 id: kînlik
 slug: kînlik
 title: KNLİK
-sidebar_position: 199
+sidebar_position: 205
 tags: [kînlik, Adjective, Sino-Tibetan]
 description: authorized § Adjective
 ---
@@ -11,7 +11,7 @@ description: authorized § Adjective
 
 *authorized* **§** [Adjective](../../tags/Adjective)
 
-**IPA**: /ˈki.un.lɪk/
+**IPA**: /ˈkin.lɪk/
 
 **Verb**: to be authorized/sovereign
 

@@ -2,7 +2,7 @@
 id: dûlûsî
 slug: dûlûsî
 title: DÛLÛS
-sidebar_position: 503
+sidebar_position: 502
 tags: [dûlûsî, Noun, Niger-Congo]
 description: reptile § Noun
 ---

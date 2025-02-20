@@ -2,7 +2,7 @@
 id: bûlo
 slug: bûlo
 title: BÛLO
-sidebar_position: 613
+sidebar_position: 612
 tags: [bûlo, Adjective, Indo-Iranian]
 description: brown § Adjective
 ---

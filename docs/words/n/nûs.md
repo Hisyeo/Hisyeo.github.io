@@ -1,17 +1,17 @@
 ---
-id: nû
-slug: nû
-title: NÛ
+id: nûs
+slug: nûs
+title: NÛS
 sidebar_position: 753
-tags: [nû, Pronoun, Romance]
+tags: [nûs, Pronoun, Romance]
 description: we/us § Pronoun
 ---
 
-### nû&emsp;<span kind="abugida">ƨʄ</span>
+### nûs&emsp;<span kind="abugida">ƨ́ʄ</span>
 
 *we/us* **§** [Pronoun](../../tags/Pronoun)
 
-**IPA**: /ˈnu/
+**IPA**: /ˈnus/
 
 **Verb**: to be us
 

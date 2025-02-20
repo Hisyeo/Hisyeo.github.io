@@ -2,7 +2,7 @@
 id: sonkon
 slug: sonkon
 title: SONKON
-sidebar_position: 376
+sidebar_position: 375
 tags: [sonkon, Adjective, Kra-Dai]
 description: important § Adjective
 ---

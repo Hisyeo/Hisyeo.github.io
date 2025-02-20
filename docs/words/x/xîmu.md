@@ -2,7 +2,7 @@
 id: xîmu
 slug: xîmu
 title: XMU
-sidebar_position: 452
+sidebar_position: 451
 tags: [xîmu, Noun, Nilo-Saharan]
 description: water § Noun
 ---

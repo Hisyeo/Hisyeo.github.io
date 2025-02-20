@@ -2,7 +2,7 @@
 id: mûun
 slug: mûun
 title: MÛUN
-sidebar_position: 698
+sidebar_position: 697
 tags: [mûun, Adjective, Austro-asiatic]
 description: late § Adjective
 ---

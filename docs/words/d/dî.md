@@ -2,7 +2,7 @@
 id: dî
 slug: dî
 title: D
-sidebar_position: 484
+sidebar_position: 483
 tags: [dî, Verb, Niger-Congo]
 description: to become (a trait) § Verb
 ---

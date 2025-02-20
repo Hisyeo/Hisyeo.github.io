@@ -2,7 +2,7 @@
 id: bi
 slug: bi
 title: Bİ
-sidebar_position: 577
+sidebar_position: 576
 tags: [bi, Preposition, Afroasiatic]
 description: manner/material marker § Preposition
 ---

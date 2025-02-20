@@ -2,7 +2,7 @@
 id: nomû
 slug: nomû
 title: NOMÛ
-sidebar_position: 718
+sidebar_position: 717
 tags: [nomû, Noun, Koreic]
 description: tree § Noun
 ---

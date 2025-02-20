@@ -1,17 +1,17 @@
 ---
-id: lô
-slug: lô
-title: LÔ
+id: nô
+slug: nô
+title: NÔ
 sidebar_position: 799
-tags: [lô, Adjective, Niger-Congo]
+tags: [nô, Adjective, Niger-Congo]
 description: moving § Adjective
 ---
 
-### lô&emsp;<span kind="abugida">ʓı</span>
+### nô&emsp;<span kind="abugida">ƨı</span>
 
 *moving* **§** [Adjective](../../tags/Adjective)
 
-**IPA**: /ˈlo/
+**IPA**: /ˈno/
 
 **Verb**: to be moving/to go
 
@@ -21,6 +21,6 @@ description: moving § Adjective
 
 <details>
     <summary>Origin</summary>
-    Yoruba lọ /lɔ̄/<br/>
+    Ede Ije nọ /nọ/<br/>
     <em>Niger-Congo Language Family</em>
 </details>

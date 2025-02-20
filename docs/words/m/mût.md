@@ -2,7 +2,7 @@
 id: mût
 slug: mût
 title: MÛT
-sidebar_position: 702
+sidebar_position: 701
 tags: [mût, Preposition, Germanic]
 description: direction/recipient (towards) § Preposition
 ---

@@ -2,7 +2,7 @@
 id: sûn
 slug: sûn
 title: SÛN
-sidebar_position: 418
+sidebar_position: 417
 tags: [sûn, Preposition, Sino-Tibetan]
 description: source/origin marker (from) § Preposition
 ---

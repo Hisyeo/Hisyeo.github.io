@@ -2,7 +2,7 @@
 id: sûwît
 slug: sûwît
 title: SÛWT
-sidebar_position: 421
+sidebar_position: 420
 tags: [sûwît, Adjective, Germanic]
 description: sweet § Adjective
 ---

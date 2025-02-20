@@ -2,7 +2,7 @@
 id: nikfûl
 slug: nikfûl
 title: NİKFÛL
-sidebar_position: 735
+sidebar_position: 734
 tags: [nikfûl, Adjective, Germanic]
 description: ficke/capricious § Adjective
 ---

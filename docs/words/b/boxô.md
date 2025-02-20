@@ -2,7 +2,7 @@
 id: boxô
 slug: boxô
 title: BOXÔ
-sidebar_position: 550
+sidebar_position: 549
 tags: [boxô, Noun, Japonic]
 description: place § Noun
 ---

@@ -2,7 +2,7 @@
 id: nonto
 slug: nonto
 title: NONTO
-sidebar_position: 721
+sidebar_position: 720
 tags: [nonto, Noun, Kra-Dai]
 description: tear (of the eye) § Noun
 ---

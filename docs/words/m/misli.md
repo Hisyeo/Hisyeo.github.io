@@ -2,7 +2,7 @@
 id: misli
 slug: misli
 title: MİSLİ
-sidebar_position: 682
+sidebar_position: 681
 tags: [misli, Preposition, Indo-Iranian]
 description: similative marker (like) § Preposition
 ---

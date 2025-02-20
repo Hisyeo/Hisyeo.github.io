@@ -2,7 +2,7 @@
 id: nosîko
 slug: nosîko
 title: NOSKO
-sidebar_position: 715
+sidebar_position: 714
 tags: [nosîko, Noun, Indo-Iranian]
 description: nose § Noun
 ---

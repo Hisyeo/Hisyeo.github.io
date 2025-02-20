@@ -2,7 +2,7 @@
 id: xohofec
 slug: xohofec
 title: XOHOFEC
-sidebar_position: 423
+sidebar_position: 422
 tags: [xohofec, Noun, Balto-Slavic]
 description: jellyfish/hydra/anemone § Noun
 ---

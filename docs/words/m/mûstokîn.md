@@ -2,7 +2,7 @@
 id: mûstokîn
 slug: mûstokîn
 title: MÛSTOKN
-sidebar_position: 703
+sidebar_position: 702
 tags: [mûstokîn, Adjective, Afroasiatic]
 description: straight § Adjective
 ---
