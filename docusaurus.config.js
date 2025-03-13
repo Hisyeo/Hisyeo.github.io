@@ -147,6 +147,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/Hisyeo',
               },
+              {
+                label: 'Goatcounter',
+                href: 'https://hisyeo.goatcounter.com',
+              },
             ],
           },
         ],
