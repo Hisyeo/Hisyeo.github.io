@@ -113,6 +113,10 @@ const config = {
                 label: 'Deckademy',
                 href: 'https://deckademy.com/#/deck/view/1007/Hisy%C3%AB%C3%B6',
               },
+              {
+                label: 'Kennings',
+                href: 'https://hisyeo-kennings.glitch.me',
+              },
             ],
           },
           {
@@ -125,6 +129,10 @@ const config = {
               {
                 label: 'Discord',
                 href: '/docs/community#how-can-i-join-the-community',
+              },
+              {
+                label: 'Matrix',
+                href: 'https://matrix.to/#/#hisyeo:matrix.org',
               },
             ],
           },

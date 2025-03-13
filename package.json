@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.4.3",
+    "@docusaurus/types": "^2.4.3",
     "zx": "^8.0.2"
   },
   "browserslist": {
