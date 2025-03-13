@@ -128,7 +128,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: '/docs/community#how-can-i-join-the-community',
+                href: 'https://discord.gg/48mUPRan9G',
               },
               {
                 label: 'Matrix',
