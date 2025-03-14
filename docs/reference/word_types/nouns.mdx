@@ -11,16 +11,19 @@ import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
 
 # Nouns
 
-A type of word that represents an entity (tangible or intangible). Can be
-represented by a Noun Phrase (NP) which contains a nucleus and surrounding
-quantifiers and modifiers.
+A type of word that represents an entity (abstract or concrete). A noun can be a
+compound of several words using genitive phrases and relative clauses. When a
+noun is more than one word, it is called a **noun phrase**. A noun phrases
+contains a nucleus or head noun and quantifiers are on the left and modifiers
+are chained to the right. The nearer the modifiers are to the nucleus, the more
+innate the quality is.
 
 ## Roles
 
 ### Causer / Voluntary Subject
 
 The <HisyeoWord is='û'/> particle precedes this noun phrase. If this is the
-first noun phrase of a sentence, the particle can be omitted.
+first noun phrase of a sentence, the particle can be elided (omitted).
 
 During causative sentences, a NP with this role represents the *causer*. During
 non-causative sentences, a NP with this role will be the **agent** or
@@ -50,25 +53,27 @@ equivalent semantic interpretation as the voluntary subject particle <HisyeoWord
 
 ### Patient, Theme, Stimulus (Direct Object)
 
-Any one of the verb words precedes this noun phrase. Between the verb and the
+Any free-standing verb will precede this noun phrase. Between the verb and the
 noun phrase can exist several verb modifier particles. See [Verbs](./verbs.mdx)
 for more details.
 
 The role of this object is for the special thematic argument to transitive
 verbs. The argument (the direct object) can be broken down into sub-types: a
 *patient*, a *theme*, or a *stimulus*. In English, this represents some of the
-senses of the word "to" and "into" (many English verbs don't rely on a
+senses of the word "to" and "into" (although, many English verbs don't rely on a
 preposition particle to introduce their direct object).
 
 :::caution Base Verbs Without This Particle
 
 You can provide a verb prepositionally without also providing a direct object
-NP. Simply start another preposition, use a connector to create a compound
-sentence, use a comma to end a clause or use a period to end a sentence. Not
-using this particle can have an impact on how base verb sentences are
-interpreted. Without providing a direct object, a base verb is interpreted as
-being *intransitive* or in an unthematic and generic manner (since no theme is
-being provided). That being said, sometimes it's easiest to just think of an
+noun phrase. Simply start another preposition, use a connector to create a
+compound sentence, use a comma to end a clause or use a period to end a sentence
+(the only thing you can't do is immediately follow a verb with another verb
+because it will be perceived as being the direct object of the preceding verb).
+Not using this noun phrase slot can have an impact on how base verb sentences
+are interpreted. Without providing a direct object, a base verb is interpreted
+as being *intransitive* or in an unthematic and generic manner (since no theme
+is being provided). That being said, sometimes it's easiest to just think of an
 implicit <HisyeoWord is='ni'/> existing in the direct object slot.
 
 :::
@@ -80,16 +85,17 @@ sensory action that is being described. These kinds of direct objects aren't
 separately marked because which kind of object is being specified can be
 determined from the verb that is being used.
 
-When used with the negatitive particle <HisyeoWord is='yôk'/>, it means that the
-marked noun phrase is either excluded from being the argument of the committed
-act of the predicate or that the act itself was committed but with an object
-that is something other than the marked noun phrase.
+When this noun phrase is preceded by the negatitive
+particle <HisyeoWord is='yôk'/>, it means that the marked noun phrase is either
+excluded from being the argument of the committed act of the predicate or that
+the act itself was committed but with a direct object that is something other
+than the marked noun phrase.
 
 ### Manner or Material
 
 The <HisyeoWord is='bi'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent the manner or material of the
+This role is used for noun phrases that represent the manner or material of the
 predicate. In English, this is represented by the use of words with the "-ly"
 suffix (adverbs) or some senses of the words "by" and "with".
 
@@ -100,10 +106,10 @@ and transitive verb predicates and are only needed in certain circumstances when
 extra thematic information is useful to describing the predicate in a new way.
 These prepositions are known as **true thematic relations**. Subjects
 (<HisyeoWord is='û'/> or <HisyeoWord is='ôlê'/>) are honorary members of the
-thematic relation club since they are usually called **morphosyntactic
-arguments**. They are included in the same class of word as the true thematic
-relations to simplify the grammatical system. This system is what allows the
-language to have **free constituent ordering**.
+thematic relation club since they are traditionally referred to as
+**morphosyntactic arguments**. They are included in the same class of word as
+the true thematic relations to simplify the grammatical system. This system is
+what allows the language to have **free constituent ordering**.
 
 :::
 
@@ -117,9 +123,9 @@ represents some of the senses of the word "without".
 
 The <HisyeoWord is='tô'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent some entity that was used to carry out
-the action. In English, this represents some of the senses of the words "with",
-"using", "by", and "via".
+This role is used for noun phrases that represent some entity that was used to
+carry out the action. In English, this represents some of the senses of the
+words "with", "using", "by", and "via".
 
 When used with the negatitive particle <HisyeoWord is='yôk'/>, it means that the
 marked noun phrase is either excluded from being the means or instrument of the
@@ -131,13 +137,14 @@ English, this represents some of the senses of the word "without".
 
 The <HisyeoWord is='hoî'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent where or when the action occurs. In
-English, this represents some of the senses of the words "in", "at", and "on".
+This role is used for noun phrases that represent where or when the action
+occurs. In English, this represents some of the senses of the words "in", "at",
+and "on".
 
 The counterpart of this particle is <HisyeoWord is='lon'/> for distance and
 duration. Unlike the <HisyeoWord is='lon'/> particle, when you provide an amount
 of time to <HisyeoWord is='hoî'/> it means the length of time that it took to
-achieve the task specified in the rest of the predicate.
+*achieve* the task specified in the rest of the predicate.
 
 When used with the negatitive particle <HisyeoWord is='yôk'/>, it means that the
 marked noun phrase is either excluded from being the location or time of the
@@ -148,10 +155,10 @@ location or time that is somewhere other than the marked noun phrase.
 
 The <HisyeoWord is='mût'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent where the action is directed towards.
-In English, this represents some of the senses of the words "to", "into", and
-"towards". Any time you might need an **indrect object** or **recipient**, you
-can use this preposition to describe that constituent.
+This role is used for noun phrases that represent where the action is directed
+towards. In English, this represents some of the senses of the words "to",
+"into", and "towards". Any time you might need an **indrect object** or
+**recipient**, you can use this preposition to describe that constituent.
 
 :::info Reciprocity
 
@@ -176,7 +183,7 @@ that is something other than the marked noun phrase.
 
 The <HisyeoWord is='sûn'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent where the action originated. In
+This role is used for noun phrases that represent where the action originated. In
 English, this represents nearly all of the senses of the word "from" (except for
 differentiation and causation).
 
@@ -208,7 +215,7 @@ source or origin that is something other than the marked noun phrase.
 
 The <HisyeoWord is='oxon'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent for whose benefit the action occurs or
+This role is used for noun phrases that represent for whose benefit the action occurs or
 the reason for the action. In English, this represents some of the senses of the
 word "for".
 
@@ -358,7 +365,7 @@ proper way to formulate the desired semantic meaning.
 
 :::
 
-When <HisyeoWord is='oxon'/> used with the negatitive particle <HisyeoWord is='yôk'/>,
+When <HisyeoWord is='oxon'/> is used with the negatitive particle <HisyeoWord is='yôk'/>,
 it means that the marked noun phrase is either excluded from being the
 beneficiary/purpose of the committed act of the predicate or that the act itself
 was committed but with a beneficiary/purpose that is something other than the
@@ -369,11 +376,11 @@ marked noun phrase.
 
 The <HisyeoWord is='nênko'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent what caused the action to occur or a
-past reason that led to the action. Not to be confused with the causer of the
-action (<HisyeoWord is='û'/>), this NP would represent a broader sense including
-what caused the causer. In English, this represents some of the senses of the
-word "because". 
+This role is used for noun phrases that represent what caused the action to
+occur or a past reason that led to the action. Not to be confused with the
+causer of the action (<HisyeoWord is='û'/>), this NP would represent a broader
+sense including what caused the causer. In English, this represents some of the
+senses of the word "because". 
 
 When used with the negatitive particle <HisyeoWord is='yôk'/>, it means that the
 marked noun phrase is either excluded from being the cause of the committed
@@ -385,10 +392,10 @@ some of the senses of the word "despite".
 
 The <HisyeoWord is='ofek'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent a fellow actor that is also engaged in
-the same action as the subject. However, the NP is not considered a subject of
-the sentence. In English, this represents some of the senses of the word
-"with".
+This role is used for noun phrases that represent a fellow actor that is also
+engaged in the same action as the subject. However, the NP is not considered a
+subject of the sentence. In English, this represents some of the senses of the
+word "with".
 
 When used with the negatitive particle <HisyeoWord is='yôk'/>, it means that the
 marked noun phrase is either excluded from participating in the committed
@@ -400,7 +407,7 @@ some of the senses of the word "without".
 
 The <HisyeoWord is='hôn'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent an overarching topic, contextual
+This role is used for noun phrases that represent an overarching topic, contextual
 detail, or a condition for the underlying sentence. In English, this represents
 some of the senses of the words "regarding", "given", "as for", and "when".
 
@@ -430,7 +437,7 @@ this represents some of the senses of the word "regardless".
 
 The <HisyeoWord is='dên'/> particle precedes this noun phrase.
 
-This role is used for NPs that either represent a special kind of goal/agent for
+This role is used for noun phrases that either represent a special kind of goal/agent for
 verbs that indicates an opposing agent for verbs that indicate an action that is
 *oppositional* (where both sides are engaging in an opposing action). In
 English, this represents some of the senses of the word "against".
@@ -449,7 +456,7 @@ counter-agent that is something other than the marked noun phrase.
 
 The <HisyeoWord is='oldis'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent proof or an information source that the
+This role is used for noun phrases that represent proof or an information source that the
 specified action is known or believed to have occurred, is occurring, or will
 occur. In English, this represents some of the senses of the phrases "or so",
 "per", and "according to". 
@@ -468,7 +475,7 @@ proof or a source that is something other than the marked noun phrase.
 
 The <HisyeoWord is='lon'/> particle precedes this noun phrase.
 
-This role is used for NPs that represent the time or space that the action
+This role is used for noun phrases that represent the time or space that the action
 occurs within. This role is related to the location/time role but instead of
 describing a moment or point in time/space, this noun phrase represents a period
 or length of time/space. In English, this represents some of the
@@ -509,10 +516,10 @@ roles:
 - The **distance/duration** role represents the destination/recipient of just
   the act or state described in the sentence.
   
-Using the term "recipient" loosely here, the only time an animate entity would
-be provided as a noun phrase to a **distance/duration** preposition would be if
-that entity related to a specific moment or location upon the path or duration
-of the action or state at which point it ceases.
+Of course, we are using the term "recipient" loosely here. The only time an
+animate entity would be provided as a noun phrase to a **distance/duration**
+preposition would be if that entity related to a specific moment or location
+upon the path or duration of the action or state at which point it ceases.
 
 <HisyeoTabs>
     <p>noyo hoî ôhêl tuluti tô oûtô gîsgûl noyo mût fenûo Kolifôlnyo lon umo Sêlo.&emsp;<em>"I was riding my bike to California until Sarah."</em></p>
@@ -529,11 +536,11 @@ duration or distance that is something other than the marked noun phrase.
 
 The <HisyeoWord is='gitno'/> particle precedes this noun phrase.
 
-This role is used for a NP that represents either:
+This role is used for a noun phrase that represents either:
 - an entity that the action or state is in the *midst* of,
 - an entity that the action or state *was* in the midst of but is now on the other
   side, or
-- a conjunction of two NPs that represent two boundaries in time or space that the
+- a conjunction of two noun phrases that represent two boundaries in time or space that the
   action occurs *between*.
 
 In English, this represents some senses of the word "between" or "through".
@@ -607,8 +614,7 @@ Below are a multitude of interesting genitive relationships from around the
 world. Not every example is directly translatable into English using the
 aforemented "of". Often English makes use of alternative prepositions like
 "with", "by", and "for", whereas Hîsyêô only has those kinds of prepositions
-attached to a predicate of a sentence (essentially, they are associated to the
-verb of the sentence).
+attached to a predicate of a sentence (linked to the verb of the sentence).
 
 However, equipped with the simple <HisyeoWord is='yê'/> preposition, context,
 and supporting word choices, you can effectively communicate all of these
@@ -624,10 +630,10 @@ a catch-all genitive for when the attribution is ambiguous.
 </HisyeoTabs>
 
 If you need to explain that the book has a red skin instead of being about red
-skin, you can clarify that the genitive relationship is descriptive by using <HisyeoWord is='dî'/>:
+skin, you can clarify that the genitive relationship is descriptive by using <HisyeoWord is='êtsô'/>:
 
 <HisyeoTabs>
-    <p>tômôs yê dî yê ocûo hûnsik&emsp;<em></em> <small>(lit. book of a quality of red skin)</small></p>
+    <p>tômôs yê êtsô yê ocûo hûnsik&emsp;<em></em> <small>(lit. book of a state of red skin)</small></p>
 </HisyeoTabs>
 
 ---
@@ -758,10 +764,16 @@ separate entity from the material of the container.
   <p>zomo xîmu yê mîcîn&emsp;<em>"lake containing fish"</em> <small>(lit. water body of fish)</small></p>
 </HisyeoTabs>
 
-You can clarify a genitive relationship is material by using <HisyeoWord is='yûnyoû'/> <HisyeoWord is='lîmîen'/>:
+You can clarify a genitive relationship is content by using <HisyeoWord is='yûnyoû'/> <HisyeoWord is='lîmîen'/>:
 
 <HisyeoTabs>
   <p>zomo xîmu yê yûnyoû lîmîen yê mîcîn&emsp;<small>(lit. water body of inner possession of fish)</small></p>
+</HisyeoTabs>
+
+You can also clarify this relationship with <HisyeoWord is='môtowo'/>:
+
+<HisyeoTabs>
+  <p>zomo xîmu yê môtowo yê mîcîn&emsp;<small>(lit. water body of content of fish)</small></p>
 </HisyeoTabs>
 
 ---
@@ -830,10 +842,10 @@ You can clarify that a genitive relationship is a product by using <HisyeoWord i
   <p>non yê foko ôsôlê&emsp;<small>(lit. movie/show of afraid-ifyer)</small></p>
 </HisyeoTabs>
 
-In fact, the first one using <HisyeoWord is='ônî'/> still requires the second <HisyeoWord is='yê'/> because
-otherwise it would mean "an afraid causer" which is not the intending meaning.
-The second one, however, does not require either <HisyeoWord is='yê'/> because
-of its coupling nature.
+In fact, the first one using <HisyeoWord is='ônî'/> still requires the
+second <HisyeoWord is='yê'/> because otherwise it would mean "an afraid causer"
+which is not the intending meaning. The second one, however, does not require
+either <HisyeoWord is='yê'/> because of its coupling nature.
 
 <HisyeoTabs>
   <p>non foko ôsôlê&emsp;<small>(lit. movie/show of afraid-ifyer)</small></p>
@@ -1060,7 +1072,7 @@ a subordinate noun clause and <HisyeoWord is='xokôn'/> <HisyeoWord is='dîzel'/
 
 :::
 
-This particle isn't used with the negatitive particle <HisyeoWord is='yôk'/>
+The genitive particle isn't used with the negatitive particle <HisyeoWord is='yôk'/>
 because it's meant to describe nouns through associating other nouns and there's
 already an existing way to describe zero nouns (<HisyeoWord is='xûnyu'/>). You can
 achieve a similar kind of negative association by using a relative clause.
@@ -1088,7 +1100,7 @@ a noun phrase.
     <p>nîmû ke côûfon mokon xe gitno bîek, ko.&emsp;<em>"Will you make me a sandwich?"</em> <small>(lit. You will cook food that is between bread, yes?)</small></p>
 </HisyeoTabs>
 
-Here <HisyeoWord is='mokon'/> is being used as direct obect noun of the action
+<HisyeoWord is='mokon'/> is being used as direct obect noun of the action
 "to cook". The thing that we cook (the position of the direct object) is called
 a "meal" and the thing that we eat is known as "food". Here, the "meal" is quite
 simply "food" in [apposition](https://en.wikipedia.org/wiki/Apposition).
@@ -1189,7 +1201,7 @@ expressed by the inner sentence but referred holisitically as an object in the
 outer sentence.
 
 <HisyeoTabs>
-  <p>li êo govon ôlê noyo û <strong>xe</strong> côûfon mîcîn.&emsp;<em>"Cooking fish makes me disgusted."</em></p>
+  <p>li êo golfon ôlê noyo û <strong>xe</strong> côûfon mîcîn.&emsp;<em>"Cooking fish makes me disgusted."</em></p>
   <p><strong>xe</strong> golo, li xôn oxon umo xonluk.&emsp;<em>"Reading is good for kids."</em></p>
 </HisyeoTabs>
 
@@ -1216,13 +1228,14 @@ part in human life or otherwise.
 
 :::
 
-The other form of noun phrase (<HisyeoWord is='fos'/>) includes a subject or if
-one is not provided then, like a normal sentence, it should be intepreted as
-subjectless ("there is" or "it is") depending on the predicate that is provided.
-This form of noun phrase is useful when you need to introduce a clause that
-changes (or removes) the subject from the underlying sentence. Some verbs
-primarily are used with some form of noun clause as their object and this form
-allows for a complete sentence to be included as that object.
+The other form of noun phrase (introduced by <HisyeoWord is='fos'/>) includes a
+subject or if one is not provided then, like a normal sentence, it should be
+intepreted as dropped or subjectless ("there is" or "it is") depending on the
+predicate that is provided. This form of noun phrase is useful when you need to
+introduce a clause that changes (or removes) the subject from the underlying
+sentence. Some verbs primarily are used with some form of noun clause as their
+object and this form allows for a complete sentence to be included as that
+object.
 
 <HisyeoTabs>
   <p>noyo fôlun fos nîmû fôlun noyo&emsp;<em>"I want you to want me"</em></p>
@@ -1272,10 +1285,10 @@ utilizing another verb (and you are thinking about using a subordinate clause),
 you can place this verb as another predicate within the main sentence body
 instead of using a thematic relation marker. This frees up this marker (when
 supplied with a subordinate clause) to be used for describing the direct object.
-Semantically, this is the only valid place that can take a relative clause.
-Given that this marker is the only one that applies the supplied noun phrase
-*adverbially*, it follows that any subordinate clause should be interpreted as
-being related to the nucleus of the direct object.
+Syntactically, this is the only valid preposition that can take a relative
+clause. Given that this marker is the only one that applies the supplied noun
+phrase *adverbially*, it follows that any subordinate clause should be
+interpreted as being related to the nucleus of the direct object.
 
 :::
 
@@ -1335,13 +1348,11 @@ When the collaborator thematic role is applied to a *noun clause*, it does not
 have a special interpretation because there are already reasonable situations
 where a collaborator could be described using a subordinate clause.
 
-#### Context/Condition: Perfective Condition Subordinate Clause
+#### Context/Condition: Nominal Subordinate Clause
 
-When the context/condition thematic role is applied to a *noun clause*, they do
-reflect normal subordinate clauses but since this thematic relation fits the
-special class of context/condition, there's a special way to intepret its usage
-wth noun clauses. The meaning is taken as a **perfective condition** which in
-English can be interepreted as a clause prefaced by "if".
+When the collaborator thematic role is applied to a *noun clause*, it does not
+have a special interpretation because there are already reasonable situations
+where context or a condition could be described using a subordinate clause.
 
 #### Counter-Agent: Nominal Subordinate Clause
 
