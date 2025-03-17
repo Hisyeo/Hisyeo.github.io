@@ -2,7 +2,7 @@
 id: hûlû
 slug: hûlû
 title: HÛLÛ
-sidebar_position: 161
+sidebar_position: 162
 tags: [hûlû, Noun, Dravidian]
 description: grass § Noun
 ---

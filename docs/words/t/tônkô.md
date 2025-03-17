@@ -2,7 +2,7 @@
 id: tônkô
 slug: tônkô
 title: TÔNKÔ
-sidebar_position: 283
+sidebar_position: 284
 tags: [tônkô, Adjective, Sino-Tibetan]
 description: hurting/suffering § Adjective
 ---

@@ -2,7 +2,7 @@
 id: sohoû
 slug: sohoû
 title: SOHOÛ
-sidebar_position: 363
+sidebar_position: 364
 tags: [sohoû, Adjective, Nakh-Daghestani]
 description: healthy § Adjective
 ---

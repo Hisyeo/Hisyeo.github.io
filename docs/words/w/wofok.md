@@ -2,7 +2,7 @@
 id: wofok
 slug: wofok
 title: WOFOK
-sidebar_position: 760
+sidebar_position: 761
 tags: [wofok, Verb, Afroasiatic]
 description: to approve [of] (the approved) § Verb
 ---

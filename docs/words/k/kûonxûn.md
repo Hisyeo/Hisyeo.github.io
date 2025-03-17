@@ -2,7 +2,7 @@
 id: kûonxûn
 slug: kûonxûn
 title: KÛONXÛN
-sidebar_position: 214
+sidebar_position: 215
 tags: [kûonxûn, Adjective, Sino-Tibetan]
 description: tolerant § Adjective
 ---

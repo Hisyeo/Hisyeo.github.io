@@ -2,7 +2,7 @@
 id: sofîn
 slug: sofîn
 title: SOFN
-sidebar_position: 373
+sidebar_position: 374
 tags: [sofîn, Adjective, Afroasiatic]
 description: pure § Adjective
 ---

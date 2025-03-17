@@ -2,7 +2,7 @@
 id: kolowo
 slug: kolowo
 title: KOLOWO
-sidebar_position: 171
+sidebar_position: 172
 tags: [kolowo, Noun, Indo-Iranian]
 description: art § Noun
 ---

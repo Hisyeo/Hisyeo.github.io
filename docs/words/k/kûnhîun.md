@@ -2,7 +2,7 @@
 id: kûnhîun
 slug: kûnhîun
 title: KÛNHUN
-sidebar_position: 223
+sidebar_position: 224
 tags: [kûnhîun, Noun, Austro-Asiatic]
 description: step/pace § Noun
 ---

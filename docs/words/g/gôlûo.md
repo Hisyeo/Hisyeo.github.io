@@ -2,7 +2,7 @@
 id: gôlûo
 slug: gôlûo
 title: GÔLÛO
-sidebar_position: 245
+sidebar_position: 246
 tags: [gôlûo, Adjective, Indo-Iranian]
 description: melted § Adjective
 ---

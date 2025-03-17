@@ -2,7 +2,7 @@
 id: binlêô
 slug: binlêô
 title: BİNLÊÔ
-sidebar_position: 579
+sidebar_position: 580
 tags: [binlêô, Noun, Sino-Tibetan]
 description: bay/golf § Noun
 ---

@@ -2,7 +2,7 @@
 id: noî
 slug: noî
 title: NO
-sidebar_position: 709
+sidebar_position: 710
 tags: [noî, Preposition, Austro-Asiatic]
 description: vocative marker § Preposition
 ---

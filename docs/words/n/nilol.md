@@ -2,7 +2,7 @@
 id: nilol
 slug: nilol
 title: NİLOL
-sidebar_position: 739
+sidebar_position: 740
 tags: [nilol, Noun, Dravidian]
 description: shadow § Noun
 ---

@@ -2,7 +2,7 @@
 id: lozîdô
 slug: lozîdô
 title: LOZDÔ
-sidebar_position: 792
+sidebar_position: 793
 tags: [lozîdô, Noun, Oto-Manguean]
 description: heart § Noun
 ---

@@ -2,7 +2,7 @@
 id: zûngô
 slug: zûngô
 title: ZÛNGÔ
-sidebar_position: 538
+sidebar_position: 539
 tags: [zûngô, Noun, Niger-Congo]
 description: hand § Noun
 ---

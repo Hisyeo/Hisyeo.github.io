@@ -2,7 +2,7 @@
 id: cûnfû
 slug: cûnfû
 title: CÛNFÛ
-sidebar_position: 359
+sidebar_position: 360
 tags: [cûnfû, Adjective, Sino-Tibetan]
 description: repeating § Adjective
 ---

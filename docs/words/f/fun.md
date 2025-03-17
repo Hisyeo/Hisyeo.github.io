@@ -2,7 +2,7 @@
 id: fun
 slug: fun
 title: FUN
-sidebar_position: 642
+sidebar_position: 643
 tags: [fun, Noun, Austro-Asiatic]
 description: fraction § Noun
 ---

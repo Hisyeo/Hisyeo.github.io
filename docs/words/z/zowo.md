@@ -2,7 +2,7 @@
 id: zowo
 slug: zowo
 title: ZOWO
-sidebar_position: 511
+sidebar_position: 512
 tags: [zowo, Noun, Tupian]
 description: caniform § Noun
 ---

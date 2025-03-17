@@ -2,7 +2,7 @@
 id: môcîbo
 slug: môcîbo
 title: MÔCBO
-sidebar_position: 671
+sidebar_position: 672
 tags: [môcîbo, Adjective, Yuto-Nahuatl]
 description: ongoing § Adjective
 ---

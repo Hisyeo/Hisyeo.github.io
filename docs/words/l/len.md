@@ -2,7 +2,7 @@
 id: len
 slug: len
 title: LEN
-sidebar_position: 807
+sidebar_position: 808
 tags: [len, Adjective, Kra-Dai]
 description: strong § Adjective
 ---

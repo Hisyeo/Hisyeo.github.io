@@ -2,7 +2,7 @@
 id: centik
 slug: centik
 title: CENTİK
-sidebar_position: 321
+sidebar_position: 322
 tags: [centik, Adjective, Austro-Asiatic]
 description: official/formal § Adjective
 ---

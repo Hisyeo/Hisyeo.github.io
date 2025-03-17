@@ -2,7 +2,7 @@
 id: dîncî
 slug: dîncî
 title: DNC
-sidebar_position: 486
+sidebar_position: 487
 tags: [dîncî, Noun, Kra-Dai]
 description: block § Noun
 ---

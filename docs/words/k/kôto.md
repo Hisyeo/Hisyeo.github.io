@@ -2,7 +2,7 @@
 id: kôto
 slug: kôto
 title: KÔTO
-sidebar_position: 174
+sidebar_position: 175
 tags: [kôto, Verb, Indo-Iranian]
 description: to talk (speech) § Verb
 ---

@@ -2,7 +2,7 @@
 id: sêlbô
 slug: sêlbô
 title: SÊLBÔ
-sidebar_position: 394
+sidebar_position: 395
 tags: [sêlbô, Adjective, Sino-Tibetan]
 description: yellow § Adjective
 ---

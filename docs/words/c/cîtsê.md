@@ -2,7 +2,7 @@
 id: cîtsê
 slug: cîtsê
 title: CTSÊ
-sidebar_position: 340
+sidebar_position: 341
 tags: [cîtsê, Verb, Sino-Tibetan]
 description: to accuse (an accusation) § Verb
 ---

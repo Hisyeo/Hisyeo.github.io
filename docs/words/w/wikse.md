@@ -2,7 +2,7 @@
 id: wikse
 slug: wikse
 title: WİKSE
-sidebar_position: 775
+sidebar_position: 776
 tags: [wikse, Noun, Quechumaran]
 description: belly § Noun
 ---

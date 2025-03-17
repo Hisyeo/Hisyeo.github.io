@@ -2,7 +2,7 @@
 id: zomûnî
 slug: zomûnî
 title: ZOMÛN
-sidebar_position: 508
+sidebar_position: 509
 tags: [zomûnî, Adjective, Sino-Tibetan]
 description: purple § Adjective
 ---

@@ -2,7 +2,7 @@
 id: selôhô
 slug: selôhô
 title: SELÔHÔ
-sidebar_position: 387
+sidebar_position: 388
 tags: [selôhô, Verb, Niger-Congo]
 description: theme/topic § Verb
 ---

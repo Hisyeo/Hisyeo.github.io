@@ -2,7 +2,7 @@
 id: gufis
 slug: gufis
 title: GUFİS
-sidebar_position: 254
+sidebar_position: 255
 tags: [gufis, Adjective, Germanic]
 description: certain § Adjective
 ---

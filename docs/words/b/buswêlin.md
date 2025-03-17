@@ -2,7 +2,7 @@
 id: buswêlin
 slug: buswêlin
 title: BUSWÊLİN
-sidebar_position: 598
+sidebar_position: 599
 tags: [buswêlin, Noun, Germanic]
 description: oath/incantation § Noun
 ---

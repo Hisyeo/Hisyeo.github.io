@@ -2,7 +2,7 @@
 id: luhû
 slug: luhû
 title: LUHÛ
-sidebar_position: 823
+sidebar_position: 824
 tags: [luhû, Noun, Sino-Tibetan]
 description: blood § Noun
 ---

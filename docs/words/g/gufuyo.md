@@ -2,7 +2,7 @@
 id: gufuyo
 slug: gufuyo
 title: GUFUYO
-sidebar_position: 255
+sidebar_position: 256
 tags: [gufuyo, Noun, Afroasiatic]
 description: shop/market § Noun
 ---

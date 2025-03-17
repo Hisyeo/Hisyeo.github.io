@@ -2,7 +2,7 @@
 id: boit
 slug: boit
 title: BOİT
-sidebar_position: 542
+sidebar_position: 543
 tags: [boit, Numeral, Germanic]
 description: 256 byte § Numeral
 ---

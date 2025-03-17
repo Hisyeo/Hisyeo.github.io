@@ -2,7 +2,7 @@
 id: gîto
 slug: gîto
 title: GTO
-sidebar_position: 252
+sidebar_position: 253
 tags: [gîto, Noun, Dravidian]
 description: line § Noun
 ---

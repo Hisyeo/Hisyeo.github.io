@@ -2,7 +2,7 @@
 id: xîyôcû
 slug: xîyôcû
 title: XYÔCÛ
-sidebar_position: 454
+sidebar_position: 455
 tags: [xîyôcû, Adjective, Japonic]
 description: occupied/engaged/busy § Adjective
 ---

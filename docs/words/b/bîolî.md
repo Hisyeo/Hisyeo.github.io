@@ -2,7 +2,7 @@
 id: bîolî
 slug: bîolî
 title: BOL
-sidebar_position: 581
+sidebar_position: 582
 tags: [bîolî, Interjection, Yuto-Nahuatl]
 description: hello/goodbye § Interjection
 ---

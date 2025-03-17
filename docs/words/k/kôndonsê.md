@@ -2,7 +2,7 @@
 id: kôndonsê
 slug: kôndonsê
 title: KÔNDONSÊ
-sidebar_position: 185
+sidebar_position: 186
 tags: [kôndonsê, Adjective, Romance]
 description: condensed/concentrated § Adjective
 ---

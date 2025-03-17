@@ -2,7 +2,7 @@
 id: toûyen
 slug: toûyen
 title: TOÛYEN
-sidebar_position: 269
+sidebar_position: 270
 tags: [toûyen, Verb, Sino-Tibetan]
 description: to hate (a hated entity) § Verb
 ---

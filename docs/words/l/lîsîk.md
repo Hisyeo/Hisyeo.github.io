@@ -2,7 +2,7 @@
 id: lîsîk
 slug: lîsîk
 title: LSK
-sidebar_position: 818
+sidebar_position: 819
 tags: [lîsîk, Noun, Afroasiatic]
 description: cereal/grain § Noun
 ---

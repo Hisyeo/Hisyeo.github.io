@@ -2,7 +2,7 @@
 id: tubô
 slug: tubô
 title: TUBÔ
-sidebar_position: 297
+sidebar_position: 298
 tags: [tubô, Noun, Nilo-Saharan]
 description: spot/scar § Noun
 ---

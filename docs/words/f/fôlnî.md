@@ -2,7 +2,7 @@
 id: fôlnî
 slug: fôlnî
 title: FÔLN
-sidebar_position: 626
+sidebar_position: 627
 tags: [fôlnî, Adjective, Balto-Slavic]
 description: free § Adjective
 ---

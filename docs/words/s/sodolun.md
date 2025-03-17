@@ -2,7 +2,7 @@
 id: sodolun
 slug: sodolun
 title: SODOLUN
-sidebar_position: 367
+sidebar_position: 368
 tags: [sodolun, Adjective, Indo-Iranian]
 description: normal § Adjective
 ---

@@ -2,7 +2,7 @@
 id: lon
 slug: lon
 title: LON
-sidebar_position: 794
+sidebar_position: 795
 tags: [lon, Preposition, Germanic]
 description: distance/duration marker (for) § Preposition
 ---

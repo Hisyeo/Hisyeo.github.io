@@ -2,7 +2,7 @@
 id: fonxîn
 slug: fonxîn
 title: FONXN
-sidebar_position: 619
+sidebar_position: 620
 tags: [fonxîn, Noun, Sino-Tibetan]
 description: square/rectangle § Noun
 ---

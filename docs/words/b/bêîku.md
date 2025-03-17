@@ -2,7 +2,7 @@
 id: bêîku
 slug: bêîku
 title: BÊKU
-sidebar_position: 570
+sidebar_position: 571
 tags: [bêîku, Noun, Sino-Tibetan]
 description: shell § Noun
 ---

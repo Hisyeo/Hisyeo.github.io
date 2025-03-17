@@ -2,7 +2,7 @@
 id: mîcîn
 slug: mîcîn
 title: MCN
-sidebar_position: 691
+sidebar_position: 692
 tags: [mîcîn, Noun, Yuto-Nahuatl]
 description: fish § Noun
 ---

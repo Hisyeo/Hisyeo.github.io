@@ -2,7 +2,7 @@
 id: dus
 slug: dus
 title: DUS
-sidebar_position: 492
+sidebar_position: 493
 tags: [dus, Numeral, Indo-Iranian]
 description: 10 ten § Numeral
 ---

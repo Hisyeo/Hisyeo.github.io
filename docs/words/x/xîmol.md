@@ -2,7 +2,7 @@
 id: xîmol
 slug: xîmol
 title: XMOL
-sidebar_position: 450
+sidebar_position: 451
 tags: [xîmol, Noun, Afroasiatic]
 description: left § Noun
 ---

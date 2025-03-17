@@ -2,7 +2,7 @@
 id: bîcûon
 slug: bîcûon
 title: BCÛON
-sidebar_position: 586
+sidebar_position: 587
 tags: [bîcûon, Adjective, Sino-Tibetan]
 description: tired/exhausted § Adjective
 ---

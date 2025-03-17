@@ -2,7 +2,7 @@
 id: golo
 slug: golo
 title: GOLO
-sidebar_position: 237
+sidebar_position: 238
 tags: [golo, Verb, Afroasiatic]
 description: to read (a document) § Verb
 ---

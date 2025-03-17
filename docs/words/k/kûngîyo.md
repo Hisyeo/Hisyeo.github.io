@@ -2,7 +2,7 @@
 id: kûngîyo
 slug: kûngîyo
 title: KÛNGYO
-sidebar_position: 224
+sidebar_position: 225
 tags: [kûngîyo, Noun, Afroasiatic]
 description: organization/enterprise § Noun
 ---

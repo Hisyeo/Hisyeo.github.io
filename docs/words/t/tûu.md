@@ -2,7 +2,7 @@
 id: tûu
 slug: tûu
 title: TÛU
-sidebar_position: 301
+sidebar_position: 302
 tags: [tûu, Verb, Austro-Asiatic]
 description: to do (an action) § Verb
 ---

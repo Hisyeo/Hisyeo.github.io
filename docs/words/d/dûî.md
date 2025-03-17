@@ -2,7 +2,7 @@
 id: dûî
 slug: dûî
 title: DÛ
-sidebar_position: 495
+sidebar_position: 496
 tags: [dûî, Numeral, Indo-Iranian]
 description: 02 two § Numeral
 ---

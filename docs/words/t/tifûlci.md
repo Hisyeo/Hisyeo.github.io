@@ -2,7 +2,7 @@
 id: tifûlci
 slug: tifûlci
 title: TİFÛLCİ
-sidebar_position: 289
+sidebar_position: 290
 tags: [tifûlci, Adjective, Balto-Slavic]
 description: creative § Adjective
 ---

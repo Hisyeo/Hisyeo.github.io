@@ -2,7 +2,7 @@
 id: kûsowî
 slug: kûsowî
 title: KÛSOW
-sidebar_position: 218
+sidebar_position: 219
 tags: [kûsowî, Noun, Afroasiatic]
 description: matter/material § Noun
 ---

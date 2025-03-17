@@ -2,7 +2,7 @@
 id: cunyû
 slug: cunyû
 title: CUNYÛ
-sidebar_position: 348
+sidebar_position: 349
 tags: [cunyû, Adjective, Sino-Tibetan]
 description: cold § Adjective
 ---

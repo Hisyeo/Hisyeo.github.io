@@ -2,7 +2,7 @@
 id: lêkin
 slug: lêkin
 title: LÊKİN
-sidebar_position: 808
+sidebar_position: 809
 tags: [lêkin, Conjunction, Indo-Iranian]
 description: but § Conjunction
 ---

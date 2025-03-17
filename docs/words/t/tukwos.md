@@ -2,7 +2,7 @@
 id: tukwos
 slug: tukwos
 title: TUKWOS
-sidebar_position: 296
+sidebar_position: 297
 tags: [tukwos, Numeral, Afroasiatic]
 description: 08 eight § Numeral
 ---

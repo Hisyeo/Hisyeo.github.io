@@ -2,7 +2,7 @@
 id: bînton
 slug: bînton
 title: BNTON
-sidebar_position: 592
+sidebar_position: 593
 tags: [bînton, Noun, Austronesian]
 description: star § Noun
 ---

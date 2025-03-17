@@ -2,7 +2,7 @@
 id: sîkîn
 slug: sîkîn
 title: SKN
-sidebar_position: 402
+sidebar_position: 403
 tags: [sîkîn, Noun, Sino-Tibetan]
 description: event § Noun
 ---
