@@ -21,6 +21,6 @@ description: sharks/rays § Noun
 
 <details>
     <summary>Origin</summary>
-    Maori mangō <br/>
+    Māori mangō <br/>
     <em>Austronesian Language Family</em>
 </details>

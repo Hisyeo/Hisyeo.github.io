@@ -21,6 +21,6 @@ description: thing § Noun
 
 <details>
     <summary>Origin</summary>
-    Burmse အရာ a.ra /ʔəjà/<br/>
+    Burmese အရာ a.ra /ʔəjà/<br/>
     <em>Sino-Tibetan Language Family</em>
 </details>

@@ -3,7 +3,7 @@ id: bobôun
 slug: bobôun
 title: BOBÔUN
 sidebar_position: 552
-tags: [bobôun, Noun, Austro-asiatic]
+tags: [bobôun, Noun, Austro-Asiatic]
 description: system § Noun
 ---
 
@@ -22,5 +22,5 @@ description: system § Noun
 <details>
     <summary>Origin</summary>
     Khmer ប្រព័ន្ធ prɑpŏən /prɑ.ˈpŏən/<br/>
-    <em>Austro-asiatic Language Family</em>
+    <em>Austro-Asiatic Language Family</em>
 </details>

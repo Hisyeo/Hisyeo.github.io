@@ -3,7 +3,7 @@ id: oûdî
 slug: oûdî
 title: OÛD
 sidebar_position: 1
-tags: [oûdî, Noun, Nilo-Saharan]
+tags: [oûdî, Noun, Niger-Congo]
 description: seed § Noun
 ---
 
@@ -22,5 +22,5 @@ description: seed § Noun
 <details>
     <summary>Origin</summary>
     Fula aawdi [aːwdi]<br/>
-    <em>Nilo-Saharan Language Family</em>
+    <em>Niger-Congo Language Family</em>
 </details>

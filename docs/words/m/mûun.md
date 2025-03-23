@@ -3,7 +3,7 @@ id: mûun
 slug: mûun
 title: MÛUN
 sidebar_position: 698
-tags: [mûun, Adjective, Austro-asiatic]
+tags: [mûun, Adjective, Austro-Asiatic]
 description: late § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: late § Adjective
 <details>
     <summary>Origin</summary>
     Vietnamese muộn [muəŋ˨˩˨]<br/>
-    <em>Austro-asiatic Language Family</em>
+    <em>Austro-Asiatic Language Family</em>
 </details>

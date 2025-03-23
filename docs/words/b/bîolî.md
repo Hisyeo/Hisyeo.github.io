@@ -3,7 +3,7 @@ id: bîolî
 slug: bîolî
 title: BOL
 sidebar_position: 582
-tags: [bîolî, Interjection, Yuto-Nahuatl]
+tags: [bîolî, Interjection, Uto-Aztecan]
 description: hello/goodbye § Interjection
 ---
 
@@ -22,5 +22,5 @@ description: hello/goodbye § Interjection
 <details>
     <summary>Origin</summary>
     Nahuatl, Eastern Huasteca pialli [pialːi]<br/>
-    <em>Yuto-Nahuatl Language Family</em>
+    <em>Uto-Aztecan Language Family</em>
 </details>

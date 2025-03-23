@@ -21,6 +21,6 @@ description: to approve [of] (the approved) § Verb
 
 <details>
     <summary>Origin</summary>
-    Hijazi وافَق wāfag /waː.faɡ/<br/>
+    Arabic, Hijazi وافَق wāfag /waː.faɡ/<br/>
     <em>Afroasiatic Language Family</em>
 </details>

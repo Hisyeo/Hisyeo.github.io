@@ -21,6 +21,6 @@ description: country/region § Noun
 
 <details>
     <summary>Origin</summary>
-    Maori whenua [fɛ.nʉ.ɐ]<br/>
+    Māori whenua [fɛ.nʉ.ɐ]<br/>
     <em>Austronesian Language Family</em>
 </details>

@@ -3,7 +3,7 @@ id: tubô
 slug: tubô
 title: TUBÔ
 sidebar_position: 298
-tags: [tubô, Noun, Nilo-Saharan]
+tags: [tubô, Noun, Afroasiatic]
 description: spot/scar § Noun
 ---
 
@@ -22,5 +22,5 @@ description: spot/scar § Noun
 <details>
     <summary>Origin</summary>
     Hausa tabṑ [tə́.bòː]<br/>
-    <em>Nilo-Saharan Language Family</em>
+    <em>Afroasiatic Language Family</em>
 </details>

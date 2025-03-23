@@ -3,7 +3,7 @@ id: zinkon
 slug: zinkon
 title: ZİNKON
 sidebar_position: 525
-tags: [zinkon, Noun, Austro-asiatic]
+tags: [zinkon, Noun, Austro-Asiatic]
 description: door § Noun
 ---
 
@@ -22,5 +22,5 @@ description: door § Noun
 <details>
     <summary>Origin</summary>
     Khasi jingkang [dʒɪŋkaŋ<br/>
-    <em>Austro-asiatic Language Family</em>
+    <em>Austro-Asiatic Language Family</em>
 </details>

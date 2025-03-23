@@ -21,6 +21,6 @@ description: to mine (ore) § Verb
 
 <details>
     <summary>Origin</summary>
-    Maori huke /huke/<br/>
+    Māori huke /huke/<br/>
     <em>Austronesian Language Family</em>
 </details>

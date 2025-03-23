@@ -21,6 +21,6 @@ description: hot § Adjective
 
 <details>
     <summary>Origin</summary>
-    Bring Klon tut [tut]<br/>
+    Klon tut [tut]<br/>
     <em>Trans-New Guinea Language Family</em>
 </details>

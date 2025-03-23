@@ -3,7 +3,7 @@ id: xîmu
 slug: xîmu
 title: XMU
 sidebar_position: 452
-tags: [xîmu, Noun, Nilo-Saharan]
+tags: [xîmu, Noun, Chibchan]
 description: water § Noun
 ---
 
@@ -22,5 +22,5 @@ description: water § Noun
 <details>
     <summary>Origin</summary>
     Barí xima /ʃimə(nə)/<br/>
-    <em>Nilo-Saharan Language Family</em>
+    <em>Chibchan Language Family</em>
 </details>

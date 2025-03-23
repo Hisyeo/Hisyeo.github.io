@@ -3,7 +3,7 @@ id: zênsî
 slug: zênsî
 title: ZÊNS
 sidebar_position: 522
-tags: [zênsî, Adjective, Afroasiatic]
+tags: [zênsî, Adjective, Indo-Iranian]
 description: sexual § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: sexual § Adjective
 <details>
     <summary>Origin</summary>
     Persian جنسی jensi [d͡ʒen.síː]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Indo-Iranian Language Family</em>
 </details>

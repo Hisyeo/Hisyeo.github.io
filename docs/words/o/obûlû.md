@@ -21,6 +21,6 @@ description: to overwhelm (the overwhelmed) § Verb
 
 <details>
     <summary>Origin</summary>
-    Maori āpuru [aːpuɾu]<br/>
+    Māori āpuru [aːpuɾu]<br/>
     <em>Austronesian Language Family</em>
 </details>

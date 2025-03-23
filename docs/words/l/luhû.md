@@ -3,7 +3,7 @@ id: luhû
 slug: luhû
 title: LUHÛ
 sidebar_position: 824
-tags: [luhû, Noun, Sino-Tibetan]
+tags: [luhû, Noun, Indo-Iranian]
 description: blood § Noun
 ---
 
@@ -22,5 +22,5 @@ description: blood § Noun
 <details>
     <summary>Origin</summary>
     Urdu لَہُو lahū /lə.ɦuː/<br/>
-    <em>Sino-Tibetan Language Family</em>
+    <em>Indo-Iranian Language Family</em>
 </details>

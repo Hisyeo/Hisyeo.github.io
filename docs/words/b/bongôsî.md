@@ -21,6 +21,6 @@ description: endangered § Adjective
 
 <details>
     <summary>Origin</summary>
-    Chichewa/Shona pangozi /paᵑɡɔzi/<br/>
+    Shona pangozi /paᵑɡɔzi/<br/>
     <em>Niger-Congo Language Family</em>
 </details>

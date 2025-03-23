@@ -3,7 +3,7 @@ id: eswen
 slug: eswen
 title: ESWEN
 sidebar_position: 49
-tags: [eswen, Determiner, Romance]
+tags: [eswen, Determiner, Quechumaran]
 description: more § Determiner
 ---
 
@@ -22,5 +22,5 @@ description: more § Determiner
 <details>
     <summary>Origin</summary>
     Quechua aswan /ˈæswæn/<br/>
-    <em>Romance Language Family</em>
+    <em>Quechumaran Language Family</em>
 </details>

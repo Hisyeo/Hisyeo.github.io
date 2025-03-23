@@ -3,7 +3,7 @@ id: mixofo
 slug: mixofo
 title: MİXOFO
 sidebar_position: 683
-tags: [mixofo, Adjective, Nakh-Daghestani]
+tags: [mixofo, Adjective, Kartvelian]
 description: acidic § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: acidic § Adjective
 <details>
     <summary>Origin</summary>
     Georgian მჟავა mžava /mʒava/<br/>
-    <em>Nakh-Daghestani Language Family</em>
+    <em>Kartvelian Language Family</em>
 </details>

@@ -21,6 +21,6 @@ description: fire § Noun
 
 <details>
     <summary>Origin</summary>
-    Chichewa/Mwani/Ngungwel/Shona/Swahili moto /ˈmó.to/<br/>
+    Mwani moto /ˈmó.to/<br/>
     <em>Niger-Congo Language Family</em>
 </details>

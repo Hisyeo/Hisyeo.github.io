@@ -21,6 +21,6 @@ description: cat § Noun
 
 <details>
     <summary>Origin</summary>
-    Czech/Serbo-Croatian/Slovak mačka /mât͡ʃka/<br/>
+    Serbo-Croatian mačka /mât͡ʃka/<br/>
     <em>Balto-Slavic Language Family</em>
 </details>

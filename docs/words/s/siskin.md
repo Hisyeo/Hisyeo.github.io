@@ -21,6 +21,6 @@ description: sibling § Noun
 
 <details>
     <summary>Origin</summary>
-    Iclandic systkin /ˈsɪs(t)kɪːn/<br/>
+    Icelandic systkin /ˈsɪs(t)kɪːn/<br/>
     <em>Germanic Language Family</em>
 </details>

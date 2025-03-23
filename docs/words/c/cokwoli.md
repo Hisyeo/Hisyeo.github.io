@@ -3,7 +3,7 @@ id: cokwoli
 slug: cokwoli
 title: COKWOLİ
 sidebar_position: 308
-tags: [cokwoli, Noun, Yuto-Nahuatl]
+tags: [cokwoli, Noun, Uto-Aztecan]
 description: pyramid § Noun
 ---
 
@@ -22,5 +22,5 @@ description: pyramid § Noun
 <details>
     <summary>Origin</summary>
     Nahuatl tzacualli /tsakʷalli/<br/>
-    <em>Yuto-Nahuatl Language Family</em>
+    <em>Uto-Aztecan Language Family</em>
 </details>

@@ -21,6 +21,6 @@ description: frozen § Adjective
 
 <details>
     <summary>Origin</summary>
-    Malay [bəˈku]<br/>
+    Malay beku [bəˈku]<br/>
     <em>Austronesian Language Family</em>
 </details>

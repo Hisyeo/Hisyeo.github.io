@@ -3,7 +3,7 @@ id: lexetko
 slug: lexetko
 title: LEXETKO
 sidebar_position: 807
-tags: [lexetko, Noun, Germanic]
+tags: [lexetko, Noun, Balto-Slavic]
 description: lattice/array § Noun
 ---
 
@@ -22,5 +22,5 @@ description: lattice/array § Noun
 <details>
     <summary>Origin</summary>
     Macedonian решетка rešetka [ˈrɛʃɛtka]<br/>
-    <em>Germanic Language Family</em>
+    <em>Balto-Slavic Language Family</em>
 </details>

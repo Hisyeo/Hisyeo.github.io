@@ -3,7 +3,7 @@ id: zomûnî
 slug: zomûnî
 title: ZOMÛN
 sidebar_position: 509
-tags: [zomûnî, Adjective, Sino-Tibetan]
+tags: [zomûnî, Adjective, Indo-Iranian]
 description: purple § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: purple § Adjective
 <details>
     <summary>Origin</summary>
     Hindi जामुनी jāmunī [d͡ʒäː.mʊ.n̪iː]<br/>
-    <em>Sino-Tibetan Language Family</em>
+    <em>Indo-Iranian Language Family</em>
 </details>

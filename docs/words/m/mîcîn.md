@@ -3,7 +3,7 @@ id: mîcîn
 slug: mîcîn
 title: MCN
 sidebar_position: 692
-tags: [mîcîn, Noun, Yuto-Nahuatl]
+tags: [mîcîn, Noun, Uto-Aztecan]
 description: fish § Noun
 ---
 
@@ -22,5 +22,5 @@ description: fish § Noun
 <details>
     <summary>Origin</summary>
     Nahuatl michin [ˈmi.t͡ʃin]<br/>
-    <em>Yuto-Nahuatl Language Family</em>
+    <em>Uto-Aztecan Language Family</em>
 </details>

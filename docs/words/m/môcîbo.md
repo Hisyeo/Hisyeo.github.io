@@ -3,7 +3,7 @@ id: môcîbo
 slug: môcîbo
 title: MÔCBO
 sidebar_position: 672
-tags: [môcîbo, Adjective, Yuto-Nahuatl]
+tags: [môcîbo, Adjective, Uto-Aztecan]
 description: ongoing § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: ongoing § Adjective
 <details>
     <summary>Origin</summary>
     Nahuatl mochipa /motʃipɑ/<br/>
-    <em>Yuto-Nahuatl Language Family</em>
+    <em>Uto-Aztecan Language Family</em>
 </details>
