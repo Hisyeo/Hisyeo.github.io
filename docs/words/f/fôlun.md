@@ -2,7 +2,7 @@
 id: fôlun
 slug: fôlun
 title: FÔLUN
-sidebar_position: 626
+sidebar_position: 625
 tags: [fôlun, Verb, Germanic]
 description: to want (a desire) § Verb
 ---

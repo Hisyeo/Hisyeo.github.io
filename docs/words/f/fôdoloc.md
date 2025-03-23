@@ -2,7 +2,7 @@
 id: fôdoloc
 slug: fôdoloc
 title: FÔDOLOC
-sidebar_position: 625
+sidebar_position: 624
 tags: [fôdoloc, Noun, Balto-Slavic]
 description: algae/moss § Noun
 ---

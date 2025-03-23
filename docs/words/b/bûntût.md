@@ -2,7 +2,7 @@
 id: bûntût
 slug: bûntût
 title: BÛNTÛT
-sidebar_position: 611
+sidebar_position: 610
 tags: [bûntût, Noun, Austronesian]
 description: tail § Noun
 ---

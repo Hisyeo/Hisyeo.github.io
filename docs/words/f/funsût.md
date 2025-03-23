@@ -2,7 +2,7 @@
 id: funsût
 slug: funsût
 title: FUNSÛT
-sidebar_position: 644
+sidebar_position: 643
 tags: [funsût, Adjective, Romance]
 description: defeated § Adjective
 ---
