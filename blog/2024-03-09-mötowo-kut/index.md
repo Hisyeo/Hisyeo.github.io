@@ -1,7 +1,7 @@
 ---
 slug: môtowo-kut
 title: Môtowo Kut
-authors: [govuliel]
+authors: [gofuliel]
 tags: [hîskûnco]
 ---
 

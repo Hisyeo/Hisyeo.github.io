@@ -1,7 +1,7 @@
 ---
 slug: dônûxin-kut
 title: Dônûxin Hîskûnco Kut
-authors: [govuliel]
+authors: [gofuliel]
 tags: [hîskûnco]
 ---
 

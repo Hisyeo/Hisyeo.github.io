@@ -1,7 +1,7 @@
 ---
 slug: ûsên-nêôs-2025
 title: usên nêôs 2025
-authors: [govuliel]
+authors: [gofuliel]
 tags: [hîskûnco]
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: wedo-yê-solwôc-yê-yogô-ûlonfû
 title: wedo yê solwôc yê yogô ûlonfû 
-authors: [govuliel]
+authors: [gofuliel]
 tags: [hîskûnco]
 ---
 

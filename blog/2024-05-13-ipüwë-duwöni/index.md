@@ -1,7 +1,7 @@
 ---
 slug: îbûwê-duwônî
 title: İpûwê ûn Duwônî
-authors: [govuliel]
+authors: [gofuliel]
 tags: [hîskûnco]
 ---
 
