@@ -38,7 +38,7 @@ imbalance in the language families and the Nakh-Daghestani language family was
 missing a word. Because these smaller language families can often present
 numerous challenges due to the limited lexicon and phonology resources
 available, it was decided that there would need to be an immediate re-alignment
-of at least one word. During the same fixes, the Indo-Aranian family had some
+of at least one word. During the same fixes, the Indo-Iranian family had some
 extra words beyond the threshold. Since this family has the largest word count
 at 107 words, it could handle losing one. After some research, the "nose" source
 was changed from **nosîko** to **mêloc**.
@@ -87,9 +87,10 @@ languages.
 There's still lots of lessons to add. The next one will be about occupations,
 chores, and living arrangements. After that, we get into food and drink.
 
-In addition to lessons, Planning has begun on some **guides** for topics like
+In addition to lessons, planning has begun on some **guides** for topics like
 math, biology, and philosophy. Guides are intended for deeper specializations
-into specific subjects and there will likely be many more of these.
+into common subjects and there will likely be many more of these (let us know
+what guides you would like to see).
 
 Outside of the writing, there is also intermittent work being put into a Discord
 bot which will allow for searching the core Hîsyêô words, proper/class words,
