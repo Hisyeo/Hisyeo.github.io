@@ -48,8 +48,8 @@ was changed from **nosîko** to **mêloc**.
 While doing the family tree, it was identified that the approach for "cousin"
 was cumbersome because (1) family is important, (2) some users familiar with
 isolating languages will want to use family words as pronouns, and (3) this word
-also generally means "kin" which seems more useful than I was giving "cousin" on
-its own.
+also generally means "kin" which is more useful than than the more specific
+connotation of "cousin".
 
 ## Add Code Of Conduct & Community Links
 
