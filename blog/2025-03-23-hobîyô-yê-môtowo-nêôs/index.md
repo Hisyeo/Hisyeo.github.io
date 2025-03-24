@@ -30,7 +30,8 @@ much easier to recognize.
 
 ## Source Family Fixes & Word Change
 
-During the process of writing the language transliterations lesson section,
+During the process of writing the all of the [language
+transliterations](/docs/lessons/home-and-country#languages) in the new lesson,
 there were several mistaken language families that must not have been fixed
 after a previous word change was done. Because of this, there was a slight
 imbalance in the language families and the Nakh-Daghestani language family was
