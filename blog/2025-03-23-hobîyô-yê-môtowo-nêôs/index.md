@@ -61,7 +61,7 @@ language very soon!
 
 ## Fix Search Engine For New Diacritics
 
-After the diacritic engine, it was identified by happenstance that the search
+After the diacritic change, it was identified by happenstance that the search
 engine no longer works. This was due to the search engine still being configured
 for the old diacritics. After that, the only thing remaining for diacritic
 cleanup is the Deckademy and that is due to the lack of an automated solution to
