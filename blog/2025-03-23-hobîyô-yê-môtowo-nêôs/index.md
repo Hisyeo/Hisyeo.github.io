@@ -16,7 +16,7 @@ bot tool. Just be careful, you won't be able to hold in your excitement!
 
 <!-- truncate -->
 
-## Change Some Source WOrds
+## Change Some Source Words
 
 The sources for "they", "bad", "we/us", and "moving" were changed to help with
 partial collision concerns. The source for "three" was changed to remove a
