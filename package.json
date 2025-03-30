@@ -13,6 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "hyo:check": "zx ./scripts/check.zx.mjs",
+    "hyo:family": "zx ./scripts/family.zx.mjs",
     "hyo:build": "zx ./scripts/build.zx.mjs",
     "hyo:term-check": "docusaurus parse --dry-run"
   },
