@@ -3,7 +3,7 @@ id: doho
 slug: doho
 title: DOHO
 sidebar_position: 465
-tags: [doho, Verb, Afroasiatic]
+tags: [doho, Verb, Afro-Asiatic]
 description: to sacrifice (an offering) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to sacrifice (an offering) § Verb
 <details>
     <summary>Origin</summary>
     Arabic ⁧ضَحَّى⁩ ḍaḥḥā /dˤaħ.ħaː/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

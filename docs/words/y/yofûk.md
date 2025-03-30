@@ -2,7 +2,7 @@
 id: yofûk
 slug: yofûk
 title: YOFÛK
-sidebar_position: 841
+sidebar_position: 840
 tags: [yofûk, Noun, Turkic]
 description: pillow § Noun
 ---

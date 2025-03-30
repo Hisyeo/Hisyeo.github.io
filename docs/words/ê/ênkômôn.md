@@ -2,7 +2,7 @@
 id: ênkômôn
 slug: ênkômôn
 title: ÊNKÔMÔN
-sidebar_position: 61
+sidebar_position: 60
 tags: [ênkômôn, Noun, Nilo-Saharan]
 description: face § Noun
 ---

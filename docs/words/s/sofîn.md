@@ -3,7 +3,7 @@ id: sofîn
 slug: sofîn
 title: SOFN
 sidebar_position: 374
-tags: [sofîn, Adjective, Afroasiatic]
+tags: [sofîn, Adjective, Afro-Asiatic]
 description: pure § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: pure § Adjective
 <details>
     <summary>Origin</summary>
     Arabic صَافٍ ṣāfin [sˤɑ.fin]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

@@ -4,12 +4,12 @@ slug: gitno
 title: GİTNO
 sidebar_position: 251
 tags: [gitno, Preposition, Austronesian]
-description: intermediate marker (between) § Preposition
+description: intermediative marker (between) § Preposition
 ---
 
 ### gitno&emsp;<span kind="abugida">ꜿ̆ȷƨ</span>
 
-*intermediate marker (between)* **§** [Preposition](../../tags/Preposition)
+*intermediative marker (between)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈgɪt.nɑ/
 

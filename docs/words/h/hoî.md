@@ -2,14 +2,14 @@
 id: hoî
 slug: hoî
 title: HO
-sidebar_position: 116
+sidebar_position: 115
 tags: [hoî, Preposition, Sino-Tibetan]
-description: location/time marker (at) § Preposition
+description: locative marker (at) § Preposition
 ---
 
 ### hoî&emsp;<span kind="abugida">ɂɽɟ</span>
 
-*location/time marker (at)* **§** [Preposition](../../tags/Preposition)
+*locative marker (at)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈhɑ.i/
 

@@ -2,7 +2,7 @@
 id: isbulyol
 slug: isbulyol
 title: İSBULYOL
-sidebar_position: 66
+sidebar_position: 65
 tags: [isbulyol, Adjective, Romance]
 description: to scatter (scatterable entity) § Adjective
 ---

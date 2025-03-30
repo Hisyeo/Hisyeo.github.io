@@ -2,14 +2,14 @@
 id: sûn
 slug: sûn
 title: SÛN
-sidebar_position: 418
+sidebar_position: 419
 tags: [sûn, Preposition, Sino-Tibetan]
-description: source/origin marker (from) § Preposition
+description: ablative marker (from) § Preposition
 ---
 
 ### sûn&emsp;<span kind="abugida">ɐ̃ʄ</span>
 
-*source/origin marker (from)* **§** [Preposition](../../tags/Preposition)
+*ablative marker (from)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈsun/
 

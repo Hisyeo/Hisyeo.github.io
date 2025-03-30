@@ -4,12 +4,12 @@ slug: lon
 title: LON
 sidebar_position: 795
 tags: [lon, Preposition, Germanic]
-description: distance/duration marker (for) § Preposition
+description: durative marker (for) § Preposition
 ---
 
 ### lon&emsp;<span kind="abugida">ʓ̃</span>
 
-*distance/duration marker (for)* **§** [Preposition](../../tags/Preposition)
+*durative marker (for)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈlɑn/
 

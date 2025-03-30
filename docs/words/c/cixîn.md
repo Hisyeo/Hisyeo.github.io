@@ -21,6 +21,6 @@ description: to enforce (the enforced) § Verb
 
 <details>
     <summary>Origin</summary>
-    Mandarin 執行 zhíxíng /ʈʂɨɕiŋ<br/>
+    Mandarin 執行 zhíxíng /ʈʂɨ.ɕiŋ/<br/>
     <em>Sino-Tibetan Language Family</em>
 </details>

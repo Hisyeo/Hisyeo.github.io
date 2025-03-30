@@ -2,7 +2,7 @@
 id: êlêo
 slug: êlêo
 title: ÊLÊO
-sidebar_position: 63
+sidebar_position: 62
 tags: [êlêo, Adjective, Niger-Congo]
 description: floating § Adjective
 ---

@@ -2,7 +2,7 @@
 id: êfun
 slug: êfun
 title: ÊFUN
-sidebar_position: 59
+sidebar_position: 58
 tags: [êfun, Adjective, Germanic]
 description: momentary (minute) § Adjective
 ---

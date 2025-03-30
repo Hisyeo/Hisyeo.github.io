@@ -2,7 +2,7 @@
 id: hokûxi
 slug: hokûxi
 title: HOKÛXİ
-sidebar_position: 119
+sidebar_position: 118
 tags: [hokûxi, Adjective, Japonic]
 description: clapping/applauding § Adjective
 ---

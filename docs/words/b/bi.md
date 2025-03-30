@@ -2,14 +2,14 @@
 id: bi
 slug: bi
 title: Bİ
-sidebar_position: 577
-tags: [bi, Preposition, Afroasiatic]
-description: manner/material marker § Preposition
+sidebar_position: 576
+tags: [bi, Preposition, Afro-Asiatic]
+description: methodological marker (-ly) § Preposition
 ---
 
 ### bi&emsp;<span kind="abugida">ʋȷ</span>
 
-*manner/material marker* **§** [Preposition](../../tags/Preposition)
+*methodological marker (-ly)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈbɪ/
 
@@ -22,5 +22,5 @@ description: manner/material marker § Preposition
 <details>
     <summary>Origin</summary>
     Hebrew בְּ־ b'- /bi/,/ba/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

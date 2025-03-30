@@ -2,7 +2,7 @@
 id: êbôl
 slug: êbôl
 title: ÊBÔL
-sidebar_position: 58
+sidebar_position: 57
 tags: [êbôl, Noun, Romance]
 description: shoulder § Noun
 ---

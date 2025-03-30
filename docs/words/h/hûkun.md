@@ -2,8 +2,8 @@
 id: hûkun
 slug: hûkun
 title: HÛKUN
-sidebar_position: 152
-tags: [hûkun, Verb, Afroasiatic]
+sidebar_position: 151
+tags: [hûkun, Verb, Afro-Asiatic]
 description: to order (a command) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to order (a command) § Verb
 <details>
     <summary>Origin</summary>
     Arabic حُكْم ḥukm /ħukm/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

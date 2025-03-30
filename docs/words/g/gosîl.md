@@ -3,7 +3,7 @@ id: gosîl
 slug: gosîl
 title: GOSL
 sidebar_position: 232
-tags: [gosîl, Adjective, Afroasiatic]
+tags: [gosîl, Adjective, Afro-Asiatic]
 description: short § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: short § Adjective
 <details>
     <summary>Origin</summary>
     Arabic, Hijazi قصير gaṣīr /ɡa.sˤiːr/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

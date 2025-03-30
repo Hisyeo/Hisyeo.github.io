@@ -3,7 +3,7 @@ id: xemêtsen
 slug: xemêtsen
 title: XEMÊTSEN
 sidebar_position: 440
-tags: [xemêtsen, Noun, Afroasiatic]
+tags: [xemêtsen, Noun, Afro-Asiatic]
 description: noun § Noun
 ---
 
@@ -22,5 +22,5 @@ description: noun § Noun
 <details>
     <summary>Origin</summary>
     Hebrew שֵׁם עֶצֶם‎ shem étsem /ʃɛm ˈɛtsɛm/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

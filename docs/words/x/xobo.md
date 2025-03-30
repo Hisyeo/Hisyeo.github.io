@@ -21,6 +21,6 @@ description: to strike (the stricken)  § Verb
 
 <details>
     <summary>Origin</summary>
-    Sotho shapa /ʃa.pa/<br/>
+    Sesotho shapa /ʃa.pa/<br/>
     <em>Niger-Congo Language Family</em>
 </details>

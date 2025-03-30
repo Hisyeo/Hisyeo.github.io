@@ -2,8 +2,8 @@
 id: hokîkî
 slug: hokîkî
 title: HOKK
-sidebar_position: 118
-tags: [hokîkî, Adjective, Afroasiatic]
+sidebar_position: 117
+tags: [hokîkî, Adjective, Afro-Asiatic]
 description: authentic § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: authentic § Adjective
 <details>
     <summary>Origin</summary>
     Arabic حَقِيقِيّ ḥaqīqiyy <br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

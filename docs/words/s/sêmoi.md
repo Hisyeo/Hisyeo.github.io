@@ -3,7 +3,7 @@ id: sêmoi
 slug: sêmoi
 title: SÊMOİ
 sidebar_position: 392
-tags: [sêmoi, Noun, Afroasiatic]
+tags: [sêmoi, Noun, Afro-Asiatic]
 description: heaven § Noun
 ---
 
@@ -22,5 +22,5 @@ description: heaven § Noun
 <details>
     <summary>Origin</summary>
     Tigrinya ሰማይ sämay /semaɪ̯/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

@@ -2,8 +2,8 @@
 id: hoxobê
 slug: hoxobê
 title: HOXOBÊ
-sidebar_position: 122
-tags: [hoxobê, Noun, Afroasiatic]
+sidebar_position: 121
+tags: [hoxobê, Noun, Afro-Asiatic]
 description: beam/joist/stud § Noun
 ---
 
@@ -22,5 +22,5 @@ description: beam/joist/stud § Noun
 <details>
     <summary>Origin</summary>
     Arabic خشبة ḵašabe /xa.ʃa.be/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

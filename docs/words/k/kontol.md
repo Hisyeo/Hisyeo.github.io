@@ -2,7 +2,7 @@
 id: kontol
 slug: kontol
 title: KONTOL
-sidebar_position: 168
+sidebar_position: 167
 tags: [kontol, Verb, Romance]
 description: to sing/play (music) § Verb
 ---

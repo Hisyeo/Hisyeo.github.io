@@ -3,7 +3,7 @@ id: tukwos
 slug: tukwos
 title: TUKWOS
 sidebar_position: 297
-tags: [tukwos, Numeral, Afroasiatic]
+tags: [tukwos, Numeral, Afro-Asiatic]
 description: 08 eight § Numeral
 ---
 
@@ -22,5 +22,5 @@ description: 08 eight § Numeral
 <details>
     <summary>Origin</summary>
     Hausa takwàs [tə́.kʷàs]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

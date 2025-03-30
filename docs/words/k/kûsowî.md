@@ -3,7 +3,7 @@ id: kûsowî
 slug: kûsowî
 title: KÛSOW
 sidebar_position: 219
-tags: [kûsowî, Noun, Afroasiatic]
+tags: [kûsowî, Noun, Afro-Asiatic]
 description: matter/material § Noun
 ---
 
@@ -22,5 +22,5 @@ description: matter/material § Noun
 <details>
     <summary>Origin</summary>
     Amharic ቁሳዊ k’usawī /kʼusawi/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

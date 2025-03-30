@@ -3,7 +3,7 @@ id: tolîko
 slug: tolîko
 title: TOLKO
 sidebar_position: 278
-tags: [tolîko, Noun, Afroasiatic]
+tags: [tolîko, Noun, Afro-Asiatic]
 description: method § Noun
 ---
 
@@ -22,5 +22,5 @@ description: method § Noun
 <details>
     <summary>Origin</summary>
     Arabic طَرِيقَة ṭarīqa /tˤa.riː.qa/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

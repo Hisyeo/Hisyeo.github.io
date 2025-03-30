@@ -3,7 +3,7 @@ id: dohîl
 slug: dohîl
 title: DOHL
 sidebar_position: 466
-tags: [dohîl, Adjective, Afroasiatic]
+tags: [dohîl, Adjective, Afro-Asiatic]
 description: shallow § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: shallow § Adjective
 <details>
     <summary>Origin</summary>
     Arabic ضَحِل ḍaḥil /dˤaħ.ħil/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

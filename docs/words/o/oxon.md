@@ -2,14 +2,14 @@
 id: oxon
 slug: oxon
 title: OXON
-sidebar_position: 14
-tags: [oxon, Preposition, Afroasiatic]
-description: beneficiary/purpose marker (for) § Preposition
+sidebar_position: 13
+tags: [oxon, Preposition, Afro-Asiatic]
+description: causal-final marker (for) § Preposition
 ---
 
 ### oxon&emsp;<span kind="abugida">ɽɋ̃</span>
 
-*beneficiary/purpose marker (for)* **§** [Preposition](../../tags/Preposition)
+*causal-final marker (for)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈɑ.ʃɑn/
 
@@ -22,5 +22,5 @@ description: beneficiary/purpose marker (for) § Preposition
 <details>
     <summary>Origin</summary>
     Arabic, Hijazi عشان ʕašān /ʕaˈʃaːn/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

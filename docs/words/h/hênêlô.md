@@ -2,7 +2,7 @@
 id: hênêlô
 slug: hênêlô
 title: HÊNÊLÔ
-sidebar_position: 139
+sidebar_position: 138
 tags: [hênêlô, Noun, Romance]
 description: gender § Noun
 ---

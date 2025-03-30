@@ -3,7 +3,7 @@ id: cifulo
 slug: cifulo
 title: CİFULO
 sidebar_position: 330
-tags: [cifulo, Adjective, Afroasiatic]
+tags: [cifulo, Adjective, Afro-Asiatic]
 description: dancing § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: dancing § Adjective
 <details>
     <summary>Origin</summary>
     Amharic č̣əfära [tʃʼɨfəra]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

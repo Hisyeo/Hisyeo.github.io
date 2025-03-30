@@ -3,7 +3,7 @@ id: xe
 slug: xe
 title: XE
 sidebar_position: 437
-tags: [xe, Particle, Afroasiatic]
+tags: [xe, Particle, Afro-Asiatic]
 description: subjective subordinate clause particle § Particle
 ---
 
@@ -22,5 +22,5 @@ description: subjective subordinate clause particle § Particle
 <details>
     <summary>Origin</summary>
     Hebrew שֶׁ־ she- [ʃɛː]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

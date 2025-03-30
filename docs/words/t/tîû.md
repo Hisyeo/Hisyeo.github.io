@@ -3,7 +3,7 @@ id: tîû
 slug: tîû
 title: TÛ
 sidebar_position: 291
-tags: [tîû, Numeral, Afroasiatic]
+tags: [tîû, Numeral, Afro-Asiatic]
 description: 05 five § Numeral
 ---
 
@@ -22,5 +22,5 @@ description: 05 five § Numeral
 <details>
     <summary>Origin</summary>
     Coptic ϯⲟⲩ tiou /tʼiːw/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

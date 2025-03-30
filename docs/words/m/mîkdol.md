@@ -3,7 +3,7 @@ id: mîkdol
 slug: mîkdol
 title: MKDOL
 sidebar_position: 689
-tags: [mîkdol, Noun, Afroasiatic]
+tags: [mîkdol, Noun, Afro-Asiatic]
 description: amount § Noun
 ---
 
@@ -22,5 +22,5 @@ description: amount § Noun
 <details>
     <summary>Origin</summary>
     Arabic مِقْدَار miqdār /miq.daːr/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

@@ -3,7 +3,7 @@ id: mûstokîn
 slug: mûstokîn
 title: MÛSTOKN
 sidebar_position: 703
-tags: [mûstokîn, Adjective, Afroasiatic]
+tags: [mûstokîn, Adjective, Afro-Asiatic]
 description: straight § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: straight § Adjective
 <details>
     <summary>Origin</summary>
     Arabic مُسْتَقِيم mustaqīm /mus.ta.qiːm/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

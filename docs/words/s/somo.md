@@ -3,7 +3,7 @@ id: somo
 slug: somo
 title: SOMO
 sidebar_position: 375
-tags: [somo, Verb, Afroasiatic]
+tags: [somo, Verb, Afro-Asiatic]
 description: to name [as] (a name) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to name [as] (a name) § Verb
 <details>
     <summary>Origin</summary>
     Arabic سَمَّى sammā /sam.maː/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

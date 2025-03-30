@@ -2,7 +2,7 @@
 id: sûnbîdû
 slug: sûnbîdû
 title: SÛNBDÛ
-sidebar_position: 420
+sidebar_position: 421
 tags: [sûnbîdû, Noun, Romance]
 description: drone/buzz/hum § Noun
 ---

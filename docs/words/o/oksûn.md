@@ -3,7 +3,7 @@ id: oksûn
 slug: oksûn
 title: OKSÛN
 sidebar_position: 6
-tags: [oksûn, Noun, Afroasiatic]
+tags: [oksûn, Noun, Afro-Asiatic]
 description: meat/muscle § Noun
 ---
 
@@ -22,5 +22,5 @@ description: meat/muscle § Noun
 <details>
     <summary>Origin</summary>
     Kabyle aksum /ˈaksum/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

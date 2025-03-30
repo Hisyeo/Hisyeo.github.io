@@ -3,7 +3,7 @@ id: xûk
 slug: xûk
 title: XÛK
 sidebar_position: 457
-tags: [xûk, Noun, Afroasiatic]
+tags: [xûk, Noun, Afro-Asiatic]
 description: sort/type § Noun
 ---
 
@@ -22,5 +22,5 @@ description: sort/type § Noun
 <details>
     <summary>Origin</summary>
     Hebrew סוּג sug <br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

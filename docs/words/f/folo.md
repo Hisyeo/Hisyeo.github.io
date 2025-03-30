@@ -3,7 +3,7 @@ id: folo
 slug: folo
 title: FOLO
 sidebar_position: 621
-tags: [folo, Noun, Afroasiatic]
+tags: [folo, Noun, Afro-Asiatic]
 description: atom § Noun
 ---
 
@@ -22,5 +22,5 @@ description: atom § Noun
 <details>
     <summary>Origin</summary>
     Arabic ذَرَّة ḏarra /ðar.ra/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

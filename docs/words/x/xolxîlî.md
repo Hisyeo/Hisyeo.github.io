@@ -3,7 +3,7 @@ id: xolxîlî
 slug: xolxîlî
 title: XOLXL
 sidebar_position: 433
-tags: [xolxîlî, Adjective, Afroasiatic]
+tags: [xolxîlî, Adjective, Afro-Asiatic]
 description: teal § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: teal § Adjective
 <details>
     <summary>Origin</summary>
     Arabic شَرْشِيرِيّ šaršīriyy /ʃar.ʃiː.rijj/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

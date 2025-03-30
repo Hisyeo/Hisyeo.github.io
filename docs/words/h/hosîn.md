@@ -2,7 +2,7 @@
 id: hosîn
 slug: hosîn
 title: HOSN
-sidebar_position: 121
+sidebar_position: 120
 tags: [hosîn, Adjective, Indo-Iranian]
 description: beautiful § Adjective
 ---

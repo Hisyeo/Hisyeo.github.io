@@ -21,6 +21,6 @@ description: female § Adjective
 
 <details>
     <summary>Origin</summary>
-    Guaja wahy [wahy]<br/>
+    Guajá wahy [wahy]<br/>
     <em>Tupian Language Family</em>
 </details>

@@ -3,7 +3,7 @@ id: kûngîyo
 slug: kûngîyo
 title: KÛNGYO
 sidebar_position: 225
-tags: [kûngîyo, Noun, Afroasiatic]
+tags: [kûngîyo, Noun, Afro-Asiatic]
 description: organization/enterprise § Noun
 ---
 
@@ -22,5 +22,5 @@ description: organization/enterprise § Noun
 <details>
     <summary>Origin</summary>
     Hausa ƙungiya /kʼungija/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

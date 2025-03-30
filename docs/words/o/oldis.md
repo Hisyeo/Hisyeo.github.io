@@ -2,14 +2,14 @@
 id: oldis
 slug: oldis
 title: OLDİS
-sidebar_position: 33
+sidebar_position: 32
 tags: [oldis, Preposition, Germanic]
-description: evidence marker (or so) § Preposition
+description: evidential marker (or so) § Preposition
 ---
 
 ### oldis&emsp;<span kind="abugida">ɽ͊ʌ́ȷ</span>
 
-*evidence marker (or so)* **§** [Preposition](../../tags/Preposition)
+*evidential marker (or so)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈɑl.dɪs/
 

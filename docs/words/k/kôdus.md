@@ -2,8 +2,8 @@
 id: kôdus
 slug: kôdus
 title: KÔDUS
-sidebar_position: 182
-tags: [kôdus, Adjective, Afroasiatic]
+sidebar_position: 181
+tags: [kôdus, Adjective, Afro-Asiatic]
 description: sacred § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: sacred § Adjective
 <details>
     <summary>Origin</summary>
     Hebrew קָדוֹשׁ kadósh /ˈkɔdəʃ/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

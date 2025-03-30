@@ -2,7 +2,7 @@
 id: kînlik
 slug: kînlik
 title: KNLİK
-sidebar_position: 206
+sidebar_position: 205
 tags: [kînlik, Adjective, Sino-Tibetan]
 description: authorized § Adjective
 ---

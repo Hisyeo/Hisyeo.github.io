@@ -2,8 +2,8 @@
 id: hôlmo
 slug: hôlmo
 title: HÔLMO
-sidebar_position: 135
-tags: [hôlmo, Noun, Afroasiatic]
+sidebar_position: 134
+tags: [hôlmo, Noun, Afro-Asiatic]
 description: dream § Noun
 ---
 
@@ -22,5 +22,5 @@ description: dream § Noun
 <details>
     <summary>Origin</summary>
     Maltese ħolma /ˈħɔl.ma/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

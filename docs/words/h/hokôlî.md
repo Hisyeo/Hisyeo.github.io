@@ -2,8 +2,8 @@
 id: hokôlî
 slug: hokôlî
 title: HOKÔL
-sidebar_position: 117
-tags: [hokôlî, Noun, Afroasiatic]
+sidebar_position: 116
+tags: [hokôlî, Noun, Afro-Asiatic]
 description: tooth § Noun
 ---
 
@@ -22,5 +22,5 @@ description: tooth § Noun
 <details>
     <summary>Origin</summary>
     Hausa haƙōrī /há.kʼóː.ɽíː/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

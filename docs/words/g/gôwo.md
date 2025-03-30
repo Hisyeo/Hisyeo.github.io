@@ -3,7 +3,7 @@ id: gôwo
 slug: gôwo
 title: GÔWO
 sidebar_position: 245
-tags: [gôwo, Adjective, Afroasiatic]
+tags: [gôwo, Adjective, Afro-Asiatic]
 description: foolish/obtuse § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: foolish/obtuse § Adjective
 <details>
     <summary>Origin</summary>
     Oromo gowwaa /gɔwːɑː/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

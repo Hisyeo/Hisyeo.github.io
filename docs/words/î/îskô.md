@@ -2,7 +2,7 @@
 id: îskô
 slug: îskô
 title: SKÔ
-sidebar_position: 74
+sidebar_position: 73
 tags: [îskô, Verb, Muskogean]
 description: to drink (a drink) § Verb
 ---
@@ -21,6 +21,6 @@ description: to drink (a drink) § Verb
 
 <details>
     <summary>Origin</summary>
-    Chickasaw ishko  <br/>
+    Chickasaw ishko   /iʃ.ko/<br/>
     <em>Muskogean Language Family</em>
 </details>

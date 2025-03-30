@@ -2,7 +2,7 @@
 id: hondôt
 slug: hondôt
 title: HONDÔT
-sidebar_position: 127
+sidebar_position: 126
 tags: [hondôt, Adjective, Armenian]
 description: jealous § Adjective
 ---

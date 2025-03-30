@@ -2,7 +2,7 @@
 id: hôktun
 slug: hôktun
 title: HÔKTUN
-sidebar_position: 128
+sidebar_position: 127
 tags: [hôktun, Noun, Mongolic]
 description: mammal § Noun
 ---

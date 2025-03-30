@@ -3,7 +3,7 @@ id: wuto
 slug: wuto
 title: WUTO
 sidebar_position: 786
-tags: [wuto, Noun, Afroasiatic]
+tags: [wuto, Noun, Afro-Asiatic]
 description: month § Noun
 ---
 
@@ -22,5 +22,5 @@ description: month § Noun
 <details>
     <summary>Origin</summary>
     Hausa wata [wə́.tàː]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

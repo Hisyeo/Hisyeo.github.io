@@ -2,7 +2,7 @@
 id: ocûo
 slug: ocûo
 title: OCÛO
-sidebar_position: 11
+sidebar_position: 10
 tags: [ocûo, Noun, Abkhazo-Adyghean]
 description: skin § Noun
 ---

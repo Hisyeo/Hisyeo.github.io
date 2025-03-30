@@ -2,7 +2,7 @@
 id: elekê
 slug: elekê
 title: ELEKÊ
-sidebar_position: 52
+sidebar_position: 51
 tags: [elekê, Noun, Niger-Congo]
 description: cheek § Noun
 ---

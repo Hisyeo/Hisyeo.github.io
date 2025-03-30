@@ -4,12 +4,12 @@ slug: dên
 title: DÊN
 sidebar_position: 481
 tags: [dên, Preposition, Armenian]
-description: counter-agent marker (against) § Preposition
+description: oppositive marker (against) § Preposition
 ---
 
 ### dên&emsp;<span kind="abugida">ʌ̃ʇ</span>
 
-*counter-agent marker (against)* **§** [Preposition](../../tags/Preposition)
+*oppositive marker (against)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈden/
 

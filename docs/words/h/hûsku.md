@@ -2,7 +2,7 @@
 id: hûsku
 slug: hûsku
 title: HÛSKU
-sidebar_position: 153
+sidebar_position: 152
 tags: [hûsku, Verb, Germanic]
 description: to remember (a memory) § Verb
 ---

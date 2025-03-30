@@ -2,7 +2,7 @@
 id: eson
 slug: eson
 title: ESON
-sidebar_position: 48
+sidebar_position: 47
 tags: [eson, Numeral, Niger-Congo]
 description: 09 nine § Numeral
 ---

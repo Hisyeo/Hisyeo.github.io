@@ -2,7 +2,7 @@
 id: ongôlô
 slug: ongôlô
 title: ONGÔLÔ
-sidebar_position: 27
+sidebar_position: 26
 tags: [ongôlô, Noun, Romance]
 description: corner § Noun
 ---

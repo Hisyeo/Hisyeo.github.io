@@ -3,7 +3,7 @@ id: toliyo
 slug: toliyo
 title: TOLİYO
 sidebar_position: 277
-tags: [toliyo, Noun, Afroasiatic]
+tags: [toliyo, Noun, Afro-Asiatic]
 description: pasta § Noun
 ---
 
@@ -22,5 +22,5 @@ description: pasta § Noun
 <details>
     <summary>Origin</summary>
     Hausa taliya /ta.lɨ.j̰a/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

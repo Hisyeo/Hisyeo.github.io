@@ -2,7 +2,7 @@
 id: eloi
 slug: eloi
 title: ELOİ
-sidebar_position: 51
+sidebar_position: 50
 tags: [eloi, Noun, Dravidian]
 description: boundary/border § Noun
 ---

@@ -3,7 +3,7 @@ id: wofok
 slug: wofok
 title: WOFOK
 sidebar_position: 761
-tags: [wofok, Verb, Afroasiatic]
+tags: [wofok, Verb, Afro-Asiatic]
 description: to approve [of] (the approved) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to approve [of] (the approved) § Verb
 <details>
     <summary>Origin</summary>
     Arabic, Hijazi وافَق wāfag /waː.faɡ/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

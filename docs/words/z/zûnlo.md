@@ -2,8 +2,8 @@
 id: zûnlo
 slug: zûnlo
 title: ZÛNLO
-sidebar_position: 541
-tags: [zûnlo, Noun, Afroasiatic]
+sidebar_position: 540
+tags: [zûnlo, Noun, Afro-Asiatic]
 description: series/sentence § Noun
 ---
 
@@ -22,5 +22,5 @@ description: series/sentence § Noun
 <details>
     <summary>Origin</summary>
     Arabic جُمْلَة jumla /d͡ʒum.la/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

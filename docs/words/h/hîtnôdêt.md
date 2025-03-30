@@ -2,8 +2,8 @@
 id: hîtnôdêt
 slug: hîtnôdêt
 title: HTNÔDÊT
-sidebar_position: 143
-tags: [hîtnôdêt, Adjective, Afroasiatic]
+sidebar_position: 142
+tags: [hîtnôdêt, Adjective, Afro-Asiatic]
 description: oscillating § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: oscillating § Adjective
 <details>
     <summary>Origin</summary>
     Hebrew הִתְנוֹדֵד⁩ hitnodéd /hit.no'ded/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

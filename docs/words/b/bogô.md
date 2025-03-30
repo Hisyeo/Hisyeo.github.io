@@ -2,7 +2,7 @@
 id: bogô
 slug: bogô
 title: BOGÔ
-sidebar_position: 546
+sidebar_position: 545
 tags: [bogô, Noun, Indo-Iranian]
 description: luck § Noun
 ---

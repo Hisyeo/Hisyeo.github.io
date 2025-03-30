@@ -2,7 +2,7 @@
 id: ôdon
 slug: ôdon
 title: ÔDON
-sidebar_position: 39
+sidebar_position: 38
 tags: [ôdon, Adjective, Germanic]
 description: orderly § Adjective
 ---

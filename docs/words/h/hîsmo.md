@@ -2,8 +2,8 @@
 id: hîsmo
 slug: hîsmo
 title: HSMO
-sidebar_position: 145
-tags: [hîsmo, Noun, Afroasiatic]
+sidebar_position: 144
+tags: [hîsmo, Noun, Afro-Asiatic]
 description: cousin § Noun
 ---
 
@@ -22,5 +22,5 @@ description: cousin § Noun
 <details>
     <summary>Origin</summary>
     Neo-Aramaic, Assyrian ܚܸܙܡܵܐ ḥizmā [xiz.mɑː]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

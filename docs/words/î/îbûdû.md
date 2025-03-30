@@ -2,7 +2,7 @@
 id: îbûdû
 slug: îbûdû
 title: BÛDÛ
-sidebar_position: 77
+sidebar_position: 76
 tags: [îbûdû, Adjective, Dravidian]
 description: now § Adjective
 ---

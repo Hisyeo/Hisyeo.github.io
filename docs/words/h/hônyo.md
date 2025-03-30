@@ -2,7 +2,7 @@
 id: hônyo
 slug: hônyo
 title: HÔNYO
-sidebar_position: 133
+sidebar_position: 132
 tags: [hônyo, Noun, Sino-Tibetan]
 description: wilderness § Noun
 ---

@@ -3,7 +3,7 @@ id: lono
 slug: lono
 title: LONO
 sidebar_position: 796
-tags: [lono, Noun, Afroasiatic]
+tags: [lono, Noun, Afro-Asiatic]
 description: day § Noun
 ---
 
@@ -22,5 +22,5 @@ description: day § Noun
 <details>
     <summary>Origin</summary>
     Hausa rānā /ɽáː.náː/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

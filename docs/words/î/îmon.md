@@ -2,8 +2,8 @@
 id: îmon
 slug: îmon
 title: MON
-sidebar_position: 79
-tags: [îmon, Verb, Afroasiatic]
+sidebar_position: 78
+tags: [îmon, Verb, Afro-Asiatic]
 description: to trust (a belief) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to trust (a belief) § Verb
 <details>
     <summary>Origin</summary>
     Arabic إيمان ʾīmān /ʔiː.maːn/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

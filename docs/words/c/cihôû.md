@@ -21,6 +21,6 @@ description: successive marker (after) § Preposition
 
 <details>
     <summary>Origin</summary>
-    Mandarin 此後 cǐhòu <br/>
+    Mandarin 此後 cǐhòu /tsʰɨ.xou/<br/>
     <em>Sino-Tibetan Language Family</em>
 </details>

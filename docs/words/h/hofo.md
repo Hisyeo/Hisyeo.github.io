@@ -2,8 +2,8 @@
 id: hofo
 slug: hofo
 title: HOFO
-sidebar_position: 124
-tags: [hofo, Verb, Afroasiatic]
+sidebar_position: 123
+tags: [hofo, Verb, Afro-Asiatic]
 description: to plead (a plea) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to plead (a plea) § Verb
 <details>
     <summary>Origin</summary>
     Arabic حث ḥaṯṯa /ħaθ.θa/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

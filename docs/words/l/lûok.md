@@ -2,8 +2,8 @@
 id: lûok
 slug: lûok
 title: LÛOK
-sidebar_position: 827
-tags: [lûok, Noun, Afroasiatic]
+sidebar_position: 826
+tags: [lûok, Noun, Afro-Asiatic]
 description: spirit/ghost § Noun
 ---
 
@@ -22,5 +22,5 @@ description: spirit/ghost § Noun
 <details>
     <summary>Origin</summary>
     Hebrew, Ashkenazi רוּחַ rúakh /ˈru.aχ/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

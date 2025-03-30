@@ -3,7 +3,7 @@ id: fohoso
 slug: fohoso
 title: FOHOSO
 sidebar_position: 614
-tags: [fohoso, Verb, Afroasiatic]
+tags: [fohoso, Verb, Afro-Asiatic]
 description: to examine [for] (an examination) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to examine [for] (an examination) § Verb
 <details>
     <summary>Origin</summary>
     Arabic فَحَصَ faḥaṣa /fa.ħa.sˤa/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

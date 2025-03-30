@@ -3,7 +3,7 @@ id: golo
 slug: golo
 title: GOLO
 sidebar_position: 238
-tags: [golo, Verb, Afroasiatic]
+tags: [golo, Verb, Afro-Asiatic]
 description: to read (a document) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to read (a document) § Verb
 <details>
     <summary>Origin</summary>
     Arabic, Hijazi قرا gara /ɡara/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

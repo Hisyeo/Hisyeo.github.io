@@ -2,7 +2,7 @@
 id: infultîn
 slug: infultîn
 title: İNFULTN
-sidebar_position: 67
+sidebar_position: 66
 tags: [infultîn, Adjective, Romance]
 description: rotating/spinning § Adjective
 ---

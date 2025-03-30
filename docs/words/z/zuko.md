@@ -2,8 +2,8 @@
 id: zuko
 slug: zuko
 title: ZUKO
-sidebar_position: 534
-tags: [zuko, Noun, Afroasiatic]
+sidebar_position: 533
+tags: [zuko, Noun, Afro-Asiatic]
 description: bag § Noun
 ---
 
@@ -22,5 +22,5 @@ description: bag § Noun
 <details>
     <summary>Origin</summary>
     Hausa jàkā [d͡ʒə̀.káː]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

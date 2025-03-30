@@ -2,7 +2,7 @@
 id: kîûngô
 slug: kîûngô
 title: KÛNGÔ
-sidebar_position: 199
+sidebar_position: 198
 tags: [kîûngô, Noun, Niger-Congo]
 description: spice § Noun
 ---

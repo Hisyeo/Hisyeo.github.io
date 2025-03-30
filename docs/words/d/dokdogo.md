@@ -3,7 +3,7 @@ id: dokdogo
 slug: dokdogo
 title: DOKDOGO
 sidebar_position: 467
-tags: [dokdogo, Verb, Afroasiatic]
+tags: [dokdogo, Verb, Afro-Asiatic]
 description: to tickle (the tickled) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to tickle (the tickled) § Verb
 <details>
     <summary>Origin</summary>
     Arabic دَغْدَغَ daḡdaḡa /daɣ.da.ɣa/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

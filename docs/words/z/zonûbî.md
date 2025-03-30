@@ -2,8 +2,8 @@
 id: zonûbî
 slug: zonûbî
 title: ZONÛB
-sidebar_position: 510
-tags: [zonûbî, Adjective, Afroasiatic]
+sidebar_position: 509
+tags: [zonûbî, Adjective, Afro-Asiatic]
 description: southern § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: southern § Adjective
 <details>
     <summary>Origin</summary>
     Arabic جَنُوبِيّ janūbiyy [d͡ʒä.nuː.bíː]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

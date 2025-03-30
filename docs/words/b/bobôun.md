@@ -2,7 +2,7 @@
 id: bobôun
 slug: bobôun
 title: BOBÔUN
-sidebar_position: 552
+sidebar_position: 551
 tags: [bobôun, Noun, Austro-Asiatic]
 description: system § Noun
 ---

@@ -2,14 +2,14 @@
 id: ôlê
 slug: ôlê
 title: ÔLÊ
-sidebar_position: 46
+sidebar_position: 45
 tags: [ôlê, Preposition, Austronesian]
-description: experiencer/causee marker § Preposition
+description: causal-agentive marker § Preposition
 ---
 
 ### ôlê&emsp;<span kind="abugida">ɽıʓʇ</span>
 
-*experiencer/causee marker* **§** [Preposition](../../tags/Preposition)
+*causal-agentive marker* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈo.le/
 

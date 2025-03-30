@@ -2,8 +2,8 @@
 id: zomo
 slug: zomo
 title: ZOMO
-sidebar_position: 507
-tags: [zomo, Noun, Afroasiatic]
+sidebar_position: 506
+tags: [zomo, Noun, Afro-Asiatic]
 description: group § Noun
 ---
 
@@ -22,5 +22,5 @@ description: group § Noun
 <details>
     <summary>Origin</summary>
     Arabic جَمَاعَة⁩ jamāʕa /d͡ʒa.maː.ʕa/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

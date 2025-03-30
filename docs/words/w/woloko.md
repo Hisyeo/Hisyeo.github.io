@@ -3,7 +3,7 @@ id: woloko
 slug: woloko
 title: WOLOKO
 sidebar_position: 764
-tags: [woloko, Noun, Afroasiatic]
+tags: [woloko, Noun, Afro-Asiatic]
 description: leaf/petal § Noun
 ---
 
@@ -22,5 +22,5 @@ description: leaf/petal § Noun
 <details>
     <summary>Origin</summary>
     Arabic وَرَقَة waraqa /wa.ra.qa/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

@@ -3,7 +3,7 @@ id: momokî
 slug: momokî
 title: MOMOK
 sidebar_position: 660
-tags: [momokî, Adjective, Afroasiatic]
+tags: [momokî, Adjective, Afro-Asiatic]
 description: surprised § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: surprised § Adjective
 <details>
     <summary>Origin</summary>
     Hausa mamaki /màː.máː.kìː/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

@@ -2,7 +2,7 @@
 id: hûwuncul
 slug: hûwuncul
 title: HÛWUNCUL
-sidebar_position: 160
+sidebar_position: 159
 tags: [hûwuncul, Noun, Mongolic]
 description: plastic § Noun
 ---

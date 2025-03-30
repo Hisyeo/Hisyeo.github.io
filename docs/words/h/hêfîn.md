@@ -2,8 +2,8 @@
 id: hêfîn
 slug: hêfîn
 title: HÊFN
-sidebar_position: 138
-tags: [hêfîn, Verb, Afroasiatic]
+sidebar_position: 137
+tags: [hêfîn, Verb, Afro-Asiatic]
 description: to understand (a concept) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to understand (a concept) § Verb
 <details>
     <summary>Origin</summary>
     Hebrew הֵבִין hevín /(h)eˈvin/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

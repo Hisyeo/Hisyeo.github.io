@@ -2,8 +2,8 @@
 id: bono
 slug: bono
 title: BONO
-sidebar_position: 554
-tags: [bono, Adjective, Afroasiatic]
+sidebar_position: 553
+tags: [bono, Adjective, Afro-Asiatic]
 description: facing/pointing § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: facing/pointing § Adjective
 <details>
     <summary>Origin</summary>
     Hebrew פָּנָה paná /pa'na/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

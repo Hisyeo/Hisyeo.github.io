@@ -3,7 +3,7 @@ id: gufuyo
 slug: gufuyo
 title: GUFUYO
 sidebar_position: 256
-tags: [gufuyo, Noun, Afroasiatic]
+tags: [gufuyo, Noun, Afro-Asiatic]
 description: shop/market § Noun
 ---
 
@@ -22,5 +22,5 @@ description: shop/market § Noun
 <details>
     <summary>Origin</summary>
     Amharic ገበያ gäbäya [gəβ̞əja]<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

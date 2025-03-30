@@ -2,7 +2,7 @@
 id: zîgîl
 slug: zîgîl
 title: ZGL
-sidebar_position: 527
+sidebar_position: 526
 tags: [zîgîl, Adjective, Turkic]
 description: falling § Adjective
 ---
@@ -21,6 +21,6 @@ description: falling § Adjective
 
 <details>
     <summary>Origin</summary>
-    Kyrgy жыгыл- jıgıl- <br/>
+    Kyrgyz жыгыл- jıgıl- <br/>
     <em>Turkic Language Family</em>
 </details>

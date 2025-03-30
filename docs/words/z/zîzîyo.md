@@ -2,8 +2,8 @@
 id: zîzîyo
 slug: zîzîyo
 title: ZZYO
-sidebar_position: 530
-tags: [zîzîyo, Noun, Afroasiatic]
+sidebar_position: 529
+tags: [zîzîyo, Noun, Afro-Asiatic]
 description: tendon/root § Noun
 ---
 
@@ -22,5 +22,5 @@ description: tendon/root § Noun
 <details>
     <summary>Origin</summary>
     Hausa jíijíyàa <br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

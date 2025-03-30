@@ -2,7 +2,7 @@
 id: êto
 slug: êto
 title: ÊTO
-sidebar_position: 56
+sidebar_position: 55
 tags: [êto, Determiner, Tupian]
 description: many § Determiner
 ---
@@ -21,6 +21,6 @@ description: many § Determiner
 
 <details>
     <summary>Origin</summary>
-    Paraguayan Guarani eta [eta]<br/>
+    Guarani, Paraguayan eta [eta]<br/>
     <em>Tupian Language Family</em>
 </details>

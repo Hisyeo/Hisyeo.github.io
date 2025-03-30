@@ -2,7 +2,7 @@
 id: ulyô
 slug: ulyô
 title: ULYÔ
-sidebar_position: 95
+sidebar_position: 94
 tags: [ulyô, Pronoun, Romance]
 description: medial demonstrative (that/there) § Pronoun
 ---

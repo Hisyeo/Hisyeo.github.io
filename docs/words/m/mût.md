@@ -4,12 +4,12 @@ slug: mût
 title: MÛT
 sidebar_position: 702
 tags: [mût, Preposition, Germanic]
-description: direction/recipient (towards) § Preposition
+description: dative marker (towards) § Preposition
 ---
 
 ### mût&emsp;<span kind="abugida">ƶ̆ʄ</span>
 
-*direction/recipient (towards)* **§** [Preposition](../../tags/Preposition)
+*dative marker (towards)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈmut/
 

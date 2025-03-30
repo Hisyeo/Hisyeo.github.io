@@ -3,7 +3,7 @@ id: toswîl
 slug: toswîl
 title: TOSWL
 sidebar_position: 273
-tags: [toswîl, Verb, Afroasiatic]
+tags: [toswîl, Verb, Afro-Asiatic]
 description: to draw (a picture) § Verb
 ---
 
@@ -22,5 +22,5 @@ description: to draw (a picture) § Verb
 <details>
     <summary>Origin</summary>
     Arabic تَصْوِير taṣwīr /tasˤ.wiːr/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

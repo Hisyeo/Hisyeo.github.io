@@ -3,7 +3,7 @@ id: golfon
 slug: golfon
 title: GOLFON
 sidebar_position: 241
-tags: [golfon, Adjective, Afroasiatic]
+tags: [golfon, Adjective, Afro-Asiatic]
 description: disgusted § Adjective
 ---
 
@@ -22,5 +22,5 @@ description: disgusted § Adjective
 <details>
     <summary>Origin</summary>
     Arabic, Hijazi قرفان garfān /ɡarfaːn/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

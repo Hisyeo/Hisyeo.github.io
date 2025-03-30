@@ -3,7 +3,7 @@ id: xîmol
 slug: xîmol
 title: XMOL
 sidebar_position: 451
-tags: [xîmol, Noun, Afroasiatic]
+tags: [xîmol, Noun, Afro-Asiatic]
 description: left § Noun
 ---
 
@@ -22,5 +22,5 @@ description: left § Noun
 <details>
     <summary>Origin</summary>
     Arabic شِمَال šimāl /ʃi.maːl/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

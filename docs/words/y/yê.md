@@ -2,7 +2,7 @@
 id: yê
 slug: yê
 title: YÊ
-sidebar_position: 850
+sidebar_position: 849
 tags: [yê, Preposition, Indo-Iranian]
 description: genitive marker (of) § Preposition
 ---

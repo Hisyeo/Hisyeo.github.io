@@ -4,12 +4,12 @@ slug: ofek
 title: OFEK
 sidebar_position: 20
 tags: [ofek, Preposition, Romance]
-description: collaborator marker (alongside/with) § Preposition
+description: comitative marker (alongside/with) § Preposition
 ---
 
 ### ofek&emsp;<span kind="abugida">ɽɤ̑ɿ</span>
 
-*collaborator marker (alongside/with)* **§** [Preposition](../../tags/Preposition)
+*comitative marker (alongside/with)* **§** [Preposition](../../tags/Preposition)
 
 **IPA**: /ˈɑ.fɛk/
 

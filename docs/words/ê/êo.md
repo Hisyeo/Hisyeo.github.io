@@ -2,7 +2,7 @@
 id: êo
 slug: êo
 title: ÊO
-sidebar_position: 55
+sidebar_position: 54
 tags: [êo, Particle, Misc]
 description: causative verb particle § Particle
 ---

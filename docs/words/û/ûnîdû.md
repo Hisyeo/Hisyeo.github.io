@@ -2,7 +2,7 @@
 id: ûnîdû
 slug: ûnîdû
 title: ÛNDÛ
-sidebar_position: 106
+sidebar_position: 105
 tags: [ûnîdû, Adjective, Romance]
 description: joined § Adjective
 ---

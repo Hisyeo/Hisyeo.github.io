@@ -3,7 +3,7 @@ id: mûhoyon
 slug: mûhoyon
 title: MÛHOYON
 sidebar_position: 699
-tags: [mûhoyon, Noun, Afroasiatic]
+tags: [mûhoyon, Noun, Afro-Asiatic]
 description: camp § Noun
 ---
 
@@ -22,5 +22,5 @@ description: camp § Noun
 <details>
     <summary>Origin</summary>
     Arabic مُخَيَّم muḵayyam /mu.xaj.jam/<br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

@@ -2,7 +2,7 @@
 id: ubôlni
 slug: ubôlni
 title: UBÔLNİ
-sidebar_position: 87
+sidebar_position: 86
 tags: [ubôlni, Adjective, Balto-Slavic]
 description: resistant § Adjective
 ---

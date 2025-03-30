@@ -3,7 +3,7 @@ id: kûnontî
 slug: kûnontî
 title: KÛNONT
 sidebar_position: 223
-tags: [kûnontî, Noun, Afroasiatic]
+tags: [kûnontî, Noun, Afro-Asiatic]
 description: communication § Noun
 ---
 
@@ -22,5 +22,5 @@ description: communication § Noun
 <details>
     <summary>Origin</summary>
     Oromo quunnamtii <br/>
-    <em>Afroasiatic Language Family</em>
+    <em>Afro-Asiatic Language Family</em>
 </details>

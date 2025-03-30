@@ -2,7 +2,7 @@
 id: ûnhilun
 slug: ûnhilun
 title: ÛNHİLUN
-sidebar_position: 107
+sidebar_position: 106
 tags: [ûnhilun, Verb, Germanic]
 description: to surround/envelope (a surrounding/enclosure)  § Verb
 ---

@@ -2,7 +2,7 @@
 id: onô
 slug: onô
 title: ONÔ
-sidebar_position: 24
+sidebar_position: 23
 tags: [onô, Pronoun, Japonic]
 description: distal demonstrative (yon/yonder) § Pronoun
 ---
