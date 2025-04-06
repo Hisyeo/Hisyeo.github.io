@@ -2,7 +2,7 @@
 id: lûok
 slug: lûok
 title: LÛOK
-sidebar_position: 826
+sidebar_position: 828
 tags: [lûok, Noun, Afro-Asiatic]
 description: spirit/ghost § Noun
 ---

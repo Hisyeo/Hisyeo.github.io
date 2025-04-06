@@ -2,7 +2,7 @@
 id: mûfêû
 slug: mûfêû
 title: MÛFÊÛ
-sidebar_position: 705
+sidebar_position: 707
 tags: [mûfêû, Adjective, Niger-Congo]
 description: clean § Adjective
 ---

@@ -2,7 +2,7 @@
 id: wêko
 slug: wêko
 title: WÊKO
-sidebar_position: 770
+sidebar_position: 772
 tags: [wêko, Verb, Niger-Congo]
 description: to place (the placed) § Verb
 ---

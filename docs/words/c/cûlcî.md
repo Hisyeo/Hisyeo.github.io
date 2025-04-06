@@ -2,7 +2,7 @@
 id: cûlcî
 slug: cûlcî
 title: CÛLC
-sidebar_position: 363
+sidebar_position: 364
 tags: [cûlcî, Noun, Dravidian]
 description: trick/scam § Noun
 ---

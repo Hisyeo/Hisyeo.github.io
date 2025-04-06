@@ -2,7 +2,7 @@
 id: cênbô
 slug: cênbô
 title: CÊNBÔ
-sidebar_position: 326
+sidebar_position: 327
 tags: [cênbô, Adjective, Sino-Tibetan]
 description: big § Adjective
 ---

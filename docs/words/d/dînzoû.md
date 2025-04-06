@@ -2,7 +2,7 @@
 id: dînzoû
 slug: dînzoû
 title: DNZOÛ
-sidebar_position: 488
+sidebar_position: 489
 tags: [dînzoû, Noun, Hmong-Mien]
 description: lip/rim/edge § Noun
 ---

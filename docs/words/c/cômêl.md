@@ -2,7 +2,7 @@
 id: cômêl
 slug: cômêl
 title: CÔMÊL
-sidebar_position: 320
+sidebar_position: 321
 tags: [cômêl, Adjective, Austronesian]
 description: cute § Adjective
 ---

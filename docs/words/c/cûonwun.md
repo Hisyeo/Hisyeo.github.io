@@ -2,7 +2,7 @@
 id: cûonwun
 slug: cûonwun
 title: CÛONWUN
-sidebar_position: 351
+sidebar_position: 352
 tags: [cûonwun, Noun, Sino-Tibetan]
 description: rumor § Noun
 ---

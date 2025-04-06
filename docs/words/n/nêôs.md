@@ -2,7 +2,7 @@
 id: nêôs
 slug: nêôs
 title: NÊÔS
-sidebar_position: 730
+sidebar_position: 732
 tags: [nêôs, Adjective, Hellenic]
 description: new/fresh § Adjective
 ---

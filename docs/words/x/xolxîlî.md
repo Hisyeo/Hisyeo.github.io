@@ -2,7 +2,7 @@
 id: xolxîlî
 slug: xolxîlî
 title: XOLXL
-sidebar_position: 433
+sidebar_position: 434
 tags: [xolxîlî, Adjective, Afro-Asiatic]
 description: teal § Adjective
 ---

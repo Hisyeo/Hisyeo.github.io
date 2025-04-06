@@ -2,7 +2,7 @@
 id: cîkînîl
 slug: cîkînîl
 title: CKNL
-sidebar_position: 339
+sidebar_position: 340
 tags: [cîkînîl, Noun, Mayan]
 description: ear § Noun
 ---

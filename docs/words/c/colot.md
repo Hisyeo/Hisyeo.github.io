@@ -2,7 +2,7 @@
 id: colot
 slug: colot
 title: COLOT
-sidebar_position: 315
+sidebar_position: 316
 tags: [colot, Adjective, Kra-Dai]
 description: wise/clever § Adjective
 ---

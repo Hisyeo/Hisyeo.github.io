@@ -2,7 +2,7 @@
 id: môtsilê
 slug: môtsilê
 title: MÔTSİLÊ
-sidebar_position: 670
+sidebar_position: 671
 tags: [môtsilê, Verb, Japonic]
 description: to tie (the tied) § Verb
 ---

@@ -2,7 +2,7 @@
 id: bôsol
 slug: bôsol
 title: BÔSOL
-sidebar_position: 563
+sidebar_position: 564
 tags: [bôsol, Verb, Romance]
 description: to form a pose (a position) § Verb
 ---

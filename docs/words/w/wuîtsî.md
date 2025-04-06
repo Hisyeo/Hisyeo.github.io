@@ -2,7 +2,7 @@
 id: wuîtsî
 slug: wuîtsî
 title: WUTS
-sidebar_position: 784
+sidebar_position: 786
 tags: [wuîtsî, Verb, Sino-Tibetan]
 description: to maintain (the maintained) § Verb
 ---

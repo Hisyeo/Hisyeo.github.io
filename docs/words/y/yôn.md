@@ -2,7 +2,7 @@
 id: yôn
 slug: yôn
 title: YÔN
-sidebar_position: 847
+sidebar_position: 849
 tags: [yôn, Verb, Sino-Tibetan]
 description: to use (a tool) § Verb
 ---

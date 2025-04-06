@@ -2,7 +2,7 @@
 id: cosnî
 slug: cosnî
 title: COSN
-sidebar_position: 310
+sidebar_position: 311
 tags: [cosnî, Adjective, Balto-Slavic]
 description: private/confidential § Adjective
 ---

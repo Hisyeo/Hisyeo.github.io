@@ -2,7 +2,7 @@
 id: conôî
 slug: conôî
 title: CONÔ
-sidebar_position: 312
+sidebar_position: 313
 tags: [conôî, Noun, Kra-Dai]
 description: beak § Noun
 ---

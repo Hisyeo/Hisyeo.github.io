@@ -2,7 +2,7 @@
 id: nec
 slug: nec
 title: NEC
-sidebar_position: 726
+sidebar_position: 728
 tags: [nec, Noun, Germanic]
 description: mesh § Noun
 ---

@@ -2,7 +2,7 @@
 id: dîzel
 slug: dîzel
 title: DZEL
-sidebar_position: 486
+sidebar_position: 487
 tags: [dîzel, Pronoun, Turkic]
 description: other § Pronoun
 ---

@@ -2,7 +2,7 @@
 id: cûtî
 slug: cûtî
 title: CÛT
-sidebar_position: 353
+sidebar_position: 354
 tags: [cûtî, Adjective, Mayan]
 description: small § Adjective
 ---

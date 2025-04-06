@@ -2,7 +2,7 @@
 id: tûndû
 slug: tûndû
 title: TÛNDÛ
-sidebar_position: 304
+sidebar_position: 305
 tags: [tûndû, Noun, Nilo-Saharan]
 description: bottom § Noun
 ---

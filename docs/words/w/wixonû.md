@@ -2,7 +2,7 @@
 id: wixonû
 slug: wixonû
 title: WİXONÛ
-sidebar_position: 777
+sidebar_position: 779
 tags: [wixonû, Noun, Indo-Iranian]
 description: virus § Noun
 ---

@@ -2,7 +2,7 @@
 id: sêmoi
 slug: sêmoi
 title: SÊMOİ
-sidebar_position: 392
+sidebar_position: 393
 tags: [sêmoi, Noun, Afro-Asiatic]
 description: heaven § Noun
 ---

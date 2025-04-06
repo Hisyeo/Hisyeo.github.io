@@ -2,7 +2,7 @@
 id: môkwon
 slug: môkwon
 title: MÔKWON
-sidebar_position: 666
+sidebar_position: 667
 tags: [môkwon, Adjective, Sino-Tibetan]
 description: unrelated § Adjective
 ---

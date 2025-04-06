@@ -2,7 +2,7 @@
 id: xemêtsen
 slug: xemêtsen
 title: XEMÊTSEN
-sidebar_position: 440
+sidebar_position: 441
 tags: [xemêtsen, Noun, Afro-Asiatic]
 description: noun § Noun
 ---

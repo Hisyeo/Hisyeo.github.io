@@ -2,7 +2,7 @@
 id: besol
 slug: besol
 title: BESOL
-sidebar_position: 567
+sidebar_position: 568
 tags: [besol, Verb, Uralic]
 description: to seal/lock (the sealed/locked) § Verb
 ---

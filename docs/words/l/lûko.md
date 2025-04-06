@@ -2,7 +2,7 @@
 id: lûko
 slug: lûko
 title: LÛKO
-sidebar_position: 828
+sidebar_position: 830
 tags: [lûko, Adjective, Indo-Iranian]
 description: interrupted § Adjective
 ---

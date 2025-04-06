@@ -2,7 +2,7 @@
 id: xofô
 slug: xofô
 title: XOFÔ
-sidebar_position: 428
+sidebar_position: 429
 tags: [xofô, Noun, Oto-Manguean]
 description: guts § Noun
 ---

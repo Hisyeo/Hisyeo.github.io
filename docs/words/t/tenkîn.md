@@ -2,7 +2,7 @@
 id: tenkîn
 slug: tenkîn
 title: TENKN
-sidebar_position: 287
+sidebar_position: 288
 tags: [tenkîn, Verb, Sino-Tibetan]
 description: to hear (a sound) § Verb
 ---

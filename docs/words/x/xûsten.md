@@ -2,7 +2,7 @@
 id: xûsten
 slug: xûsten
 title: XÛSTEN
-sidebar_position: 459
+sidebar_position: 460
 tags: [xûsten, Verb, Indo-Iranian]
 description: to wash (the washed) § Verb
 ---

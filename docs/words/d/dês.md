@@ -2,7 +2,7 @@
 id: dês
 slug: dês
 title: DÊS
-sidebar_position: 480
+sidebar_position: 481
 tags: [dês, Particle, Romance]
 description: negatitive verb modifier particle § Particle
 ---

@@ -2,7 +2,7 @@
 id: bûmî
 slug: bûmî
 title: BÛM
-sidebar_position: 608
+sidebar_position: 609
 tags: [bûmî, Noun, Indo-Iranian]
 description: ground/terrain/earth § Noun
 ---

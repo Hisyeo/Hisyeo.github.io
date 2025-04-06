@@ -2,7 +2,7 @@
 id: dêko
 slug: dêko
 title: DÊKO
-sidebar_position: 478
+sidebar_position: 479
 tags: [dêko, Verb, Indo-Iranian]
 description: to see (a view) § Verb
 ---

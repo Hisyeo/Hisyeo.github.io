@@ -2,7 +2,7 @@
 id: bîsû
 slug: bîsû
 title: BSÛ
-sidebar_position: 587
+sidebar_position: 588
 tags: [bîsû, Adjective, Austronesian]
 description: nonbinary/queer § Adjective
 ---

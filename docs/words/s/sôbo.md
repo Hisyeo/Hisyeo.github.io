@@ -2,7 +2,7 @@
 id: sôbo
 slug: sôbo
 title: SÔBO
-sidebar_position: 382
+sidebar_position: 383
 tags: [sôbo, Noun, Japonic]
 description: side/beside § Noun
 ---

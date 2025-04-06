@@ -2,7 +2,7 @@
 id: li
 slug: li
 title: Lİ
-sidebar_position: 811
+sidebar_position: 813
 tags: [li, Preposition, Misc]
 description: subject complement marker § Preposition
 ---

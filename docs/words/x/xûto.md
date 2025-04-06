@@ -2,7 +2,7 @@
 id: xûto
 slug: xûto
 title: XÛTO
-sidebar_position: 458
+sidebar_position: 459
 tags: [xûto, Noun, Oto-Manguean]
 description: river § Noun
 ---

@@ -2,7 +2,7 @@
 id: luhû
 slug: luhû
 title: LUHÛ
-sidebar_position: 823
+sidebar_position: 825
 tags: [luhû, Noun, Indo-Iranian]
 description: blood § Noun
 ---

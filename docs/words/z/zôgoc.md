@@ -2,7 +2,7 @@
 id: zôgoc
 slug: zôgoc
 title: ZÔGOC
-sidebar_position: 516
+sidebar_position: 517
 tags: [zôgoc, Noun, Balto-Slavic]
 description: pitch/tar § Noun
 ---

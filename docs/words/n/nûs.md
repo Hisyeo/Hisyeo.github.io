@@ -2,7 +2,7 @@
 id: nûs
 slug: nûs
 title: NÛS
-sidebar_position: 754
+sidebar_position: 756
 tags: [nûs, Pronoun, Romance]
 description: we/us § Pronoun
 ---
