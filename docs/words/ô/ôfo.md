@@ -2,7 +2,7 @@
 id: ôfo
 slug: ôfo
 title: ÔFO
-sidebar_position: 41
+sidebar_position: 42
 tags: [ôfo, Pronoun, Balto-Slavic]
 description: proximal demonstrative (this/here) § Pronoun
 ---

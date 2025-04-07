@@ -2,7 +2,7 @@
 id: cino
 slug: cino
 title: CİNO
-sidebar_position: 333
+sidebar_position: 334
 tags: [cino, Noun, Balto-Slavic]
 description: charge/fee/tax § Noun
 ---

@@ -2,7 +2,7 @@
 id: lîmîen
 slug: lîmîen
 title: LMEN
-sidebar_position: 824
+sidebar_position: 825
 tags: [lîmîen, Noun, Sino-Tibetan]
 description: inside § Noun
 ---

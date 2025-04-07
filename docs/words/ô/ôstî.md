@@ -2,7 +2,7 @@
 id: ôstî
 slug: ôstî
 title: ÔST
-sidebar_position: 37
+sidebar_position: 38
 tags: [ôstî, Noun, Indo-Iranian]
 description: bone § Noun
 ---

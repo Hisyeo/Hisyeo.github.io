@@ -2,7 +2,7 @@
 id: gundolê
 slug: gundolê
 title: GUNDOLÊ
-sidebar_position: 257
+sidebar_position: 258
 tags: [gundolê, Noun, Indo-Iranian]
 description: sphere § Noun
 ---

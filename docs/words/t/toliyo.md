@@ -2,7 +2,7 @@
 id: toliyo
 slug: toliyo
 title: TOLİYO
-sidebar_position: 277
+sidebar_position: 278
 tags: [toliyo, Noun, Afro-Asiatic]
 description: pasta § Noun
 ---

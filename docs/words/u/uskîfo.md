@@ -2,7 +2,7 @@
 id: uskîfo
 slug: uskîfo
 title: USKFO
-sidebar_position: 85
+sidebar_position: 86
 tags: [uskîfo, Verb, Romance]
 description: to avoid/dodge (evasion/dodge) § Verb
 ---

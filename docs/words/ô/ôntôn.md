@@ -2,7 +2,7 @@
 id: ôntôn
 slug: ôntôn
 title: ÔNTÔN
-sidebar_position: 43
+sidebar_position: 44
 tags: [ôntôn, Verb, Germanic]
 description: to wear (clothing) § Verb
 ---

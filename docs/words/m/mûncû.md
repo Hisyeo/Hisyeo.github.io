@@ -2,7 +2,7 @@
 id: mûncû
 slug: mûncû
 title: MÛNCÛ
-sidebar_position: 709
+sidebar_position: 710
 tags: [mûncû, Adjective, Niger-Congo]
 description: tart § Adjective
 ---

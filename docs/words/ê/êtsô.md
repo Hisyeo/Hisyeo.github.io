@@ -2,7 +2,7 @@
 id: êtsô
 slug: êtsô
 title: ÊTSÔ
-sidebar_position: 56
+sidebar_position: 57
 tags: [êtsô, Noun, Misc]
 description: state/quality/attribute § Noun
 ---

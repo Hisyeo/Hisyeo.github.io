@@ -2,7 +2,7 @@
 id: ênbukun
 slug: ênbukun
 title: ÊNBUKUN
-sidebar_position: 61
+sidebar_position: 62
 tags: [ênbukun, Noun, Dravidian]
 description: belch/burp § Noun
 ---

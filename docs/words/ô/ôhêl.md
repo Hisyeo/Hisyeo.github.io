@@ -2,7 +2,7 @@
 id: ôhêl
 slug: ôhêl
 title: ÔHÊL
-sidebar_position: 34
+sidebar_position: 35
 tags: [ôhêl, Noun, Mayan]
 description: past § Noun
 ---

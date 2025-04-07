@@ -2,7 +2,7 @@
 id: uyo
 slug: uyo
 title: UYO
-sidebar_position: 95
+sidebar_position: 96
 tags: [uyo, Noun, Sino-Tibetan]
 description: thing § Noun
 ---

@@ -2,7 +2,7 @@
 id: ogolol
 slug: ogolol
 title: OGOLOL
-sidebar_position: 8
+sidebar_position: 9
 tags: [ogolol, Verb, Romance]
 description: to grab/hold (a hold/load) § Verb
 ---

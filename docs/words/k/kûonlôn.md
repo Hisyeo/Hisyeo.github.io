@@ -2,7 +2,7 @@
 id: kûonlôn
 slug: kûonlôn
 title: KÛONLÔN
-sidebar_position: 214
+sidebar_position: 215
 tags: [kûonlôn, Adjective, Sino-Tibetan]
 description: tolerant § Adjective
 ---

@@ -2,7 +2,7 @@
 id: xîmu
 slug: xîmu
 title: XMU
-sidebar_position: 453
+sidebar_position: 454
 tags: [xîmu, Noun, Chibchan]
 description: water § Noun
 ---

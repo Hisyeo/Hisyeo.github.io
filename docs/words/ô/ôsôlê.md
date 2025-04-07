@@ -2,7 +2,7 @@
 id: ôsôlê
 slug: ôsôlê
 title: ÔSÔLÊ
-sidebar_position: 36
+sidebar_position: 37
 tags: [ôsôlê, Adjective, Japonic]
 description: afraid § Adjective
 ---

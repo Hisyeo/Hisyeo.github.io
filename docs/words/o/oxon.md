@@ -2,7 +2,7 @@
 id: oxon
 slug: oxon
 title: OXON
-sidebar_position: 13
+sidebar_position: 14
 tags: [oxon, Preposition, Afro-Asiatic]
 description: causal-final marker (for) § Preposition
 ---

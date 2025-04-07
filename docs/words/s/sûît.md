@@ -2,7 +2,7 @@
 id: sûît
 slug: sûît
 title: SÛT
-sidebar_position: 415
+sidebar_position: 416
 tags: [sûît, Adjective, Germanic]
 description: sweet § Adjective
 ---

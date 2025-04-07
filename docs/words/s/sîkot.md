@@ -2,7 +2,7 @@
 id: sîkot
 slug: sîkot
 title: SKOT
-sidebar_position: 403
+sidebar_position: 404
 tags: [sîkot, Noun, Austronesian]
 description: brush/comb/rake/broom § Noun
 ---

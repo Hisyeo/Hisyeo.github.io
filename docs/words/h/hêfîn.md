@@ -2,7 +2,7 @@
 id: hêfîn
 slug: hêfîn
 title: HÊFN
-sidebar_position: 137
+sidebar_position: 138
 tags: [hêfîn, Verb, Afro-Asiatic]
 description: to understand (a concept) § Verb
 ---

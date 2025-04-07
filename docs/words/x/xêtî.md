@@ -2,7 +2,7 @@
 id: xêtî
 slug: xêtî
 title: XÊT
-sidebar_position: 442
+sidebar_position: 443
 tags: [xêtî, Numeral, Turkic]
 description: 07 seven § Numeral
 ---

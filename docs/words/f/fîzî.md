@@ -2,7 +2,7 @@
 id: fîzî
 slug: fîzî
 title: FZ
-sidebar_position: 639
+sidebar_position: 640
 tags: [fîzî, Verb, Nilo-Saharan]
 description: to bury (the buried) § Verb
 ---

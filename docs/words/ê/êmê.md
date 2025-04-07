@@ -2,7 +2,7 @@
 id: êmê
 slug: êmê
 title: ÊMÊ
-sidebar_position: 59
+sidebar_position: 60
 tags: [êmê, Adjective, Sino-Tibetan]
 description: vague/imprecise § Adjective
 ---

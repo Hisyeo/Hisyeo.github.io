@@ -2,7 +2,7 @@
 id: kutin
 slug: kutin
 title: KUTİN
-sidebar_position: 211
+sidebar_position: 212
 tags: [kutin, Adjective, Indo-Iranian]
 description: difficult § Adjective
 ---

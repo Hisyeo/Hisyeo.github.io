@@ -2,7 +2,7 @@
 id: gôcîdon
 slug: gôcîdon
 title: GÔCDON
-sidebar_position: 243
+sidebar_position: 244
 tags: [gôcîdon, Verb, Indo-Iranian]
 description: to choose (a choice) § Verb
 ---

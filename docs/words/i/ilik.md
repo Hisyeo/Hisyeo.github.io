@@ -2,7 +2,7 @@
 id: ilik
 slug: ilik
 title: İLİK
-sidebar_position: 68
+sidebar_position: 69
 tags: [ilik, Preposition, Turkic]
 description: predecessive marker (before) § Preposition
 ---

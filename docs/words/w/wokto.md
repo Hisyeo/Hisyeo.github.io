@@ -2,7 +2,7 @@
 id: wokto
 slug: wokto
 title: WOKTO
-sidebar_position: 760
+sidebar_position: 761
 tags: [wokto, Noun, Quechumaran]
 description: outside § Noun
 ---

@@ -2,7 +2,7 @@
 id: hôdôkû
 slug: hôdôkû
 title: HÔDÔKÛ
-sidebar_position: 128
+sidebar_position: 129
 tags: [hôdôkû, Verb, Japonic]
 description: to untie (the untied) § Verb
 ---

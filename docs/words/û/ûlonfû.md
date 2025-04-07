@@ -2,7 +2,7 @@
 id: ûlonfû
 slug: ûlonfû
 title: ÛLONFÛ
-sidebar_position: 109
+sidebar_position: 110
 tags: [ûlonfû, Noun, Niger-Congo]
 description: syllable § Noun
 ---

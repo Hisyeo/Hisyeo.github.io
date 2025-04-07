@@ -2,7 +2,7 @@
 id: wêloi
 slug: wêloi
 title: WÊLOİ
-sidebar_position: 777
+sidebar_position: 778
 tags: [wêloi, Verb, Dravidian]
 description: to work (in an occupation) § Verb
 ---

@@ -2,7 +2,7 @@
 id: osyen
 slug: osyen
 title: OSYEN
-sidebar_position: 12
+sidebar_position: 13
 tags: [osyen, Adjective, Romance]
 description: ancient § Adjective
 ---

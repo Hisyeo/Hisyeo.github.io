@@ -2,7 +2,7 @@
 id: kônên
 slug: kônên
 title: KÔNÊN
-sidebar_position: 183
+sidebar_position: 184
 tags: [kônên, Adjective, Sino-Tibetan]
 description: possible/likely § Adjective
 ---

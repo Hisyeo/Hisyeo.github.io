@@ -2,7 +2,7 @@
 id: hoxobê
 slug: hoxobê
 title: HOXOBÊ
-sidebar_position: 121
+sidebar_position: 122
 tags: [hoxobê, Noun, Afro-Asiatic]
 description: beam/joist/stud § Noun
 ---

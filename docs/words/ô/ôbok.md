@@ -2,7 +2,7 @@
 id: ôbok
 slug: ôbok
 title: ÔBOK
-sidebar_position: 40
+sidebar_position: 41
 tags: [ôbok, Adjective, Romance]
 description: opaque § Adjective
 ---

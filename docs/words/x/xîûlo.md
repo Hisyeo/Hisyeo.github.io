@@ -2,7 +2,7 @@
 id: xîûlo
 slug: xîûlo
 title: XÛLO
-sidebar_position: 447
+sidebar_position: 448
 tags: [xîûlo, Noun, Romance]
 description: hiss/fizz/whistle § Noun
 ---

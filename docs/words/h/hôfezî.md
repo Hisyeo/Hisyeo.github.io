@@ -2,7 +2,7 @@
 id: hôfezî
 slug: hôfezî
 title: HÔFEZ
-sidebar_position: 129
+sidebar_position: 130
 tags: [hôfezî, Noun, Balto-Slavic]
 description: bovine § Noun
 ---

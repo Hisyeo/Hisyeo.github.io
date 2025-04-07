@@ -2,7 +2,7 @@
 id: kolowu
 slug: kolowu
 title: KOLOWU
-sidebar_position: 171
+sidebar_position: 172
 tags: [kolowu, Noun, Indo-Iranian]
 description: art § Noun
 ---

@@ -2,7 +2,7 @@
 id: obokî
 slug: obokî
 title: OBOK
-sidebar_position: 16
+sidebar_position: 17
 tags: [obokî, Noun, Armenian]
 description: glass § Noun
 ---

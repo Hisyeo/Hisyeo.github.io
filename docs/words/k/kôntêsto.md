@@ -2,7 +2,7 @@
 id: kôntêsto
 slug: kôntêsto
 title: KÔNTÊSTO
-sidebar_position: 184
+sidebar_position: 185
 tags: [kôntêsto, Verb, Romance]
 description: to contend with (a contestant) § Verb
 ---

@@ -2,7 +2,7 @@
 id: ûnfûnô
 slug: ûnfûnô
 title: ÛNFÛNÔ
-sidebar_position: 108
+sidebar_position: 109
 tags: [ûnfûnô, Noun, Niger-Congo]
 description: vegetable § Noun
 ---

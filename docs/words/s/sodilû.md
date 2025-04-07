@@ -2,7 +2,7 @@
 id: sodilû
 slug: sodilû
 title: SODİLÛ
-sidebar_position: 371
+sidebar_position: 372
 tags: [sodilû, Adjective, Dravidian]
 description: loose § Adjective
 ---

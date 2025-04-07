@@ -2,7 +2,7 @@
 id: hoî
 slug: hoî
 title: HO
-sidebar_position: 115
+sidebar_position: 116
 tags: [hoî, Preposition, Sino-Tibetan]
 description: locative marker (at) § Preposition
 ---

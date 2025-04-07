@@ -2,7 +2,7 @@
 id: cîes
 slug: cîes
 title: CES
-sidebar_position: 337
+sidebar_position: 338
 tags: [cîes, Adjective, Balto-Slavic]
 description: tight/firm § Adjective
 ---

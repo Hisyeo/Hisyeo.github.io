@@ -2,7 +2,7 @@
 id: ûlkêfî
 slug: ûlkêfî
 title: ÛLKÊF
-sidebar_position: 111
+sidebar_position: 112
 tags: [ûlkêfî, Adjective, Kartvelian]
 description: adamant/stubborn § Adjective
 ---

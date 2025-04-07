@@ -2,7 +2,7 @@
 id: gongoxî
 slug: gongoxî
 title: GONGOX
-sidebar_position: 235
+sidebar_position: 236
 tags: [gongoxî, Noun, Kartvelian]
 description: alarm § Noun
 ---

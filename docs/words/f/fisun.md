@@ -2,7 +2,7 @@
 id: fisun
 slug: fisun
 title: FİSUN
-sidebar_position: 633
+sidebar_position: 634
 tags: [fisun, Verb, Germanic]
 description: to know (knowledge) § Verb
 ---

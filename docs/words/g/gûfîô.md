@@ -2,7 +2,7 @@
 id: gûfîô
 slug: gûfîô
 title: GÛFÔ
-sidebar_position: 263
+sidebar_position: 264
 tags: [gûfîô, Verb, Celtic]
 description: to push (the pushed/repelled) § Verb
 ---

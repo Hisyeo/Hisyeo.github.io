@@ -2,7 +2,7 @@
 id: ostok
 slug: ostok
 title: OSTOK
-sidebar_position: 11
+sidebar_position: 12
 tags: [ostok, Noun, Armenian]
 description: sign/signal § Noun
 ---

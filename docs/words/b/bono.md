@@ -2,7 +2,7 @@
 id: bono
 slug: bono
 title: BONO
-sidebar_position: 554
+sidebar_position: 555
 tags: [bono, Adjective, Afro-Asiatic]
 description: facing/pointing § Adjective
 ---

@@ -2,7 +2,7 @@
 id: xifon
 slug: xifon
 title: XİFON
-sidebar_position: 444
+sidebar_position: 445
 tags: [xifon, Noun, Germanic]
 description: fungus § Noun
 ---

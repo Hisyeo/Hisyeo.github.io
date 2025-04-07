@@ -2,7 +2,7 @@
 id: dokdogo
 slug: dokdogo
 title: DOKDOGO
-sidebar_position: 468
+sidebar_position: 469
 tags: [dokdogo, Verb, Afro-Asiatic]
 description: to tickle (the tickled) § Verb
 ---

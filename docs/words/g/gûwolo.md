@@ -2,7 +2,7 @@
 id: gûwolo
 slug: gûwolo
 title: GÛWOLO
-sidebar_position: 266
+sidebar_position: 267
 tags: [gûwolo, Verb, Nilo-Saharan]
 description: to scratch (the scratched) § Verb
 ---

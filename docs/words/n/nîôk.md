@@ -2,7 +2,7 @@
 id: nîôk
 slug: nîôk
 title: NÔK
-sidebar_position: 744
+sidebar_position: 745
 tags: [nîôk, Adjective, Kra-Dai]
 description: growing § Adjective
 ---

@@ -2,7 +2,7 @@
 id: ôtsôtot
 slug: ôtsôtot
 title: ÔTSÔTOT
-sidebar_position: 35
+sidebar_position: 36
 tags: [ôtsôtot, Noun, Misc]
 description: deity § Noun
 ---

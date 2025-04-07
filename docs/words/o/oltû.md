@@ -2,7 +2,7 @@
 id: oltû
 slug: oltû
 title: OLTÛ
-sidebar_position: 31
+sidebar_position: 32
 tags: [oltû, Adjective, Romance]
 description: loud § Adjective
 ---

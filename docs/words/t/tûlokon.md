@@ -2,7 +2,7 @@
 id: tûlokon
 slug: tûlokon
 title: TÛLOKON
-sidebar_position: 306
+sidebar_position: 307
 tags: [tûlokon, Verb, Kra-Dai]
 description: to adjudge (judgement) § Verb
 ---

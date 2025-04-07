@@ -2,7 +2,7 @@
 id: lîun
 slug: lîun
 title: LUN
-sidebar_position: 815
+sidebar_position: 816
 tags: [lîun, Verb, Austro-Asiatic]
 description: to nurture/grow (the nurtured/grown) § Verb
 ---

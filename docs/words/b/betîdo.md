@@ -2,7 +2,7 @@
 id: betîdo
 slug: betîdo
 title: BETDO
-sidebar_position: 567
+sidebar_position: 568
 tags: [betîdo, Verb, Germanic]
 description: to mean (a meaning) § Verb
 ---

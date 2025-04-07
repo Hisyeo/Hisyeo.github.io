@@ -2,7 +2,7 @@
 id: hôn
 slug: hôn
 title: HÔN
-sidebar_position: 130
+sidebar_position: 131
 tags: [hôn, Preposition, Misc]
 description: context marker (as for/given) § Preposition
 ---

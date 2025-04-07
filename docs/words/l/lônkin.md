@@ -2,7 +2,7 @@
 id: lônkin
 slug: lônkin
 title: LÔNKİN
-sidebar_position: 806
+sidebar_position: 807
 tags: [lônkin, Noun, Sino-Tibetan]
 description: bulb § Noun
 ---

@@ -2,7 +2,7 @@
 id: fîmôsyôs
 slug: fîmôsyôs
 title: FMÔSYÔS
-sidebar_position: 640
+sidebar_position: 641
 tags: [fîmôsyôs, Adjective, Hellenic]
 description: public/communal § Adjective
 ---

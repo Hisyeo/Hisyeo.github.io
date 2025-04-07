@@ -2,7 +2,7 @@
 id: elfû
 slug: elfû
 title: ELFÛ
-sidebar_position: 53
+sidebar_position: 54
 tags: [elfû, Particle, Niger-Congo]
 description: 1000 thousand § Particle
 ---

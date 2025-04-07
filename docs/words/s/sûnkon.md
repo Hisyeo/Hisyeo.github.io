@@ -2,7 +2,7 @@
 id: sûnkon
 slug: sûnkon
 title: SÛNKON
-sidebar_position: 421
+sidebar_position: 422
 tags: [sûnkon, Adjective, Sino-Tibetan]
 description: instantaneous (second) § Adjective
 ---

@@ -2,7 +2,7 @@
 id: bêlêtê
 slug: bêlêtê
 title: BÊLÊTÊ
-sidebar_position: 576
+sidebar_position: 577
 tags: [bêlêtê, Noun, Romance]
 description: wall § Noun
 ---

@@ -2,7 +2,7 @@
 id: undofôl
 slug: undofôl
 title: UNDOFÔL
-sidebar_position: 91
+sidebar_position: 92
 tags: [undofôl, Noun, Armenian]
 description: legume § Noun
 ---

@@ -2,7 +2,7 @@
 id: cencî
 slug: cencî
 title: CENC
-sidebar_position: 324
+sidebar_position: 325
 tags: [cencî, Adjective, Balto-Slavic]
 description: thin/narrow § Adjective
 ---

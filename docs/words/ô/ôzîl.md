@@ -2,7 +2,7 @@
 id: ôzîl
 slug: ôzîl
 title: ÔZL
-sidebar_position: 39
+sidebar_position: 40
 tags: [ôzîl, Noun, Indo-Iranian]
 description: nut § Noun
 ---

@@ -2,7 +2,7 @@
 id: dodôû
 slug: dodôû
 title: DODÔÛ
-sidebar_position: 470
+sidebar_position: 471
 tags: [dodôû, Verb, Sino-Tibetan]
 description: to bet (a bet) § Verb
 ---

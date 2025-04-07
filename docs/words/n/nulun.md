@@ -2,7 +2,7 @@
 id: nulun
 slug: nulun
 title: NULUN
-sidebar_position: 753
+sidebar_position: 754
 tags: [nulun, Adjective, Indo-Iranian]
 description: soft § Adjective
 ---

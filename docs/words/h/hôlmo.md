@@ -2,7 +2,7 @@
 id: hôlmo
 slug: hôlmo
 title: HÔLMO
-sidebar_position: 134
+sidebar_position: 135
 tags: [hôlmo, Noun, Afro-Asiatic]
 description: dream § Noun
 ---

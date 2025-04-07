@@ -2,7 +2,7 @@
 id: zoso
 slug: zoso
 title: ZOSO
-sidebar_position: 505
+sidebar_position: 506
 tags: [zoso, Noun, Turkic]
 description: shelf § Noun
 ---

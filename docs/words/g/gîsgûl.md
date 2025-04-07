@@ -2,7 +2,7 @@
 id: gîsgûl
 slug: gîsgûl
 title: GSGÛL
-sidebar_position: 254
+sidebar_position: 255
 tags: [gîsgûl, Noun, Mongolic]
 description: step/rung § Noun
 ---

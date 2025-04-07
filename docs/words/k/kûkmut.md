@@ -2,7 +2,7 @@
 id: kûkmut
 slug: kûkmut
 title: KÛKMUT
-sidebar_position: 218
+sidebar_position: 219
 tags: [kûkmut, Noun, Sino-Tibetan]
 description: cereal/grain § Noun
 ---
