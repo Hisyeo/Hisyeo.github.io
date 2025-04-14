@@ -1,7 +1,7 @@
 ---
 id: kînyosel
 slug: kînyosel
-title: KNYOSEL
+title: KİNYOSEL
 sidebar_position: 207
 tags: [kînyosel, Noun, Turkic]
 description: chemical § Noun

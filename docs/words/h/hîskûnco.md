@@ -1,7 +1,7 @@
 ---
 id: hîskûnco
 slug: hîskûnco
-title: HSKÛNCO
+title: HİSKÛNCO
 sidebar_position: 144
 tags: [hîskûnco, Noun, Basque]
 description: language § Noun

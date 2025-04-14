@@ -1,7 +1,7 @@
 ---
 id: tîkêl
 slug: tîkêl
-title: TKÊL
+title: TİKÊL
 sidebar_position: 294
 tags: [tîkêl, Adjective, Uralic]
 description: reflected § Adjective

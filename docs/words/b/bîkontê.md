@@ -1,7 +1,7 @@
 ---
 id: bîkontê
 slug: bîkontê
-title: BKONTÊ
+title: BİKONTÊ
 sidebar_position: 586
 tags: [bîkontê, Adjective, Romance]
 description: spicy § Adjective

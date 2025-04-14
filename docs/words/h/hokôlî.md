@@ -1,7 +1,7 @@
 ---
 id: hokôlî
 slug: hokôlî
-title: HOKÔL
+title: HOKÔLİ
 sidebar_position: 117
 tags: [hokôlî, Noun, Afro-Asiatic]
 description: tooth § Noun

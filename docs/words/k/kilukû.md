@@ -1,7 +1,7 @@
 ---
 id: kilukû
 slug: kilukû
-title: KİLUKÛ
+title: KILUKÛ
 sidebar_position: 197
 tags: [kilukû, Adjective, Dravidian]
 description: eastern § Adjective

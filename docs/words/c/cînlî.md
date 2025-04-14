@@ -1,7 +1,7 @@
 ---
 id: cînlî
 slug: cînlî
-title: CNL
+title: CİNLİ
 sidebar_position: 346
 tags: [cînlî, Verb, Sino-Tibetan]
 description: to undergo (an experience) § Verb

@@ -1,7 +1,7 @@
 ---
 id: lûntî
 slug: lûntî
-title: LÛNT
+title: LÛNTİ
 sidebar_position: 834
 tags: [lûntî, Adjective, Austronesian]
 description: green § Adjective

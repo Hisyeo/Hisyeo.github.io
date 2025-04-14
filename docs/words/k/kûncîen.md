@@ -1,7 +1,7 @@
 ---
 id: kûncîen
 slug: kûncîen
-title: KÛNCEN
+title: KÛNCİEN
 sidebar_position: 227
 tags: [kûncîen, Noun, Sino-Tibetan]
 description: room § Noun

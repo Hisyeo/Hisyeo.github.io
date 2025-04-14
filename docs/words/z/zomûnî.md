@@ -1,7 +1,7 @@
 ---
 id: zomûnî
 slug: zomûnî
-title: ZOMÛN
+title: ZOMÛNİ
 sidebar_position: 510
 tags: [zomûnî, Adjective, Indo-Iranian]
 description: purple § Adjective

@@ -1,7 +1,7 @@
 ---
 id: nîo
 slug: nîo
-title: NO
+title: NİO
 sidebar_position: 744
 tags: [nîo, Pronoun, Austronesian]
 description: they/them § Pronoun

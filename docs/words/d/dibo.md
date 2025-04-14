@@ -1,7 +1,7 @@
 ---
 id: dibo
 slug: dibo
-title: DİBO
+title: DIBO
 sidebar_position: 485
 tags: [dibo, Noun, Indo-Iranian]
 description: container § Noun

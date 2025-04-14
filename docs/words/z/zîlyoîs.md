@@ -1,7 +1,7 @@
 ---
 id: zîlyoîs
 slug: zîlyoîs
-title: ZLYOS
+title: ZİLYOİS
 sidebar_position: 534
 tags: [zîlyoîs, Adjective, Balto-Slavic]
 description: deep § Adjective

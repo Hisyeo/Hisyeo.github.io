@@ -1,7 +1,7 @@
 ---
 id: ûcûmî
 slug: ûcûmî
-title: ÛCÛM
+title: ÛCÛMİ
 sidebar_position: 99
 tags: [ûcûmî, Noun, Niger-Congo]
 description: economy § Noun

@@ -1,7 +1,7 @@
 ---
 id: nicu
 slug: nicu
-title: NİCU
+title: NICU
 sidebar_position: 739
 tags: [nicu, Noun, Indo-Iranian]
 description: sneeze § Noun

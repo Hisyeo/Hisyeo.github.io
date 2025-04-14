@@ -1,7 +1,7 @@
 ---
 id: kîso
 slug: kîso
-title: KSO
+title: KİSO
 sidebar_position: 201
 tags: [kîso, Verb, Afro-Asiatic]
 description: to narrate (a story) § Verb

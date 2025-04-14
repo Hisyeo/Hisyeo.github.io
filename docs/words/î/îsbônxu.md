@@ -1,7 +1,7 @@
 ---
 id: îsbônxu
 slug: îsbônxu
-title: SBÔNXU
+title: İSBÔNXU
 sidebar_position: 75
 tags: [îsbônxu, Noun, Romance]
 description: sponge § Noun

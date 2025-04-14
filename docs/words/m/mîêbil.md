@@ -1,7 +1,7 @@
 ---
 id: mîêbil
 slug: mîêbil
-title: MÊBİL
+title: MİÊBIL
 sidebar_position: 689
 tags: [mîêbil, Noun, Balto-Slavic]
 description: furniture § Noun

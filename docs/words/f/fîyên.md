@@ -1,7 +1,7 @@
 ---
 id: fîyên
 slug: fîyên
-title: FYÊN
+title: FİYÊN
 sidebar_position: 643
 tags: [fîyên, Numeral, Romance]
 description: 100 hundred § Numeral

@@ -1,7 +1,7 @@
 ---
 id: lîûbît
 slug: lîûbît
-title: LÛBT
+title: LİÛBİT
 sidebar_position: 817
 tags: [lîûbît, Verb, Balto-Slavic]
 description: to love (the loved) § Verb

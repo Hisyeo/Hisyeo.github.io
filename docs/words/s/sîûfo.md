@@ -1,7 +1,7 @@
 ---
 id: sîûfo
 slug: sîûfo
-title: SÛFO
+title: SİÛFO
 sidebar_position: 403
 tags: [sîûfo, Verb, Sino-Tibetan]
 description: to digest (the digested) § Verb

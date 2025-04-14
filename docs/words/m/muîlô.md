@@ -1,7 +1,7 @@
 ---
 id: muîlô
 slug: muîlô
-title: MULÔ
+title: MUİLÔ
 sidebar_position: 697
 tags: [muîlô, Adjective, Indo-Iranian]
 description: dirty § Adjective

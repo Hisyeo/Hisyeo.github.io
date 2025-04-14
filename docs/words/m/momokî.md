@@ -1,7 +1,7 @@
 ---
 id: momokî
 slug: momokî
-title: MOMOK
+title: MOMOKİ
 sidebar_position: 662
 tags: [momokî, Adjective, Afro-Asiatic]
 description: surprised § Adjective

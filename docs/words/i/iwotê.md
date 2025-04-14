@@ -1,7 +1,7 @@
 ---
 id: iwotê
 slug: iwotê
-title: İWOTÊ
+title: IWOTÊ
 sidebar_position: 68
 tags: [iwotê, Adjective, Tupian]
 description: tall § Adjective

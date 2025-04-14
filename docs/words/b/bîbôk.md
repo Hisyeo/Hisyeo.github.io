@@ -1,7 +1,7 @@
 ---
 id: bîbôk
 slug: bîbôk
-title: BBÔK
+title: BİBÔK
 sidebar_position: 590
 tags: [bîbôk, Adjective, Sino-Tibetan]
 description: white § Adjective

@@ -1,7 +1,7 @@
 ---
 id: tîmîok
 slug: tîmîok
-title: TMOK
+title: TİMİOK
 sidebar_position: 298
 tags: [tîmîok, Noun, Eskaleut]
 description: bird § Noun

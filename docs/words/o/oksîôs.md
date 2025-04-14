@@ -1,7 +1,7 @@
 ---
 id: oksîôs
 slug: oksîôs
-title: OKSÔS
+title: OKSİÔS
 sidebar_position: 5
 tags: [oksîôs, Adjective, Hellenic]
 description: worthy § Adjective

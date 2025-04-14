@@ -1,7 +1,7 @@
 ---
 id: motsi
 slug: motsi
-title: MOTSİ
+title: MOTSI
 sidebar_position: 656
 tags: [motsi, Verb, Japonic]
 description: to await (an expectation) § Verb

@@ -1,7 +1,7 @@
 ---
 id: gîk
 slug: gîk
-title: GK
+title: GİK
 sidebar_position: 253
 tags: [gîk, Adjective, Nilo-Saharan]
 description: arriving § Adjective

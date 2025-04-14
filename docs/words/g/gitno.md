@@ -1,7 +1,7 @@
 ---
 id: gitno
 slug: gitno
-title: GİTNO
+title: GITNO
 sidebar_position: 252
 tags: [gitno, Preposition, Austronesian]
 description: intermediative marker (between) § Preposition

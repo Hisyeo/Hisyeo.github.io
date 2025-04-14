@@ -1,7 +1,7 @@
 ---
 id: gelmis
 slug: gelmis
-title: GELMİS
+title: GELMIS
 sidebar_position: 250
 tags: [gelmis, Adjective, Turkic]
 description: stretched § Adjective

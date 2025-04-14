@@ -1,7 +1,7 @@
 ---
 id: dônûxin
 slug: dônûxin
-title: DÔNÛXİN
+title: DÔNÛXIN
 sidebar_position: 478
 tags: [dônûxin, Noun, Turkic]
 description: conversion § Noun

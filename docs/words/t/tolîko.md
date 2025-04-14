@@ -1,7 +1,7 @@
 ---
 id: tolîko
 slug: tolîko
-title: TOLKO
+title: TOLİKO
 sidebar_position: 279
 tags: [tolîko, Noun, Afro-Asiatic]
 description: method § Noun

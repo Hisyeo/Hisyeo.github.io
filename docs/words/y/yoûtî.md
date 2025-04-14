@@ -1,7 +1,7 @@
 ---
 id: yoûtî
 slug: yoûtî
-title: YOÛT
+title: YOÛTİ
 sidebar_position: 835
 tags: [yoûtî, Determiner, Sino-Tibetan]
 description: some/a few § Determiner

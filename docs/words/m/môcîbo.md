@@ -1,7 +1,7 @@
 ---
 id: môcîbo
 slug: môcîbo
-title: MÔCBO
+title: MÔCİBO
 sidebar_position: 673
 tags: [môcîbo, Adjective, Uto-Aztecan]
 description: ongoing § Adjective

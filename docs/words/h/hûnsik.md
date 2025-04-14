@@ -1,7 +1,7 @@
 ---
 id: hûnsik
 slug: hûnsik
-title: HÛNSİK
+title: HÛNSIK
 sidebar_position: 157
 tags: [hûnsik, Adjective, Sino-Tibetan]
 description: red § Adjective

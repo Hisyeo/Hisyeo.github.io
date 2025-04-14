@@ -1,7 +1,7 @@
 ---
 id: gomî
 slug: gomî
-title: GOM
+title: GOMİ
 sidebar_position: 234
 tags: [gomî, Verb, Tungusic]
 description: to take (the taken) § Verb

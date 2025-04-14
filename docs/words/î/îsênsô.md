@@ -1,7 +1,7 @@
 ---
 id: îsênsô
 slug: îsênsô
-title: SÊNSÔ
+title: İSÊNSÔ
 sidebar_position: 72
 tags: [îsênsô, Noun, Niger-Congo]
 description: verb § Noun

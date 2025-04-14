@@ -1,7 +1,7 @@
 ---
 id: hunzîdû
 slug: hunzîdû
-title: HUNZDÛ
+title: HUNZİDÛ
 sidebar_position: 148
 tags: [hunzîdû, Noun, Romance]
 description: creak/squeak § Noun

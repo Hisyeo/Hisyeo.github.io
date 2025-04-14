@@ -1,7 +1,7 @@
 ---
 id: mêtlîôs
 slug: mêtlîôs
-title: MÊTLÔS
+title: MÊTLİÔS
 sidebar_position: 679
 tags: [mêtlîôs, Adjective, Hellenic]
 description: medium/average § Adjective

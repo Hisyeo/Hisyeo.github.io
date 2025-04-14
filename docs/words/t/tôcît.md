@@ -1,7 +1,7 @@
 ---
 id: tôcît
 slug: tôcît
-title: TÔCT
+title: TÔCİT
 sidebar_position: 282
 tags: [tôcît, Adjective, Romance]
 description: blunt § Adjective

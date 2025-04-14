@@ -1,7 +1,7 @@
 ---
 id: belîsîs
 slug: belîsîs
-title: BELSS
+title: BELİSİS
 sidebar_position: 571
 tags: [belîsîs, Adjective, Turkic]
 description: unsure § Adjective

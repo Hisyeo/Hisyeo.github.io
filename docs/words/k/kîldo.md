@@ -1,7 +1,7 @@
 ---
 id: kîldo
 slug: kîldo
-title: KLDO
+title: KİLDO
 sidebar_position: 208
 tags: [kîldo, Adjective, Koreic]
 description: long § Adjective

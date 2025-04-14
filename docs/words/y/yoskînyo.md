@@ -1,7 +1,7 @@
 ---
 id: yoskînyo
 slug: yoskînyo
-title: YOSKNYO
+title: YOSKİNYO
 sidebar_position: 839
 tags: [yoskînyo, Noun, Balto-Slavic]
 description: cave § Noun

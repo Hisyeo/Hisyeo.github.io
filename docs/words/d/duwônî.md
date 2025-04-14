@@ -1,7 +1,7 @@
 ---
 id: duwônî
 slug: duwônî
-title: DUWÔN
+title: DUWÔNİ
 sidebar_position: 497
 tags: [duwônî, Noun, Trans-New Guinea]
 description: sand § Noun

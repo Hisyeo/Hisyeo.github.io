@@ -1,7 +1,7 @@
 ---
 id: mîstu
 slug: mîstu
-title: MSTU
+title: MİSTU
 sidebar_position: 695
 tags: [mîstu, Adjective, Nilo-Saharan]
 description: rotten/corrupt § Adjective

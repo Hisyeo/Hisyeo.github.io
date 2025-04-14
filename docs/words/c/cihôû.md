@@ -1,7 +1,7 @@
 ---
 id: cihôû
 slug: cihôû
-title: CİHÔÛ
+title: CIHÔÛ
 sidebar_position: 329
 tags: [cihôû, Preposition, Sino-Tibetan]
 description: successive marker (after) § Preposition

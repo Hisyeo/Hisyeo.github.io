@@ -1,7 +1,7 @@
 ---
 id: fikwun
 slug: fikwun
-title: FİKWUN
+title: FIKWUN
 sidebar_position: 633
 tags: [fikwun, Noun, Austro-Asiatic]
 description: bacteria/microbe § Noun

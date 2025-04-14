@@ -1,7 +1,7 @@
 ---
 id: îcîwû
 slug: îcîwû
-title: CWÛ
+title: İCİWÛ
 sidebar_position: 70
 tags: [îcîwû, Noun, Dravidian]
 description: hiccup/spasm § Noun

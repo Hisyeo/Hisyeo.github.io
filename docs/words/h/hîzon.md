@@ -1,7 +1,7 @@
 ---
 id: hîzon
 slug: hîzon
-title: HZON
+title: HİZON
 sidebar_position: 146
 tags: [hîzon, Adjective, Indo-Iranian]
 description: excited § Adjective

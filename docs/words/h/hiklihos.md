@@ -1,7 +1,7 @@
 ---
 id: hiklihos
 slug: hiklihos
-title: HİKLİHOS
+title: HIKLIHOS
 sidebar_position: 141
 tags: [hiklihos, Adjective, Austronesian]
 description: supernatural/miraculous § Adjective

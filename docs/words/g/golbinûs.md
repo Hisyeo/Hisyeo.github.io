@@ -1,7 +1,7 @@
 ---
 id: golbinûs
 slug: golbinûs
-title: GOLBİNÛS
+title: GOLBINÛS
 sidebar_position: 241
 tags: [golbinûs, Adjective, Romance]
 description: chartreuse § Adjective

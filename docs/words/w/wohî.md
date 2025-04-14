@@ -1,7 +1,7 @@
 ---
 id: wohî
 slug: wohî
-title: WOH
+title: WOHİ
 sidebar_position: 759
 tags: [wohî, Adjective, Tupian]
 description: female § Adjective

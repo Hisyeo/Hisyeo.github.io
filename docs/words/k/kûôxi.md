@@ -1,7 +1,7 @@
 ---
 id: kûôxi
 slug: kûôxi
-title: KÛÔXİ
+title: KÛÔXI
 sidebar_position: 217
 tags: [kûôxi, Noun, Sino-Tibetan]
 description: fruit § Noun

@@ -1,7 +1,7 @@
 ---
 id: gûlobî
 slug: gûlobî
-title: GÛLOB
+title: GÛLOBİ
 sidebar_position: 268
 tags: [gûlobî, Adjective, Dravidian]
 description: pink § Adjective

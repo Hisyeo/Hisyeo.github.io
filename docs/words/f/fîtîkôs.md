@@ -1,7 +1,7 @@
 ---
 id: fîtîkôs
 slug: fîtîkôs
-title: FTKÔS
+title: FİTİKÔS
 sidebar_position: 638
 tags: [fîtîkôs, Adjective, Hellenic]
 description: western § Adjective

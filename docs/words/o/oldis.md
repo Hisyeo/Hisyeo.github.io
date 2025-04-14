@@ -1,7 +1,7 @@
 ---
 id: oldis
 slug: oldis
-title: OLDİS
+title: OLDIS
 sidebar_position: 33
 tags: [oldis, Preposition, Germanic]
 description: evidential marker (or so) § Preposition

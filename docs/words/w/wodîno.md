@@ -1,7 +1,7 @@
 ---
 id: wodîno
 slug: wodîno
-title: WODNO
+title: WODİNO
 sidebar_position: 762
 tags: [wodîno, Adjective, Dravidian]
 description: stale § Adjective

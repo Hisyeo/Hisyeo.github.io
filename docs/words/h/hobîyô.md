@@ -1,7 +1,7 @@
 ---
 id: hobîyô
 slug: hobîyô
-title: HOBYÔ
+title: HOBİYÔ
 sidebar_position: 123
 tags: [hobîyô, Verb, Japonic]
 description: to announce (an announcement) § Verb
