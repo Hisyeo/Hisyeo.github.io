@@ -1,7 +1,7 @@
 ---
 id: sêkîton
 slug: sêkîton
-title: SÊKİTON
+title: SÊKÎTON
 sidebar_position: 392
 tags: [sêkîton, Noun, Japonic]
 description: coal/cinder § Noun

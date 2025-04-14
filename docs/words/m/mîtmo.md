@@ -1,7 +1,7 @@
 ---
 id: mîtmo
 slug: mîtmo
-title: MİTMO
+title: MÎTMO
 sidebar_position: 693
 tags: [mîtmo, Noun, Quechumaran]
 description: colony § Noun

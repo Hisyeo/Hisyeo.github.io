@@ -1,7 +1,7 @@
 ---
 id: solîlo
 slug: solîlo
-title: SOLİLO
+title: SOLÎLO
 sidebar_position: 380
 tags: [solîlo, Noun, Indo-Iranian]
 description: body § Noun

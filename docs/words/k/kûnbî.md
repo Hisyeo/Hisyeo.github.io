@@ -1,7 +1,7 @@
 ---
 id: kûnbî
 slug: kûnbî
-title: KÛNBİ
+title: KÛNBÎ
 sidebar_position: 228
 tags: [kûnbî, Noun, Niger-Congo]
 description: scene/stage § Noun

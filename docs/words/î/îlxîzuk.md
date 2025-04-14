@@ -1,7 +1,7 @@
 ---
 id: îlxîzuk
 slug: îlxîzuk
-title: İLXİZUK
+title: ÎLXÎZUK
 sidebar_position: 83
 tags: [îlxîzuk, Adjective, Koreic]
 description: temporary § Adjective

@@ -1,7 +1,7 @@
 ---
 id: kêxîk
 slug: kêxîk
-title: KÊXİK
+title: KÊXÎK
 sidebar_position: 194
 tags: [kêxîk, Adjective, Mayan]
 description: variable/unstable § Adjective

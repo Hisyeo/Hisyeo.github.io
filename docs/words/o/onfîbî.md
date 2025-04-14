@@ -1,7 +1,7 @@
 ---
 id: onfîbî
 slug: onfîbî
-title: ONFİBİ
+title: ONFÎBÎ
 sidebar_position: 30
 tags: [onfîbî, Noun, Romance]
 description: amphibian § Noun

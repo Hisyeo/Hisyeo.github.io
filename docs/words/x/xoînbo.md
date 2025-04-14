@@ -1,7 +1,7 @@
 ---
 id: xoînbo
 slug: xoînbo
-title: XOİNBO
+title: XOÎNBO
 sidebar_position: 424
 tags: [xoînbo, Adjective, Germanic]
 description: seeming § Adjective

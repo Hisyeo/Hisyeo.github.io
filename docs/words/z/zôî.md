@@ -1,7 +1,7 @@
 ---
 id: zôî
 slug: zôî
-title: ZÔİ
+title: ZÔÎ
 sidebar_position: 516
 tags: [zôî, Adjective, Turkic]
 description: blue § Adjective

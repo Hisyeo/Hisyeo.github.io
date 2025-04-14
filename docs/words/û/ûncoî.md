@@ -1,7 +1,7 @@
 ---
 id: ûncoî
 slug: ûncoî
-title: ÛNCOİ
+title: ÛNCOÎ
 sidebar_position: 108
 tags: [ûncoî, Adjective, Indo-Iranian]
 description: proud § Adjective

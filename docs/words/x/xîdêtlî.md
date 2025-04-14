@@ -1,7 +1,7 @@
 ---
 id: xîdêtlî
 slug: xîdêtlî
-title: XİDÊTLİ
+title: XÎDÊTLÎ
 sidebar_position: 452
 tags: [xîdêtlî, Adjective, Turkic]
 description: strict § Adjective

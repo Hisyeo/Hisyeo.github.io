@@ -1,7 +1,7 @@
 ---
 id: sîkot
 slug: sîkot
-title: SİKOT
+title: SÎKOT
 sidebar_position: 404
 tags: [sîkot, Noun, Austronesian]
 description: brush/comb/rake/broom § Noun

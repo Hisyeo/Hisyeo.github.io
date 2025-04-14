@@ -1,7 +1,7 @@
 ---
 id: ônî
 slug: ônî
-title: ÔNİ
+title: ÔNÎ
 sidebar_position: 43
 tags: [ônî, Particle, Niger-Congo]
 description: agentive verb noun particle § Particle

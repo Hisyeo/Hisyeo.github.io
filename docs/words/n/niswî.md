@@ -1,7 +1,7 @@
 ---
 id: niswî
 slug: niswî
-title: NISWİ
+title: NISWÎ
 sidebar_position: 740
 tags: [niswî, Numeral, Algic]
 description: 03 three § Numeral

@@ -1,7 +1,7 @@
 ---
 id: sontî
 slug: sontî
-title: SONTİ
+title: SONTÎ
 sidebar_position: 379
 tags: [sontî, Adjective, Kra-Dai]
 description: calm § Adjective

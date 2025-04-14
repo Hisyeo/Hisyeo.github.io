@@ -1,7 +1,7 @@
 ---
 id: obokî
 slug: obokî
-title: OBOKİ
+title: OBOKÎ
 sidebar_position: 17
 tags: [obokî, Noun, Armenian]
 description: glass § Noun

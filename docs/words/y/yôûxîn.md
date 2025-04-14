@@ -1,7 +1,7 @@
 ---
 id: yôûxîn
 slug: yôûxîn
-title: YÔÛXİN
+title: YÔÛXÎN
 sidebar_position: 846
 tags: [yôûxîn, Noun, Sino-Tibetan]
 description: parade/procession § Noun

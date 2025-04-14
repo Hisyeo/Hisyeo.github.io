@@ -1,7 +1,7 @@
 ---
 id: bîômu
 slug: bîômu
-title: BİÔMU
+title: BÎÔMU
 sidebar_position: 584
 tags: [bîômu, Noun, Romance]
 description: biome § Noun

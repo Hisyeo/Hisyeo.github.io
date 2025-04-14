@@ -1,7 +1,7 @@
 ---
 id: dîncî
 slug: dîncî
-title: DİNCİ
+title: DÎNCÎ
 sidebar_position: 489
 tags: [dîncî, Noun, Kra-Dai]
 description: block § Noun

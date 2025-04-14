@@ -1,7 +1,7 @@
 ---
 id: zolonî
 slug: zolonî
-title: ZOLONİ
+title: ZOLONÎ
 sidebar_position: 514
 tags: [zolonî, Noun, Indo-Iranian]
 description: fuel § Noun

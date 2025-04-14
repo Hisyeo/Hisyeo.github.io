@@ -1,7 +1,7 @@
 ---
 id: fîlo
 slug: fîlo
-title: FİLO
+title: FÎLO
 sidebar_position: 642
 tags: [fîlo, Noun, Romance]
 description: row § Noun

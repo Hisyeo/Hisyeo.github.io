@@ -1,7 +1,7 @@
 ---
 id: kînôxî
 slug: kînôxî
-title: KİNÔXİ
+title: KÎNÔXÎ
 sidebar_position: 204
 tags: [kînôxî, Adjective, Japonic]
 description: functional § Adjective

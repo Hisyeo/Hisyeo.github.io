@@ -1,7 +1,7 @@
 ---
 id: îbûwê
 slug: îbûwê
-title: İBÛWÊ
+title: ÎBÛWÊ
 sidebar_position: 78
 tags: [îbûwê, Noun, Niger-Congo]
 description: stone § Noun

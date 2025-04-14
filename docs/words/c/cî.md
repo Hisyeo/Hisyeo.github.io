@@ -1,7 +1,7 @@
 ---
 id: cî
 slug: cî
-title: Cİ
+title: CÎ
 sidebar_position: 337
 tags: [cî, Postposition, Koreic]
 description: propositive sentence ender (agree?) § Postposition

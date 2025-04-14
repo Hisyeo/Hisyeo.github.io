@@ -1,7 +1,7 @@
 ---
 id: în
 slug: în
-title: İN
+title: ÎN
 sidebar_position: 80
 tags: [în, Particle, Celtic]
 description: verb modifier particle § Particle

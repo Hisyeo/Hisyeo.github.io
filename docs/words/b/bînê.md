@@ -1,7 +1,7 @@
 ---
 id: bînê
 slug: bînê
-title: BİNÊ
+title: BÎNÊ
 sidebar_position: 591
 tags: [bînê, Conjunction, Dravidian]
 description: then § Conjunction

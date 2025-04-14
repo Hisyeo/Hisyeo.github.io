@@ -1,7 +1,7 @@
 ---
 id: sunyotnî
 slug: sunyotnî
-title: SUNYOTNİ
+title: SUNYOTNÎ
 sidebar_position: 414
 tags: [sunyotnî, Adjective, Balto-Slavic]
 description: interested/amused § Adjective

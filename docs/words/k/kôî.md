@@ -1,7 +1,7 @@
 ---
 id: kôî
 slug: kôî
-title: KÔİ
+title: KÔÎ
 sidebar_position: 173
 tags: [kôî, Particle, Sino-Tibetan]
 description: epistemic verb particle § Particle

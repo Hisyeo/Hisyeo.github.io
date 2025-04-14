@@ -1,7 +1,7 @@
 ---
 id: kôtîkôl
 slug: kôtîkôl
-title: KÔTİKÔL
+title: KÔTÎKÔL
 sidebar_position: 176
 tags: [kôtîkôl, Adjective, Indo-Iranian]
 description: hindering/detrimental § Adjective

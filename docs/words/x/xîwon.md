@@ -1,7 +1,7 @@
 ---
 id: xîwon
 slug: xîwon
-title: XİWON
+title: XÎWON
 sidebar_position: 456
 tags: [xîwon, Verb, Sino-Tibetan]
 description: to hope/wish (a hope/wish) § Verb

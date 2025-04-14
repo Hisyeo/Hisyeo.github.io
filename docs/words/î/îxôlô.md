@@ -1,7 +1,7 @@
 ---
 id: îxôlô
 slug: îxôlô
-title: İXÔLÔ
+title: ÎXÔLÔ
 sidebar_position: 76
 tags: [îxôlô, Noun, Niger-Congo]
 description: problem § Noun

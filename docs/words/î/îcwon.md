@@ -1,7 +1,7 @@
 ---
 id: îcwon
 slug: îcwon
-title: İCWON
+title: ÎCWON
 sidebar_position: 71
 tags: [îcwon, Verb, Sino-Tibetan]
 description: to inherit (inheritance) § Verb

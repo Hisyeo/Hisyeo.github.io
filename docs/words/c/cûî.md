@@ -1,7 +1,7 @@
 ---
 id: cûî
 slug: cûî
-title: CÛİ
+title: CÛÎ
 sidebar_position: 354
 tags: [cûî, Noun, Koreic]
 description: rodent § Noun

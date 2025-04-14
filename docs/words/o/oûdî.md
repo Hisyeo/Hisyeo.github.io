@@ -1,7 +1,7 @@
 ---
 id: oûdî
 slug: oûdî
-title: OÛDİ
+title: OÛDÎ
 sidebar_position: 1
 tags: [oûdî, Noun, Niger-Congo]
 description: seed § Noun

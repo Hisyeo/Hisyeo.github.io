@@ -1,7 +1,7 @@
 ---
 id: xefîzec
 slug: xefîzec
-title: XEFİZEC
+title: XEFÎZEC
 sidebar_position: 441
 tags: [xefîzec, Verb, Balto-Slavic]
 description: to predict (a prediction) § Verb

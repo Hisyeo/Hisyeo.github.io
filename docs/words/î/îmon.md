@@ -1,7 +1,7 @@
 ---
 id: îmon
 slug: îmon
-title: İMON
+title: ÎMON
 sidebar_position: 79
 tags: [îmon, Verb, Afro-Asiatic]
 description: to trust (a belief) § Verb
