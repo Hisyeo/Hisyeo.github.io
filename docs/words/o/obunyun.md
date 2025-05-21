@@ -13,11 +13,11 @@ description: easy § Adjective
 
 **IPA**: /ˈɑ.bʌn.jʌn/
 
-**Verb**: to be easy/simple
+**Verb**: to be easy
 
-**Noun**: easiness/simplicity
+**Noun**: easiness
 
-**Modifier**: easy/simple
+**Modifier**: easy
 
 <details>
     <summary>Origin</summary>

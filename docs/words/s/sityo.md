@@ -2,7 +2,7 @@
 id: sityo
 slug: sityo
 title: SITYO
-sidebar_position: 398
+sidebar_position: 400
 tags: [sityo, Verb, Germanic]
 description: to sit on (a seat) § Verb
 ---

@@ -2,7 +2,7 @@
 id: bûgot
 slug: bûgot
 title: BÛGOT
-sidebar_position: 604
+sidebar_position: 606
 tags: [bûgot, Adjective, Austronesian]
 description: heavy § Adjective
 ---

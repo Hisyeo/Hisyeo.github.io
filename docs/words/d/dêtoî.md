@@ -2,7 +2,7 @@
 id: dêtoî
 slug: dêtoî
 title: DÊTOÎ
-sidebar_position: 481
+sidebar_position: 483
 tags: [dêtoî, Noun, Romance]
 description: detail § Noun
 ---

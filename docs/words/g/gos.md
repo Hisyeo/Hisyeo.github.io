@@ -2,7 +2,7 @@
 id: gos
 slug: gos
 title: GOS
-sidebar_position: 232
+sidebar_position: 233
 tags: [gos, Noun, Indo-Iranian]
 description: plant § Noun
 ---

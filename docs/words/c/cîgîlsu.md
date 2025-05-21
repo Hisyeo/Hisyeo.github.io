@@ -2,7 +2,7 @@
 id: cîgîlsu
 slug: cîgîlsu
 title: CÎGÎLSU
-sidebar_position: 342
+sidebar_position: 343
 tags: [cîgîlsu, Noun, Dravidian]
 description: treatment (medical) § Noun
 ---

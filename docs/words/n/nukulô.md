@@ -2,7 +2,7 @@
 id: nukulô
 slug: nukulô
 title: NUKULÔ
-sidebar_position: 749
+sidebar_position: 753
 tags: [nukulô, Noun, Indo-Iranian]
 description: copy § Noun
 ---

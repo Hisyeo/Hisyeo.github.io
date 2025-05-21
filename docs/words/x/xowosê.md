@@ -2,7 +2,7 @@
 id: xowosê
 slug: xowosê
 title: XOWOSÊ
-sidebar_position: 433
+sidebar_position: 435
 tags: [xowosê, Adjective, Japonic]
 description: happy § Adjective
 ---

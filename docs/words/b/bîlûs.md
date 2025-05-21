@@ -2,7 +2,7 @@
 id: bîlûs
 slug: bîlûs
 title: BÎLÛS
-sidebar_position: 594
+sidebar_position: 596
 tags: [bîlûs, Adjective, Indo-Iranian]
 description: victorious § Adjective
 ---

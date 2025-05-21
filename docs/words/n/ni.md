@@ -2,7 +2,7 @@
 id: ni
 slug: ni
 title: NI
-sidebar_position: 737
+sidebar_position: 741
 tags: [ni, Pronoun, Hmong-Mien]
 description: it § Pronoun
 ---

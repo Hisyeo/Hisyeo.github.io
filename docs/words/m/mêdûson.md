@@ -2,7 +2,7 @@
 id: mêdûson
 slug: mêdûson
 title: MÊDÛSON
-sidebar_position: 680
+sidebar_position: 684
 tags: [mêdûson, Adjective, Germanic]
 description: laborious § Adjective
 ---

@@ -2,7 +2,7 @@
 id: botyoto
 slug: botyoto
 title: BOTYOTO
-sidebar_position: 549
+sidebar_position: 551
 tags: [botyoto, Adjective, Dravidian]
 description: responsible § Adjective
 ---

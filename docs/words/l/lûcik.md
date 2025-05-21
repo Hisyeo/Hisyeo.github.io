@@ -2,7 +2,7 @@
 id: lûcik
 slug: lûcik
 title: LÛCIK
-sidebar_position: 832
+sidebar_position: 836
 tags: [lûcik, Adjective, Germanic]
 description: slippery § Adjective
 ---

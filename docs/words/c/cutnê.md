@@ -2,7 +2,7 @@
 id: cutnê
 slug: cutnê
 title: CUTNÊ
-sidebar_position: 348
+sidebar_position: 349
 tags: [cutnê, Verb, Indo-Iranian]
 description: to climb (a slope) § Verb
 ---

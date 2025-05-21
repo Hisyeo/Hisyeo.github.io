@@ -2,7 +2,7 @@
 id: nîltûgu
 slug: nîltûgu
 title: NÎLTÛGU
-sidebar_position: 748
+sidebar_position: 752
 tags: [nîltûgu, Verb, Dravidian]
 description: to stop (the stopped) § Verb
 ---

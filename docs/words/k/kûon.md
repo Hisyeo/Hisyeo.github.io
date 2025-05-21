@@ -2,7 +2,7 @@
 id: kûon
 slug: kûon
 title: KÛON
-sidebar_position: 214
+sidebar_position: 215
 tags: [kûon, Noun, Sino-Tibetan]
 description: light § Noun
 ---

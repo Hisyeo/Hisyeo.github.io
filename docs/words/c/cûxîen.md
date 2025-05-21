@@ -2,7 +2,7 @@
 id: cûxîen
 slug: cûxîen
 title: CÛXÎEN
-sidebar_position: 356
+sidebar_position: 357
 tags: [cûxîen, Adjective, Sino-Tibetan]
 description: constrained § Adjective
 ---

@@ -2,7 +2,7 @@
 id: weltô
 slug: weltô
 title: WELTÔ
-sidebar_position: 771
+sidebar_position: 775
 tags: [weltô, Adjective, Uralic]
 description: limp/flaccid/flabby § Adjective
 ---

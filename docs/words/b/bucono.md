@@ -2,7 +2,7 @@
 id: bucono
 slug: bucono
 title: BUCONO
-sidebar_position: 597
+sidebar_position: 599
 tags: [bucono, Verb, Indo-Iranian]
 description: to save/rescue (the saved/rescued) § Verb
 ---

@@ -2,7 +2,7 @@
 id: tôxûtsi
 slug: tôxûtsi
 title: TÔXÛTSI
-sidebar_position: 283
+sidebar_position: 284
 tags: [tôxûtsi, Noun, Japonic]
 description: bump § Noun
 ---

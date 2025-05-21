@@ -2,7 +2,7 @@
 id: but
 slug: but
 title: BUT
-sidebar_position: 596
+sidebar_position: 598
 tags: [but, Adjective, Kra-Dai]
 description: open § Adjective
 ---

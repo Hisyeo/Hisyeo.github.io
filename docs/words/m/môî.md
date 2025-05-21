@@ -2,7 +2,7 @@
 id: môî
 slug: môî
 title: MÔÎ
-sidebar_position: 666
+sidebar_position: 670
 tags: [môî, Determiner, Austro-Asiatic]
 description: all § Determiner
 ---

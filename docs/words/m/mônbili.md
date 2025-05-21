@@ -2,7 +2,7 @@
 id: mônbili
 slug: mônbili
 title: MÔNBILI
-sidebar_position: 676
+sidebar_position: 680
 tags: [mônbili, Adjective, Tupian]
 description: far § Adjective
 ---

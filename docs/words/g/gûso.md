@@ -2,7 +2,7 @@
 id: gûso
 slug: gûso
 title: GÛSO
-sidebar_position: 261
+sidebar_position: 262
 tags: [gûso, Adjective, Indo-Iranian]
 description: angry § Adjective
 ---

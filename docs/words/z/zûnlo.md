@@ -2,7 +2,7 @@
 id: zûnlo
 slug: zûnlo
 title: ZÛNLO
-sidebar_position: 542
+sidebar_position: 544
 tags: [zûnlo, Noun, Afro-Asiatic]
 description: series/sentence § Noun
 ---

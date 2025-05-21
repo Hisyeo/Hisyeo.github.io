@@ -2,7 +2,7 @@
 id: bodî
 slug: bodî
 title: BODÎ
-sidebar_position: 552
+sidebar_position: 554
 tags: [bodî, Adjective, Nilo-Saharan]
 description: unmoving § Adjective
 ---

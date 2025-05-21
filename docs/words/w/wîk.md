@@ -2,7 +2,7 @@
 id: wîk
 slug: wîk
 title: WÎK
-sidebar_position: 782
+sidebar_position: 786
 tags: [wîk, Noun, Nilo-Saharan]
 description: head § Noun
 ---

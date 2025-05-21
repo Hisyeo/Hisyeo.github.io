@@ -2,7 +2,7 @@
 id: bûîhî
 slug: bûîhî
 title: BÛÎHÎ
-sidebar_position: 603
+sidebar_position: 605
 tags: [bûîhî, Adjective, Austronesian]
 description: timid/shy § Adjective
 ---

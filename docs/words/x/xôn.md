@@ -2,7 +2,7 @@
 id: xôn
 slug: xôn
 title: XÔN
-sidebar_position: 438
+sidebar_position: 440
 tags: [xôn, Adjective, Hmong-Mien]
 description: good § Adjective
 ---

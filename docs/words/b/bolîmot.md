@@ -2,7 +2,7 @@
 id: bolîmot
 slug: bolîmot
 title: BOLÎMOT
-sidebar_position: 558
+sidebar_position: 560
 tags: [bolîmot, Adjective, Kra-Dai]
 description: voluminous/spacious § Adjective
 ---

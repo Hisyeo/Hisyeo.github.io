@@ -2,7 +2,7 @@
 id: kûu
 slug: kûu
 title: KÛU
-sidebar_position: 218
+sidebar_position: 219
 tags: [kûu, Particle, Austro-Asiatic]
 description: deontic verb particle § Particle
 ---

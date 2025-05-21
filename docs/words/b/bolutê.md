@@ -2,7 +2,7 @@
 id: bolutê
 slug: bolutê
 title: BOLUTÊ
-sidebar_position: 559
+sidebar_position: 561
 tags: [bolutê, Adjective, Austro-Asiatic]
 description: foreign § Adjective
 ---

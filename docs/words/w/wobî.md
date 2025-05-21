@@ -2,7 +2,7 @@
 id: wobî
 slug: wobî
 title: WOBÎ
-sidebar_position: 763
+sidebar_position: 767
 tags: [wobî, Noun, Araucanian]
 description: island § Noun
 ---

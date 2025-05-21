@@ -2,7 +2,7 @@
 id: zolî
 slug: zolî
 title: ZOLÎ
-sidebar_position: 515
+sidebar_position: 517
 tags: [zolî, Noun, Indo-Iranian]
 description: bush/shrub § Noun
 ---

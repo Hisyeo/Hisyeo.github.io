@@ -2,7 +2,7 @@
 id: sotnîn
 slug: sotnîn
 title: SOTNÎN
-sidebar_position: 368
+sidebar_position: 370
 tags: [sotnîn, Noun, Mayan]
 description: right § Noun
 ---

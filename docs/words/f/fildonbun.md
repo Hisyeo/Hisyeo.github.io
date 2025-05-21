@@ -2,7 +2,7 @@
 id: fildonbun
 slug: fildonbun
 title: FILDONBUN
-sidebar_position: 635
+sidebar_position: 638
 tags: [fildonbun, Adjective, Germanic]
 description: evaporated/vaporized § Adjective
 ---

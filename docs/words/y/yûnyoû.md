@@ -2,7 +2,7 @@
 id: yûnyoû
 slug: yûnyoû
 title: YÛNYOÛ
-sidebar_position: 859
+sidebar_position: 863
 tags: [yûnyoû, Verb, Sino-Tibetan]
 description: to have (a possession) § Verb
 ---

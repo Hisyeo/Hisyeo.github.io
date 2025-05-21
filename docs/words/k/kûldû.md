@@ -2,7 +2,7 @@
 id: kûldû
 slug: kûldû
 title: KÛLDÛ
-sidebar_position: 230
+sidebar_position: 231
 tags: [kûldû, Noun, Mongolic]
 description: wheel § Noun
 ---

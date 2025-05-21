@@ -2,7 +2,7 @@
 id: gûnokol
 slug: gûnokol
 title: GÛNOKOL
-sidebar_position: 266
+sidebar_position: 267
 tags: [gûnokol, Adjective, Indo-Iranian]
 description: criminal § Adjective
 ---

@@ -2,7 +2,7 @@
 id: sînêxîs
 slug: sînêxîs
 title: SÎNÊXÎS
-sidebar_position: 406
+sidebar_position: 408
 tags: [sînêxîs, Adjective, Hellenic]
 description: constant/stable § Adjective
 ---

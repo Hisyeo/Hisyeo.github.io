@@ -2,7 +2,7 @@
 id: gôwo
 slug: gôwo
 title: GÔWO
-sidebar_position: 246
+sidebar_position: 247
 tags: [gôwo, Adjective, Afro-Asiatic]
 description: foolish/obtuse § Adjective
 ---

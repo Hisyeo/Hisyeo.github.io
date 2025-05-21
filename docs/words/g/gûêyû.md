@@ -2,7 +2,7 @@
 id: gûêyû
 slug: gûêyû
 title: GÛÊYÛ
-sidebar_position: 260
+sidebar_position: 261
 tags: [gûêyû, Noun, Romance]
 description: eye § Noun
 ---

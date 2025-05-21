@@ -2,7 +2,7 @@
 id: xîsû
 slug: xîsû
 title: XÎSÛ
-sidebar_position: 450
+sidebar_position: 452
 tags: [xîsû, Adjective, Sino-Tibetan]
 description: secular/profane/worldly § Adjective
 ---

@@ -2,7 +2,7 @@
 id: mutyu
 slug: mutyu
 title: MUTYU
-sidebar_position: 698
+sidebar_position: 702
 tags: [mutyu, Noun, Indo-Iranian]
 description: middle § Noun
 ---

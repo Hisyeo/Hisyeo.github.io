@@ -2,7 +2,7 @@
 id: kutin
 slug: kutin
 title: KUTIN
-sidebar_position: 212
+sidebar_position: 213
 tags: [kutin, Adjective, Indo-Iranian]
 description: difficult § Adjective
 ---
@@ -13,11 +13,11 @@ description: difficult § Adjective
 
 **IPA**: /ˈkʌ.tɪn/
 
-**Verb**: to be difficult/complex
+**Verb**: to be difficult/challenging
 
-**Noun**: difficulty/complexity
+**Noun**: difficulty/challenge
 
-**Modifier**: difficult/complex
+**Modifier**: difficult/challenging
 
 <details>
     <summary>Origin</summary>

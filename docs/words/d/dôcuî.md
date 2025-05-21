@@ -2,7 +2,7 @@
 id: dôcuî
 slug: dôcuî
 title: DÔCUÎ
-sidebar_position: 475
+sidebar_position: 477
 tags: [dôcuî, Noun, Austro-Asiatic]
 description: toy § Noun
 ---

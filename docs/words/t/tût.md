@@ -2,7 +2,7 @@
 id: tût
 slug: tût
 title: TÛT
-sidebar_position: 305
+sidebar_position: 306
 tags: [tût, Adjective, Trans-New Guinea]
 description: hot § Adjective
 ---

@@ -2,7 +2,7 @@
 id: bitûn
 slug: bitûn
 title: BITÛN
-sidebar_position: 579
+sidebar_position: 581
 tags: [bitûn, Noun, Tupian]
 description: night § Noun
 ---

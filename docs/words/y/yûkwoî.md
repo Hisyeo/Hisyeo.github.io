@@ -2,7 +2,7 @@
 id: yûkwoî
 slug: yûkwoî
 title: YÛKWOÎ
-sidebar_position: 857
+sidebar_position: 861
 tags: [yûkwoî, Noun, Sino-Tibetan]
 description: monster § Noun
 ---

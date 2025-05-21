@@ -2,7 +2,7 @@
 id: yonlûs
 slug: yonlûs
 title: YONLÛS
-sidebar_position: 844
+sidebar_position: 848
 tags: [yonlûs, Adjective, Turkic]
 description: wrong § Adjective
 ---

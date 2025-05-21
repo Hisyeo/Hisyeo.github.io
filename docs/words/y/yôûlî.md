@@ -2,7 +2,7 @@
 id: yôûlî
 slug: yôûlî
 title: YÔÛLÎ
-sidebar_position: 847
+sidebar_position: 851
 tags: [yôûlî, Adjective, Sino-Tibetan]
 description: beneficial § Adjective
 ---

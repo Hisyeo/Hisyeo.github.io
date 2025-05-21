@@ -2,7 +2,7 @@
 id: folo
 slug: folo
 title: FOLO
-sidebar_position: 623
+sidebar_position: 626
 tags: [folo, Noun, Afro-Asiatic]
 description: atom § Noun
 ---

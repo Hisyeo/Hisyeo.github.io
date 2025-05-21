@@ -2,7 +2,7 @@
 id: xîkô
 slug: xîkô
 title: XÎKÔ
-sidebar_position: 449
+sidebar_position: 451
 tags: [xîkô, Adjective, Japonic]
 description: flying § Adjective
 ---

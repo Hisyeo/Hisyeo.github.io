@@ -2,7 +2,7 @@
 id: dumoko
 slug: dumoko
 title: DUMOKO
-sidebar_position: 496
+sidebar_position: 498
 tags: [dumoko, Noun, Indo-Iranian]
 description: explosion/blast § Noun
 ---

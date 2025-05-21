@@ -2,7 +2,7 @@
 id: kut
 slug: kut
 title: KUT
-sidebar_position: 211
+sidebar_position: 212
 tags: [kut, Numeral, Sino-Tibetan]
 description: 01 one § Numeral
 ---

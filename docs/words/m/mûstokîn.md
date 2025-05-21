@@ -2,7 +2,7 @@
 id: mûstokîn
 slug: mûstokîn
 title: MÛSTOKÎN
-sidebar_position: 706
+sidebar_position: 710
 tags: [mûstokîn, Adjective, Afro-Asiatic]
 description: straight § Adjective
 ---

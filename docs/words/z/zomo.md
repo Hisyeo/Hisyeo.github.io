@@ -2,7 +2,7 @@
 id: zomo
 slug: zomo
 title: ZOMO
-sidebar_position: 508
+sidebar_position: 510
 tags: [zomo, Noun, Afro-Asiatic]
 description: group § Noun
 ---

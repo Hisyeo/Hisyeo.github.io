@@ -2,7 +2,7 @@
 id: xûxok
 slug: xûxok
 title: XÛXOK
-sidebar_position: 462
+sidebar_position: 464
 tags: [xûxok, Noun, Nakh-Daghestani]
 description: hell § Noun
 ---

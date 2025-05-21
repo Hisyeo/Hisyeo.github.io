@@ -2,7 +2,7 @@
 id: kudûdo
 slug: kudûdo
 title: KUDÛDO
-sidebar_position: 213
+sidebar_position: 214
 tags: [kudûdo, Verb, Koreic]
 description: to harvest (a harvest) § Verb
 ---

@@ -2,7 +2,7 @@
 id: zîwit
 slug: zîwit
 title: ZÎWIT
-sidebar_position: 533
+sidebar_position: 535
 tags: [zîwit, Adjective, Indo-Iranian]
 description: alive § Adjective
 ---

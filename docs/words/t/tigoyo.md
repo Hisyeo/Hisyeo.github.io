@@ -2,7 +2,7 @@
 id: tigoyo
 slug: tigoyo
 title: TIGOYO
-sidebar_position: 291
+sidebar_position: 292
 tags: [tigoyo, Adjective, Austronesian]
 description: supine § Adjective
 ---

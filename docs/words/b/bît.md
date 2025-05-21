@@ -2,7 +2,7 @@
 id: bît
 slug: bît
 title: BÎT
-sidebar_position: 587
+sidebar_position: 589
 tags: [bît, Particle, Balto-Slavic]
 description: conditional verb particle § Particle
 ---

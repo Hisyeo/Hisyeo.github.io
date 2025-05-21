@@ -2,7 +2,7 @@
 id: fôgîcîn
 slug: fôgîcîn
 title: FÔGÎCÎN
-sidebar_position: 625
+sidebar_position: 628
 tags: [fôgîcîn, Adjective, Koreic]
 description: curious/inquisitive § Adjective
 ---

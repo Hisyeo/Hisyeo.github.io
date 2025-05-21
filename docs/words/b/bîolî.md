@@ -2,7 +2,7 @@
 id: bîolî
 slug: bîolî
 title: BÎOLÎ
-sidebar_position: 583
+sidebar_position: 585
 tags: [bîolî, Interjection, Uto-Aztecan]
 description: hello/goodbye § Interjection
 ---

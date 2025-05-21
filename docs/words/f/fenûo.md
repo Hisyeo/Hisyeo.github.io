@@ -2,7 +2,7 @@
 id: fenûo
 slug: fenûo
 title: FENÛO
-sidebar_position: 630
+sidebar_position: 633
 tags: [fenûo, Noun, Austronesian]
 description: country/region § Noun
 ---

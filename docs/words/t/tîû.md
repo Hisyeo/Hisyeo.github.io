@@ -2,7 +2,7 @@
 id: tîû
 slug: tîû
 title: TÎÛ
-sidebar_position: 293
+sidebar_position: 294
 tags: [tîû, Numeral, Afro-Asiatic]
 description: 05 five § Numeral
 ---

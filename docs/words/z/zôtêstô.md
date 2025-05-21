@@ -2,7 +2,7 @@
 id: zôtêstô
 slug: zôtêstô
 title: ZÔTÊSTÔ
-sidebar_position: 519
+sidebar_position: 521
 tags: [zôtêstô, Determiner, Indo-Iranian]
 description: sufficient/enough § Determiner
 ---

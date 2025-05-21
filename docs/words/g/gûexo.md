@@ -2,7 +2,7 @@
 id: gûexo
 slug: gûexo
 title: GÛEXO
-sidebar_position: 259
+sidebar_position: 260
 tags: [gûexo, Noun, Romance]
 description: war § Noun
 ---

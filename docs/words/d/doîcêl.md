@@ -2,7 +2,7 @@
 id: doîcêl
 slug: doîcêl
 title: DOÎCÊL
-sidebar_position: 465
+sidebar_position: 467
 tags: [doîcêl, Verb, Kartvelian]
 description: to capture/intercept (the captured/intercepted) § Verb
 ---

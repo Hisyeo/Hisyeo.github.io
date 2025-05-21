@@ -2,7 +2,7 @@
 id: gôyu
 slug: gôyu
 title: GÔYU
-sidebar_position: 248
+sidebar_position: 249
 tags: [gôyu, Noun, Albanian]
 description: mouth § Noun
 ---

@@ -2,7 +2,7 @@
 id: bûsin
 slug: bûsin
 title: BÛSIN
-sidebar_position: 605
+sidebar_position: 607
 tags: [bûsin, Adjective, Austronesian]
 description: dizzy § Adjective
 ---
