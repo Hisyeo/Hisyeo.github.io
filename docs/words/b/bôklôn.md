@@ -2,7 +2,7 @@
 id: bôklôn
 slug: bôklôn
 title: BÔKLÔN
-sidebar_position: 566
+sidebar_position: 567
 tags: [bôklôn, Verb, Kra-Dai]
 description: to govern (the governed) § Verb
 ---

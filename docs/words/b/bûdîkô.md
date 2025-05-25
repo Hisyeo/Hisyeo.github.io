@@ -2,7 +2,7 @@
 id: bûdîkô
 slug: bûdîkô
 title: BÛDÎKÔ
-sidebar_position: 610
+sidebar_position: 611
 tags: [bûdîkô, Adjective, Romance]
 description: modest/chaste § Adjective
 ---

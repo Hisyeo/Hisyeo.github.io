@@ -2,7 +2,7 @@
 id: fîcwo
 slug: fîcwo
 title: FÎCWO
-sidebar_position: 643
+sidebar_position: 644
 tags: [fîcwo, Adjective, Niger-Congo]
 description: hidden/secret § Adjective
 ---

@@ -2,7 +2,7 @@
 id: bole
 slug: bole
 title: BOLE
-sidebar_position: 559
+sidebar_position: 560
 tags: [bole, Numeral, Indo-Iranian]
 description: 12 twelve § Numeral
 ---

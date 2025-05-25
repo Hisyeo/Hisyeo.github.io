@@ -2,7 +2,7 @@
 id: mokon
 slug: mokon
 title: MOKON
-sidebar_position: 658
+sidebar_position: 659
 tags: [mokon, Verb, Austronesian]
 description: to eat (food) § Verb
 ---

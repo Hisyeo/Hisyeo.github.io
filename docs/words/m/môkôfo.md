@@ -2,7 +2,7 @@
 id: môkôfo
 slug: môkôfo
 title: MÔKÔFO
-sidebar_position: 671
+sidebar_position: 672
 tags: [môkôfo, Noun, Trans-New Guinea]
 description: tube § Noun
 ---

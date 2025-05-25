@@ -2,7 +2,7 @@
 id: bukû
 slug: bukû
 title: BUKÛ
-sidebar_position: 597
+sidebar_position: 598
 tags: [bukû, Adjective, Austronesian]
 description: frozen § Adjective
 ---

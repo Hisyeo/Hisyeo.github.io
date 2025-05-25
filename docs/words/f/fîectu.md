@@ -2,7 +2,7 @@
 id: fîectu
 slug: fîectu
 title: FÎECTU
-sidebar_position: 640
+sidebar_position: 641
 tags: [fîectu, Adjective, Albanian]
 description: simple/basic § Adjective
 ---
