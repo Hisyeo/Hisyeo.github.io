@@ -26,21 +26,30 @@ representations too.
 | ⟨ɋ⟩  |  ⟨x⟩   |  / ʃ / ~ /ʂ/  | palatal fricatives: ʃ ʒ ʂ ʐ ç ɕ ʑ                          |
 | ⟨ʌ⟩  |  ⟨d⟩   |     / d /     | voiced alveolar plosives: d ɖ                              |
 | ⟨ⱴ⟩ | ⟨ ȷ ⟩  | /d͡ʒ/ ~ / d͡ʑ / | voiced affricates: d͡z d͡ʒ d͡ʑ ɖ͡ʐ ɟ                           |
-| ⟨ʋ⟩  |  ⟨p⟩   |     / p /     | labial plosives:  b p                                      |
-| ⟨ɤ⟩  |  ⟨v⟩   |  /β/ ~ / v /  | labio-dental fricatives: ɸ β f v θ ð                       |
+| ⟨ʋ⟩  |  ⟨b⟩   |  / b / ~ /p/  | labial plosives:  b p                                      |
+| ⟨ɤ⟩  |  ⟨f⟩   |  /ɸ/ ~ / f/  | labio-dental fricatives: ɸ β f v θ ð                       |
 | ⟨ƶ⟩  |  ⟨m⟩   |     / m /     | labial nasals: m ɱ                                         |
 | ⟨ƨ⟩  |  ⟨n⟩   |     / n /     | other nasals:  n ɳ ɲ ŋ ɴ                                   |
 | ⟨ʒ⟩  |  ⟨w⟩   |     / w /     | labial approximants: w ɥ ʋ                                 |
 | ⟨ʓ⟩  | ⟨ l ⟩  |  / l / ~ /ɺ/  | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ |
 | ⟨ɀ⟩  |  ⟨y⟩   |     / j /     | patalal/velar approximants: j ʝ ʎ ɰ ʟ                      |
 
-- For all phonemes, there is some flexibility in the position, voicing, aspiration, etc. to accommodate learners who speak languages that may pronounce these sounds differently
-- Words beginning with a vowel can begin with or without a glottal stop [ʔ] pronounced, at the discretion of the speaker.
-- The coda-/n/ can be realized as (1) nasalization of the preceding vowel, (2) it can assimilate to the position of the following sound, i.e. /n/ → [m, n, ɲ, ŋ, ɴ] based on the position of the following or (3) coda-/n/ is pronounced [n] in all places.
+- For all phonemes, there is some flexibility in the position, voicing,
+  aspiration, etc. to accommodate learners who speak languages that may
+  pronounce these sounds differently
+- Words beginning with a vowel can begin with or without a glottal stop [ʔ]
+  pronounced, at the discretion of the speaker.
+- The coda-/n/ can be realized as (1) a nasalization of the preceding vowel, (2)
+  an allophonic sound related to the position of the following syllable, i.e.
+  /n/ → [m, n, ɲ, ŋ, ɴ] based on shared features with the following onset, or
+  (3) coda-/n/ can just be pronounced as a standard [n] in all places.
 - The coda-/k/ is often realized without any audible release [k̚]
-- However, when coda-/k/ is preceding /y/ or /w/ then it is realized as a back fricative [x]
+- When coda-/k/ is preceding /y w/, then it is realized as a back fricative [x]
 - The coda-/t/ is often realized without any audible release [t̚]
-- However, when coda-/t/ is preceding /y/ or /w/ then it is realized with aspiration [tʰ]
+- When coda-/t/ is preceding /y w/, then it can be realized with aspiration [tʰ]
+  and the onsets can become voiceless [y̥ w̥]
+- When coda-/t/ is preceding /s/, then it can be realized as an affricate [ʦ]
+- When coda-/c/ is preceding /t d n/, it can become a simpler fricative [ʃ ɕ].
 - The coda-/s/ is often realized as [z] in word final position
 - The /h/ is often realized as [ç] when preceding /i/ or /u/ vowels.
 
