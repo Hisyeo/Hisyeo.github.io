@@ -2,7 +2,7 @@
 id: golun
 slug: golun
 title: GOLUN
-sidebar_position: 241
+sidebar_position: 242
 tags: [golun, Verb, Austronesian]
 description: to respect (the respected) § Verb
 ---

@@ -2,7 +2,7 @@
 id: gô
 slug: gô
 title: GÔ
-sidebar_position: 244
+sidebar_position: 245
 tags: [gô, Adjective, Nilo-Saharan]
 description: existent § Adjective
 ---

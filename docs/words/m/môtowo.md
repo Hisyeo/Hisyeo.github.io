@@ -2,7 +2,7 @@
 id: môtowo
 slug: môtowo
 title: MÔTOWO
-sidebar_position: 674
+sidebar_position: 676
 tags: [môtowo, Noun, Indo-Iranian]
 description: content § Noun
 ---

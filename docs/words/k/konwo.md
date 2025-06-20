@@ -2,7 +2,7 @@
 id: konwo
 slug: konwo
 title: KONWO
-sidebar_position: 171
+sidebar_position: 172
 tags: [konwo, Adjective, Austro-Asiatic]
 description: rhythm/beat § Adjective
 ---

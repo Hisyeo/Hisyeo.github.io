@@ -2,7 +2,7 @@
 id: toswîl
 slug: toswîl
 title: TOSWÎL
-sidebar_position: 275
+sidebar_position: 276
 tags: [toswîl, Verb, Afro-Asiatic]
 description: to draw (a picture) § Verb
 ---

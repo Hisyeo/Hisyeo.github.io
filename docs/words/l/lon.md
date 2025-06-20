@@ -2,7 +2,7 @@
 id: lon
 slug: lon
 title: LON
-sidebar_position: 802
+sidebar_position: 804
 tags: [lon, Preposition, Germanic]
 description: durative marker (for) § Preposition
 ---

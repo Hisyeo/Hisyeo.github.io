@@ -2,7 +2,7 @@
 id: bunxin
 slug: bunxin
 title: BUNXIN
-sidebar_position: 603
+sidebar_position: 604
 tags: [bunxin, Adjective, Austro-Asiatic]
 description: innate/native § Adjective
 ---

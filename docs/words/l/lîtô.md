@@ -2,7 +2,7 @@
 id: lîtô
 slug: lîtô
 title: LÎTÔ
-sidebar_position: 823
+sidebar_position: 825
 tags: [lîtô, Adjective, Indo-Iranian]
 description: empty/incomplete § Adjective
 ---

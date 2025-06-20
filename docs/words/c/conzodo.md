@@ -2,7 +2,7 @@
 id: conzodo
 slug: conzodo
 title: CONZODO
-sidebar_position: 316
+sidebar_position: 317
 tags: [conzodo, Adjective, Koreic]
 description: asleep § Adjective
 ---

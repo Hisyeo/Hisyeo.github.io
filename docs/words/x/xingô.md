@@ -2,7 +2,7 @@
 id: xingô
 slug: xingô
 title: XINGÔ
-sidebar_position: 448
+sidebar_position: 449
 tags: [xingô, Noun, Niger-Congo]
 description: neck/throat § Noun
 ---

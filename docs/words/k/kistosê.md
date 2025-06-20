@@ -2,7 +2,7 @@
 id: kistosê
 slug: kistosê
 title: KISTOSÊ
-sidebar_position: 196
+sidebar_position: 197
 tags: [kistosê, Noun, Romance]
 description: crustacean § Noun
 ---

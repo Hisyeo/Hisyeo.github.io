@@ -2,7 +2,7 @@
 id: cônkôk
 slug: cônkôk
 title: CÔNKÔK
-sidebar_position: 324
+sidebar_position: 325
 tags: [cônkôk, Adjective, Sino-Tibetan]
 description: precise/specific § Adjective
 ---

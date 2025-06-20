@@ -2,7 +2,7 @@
 id: cêô
 slug: cêô
 title: CÊÔ
-sidebar_position: 327
+sidebar_position: 328
 tags: [cêô, Noun, Niger-Congo]
 description: rank/degree § Noun
 ---

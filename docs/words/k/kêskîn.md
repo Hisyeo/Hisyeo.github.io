@@ -2,7 +2,7 @@
 id: kêskîn
 slug: kêskîn
 title: KÊSKÎN
-sidebar_position: 193
+sidebar_position: 194
 tags: [kêskîn, Adjective, Turkic]
 description: sharp § Adjective
 ---

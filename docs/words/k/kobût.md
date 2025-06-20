@@ -2,7 +2,7 @@
 id: kobût
 slug: kobût
 title: KOBÛT
-sidebar_position: 166
+sidebar_position: 167
 tags: [kobût, Adjective, Germanic]
 description: broken/dysfunctional § Adjective
 ---

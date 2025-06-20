@@ -2,7 +2,7 @@
 id: gûdolô
 slug: gûdolô
 title: GÛDOLÔ
-sidebar_position: 263
+sidebar_position: 264
 tags: [gûdolô, Noun, Balto-Slavic]
 description: bow (weapon)/bow (music) § Noun
 ---

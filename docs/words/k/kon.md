@@ -2,7 +2,7 @@
 id: kon
 slug: kon
 title: KON
-sidebar_position: 167
+sidebar_position: 168
 tags: [kon, Particle, Kra-Dai]
 description: abstract verb noun particle § Particle
 ---

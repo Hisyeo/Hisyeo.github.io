@@ -2,7 +2,7 @@
 id: kêlôs
 slug: kêlôs
 title: KÊLÔS
-sidebar_position: 195
+sidebar_position: 196
 tags: [kêlôs, Noun, Hellenic]
 description: weather § Noun
 ---

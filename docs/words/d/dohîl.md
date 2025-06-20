@@ -2,7 +2,7 @@
 id: dohîl
 slug: dohîl
 title: DOHÎL
-sidebar_position: 470
+sidebar_position: 471
 tags: [dohîl, Adjective, Afro-Asiatic]
 description: shallow § Adjective
 ---

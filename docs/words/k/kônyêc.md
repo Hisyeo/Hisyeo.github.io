@@ -2,7 +2,7 @@
 id: kônyêc
 slug: kônyêc
 title: KÔNYÊC
-sidebar_position: 189
+sidebar_position: 190
 tags: [kônyêc, Adjective, Balto-Slavic]
 description: ending § Adjective
 ---

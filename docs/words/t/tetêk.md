@@ -2,7 +2,7 @@
 id: tetêk
 slug: tetêk
 title: TETÊK
-sidebar_position: 289
+sidebar_position: 290
 tags: [tetêk, Noun, Austronesian]
 description: breast/chest § Noun
 ---

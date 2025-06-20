@@ -2,7 +2,7 @@
 id: nubuso
 slug: nubuso
 title: NUBUSO
-sidebar_position: 755
+sidebar_position: 757
 tags: [nubuso, Adjective, Austronesian]
 description: wet § Adjective
 ---

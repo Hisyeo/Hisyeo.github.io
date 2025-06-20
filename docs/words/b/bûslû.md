@@ -2,7 +2,7 @@
 id: bûslû
 slug: bûslû
 title: BÛSLÛ
-sidebar_position: 609
+sidebar_position: 610
 tags: [bûslû, Adjective, Turkic]
 description: translucent § Adjective
 ---

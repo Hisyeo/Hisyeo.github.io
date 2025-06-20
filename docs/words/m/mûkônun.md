@@ -2,7 +2,7 @@
 id: mûkônun
 slug: mûkônun
 title: MÛKÔNUN
-sidebar_position: 707
+sidebar_position: 709
 tags: [mûkônun, Noun, Dravidian]
 description: triangle § Noun
 ---

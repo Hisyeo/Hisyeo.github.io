@@ -2,7 +2,7 @@
 id: lôzîc
 slug: lôzîc
 title: LÔZÎC
-sidebar_position: 810
+sidebar_position: 812
 tags: [lôzîc, Verb, Balto-Slavic]
 description: to give birth to (a baby) § Verb
 ---

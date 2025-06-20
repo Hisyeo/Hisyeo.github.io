@@ -2,7 +2,7 @@
 id: côt
 slug: côt
 title: CÔT
-sidebar_position: 321
+sidebar_position: 322
 tags: [côt, Adjective, Mayan]
 description: thick § Adjective
 ---

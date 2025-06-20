@@ -2,7 +2,7 @@
 id: dônûs
 slug: dônûs
 title: DÔNÛS
-sidebar_position: 479
+sidebar_position: 480
 tags: [dônûs, Noun, Turkic]
 description: pig § Noun
 ---

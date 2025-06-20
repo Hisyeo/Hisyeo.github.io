@@ -2,7 +2,7 @@
 id: tîkû
 slug: tîkû
 title: TÎKÛ
-sidebar_position: 296
+sidebar_position: 297
 tags: [tîkû, Adjective, Niger-Congo]
 description: dead § Adjective
 ---

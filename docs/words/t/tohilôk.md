@@ -2,7 +2,7 @@
 id: tohilôk
 slug: tohilôk
 title: TOHILÔK
-sidebar_position: 273
+sidebar_position: 274
 tags: [tohilôk, Noun, Austronesian]
 description: cone § Noun
 ---

@@ -2,7 +2,7 @@
 id: cizî
 slug: cizî
 title: CIZÎ
-sidebar_position: 332
+sidebar_position: 333
 tags: [cizî, Pronoun, Sino-Tibetan]
 description: self § Pronoun
 ---

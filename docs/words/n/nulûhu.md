@@ -2,7 +2,7 @@
 id: nulûhu
 slug: nulûhu
 title: NULÛHU
-sidebar_position: 759
+sidebar_position: 761
 tags: [nulûhu, Noun, Balto-Slavic]
 description: abuse § Noun
 ---

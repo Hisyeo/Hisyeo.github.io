@@ -2,7 +2,7 @@
 id: mefûs
 slug: mefûs
 title: MEFÛS
-sidebar_position: 682
+sidebar_position: 684
 tags: [mefûs, Adjective, Indo-Iranian]
 description: safe § Adjective
 ---

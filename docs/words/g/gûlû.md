@@ -2,7 +2,7 @@
 id: gûlû
 slug: gûlû
 title: GÛLÛ
-sidebar_position: 270
+sidebar_position: 271
 tags: [gûlû, Noun, Nilo-Saharan]
 description: wound/injury § Noun
 ---

@@ -2,7 +2,7 @@
 id: golfon
 slug: golfon
 title: GOLFON
-sidebar_position: 243
+sidebar_position: 244
 tags: [golfon, Adjective, Afro-Asiatic]
 description: disgusted § Adjective
 ---

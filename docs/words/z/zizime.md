@@ -2,7 +2,7 @@
 id: zizime
 slug: zizime
 title: ZIZIME
-sidebar_position: 527
+sidebar_position: 528
 tags: [zizime, Noun, Niger-Congo]
 description: generation § Noun
 ---

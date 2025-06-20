@@ -2,7 +2,7 @@
 id: zôhûn
 slug: zôhûn
 title: ZÔHÛN
-sidebar_position: 519
+sidebar_position: 520
 tags: [zôhûn, Noun, Turkic]
 description: nutrient § Noun
 ---

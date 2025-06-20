@@ -2,7 +2,7 @@
 id: nexê
 slug: nexê
 title: NEXÊ
-sidebar_position: 734
+sidebar_position: 736
 tags: [nexê, Adjective, Indo-Iranian]
 description: intoxicated § Adjective
 ---

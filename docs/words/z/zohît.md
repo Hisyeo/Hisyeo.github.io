@@ -2,7 +2,7 @@
 id: zohît
 slug: zohît
 title: ZOHÎT
-sidebar_position: 507
+sidebar_position: 508
 tags: [zohît, Verb, Austronesian]
 description: to sew (the sewn) § Verb
 ---

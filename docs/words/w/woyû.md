@@ -2,7 +2,7 @@
 id: woyû
 slug: woyû
 title: WOYÛ
-sidebar_position: 772
+sidebar_position: 774
 tags: [woyû, Noun, Indo-Iranian]
 description: air/wind § Noun
 ---

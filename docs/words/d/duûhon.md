@@ -2,7 +2,7 @@
 id: duûhon
 slug: duûhon
 title: DUÛHON
-sidebar_position: 495
+sidebar_position: 496
 tags: [duûhon, Verb, Austro-Asiatic]
 description: to surrender (the surrendered) § Verb
 ---

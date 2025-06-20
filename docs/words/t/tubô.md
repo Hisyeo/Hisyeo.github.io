@@ -2,7 +2,7 @@
 id: tubô
 slug: tubô
 title: TUBÔ
-sidebar_position: 301
+sidebar_position: 302
 tags: [tubô, Noun, Afro-Asiatic]
 description: spot/scar § Noun
 ---

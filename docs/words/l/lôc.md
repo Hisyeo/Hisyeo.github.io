@@ -2,7 +2,7 @@
 id: lôc
 slug: lôc
 title: LÔC
-sidebar_position: 809
+sidebar_position: 811
 tags: [lôc, Adjective, Balto-Slavic]
 description: bad § Adjective
 ---

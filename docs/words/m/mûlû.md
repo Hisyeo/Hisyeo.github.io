@@ -2,7 +2,7 @@
 id: mûlû
 slug: mûlû
 title: MÛLÛ
-sidebar_position: 715
+sidebar_position: 717
 tags: [mûlû, Adjective, Dravidian]
 description: full/complete § Adjective
 ---

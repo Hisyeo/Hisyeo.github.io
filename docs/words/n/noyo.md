@@ -2,7 +2,7 @@
 id: noyo
 slug: noyo
 title: NOYO
-sidebar_position: 728
+sidebar_position: 730
 tags: [noyo, Pronoun, Quechumaran]
 description: I/me § Pronoun
 ---

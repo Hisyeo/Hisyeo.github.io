@@ -2,7 +2,7 @@
 id: towê
 slug: towê
 title: TOWÊ
-sidebar_position: 277
+sidebar_position: 278
 tags: [towê, Noun, Tupian]
 description: hair/fur/plumage § Noun
 ---

@@ -2,7 +2,7 @@
 id: tîton
 slug: tîton
 title: TÎTON
-sidebar_position: 297
+sidebar_position: 298
 tags: [tîton, Noun, Kra-Dai]
 description: way/path § Noun
 ---

@@ -2,7 +2,7 @@
 id: kôkokû
 slug: kôkokû
 title: KÔKOKÛ
-sidebar_position: 174
+sidebar_position: 175
 tags: [kôkokû, Noun, Japonic]
 description: skeleton § Noun
 ---

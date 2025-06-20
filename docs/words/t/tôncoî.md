@@ -2,7 +2,7 @@
 id: tôncoî
 slug: tôncoî
 title: TÔNCOÎ
-sidebar_position: 287
+sidebar_position: 288
 tags: [tôncoî, Adjective, Kra-Dai]
 description: sighing § Adjective
 ---
