@@ -105,7 +105,7 @@ Come join the server to give it a try!
 
 noyo xîwon xe monodo môî nîmû bi zelen hoî boxo yê nec nucoto yê hîskûnco Hîsyêô ze.
 
-import MastodonPostSvg from './mastodon.svg'
+import MastodonPostSvg from '../../static/img/mastodon.svg'
 
 <blockquote class="mastodon-embed"
             data-embed-url="https://mastodon.social/@hisyeo/114215391370015766/embed"
