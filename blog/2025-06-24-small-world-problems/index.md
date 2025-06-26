@@ -19,27 +19,11 @@ a good chunk of it revolvees around Umberto Eco's concept of The Small World.
 ## Small Updates
 
 First, let's discuss the smaller changes that have been added recently to the
-site. The [occupation and arrangements](/docs/lessons/occupation-arrangements)
-lesson has been added with many compounds that can be used for various jobs and
-life arrangements.
-
-:::info Ephemeral Compounds
-
-Remember that Hîsyêô is a living language and the compounds are never set in
-stone, if a better compound is found through the Kennings project, feel free to
-submit an issue ticket or (better yet) a pull request to have it updated in any
-materials on this site. Regardless of what the site shows, you are always free
-to use your own compounds that make sense to you and who you are speaking to.
-
-:::
-
-Additionally, the translation of [The Wicked Prince](/docs/works/wicked-prince)
+site. The translation of [The Wicked Prince](/docs/works/wicked-prince)
 was completed, [various](/docs/lessons/first-steps#pronunciation)
 [improvements](/docs/language/phonology) were made to the phonology details
 around the site, a [punctuation](/docs/language/punctuation) reference page has
-been added, the [first](/docs/scripts/000-creator_notes)
-[two](/docs/scripts/001-fîectu) scripts for the comprehensible input course
-have been written, and several word changes have been made.
+been added, and several word changes have been made.
 
 ## Word Changes
 
@@ -103,8 +87,8 @@ linguistic terminology.
 The pinyin page on Wikipedia indicates that the "r" in the pinyin
 [kuānróng](https://en.wiktionary.org/wiki/ku%C4%81nr%C3%B3ng) is realized as [ɻ]
 ~ [ʐ]. It also indicates that Taipai Mandarin speakers would pronounce it as
-[ɹ]. This tendency towards the rhotics leads me to believe that this should use
-the /l/ in Hîsyêô instead of the /ʃ/: kûonlôn (Mandarin 寬容kuānróng,
+[ɹ]. This tendency towards the approximants leads me to believe that this should
+use the /l/ in Hîsyêô instead of the /ʃ/: kûonlôn (Mandarin 寬容kuānróng,
 [kʰwan.ɻʊŋ], Sino-Tibetan family).
 
 ### sighing
@@ -151,9 +135,9 @@ existing lexicon.
 The source word for "violet", when transliterated, had the ending syllable of
 "xe" which conflicts with the subjective subordinate marker and could
 potentially lead to confusion and is also overly repetitive when spoken.
-Ironically, the new source word when transliterated is only a small vowel shift
-away but the problem is still eliminated and easy to clear up if needed: bonôxo
-(Urmia ܒܵܢܲܦ̮ܫܵܐ bānafšā, [bɑːnoːʃɑː], Afro-Asiatic family).
+Coincidentally, the new source word when transliterated is only a small vowel
+shift away but the problem is still eliminated and easy to clear up if needed:
+bonôxo (Urmia ܒܵܢܲܦ̮ܫܵܐ bānafšā, [bɑːnoːʃɑː], Afro-Asiatic family).
 
 ## Discord Bot & Kennings
 
@@ -203,9 +187,10 @@ Therefore, instead of an imperative and suppressive approach, the creators of
 Hîsyêô have determined that this language needs a culture of its own. One that
 is inspired by world religions and world philosophies. One that we can point to
 and showcase and demonstrate so that others might join us. If anyone feels the
-need to return to their culture of yore, they are more than welcome to do so but
-it will be considered an act of secession from the community and we'll welcome
-them back when they return.
+need to return to their culture of yore, they are more than welcome to do so in
+a myriad of other places; we want to keep our society as free from influence as
+possible. Anyone is welcome to leave the community and welcome to come back when
+they please as long as they maintain the social order, respect the religion, and embrace all fellow community members.
 
 ## A New Religion
 
@@ -225,12 +210,12 @@ emboldens the human spirit.
 This religion might seem provocative but without it, there is a spiritual and
 metaphysical gap in the fabric of the cultural worldview (and thus a gap in the
 language). It's a part of *all* societies and should be understood and harnessed
-for *good* instead of being despised or following antequarian religions that do
-not align with modern world views. If you've had negative experiences with
-religions in your native society or colonizer's society, please understand that
-this religion was purpose-built to be a reflection of the best traits of
-humanity. Hopefully you can find something to love here or at least see it as a
-positive allegory for the human condition.
+for *good* instead of being despised, or continuing to follow antequarian
+religions that do not align with modern world views. If you've had negative
+experiences with religions in your native society or colonizer's society, please
+understand that this religion was purpose-built to be a reflection of the best
+traits of humanity. Hopefully you can find something to love here or at least
+see it as a positive allegory for the human condition.
 
 ## A New Social Order
 
@@ -241,7 +226,8 @@ Economics](https://participatoryeconomy.org/the-model/overview/) and
 While we cannot put these ideas into direct practice at this time, we feel that
 language, religion and social order are deeply interconnected and the dark
 practices of greed and machiavellianism might infect the whole project if these
-cornerstones are ill-defined.
+cornerstones are ill-defined. We hope to some day implement a network of
+connected intentional communities that embody this social order and culture.
 
 ## Publication & Next Steps
 
