@@ -2,6 +2,13 @@
 sidebar_position: 1
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import HisyeoTabs from '@site/src/components/HisyeoTabs'
+import HisyeoText from '@site/src/components/HisyeoText'
+import HisyeoWord from '@site/src/components/HisyeoWord'
+import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
+
 # Phonology
 
 Docusaurus can manage multiple versions of your docs.
@@ -31,7 +38,7 @@ representations too.
 | ⟨ƶ⟩  |  ⟨m⟩   |     / m /     | labial nasals: m ɱ                                         |
 | ⟨ƨ⟩  |  ⟨n⟩   |     / n /     | other nasals:  n ɳ ɲ ŋ ɴ                                   |
 | ⟨ʒ⟩  |  ⟨w⟩   |     / w /     | labial approximants: w ɥ ʋ                                 |
-| ⟨ʓ⟩  | ⟨ l ⟩  |  / l / ~ /ɺ/  | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ |
+| ⟨ʓ⟩  | ⟨ l ⟩  |  / l / ~ /ɫ/  | alve./retro approx./taps/trills: ɹ  ɻ  l  ɭ  ɺ ɬ ɮ  r  ɾ ɽ |
 | ⟨ɀ⟩  |  ⟨y⟩   |     / j /     | patalal/velar approximants: j ʝ ʎ ɰ ʟ                      |
 
 - For all phonemes, there is some flexibility in the position, voicing,
@@ -49,7 +56,7 @@ representations too.
 - When coda-/t/ is preceding /y w/, then it can be realized with aspiration [tʰ]
   and the onsets can become voiceless [y̥ w̥]
 - When coda-/t/ is preceding /s/, then it can be realized as an affricate [ʦ]
-- When coda-/c/ is preceding /t d n/, it can become a simpler fricative [ʃ ɕ].
+- When coda-/t͡ʃ/ is preceding /t d n/, it can become a simpler fricative [ʃ ɕ].
 - The coda-/s/ is often realized as [z] in word final position
 - The /h/ is often realized as [ç] when preceding /i/ or /u/ vowels.
 
@@ -71,10 +78,10 @@ representations too.
 Syllable structure is (C)V(C) where only these codas are allowed:
 - /k/
 - /t/
-- / t͡ɕ/
+- /t͡ʃ/ ~ / t͡ɕ/
 - /s/
 - /n/
-- /l/
+- /l/ ~ /ɫ/
 
 All codas cannot be followed by their same phoneme as the onset of the next
 syllable. There are also some additional instances where certain onsets are not
@@ -98,7 +105,7 @@ Emphasis is a slight pitch prominence and increased loudness. Length is only
 influenced by vowel strength. In two syllable words, the stress is placed on the
 first syllable regardless of the vowels present. In three syllable words, stress
 is placed on the second syllable if the first vowel is weak and the second
-syllable is strong.
+syllable is strong. Otherwise, stress remains on the first syllable.
 
 Either an unvoiced pause or a voiced clause ender are used to mark the ending of
 a ta- or te-clause. Sentence endings are also just slightly longer pauses and/or
@@ -139,4 +146,10 @@ that contrast using any “conflicting phonemes”.
 - /i/ with /e/ and /i/
 - /u/ with /ɔ/
 
-This means that two words that differ by one sound cannot have any of these conflicting phonemes as the differing sounds. For example, since %%yôcno@yôcno%% is a Hîsyêô word, there are no words like yôzmo, yôzto or ôzno also in the language because they differ by one phoneme that conflicts with a phoneme in %%yôcno@yôcno%%.
+This means that two words that differ by one sound cannot have any of these
+conflicting phonemes as the differing sounds. For example, since <HisyeoWord
+is='yôcno'/> is a Hîsyêô word, there are no words like **yôzmo**, **yôzto** or
+**ôzno** also in the language because they differ by one phoneme that conflicts
+with a phoneme in <HisyeoWord is='yôcno'/>.
+
+<HisyeoTooltip/>
