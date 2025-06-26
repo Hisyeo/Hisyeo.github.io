@@ -21,11 +21,11 @@ representations too.
 | ⟨ɔ⟩  |  ⟨k⟩   |  / k / ~ /q/  | voiceless back plosives: k q c                             |
 | ⟨ꜿ⟩ |  ⟨g⟩   |  / ɡ͈ / ~ /ɢ/  | voiced back plosives: g ɢ ʡ ɣ                              |
 | ⟨c⟩  | ⟨ t ⟩  |     / t /     | voiceless front plosives: t ʈ                              |
-| ⟨ꞇ⟩ |  ⟨z⟩   | /t͡ʃ/ ~ / t͡ɕ / | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ                       |
+| ⟨ꞇ⟩ |  ⟨c⟩   | /t͡ʃ/ ~ / t͡ɕ / | voiceless affricates: t͡s  t͡ʃ  t͡ɕ  ʈ͡ʂ                       |
 | ⟨ɐ⟩  |  ⟨s⟩   |     / s̟ /     | alveolar sibilants: s z                                    |
 | ⟨ɋ⟩  |  ⟨x⟩   |  / ʃ / ~ /ʂ/  | palatal fricatives: ʃ ʒ ʂ ʐ ç ɕ ʑ                          |
 | ⟨ʌ⟩  |  ⟨d⟩   |     / d /     | voiced alveolar plosives: d ɖ                              |
-| ⟨ⱴ⟩ | ⟨ ȷ ⟩  | /d͡ʒ/ ~ / d͡ʑ / | voiced affricates: d͡z d͡ʒ d͡ʑ ɖ͡ʐ ɟ                           |
+| ⟨ⱴ⟩ | ⟨ z ⟩  | /d͡ʒ/ ~ / d͡ʑ / | voiced affricates: d͡z d͡ʒ d͡ʑ ɖ͡ʐ ɟ                           |
 | ⟨ʋ⟩  |  ⟨b⟩   |  / b / ~ /p/  | labial plosives:  b p                                      |
 | ⟨ɤ⟩  |  ⟨f⟩   |  /ɸ/ ~ / f/  | labio-dental fricatives: ɸ β f v θ ð                       |
 | ⟨ƶ⟩  |  ⟨m⟩   |     / m /     | labial nasals: m ɱ                                         |
