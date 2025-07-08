@@ -2,7 +2,7 @@
 id: lîûlê
 slug: lîûlê
 title: LÎÛLÊ
-sidebar_position: 824
+sidebar_position: 826
 tags: [lîûlê, Adjective, Romance]
 description: laughing § Adjective
 ---

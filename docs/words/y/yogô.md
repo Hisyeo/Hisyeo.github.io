@@ -2,7 +2,7 @@
 id: yogô
 slug: yogô
 title: YOGÔ
-sidebar_position: 844
+sidebar_position: 846
 tags: [yogô, Noun, Uralic]
 description: part/piece § Noun
 ---

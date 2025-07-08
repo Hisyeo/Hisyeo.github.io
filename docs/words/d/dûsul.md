@@ -2,7 +2,7 @@
 id: dûsul
 slug: dûsul
 title: DÛSUL
-sidebar_position: 503
+sidebar_position: 504
 tags: [dûsul, Adjective, Indo-Iranian]
 description: grey § Adjective
 ---

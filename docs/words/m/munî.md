@@ -2,7 +2,7 @@
 id: munî
 slug: munî
 title: MUNÎ
-sidebar_position: 705
+sidebar_position: 707
 tags: [munî, Noun, Germanic]
 description: money § Noun
 ---

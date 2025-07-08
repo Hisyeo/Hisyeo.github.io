@@ -2,7 +2,7 @@
 id: lîbû
 slug: lîbû
 title: LÎBÛ
-sidebar_position: 830
+sidebar_position: 832
 tags: [lîbû, Noun, Uralic]
 description: sheet § Noun
 ---

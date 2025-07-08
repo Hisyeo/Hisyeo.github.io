@@ -2,7 +2,7 @@
 id: dûuncît
 slug: dûuncît
 title: DÛUNCÎT
-sidebar_position: 502
+sidebar_position: 503
 tags: [dûuncît, Noun, Kra-Dai]
 description: brain/mind § Noun
 ---

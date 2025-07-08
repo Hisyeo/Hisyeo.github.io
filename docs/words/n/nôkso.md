@@ -2,7 +2,7 @@
 id: nôkso
 slug: nôkso
 title: NÔKSO
-sidebar_position: 733
+sidebar_position: 735
 tags: [nôkso, Noun, Indo-Iranian]
 description: map/chart § Noun
 ---

@@ -2,7 +2,7 @@
 id: nodu
 slug: nodu
 title: NODU
-sidebar_position: 724
+sidebar_position: 726
 tags: [nodu, Noun, Austronesian]
 description: tone § Noun
 ---

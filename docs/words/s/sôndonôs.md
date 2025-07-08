@@ -2,7 +2,7 @@
 id: sôndonôs
 slug: sôndonôs
 title: SÔNDONÔS
-sidebar_position: 389
+sidebar_position: 390
 tags: [sôndonôs, Adjective, Hellenic]
 description: direct/live § Adjective
 ---

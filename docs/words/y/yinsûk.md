@@ -2,7 +2,7 @@
 id: yinsûk
 slug: yinsûk
 title: YINSÛK
-sidebar_position: 859
+sidebar_position: 861
 tags: [yinsûk, Adjective, Sino-Tibetan]
 description: serious § Adjective
 ---

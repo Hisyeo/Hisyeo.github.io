@@ -2,7 +2,7 @@
 id: yoldûn
 slug: yoldûn
 title: YOLDÛN
-sidebar_position: 851
+sidebar_position: 853
 tags: [yoldûn, Noun, Turkic]
 description: help/aid § Noun
 ---

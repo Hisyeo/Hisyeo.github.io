@@ -2,7 +2,7 @@
 id: bi
 slug: bi
 title: BI
-sidebar_position: 582
+sidebar_position: 583
 tags: [bi, Preposition, Afro-Asiatic]
 description: methodological marker (-ly) § Preposition
 ---
