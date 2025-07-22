@@ -2,7 +2,7 @@
 id: fêlkonô
 slug: fêlkonô
 title: FÊLKONÔ
-sidebar_position: 637
+sidebar_position: 636
 tags: [fêlkonô, Adjective, Romance]
 description: close § Adjective
 ---

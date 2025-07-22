@@ -2,7 +2,7 @@
 id: bûdogo
 slug: bûdogo
 title: BÛDOGO
-sidebar_position: 612
+sidebar_position: 611
 tags: [bûdogo, Noun, Dravidian]
 description: bubble § Noun
 ---

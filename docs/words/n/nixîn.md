@@ -2,7 +2,7 @@
 id: nixîn
 slug: nixîn
 title: NIXÎN
-sidebar_position: 750
+sidebar_position: 749
 tags: [nixîn, Noun, Oto-Manguean]
 description: wing § Noun
 ---

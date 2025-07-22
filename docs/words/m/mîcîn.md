@@ -2,7 +2,7 @@
 id: mîcîn
 slug: mîcîn
 title: MÎCÎN
-sidebar_position: 702
+sidebar_position: 701
 tags: [mîcîn, Noun, Uto-Aztecan]
 description: fish § Noun
 ---

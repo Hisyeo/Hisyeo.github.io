@@ -2,7 +2,7 @@
 id: zuwobû
 slug: zuwobû
 title: ZUWOBÛ
-sidebar_position: 541
+sidebar_position: 540
 tags: [zuwobû, Verb, Niger-Congo]
 description: to answer [with] (a response) § Verb
 ---

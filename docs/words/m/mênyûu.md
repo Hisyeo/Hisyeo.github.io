@@ -2,7 +2,7 @@
 id: mênyûu
 slug: mênyûu
 title: MÊNYÛU
-sidebar_position: 690
+sidebar_position: 689
 tags: [mênyûu, Noun, Hmong-Mien]
 description: offspring § Noun
 ---

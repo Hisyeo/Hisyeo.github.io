@@ -2,7 +2,7 @@
 id: môtîfô
 slug: môtîfô
 title: MÔTÎFÔ
-sidebar_position: 680
+sidebar_position: 679
 tags: [môtîfô, Noun, Romance]
 description: reason § Noun
 ---

@@ -2,7 +2,7 @@
 id: sôlû
 slug: sôlû
 title: SÔLÛ
-sidebar_position: 391
+sidebar_position: 390
 tags: [sôlû, Verb, Turkic]
 description: to ask (a question) § Verb
 ---

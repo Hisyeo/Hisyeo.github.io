@@ -2,7 +2,7 @@
 id: minyoto
 slug: minyoto
 title: MINYOTO
-sidebar_position: 694
+sidebar_position: 693
 tags: [minyoto, Noun, Romance]
 description: gastropod § Noun
 ---

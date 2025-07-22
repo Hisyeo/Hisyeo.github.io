@@ -2,7 +2,7 @@
 id: numûno
 slug: numûno
 title: NUMÛNO
-sidebar_position: 761
+sidebar_position: 760
 tags: [numûno, Noun, Indo-Iranian]
 description: example § Noun
 ---

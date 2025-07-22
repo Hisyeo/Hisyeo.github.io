@@ -2,7 +2,7 @@
 id: bilît
 slug: bilît
 title: BILÎT
-sidebar_position: 587
+sidebar_position: 586
 tags: [bilît, Adjective, Austronesian]
 description: sticky § Adjective
 ---

@@ -2,7 +2,7 @@
 id: yodo
 slug: yodo
 title: YODO
-sidebar_position: 850
+sidebar_position: 849
 tags: [yodo, Conjunction, Turkic]
 description: or § Conjunction
 ---

@@ -2,7 +2,7 @@
 id: xêntîl
 slug: xêntîl
 title: XÊNTÎL
-sidebar_position: 448
+sidebar_position: 447
 tags: [xêntîl, Adjective, Romance]
 description: gentle/kind § Adjective
 ---

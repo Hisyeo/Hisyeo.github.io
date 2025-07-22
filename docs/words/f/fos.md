@@ -2,7 +2,7 @@
 id: fos
 slug: fos
 title: FOS
-sidebar_position: 623
+sidebar_position: 622
 tags: [fos, Particle, Germanic]
 description: free subordinate clause particle § Particle
 ---

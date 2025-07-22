@@ -2,7 +2,7 @@
 id: mêloc
 slug: mêloc
 title: MÊLOC
-sidebar_position: 691
+sidebar_position: 690
 tags: [mêloc, Noun, Nakh-Daghestani]
 description: nose § Noun
 ---

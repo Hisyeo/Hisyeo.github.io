@@ -2,7 +2,7 @@
 id: fûongok
 slug: fûongok
 title: FÛONGOK
-sidebar_position: 655
+sidebar_position: 654
 tags: [fûongok, Noun, Koreic]
 description: illusion § Noun
 ---

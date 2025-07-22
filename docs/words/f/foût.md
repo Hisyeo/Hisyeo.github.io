@@ -2,7 +2,7 @@
 id: foût
 slug: foût
 title: FOÛT
-sidebar_position: 620
+sidebar_position: 619
 tags: [foût, Noun, Germanic]
 description: error § Noun
 ---

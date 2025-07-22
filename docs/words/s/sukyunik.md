@@ -2,7 +2,7 @@
 id: sukyunik
 slug: sukyunik
 title: SUKYUNIK
-sidebar_position: 413
+sidebar_position: 412
 tags: [sukyunik, Noun, Austro-Asiatic]
 description: mucus § Noun
 ---

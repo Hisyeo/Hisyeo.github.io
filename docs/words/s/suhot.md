@@ -2,7 +2,7 @@
 id: suhot
 slug: suhot
 title: SUHOT
-sidebar_position: 412
+sidebar_position: 411
 tags: [suhot, Noun, Abkhazo-Adyghean]
 description: hour § Noun
 ---

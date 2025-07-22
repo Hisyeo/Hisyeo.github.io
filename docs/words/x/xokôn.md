@@ -2,7 +2,7 @@
 id: xokôn
 slug: xokôn
 title: XOKÔN
-sidebar_position: 430
+sidebar_position: 429
 tags: [xokôn, Determiner, Romance]
 description: each § Determiner
 ---

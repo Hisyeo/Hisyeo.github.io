@@ -2,7 +2,7 @@
 id: wonkûk
 slug: wonkûk
 title: WONKÛK
-sidebar_position: 774
+sidebar_position: 773
 tags: [wonkûk, Adjective, Sino-Tibetan]
 description: curved § Adjective
 ---

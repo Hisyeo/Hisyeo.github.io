@@ -2,7 +2,7 @@
 id: wulus
 slug: wulus
 title: WULUS
-sidebar_position: 800
+sidebar_position: 799
 tags: [wulus, Noun, Germanic]
 description: oil § Noun
 ---

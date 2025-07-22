@@ -2,7 +2,7 @@
 id: sinsî
 slug: sinsî
 title: SINSÎ
-sidebar_position: 404
+sidebar_position: 403
 tags: [sinsî, Noun, Sino-Tibetan]
 description: town/city § Noun
 ---

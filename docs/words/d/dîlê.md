@@ -2,7 +2,7 @@
 id: dîlê
 slug: dîlê
 title: DÎLÊ
-sidebar_position: 495
+sidebar_position: 494
 tags: [dîlê, Adjective, Indo-Iranian]
 description: slow § Adjective
 ---
