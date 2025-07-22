@@ -2,7 +2,7 @@
 id: lêfôtol
 slug: lêfôtol
 title: LÊFÔTOL
-sidebar_position: 821
+sidebar_position: 822
 tags: [lêfôtol, Adjective, Romance]
 description: bouncing § Adjective
 ---

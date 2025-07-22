@@ -2,7 +2,7 @@
 id: lîs
 slug: lîs
 title: LÎS
-sidebar_position: 829
+sidebar_position: 830
 tags: [lîs, Adjective, Romance]
 description: smooth § Adjective
 ---

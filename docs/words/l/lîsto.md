@@ -2,7 +2,7 @@
 id: lîsto
 slug: lîsto
 title: LÎSTO
-sidebar_position: 830
+sidebar_position: 831
 tags: [lîsto, Noun, Romance]
 description: strip/band § Noun
 ---
