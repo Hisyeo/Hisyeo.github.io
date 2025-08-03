@@ -2,7 +2,7 @@
 id: cixîn
 slug: cixîn
 title: CIXÎN
-sidebar_position: 332
+sidebar_position: 333
 tags: [cixîn, Verb, Sino-Tibetan]
 description: to enforce (the enforced) § Verb
 ---

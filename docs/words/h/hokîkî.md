@@ -2,7 +2,7 @@
 id: hokîkî
 slug: hokîkî
 title: HOKÎKÎ
-sidebar_position: 118
+sidebar_position: 119
 tags: [hokîkî, Adjective, Afro-Asiatic]
 description: authentic § Adjective
 ---

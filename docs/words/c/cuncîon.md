@@ -2,7 +2,7 @@
 id: cuncîon
 slug: cuncîon
 title: CUNCÎON
-sidebar_position: 351
+sidebar_position: 352
 tags: [cuncîon, Verb, Sino-Tibetan]
 description: to fortify (the fortified) § Verb
 ---

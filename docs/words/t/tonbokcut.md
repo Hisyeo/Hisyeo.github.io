@@ -2,7 +2,7 @@
 id: tonbokcut
 slug: tonbokcut
 title: TONBOKCUT
-sidebar_position: 277
+sidebar_position: 278
 tags: [tonbokcut, Noun, Sino-Tibetan]
 description: protein § Noun
 ---

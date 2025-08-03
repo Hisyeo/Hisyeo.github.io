@@ -2,7 +2,7 @@
 id: sobûnî
 slug: sobûnî
 title: SOBÛNÎ
-sidebar_position: 378
+sidebar_position: 379
 tags: [sobûnî, Adjective, Kartvelian]
 description: ill/sick § Adjective
 ---

@@ -2,7 +2,7 @@
 id: hîtnôdêt
 slug: hîtnôdêt
 title: HÎTNÔDÊT
-sidebar_position: 143
+sidebar_position: 144
 tags: [hîtnôdêt, Adjective, Afro-Asiatic]
 description: oscillating § Adjective
 ---

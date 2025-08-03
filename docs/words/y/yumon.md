@@ -2,7 +2,7 @@
 id: yumon
 slug: yumon
 title: YUMON
-sidebar_position: 863
+sidebar_position: 864
 tags: [yumon, Adjective, Sino-Tibetan]
 description: brutal § Adjective
 ---

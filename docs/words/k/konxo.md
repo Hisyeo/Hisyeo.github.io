@@ -2,7 +2,7 @@
 id: konxo
 slug: konxo
 title: KONXO
-sidebar_position: 170
+sidebar_position: 171
 tags: [konxo, Adjective, Japonic]
 description: thankful/grateful § Adjective
 ---

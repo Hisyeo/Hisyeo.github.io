@@ -2,7 +2,7 @@
 id: lûîcû
 slug: lûîcû
 title: LÛÎCÛ
-sidebar_position: 838
+sidebar_position: 839
 tags: [lûîcû, Noun, Quechumaran]
 description: deer/giraffe/pronghorn § Noun
 ---

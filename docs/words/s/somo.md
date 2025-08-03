@@ -2,7 +2,7 @@
 id: somo
 slug: somo
 title: SOMO
-sidebar_position: 380
+sidebar_position: 381
 tags: [somo, Verb, Afro-Asiatic]
 description: to name [as] (a name) § Verb
 ---

@@ -2,7 +2,7 @@
 id: sôtûn
 slug: sôtûn
 title: SÔTÛN
-sidebar_position: 386
+sidebar_position: 387
 tags: [sôtûn, Noun, Indo-Iranian]
 description: column § Noun
 ---

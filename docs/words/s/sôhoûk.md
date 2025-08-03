@@ -2,7 +2,7 @@
 id: sôhoûk
 slug: sôhoûk
 title: SÔHOÛK
-sidebar_position: 385
+sidebar_position: 386
 tags: [sôhoûk, Noun, Austro-Asiatic]
 description: arithmetic/math § Noun
 ---

@@ -2,7 +2,7 @@
 id: dûndon
 slug: dûndon
 title: DÛNDON
-sidebar_position: 507
+sidebar_position: 508
 tags: [dûndon, Adjective, Austro-Asiatic]
 description: correct § Adjective
 ---

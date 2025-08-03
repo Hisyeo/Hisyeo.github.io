@@ -2,7 +2,7 @@
 id: gonbu
 slug: gonbu
 title: GONBU
-sidebar_position: 240
+sidebar_position: 241
 tags: [gonbu, Noun, Romance]
 description: leg § Noun
 ---

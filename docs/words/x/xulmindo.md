@@ -2,7 +2,7 @@
 id: xulmindo
 slug: xulmindo
 title: XULMINDO
-sidebar_position: 461
+sidebar_position: 462
 tags: [xulmindo, Adjective, Indo-Iranian]
 description: ashamed § Adjective
 ---

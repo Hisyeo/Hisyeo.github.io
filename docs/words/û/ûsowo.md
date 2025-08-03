@@ -2,7 +2,7 @@
 id: ûsowo
 slug: ûsowo
 title: ÛSOWO
-sidebar_position: 100
+sidebar_position: 101
 tags: [ûsowo, Adjective, Niger-Congo]
 description: balanced § Adjective
 ---

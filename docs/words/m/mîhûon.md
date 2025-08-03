@@ -2,7 +2,7 @@
 id: mîhûon
 slug: mîhûon
 title: MÎHÛON
-sidebar_position: 697
+sidebar_position: 698
 tags: [mîhûon, Adjective, Sino-Tibetan]
 description: beige § Adjective
 ---

@@ -2,7 +2,7 @@
 id: cokwoli
 slug: cokwoli
 title: COKWOLI
-sidebar_position: 312
+sidebar_position: 313
 tags: [cokwoli, Noun, Uto-Aztecan]
 description: pyramid § Noun
 ---

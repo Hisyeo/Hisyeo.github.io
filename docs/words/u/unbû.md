@@ -2,7 +2,7 @@
 id: unbû
 slug: unbû
 title: UNBÛ
-sidebar_position: 94
+sidebar_position: 95
 tags: [unbû, Noun, Dravidian]
 description: arrow § Noun
 ---

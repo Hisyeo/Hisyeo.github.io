@@ -2,7 +2,7 @@
 id: gûfoxê
 slug: gûfoxê
 title: GÛFOXÊ
-sidebar_position: 265
+sidebar_position: 266
 tags: [gûfoxê, Noun, Indo-Iranian]
 description: irony/sarcasm § Noun
 ---

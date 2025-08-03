@@ -2,7 +2,7 @@
 id: kîno
 slug: kîno
 title: KÎNO
-sidebar_position: 204
+sidebar_position: 205
 tags: [kîno, Noun, Niger-Congo]
 description: rhyme/verse § Noun
 ---

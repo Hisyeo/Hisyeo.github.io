@@ -2,7 +2,7 @@
 id: gêkô
 slug: gêkô
 title: GÊKÔ
-sidebar_position: 253
+sidebar_position: 254
 tags: [gêkô, Noun, Niger-Congo]
 description: soil/dirt § Noun
 ---

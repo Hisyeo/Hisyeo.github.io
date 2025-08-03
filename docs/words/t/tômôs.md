@@ -2,7 +2,7 @@
 id: tômôs
 slug: tômôs
 title: TÔMÔS
-sidebar_position: 286
+sidebar_position: 287
 tags: [tômôs, Noun, Hellenic]
 description: book § Noun
 ---

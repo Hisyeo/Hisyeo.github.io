@@ -2,7 +2,7 @@
 id: dênêmêk
 slug: dênêmêk
 title: DÊNÊMÊK
-sidebar_position: 487
+sidebar_position: 488
 tags: [dênêmêk, Verb, Turkic]
 description: to try (a trial) § Verb
 ---

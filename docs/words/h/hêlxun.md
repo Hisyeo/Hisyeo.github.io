@@ -2,7 +2,7 @@
 id: hêlxun
 slug: hêlxun
 title: HÊLXUN
-sidebar_position: 140
+sidebar_position: 141
 tags: [hêlxun, Adjective, Albanian]
 description: early § Adjective
 ---

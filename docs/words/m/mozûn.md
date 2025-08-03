@@ -2,7 +2,7 @@
 id: mozûn
 slug: mozûn
 title: MOZÛN
-sidebar_position: 669
+sidebar_position: 670
 tags: [mozûn, Noun, Turkic]
 description: cream/paste § Noun
 ---

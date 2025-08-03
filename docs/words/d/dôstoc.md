@@ -2,7 +2,7 @@
 id: dôstoc
 slug: dôstoc
 title: DÔSTOC
-sidebar_position: 479
+sidebar_position: 480
 tags: [dôstoc, Verb, Balto-Slavic]
 description: to receive (the received) § Verb
 ---

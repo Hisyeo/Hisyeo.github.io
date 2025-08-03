@@ -2,7 +2,7 @@
 id: kôlmûdul
 slug: kôlmûdul
 title: KÔLMÛDUL
-sidebar_position: 191
+sidebar_position: 192
 tags: [kôlmûdul, Noun, Dravidian]
 description: purchase § Noun
 ---

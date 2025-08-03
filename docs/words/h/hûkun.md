@@ -2,7 +2,7 @@
 id: hûkun
 slug: hûkun
 title: HÛKUN
-sidebar_position: 152
+sidebar_position: 153
 tags: [hûkun, Verb, Afro-Asiatic]
 description: to order (a command) § Verb
 ---

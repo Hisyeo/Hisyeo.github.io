@@ -2,7 +2,7 @@
 id: gosîl
 slug: gosîl
 title: GOSÎL
-sidebar_position: 235
+sidebar_position: 236
 tags: [gosîl, Adjective, Afro-Asiatic]
 description: short § Adjective
 ---

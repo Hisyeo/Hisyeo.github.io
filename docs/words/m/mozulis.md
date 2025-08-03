@@ -2,7 +2,7 @@
 id: mozulis
 slug: mozulis
 title: MOZULIS
-sidebar_position: 668
+sidebar_position: 669
 tags: [mozulis, Noun, Austronesian]
 description: council/court/meeting § Noun
 ---

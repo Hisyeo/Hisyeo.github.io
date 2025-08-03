@@ -2,7 +2,7 @@
 id: kelo
 slug: kelo
 title: KELO
-sidebar_position: 193
+sidebar_position: 194
 tags: [kelo, Verb, Indo-Iranian]
 description: to play (a game) § Verb
 ---

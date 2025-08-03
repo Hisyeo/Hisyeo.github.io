@@ -2,7 +2,7 @@
 id: uklo
 slug: uklo
 title: UKLO
-sidebar_position: 84
+sidebar_position: 85
 tags: [uklo, Adjective, Indo-Iranian]
 description: next § Adjective
 ---

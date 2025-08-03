@@ -2,7 +2,7 @@
 id: yôcno
 slug: yôcno
 title: YÔCNO
-sidebar_position: 857
+sidebar_position: 858
 tags: [yôcno, Noun, Indo-Iranian]
 description: program/plan § Noun
 ---

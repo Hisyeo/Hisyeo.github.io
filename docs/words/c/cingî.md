@@ -2,7 +2,7 @@
 id: cingî
 slug: cingî
 title: CINGÎ
-sidebar_position: 338
+sidebar_position: 339
 tags: [cingî, Noun, Koreic]
 description: electricity § Noun
 ---

@@ -2,7 +2,7 @@
 id: hîsmo
 slug: hîsmo
 title: HÎSMO
-sidebar_position: 145
+sidebar_position: 146
 tags: [hîsmo, Noun, Afro-Asiatic]
 description: cousin § Noun
 ---

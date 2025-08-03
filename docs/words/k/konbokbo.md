@@ -2,7 +2,7 @@
 id: konbokbo
 slug: konbokbo
 title: KONBOKBO
-sidebar_position: 171
+sidebar_position: 172
 tags: [konbokbo, Adjective, Sino-Tibetan]
 description: general/universal § Adjective
 ---

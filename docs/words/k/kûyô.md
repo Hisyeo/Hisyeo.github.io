@@ -2,7 +2,7 @@
 id: kûyô
 slug: kûyô
 title: KÛYÔ
-sidebar_position: 233
+sidebar_position: 234
 tags: [kûyô, Adjective, Nilo-Saharan]
 description: sad § Adjective
 ---

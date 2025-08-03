@@ -2,7 +2,7 @@
 id: hôncôû
 slug: hôncôû
 title: HÔNCÔÛ
-sidebar_position: 132
+sidebar_position: 133
 tags: [hôncôû, Noun, Sino-Tibetan]
 description: herb § Noun
 ---

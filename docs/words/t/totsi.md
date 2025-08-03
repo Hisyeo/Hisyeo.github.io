@@ -2,7 +2,7 @@
 id: totsi
 slug: totsi
 title: TOTSI
-sidebar_position: 275
+sidebar_position: 276
 tags: [totsi, Adjective, Japonic]
 description: standing § Adjective
 ---

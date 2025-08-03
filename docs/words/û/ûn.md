@@ -2,7 +2,7 @@
 id: ûn
 slug: ûn
 title: ÛN
-sidebar_position: 105
+sidebar_position: 106
 tags: [ûn, Conjunction, Dravidian]
 description: and § Conjunction
 ---

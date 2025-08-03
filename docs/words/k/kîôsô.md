@@ -2,7 +2,7 @@
 id: kîôsô
 slug: kîôsô
 title: KÎÔSÔ
-sidebar_position: 199
+sidebar_position: 200
 tags: [kîôsô, Adjective, Japonic]
 description: athletic § Adjective
 ---

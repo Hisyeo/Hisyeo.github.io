@@ -2,7 +2,7 @@
 id: mûxî
 slug: mûxî
 title: MÛXÎ
-sidebar_position: 715
+sidebar_position: 716
 tags: [mûxî, Noun, Japonic]
 description: insect § Noun
 ---

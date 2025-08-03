@@ -2,7 +2,7 @@
 id: cîkînîl
 slug: cîkînîl
 title: CÎKÎNÎL
-sidebar_position: 343
+sidebar_position: 344
 tags: [cîkînîl, Noun, Mayan]
 description: ear § Noun
 ---

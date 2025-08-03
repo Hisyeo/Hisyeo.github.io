@@ -2,7 +2,7 @@
 id: tîxô
 slug: tîxô
 title: TÎXÔ
-sidebar_position: 299
+sidebar_position: 300
 tags: [tîxô, Noun, Niger-Congo]
 description: threat § Noun
 ---

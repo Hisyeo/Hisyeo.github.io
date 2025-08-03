@@ -2,7 +2,7 @@
 id: zoston
 slug: zoston
 title: ZOSTON
-sidebar_position: 510
+sidebar_position: 511
 tags: [zoston, Noun, Indo-Iranian]
 description: jump § Noun
 ---

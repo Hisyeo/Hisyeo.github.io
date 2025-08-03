@@ -2,7 +2,7 @@
 id: gubuyo
 slug: gubuyo
 title: GUBUYO
-sidebar_position: 258
+sidebar_position: 259
 tags: [gubuyo, Noun, Afro-Asiatic]
 description: shop/market § Noun
 ---

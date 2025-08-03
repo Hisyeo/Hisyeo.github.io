@@ -2,7 +2,7 @@
 id: gônyumon
 slug: gônyumon
 title: GÔNYUMON
-sidebar_position: 247
+sidebar_position: 248
 tags: [gônyumon, Adjective, Romance]
 description: grunting/growling § Adjective
 ---

@@ -2,7 +2,7 @@
 id: kôndodû
 slug: kôndodû
 title: KÔNDODÛ
-sidebar_position: 188
+sidebar_position: 189
 tags: [kôndodû, Verb, Dravidian]
 description: to celebrate (a party) § Verb
 ---

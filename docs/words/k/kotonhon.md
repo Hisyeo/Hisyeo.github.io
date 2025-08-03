@@ -2,7 +2,7 @@
 id: kotonhon
 slug: kotonhon
 title: KOTONHON
-sidebar_position: 164
+sidebar_position: 165
 tags: [kotonhon, Adjective, Kra-Dai]
 description: sudden/urgent § Adjective
 ---

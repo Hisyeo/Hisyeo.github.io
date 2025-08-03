@@ -2,7 +2,7 @@
 id: kûnontî
 slug: kûnontî
 title: KÛNONTÎ
-sidebar_position: 226
+sidebar_position: 227
 tags: [kûnontî, Noun, Afro-Asiatic]
 description: communication § Noun
 ---

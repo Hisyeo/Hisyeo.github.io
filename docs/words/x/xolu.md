@@ -2,7 +2,7 @@
 id: xolu
 slug: xolu
 title: XOLU
-sidebar_position: 437
+sidebar_position: 438
 tags: [xolu, Noun, Germanic]
 description: bowl/cup § Noun
 ---

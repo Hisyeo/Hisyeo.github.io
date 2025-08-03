@@ -2,7 +2,7 @@
 id: siskin
 slug: siskin
 title: SISKIN
-sidebar_position: 402
+sidebar_position: 403
 tags: [siskin, Noun, Germanic]
 description: sibling § Noun
 ---

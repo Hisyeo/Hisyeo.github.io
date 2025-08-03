@@ -2,7 +2,7 @@
 id: kûôcyo
 slug: kûôcyo
 title: KÛÔCYO
-sidebar_position: 218
+sidebar_position: 219
 tags: [kûôcyo, Noun, Sino-Tibetan]
 description: state § Noun
 ---

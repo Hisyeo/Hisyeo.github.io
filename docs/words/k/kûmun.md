@@ -2,7 +2,7 @@
 id: kûmun
 slug: kûmun
 title: KÛMUN
-sidebar_position: 225
+sidebar_position: 226
 tags: [kûmun, Noun, Koreic]
 description: hole § Noun
 ---

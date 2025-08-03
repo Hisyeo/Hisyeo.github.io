@@ -2,7 +2,7 @@
 id: cifû
 slug: cifû
 title: CIFÛ
-sidebar_position: 335
+sidebar_position: 336
 tags: [cifû, Verb, Sino-Tibetan]
 description: to pay (payment) § Verb
 ---

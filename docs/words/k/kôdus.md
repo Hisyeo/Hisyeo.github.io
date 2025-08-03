@@ -2,7 +2,7 @@
 id: kôdus
 slug: kôdus
 title: KÔDUS
-sidebar_position: 183
+sidebar_position: 184
 tags: [kôdus, Adjective, Afro-Asiatic]
 description: sacred § Adjective
 ---

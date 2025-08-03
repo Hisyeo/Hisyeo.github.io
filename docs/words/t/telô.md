@@ -2,7 +2,7 @@
 id: telô
 slug: telô
 title: TELÔ
-sidebar_position: 292
+sidebar_position: 293
 tags: [telô, Numeral, Indo-Iranian]
 description: 13 thirteen § Numeral
 ---

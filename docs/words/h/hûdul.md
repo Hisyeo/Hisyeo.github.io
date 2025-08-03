@@ -2,7 +2,7 @@
 id: hûdul
 slug: hûdul
 title: HÛDUL
-sidebar_position: 155
+sidebar_position: 156
 tags: [hûdul, Adjective, Mongolic]
 description: false § Adjective
 ---

@@ -2,7 +2,7 @@
 id: sêkî
 slug: sêkî
 title: SÊKÎ
-sidebar_position: 394
+sidebar_position: 395
 tags: [sêkî, Noun, Japonic]
 description: genitalia § Noun
 ---
