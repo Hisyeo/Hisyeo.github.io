@@ -2,7 +2,7 @@
 id: wêtodû
 slug: wêtodû
 title: WÊTODÛ
-sidebar_position: 784
+sidebar_position: 785
 tags: [wêtodû, Verb, Dravidian]
 description: to hunt/chase (prey/chasee) § Verb
 ---

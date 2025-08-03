@@ -2,7 +2,7 @@
 id: xîncûon
 slug: xîncûon
 title: XÎNCÛON
-sidebar_position: 459
+sidebar_position: 460
 tags: [xîncûon, Noun, Sino-Tibetan]
 description: shape/form § Noun
 ---

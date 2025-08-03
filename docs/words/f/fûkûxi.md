@@ -2,7 +2,7 @@
 id: fûkûxi
 slug: fûkûxi
 title: FÛKÛXI
-sidebar_position: 657
+sidebar_position: 658
 tags: [fûkûxi, Noun, Japonic]
 description: revenge/vengeance § Noun
 ---

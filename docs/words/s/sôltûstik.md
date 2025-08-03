@@ -2,7 +2,7 @@
 id: sôltûstik
 slug: sôltûstik
 title: SÔLTÛSTIK
-sidebar_position: 392
+sidebar_position: 393
 tags: [sôltûstik, Adjective, Turkic]
 description: northern § Adjective
 ---

@@ -2,7 +2,7 @@
 id: xûk
 slug: xûk
 title: XÛK
-sidebar_position: 463
+sidebar_position: 464
 tags: [xûk, Noun, Afro-Asiatic]
 description: sort/type § Noun
 ---

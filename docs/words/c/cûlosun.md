@@ -2,7 +2,7 @@
 id: cûlosun
 slug: cûlosun
 title: CÛLOSUN
-sidebar_position: 366
+sidebar_position: 367
 tags: [cûlosun, Verb, Germanic]
 description: to allow (the allowed) § Verb
 ---

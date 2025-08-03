@@ -2,7 +2,7 @@
 id: lohot
 slug: lohot
 title: LOHOT
-sidebar_position: 802
+sidebar_position: 803
 tags: [lohot, Adjective, Turkic]
 description: comfortable § Adjective
 ---

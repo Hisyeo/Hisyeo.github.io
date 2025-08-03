@@ -2,7 +2,7 @@
 id: bindû
 slug: bindû
 title: BINDÛ
-sidebar_position: 585
+sidebar_position: 586
 tags: [bindû, Noun, Indo-Iranian]
 description: dot § Noun
 ---

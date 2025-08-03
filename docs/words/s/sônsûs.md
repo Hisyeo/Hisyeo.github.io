@@ -2,7 +2,7 @@
 id: sônsûs
 slug: sônsûs
 title: SÔNSÛS
-sidebar_position: 389
+sidebar_position: 390
 tags: [sônsûs, Adjective, Turkic]
 description: endless/infinite § Adjective
 ---

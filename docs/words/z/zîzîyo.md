@@ -2,7 +2,7 @@
 id: zîzîyo
 slug: zîzîyo
 title: ZÎZÎYO
-sidebar_position: 535
+sidebar_position: 536
 tags: [zîzîyo, Noun, Afro-Asiatic]
 description: tendon/root § Noun
 ---

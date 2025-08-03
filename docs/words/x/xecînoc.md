@@ -2,7 +2,7 @@
 id: xecînoc
 slug: xecînoc
 title: XECÎNOC
-sidebar_position: 444
+sidebar_position: 445
 tags: [xecînoc, Adjective, Balto-Slavic]
 description: crossed/intersected § Adjective
 ---

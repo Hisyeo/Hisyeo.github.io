@@ -2,7 +2,7 @@
 id: sokol
 slug: sokol
 title: SOKOL
-sidebar_position: 371
+sidebar_position: 372
 tags: [sokol, Adjective, Turkic]
 description: awkward/clumsy § Adjective
 ---

@@ -2,7 +2,7 @@
 id: sokofû
 slug: sokofû
 title: SOKOFÛ
-sidebar_position: 370
+sidebar_position: 371
 tags: [sokofû, Noun, Niger-Congo]
 description: floor § Noun
 ---

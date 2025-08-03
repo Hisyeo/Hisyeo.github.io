@@ -2,7 +2,7 @@
 id: foxo
 slug: foxo
 title: FOXO
-sidebar_position: 624
+sidebar_position: 625
 tags: [foxo, Postposition, Kartvelian]
 description: mirative sentence ender (wow!) § Postposition
 ---

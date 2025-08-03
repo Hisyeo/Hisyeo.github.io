@@ -2,7 +2,7 @@
 id: cîbon
 slug: cîbon
 title: CÎBON
-sidebar_position: 347
+sidebar_position: 348
 tags: [cîbon, Noun, Koreic]
 description: fat/grease § Noun
 ---

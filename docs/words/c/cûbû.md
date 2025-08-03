@@ -2,7 +2,7 @@
 id: cûbû
 slug: cûbû
 title: CÛBÛ
-sidebar_position: 361
+sidebar_position: 362
 tags: [cûbû, Adjective, Sino-Tibetan]
 description: fermented/soured § Adjective
 ---

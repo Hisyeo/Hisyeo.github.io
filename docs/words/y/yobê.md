@@ -2,7 +2,7 @@
 id: yobê
 slug: yobê
 title: YOBÊ
-sidebar_position: 851
+sidebar_position: 852
 tags: [yobê, Adjective, Turkic]
 description: artificial § Adjective
 ---
