@@ -10,7 +10,7 @@ kôî gô yê boxô kon socok xôn û gonîso noyo. yôk. xôn eswen û xe bêû
 dônûxin yê êto môtowo yê ônî cukto dîzel. buswen somô û noyo cô xe yosten cô tûu
 xe gô oxon kon yôn fôlnî.
 
-gonîso û noyo cô xe sî yosten cô fin dûndon oxon wêloi: [tômôs Kîso Hiklihos Yê
+gonîso û noyo cô xe sî yosten cô uyo dûndon oxon wêloi: [tômôs Kîso Hiklihos Yê
 Noûku Êto](https://www.gutenberg.org/cache/epub/41481/pg41481-images.html). ke
 dênêmêk û noyo cô xe êo mûlû ôlê môî kîso sûn tômôs kut yê zûnlo kut (wuto kut,
 1930).
