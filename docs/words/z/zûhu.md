@@ -2,7 +2,7 @@
 id: zûhu
 slug: zûhu
 title: ZÛHU
-sidebar_position: 543
+sidebar_position: 542
 tags: [zûhu, Noun, Albanian]
 description: tongue § Noun
 ---

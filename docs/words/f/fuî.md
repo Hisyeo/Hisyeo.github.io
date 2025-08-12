@@ -2,7 +2,7 @@
 id: fuî
 slug: fuî
 title: FUÎ
-sidebar_position: 652
+sidebar_position: 651
 tags: [fuî, Verb, Austronesian]
 description: to have (a possession) § Verb
 ---
@@ -21,6 +21,6 @@ description: to have (a possession) § Verb
 
 <details>
     <summary>Origin</summary>
-    Maori whai [fɐ.i]<br/>
+    Māori whai [fɐ.i]<br/>
     <em>Austronesian Language Family</em>
 </details>

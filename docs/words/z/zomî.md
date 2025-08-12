@@ -2,7 +2,7 @@
 id: zomî
 slug: zomî
 title: ZOMÎ
-sidebar_position: 514
+sidebar_position: 513
 tags: [zomî, Noun, Niger-Congo]
 description: society/culture § Noun
 ---

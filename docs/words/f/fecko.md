@@ -2,7 +2,7 @@
 id: fecko
 slug: fecko
 title: FECKO
-sidebar_position: 636
+sidebar_position: 635
 tags: [fecko, Noun, Germanic]
 description: liquid § Noun
 ---

@@ -2,7 +2,7 @@
 id: montûksol
 slug: montûksol
 title: MONTÛKSOL
-sidebar_position: 676
+sidebar_position: 675
 tags: [montûksol, Adjective, Turkic]
 description: logical § Adjective
 ---

@@ -2,7 +2,7 @@
 id: zîxîtû
 slug: zîxîtû
 title: ZÎXÎTÛ
-sidebar_position: 535
+sidebar_position: 534
 tags: [zîxîtû, Noun, Romance]
 description: finger/toe § Noun
 ---

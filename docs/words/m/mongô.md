@@ -2,7 +2,7 @@
 id: mongô
 slug: mongô
 title: MONGÔ
-sidebar_position: 675
+sidebar_position: 674
 tags: [mongô, Noun, Austronesian]
 description: sharks/rays § Noun
 ---

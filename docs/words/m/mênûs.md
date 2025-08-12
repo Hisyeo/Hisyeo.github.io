@@ -2,7 +2,7 @@
 id: mênûs
 slug: mênûs
 title: MÊNÛS
-sidebar_position: 691
+sidebar_position: 690
 tags: [mênûs, Determiner, Romance]
 description: fewer/less § Determiner
 ---

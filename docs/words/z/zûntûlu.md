@@ -2,7 +2,7 @@
 id: zûntûlu
 slug: zûntûlu
 title: ZÛNTÛLU
-sidebar_position: 546
+sidebar_position: 545
 tags: [zûntûlu, Noun, Romance]
 description: joint § Noun
 ---

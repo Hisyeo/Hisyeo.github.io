@@ -2,7 +2,7 @@
 id: dôkcon
 slug: dôkcon
 title: DÔKCON
-sidebar_position: 479
+sidebar_position: 478
 tags: [dôkcon, Adjective, Germanic]
 description: decent § Adjective
 ---
