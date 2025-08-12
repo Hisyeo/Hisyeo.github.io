@@ -6,7 +6,7 @@ tags: [hîskûnco]
 ---
 
 kûu wuîtsî xe golo, oxon yoûtî dêtoî yê môtowo nêôs ûn yoûtî dônûxin lolû ûn yôn
-yê nec nucoto et zelen. kûu dîyondê lôîcôk; nîmû ke yûnyoû yôk zîcoû oxon xe
+yê nec nucoto et zelen. kûu dîyondê lôîcôk; nîmû ke fuî yôk zîcoû oxon xe
 doknû hîzon nîmû ze.
 
 ---
