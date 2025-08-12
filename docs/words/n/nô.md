@@ -2,7 +2,7 @@
 id: nô
 slug: nô
 title: NÔ
-sidebar_position: 735
+sidebar_position: 736
 tags: [nô, Adjective, Niger-Congo]
 description: moving § Adjective
 ---

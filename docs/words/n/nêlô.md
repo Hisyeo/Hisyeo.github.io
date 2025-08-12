@@ -2,7 +2,7 @@
 id: nêlô
 slug: nêlô
 title: NÊLÔ
-sidebar_position: 746
+sidebar_position: 747
 tags: [nêlô, Adjective, Romance]
 description: black § Adjective
 ---

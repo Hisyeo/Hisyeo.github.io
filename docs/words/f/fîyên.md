@@ -21,6 +21,6 @@ description: 100 hundred § Numeral
 
 <details>
     <summary>Origin</summary>
-    Spanish cien [ˈθjẽn]<br/>
+    Spanish, Peninsular cien [ˈθjẽn]<br/>
     <em>Romance Language Family</em>
 </details>

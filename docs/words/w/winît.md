@@ -2,7 +2,7 @@
 id: winît
 slug: winît
 title: WINÎT
-sidebar_position: 791
+sidebar_position: 792
 tags: [winît, Adjective, Indo-Iranian]
 description: humble § Adjective
 ---

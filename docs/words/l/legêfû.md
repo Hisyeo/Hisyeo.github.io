@@ -2,7 +2,7 @@
 id: legêfû
 slug: legêfû
 title: LEGÊFÛ
-sidebar_position: 819
+sidebar_position: 820
 tags: [legêfû, Adjective, Niger-Congo]
 description: lazy § Adjective
 ---

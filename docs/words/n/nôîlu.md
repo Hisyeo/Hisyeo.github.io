@@ -2,7 +2,7 @@
 id: nôîlu
 slug: nôîlu
 title: NÔÎLU
-sidebar_position: 736
+sidebar_position: 737
 tags: [nôîlu, Noun, Germanic]
 description: key § Noun
 ---

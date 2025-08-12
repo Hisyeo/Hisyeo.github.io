@@ -2,7 +2,7 @@
 id: niwos
 slug: niwos
 title: NIWOS
-sidebar_position: 752
+sidebar_position: 753
 tags: [niwos, Verb, Indo-Iranian]
 description: to reside in (a residence) § Verb
 ---

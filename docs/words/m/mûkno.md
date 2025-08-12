@@ -2,7 +2,7 @@
 id: mûkno
 slug: mûkno
 title: MÛKNO
-sidebar_position: 714
+sidebar_position: 715
 tags: [mûkno, Adjective, Germanic]
 description: mature/ripe § Adjective
 ---

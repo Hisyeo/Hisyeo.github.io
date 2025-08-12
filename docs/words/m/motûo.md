@@ -2,7 +2,7 @@
 id: motûo
 slug: motûo
 title: MOTÛO
-sidebar_position: 664
+sidebar_position: 665
 tags: [motûo, Noun, Austronesian]
 description: parent § Noun
 ---

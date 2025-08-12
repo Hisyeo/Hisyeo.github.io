@@ -2,7 +2,7 @@
 id: fûxûbîn
 slug: fûxûbîn
 title: FÛXÛBÎN
-sidebar_position: 660
+sidebar_position: 661
 tags: [fûxûbîn, Noun, Sino-Tibetan]
 description: accessory § Noun
 ---

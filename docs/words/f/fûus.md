@@ -2,7 +2,7 @@
 id: fûus
 slug: fûus
 title: FÛUS
-sidebar_position: 657
+sidebar_position: 658
 tags: [fûus, Noun, Germanic]
 description: wax § Noun
 ---

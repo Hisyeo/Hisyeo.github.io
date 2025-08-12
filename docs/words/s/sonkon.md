@@ -4,20 +4,20 @@ slug: sonkon
 title: SONKON
 sidebar_position: 383
 tags: [sonkon, Adjective, Kra-Dai]
-description: important § Adjective
+description: important/great § Adjective
 ---
 
 ### sonkon&emsp;<span kind="abugida">ɐ̃ɔ̃</span>
 
-*important* **§** [Adjective](../../tags/Adjective)
+*important/great* **§** [Adjective](../../tags/Adjective)
 
 **IPA**: /ˈsɑn.kɑn/
 
-**Verb**: to be important/significant
+**Verb**: to be important/significant/great
 
-**Noun**: importance/significance
+**Noun**: importance/significance/greatness
 
-**Modifier**: important/significant
+**Modifier**: important/significant/great
 
 <details>
     <summary>Origin</summary>
