@@ -10,16 +10,38 @@ import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
 
 # Parallel Speech Corpus
 
+Equivalent semantic information translated into a variety of languages. The
+higher the syllable count, the lower the **information density**. The studies
+mentioned below use two different means to represent information density:
+
+1. Calculating the proportion of syllables to a reference language (Vietnamese)
+2. Averaging the Shannon Entropy of each syllable-to-syllable possibility
+   (including the probabilities of being first syllables).
+
+Here, we will just provide the syllable count as the first method used can be
+intuited by just comparing the counts themselves and the second method is not
+possible without a significantly large corpus of text to calculate probabilities
+with.
+
+## Source
+
 Multilingual Text Tools and Corpora for Central and Eastern European Languages.
 EU Copernicus Project COP106
 ([source](https://nl.ijs.si/ME/Vault/CD/docs/mte-spch/mtes-en.html)) and the
-additional texts provided through this research paper:
+additional texts provided through this research paper ([supplemental
+materials](https://www.science.org/doi/suppl/10.1126/sciadv.aaw2594/suppl_file/aaw2594_sm.pdf)):
 
 > Christophe Coupé *et al*. ,Different languages, similar encoding efficiency:
-> Comparable information rates across the human communicative niche. *Sci.
-> Adv.* **5**, eaaw2594 (2019). DOI: [10.1126/sciadv.aaw2594](https://doi.org/10.1126/sciadv.aaw2594)
+> Comparable information rates across the human communicative niche. *Sci. Adv.*
+> **5**, eaaw2594 (2019). DOI:
+> [10.1126/sciadv.aaw2594](https://doi.org/10.1126/sciadv.aaw2594)
 
-## Text O1
+## Passages
+
+The passages for 6 languages are presented below, you can check out the details of 11 more
+in the paper and supporting materials.
+
+### Text O1
 
 Number of Syllables:
 
@@ -65,7 +87,7 @@ Number of Syllables:
     </TabItem>
 </Tabs>
 
-## Block O2
+### Block O2
 
 Number of Syllables:
 
@@ -80,9 +102,9 @@ Number of Syllables:
     </TabItem>
     <TabItem value="ENG" label="English">
         Please put me through to the complaints department. The repair to the water main outside my 
-    house was unsuccessful, and my cellar's flooded. Your Water Services Department was singularly 
-    unsympathetic. All their repair teams are apparently booked out for the next two weeks. Am I 
-    supposed to use the cellar as a swimming pool till then?
+        house was unsuccessful, and my cellar's flooded. Your Water Services Department was singularly 
+        unsympathetic. All their repair teams are apparently booked out for the next two weeks. Am I 
+        supposed to use the cellar as a swimming pool till then?
     </TabItem>
     <TabItem value="hisyeo" label="Hîsyêô" default><HisyeoText kind='latin'>
         kûu lufono noyo mût yogô kûngîyo kon dês xowosê.
@@ -93,21 +115,21 @@ Number of Syllables:
     </HisyeoText></TabItem>
     <TabItem value="JPN" label="Japanese">
         カスタマーサービスセンターをお願いします。我が家の前の水道管の修復工事がずさん
-    だったため、うちの地下室が水浸しになっています。御社の給水サービス係は非常に不愉快
-    な方で、「この先２週間、すべての修復スタッフの予定はつまっている」の一点張りでした
-    。その間うちの地下室を「水泳プールとして利用しておけ」とでもおっしゃるおつもりなの
-    でしょうか。
+        だったため、うちの地下室が水浸しになっています。御社の給水サービス係は非常に不愉快
+        な方で、「この先２週間、すべての修復スタッフの予定はつまっている」の一点張りでした
+        。その間うちの地下室を「水泳プールとして利用しておけ」とでもおっしゃるおつもりなの
+        でしょうか。
     </TabItem>
     <TabItem value="SPA" label="Spanish">
         Por favor, póngame con el departamento de reclamaciones. Con la reparación de la cañería 
-    exterior de mi casa me han hecho una chapuza y se ha inundado el sótano. Su Departamento de 
-    Servicios al Cliente no me ha hecho ningún caso. Me han dicho que todos los fontaneros están 
-    ocupados durante las dos próximas semanas. ¿Se supone que hasta que vengan tengo que utilizar el 
-    sótano como piscina?
+        exterior de mi casa me han hecho una chapuza y se ha inundado el sótano. Su Departamento de 
+        Servicios al Cliente no me ha hecho ningún caso. Me han dicho que todos los fontaneros están 
+        ocupados durante las dos próximas semanas. ¿Se supone que hasta que vengan tengo que utilizar el 
+        sótano como piscina?
     </TabItem>
     <TabItem value="THA" label="Thai">
         กรุณาส่งเรื่องของฉนั ไปที่แผนกร้องเรียน การซ่อมระบบน้า ปะปาที่บา้นของฉนั ไม่สา เร็จ น้า ท่วมที่ห้องใตด้ิน
-    ฝ่ายบริการของคุณดูเหมือนจะไม่สนใจ ฝ่ายซ่อมแซมของคุณจะไม่มีเวลามาซ่อมให้ภายในสองอาทิตย์จะให้ฉนั ใชห้อ้งใตด้ินเป็นสระวา่ ยน้า เหรอ ? 
+        ฝ่ายบริการของคุณดูเหมือนจะไม่สนใจ ฝ่ายซ่อมแซมของคุณจะไม่มีเวลามาซ่อมให้ภายในสองอาทิตย์จะให้ฉนั ใชห้อ้งใตด้ินเป็นสระวา่ ยน้า เหรอ ? 
     </TabItem>
     <TabItem value="VIE" label="Vietnamese">
         Xin vui lòng chuyển máy cho tôi gặp bộ phận giải đáp thắc mắc khách hàng. Các anh thợ đã đến 
