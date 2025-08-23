@@ -2,7 +2,7 @@
 id: nêxôdî
 slug: nêxôdî
 title: NÊXÔDÎ
-sidebar_position: 745
+sidebar_position: 747
 tags: [nêxôdî, Adjective, Indo-Iranian]
 description: ethnic § Adjective
 ---

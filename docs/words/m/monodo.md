@@ -2,7 +2,7 @@
 id: monodo
 slug: monodo
 title: MONODO
-sidebar_position: 673
+sidebar_position: 675
 tags: [monodo, Verb, Koreic]
 description: to meet (a meetee) § Verb
 ---

@@ -2,7 +2,7 @@
 id: londuluk
 slug: londuluk
 title: LONDULUK
-sidebar_position: 812
+sidebar_position: 814
 tags: [londuluk, Adjective, Germanic]
 description: rural § Adjective
 ---

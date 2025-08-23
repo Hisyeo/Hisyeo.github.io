@@ -2,7 +2,7 @@
 id: lufono
 slug: lufono
 title: LUFONO
-sidebar_position: 838
+sidebar_position: 840
 tags: [lufono, Verb, Dravidian]
 description: to ship/send (a package) § Verb
 ---

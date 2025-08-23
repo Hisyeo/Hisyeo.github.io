@@ -2,7 +2,7 @@
 id: doknû
 slug: doknû
 title: DOKNÛ
-sidebar_position: 474
+sidebar_position: 475
 tags: [doknû, Verb, Indo-Iranian]
 description: to cover (the covered) § Verb
 ---

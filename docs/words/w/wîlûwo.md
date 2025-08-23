@@ -2,7 +2,7 @@
 id: wîlûwo
 slug: wîlûwo
 title: WÎLÛWO
-sidebar_position: 797
+sidebar_position: 799
 tags: [wîlûwo, Noun, Dravidian]
 description: value/cost § Noun
 ---

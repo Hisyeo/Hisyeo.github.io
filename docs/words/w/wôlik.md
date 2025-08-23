@@ -2,7 +2,7 @@
 id: wôlik
 slug: wôlik
 title: WÔLIK
-sidebar_position: 780
+sidebar_position: 782
 tags: [wôlik, Noun, Germanic]
 description: smoke/cloud § Noun
 ---

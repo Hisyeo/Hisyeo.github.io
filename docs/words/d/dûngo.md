@@ -2,7 +2,7 @@
 id: dûngo
 slug: dûngo
 title: DÛNGO
-sidebar_position: 507
+sidebar_position: 508
 tags: [dûngo, Verb, Niger-Congo]
 description: to pierce (the pierced) § Verb
 ---

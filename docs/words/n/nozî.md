@@ -2,7 +2,7 @@
 id: nozî
 slug: nozî
 title: NOZÎ
-sidebar_position: 730
+sidebar_position: 732
 tags: [nozî, Noun, Nilo-Saharan]
 description: venom/poison § Noun
 ---

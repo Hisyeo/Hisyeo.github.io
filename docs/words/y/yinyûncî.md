@@ -2,7 +2,7 @@
 id: yinyûncî
 slug: yinyûncî
 title: YINYÛNCÎ
-sidebar_position: 865
+sidebar_position: 867
 tags: [yinyûncî, Noun, Sino-Tibetan]
 description: modifier (adjective) § Noun
 ---

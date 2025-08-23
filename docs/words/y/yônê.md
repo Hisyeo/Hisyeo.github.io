@@ -2,7 +2,7 @@
 id: yônê
 slug: yônê
 title: YÔNÊ
-sidebar_position: 862
+sidebar_position: 864
 tags: [yônê, Noun, Sino-Tibetan]
 description: caprine § Noun
 ---

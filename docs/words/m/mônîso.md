@@ -2,7 +2,7 @@
 id: mônîso
 slug: mônîso
 title: MÔNÎSO
-sidebar_position: 685
+sidebar_position: 687
 tags: [mônîso, Verb, Niger-Congo]
 description: to display/show (a diplay/show) § Verb
 ---

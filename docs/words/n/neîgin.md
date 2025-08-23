@@ -2,7 +2,7 @@
 id: neîgin
 slug: neîgin
 title: NEÎGIN
-sidebar_position: 739
+sidebar_position: 741
 tags: [neîgin, Noun, Germanic]
 description: tendency/inclination § Noun
 ---

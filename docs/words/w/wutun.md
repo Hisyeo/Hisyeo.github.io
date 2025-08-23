@@ -2,7 +2,7 @@
 id: wutun
 slug: wutun
 title: WUTUN
-sidebar_position: 801
+sidebar_position: 803
 tags: [wutun, Noun, Dravidian]
 description: ring/circle § Noun
 ---

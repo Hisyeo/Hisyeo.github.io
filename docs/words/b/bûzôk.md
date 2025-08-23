@@ -2,7 +2,7 @@
 id: bûzôk
 slug: bûzôk
 title: BÛZÔK
-sidebar_position: 614
+sidebar_position: 615
 tags: [bûzôk, Determiner, Koreic]
 description: lack § Determiner
 ---

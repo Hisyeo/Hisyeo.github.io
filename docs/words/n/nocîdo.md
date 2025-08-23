@@ -2,7 +2,7 @@
 id: nocîdo
 slug: nocîdo
 title: NOCÎDO
-sidebar_position: 727
+sidebar_position: 729
 tags: [nocîdo, Verb, Koreic]
 description: to lose/waste (the lost/wasted) § Verb
 ---

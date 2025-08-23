@@ -2,7 +2,7 @@
 id: wîbolo
 slug: wîbolo
 title: WÎBOLO
-sidebar_position: 795
+sidebar_position: 797
 tags: [wîbolo, Noun, Quechumaran]
 description: flag § Noun
 ---

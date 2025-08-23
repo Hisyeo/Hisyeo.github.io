@@ -2,7 +2,7 @@
 id: sûsôn
 slug: sûsôn
 title: SÛSÔN
-sidebar_position: 424
+sidebar_position: 425
 tags: [sûsôn, Noun, Austronesian]
 description: layer § Noun
 ---

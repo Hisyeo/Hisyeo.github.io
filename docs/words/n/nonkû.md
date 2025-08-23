@@ -2,7 +2,7 @@
 id: nonkû
 slug: nonkû
 title: NONKÛ
-sidebar_position: 733
+sidebar_position: 735
 tags: [nonkû, Numeral, Dravidian]
 description: 04 four § Numeral
 ---

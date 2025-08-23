@@ -2,7 +2,7 @@
 id: nîmû
 slug: nîmû
 title: NÎMÛ
-sidebar_position: 758
+sidebar_position: 760
 tags: [nîmû, Pronoun, Sino-Tibetan]
 description: you § Pronoun
 ---

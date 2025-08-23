@@ -2,7 +2,7 @@
 id: nosô
 slug: nosô
 title: NOSÔ
-sidebar_position: 728
+sidebar_position: 730
 tags: [nosô, Noun, Japonic]
 description: puzzle/mystery § Noun
 ---

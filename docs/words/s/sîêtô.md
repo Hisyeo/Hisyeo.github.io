@@ -2,7 +2,7 @@
 id: sîêtô
 slug: sîêtô
 title: SÎÊTÔ
-sidebar_position: 407
+sidebar_position: 408
 tags: [sîêtô, Noun, Romance]
 description: plate § Noun
 ---

@@ -2,7 +2,7 @@
 id: wuktomû
 slug: wuktomû
 title: WUKTOMÛ
-sidebar_position: 799
+sidebar_position: 801
 tags: [wuktomû, Adjective, Dravidian]
 description: overt/evident § Adjective
 ---

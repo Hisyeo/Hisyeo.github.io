@@ -2,7 +2,7 @@
 id: nulto
 slug: nulto
 title: NULTO
-sidebar_position: 767
+sidebar_position: 769
 tags: [nulto, Adjective, Koreic]
 description: wide § Adjective
 ---
