@@ -2,7 +2,7 @@
 id: yoûmok
 slug: yoûmok
 title: YOÛMOK
-sidebar_position: 849
+sidebar_position: 850
 tags: [yoûmok, Adjective, Sino-Tibetan]
 description: humorous § Adjective
 ---

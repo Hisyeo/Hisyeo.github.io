@@ -2,7 +2,7 @@
 id: bûlûsî
 slug: bûlûsî
 title: BÛLÛSÎ
-sidebar_position: 620
+sidebar_position: 621
 tags: [bûlûsî, Noun, Niger-Congo]
 description: reptile § Noun
 ---

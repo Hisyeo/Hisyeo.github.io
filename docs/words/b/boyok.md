@@ -2,7 +2,7 @@
 id: boyok
 slug: boyok
 title: BOYOK
-sidebar_position: 567
+sidebar_position: 568
 tags: [boyok, Adjective, Turkic]
 description: recent § Adjective
 ---

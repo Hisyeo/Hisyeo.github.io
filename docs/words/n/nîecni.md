@@ -2,7 +2,7 @@
 id: nîecni
 slug: nîecni
 title: NÎECNI
-sidebar_position: 759
+sidebar_position: 760
 tags: [nîecni, Adjective, Balto-Slavic]
 description: vile § Adjective
 ---

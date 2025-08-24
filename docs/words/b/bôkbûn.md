@@ -2,7 +2,7 @@
 id: bôkbûn
 slug: bôkbûn
 title: BÔKBÛN
-sidebar_position: 569
+sidebar_position: 570
 tags: [bôkbûn, Noun, Koreic]
 description: storm § Noun
 ---

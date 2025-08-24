@@ -2,7 +2,7 @@
 id: môfî
 slug: môfî
 title: MÔFÎ
-sidebar_position: 686
+sidebar_position: 687
 tags: [môfî, Adjective, Germanic]
 description: brave/courageous § Adjective
 ---

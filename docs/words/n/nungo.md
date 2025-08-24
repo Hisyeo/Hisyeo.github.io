@@ -2,7 +2,7 @@
 id: nungo
 slug: nungo
 title: NUNGO
-sidebar_position: 766
+sidebar_position: 767
 tags: [nungo, Adjective, Indo-Iranian]
 description: naked § Adjective
 ---

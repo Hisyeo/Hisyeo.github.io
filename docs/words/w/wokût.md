@@ -2,7 +2,7 @@
 id: wokût
 slug: wokût
 title: WOKÛT
-sidebar_position: 773
+sidebar_position: 774
 tags: [wokût, Noun, Turkic]
 description: time § Noun
 ---

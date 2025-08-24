@@ -2,7 +2,7 @@
 id: mozîkô
 slug: mozîkô
 title: MOZÎKÔ
-sidebar_position: 671
+sidebar_position: 672
 tags: [mozîkô, Adjective, Romance]
 description: magical § Adjective
 ---

@@ -2,7 +2,7 @@
 id: zîgîl
 slug: zîgîl
 title: ZÎGÎL
-sidebar_position: 533
+sidebar_position: 534
 tags: [zîgîl, Adjective, Turkic]
 description: falling § Adjective
 ---

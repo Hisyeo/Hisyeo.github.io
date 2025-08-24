@@ -2,7 +2,7 @@
 id: sîntokmo
 slug: sîntokmo
 title: SÎNTOKMO
-sidebar_position: 413
+sidebar_position: 414
 tags: [sîntokmo, Noun, Romance]
 description: phrase § Noun
 ---

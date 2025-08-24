@@ -2,7 +2,7 @@
 id: mîtetên
 slug: mîtetên
 title: MÎTETÊN
-sidebar_position: 704
+sidebar_position: 705
 tags: [mîtetên, Adjective, Uralic]
 description: trivial § Adjective
 ---

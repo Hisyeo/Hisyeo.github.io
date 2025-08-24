@@ -5,11 +5,11 @@
   "body": "oûtô",
   "description": "to drive (a vehicle)"
  },
- "oûdî": {
+ "okoxu": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "oûdî",
-  "body": "oûdî",
-  "description": "seed"
+  "prefix": "okoxu",
+  "body": "okoxu",
+  "description": "sky"
  },
  "okôt": {
   "scope": "markdown,mdx,fountain",
@@ -17,11 +17,17 @@
   "body": "okôt",
   "description": "to bear (a burden)"
  },
- "okoxu": {
+ "oksîôs": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "okoxu",
-  "body": "okoxu",
-  "description": "sky"
+  "prefix": "oksîôs",
+  "body": "oksîôs",
+  "description": "worthy"
+ },
+ "oûdî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "oûdî",
+  "body": "oûdî",
+  "description": "seed"
  },
  "oksûn": {
   "scope": "markdown,mdx,fountain",
@@ -29,23 +35,11 @@
   "body": "oksûn",
   "description": "meat/muscle"
  },
- "okûlo": {
+ "oklumun": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "okûlo",
-  "body": "okûlo",
-  "description": "to touch (a surface)"
- },
- "oksîôs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "oksîôs",
-  "body": "oksîôs",
-  "description": "worthy"
- },
- "ogolol": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ogolol",
-  "body": "ogolol",
-  "description": "to grab/hold (a hold/load)"
+  "prefix": "oklumun",
+  "body": "oklumun",
+  "description": "attack"
  },
  "ogogê": {
   "scope": "markdown,mdx,fountain",
@@ -53,17 +47,17 @@
   "body": "ogogê",
   "description": "frequent/recurring"
  },
- "oklumun": {
+ "ogolol": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "oklumun",
-  "body": "oklumun",
-  "description": "attack"
+  "prefix": "ogolol",
+  "body": "ogolol",
+  "description": "to grab/hold (a hold/load)"
  },
- "ocûo": {
+ "okûlo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ocûo",
-  "body": "ocûo",
-  "description": "skin"
+  "prefix": "okûlo",
+  "body": "okûlo",
+  "description": "to touch (a surface)"
  },
  "otôs": {
   "scope": "markdown,mdx,fountain",
@@ -71,17 +65,17 @@
   "body": "otôs",
   "description": "hard"
  },
+ "ocûo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ocûo",
+  "body": "ocûo",
+  "description": "skin"
+ },
  "osyen": {
   "scope": "markdown,mdx,fountain",
   "prefix": "osyen",
   "body": "osyen",
   "description": "ancient"
- },
- "ostok": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ostok",
-  "body": "ostok",
-  "description": "sign/signal"
  },
  "odigon": {
   "scope": "markdown,mdx,fountain",
@@ -95,23 +89,11 @@
   "body": "oxon",
   "description": "causal-final marker (for)"
  },
- "ozûul": {
+ "ostok": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ozûul",
-  "body": "ozûul",
-  "description": "any/whichever"
- },
- "obûlû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "obûlû",
-  "body": "obûlû",
-  "description": "to overwhelm (the overwhelmed)"
- },
- "obô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "obô",
-  "body": "obô",
-  "description": "arm"
+  "prefix": "ostok",
+  "body": "ostok",
+  "description": "sign/signal"
  },
  "obunyun": {
   "scope": "markdown,mdx,fountain",
@@ -125,17 +107,11 @@
   "body": "obokî",
   "description": "glass"
  },
- "ofek": {
+ "obô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ofek",
-  "body": "ofek",
-  "description": "comitative marker (alongside/with)"
- },
- "ofînê": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ofînê",
-  "body": "ofînê",
-  "description": "cultured/refined"
+  "prefix": "obô",
+  "body": "obô",
+  "description": "arm"
  },
  "omûlto": {
   "scope": "markdown,mdx,fountain",
@@ -143,11 +119,35 @@
   "body": "omûlto",
   "description": "abstract"
  },
+ "ozûul": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ozûul",
+  "body": "ozûul",
+  "description": "any/whichever"
+ },
+ "ofînê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ofînê",
+  "body": "ofînê",
+  "description": "cultured/refined"
+ },
+ "ofek": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ofek",
+  "body": "ofek",
+  "description": "comitative marker (alongside/with)"
+ },
  "onkonu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "onkonu",
   "body": "onkonu",
   "description": "to estimate/guess (an estimation/guess)"
+ },
+ "obûlû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "obûlû",
+  "body": "obûlû",
+  "description": "to overwhelm (the overwhelmed)"
  },
  "onô": {
   "scope": "markdown,mdx,fountain",
@@ -167,6 +167,12 @@
   "body": "ongôlô",
   "description": "corner"
  },
+ "ondo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ondo",
+  "body": "ondo",
+  "description": "to prepare (a preparation)"
+ },
  "oncêmon": {
   "scope": "markdown,mdx,fountain",
   "prefix": "oncêmon",
@@ -179,29 +185,11 @@
   "body": "ôîtun",
   "description": "to vocalize (a vocalization)"
  },
- "onwonî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "onwonî",
-  "body": "onwonî",
-  "description": "address"
- },
- "ondo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ondo",
-  "body": "ondo",
-  "description": "to prepare (a preparation)"
- },
  "onfîbî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "onfîbî",
   "body": "onfîbî",
   "description": "amphibian"
- },
- "oldis": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "oldis",
-  "body": "oldis",
-  "description": "evidential marker (or so)"
  },
  "ôhêl": {
   "scope": "markdown,mdx,fountain",
@@ -209,17 +197,23 @@
   "body": "ôhêl",
   "description": "past"
  },
+ "ôtsôtot": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ôtsôtot",
+  "body": "ôtsôtot",
+  "description": "deity"
+ },
  "oltû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "oltû",
   "body": "oltû",
   "description": "loud"
  },
- "ôtsôtot": {
+ "onwonî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ôtsôtot",
-  "body": "ôtsôtot",
-  "description": "deity"
+  "prefix": "onwonî",
+  "body": "onwonî",
+  "description": "address"
  },
  "ôstî": {
   "scope": "markdown,mdx,fountain",
@@ -227,29 +221,35 @@
   "body": "ôstî",
   "description": "bone"
  },
- "ôsôlê": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ôsôlê",
-  "body": "ôsôlê",
-  "description": "afraid"
- },
- "ôdon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ôdon",
-  "body": "ôdon",
-  "description": "orderly"
- },
  "ôzîl": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ôzîl",
   "body": "ôzîl",
   "description": "nut"
  },
+ "ôsôlê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ôsôlê",
+  "body": "ôsôlê",
+  "description": "afraid"
+ },
  "ôbok": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ôbok",
   "body": "ôbok",
   "description": "opaque"
+ },
+ "oldis": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "oldis",
+  "body": "oldis",
+  "description": "evidential marker (or so)"
+ },
+ "ôdon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ôdon",
+  "body": "ôdon",
+  "description": "orderly"
  },
  "ôfo": {
   "scope": "markdown,mdx,fountain",
@@ -269,17 +269,17 @@
   "body": "et",
   "description": "collapser/amender particle"
  },
- "eson": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "eson",
-  "body": "eson",
-  "description": "09 nine"
- },
  "ôntôn": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ôntôn",
   "body": "ôntôn",
   "description": "to wear (clothing)"
+ },
+ "ôlê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ôlê",
+  "body": "ôlê",
+  "description": "causal-agentive marker"
  },
  "ônsu": {
   "scope": "markdown,mdx,fountain",
@@ -293,17 +293,17 @@
   "body": "eswen",
   "description": "more"
  },
+ "eson": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "eson",
+  "body": "eson",
+  "description": "09 nine"
+ },
  "en": {
   "scope": "markdown,mdx,fountain",
   "prefix": "en",
   "body": "en",
   "description": "than"
- },
- "ôlê": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ôlê",
-  "body": "ôlê",
-  "description": "causal-agentive marker"
  },
  "eloi": {
   "scope": "markdown,mdx,fountain",
@@ -311,11 +311,11 @@
   "body": "eloi",
   "description": "boundary/border"
  },
- "êto": {
+ "elekê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "êto",
-  "body": "êto",
-  "description": "many"
+  "prefix": "elekê",
+  "body": "elekê",
+  "description": "cheek"
  },
  "êo": {
   "scope": "markdown,mdx,fountain",
@@ -323,11 +323,17 @@
   "body": "êo",
   "description": "causative verb particle"
  },
- "elekê": {
+ "elentêt": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "elekê",
-  "body": "elekê",
-  "description": "cheek"
+  "prefix": "elentêt",
+  "body": "elentêt",
+  "description": "opposite"
+ },
+ "êto": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "êto",
+  "body": "êto",
+  "description": "many"
  },
  "êtsô": {
   "scope": "markdown,mdx,fountain",
@@ -335,29 +341,29 @@
   "body": "êtsô",
   "description": "state/quality/attribute"
  },
- "êbôl": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "êbôl",
-  "body": "êbôl",
-  "description": "shoulder"
- },
- "êfun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "êfun",
-  "body": "êfun",
-  "description": "momentary (minute)"
- },
  "elfû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "elfû",
   "body": "elfû",
   "description": "1000 thousand"
  },
- "ênbukun": {
+ "êbôl": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ênbukun",
-  "body": "ênbukun",
-  "description": "belch/burp"
+  "prefix": "êbôl",
+  "body": "êbôl",
+  "description": "shoulder"
+ },
+ "ênkômôn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ênkômôn",
+  "body": "ênkômôn",
+  "description": "face"
+ },
+ "êfun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "êfun",
+  "body": "êfun",
+  "description": "momentary (minute)"
  },
  "êmê": {
   "scope": "markdown,mdx,fountain",
@@ -371,29 +377,17 @@
   "body": "êlêo",
   "description": "floating"
  },
- "elentêt": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "elentêt",
-  "body": "elentêt",
-  "description": "opposite"
- },
- "ênkômôn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ênkômôn",
-  "body": "ênkômôn",
-  "description": "face"
- },
  "itihos": {
   "scope": "markdown,mdx,fountain",
   "prefix": "itihos",
   "body": "itihos",
   "description": "history"
  },
- "iwotê": {
+ "ênbukun": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "iwotê",
-  "body": "iwotê",
-  "description": "tall"
+  "prefix": "ênbukun",
+  "body": "ênbukun",
+  "description": "belch/burp"
  },
  "istihol": {
   "scope": "markdown,mdx,fountain",
@@ -419,41 +413,11 @@
   "body": "îcîwû",
   "description": "hiccup/spasm"
  },
- "ilik": {
+ "iwotê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ilik",
-  "body": "ilik",
-  "description": "predecessive marker (before)"
- },
- "îcwon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "îcwon",
-  "body": "îcwon",
-  "description": "to inherit (inheritance)"
- },
- "îsîbô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "îsîbô",
-  "body": "îsîbô",
-  "description": "claw"
- },
- "îskô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "îskô",
-  "body": "îskô",
-  "description": "to drink (a drink)"
- },
- "îsbônxu": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "îsbônxu",
-  "body": "îsbônxu",
-  "description": "sponge"
- },
- "îxôlô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "îxôlô",
-  "body": "îxôlô",
-  "description": "problem"
+  "prefix": "iwotê",
+  "body": "iwotê",
+  "description": "tall"
  },
  "îsênsô": {
   "scope": "markdown,mdx,fountain",
@@ -461,11 +425,41 @@
   "body": "îsênsô",
   "description": "verb"
  },
- "îbolê": {
+ "îcwon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "îbolê",
-  "body": "îbolê",
-  "description": "enemy/foe"
+  "prefix": "îcwon",
+  "body": "îcwon",
+  "description": "to inherit (inheritance)"
+ },
+ "ilik": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ilik",
+  "body": "ilik",
+  "description": "predecessive marker (before)"
+ },
+ "îskô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "îskô",
+  "body": "îskô",
+  "description": "to drink (a drink)"
+ },
+ "îxôlô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "îxôlô",
+  "body": "îxôlô",
+  "description": "problem"
+ },
+ "îsbônxu": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "îsbônxu",
+  "body": "îsbônxu",
+  "description": "sponge"
+ },
+ "îsîbô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "îsîbô",
+  "body": "îsîbô",
+  "description": "claw"
  },
  "îbûdû": {
   "scope": "markdown,mdx,fountain",
@@ -473,23 +467,17 @@
   "body": "îbûdû",
   "description": "now"
  },
+ "îbolê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "îbolê",
+  "body": "îbolê",
+  "description": "enemy/foe"
+ },
  "îbûwê": {
   "scope": "markdown,mdx,fountain",
   "prefix": "îbûwê",
   "body": "îbûwê",
   "description": "stone"
- },
- "în": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "în",
-  "body": "în",
-  "description": "verb modifier particle"
- },
- "uklo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "uklo",
-  "body": "uklo",
-  "description": "next"
  },
  "îmon": {
   "scope": "markdown,mdx,fountain",
@@ -497,17 +485,29 @@
   "body": "îmon",
   "description": "to trust (a belief)"
  },
- "usûndul": {
+ "în": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "usûndul",
-  "body": "usûndul",
-  "description": "ugly"
+  "prefix": "în",
+  "body": "în",
+  "description": "verb modifier particle"
  },
  "înbolî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "înbolî",
   "body": "înbolî",
   "description": "flower"
+ },
+ "uklo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "uklo",
+  "body": "uklo",
+  "description": "next"
+ },
+ "uskîfo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "uskîfo",
+  "body": "uskîfo",
+  "description": "to avoid/dodge (evasion/dodge)"
  },
  "îlê": {
   "scope": "markdown,mdx,fountain",
@@ -521,11 +521,11 @@
   "body": "îlxîzuk",
   "description": "temporary"
  },
- "uskîfo": {
+ "usûndul": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "uskîfo",
-  "body": "uskîfo",
-  "description": "to avoid/dodge (evasion/dodge)"
+  "prefix": "usûndul",
+  "body": "usûndul",
+  "description": "ugly"
  },
  "ubôlni": {
   "scope": "markdown,mdx,fountain",
@@ -539,6 +539,12 @@
   "body": "ubênus",
   "description": "barely"
  },
+ "ufûlît": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ufûlît",
+  "body": "ufûlît",
+  "description": "bored"
+ },
  "umo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "umo",
@@ -551,17 +557,17 @@
   "body": "unon",
   "description": "to smell (a scent)"
  },
- "ufûlît": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ufûlît",
-  "body": "ufûlît",
-  "description": "bored"
- },
  "unbol": {
   "scope": "markdown,mdx,fountain",
   "prefix": "unbol",
   "body": "unbol",
   "description": "amber (color)"
+ },
+ "unbû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "unbû",
+  "body": "unbû",
+  "description": "arrow"
  },
  "undofôl": {
   "scope": "markdown,mdx,fountain",
@@ -581,12 +587,6 @@
   "body": "ulyô",
   "description": "medial demonstrative (that/there)"
  },
- "unbû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "unbû",
-  "body": "unbû",
-  "description": "arrow"
- },
  "ûtok": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ûtok",
@@ -599,11 +599,11 @@
   "body": "uyo",
   "description": "thing"
  },
- "ûsowo": {
+ "ûcûmî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ûsowo",
-  "body": "ûsowo",
-  "description": "balanced"
+  "prefix": "ûcûmî",
+  "body": "ûcûmî",
+  "description": "economy"
  },
  "ûsên": {
   "scope": "markdown,mdx,fountain",
@@ -617,6 +617,12 @@
   "body": "ûsmon",
   "description": "gas"
  },
+ "ûsowo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ûsowo",
+  "body": "ûsowo",
+  "description": "balanced"
+ },
  "ûslêk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ûslêk",
@@ -629,23 +635,29 @@
   "body": "ûmomî",
   "description": "savory"
  },
- "ûn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ûn",
-  "body": "ûn",
-  "description": "and"
- },
  "ûnîdû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ûnîdû",
   "body": "ûnîdû",
   "description": "joined"
  },
+ "ûn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ûn",
+  "body": "ûn",
+  "description": "and"
+ },
  "ûnhilun": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ûnhilun",
   "body": "ûnhilun",
   "description": "to surround/envelope (a surrounding/enclosure) "
+ },
+ "ûlonfû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ûlonfû",
+  "body": "ûlonfû",
+  "description": "syllable"
  },
  "ûncoî": {
   "scope": "markdown,mdx,fountain",
@@ -658,12 +670,6 @@
   "prefix": "ûnfûnô",
   "body": "ûnfûnô",
   "description": "vegetable"
- },
- "ûlonfû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ûlonfû",
-  "body": "ûlonfû",
-  "description": "syllable"
  },
  "ûlôgun": {
   "scope": "markdown,mdx,fountain",
@@ -682,12 +688,6 @@
   "prefix": "ûlkêfî",
   "body": "ûlkêfî",
   "description": "adamant/stubborn"
- },
- "ûlgûkîn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ûlgûkîn",
-  "body": "ûlgûkîn",
-  "description": "dry"
  },
  "ûlzo": {
   "scope": "markdown,mdx,fountain",
@@ -713,17 +713,29 @@
   "body": "hokîkî",
   "description": "authentic"
  },
- "hokûxi": {
+ "ûlgûkîn": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hokûxi",
-  "body": "hokûxi",
-  "description": "clapping/applauding"
+  "prefix": "ûlgûkîn",
+  "body": "ûlgûkîn",
+  "description": "dry"
  },
  "hosoûn": {
   "scope": "markdown,mdx,fountain",
   "prefix": "hosoûn",
   "body": "hosoûn",
   "description": "ratio/proportion"
+ },
+ "hokûxi": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hokûxi",
+  "body": "hokûxi",
+  "description": "clapping/applauding"
+ },
+ "hoxobê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hoxobê",
+  "body": "hoxobê",
+  "description": "beam/joist/stud"
  },
  "hosîn": {
   "scope": "markdown,mdx,fountain",
@@ -743,17 +755,11 @@
   "body": "hofo",
   "description": "to plead (a plea)"
  },
- "hoxobê": {
+ "hondon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hoxobê",
-  "body": "hoxobê",
-  "description": "beam/joist/stud"
- },
- "homûs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "homûs",
-  "body": "homûs",
-  "description": "quiet"
+  "prefix": "hondon",
+  "body": "hondon",
+  "description": "family"
  },
  "hondôt": {
   "scope": "markdown,mdx,fountain",
@@ -761,29 +767,17 @@
   "body": "hondôt",
   "description": "jealous"
  },
- "hondon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hondon",
-  "body": "hondon",
-  "description": "family"
- },
  "hôktun": {
   "scope": "markdown,mdx,fountain",
   "prefix": "hôktun",
   "body": "hôktun",
   "description": "mammal"
  },
- "hôdôkû": {
+ "homûs": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hôdôkû",
-  "body": "hôdôkû",
-  "description": "to untie (the untied)"
- },
- "hôn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hôn",
-  "body": "hôn",
-  "description": "context marker (as for/given)"
+  "prefix": "homûs",
+  "body": "homûs",
+  "description": "quiet"
  },
  "hôfezî": {
   "scope": "markdown,mdx,fountain",
@@ -791,23 +785,17 @@
   "body": "hôfezî",
   "description": "bovine"
  },
- "ûcûmî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ûcûmî",
-  "body": "ûcûmî",
-  "description": "economy"
- },
  "hôncôû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "hôncôû",
   "body": "hôncôû",
   "description": "herb"
  },
- "hônyo": {
+ "hôdôkû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hônyo",
-  "body": "hônyo",
-  "description": "wilderness"
+  "prefix": "hôdôkû",
+  "body": "hôdôkû",
+  "description": "to untie (the untied)"
  },
  "hôlûk": {
   "scope": "markdown,mdx,fountain",
@@ -815,35 +803,11 @@
   "body": "hôlûk",
   "description": "to pump (a pumpable entity)"
  },
- "henondê": {
+ "hôn": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "henondê",
-  "body": "henondê",
-  "description": "hanging"
- },
- "hêfîn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hêfîn",
-  "body": "hêfîn",
-  "description": "to understand (a concept)"
- },
- "hênêlô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hênêlô",
-  "body": "hênêlô",
-  "description": "gender"
- },
- "hêlxun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hêlxun",
-  "body": "hêlxun",
-  "description": "early"
- },
- "helgo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "helgo",
-  "body": "helgo",
-  "description": "to venerate (the venerated)"
+  "prefix": "hôn",
+  "body": "hôn",
+  "description": "context marker (as for/given)"
  },
  "hôlmo": {
   "scope": "markdown,mdx,fountain",
@@ -851,29 +815,41 @@
   "body": "hôlmo",
   "description": "dream"
  },
- "hiklihos": {
+ "hônyo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hiklihos",
-  "body": "hiklihos",
-  "description": "supernatural/miraculous"
+  "prefix": "hônyo",
+  "body": "hônyo",
+  "description": "wilderness"
  },
- "hîtnôdêt": {
+ "hêfîn": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hîtnôdêt",
-  "body": "hîtnôdêt",
-  "description": "oscillating"
+  "prefix": "hêfîn",
+  "body": "hêfîn",
+  "description": "to understand (a concept)"
  },
- "hîsmo": {
+ "henondê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hîsmo",
-  "body": "hîsmo",
-  "description": "cousin"
+  "prefix": "henondê",
+  "body": "henondê",
+  "description": "hanging"
  },
- "hitsu": {
+ "hênêlô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hitsu",
-  "body": "hitsu",
-  "description": "crack/fissure"
+  "prefix": "hênêlô",
+  "body": "hênêlô",
+  "description": "gender"
+ },
+ "helgo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "helgo",
+  "body": "helgo",
+  "description": "to venerate (the venerated)"
+ },
+ "hêlxun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hêlxun",
+  "body": "hêlxun",
+  "description": "early"
  },
  "hîskûnco": {
   "scope": "markdown,mdx,fountain",
@@ -881,11 +857,23 @@
   "body": "hîskûnco",
   "description": "language"
  },
- "hîzon": {
+ "hîtnôdêt": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hîzon",
-  "body": "hîzon",
-  "description": "excited"
+  "prefix": "hîtnôdêt",
+  "body": "hîtnôdêt",
+  "description": "oscillating"
+ },
+ "hiklihos": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hiklihos",
+  "body": "hiklihos",
+  "description": "supernatural/miraculous"
+ },
+ "hitsu": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hitsu",
+  "body": "hitsu",
+  "description": "crack/fissure"
  },
  "hîyôlî": {
   "scope": "markdown,mdx,fountain",
@@ -893,11 +881,17 @@
   "body": "hîyôlî",
   "description": "weak"
  },
- "hunzîdû": {
+ "hîzon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hunzîdû",
-  "body": "hunzîdû",
-  "description": "creak/squeak"
+  "prefix": "hîzon",
+  "body": "hîzon",
+  "description": "excited"
+ },
+ "hîsmo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hîsmo",
+  "body": "hîsmo",
+  "description": "cousin"
  },
  "hûunhu": {
   "scope": "markdown,mdx,fountain",
@@ -905,11 +899,23 @@
   "body": "hûunhu",
   "description": "mixed"
  },
+ "hunzîdû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hunzîdû",
+  "body": "hunzîdû",
+  "description": "creak/squeak"
+ },
  "hulûkô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "hulûkô",
   "body": "hulûkô",
   "description": "lightweight"
+ },
+ "hûkun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hûkun",
+  "body": "hûkun",
+  "description": "to order (a command)"
  },
  "hûkê": {
   "scope": "markdown,mdx,fountain",
@@ -917,11 +923,11 @@
   "body": "hûkê",
   "description": "to mine (ore)"
  },
- "hûkun": {
+ "hûstun": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hûkun",
-  "body": "hûkun",
-  "description": "to order (a command)"
+  "prefix": "hûstun",
+  "body": "hûstun",
+  "description": "cough"
  },
  "hûsku": {
   "scope": "markdown,mdx,fountain",
@@ -935,11 +941,29 @@
   "body": "hûdul",
   "description": "false"
  },
+ "hûwu": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hûwu",
+  "body": "hûwu",
+  "description": "egg"
+ },
+ "hûwuncul": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "hûwuncul",
+  "body": "hûwuncul",
+  "description": "plastic"
+ },
  "hûzon": {
   "scope": "markdown,mdx,fountain",
   "prefix": "hûzon",
   "body": "hûzon",
   "description": "rain"
+ },
+ "ko": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ko",
+  "body": "ko",
+  "description": "interrogative sentence ender (yes?)"
  },
  "hûnsik": {
   "scope": "markdown,mdx,fountain",
@@ -953,35 +977,11 @@
   "body": "hûnsûon",
   "description": "partner"
  },
- "hûstun": {
+ "kotilmok": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "hûstun",
-  "body": "hûstun",
-  "description": "cough"
- },
- "hûwuncul": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hûwuncul",
-  "body": "hûwuncul",
-  "description": "plastic"
- },
- "hûwu": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hûwu",
-  "body": "hûwu",
-  "description": "egg"
- },
- "hûlû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hûlû",
-  "body": "hûlû",
-  "description": "grass"
- },
- "hûlodêk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "hûlodêk",
-  "body": "hûlodêk",
-  "description": "waste"
+  "prefix": "kotilmok",
+  "body": "kotilmok",
+  "description": "participating/contributing"
  },
  "kotonhon": {
   "scope": "markdown,mdx,fountain",
@@ -989,11 +989,11 @@
   "body": "kotonhon",
   "description": "sudden/urgent"
  },
- "ko": {
+ "hûlû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "ko",
-  "body": "ko",
-  "description": "interrogative sentence ender (yes?)"
+  "prefix": "hûlû",
+  "body": "hûlû",
+  "description": "grass"
  },
  "kobût": {
   "scope": "markdown,mdx,fountain",
@@ -1001,35 +1001,17 @@
   "body": "kobût",
   "description": "broken/dysfunctional"
  },
- "kotilmok": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kotilmok",
-  "body": "kotilmok",
-  "description": "participating/contributing"
- },
- "kon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kon",
-  "body": "kon",
-  "description": "abstract verb noun particle"
- },
  "kocko": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kocko",
   "body": "kocko",
   "description": "rough"
  },
- "konxo": {
+ "hûlodêk": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "konxo",
-  "body": "konxo",
-  "description": "thankful/grateful"
- },
- "kontol": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kontol",
-  "body": "kontol",
-  "description": "to sing/play (music)"
+  "prefix": "hûlodêk",
+  "body": "hûlodêk",
+  "description": "waste"
  },
  "konbokbo": {
   "scope": "markdown,mdx,fountain",
@@ -1037,41 +1019,17 @@
   "body": "konbokbo",
   "description": "general/universal"
  },
- "kôî": {
+ "konxo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kôî",
-  "body": "kôî",
-  "description": "epistemic verb particle"
+  "prefix": "konxo",
+  "body": "konxo",
+  "description": "thankful/grateful"
  },
- "kôto": {
+ "kon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kôto",
-  "body": "kôto",
-  "description": "to talk (speech)"
- },
- "konwo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "konwo",
-  "body": "konwo",
-  "description": "rhythm/beat"
- },
- "kôkokû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kôkokû",
-  "body": "kôkokû",
-  "description": "skeleton"
- },
- "kôson": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kôson",
-  "body": "kôson",
-  "description": "to build (a construction)"
- },
- "kôtfûsu": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kôtfûsu",
-  "body": "kôtfûsu",
-  "description": "cephalapod"
+  "prefix": "kon",
+  "body": "kon",
+  "description": "abstract verb noun particle"
  },
  "kolowu": {
   "scope": "markdown,mdx,fountain",
@@ -1079,11 +1037,35 @@
   "body": "kolowu",
   "description": "art"
  },
- "kôxentê": {
+ "konwo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kôxentê",
-  "body": "kôxentê",
-  "description": "conscious"
+  "prefix": "konwo",
+  "body": "konwo",
+  "description": "rhythm/beat"
+ },
+ "kontol": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kontol",
+  "body": "kontol",
+  "description": "to sing/play (music)"
+ },
+ "kôto": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôto",
+  "body": "kôto",
+  "description": "to talk (speech)"
+ },
+ "kôkokû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôkokû",
+  "body": "kôkokû",
+  "description": "skeleton"
+ },
+ "kôî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôî",
+  "body": "kôî",
+  "description": "epistemic verb particle"
  },
  "kôs": {
   "scope": "markdown,mdx,fountain",
@@ -1091,11 +1073,23 @@
   "body": "kôs",
   "description": "to cause (an effect)"
  },
+ "kôtfûsu": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôtfûsu",
+  "body": "kôtfûsu",
+  "description": "cephalapod"
+ },
  "kôtîkôl": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kôtîkôl",
   "body": "kôtîkôl",
   "description": "hindering/detrimental"
+ },
+ "kôxentê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôxentê",
+  "body": "kôxentê",
+  "description": "conscious"
  },
  "kôsmô": {
   "scope": "markdown,mdx,fountain",
@@ -1103,17 +1097,11 @@
   "body": "kôsmô",
   "description": "space/cosmos"
  },
- "kôdus": {
+ "kôson": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kôdus",
-  "body": "kôdus",
-  "description": "sacred"
- },
- "kômû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kômû",
-  "body": "kômû",
-  "description": "horn/spike"
+  "prefix": "kôson",
+  "body": "kôson",
+  "description": "to build (a construction)"
  },
  "kônên": {
   "scope": "markdown,mdx,fountain",
@@ -1121,11 +1109,17 @@
   "body": "kônên",
   "description": "possible/likely"
  },
- "kôndonsê": {
+ "kômû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kôndonsê",
-  "body": "kôndonsê",
-  "description": "condensed/concentrated"
+  "prefix": "kômû",
+  "body": "kômû",
+  "description": "horn/spike"
+ },
+ "kôdus": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôdus",
+  "body": "kôdus",
+  "description": "sacred"
  },
  "kôndodû": {
   "scope": "markdown,mdx,fountain",
@@ -1133,17 +1127,11 @@
   "body": "kôndodû",
   "description": "to celebrate (a party)"
  },
- "kônyêc": {
+ "kôndonsê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kônyêc",
-  "body": "kônyêc",
-  "description": "ending"
- },
- "kônbo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kônbo",
-  "body": "kônbo",
-  "description": "shaking"
+  "prefix": "kôndonsê",
+  "body": "kôndonsê",
+  "description": "condensed/concentrated"
  },
  "kôntêsto": {
   "scope": "markdown,mdx,fountain",
@@ -1151,17 +1139,23 @@
   "body": "kôntêsto",
   "description": "to contend with (a contestant)"
  },
- "kôlmûdul": {
+ "kônyêc": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kôlmûdul",
-  "body": "kôlmûdul",
-  "description": "purchase"
+  "prefix": "kônyêc",
+  "body": "kônyêc",
+  "description": "ending"
  },
  "ke": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ke",
   "body": "ke",
   "description": "future verb particle"
+ },
+ "kônbo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kônbo",
+  "body": "kônbo",
+  "description": "shaking"
  },
  "kelo": {
   "scope": "markdown,mdx,fountain",
@@ -1175,17 +1169,17 @@
   "body": "kêskîn",
   "description": "sharp"
  },
+ "kôlmûdul": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kôlmûdul",
+  "body": "kôlmûdul",
+  "description": "purchase"
+ },
  "kêlôs": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kêlôs",
   "body": "kêlôs",
   "description": "weather"
- },
- "kêxîk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kêxîk",
-  "body": "kêxîk",
-  "description": "variable/unstable"
  },
  "kistosê": {
   "scope": "markdown,mdx,fountain",
@@ -1199,17 +1193,17 @@
   "body": "kilukû",
   "description": "eastern"
  },
+ "kêxîk": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kêxîk",
+  "body": "kêxîk",
+  "description": "variable/unstable"
+ },
  "kîûngô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kîûngô",
   "body": "kîûngô",
   "description": "spice"
- },
- "kîkôlô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kîkôlô",
-  "body": "kîkôlô",
-  "description": "bitter"
  },
  "kîso": {
   "scope": "markdown,mdx,fountain",
@@ -1217,11 +1211,17 @@
   "body": "kîso",
   "description": "to narrate (a story)"
  },
- "kîno": {
+ "kîkôlô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kîno",
-  "body": "kîno",
-  "description": "rhyme/verse"
+  "prefix": "kîkôlô",
+  "body": "kîkôlô",
+  "description": "bitter"
+ },
+ "kîôsô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kîôsô",
+  "body": "kîôsô",
+  "description": "athletic"
  },
  "kîskô": {
   "scope": "markdown,mdx,fountain",
@@ -1229,11 +1229,11 @@
   "body": "kîskô",
   "description": "rail/rack/bar"
  },
- "kînsê": {
+ "kîno": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kînsê",
-  "body": "kînsê",
-  "description": "15 fifteen"
+  "prefix": "kîno",
+  "body": "kîno",
+  "description": "rhyme/verse"
  },
  "kînôxî": {
   "scope": "markdown,mdx,fountain",
@@ -1241,11 +1241,11 @@
   "body": "kînôxî",
   "description": "functional"
  },
- "kînyosel": {
+ "kînsê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kînyosel",
-  "body": "kînyosel",
-  "description": "chemical"
+  "prefix": "kînsê",
+  "body": "kînsê",
+  "description": "15 fifteen"
  },
  "kînlik": {
   "scope": "markdown,mdx,fountain",
@@ -1253,11 +1253,11 @@
   "body": "kînlik",
   "description": "authorized"
  },
- "kîyô": {
+ "kînyosel": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kîyô",
-  "body": "kîyô",
-  "description": "dexterous/skillful"
+  "prefix": "kînyosel",
+  "body": "kînyosel",
+  "description": "chemical"
  },
  "kîldo": {
   "scope": "markdown,mdx,fountain",
@@ -1265,11 +1265,11 @@
   "body": "kîldo",
   "description": "long"
  },
- "kukwon": {
+ "kîyô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kukwon",
-  "body": "kukwon",
-  "description": "organ/member"
+  "prefix": "kîyô",
+  "body": "kîyô",
+  "description": "dexterous/skillful"
  },
  "kuûnmê": {
   "scope": "markdown,mdx,fountain",
@@ -1277,11 +1277,17 @@
   "body": "kuûnmê",
   "description": "technology"
  },
- "kudûdo": {
+ "kukwon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kudûdo",
-  "body": "kudûdo",
-  "description": "to harvest (a harvest)"
+  "prefix": "kukwon",
+  "body": "kukwon",
+  "description": "organ/member"
+ },
+ "kut": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kut",
+  "body": "kut",
+  "description": "01 one"
  },
  "kutin": {
   "scope": "markdown,mdx,fountain",
@@ -1289,17 +1295,17 @@
   "body": "kutin",
   "description": "difficult"
  },
+ "kudûdo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kudûdo",
+  "body": "kudûdo",
+  "description": "to harvest (a harvest)"
+ },
  "kûon": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kûon",
   "body": "kûon",
   "description": "light"
- },
- "kut": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kut",
-  "body": "kut",
-  "description": "01 one"
  },
  "kûonlôn": {
   "scope": "markdown,mdx,fountain",
@@ -1313,12 +1319,6 @@
   "body": "kûôcyo",
   "description": "state"
  },
- "kîôsô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kîôsô",
-  "body": "kîôsô",
-  "description": "athletic"
- },
  "kûu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kûu",
@@ -1331,23 +1331,11 @@
   "body": "kûôxi",
   "description": "fruit"
  },
- "kûsowî": {
+ "kûdu": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kûsowî",
-  "body": "kûsowî",
-  "description": "matter/material"
- },
- "kûmun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kûmun",
-  "body": "kûmun",
-  "description": "hole"
- },
- "kûzoû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kûzoû",
-  "body": "kûzoû",
-  "description": "awesome"
+  "prefix": "kûdu",
+  "body": "kûdu",
+  "description": "horse"
  },
  "kûkmut": {
   "scope": "markdown,mdx,fountain",
@@ -1355,23 +1343,11 @@
   "body": "kûkmut",
   "description": "cereal/grain"
  },
- "kûdu": {
+ "kûsowî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kûdu",
-  "body": "kûdu",
-  "description": "horse"
- },
- "kûnhîun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kûnhîun",
-  "body": "kûnhîun",
-  "description": "step/pace"
- },
- "kûncîen": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kûncîen",
-  "body": "kûncîen",
-  "description": "room"
+  "prefix": "kûsowî",
+  "body": "kûsowî",
+  "description": "matter/material"
  },
  "kûnontî": {
   "scope": "markdown,mdx,fountain",
@@ -1379,17 +1355,23 @@
   "body": "kûnontî",
   "description": "communication"
  },
+ "kûmun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kûmun",
+  "body": "kûmun",
+  "description": "hole"
+ },
+ "kûnhîun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kûnhîun",
+  "body": "kûnhîun",
+  "description": "step/pace"
+ },
  "kûngîyo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "kûngîyo",
   "body": "kûngîyo",
   "description": "organization/enterprise"
- },
- "kûlûnun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kûlûnun",
-  "body": "kûlûnun",
-  "description": "cage/kennel/jail/cell"
  },
  "kûnbî": {
   "scope": "markdown,mdx,fountain",
@@ -1397,17 +1379,23 @@
   "body": "kûnbî",
   "description": "scene/stage"
  },
+ "kûncîen": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kûncîen",
+  "body": "kûncîen",
+  "description": "room"
+ },
  "gos": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gos",
   "body": "gos",
   "description": "plant"
  },
- "kûldû": {
+ "kûlûnun": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "kûldû",
-  "body": "kûldû",
-  "description": "wheel"
+  "prefix": "kûlûnun",
+  "body": "kûlûnun",
+  "description": "cage/kennel/jail/cell"
  },
  "gosîl": {
   "scope": "markdown,mdx,fountain",
@@ -1415,29 +1403,17 @@
   "body": "gosîl",
   "description": "short"
  },
- "kûyô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "kûyô",
-  "body": "kûyô",
-  "description": "sad"
- },
- "gomî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gomî",
-  "body": "gomî",
-  "description": "to take (the taken)"
- },
  "gonîso": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gonîso",
   "body": "gonîso",
   "description": "to think (a thought/opinion)"
  },
- "gonzîl": {
+ "kûzoû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gonzîl",
-  "body": "gonzîl",
-  "description": "strange"
+  "prefix": "kûzoû",
+  "body": "kûzoû",
+  "description": "awesome"
  },
  "gongoxî": {
   "scope": "markdown,mdx,fountain",
@@ -1445,23 +1421,35 @@
   "body": "gongoxî",
   "description": "alarm"
  },
+ "kûyô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kûyô",
+  "body": "kûyô",
+  "description": "sad"
+ },
+ "kûldû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "kûldû",
+  "body": "kûldû",
+  "description": "wheel"
+ },
+ "gomî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gomî",
+  "body": "gomî",
+  "description": "to take (the taken)"
+ },
+ "gonzîl": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gonzîl",
+  "body": "gonzîl",
+  "description": "strange"
+ },
  "gonbu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gonbu",
   "body": "gonbu",
   "description": "leg"
- },
- "golo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "golo",
-  "body": "golo",
-  "description": "to read (a document)"
- },
- "golbinûs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "golbinûs",
-  "body": "golbinûs",
-  "description": "chartreuse"
  },
  "golun": {
   "scope": "markdown,mdx,fountain",
@@ -1469,11 +1457,11 @@
   "body": "golun",
   "description": "to respect (the respected)"
  },
- "gôcîdon": {
+ "golo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gôcîdon",
-  "body": "gôcîdon",
-  "description": "to choose (a choice)"
+  "prefix": "golo",
+  "body": "golo",
+  "description": "to read (a document)"
  },
  "golfon": {
   "scope": "markdown,mdx,fountain",
@@ -1481,11 +1469,17 @@
   "body": "golfon",
   "description": "disgusted"
  },
- "gôwo": {
+ "gô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gôwo",
-  "body": "gôwo",
-  "description": "foolish/obtuse"
+  "prefix": "gô",
+  "body": "gô",
+  "description": "existent"
+ },
+ "golbinûs": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "golbinûs",
+  "body": "golbinûs",
+  "description": "chartreuse"
  },
  "gônyumon": {
   "scope": "markdown,mdx,fountain",
@@ -1493,29 +1487,23 @@
   "body": "gônyumon",
   "description": "grunting/growling"
  },
+ "gôwo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gôwo",
+  "body": "gôwo",
+  "description": "foolish/obtuse"
+ },
+ "gôcîdon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gôcîdon",
+  "body": "gôcîdon",
+  "description": "to choose (a choice)"
+ },
  "gôyu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gôyu",
   "body": "gôyu",
   "description": "mouth"
- },
- "gôlûo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gôlûo",
-  "body": "gôlûo",
-  "description": "melted"
- },
- "gô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gô",
-  "body": "gô",
-  "description": "existent"
- },
- "gelmis": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gelmis",
-  "body": "gelmis",
-  "description": "stretched"
  },
  "gemolen": {
   "scope": "markdown,mdx,fountain",
@@ -1523,17 +1511,29 @@
   "body": "gemolen",
   "description": "milled/ground/crushed"
  },
- "gitno": {
+ "gelmis": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gitno",
-  "body": "gitno",
-  "description": "intermediative marker (between)"
+  "prefix": "gelmis",
+  "body": "gelmis",
+  "description": "stretched"
+ },
+ "gôlûo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gôlûo",
+  "body": "gôlûo",
+  "description": "melted"
  },
  "gîk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gîk",
   "body": "gîk",
   "description": "arriving"
+ },
+ "gitno": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gitno",
+  "body": "gitno",
+  "description": "intermediative marker (between)"
  },
  "gubuyo": {
   "scope": "markdown,mdx,fountain",
@@ -1547,29 +1547,17 @@
   "body": "gîto",
   "description": "line"
  },
- "gîsgûl": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gîsgûl",
-  "body": "gîsgûl",
-  "description": "step/rung"
- },
- "gûexo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gûexo",
-  "body": "gûexo",
-  "description": "war"
- },
  "gêkô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gêkô",
   "body": "gêkô",
   "description": "soil/dirt"
  },
- "gufis": {
+ "gîsgûl": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gufis",
-  "body": "gufis",
-  "description": "certain"
+  "prefix": "gîsgûl",
+  "body": "gîsgûl",
+  "description": "step/rung"
  },
  "gundolê": {
   "scope": "markdown,mdx,fountain",
@@ -1577,11 +1565,17 @@
   "body": "gundolê",
   "description": "sphere"
  },
- "gûso": {
+ "gufis": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gûso",
-  "body": "gûso",
-  "description": "angry"
+  "prefix": "gufis",
+  "body": "gufis",
+  "description": "certain"
+ },
+ "gûexo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gûexo",
+  "body": "gûexo",
+  "description": "war"
  },
  "gûêyû": {
   "scope": "markdown,mdx,fountain",
@@ -1589,17 +1583,17 @@
   "body": "gûêyû",
   "description": "eye"
  },
+ "gûso": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gûso",
+  "body": "gûso",
+  "description": "angry"
+ },
  "gûdolô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "gûdolô",
   "body": "gûdolô",
   "description": "bow (weapon)/bow (music)"
- },
- "gûmî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "gûmî",
-  "body": "gûmî",
-  "description": "rubber"
  },
  "gûfoxê": {
   "scope": "markdown,mdx,fountain",
@@ -1613,11 +1607,11 @@
   "body": "gûfîô",
   "description": "to push (the pushed/repelled)"
  },
- "gûnokol": {
+ "gûmî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gûnokol",
-  "body": "gûnokol",
-  "description": "criminal"
+  "prefix": "gûmî",
+  "body": "gûmî",
+  "description": "rubber"
  },
  "gûwolo": {
   "scope": "markdown,mdx,fountain",
@@ -1625,11 +1619,11 @@
   "body": "gûwolo",
   "description": "to scratch (the scratched)"
  },
- "toûyen": {
+ "gûnokol": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "toûyen",
-  "body": "toûyen",
-  "description": "to hate (a hated entity)"
+  "prefix": "gûnokol",
+  "body": "gûnokol",
+  "description": "criminal"
  },
  "gûlobî": {
   "scope": "markdown,mdx,fountain",
@@ -1637,17 +1631,23 @@
   "body": "gûlobî",
   "description": "pink"
  },
- "tohilôk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "tohilôk",
-  "body": "tohilôk",
-  "description": "cone"
- },
  "toû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "toû",
   "body": "toû",
   "description": "06 six"
+ },
+ "gûlû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "gûlû",
+  "body": "gûlû",
+  "description": "wound/injury"
+ },
+ "toûyen": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "toûyen",
+  "body": "toûyen",
+  "description": "to hate (a hated entity)"
  },
  "totsi": {
   "scope": "markdown,mdx,fountain",
@@ -1661,35 +1661,29 @@
   "body": "toswîl",
   "description": "to draw (a picture)"
  },
+ "tohilôk": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "tohilôk",
+  "body": "tohilôk",
+  "description": "cone"
+ },
  "tonbokcut": {
   "scope": "markdown,mdx,fountain",
   "prefix": "tonbokcut",
   "body": "tonbokcut",
   "description": "protein"
  },
- "gûlû": {
+ "towê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "gûlû",
-  "body": "gûlû",
-  "description": "wound/injury"
+  "prefix": "towê",
+  "body": "towê",
+  "description": "hair/fur/plumage"
  },
  "tolên": {
   "scope": "markdown,mdx,fountain",
   "prefix": "tolên",
   "body": "tolên",
   "description": "limb"
- },
- "toliyo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "toliyo",
-  "body": "toliyo",
-  "description": "pasta"
- },
- "towê": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "towê",
-  "body": "towê",
-  "description": "hair/fur/plumage"
  },
  "tolîko": {
   "scope": "markdown,mdx,fountain",
@@ -1709,17 +1703,29 @@
   "body": "tô",
   "description": "instrumental marker (using/with)"
  },
+ "tôxûtsi": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "tôxûtsi",
+  "body": "tôxûtsi",
+  "description": "bump"
+ },
+ "toliyo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "toliyo",
+  "body": "toliyo",
+  "description": "pasta"
+ },
  "tôcît": {
   "scope": "markdown,mdx,fountain",
   "prefix": "tôcît",
   "body": "tôcît",
   "description": "blunt"
  },
- "tôxûtsi": {
+ "tômôs": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "tôxûtsi",
-  "body": "tôxûtsi",
-  "description": "bump"
+  "prefix": "tômôs",
+  "body": "tômôs",
+  "description": "book"
  },
  "tônkô": {
   "scope": "markdown,mdx,fountain",
@@ -1732,12 +1738,6 @@
   "prefix": "tôncoî",
   "body": "tôncoî",
   "description": "sighing"
- },
- "tômôs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "tômôs",
-  "body": "tômôs",
-  "description": "book"
  },
  "tetêk": {
   "scope": "markdown,mdx,fountain",
@@ -1757,23 +1757,11 @@
   "body": "tenkîn",
   "description": "to hear (a sound)"
  },
- "telô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "telô",
-  "body": "telô",
-  "description": "13 thirteen"
- },
  "tigoyo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "tigoyo",
   "body": "tigoyo",
   "description": "supine"
- },
- "tîû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "tîû",
-  "body": "tîû",
-  "description": "05 five"
  },
  "tifûlci": {
   "scope": "markdown,mdx,fountain",
@@ -1781,11 +1769,17 @@
   "body": "tifûlci",
   "description": "creative"
  },
- "tîkêl": {
+ "tîû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "tîkêl",
-  "body": "tîkêl",
-  "description": "reflected"
+  "prefix": "tîû",
+  "body": "tîû",
+  "description": "05 five"
+ },
+ "telô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "telô",
+  "body": "telô",
+  "description": "13 thirteen"
  },
  "tîkû": {
   "scope": "markdown,mdx,fountain",
@@ -1799,11 +1793,11 @@
   "body": "tîton",
   "description": "way/path"
  },
- "tîxô": {
+ "tîkêl": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "tîxô",
-  "body": "tîxô",
-  "description": "threat"
+  "prefix": "tîkêl",
+  "body": "tîkêl",
+  "description": "reflected"
  },
  "tîmîok": {
   "scope": "markdown,mdx,fountain",
@@ -1829,11 +1823,11 @@
   "body": "tubô",
   "description": "spot/scar"
  },
- "tuluti": {
+ "tîxô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "tuluti",
-  "body": "tuluti",
-  "description": "to traverse (the traversed)"
+  "prefix": "tîxô",
+  "body": "tîxô",
+  "description": "threat"
  },
  "tûek": {
   "scope": "markdown,mdx,fountain",
@@ -1847,29 +1841,11 @@
   "body": "tûu",
   "description": "to do (an action)"
  },
- "tût": {
+ "tuluti": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "tût",
-  "body": "tût",
-  "description": "hot"
- },
- "tûlôno": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "tûlôno",
-  "body": "tûlôno",
-  "description": "comparison"
- },
- "tûndû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "tûndû",
-  "body": "tûndû",
-  "description": "bottom"
- },
- "tûlokon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "tûlokon",
-  "body": "tûlokon",
-  "description": "to adjudge (judgement)"
+  "prefix": "tuluti",
+  "body": "tuluti",
+  "description": "to traverse (the traversed)"
  },
  "cok": {
   "scope": "markdown,mdx,fountain",
@@ -1877,23 +1853,53 @@
   "body": "cok",
   "description": "departing"
  },
+ "tûndû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "tûndû",
+  "body": "tûndû",
+  "description": "bottom"
+ },
+ "tût": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "tût",
+  "body": "tût",
+  "description": "hot"
+ },
  "cokwoli": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cokwoli",
   "body": "cokwoli",
   "description": "pyramid"
  },
- "comen": {
+ "tûlokon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "comen",
-  "body": "comen",
-  "description": "lawn/meadow"
+  "prefix": "tûlokon",
+  "body": "tûlokon",
+  "description": "to adjudge (judgement)"
+ },
+ "cokyen": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cokyen",
+  "body": "cokyen",
+  "description": "almost"
+ },
+ "tûlôno": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "tûlôno",
+  "body": "tûlôno",
+  "description": "comparison"
  },
  "cosnî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cosnî",
   "body": "cosnî",
   "description": "private/confidential"
+ },
+ "comen": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "comen",
+  "body": "comen",
+  "description": "lawn/meadow"
  },
  "conzodo": {
   "scope": "markdown,mdx,fountain",
@@ -1907,17 +1913,17 @@
   "body": "conôî",
   "description": "beak"
  },
- "conwêbo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "conwêbo",
-  "body": "conwêbo",
-  "description": "to manufacture (goods)"
- },
  "colot": {
   "scope": "markdown,mdx,fountain",
   "prefix": "colot",
   "body": "colot",
   "description": "wise/clever"
+ },
+ "conwêbo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "conwêbo",
+  "body": "conwêbo",
+  "description": "to manufacture (goods)"
  },
  "côûnton": {
   "scope": "markdown,mdx,fountain",
@@ -1931,12 +1937,6 @@
   "body": "côûfon",
   "description": "to cook (a meal)"
  },
- "cokyen": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cokyen",
-  "body": "cokyen",
-  "description": "almost"
- },
  "côcko": {
   "scope": "markdown,mdx,fountain",
   "prefix": "côcko",
@@ -1949,17 +1949,23 @@
   "body": "côt",
   "description": "thick"
  },
+ "cômêl": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cômêl",
+  "body": "cômêl",
+  "description": "cute"
+ },
  "cônkôk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cônkôk",
   "body": "cônkôk",
   "description": "precise/specific"
  },
- "cômêl": {
+ "centik": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "cômêl",
-  "body": "cômêl",
-  "description": "cute"
+  "prefix": "centik",
+  "body": "centik",
+  "description": "official/formal"
  },
  "cêô": {
   "scope": "markdown,mdx,fountain",
@@ -1973,12 +1979,6 @@
   "body": "cencî",
   "description": "thin/narrow"
  },
- "centik": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "centik",
-  "body": "centik",
-  "description": "official/formal"
- },
  "cên": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cên",
@@ -1990,12 +1990,6 @@
   "prefix": "cihôû",
   "body": "cihôû",
   "description": "successive marker (after)"
- },
- "cifulo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cifulo",
-  "body": "cifulo",
-  "description": "dancing"
  },
  "cixîn": {
   "scope": "markdown,mdx,fountain",
@@ -2009,11 +2003,11 @@
   "body": "cizî",
   "description": "self"
  },
- "cifû": {
+ "cifulo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "cifû",
-  "body": "cifû",
-  "description": "to pay (payment)"
+  "prefix": "cifulo",
+  "body": "cifulo",
+  "description": "dancing"
  },
  "cênbô": {
   "scope": "markdown,mdx,fountain",
@@ -2021,17 +2015,11 @@
   "body": "cênbô",
   "description": "big"
  },
- "cino": {
+ "cifû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "cino",
-  "body": "cino",
-  "description": "charge/fee/tax"
- },
- "cingî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cingî",
-  "body": "cingî",
-  "description": "electricity"
+  "prefix": "cifû",
+  "body": "cifû",
+  "description": "to pay (payment)"
  },
  "cinôbu": {
   "scope": "markdown,mdx,fountain",
@@ -2045,6 +2033,12 @@
   "body": "cî",
   "description": "propositive sentence ender (agree?)"
  },
+ "cino": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cino",
+  "body": "cino",
+  "description": "charge/fee/tax"
+ },
  "ciwîndî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ciwîndî",
@@ -2056,6 +2050,12 @@
   "prefix": "cîes",
   "body": "cîes",
   "description": "tight/firm"
+ },
+ "cingî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cingî",
+  "body": "cingî",
+  "description": "electricity"
  },
  "cîhun": {
   "scope": "markdown,mdx,fountain",
@@ -2069,18 +2069,6 @@
   "body": "cîenxîn",
   "description": "alkaline"
  },
- "cîgîlsu": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cîgîlsu",
-  "body": "cîgîlsu",
-  "description": "treatment (medical)"
- },
- "cîbon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cîbon",
-  "body": "cîbon",
-  "description": "fat/grease"
- },
  "cîkînîl": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cîkînîl",
@@ -2093,17 +2081,11 @@
   "body": "cîtsê",
   "description": "to accuse (an accusation)"
  },
- "cukto": {
+ "cîgîlsu": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "cukto",
-  "body": "cukto",
-  "description": "to write (text)"
- },
- "cînlî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cînlî",
-  "body": "cînlî",
-  "description": "to undergo (an experience)"
+  "prefix": "cîgîlsu",
+  "body": "cîgîlsu",
+  "description": "treatment (medical)"
  },
  "cînzon": {
   "scope": "markdown,mdx,fountain",
@@ -2111,17 +2093,23 @@
   "body": "cînzon",
   "description": "nervous/anxious"
  },
- "cuncîon": {
+ "cînlî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "cuncîon",
-  "body": "cuncîon",
-  "description": "to fortify (the fortified)"
+  "prefix": "cînlî",
+  "body": "cînlî",
+  "description": "to undergo (an experience)"
  },
- "cutnê": {
+ "cîbon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "cutnê",
-  "body": "cutnê",
-  "description": "to climb (a slope)"
+  "prefix": "cîbon",
+  "body": "cîbon",
+  "description": "fat/grease"
+ },
+ "cukto": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cukto",
+  "body": "cukto",
+  "description": "to write (text)"
  },
  "cunlîû": {
   "scope": "markdown,mdx,fountain",
@@ -2129,23 +2117,35 @@
   "body": "cunlîû",
   "description": "to distill (the distilled)"
  },
+ "cutnê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cutnê",
+  "body": "cutnê",
+  "description": "to climb (a slope)"
+ },
+ "cuncîon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cuncîon",
+  "body": "cuncîon",
+  "description": "to fortify (the fortified)"
+ },
  "cunyû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cunyû",
   "body": "cunyû",
   "description": "cold"
  },
- "culono": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "culono",
-  "body": "culono",
-  "description": "to operate (a machine)"
- },
  "cûonwun": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cûonwun",
   "body": "cûonwun",
   "description": "rumor"
+ },
+ "culono": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "culono",
+  "body": "culono",
+  "description": "to operate (a machine)"
  },
  "cûî": {
   "scope": "markdown,mdx,fountain",
@@ -2171,17 +2171,17 @@
   "body": "cûdo",
   "description": "to give (a gift)"
  },
- "cûfo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "cûfo",
-  "body": "cûfo",
-  "description": "to ward (a ward)"
- },
  "cûbû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cûbû",
   "body": "cûbû",
   "description": "fermented/soured"
+ },
+ "cûfo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "cûfo",
+  "body": "cûfo",
+  "description": "to ward (a ward)"
  },
  "cûngo": {
   "scope": "markdown,mdx,fountain",
@@ -2207,6 +2207,12 @@
   "body": "cûlosun",
   "description": "to allow (the allowed)"
  },
+ "sohoû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sohoû",
+  "body": "sohoû",
+  "description": "healthy"
+ },
  "cûlûl": {
   "scope": "markdown,mdx,fountain",
   "prefix": "cûlûl",
@@ -2225,17 +2231,17 @@
   "body": "sokofû",
   "description": "floor"
  },
- "sohoû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sohoû",
-  "body": "sohoû",
-  "description": "healthy"
- },
  "sotnîn": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sotnîn",
   "body": "sotnîn",
   "description": "right"
+ },
+ "sokol": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sokol",
+  "body": "sokol",
+  "description": "awkward/clumsy"
  },
  "socok": {
   "scope": "markdown,mdx,fountain",
@@ -2249,11 +2255,11 @@
   "body": "sodolun",
   "description": "normal"
  },
- "sokol": {
+ "sodilû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sokol",
-  "body": "sokol",
-  "description": "awkward/clumsy"
+  "prefix": "sodilû",
+  "body": "sodilû",
+  "description": "loose"
  },
  "soden": {
   "scope": "markdown,mdx,fountain",
@@ -2267,11 +2273,11 @@
   "body": "sobôlê",
   "description": "to taste (a flavor)"
  },
- "sodilû": {
+ "sobûnî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sodilû",
-  "body": "sodilû",
-  "description": "loose"
+  "prefix": "sobûnî",
+  "body": "sobûnî",
+  "description": "ill/sick"
  },
  "sobis": {
   "scope": "markdown,mdx,fountain",
@@ -2284,12 +2290,6 @@
   "prefix": "sofîn",
   "body": "sofîn",
   "description": "pure"
- },
- "sobûnî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sobûnî",
-  "body": "sobûnî",
-  "description": "ill/sick"
  },
  "somo": {
   "scope": "markdown,mdx,fountain",
@@ -2315,17 +2315,17 @@
   "body": "solîlo",
   "description": "body"
  },
- "sôtûn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sôtûn",
-  "body": "sôtûn",
-  "description": "column"
- },
  "solwôc": {
   "scope": "markdown,mdx,fountain",
   "prefix": "solwôc",
   "body": "solwôc",
   "description": "top"
+ },
+ "sôtûn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sôtûn",
+  "body": "sôtûn",
+  "description": "column"
  },
  "sôhoûk": {
   "scope": "markdown,mdx,fountain",
@@ -2333,17 +2333,17 @@
   "body": "sôhoûk",
   "description": "arithmetic/math"
  },
- "sônsûs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sônsûs",
-  "body": "sônsûs",
-  "description": "endless/infinite"
- },
  "sôbo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sôbo",
   "body": "sôbo",
   "description": "side/beside"
+ },
+ "sônsûs": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sônsûs",
+  "body": "sônsûs",
+  "description": "endless/infinite"
  },
  "sôndonôs": {
   "scope": "markdown,mdx,fountain",
@@ -2363,17 +2363,17 @@
   "body": "sôltûstik",
   "description": "northern"
  },
- "sêkîton": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sêkîton",
-  "body": "sêkîton",
-  "description": "coal/cinder"
- },
  "ses": {
   "scope": "markdown,mdx,fountain",
   "prefix": "ses",
   "body": "ses",
   "description": "16 sixteen"
+ },
+ "senwic": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "senwic",
+  "body": "senwic",
+  "description": "sandwich"
  },
  "selôhô": {
   "scope": "markdown,mdx,fountain",
@@ -2381,23 +2381,17 @@
   "body": "selôhô",
   "description": "theme/topic"
  },
- "sêmoi": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sêmoi",
-  "body": "sêmoi",
-  "description": "heaven"
- },
  "sêkî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sêkî",
   "body": "sêkî",
   "description": "genitalia"
  },
- "sêl": {
+ "sêkîton": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sêl",
-  "body": "sêl",
-  "description": "down"
+  "prefix": "sêkîton",
+  "body": "sêkîton",
+  "description": "coal/cinder"
  },
  "sêdu": {
   "scope": "markdown,mdx,fountain",
@@ -2405,11 +2399,11 @@
   "body": "sêdu",
   "description": "station/garage"
  },
- "sêlbô": {
+ "sêmoi": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sêlbô",
-  "body": "sêlbô",
-  "description": "yellow"
+  "prefix": "sêmoi",
+  "body": "sêmoi",
+  "description": "heaven"
  },
  "sênzô": {
   "scope": "markdown,mdx,fountain",
@@ -2417,11 +2411,17 @@
   "body": "sênzô",
   "description": "ancestral"
  },
- "sinsî": {
+ "sêl": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sinsî",
-  "body": "sinsî",
-  "description": "town/city"
+  "prefix": "sêl",
+  "body": "sêl",
+  "description": "down"
+ },
+ "sêlbô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sêlbô",
+  "body": "sêlbô",
+  "description": "yellow"
  },
  "siskin": {
   "scope": "markdown,mdx,fountain",
@@ -2429,17 +2429,17 @@
   "body": "siskin",
   "description": "sibling"
  },
- "sîêtô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sîêtô",
-  "body": "sîêtô",
-  "description": "plate"
- },
  "sityo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sityo",
   "body": "sityo",
   "description": "to sit on (a seat)"
+ },
+ "sinsî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sinsî",
+  "body": "sinsî",
+  "description": "town/city"
  },
  "sî": {
   "scope": "markdown,mdx,fountain",
@@ -2453,6 +2453,12 @@
   "body": "sîokbî",
   "description": "facility/equipment"
  },
+ "sîêtô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sîêtô",
+  "body": "sîêtô",
+  "description": "plate"
+ },
  "sîûfo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sîûfo",
@@ -2465,17 +2471,11 @@
   "body": "sîkot",
   "description": "brush/comb/rake/broom"
  },
- "sîntokmo": {
+ "sîkîn": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sîntokmo",
-  "body": "sîntokmo",
-  "description": "phrase"
- },
- "sukyunik": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sukyunik",
-  "body": "sukyunik",
-  "description": "mucus"
+  "prefix": "sîkîn",
+  "body": "sîkîn",
+  "description": "event"
  },
  "sînêxîs": {
   "scope": "markdown,mdx,fountain",
@@ -2483,17 +2483,29 @@
   "body": "sînêxîs",
   "description": "constant/stable"
  },
- "sîkîn": {
+ "sîntokmo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sîkîn",
-  "body": "sîkîn",
-  "description": "event"
+  "prefix": "sîntokmo",
+  "body": "sîntokmo",
+  "description": "phrase"
  },
  "suhot": {
   "scope": "markdown,mdx,fountain",
   "prefix": "suhot",
   "body": "suhot",
   "description": "hour"
+ },
+ "sukyunik": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sukyunik",
+  "body": "sukyunik",
+  "description": "mucus"
+ },
+ "sumon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sumon",
+  "body": "sumon",
+  "description": "equal/same"
  },
  "sufoûn": {
   "scope": "markdown,mdx,fountain",
@@ -2507,23 +2519,17 @@
   "body": "sundîbot",
   "description": "arthropod"
  },
- "sunyotnî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sunyotnî",
-  "body": "sunyotnî",
-  "description": "interested/amused"
- },
- "sumon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "sumon",
-  "body": "sumon",
-  "description": "equal/same"
- },
  "sunbûlno": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sunbûlno",
   "body": "sunbûlno",
   "description": "flawless"
+ },
+ "sunyotnî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sunyotnî",
+  "body": "sunyotnî",
+  "description": "interested/amused"
  },
  "sûôxic": {
   "scope": "markdown,mdx,fountain",
@@ -2537,6 +2543,12 @@
   "body": "sûît",
   "description": "sweet"
  },
+ "sûko": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sûko",
+  "body": "sûko",
+  "description": "to like (a preference)"
+ },
  "sûtûô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sûtûô",
@@ -2549,11 +2561,11 @@
   "body": "sûsôn",
   "description": "layer"
  },
- "sûko": {
+ "xoînbo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sûko",
-  "body": "sûko",
-  "description": "to like (a preference)"
+  "prefix": "xoînbo",
+  "body": "xoînbo",
+  "description": "seeming"
  },
  "sûbôl": {
   "scope": "markdown,mdx,fountain",
@@ -2561,17 +2573,17 @@
   "body": "sûbôl",
   "description": "fertile/productive"
  },
+ "sûn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "sûn",
+  "body": "sûn",
+  "description": "ablative marker (from)"
+ },
  "sûnbîdû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "sûnbîdû",
   "body": "sûnbîdû",
   "description": "drone/buzz/hum"
- },
- "xoînbo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xoînbo",
-  "body": "xoînbo",
-  "description": "seeming"
  },
  "xohofec": {
   "scope": "markdown,mdx,fountain",
@@ -2585,11 +2597,11 @@
   "body": "xokôn",
   "description": "each"
  },
- "sûn": {
+ "xokûlû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "sûn",
-  "body": "sûn",
-  "description": "ablative marker (from)"
+  "prefix": "xokûlû",
+  "body": "xokûlû",
+  "description": "to invite (an invitation)"
  },
  "xobo": {
   "scope": "markdown,mdx,fountain",
@@ -2597,11 +2609,11 @@
   "body": "xobo",
   "description": "to strike (the stricken) "
  },
- "xokûlû": {
+ "xofô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "xokûlû",
-  "body": "xokûlû",
-  "description": "to invite (an invitation)"
+  "prefix": "xofô",
+  "body": "xofô",
+  "description": "guts"
  },
  "xobêk": {
   "scope": "markdown,mdx,fountain",
@@ -2609,23 +2621,17 @@
   "body": "xobêk",
   "description": "previous"
  },
- "xontûn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xontûn",
-  "body": "xontûn",
-  "description": "to provoke (a provocation)"
- },
  "xonluk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xonluk",
   "body": "xonluk",
   "description": "young"
  },
- "xofô": {
+ "xontûn": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "xofô",
-  "body": "xofô",
-  "description": "guts"
+  "prefix": "xontûn",
+  "body": "xontûn",
+  "description": "to provoke (a provocation)"
  },
  "xowosê": {
   "scope": "markdown,mdx,fountain",
@@ -2633,17 +2639,17 @@
   "body": "xowosê",
   "description": "happy"
  },
- "xolxîlî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xolxîlî",
-  "body": "xolxîlî",
-  "description": "teal"
- },
  "xolu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xolu",
   "body": "xolu",
   "description": "bowl/cup"
+ },
+ "xolxîlî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xolxîlî",
+  "body": "xolxîlî",
+  "description": "teal"
  },
  "xôboî": {
   "scope": "markdown,mdx,fountain",
@@ -2657,12 +2663,6 @@
   "body": "xômûtlô",
   "description": "ocean"
  },
- "xe": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xe",
-  "body": "xe",
-  "description": "subjective subordinate clause particle"
- },
  "xôn": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xôn",
@@ -2674,6 +2674,12 @@
   "prefix": "xecînoc",
   "body": "xecînoc",
   "description": "crossed/intersected"
+ },
+ "xe": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xe",
+  "body": "xe",
+  "description": "subjective subordinate clause particle"
  },
  "xefîzec": {
   "scope": "markdown,mdx,fountain",
@@ -2687,6 +2693,12 @@
   "body": "xemêtsen",
   "description": "noun"
  },
+ "xêntîl": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xêntîl",
+  "body": "xêntîl",
+  "description": "gentle/kind"
+ },
  "xêtî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xêtî",
@@ -2699,23 +2711,11 @@
   "body": "xifon",
   "description": "fungus"
  },
- "xêntîl": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xêntîl",
-  "body": "xêntîl",
-  "description": "gentle/kind"
- },
  "xingô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xingô",
   "body": "xingô",
   "description": "neck/throat"
- },
- "xîûlo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xîûlo",
-  "body": "xîûlo",
-  "description": "hiss/fizz/whistle"
  },
  "xîûfû": {
   "scope": "markdown,mdx,fountain",
@@ -2723,23 +2723,17 @@
   "body": "xîûfû",
   "description": "to repair (the repaired)"
  },
+ "xîûlo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xîûlo",
+  "body": "xîûlo",
+  "description": "hiss/fizz/whistle"
+ },
  "xîkô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xîkô",
   "body": "xîkô",
   "description": "flying"
- },
- "xîsû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xîsû",
-  "body": "xîsû",
-  "description": "secular/profane/worldly"
- },
- "xîmol": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xîmol",
-  "body": "xîmol",
-  "description": "left"
  },
  "xîxulko": {
   "scope": "markdown,mdx,fountain",
@@ -2747,29 +2741,29 @@
   "body": "xîxulko",
   "description": "pinecone"
  },
+ "xîsû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xîsû",
+  "body": "xîsû",
+  "description": "secular/profane/worldly"
+ },
+ "xîdêtlî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xîdêtlî",
+  "body": "xîdêtlî",
+  "description": "strict"
+ },
+ "xîmol": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xîmol",
+  "body": "xîmol",
+  "description": "left"
+ },
  "xîmu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "xîmu",
   "body": "xîmu",
   "description": "water"
- },
- "xîyôcû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xîyôcû",
-  "body": "xîyôcû",
-  "description": "occupied/engaged/busy"
- },
- "xîncûon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xîncûon",
-  "body": "xîncûon",
-  "description": "shape/form"
- },
- "xulmindo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xulmindo",
-  "body": "xulmindo",
-  "description": "ashamed"
  },
  "xîwon": {
   "scope": "markdown,mdx,fountain",
@@ -2777,11 +2771,23 @@
   "body": "xîwon",
   "description": "to hope/wish (a hope/wish)"
  },
- "xûto": {
+ "xîncûon": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "xûto",
-  "body": "xûto",
-  "description": "river"
+  "prefix": "xîncûon",
+  "body": "xîncûon",
+  "description": "shape/form"
+ },
+ "xîyôcû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xîyôcû",
+  "body": "xîyôcû",
+  "description": "occupied/engaged/busy"
+ },
+ "xulmindo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "xulmindo",
+  "body": "xulmindo",
+  "description": "ashamed"
  },
  "xûk": {
   "scope": "markdown,mdx,fountain",
@@ -2789,11 +2795,11 @@
   "body": "xûk",
   "description": "sort/type"
  },
- "xûnyu": {
+ "xûto": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "xûnyu",
-  "body": "xûnyu",
-  "description": "00 zero"
+  "prefix": "xûto",
+  "body": "xûto",
+  "description": "river"
  },
  "xûsten": {
   "scope": "markdown,mdx,fountain",
@@ -2819,17 +2825,11 @@
   "body": "doîcêl",
   "description": "to capture/intercept (the captured/intercepted)"
  },
- "doho": {
+ "xûnyu": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "doho",
-  "body": "doho",
-  "description": "to sacrifice (an offering)"
- },
- "dokdogo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "dokdogo",
-  "body": "dokdogo",
-  "description": "to tickle (the tickled)"
+  "prefix": "xûnyu",
+  "body": "xûnyu",
+  "description": "00 zero"
  },
  "doînbî": {
   "scope": "markdown,mdx,fountain",
@@ -2837,11 +2837,11 @@
   "body": "doînbî",
   "description": "ticket/pass"
  },
- "doknû": {
+ "doho": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "doknû",
-  "body": "doknû",
-  "description": "to cover (the covered)"
+  "prefix": "doho",
+  "body": "doho",
+  "description": "to sacrifice (an offering)"
  },
  "dohîl": {
   "scope": "markdown,mdx,fountain",
@@ -2849,11 +2849,17 @@
   "body": "dohîl",
   "description": "shallow"
  },
- "dodê": {
+ "dokdogo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dodê",
-  "body": "dodê",
-  "description": "diving"
+  "prefix": "dokdogo",
+  "body": "dokdogo",
+  "description": "to tickle (the tickled)"
+ },
+ "doknû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "doknû",
+  "body": "doknû",
+  "description": "to cover (the covered)"
  },
  "dodôû": {
   "scope": "markdown,mdx,fountain",
@@ -2861,11 +2867,11 @@
   "body": "dodôû",
   "description": "to bet (a bet)"
  },
- "dôcuî": {
+ "dodê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dôcuî",
-  "body": "dôcuî",
-  "description": "toy"
+  "prefix": "dodê",
+  "body": "dodê",
+  "description": "diving"
  },
  "dondun": {
   "scope": "markdown,mdx,fountain",
@@ -2873,23 +2879,23 @@
   "body": "dondun",
   "description": "traditional"
  },
- "dôstoc": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "dôstoc",
-  "body": "dôstoc",
-  "description": "to receive (the received)"
- },
  "dôkcon": {
   "scope": "markdown,mdx,fountain",
   "prefix": "dôkcon",
   "body": "dôkcon",
   "description": "decent"
  },
- "deku": {
+ "dôstoc": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "deku",
-  "body": "deku",
-  "description": "ceiling"
+  "prefix": "dôstoc",
+  "body": "dôstoc",
+  "description": "to receive (the received)"
+ },
+ "dôcuî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "dôcuî",
+  "body": "dôcuî",
+  "description": "toy"
  },
  "dônûs": {
   "scope": "markdown,mdx,fountain",
@@ -2897,11 +2903,11 @@
   "body": "dônûs",
   "description": "pig"
  },
- "dêtoî": {
+ "deku": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dêtoî",
-  "body": "dêtoî",
-  "description": "detail"
+  "prefix": "deku",
+  "body": "deku",
+  "description": "ceiling"
  },
  "dônûxin": {
   "scope": "markdown,mdx,fountain",
@@ -2909,11 +2915,11 @@
   "body": "dônûxin",
   "description": "conversion"
  },
- "dên": {
+ "dêtoî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dên",
-  "body": "dên",
-  "description": "oppositive marker (against)"
+  "prefix": "dêtoî",
+  "body": "dêtoî",
+  "description": "detail"
  },
  "dêko": {
   "scope": "markdown,mdx,fountain",
@@ -2921,23 +2927,23 @@
   "body": "dêko",
   "description": "to see (a view)"
  },
- "dênêmêk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "dênêmêk",
-  "body": "dênêmêk",
-  "description": "to try (a trial)"
- },
  "dês": {
   "scope": "markdown,mdx,fountain",
   "prefix": "dês",
   "body": "dês",
   "description": "negatitive verb modifier particle"
  },
- "dîdôzû": {
+ "dên": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dîdôzû",
-  "body": "dîdôzû",
-  "description": "neutral"
+  "prefix": "dên",
+  "body": "dên",
+  "description": "oppositive marker (against)"
+ },
+ "dênêmêk": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "dênêmêk",
+  "body": "dênêmêk",
+  "description": "to try (a trial)"
  },
  "dibo": {
   "scope": "markdown,mdx,fountain",
@@ -2945,29 +2951,35 @@
   "body": "dibo",
   "description": "container"
  },
- "dîzel": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "dîzel",
-  "body": "dîzel",
-  "description": "other"
- },
  "dî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "dî",
   "body": "dî",
   "description": "to become (a trait)"
  },
- "dînzoû": {
+ "dîdôzû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dînzoû",
-  "body": "dînzoû",
-  "description": "lip/rim/edge"
+  "prefix": "dîdôzû",
+  "body": "dîdôzû",
+  "description": "neutral"
+ },
+ "dîzel": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "dîzel",
+  "body": "dîzel",
+  "description": "other"
  },
  "dîncî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "dîncî",
   "body": "dîncî",
   "description": "block"
+ },
+ "dînzoû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "dînzoû",
+  "body": "dînzoû",
+  "description": "lip/rim/edge"
  },
  "dîyondê": {
   "scope": "markdown,mdx,fountain",
@@ -2981,17 +2993,17 @@
   "body": "dîlê",
   "description": "slow"
  },
- "dukwêlit": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "dukwêlit",
-  "body": "dukwêlit",
-  "description": "returning"
- },
  "duûhon": {
   "scope": "markdown,mdx,fountain",
   "prefix": "duûhon",
   "body": "duûhon",
   "description": "to surrender (the surrendered)"
+ },
+ "dukwêlit": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "dukwêlit",
+  "body": "dukwêlit",
+  "description": "returning"
  },
  "dus": {
   "scope": "markdown,mdx,fountain",
@@ -3035,29 +3047,29 @@
   "body": "dûstu",
   "description": "to measure (the measured)"
  },
- "zohît": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zohît",
-  "body": "zohît",
-  "description": "to sew (the sewn)"
- },
  "dûbono": {
   "scope": "markdown,mdx,fountain",
   "prefix": "dûbono",
   "body": "dûbono",
   "description": "to immerse (the immersed)"
  },
- "dûndon": {
+ "zohît": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "dûndon",
-  "body": "dûndon",
-  "description": "correct"
+  "prefix": "zohît",
+  "body": "zohît",
+  "description": "to sew (the sewn)"
  },
  "dûngo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "dûngo",
   "body": "dûngo",
   "description": "to pierce (the pierced)"
+ },
+ "dûndon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "dûndon",
+  "body": "dûndon",
+  "description": "correct"
  },
  "zoso": {
   "scope": "markdown,mdx,fountain",
@@ -3077,6 +3089,12 @@
   "body": "zomo",
   "description": "group"
  },
+ "zonûbî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "zonûbî",
+  "body": "zonûbî",
+  "description": "southern"
+ },
  "zomûnî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zomûnî",
@@ -3088,12 +3106,6 @@
   "prefix": "zomî",
   "body": "zomî",
   "description": "society/culture"
- },
- "zonûbî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zonûbî",
-  "body": "zonûbî",
-  "description": "southern"
  },
  "zonwul": {
   "scope": "markdown,mdx,fountain",
@@ -3131,17 +3143,17 @@
   "body": "zôhûn",
   "description": "nutrient"
  },
- "zôgoc": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zôgoc",
-  "body": "zôgoc",
-  "description": "pitch/tar"
- },
  "zôtêstô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zôtêstô",
   "body": "zôtêstô",
   "description": "sufficient/enough"
+ },
+ "zôgoc": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "zôgoc",
+  "body": "zôgoc",
+  "description": "pitch/tar"
  },
  "ze": {
   "scope": "markdown,mdx,fountain",
@@ -3149,29 +3161,29 @@
   "body": "ze",
   "description": "aggressive/emotional sentence ender"
  },
- "zelen": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zelen",
-  "body": "zelen",
-  "description": "upcoming"
- },
  "zêsto": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zêsto",
   "body": "zêsto",
   "description": "feat/achievement/heroic deed"
  },
- "zik": {
+ "zelen": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "zik",
-  "body": "zik",
-  "description": "what"
+  "prefix": "zelen",
+  "body": "zelen",
+  "description": "upcoming"
  },
  "zênsî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zênsî",
   "body": "zênsî",
   "description": "sexual"
+ },
+ "zik": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "zik",
+  "body": "zik",
+  "description": "what"
  },
  "zizime": {
   "scope": "markdown,mdx,fountain",
@@ -3185,12 +3197,6 @@
   "body": "zinkon",
   "description": "door"
  },
- "ziyôn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "ziyôn",
-  "body": "ziyôn",
-  "description": "14 fourteen"
- },
  "zîgîl": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zîgîl",
@@ -3203,6 +3209,12 @@
   "body": "zîcoû",
   "description": "to train (a skill/ability)"
  },
+ "zîzîyo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "zîzîyo",
+  "body": "zîzîyo",
+  "description": "tendon/root"
+ },
  "zîxîtû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zîxîtû",
@@ -3214,12 +3226,6 @@
   "prefix": "zîngu",
   "body": "zîngu",
   "description": "orange"
- },
- "zîzîyo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zîzîyo",
-  "body": "zîzîyo",
-  "description": "tendon/root"
  },
  "zîwit": {
   "scope": "markdown,mdx,fountain",
@@ -3245,23 +3251,29 @@
   "body": "zusbot",
   "description": "emotion"
  },
+ "ziyôn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "ziyôn",
+  "body": "ziyôn",
+  "description": "14 fourteen"
+ },
  "zuwobû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zuwobû",
   "body": "zuwobû",
   "description": "to answer [with] (a response)"
  },
- "zûtô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zûtô",
-  "body": "zûtô",
-  "description": "to regret (a regret)"
- },
  "zûhu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "zûhu",
   "body": "zûhu",
   "description": "tongue"
+ },
+ "zûtô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "zûtô",
+  "body": "zûtô",
+  "description": "to regret (a regret)"
  },
  "zûngô": {
   "scope": "markdown,mdx,fountain",
@@ -3281,17 +3293,17 @@
   "body": "zûnlo",
   "description": "series/sentence"
  },
- "zûyi": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "zûyi",
-  "body": "zûyi",
-  "description": "to spot/notice (the spotted/noticed)"
- },
  "boit": {
   "scope": "markdown,mdx,fountain",
   "prefix": "boit",
   "body": "boit",
   "description": "256 byte"
+ },
+ "zûyi": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "zûyi",
+  "body": "zûyi",
+  "description": "to spot/notice (the spotted/noticed)"
  },
  "boîfôn": {
   "scope": "markdown,mdx,fountain",
@@ -3299,17 +3311,17 @@
   "body": "boîfôn",
   "description": "to emit (excreta)"
  },
- "boholon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "boholon",
-  "body": "boholon",
-  "description": "closet/cupboard/cabinet"
- },
  "bogô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "bogô",
   "body": "bogô",
   "description": "luck"
+ },
+ "boholon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "boholon",
+  "body": "boholon",
+  "description": "closet/cupboard/cabinet"
  },
  "botuk": {
   "scope": "markdown,mdx,fountain",
@@ -3317,17 +3329,17 @@
   "body": "botuk",
   "description": "flat"
  },
- "bostofîs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bostofîs",
-  "body": "bostofîs",
-  "description": "representative/delegate"
- },
  "botyoto": {
   "scope": "markdown,mdx,fountain",
   "prefix": "botyoto",
   "body": "botyoto",
   "description": "responsible"
+ },
+ "bostofîs": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bostofîs",
+  "body": "bostofîs",
+  "description": "representative/delegate"
  },
  "boxô": {
   "scope": "markdown,mdx,fountain",
@@ -3353,17 +3365,17 @@
   "body": "bomoge",
   "description": "prone"
  },
- "bono": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bono",
-  "body": "bono",
-  "description": "facing/pointing"
- },
  "bonôxo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "bonôxo",
   "body": "bonôxo",
   "description": "violet"
+ },
+ "bono": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bono",
+  "body": "bono",
+  "description": "facing/pointing"
  },
  "bongôsî": {
   "scope": "markdown,mdx,fountain",
@@ -3389,6 +3401,12 @@
   "body": "bolutê",
   "description": "foreign"
  },
+ "bolce": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bolce",
+  "body": "bolce",
+  "description": "cloth/fabric"
+ },
  "boyok": {
   "scope": "markdown,mdx,fountain",
   "prefix": "boyok",
@@ -3400,12 +3418,6 @@
   "prefix": "bôkôfoc",
   "body": "bôkôfoc",
   "description": "to block (the blocked)"
- },
- "bolce": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bolce",
-  "body": "bolce",
-  "description": "cloth/fabric"
  },
  "bôkbûn": {
   "scope": "markdown,mdx,fountain",
@@ -3425,17 +3437,17 @@
   "body": "bôsol",
   "description": "to form a pose (a position)"
  },
- "bônti": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bônti",
-  "body": "bônti",
-  "description": "bridge"
- },
  "bôlfêlê": {
   "scope": "markdown,mdx,fountain",
   "prefix": "bôlfêlê",
   "body": "bôlfêlê",
   "description": "powder"
+ },
+ "bônti": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bônti",
+  "body": "bônti",
+  "description": "bridge"
  },
  "betîdo": {
   "scope": "markdown,mdx,fountain",
@@ -3563,17 +3575,17 @@
   "body": "bîcûon",
   "description": "tired/exhausted"
  },
- "bîsû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bîsû",
-  "body": "bîsû",
-  "description": "nonbinary/queer"
- },
  "bîbôk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "bîbôk",
   "body": "bîbôk",
   "description": "white"
+ },
+ "bîsû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bîsû",
+  "body": "bîsû",
+  "description": "nonbinary/queer"
  },
  "bînê": {
   "scope": "markdown,mdx,fountain",
@@ -3611,6 +3623,12 @@
   "body": "but",
   "description": "open"
  },
+ "bucono": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bucono",
+  "body": "bucono",
+  "description": "to save/rescue (the saved/rescued)"
+ },
  "buswen": {
   "scope": "markdown,mdx,fountain",
   "prefix": "buswen",
@@ -3622,12 +3640,6 @@
   "prefix": "buswêlin",
   "body": "buswêlin",
   "description": "oath/incantation"
- },
- "bucono": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bucono",
-  "body": "bucono",
-  "description": "to save/rescue (the saved/rescued)"
  },
  "bunxin": {
   "scope": "markdown,mdx,fountain",
@@ -3641,17 +3653,17 @@
   "body": "bundu",
   "description": "closed"
  },
- "buyencok": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "buyencok",
-  "body": "buyencok",
-  "description": "arachnid"
- },
  "bûîhî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "bûîhî",
   "body": "bûîhî",
   "description": "timid/shy"
+ },
+ "buyencok": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "buyencok",
+  "body": "buyencok",
+  "description": "arachnid"
  },
  "bûgot": {
   "scope": "markdown,mdx,fountain",
@@ -3659,17 +3671,17 @@
   "body": "bûgot",
   "description": "heavy"
  },
- "bûslû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bûslû",
-  "body": "bûslû",
-  "description": "translucent"
- },
  "bûsin": {
   "scope": "markdown,mdx,fountain",
   "prefix": "bûsin",
   "body": "bûsin",
   "description": "dizzy"
+ },
+ "bûslû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bûslû",
+  "body": "bûslû",
+  "description": "translucent"
  },
  "bûdogo": {
   "scope": "markdown,mdx,fountain",
@@ -3701,29 +3713,17 @@
   "body": "bûntût",
   "description": "tail"
  },
- "bûndûkî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bûndûkî",
-  "body": "bûndûkî",
-  "description": "gun"
- },
  "foût": {
   "scope": "markdown,mdx,fountain",
   "prefix": "foût",
   "body": "foût",
   "description": "error"
  },
- "bûlûsî": {
+ "bûndûkî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "bûlûsî",
-  "body": "bûlûsî",
-  "description": "reptile"
- },
- "bûlo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "bûlo",
-  "body": "bûlo",
-  "description": "brown"
+  "prefix": "bûndûkî",
+  "body": "bûndûkî",
+  "description": "gun"
  },
  "fohoso": {
   "scope": "markdown,mdx,fountain",
@@ -3736,6 +3736,18 @@
   "prefix": "foko",
   "body": "foko",
   "description": "causative agentive verb noun particle"
+ },
+ "bûlûsî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bûlûsî",
+  "body": "bûlûsî",
+  "description": "reptile"
+ },
+ "bûlo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "bûlo",
+  "body": "bûlo",
+  "description": "brown"
  },
  "foxo": {
   "scope": "markdown,mdx,fountain",
@@ -3767,23 +3779,17 @@
   "body": "fonfûk",
   "description": "complex/complicated"
  },
- "fonmot": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fonmot",
-  "body": "fonmot",
-  "description": "absent/nonexistent"
- },
  "folo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "folo",
   "body": "folo",
   "description": "atom"
  },
- "fôhon": {
+ "fonmot": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "fôhon",
-  "body": "fôhon",
-  "description": "front/forward"
+  "prefix": "fonmot",
+  "body": "fonmot",
+  "description": "absent/nonexistent"
  },
  "fôgîcîn": {
   "scope": "markdown,mdx,fountain",
@@ -3791,17 +3797,17 @@
   "body": "fôgîcîn",
   "description": "curious/inquisitive"
  },
- "fôlun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fôlun",
-  "body": "fôlun",
-  "description": "to want (a desire)"
- },
  "fôdoloc": {
   "scope": "markdown,mdx,fountain",
   "prefix": "fôdoloc",
   "body": "fôdoloc",
   "description": "algae/moss"
+ },
+ "fôhon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fôhon",
+  "body": "fôhon",
+  "description": "front/forward"
  },
  "fôlnî": {
   "scope": "markdown,mdx,fountain",
@@ -3814,6 +3820,12 @@
   "prefix": "fecko",
   "body": "fecko",
   "description": "liquid"
+ },
+ "fôlun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fôlun",
+  "body": "fôlun",
+  "description": "to want (a desire)"
  },
  "fenûo": {
   "scope": "markdown,mdx,fountain",
@@ -3857,12 +3869,6 @@
   "body": "fiyûxît",
   "description": "to employ (the employed)"
  },
- "fîectu": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fîectu",
-  "body": "fîectu",
-  "description": "simple/basic"
- },
  "fîkî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "fîkî",
@@ -3874,6 +3880,12 @@
   "prefix": "fîtîkôs",
   "body": "fîtîkôs",
   "description": "western"
+ },
+ "fîectu": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fîectu",
+  "body": "fîectu",
+  "description": "simple/basic"
  },
  "fîcwo": {
   "scope": "markdown,mdx,fountain",
@@ -3887,17 +3899,17 @@
   "body": "fîzî",
   "description": "to bury (the buried)"
  },
- "fîmôsyôs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fîmôsyôs",
-  "body": "fîmôsyôs",
-  "description": "public/communal"
- },
  "fîlo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "fîlo",
   "body": "fîlo",
   "description": "row"
+ },
+ "fîmôsyôs": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fîmôsyôs",
+  "body": "fîmôsyôs",
+  "description": "public/communal"
  },
  "fîyên": {
   "scope": "markdown,mdx,fountain",
@@ -3905,29 +3917,23 @@
   "body": "fîyên",
   "description": "100 hundred"
  },
- "xîdêtlî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "xîdêtlî",
-  "body": "xîdêtlî",
-  "description": "strict"
- },
  "fuî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "fuî",
   "body": "fuî",
   "description": "to have (a possession)"
  },
- "fun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fun",
-  "body": "fun",
-  "description": "fraction"
- },
  "funsût": {
   "scope": "markdown,mdx,fountain",
   "prefix": "funsût",
   "body": "funsût",
   "description": "defeated"
+ },
+ "fun": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fun",
+  "body": "fun",
+  "description": "fraction"
  },
  "funlît": {
   "scope": "markdown,mdx,fountain",
@@ -3941,17 +3947,17 @@
   "body": "fulkôî",
   "description": "to rub (the rubbed)"
  },
+ "fûongok": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fûongok",
+  "body": "fûongok",
+  "description": "illusion"
+ },
  "fûus": {
   "scope": "markdown,mdx,fountain",
   "prefix": "fûus",
   "body": "fûus",
   "description": "wax"
- },
- "fûxûbîn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fûxûbîn",
-  "body": "fûxûbîn",
-  "description": "accessory"
  },
  "fûtsûn": {
   "scope": "markdown,mdx,fountain",
@@ -3959,17 +3965,17 @@
   "body": "fûtsûn",
   "description": "to obey (a rule)"
  },
- "fûongok": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "fûongok",
-  "body": "fûongok",
-  "description": "illusion"
- },
  "fûkûxi": {
   "scope": "markdown,mdx,fountain",
   "prefix": "fûkûxi",
   "body": "fûkûxi",
   "description": "revenge/vengeance"
+ },
+ "fûxûbîn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "fûxûbîn",
+  "body": "fûxûbîn",
+  "description": "accessory"
  },
  "fûnbô": {
   "scope": "markdown,mdx,fountain",
@@ -3982,6 +3988,12 @@
   "prefix": "fûnbêtsi",
   "body": "fûnbêtsi",
   "description": "prudent/sensible"
+ },
+ "mokon": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "mokon",
+  "body": "mokon",
+  "description": "to eat (food)"
  },
  "fûnlôk": {
   "scope": "markdown,mdx,fountain",
@@ -4001,23 +4013,11 @@
   "body": "motsi",
   "description": "to await (an expectation)"
  },
- "mokon": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mokon",
-  "body": "mokon",
-  "description": "to eat (food)"
- },
  "mocko": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mocko",
   "body": "mocko",
   "description": "cat"
- },
- "moxo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "moxo",
-  "body": "moxo",
-  "description": "decorative/ornamental"
  },
  "moskûl": {
   "scope": "markdown,mdx,fountain",
@@ -4025,17 +4025,23 @@
   "body": "moskûl",
   "description": "male"
  },
+ "moxo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "moxo",
+  "body": "moxo",
+  "description": "decorative/ornamental"
+ },
+ "mozîkô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "mozîkô",
+  "body": "mozîkô",
+  "description": "magical"
+ },
  "mozulis": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mozulis",
   "body": "mozulis",
   "description": "council/court/meeting"
- },
- "mozûn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mozûn",
-  "body": "mozûn",
-  "description": "cream/paste"
  },
  "momokî": {
   "scope": "markdown,mdx,fountain",
@@ -4043,17 +4049,17 @@
   "body": "momokî",
   "description": "surprised"
  },
+ "mozûn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "mozûn",
+  "body": "mozûn",
+  "description": "cream/paste"
+ },
  "monodo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "monodo",
   "body": "monodo",
   "description": "to meet (a meetee)"
- },
- "montûksol": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "montûksol",
-  "body": "montûksol",
-  "description": "logical"
  },
  "mongô": {
   "scope": "markdown,mdx,fountain",
@@ -4061,23 +4067,29 @@
   "body": "mongô",
   "description": "sharks/rays"
  },
+ "montûksol": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "montûksol",
+  "body": "montûksol",
+  "description": "logical"
+ },
  "môî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "môî",
   "body": "môî",
   "description": "all"
  },
- "môkôfo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "môkôfo",
-  "body": "môkôfo",
-  "description": "tube"
- },
  "môkwon": {
   "scope": "markdown,mdx,fountain",
   "prefix": "môkwon",
   "body": "môkwon",
   "description": "unrelated"
+ },
+ "môkôfo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "môkôfo",
+  "body": "môkôfo",
+  "description": "tube"
  },
  "môtowo": {
   "scope": "markdown,mdx,fountain",
@@ -4097,29 +4109,29 @@
   "body": "môtîfô",
   "description": "reason"
  },
- "môcîbo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "môcîbo",
-  "body": "môcîbo",
-  "description": "ongoing"
- },
  "môtsilê": {
   "scope": "markdown,mdx,fountain",
   "prefix": "môtsilê",
   "body": "môtsilê",
   "description": "to tie (the tied)"
  },
- "môfî": {
+ "môcîbo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "môfî",
-  "body": "môfî",
-  "description": "brave/courageous"
+  "prefix": "môcîbo",
+  "body": "môcîbo",
+  "description": "ongoing"
  },
  "mônîso": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mônîso",
   "body": "mônîso",
   "description": "to display/show (a diplay/show)"
+ },
+ "môfî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "môfî",
+  "body": "môfî",
+  "description": "brave/courageous"
  },
  "mônbili": {
   "scope": "markdown,mdx,fountain",
@@ -4163,17 +4175,17 @@
   "body": "mêloc",
   "description": "nose"
  },
- "misli": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "misli",
-  "body": "misli",
-  "description": "similative marker (like)"
- },
  "mixofo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mixofo",
   "body": "mixofo",
   "description": "acidic"
+ },
+ "misli": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "misli",
+  "body": "misli",
+  "description": "similative marker (like)"
  },
  "minyoto": {
   "scope": "markdown,mdx,fountain",
@@ -4211,23 +4223,11 @@
   "body": "mîhûon",
   "description": "beige"
  },
- "mozîkô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mozîkô",
-  "body": "mozîkô",
-  "description": "magical"
- },
  "mîkdol": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mîkdol",
   "body": "mîkdol",
   "description": "amount"
- },
- "mîtetên": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mîtetên",
-  "body": "mîtetên",
-  "description": "trivial"
  },
  "mîtmo": {
   "scope": "markdown,mdx,fountain",
@@ -4235,17 +4235,17 @@
   "body": "mîtmo",
   "description": "colony"
  },
- "mîle": {
+ "mîtetên": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "mîle",
-  "body": "mîle",
-  "description": "future"
+  "prefix": "mîtetên",
+  "body": "mîtetên",
+  "description": "trivial"
  },
- "muîlô": {
+ "mîcîn": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "muîlô",
-  "body": "muîlô",
-  "description": "dirty"
+  "prefix": "mîcîn",
+  "body": "mîcîn",
+  "description": "fish"
  },
  "mîstu": {
   "scope": "markdown,mdx,fountain",
@@ -4253,23 +4253,23 @@
   "body": "mîstu",
   "description": "rotten/corrupt"
  },
+ "mîle": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "mîle",
+  "body": "mîle",
+  "description": "future"
+ },
  "mutyu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mutyu",
   "body": "mutyu",
   "description": "middle"
  },
- "munî": {
+ "muîlô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "munî",
-  "body": "munî",
-  "description": "money"
- },
- "mûun": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mûun",
-  "body": "mûun",
-  "description": "late"
+  "prefix": "muîlô",
+  "body": "muîlô",
+  "description": "dirty"
  },
  "munyufo": {
   "scope": "markdown,mdx,fountain",
@@ -4277,17 +4277,23 @@
   "body": "munyufo",
   "description": "to borrow/lend (the borrowed/lent)"
  },
+ "munî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "munî",
+  "body": "munî",
+  "description": "money"
+ },
  "mûêsî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mûêsî",
   "body": "mûêsî",
   "description": "moon"
  },
- "mîcîn": {
+ "mûun": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "mîcîn",
-  "body": "mîcîn",
-  "description": "fish"
+  "prefix": "mûun",
+  "body": "mûun",
+  "description": "late"
  },
  "mûhoyon": {
   "scope": "markdown,mdx,fountain",
@@ -4319,29 +4325,17 @@
   "body": "mûstokîn",
   "description": "straight"
  },
- "mûfêû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mûfêû",
-  "body": "mûfêû",
-  "description": "clean"
- },
  "mûxî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "mûxî",
   "body": "mûxî",
   "description": "insect"
  },
- "mûncotî": {
+ "mûfêû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "mûncotî",
-  "body": "mûncotî",
-  "description": "to release/drop (the released/dropped)"
- },
- "noî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "noî",
-  "body": "noî",
-  "description": "vocative marker"
+  "prefix": "mûfêû",
+  "body": "mûfêû",
+  "description": "clean"
  },
  "noô": {
   "scope": "markdown,mdx,fountain",
@@ -4349,11 +4343,29 @@
   "body": "noô",
   "description": "wave"
  },
+ "noî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "noî",
+  "body": "noî",
+  "description": "vocative marker"
+ },
+ "mûncotî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "mûncotî",
+  "body": "mûncotî",
+  "description": "to release/drop (the released/dropped)"
+ },
  "noûku": {
   "scope": "markdown,mdx,fountain",
   "prefix": "noûku",
   "body": "noûku",
   "description": "science"
+ },
+ "mûncû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "mûncû",
+  "body": "mûncû",
+  "description": "tart"
  },
  "mûlû": {
   "scope": "markdown,mdx,fountain",
@@ -4361,11 +4373,11 @@
   "body": "mûlû",
   "description": "full/complete"
  },
- "nosô": {
+ "nokdo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "nosô",
-  "body": "nosô",
-  "description": "puzzle/mystery"
+  "prefix": "nokdo",
+  "body": "nokdo",
+  "description": "old"
  },
  "nocîdo": {
   "scope": "markdown,mdx,fountain",
@@ -4373,11 +4385,11 @@
   "body": "nocîdo",
   "description": "to lose/waste (the lost/wasted)"
  },
- "nokdo": {
+ "nosô": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "nokdo",
-  "body": "nokdo",
-  "description": "old"
+  "prefix": "nosô",
+  "body": "nosô",
+  "description": "puzzle/mystery"
  },
  "nodu": {
   "scope": "markdown,mdx,fountain",
@@ -4397,23 +4409,11 @@
   "body": "nomû",
   "description": "tree"
  },
- "mûncû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "mûncû",
-  "body": "mûncû",
-  "description": "tart"
- },
  "non": {
   "scope": "markdown,mdx,fountain",
   "prefix": "non",
   "body": "non",
   "description": "movie/show"
- },
- "nonkû": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nonkû",
-  "body": "nonkû",
-  "description": "04 four"
  },
  "nonto": {
   "scope": "markdown,mdx,fountain",
@@ -4421,17 +4421,23 @@
   "body": "nonto",
   "description": "tear (of the eye)"
  },
- "nô": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nô",
-  "body": "nô",
-  "description": "moving"
- },
  "noyo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "noyo",
   "body": "noyo",
   "description": "I/me"
+ },
+ "nonkû": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nonkû",
+  "body": "nonkû",
+  "description": "04 four"
+ },
+ "nô": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nô",
+  "body": "nô",
+  "description": "moving"
  },
  "nôîlu": {
   "scope": "markdown,mdx,fountain",
@@ -4439,17 +4445,23 @@
   "body": "nôîlu",
   "description": "key"
  },
+ "neîgin": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "neîgin",
+  "body": "neîgin",
+  "description": "tendency/inclination"
+ },
  "nôkso": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nôkso",
   "body": "nôkso",
   "description": "map/chart"
  },
- "neîgin": {
+ "nec": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "neîgin",
-  "body": "neîgin",
-  "description": "tendency/inclination"
+  "prefix": "nec",
+  "body": "nec",
+  "description": "mesh"
  },
  "nexê": {
   "scope": "markdown,mdx,fountain",
@@ -4462,12 +4474,6 @@
   "prefix": "nebu",
   "body": "nebu",
   "description": "unlikely/rare"
- },
- "nec": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nec",
-  "body": "nec",
-  "description": "mesh"
  },
  "nendol": {
   "scope": "markdown,mdx,fountain",
@@ -4493,6 +4499,12 @@
   "body": "nênko",
   "description": "causal marker (because of)"
  },
+ "nikfûl": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nikfûl",
+  "body": "nikfûl",
+  "description": "ficke/capricious"
+ },
  "nêlô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nêlô",
@@ -4505,29 +4517,23 @@
   "body": "ni",
   "description": "it"
  },
- "nikfûl": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nikfûl",
-  "body": "nikfûl",
-  "description": "ficke/capricious"
- },
  "nicu": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nicu",
   "body": "nicu",
   "description": "sneeze"
  },
+ "nixîn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nixîn",
+  "body": "nixîn",
+  "description": "wing"
+ },
  "niswî": {
   "scope": "markdown,mdx,fountain",
   "prefix": "niswî",
   "body": "niswî",
   "description": "03 three"
- },
- "nîo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nîo",
-  "body": "nîo",
-  "description": "they/them"
  },
  "nilol": {
   "scope": "markdown,mdx,fountain",
@@ -4541,17 +4547,23 @@
   "body": "niwos",
   "description": "to reside in (a residence)"
  },
- "nixîn": {
+ "nîo": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "nixîn",
-  "body": "nixîn",
-  "description": "wing"
+  "prefix": "nîo",
+  "body": "nîo",
+  "description": "they/them"
  },
  "nîôk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nîôk",
   "body": "nîôk",
   "description": "growing"
+ },
+ "nîecni": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nîecni",
+  "body": "nîecni",
+  "description": "vile"
  },
  "nîmû": {
   "scope": "markdown,mdx,fountain",
@@ -4565,23 +4577,11 @@
   "body": "nîltûgu",
   "description": "to stop (the stopped)"
  },
- "nîecni": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nîecni",
-  "body": "nîecni",
-  "description": "vile"
- },
  "nukulô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nukulô",
   "body": "nukulô",
   "description": "copy"
- },
- "nubuso": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "nubuso",
-  "body": "nubuso",
-  "description": "wet"
  },
  "nucoto": {
   "scope": "markdown,mdx,fountain",
@@ -4595,6 +4595,18 @@
   "body": "numûno",
   "description": "example"
  },
+ "nubuso": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nubuso",
+  "body": "nubuso",
+  "description": "wet"
+ },
+ "nungo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nungo",
+  "body": "nungo",
+  "description": "naked"
+ },
  "nulun": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nulun",
@@ -4607,11 +4619,11 @@
   "body": "nulûhu",
   "description": "abuse"
  },
- "nulto": {
+ "wohî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "nulto",
-  "body": "nulto",
-  "description": "wide"
+  "prefix": "wohî",
+  "body": "wohî",
+  "description": "female"
  },
  "nûyo": {
   "scope": "markdown,mdx,fountain",
@@ -4619,23 +4631,29 @@
   "body": "nûyo",
   "description": "stick"
  },
+ "nulto": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "nulto",
+  "body": "nulto",
+  "description": "wide"
+ },
+ "wokto": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "wokto",
+  "body": "wokto",
+  "description": "outside"
+ },
  "nûs": {
   "scope": "markdown,mdx,fountain",
   "prefix": "nûs",
   "body": "nûs",
   "description": "we/us"
  },
- "nungo": {
+ "wodîno": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "nungo",
-  "body": "nungo",
-  "description": "naked"
- },
- "wohî": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wohî",
-  "body": "wohî",
-  "description": "female"
+  "prefix": "wodîno",
+  "body": "wodîno",
+  "description": "stale"
  },
  "wokût": {
   "scope": "markdown,mdx,fountain",
@@ -4655,18 +4673,6 @@
   "body": "wofok",
   "description": "to approve [of] (the approved)"
  },
- "wokto": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wokto",
-  "body": "wokto",
-  "description": "outside"
- },
- "wodîno": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wodîno",
-  "body": "wodîno",
-  "description": "stale"
- },
  "wonkûk": {
   "scope": "markdown,mdx,fountain",
   "prefix": "wonkûk",
@@ -4685,17 +4691,17 @@
   "body": "wowoê",
   "description": "foot"
  },
- "wôlik": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wôlik",
-  "body": "wôlik",
-  "description": "smoke/cloud"
- },
  "woyû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "woyû",
   "body": "woyû",
   "description": "air/wind"
+ },
+ "wôlik": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "wôlik",
+  "body": "wôlik",
+  "description": "smoke/cloud"
  },
  "weltô": {
   "scope": "markdown,mdx,fountain",
@@ -4703,17 +4709,23 @@
   "body": "weltô",
   "description": "limp/flaccid/flabby"
  },
+ "wedo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "wedo",
+  "body": "wedo",
+  "description": "to exchange/trade (the exchanged/traded)"
+ },
  "wêîlun": {
   "scope": "markdown,mdx,fountain",
   "prefix": "wêîlun",
   "body": "wêîlun",
   "description": "to behave (a behavior)"
  },
- "wedo": {
+ "wêko": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "wedo",
-  "body": "wedo",
-  "description": "to exchange/trade (the exchanged/traded)"
+  "prefix": "wêko",
+  "body": "wêko",
+  "description": "to place (the placed)"
  },
  "wêkêso": {
   "scope": "markdown,mdx,fountain",
@@ -4726,12 +4738,6 @@
   "prefix": "wêtodû",
   "body": "wêtodû",
   "description": "to hunt/chase (prey/chasee)"
- },
- "wêko": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wêko",
-  "body": "wêko",
-  "description": "to place (the placed)"
  },
  "wêtû": {
   "scope": "markdown,mdx,fountain",
@@ -4751,6 +4757,12 @@
   "body": "wêloi",
   "description": "to work (in an occupation)"
  },
+ "wikse": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "wikse",
+  "body": "wikse",
+  "description": "belly"
+ },
  "wixonû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "wixonû",
@@ -4762,12 +4774,6 @@
   "prefix": "winît",
   "body": "winît",
   "description": "humble"
- },
- "wikse": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wikse",
-  "body": "wikse",
-  "description": "belly"
  },
  "wîk": {
   "scope": "markdown,mdx,fountain",
@@ -4781,17 +4787,17 @@
   "body": "wîxês",
   "description": "special/unique"
  },
+ "wîlî": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "wîlî",
+  "body": "wîlî",
+  "description": "awake"
+ },
  "wîbolo": {
   "scope": "markdown,mdx,fountain",
   "prefix": "wîbolo",
   "body": "wîbolo",
   "description": "flag"
- },
- "wîlûwo": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "wîlûwo",
-  "body": "wîlûwo",
-  "description": "value/cost"
  },
  "wuîtsî": {
   "scope": "markdown,mdx,fountain",
@@ -4805,6 +4811,12 @@
   "body": "wuktomû",
   "description": "overt/evident"
  },
+ "wîlûwo": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "wîlûwo",
+  "body": "wîlûwo",
+  "description": "value/cost"
+ },
  "wuto": {
   "scope": "markdown,mdx,fountain",
   "prefix": "wuto",
@@ -4817,11 +4829,11 @@
   "body": "wutun",
   "description": "ring/circle"
  },
- "wîlî": {
+ "losol": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "wîlî",
-  "body": "wîlî",
-  "description": "awake"
+  "prefix": "losol",
+  "body": "losol",
+  "description": "original"
  },
  "wulus": {
   "scope": "markdown,mdx,fountain",
@@ -4835,23 +4847,11 @@
   "body": "wûôt",
   "description": "journey/trip/voyage"
  },
- "lohot": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "lohot",
-  "body": "lohot",
-  "description": "comfortable"
- },
  "lozô": {
   "scope": "markdown,mdx,fountain",
   "prefix": "lozô",
   "body": "lozô",
   "description": "ray/beam"
- },
- "losol": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "losol",
-  "body": "losol",
-  "description": "original"
  },
  "lozîdô": {
   "scope": "markdown,mdx,fountain",
@@ -4864,6 +4864,12 @@
   "prefix": "lobotôl",
   "body": "lobotôl",
   "description": "to scoop (the scooped)"
+ },
+ "lohot": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "lohot",
+  "body": "lohot",
+  "description": "comfortable"
  },
  "lon": {
   "scope": "markdown,mdx,fountain",
@@ -4883,17 +4889,17 @@
   "body": "longi",
   "description": "color"
  },
- "londuluk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "londuluk",
-  "body": "londuluk",
-  "description": "rural"
- },
  "lolû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "lolû",
   "body": "lolû",
   "description": "word"
+ },
+ "lôîcôk": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "lôîcôk",
+  "body": "lôîcôk",
+  "description": "emphasis sentence ender (really/again)"
  },
  "lôtfen": {
   "scope": "markdown,mdx,fountain",
@@ -4901,11 +4907,11 @@
   "body": "lôtfen",
   "description": "politeness sentence ender"
  },
- "lôc": {
+ "londuluk": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "lôc",
-  "body": "lôc",
-  "description": "bad"
+  "prefix": "londuluk",
+  "body": "londuluk",
+  "description": "rural"
  },
  "lôzîc": {
   "scope": "markdown,mdx,fountain",
@@ -4913,17 +4919,11 @@
   "body": "lôzîc",
   "description": "to give birth to (a baby)"
  },
- "leknek": {
+ "lôc": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "leknek",
-  "body": "leknek",
-  "description": "weapon"
- },
- "lôîcôk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "lôîcôk",
-  "body": "lôîcôk",
-  "description": "emphasis sentence ender (really/again)"
+  "prefix": "lôc",
+  "body": "lôc",
+  "description": "bad"
  },
  "lônkin": {
   "scope": "markdown,mdx,fountain",
@@ -4943,11 +4943,11 @@
   "body": "lexetko",
   "description": "lattice/array"
  },
- "lêkin": {
+ "leknek": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "lêkin",
-  "body": "lêkin",
-  "description": "but"
+  "prefix": "leknek",
+  "body": "leknek",
+  "description": "weapon"
  },
  "len": {
   "scope": "markdown,mdx,fountain",
@@ -4955,17 +4955,11 @@
   "body": "len",
   "description": "strong"
  },
- "lêfôtol": {
+ "lêkin": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "lêfôtol",
-  "body": "lêfôtol",
-  "description": "bouncing"
- },
- "lîonxîn": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "lîonxîn",
-  "body": "lîonxîn",
-  "description": "conscientious"
+  "prefix": "lêkin",
+  "body": "lêkin",
+  "description": "but"
  },
  "li": {
   "scope": "markdown,mdx,fountain",
@@ -4973,17 +4967,29 @@
   "body": "li",
   "description": "subject complement marker"
  },
+ "lîonxîn": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "lîonxîn",
+  "body": "lîonxîn",
+  "description": "conscientious"
+ },
+ "lêfôtol": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "lêfôtol",
+  "body": "lêfôtol",
+  "description": "bouncing"
+ },
  "lîun": {
   "scope": "markdown,mdx,fountain",
   "prefix": "lîun",
   "body": "lîun",
   "description": "to nurture/grow (the nurtured/grown)"
  },
- "lîûlê": {
+ "lîûbît": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "lîûlê",
-  "body": "lîûlê",
-  "description": "laughing"
+  "prefix": "lîûbît",
+  "body": "lîûbît",
+  "description": "to love (the loved)"
  },
  "lîtô": {
   "scope": "markdown,mdx,fountain",
@@ -4997,23 +5003,17 @@
   "body": "lîtiwe",
   "description": "related"
  },
- "lîûbît": {
+ "lîûlê": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "lîûbît",
-  "body": "lîûbît",
-  "description": "to love (the loved)"
+  "prefix": "lîûlê",
+  "body": "lîûlê",
+  "description": "laughing"
  },
  "lîs": {
   "scope": "markdown,mdx,fountain",
   "prefix": "lîs",
   "body": "lîs",
   "description": "smooth"
- },
- "lîsto": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "lîsto",
-  "body": "lîsto",
-  "description": "strip/band"
  },
  "lîsmu": {
   "scope": "markdown,mdx,fountain",
@@ -5033,6 +5033,12 @@
   "body": "lîmîen",
   "description": "inside"
  },
+ "lîsto": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "lîsto",
+  "body": "lîsto",
+  "description": "strip/band"
+ },
  "luhû": {
   "scope": "markdown,mdx,fountain",
   "prefix": "luhû",
@@ -5044,6 +5050,12 @@
   "prefix": "lufono",
   "body": "lufono",
   "description": "to ship/send (a package)"
+ },
+ "lunsol": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "lunsol",
+  "body": "lunsol",
+  "description": "to launch (a projectile)"
  },
  "lûîcû": {
   "scope": "markdown,mdx,fountain",
@@ -5057,12 +5069,6 @@
   "body": "lûok",
   "description": "spirit/ghost"
  },
- "lunsol": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "lunsol",
-  "body": "lunsol",
-  "description": "to launch (a projectile)"
- },
  "lûko": {
   "scope": "markdown,mdx,fountain",
   "prefix": "lûko",
@@ -5074,12 +5080,6 @@
   "prefix": "lûcik",
   "body": "lûcik",
   "description": "slippery"
- },
- "lûcku": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "lûcku",
-  "body": "lûcku",
-  "description": "lever/knob/handle"
  },
  "yoûtî": {
   "scope": "markdown,mdx,fountain",
@@ -5099,11 +5099,11 @@
   "body": "yoûmok",
   "description": "humorous"
  },
- "yokûntîk": {
+ "lûcku": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "yokûntîk",
-  "body": "yokûntîk",
-  "description": "prize"
+  "prefix": "lûcku",
+  "body": "lûcku",
+  "description": "lever/knob/handle"
  },
  "yogô": {
   "scope": "markdown,mdx,fountain",
@@ -5111,11 +5111,11 @@
   "body": "yogô",
   "description": "part/piece"
  },
- "yosten": {
+ "yokûntîk": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "yosten",
-  "body": "yosten",
-  "description": "to find (a discovery)"
+  "prefix": "yokûntîk",
+  "body": "yokûntîk",
+  "description": "prize"
  },
  "yoskînyo": {
   "scope": "markdown,mdx,fountain",
@@ -5129,6 +5129,12 @@
   "body": "yodo",
   "description": "or"
  },
+ "yosten": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "yosten",
+  "body": "yosten",
+  "description": "to find (a discovery)"
+ },
  "yobê": {
   "scope": "markdown,mdx,fountain",
   "prefix": "yobê",
@@ -5140,6 +5146,12 @@
   "prefix": "yofûk",
   "body": "yofûk",
   "description": "pillow"
+ },
+ "yonlûs": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "yonlûs",
+  "body": "yonlûs",
+  "description": "wrong"
  },
  "yoldûn": {
   "scope": "markdown,mdx,fountain",
@@ -5153,23 +5165,17 @@
   "body": "yôûlî",
   "description": "beneficial"
  },
- "yôk": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "yôk",
-  "body": "yôk",
-  "description": "negatitive particle"
- },
- "yonlûs": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "yonlûs",
-  "body": "yonlûs",
-  "description": "wrong"
- },
  "yôûxîn": {
   "scope": "markdown,mdx,fountain",
   "prefix": "yôûxîn",
   "body": "yôûxîn",
   "description": "parade/procession"
+ },
+ "yôk": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "yôk",
+  "body": "yôk",
+  "description": "negatitive particle"
  },
  "yôcno": {
   "scope": "markdown,mdx,fountain",
@@ -5183,12 +5189,6 @@
   "body": "yôn",
   "description": "to use (a tool)"
  },
- "yê": {
-  "scope": "markdown,mdx,fountain",
-  "prefix": "yê",
-  "body": "yê",
-  "description": "genitive marker (of)"
- },
  "yônê": {
   "scope": "markdown,mdx,fountain",
   "prefix": "yônê",
@@ -5200,6 +5200,12 @@
   "prefix": "yinsûk",
   "body": "yinsûk",
   "description": "serious"
+ },
+ "yê": {
+  "scope": "markdown,mdx,fountain",
+  "prefix": "yê",
+  "body": "yê",
+  "description": "genitive marker (of)"
  },
  "yinyûncî": {
   "scope": "markdown,mdx,fountain",
@@ -5213,11 +5219,11 @@
   "body": "yumon",
   "description": "brutal"
  },
- "yûkwoî": {
+ "yundôû": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "yûkwoî",
-  "body": "yûkwoî",
-  "description": "monster"
+  "prefix": "yundôû",
+  "body": "yundôû",
+  "description": "to guide (the guided)"
  },
  "yûnlôn": {
   "scope": "markdown,mdx,fountain",
@@ -5225,10 +5231,10 @@
   "body": "yûnlôn",
   "description": "to forgive (the forgiven)"
  },
- "yundôû": {
+ "yûkwoî": {
   "scope": "markdown,mdx,fountain",
-  "prefix": "yundôû",
-  "body": "yundôû",
-  "description": "to guide (the guided)"
+  "prefix": "yûkwoî",
+  "body": "yûkwoî",
+  "description": "monster"
  }
 }

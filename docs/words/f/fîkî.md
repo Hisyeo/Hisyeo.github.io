@@ -2,7 +2,7 @@
 id: fîkî
 slug: fîkî
 title: FÎKÎ
-sidebar_position: 645
+sidebar_position: 646
 tags: [fîkî, Adjective, Austronesian]
 description: fast § Adjective
 ---

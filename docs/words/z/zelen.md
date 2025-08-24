@@ -2,7 +2,7 @@
 id: zelen
 slug: zelen
 title: ZELEN
-sidebar_position: 526
+sidebar_position: 527
 tags: [zelen, Adjective, Turkic]
 description: upcoming § Adjective
 ---

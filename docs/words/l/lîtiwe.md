@@ -2,7 +2,7 @@
 id: lîtiwe
 slug: lîtiwe
 title: LÎTIWE
-sidebar_position: 833
+sidebar_position: 834
 tags: [lîtiwe, Adjective, Uralic]
 description: related § Adjective
 ---

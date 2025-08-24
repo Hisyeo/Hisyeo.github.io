@@ -2,7 +2,7 @@
 id: mîoû
 slug: mîoû
 title: MÎOÛ
-sidebar_position: 699
+sidebar_position: 700
 tags: [mîoû, Adjective, Sino-Tibetan]
 description: instantaneous (second) § Adjective
 ---

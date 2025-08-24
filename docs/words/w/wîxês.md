@@ -2,7 +2,7 @@
 id: wîxês
 slug: wîxês
 title: WÎXÊS
-sidebar_position: 796
+sidebar_position: 797
 tags: [wîxês, Adjective, Indo-Iranian]
 description: special/unique § Adjective
 ---

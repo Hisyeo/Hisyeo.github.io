@@ -2,7 +2,7 @@
 id: doînbî
 slug: doînbî
 title: DOÎNBÎ
-sidebar_position: 471
+sidebar_position: 472
 tags: [doînbî, Noun, Hmong-Mien]
 description: ticket/pass § Noun
 ---

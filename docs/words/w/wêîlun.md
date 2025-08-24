@@ -2,7 +2,7 @@
 id: wêîlun
 slug: wêîlun
 title: WÊÎLUN
-sidebar_position: 785
+sidebar_position: 786
 tags: [wêîlun, Verb, Sino-Tibetan]
 description: to behave (a behavior) § Verb
 ---

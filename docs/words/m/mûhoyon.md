@@ -2,7 +2,7 @@
 id: mûhoyon
 slug: mûhoyon
 title: MÛHOYON
-sidebar_position: 715
+sidebar_position: 716
 tags: [mûhoyon, Noun, Afro-Asiatic]
 description: camp § Noun
 ---

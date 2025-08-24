@@ -2,7 +2,7 @@
 id: mût
 slug: mût
 title: MÛT
-sidebar_position: 718
+sidebar_position: 719
 tags: [mût, Preposition, Germanic]
 description: dative marker (towards) § Preposition
 ---

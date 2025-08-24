@@ -2,7 +2,7 @@
 id: wowoê
 slug: wowoê
 title: WOWOÊ
-sidebar_position: 779
+sidebar_position: 780
 tags: [wowoê, Noun, Austronesian]
 description: foot § Noun
 ---

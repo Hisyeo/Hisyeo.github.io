@@ -2,7 +2,7 @@
 id: lîsmu
 slug: lîsmu
 title: LÎSMU
-sidebar_position: 836
+sidebar_position: 837
 tags: [lîsmu, Noun, Albanian]
 description: clay § Noun
 ---

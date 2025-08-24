@@ -2,7 +2,7 @@
 id: moskûl
 slug: moskûl
 title: MOSKÛL
-sidebar_position: 669
+sidebar_position: 670
 tags: [moskûl, Adjective, Romance]
 description: male § Adjective
 ---

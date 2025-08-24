@@ -2,7 +2,7 @@
 id: zîcoû
 slug: zîcoû
 title: ZÎCOÛ
-sidebar_position: 534
+sidebar_position: 535
 tags: [zîcoû, Verb, Sino-Tibetan]
 description: to train (a skill/ability) § Verb
 ---
