@@ -2,7 +2,7 @@
 id: funlît
 slug: funlît
 title: FUNLÎT
-sidebar_position: 657
+sidebar_position: 658
 tags: [funlît, Adjective, Sino-Tibetan]
 description: split § Adjective
 ---

@@ -2,7 +2,7 @@
 id: zik
 slug: zik
 title: ZIK
-sidebar_position: 531
+sidebar_position: 532
 tags: [zik, Pronoun, Nilo-Saharan]
 description: what § Pronoun
 ---

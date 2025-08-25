@@ -2,7 +2,7 @@
 id: xonluk
 slug: xonluk
 title: XONLUK
-sidebar_position: 439
+sidebar_position: 440
 tags: [xonluk, Adjective, Turkic]
 description: young § Adjective
 ---

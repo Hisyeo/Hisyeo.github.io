@@ -2,7 +2,7 @@
 id: wêtû
 slug: wêtû
 title: WÊTÛ
-sidebar_position: 791
+sidebar_position: 792
 tags: [wêtû, Verb, Dravidian]
 description: to cut (the cut/chopped) § Verb
 ---

@@ -2,7 +2,7 @@
 id: zonûbî
 slug: zonûbî
 title: ZONÛBÎ
-sidebar_position: 518
+sidebar_position: 519
 tags: [zonûbî, Adjective, Afro-Asiatic]
 description: southern § Adjective
 ---

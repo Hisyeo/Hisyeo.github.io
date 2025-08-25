@@ -2,7 +2,7 @@
 id: nokdo
 slug: nokdo
 title: NOKDO
-sidebar_position: 730
+sidebar_position: 731
 tags: [nokdo, Adjective, Koreic]
 description: old § Adjective
 ---

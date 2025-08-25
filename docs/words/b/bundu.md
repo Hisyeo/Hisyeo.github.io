@@ -2,7 +2,7 @@
 id: bundu
 slug: bundu
 title: BUNDU
-sidebar_position: 609
+sidebar_position: 610
 tags: [bundu, Adjective, Indo-Iranian]
 description: closed § Adjective
 ---

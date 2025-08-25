@@ -2,7 +2,7 @@
 id: solwôc
 slug: solwôc
 title: SOLWÔC
-sidebar_position: 387
+sidebar_position: 388
 tags: [solwôc, Noun, Indo-Iranian]
 description: top § Noun
 ---

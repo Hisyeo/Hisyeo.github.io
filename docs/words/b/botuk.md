@@ -2,7 +2,7 @@
 id: botuk
 slug: botuk
 title: BOTUK
-sidebar_position: 555
+sidebar_position: 556
 tags: [botuk, Adjective, Austronesian]
 description: flat § Adjective
 ---

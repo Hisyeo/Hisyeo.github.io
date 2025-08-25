@@ -2,7 +2,7 @@
 id: zêsto
 slug: zêsto
 title: ZÊSTO
-sidebar_position: 529
+sidebar_position: 530
 tags: [zêsto, Noun, Romance]
 description: feat/achievement/heroic deed § Noun
 ---

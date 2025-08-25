@@ -2,7 +2,7 @@
 id: socok
 slug: socok
 title: SOCOK
-sidebar_position: 375
+sidebar_position: 376
 tags: [socok, Verb, Balto-Slavic]
 description: to start (startable entity) § Verb
 ---

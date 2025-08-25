@@ -2,7 +2,7 @@
 id: mîkdol
 slug: mîkdol
 title: MÎKDOL
-sidebar_position: 705
+sidebar_position: 706
 tags: [mîkdol, Noun, Afro-Asiatic]
 description: amount § Noun
 ---

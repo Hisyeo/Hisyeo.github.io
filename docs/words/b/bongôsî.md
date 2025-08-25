@@ -2,7 +2,7 @@
 id: bongôsî
 slug: bongôsî
 title: BONGÔSÎ
-sidebar_position: 564
+sidebar_position: 565
 tags: [bongôsî, Adjective, Niger-Congo]
 description: endangered § Adjective
 ---

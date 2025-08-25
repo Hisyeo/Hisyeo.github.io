@@ -2,7 +2,7 @@
 id: dûstu
 slug: dûstu
 title: DÛSTU
-sidebar_position: 508
+sidebar_position: 509
 tags: [dûstu, Verb, Nakh-Daghestani]
 description: to measure (the measured) § Verb
 ---

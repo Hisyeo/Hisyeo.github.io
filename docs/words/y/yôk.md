@@ -2,7 +2,7 @@
 id: yôk
 slug: yôk
 title: YÔK
-sidebar_position: 862
+sidebar_position: 863
 tags: [yôk, Particle, Turkic]
 description: negatitive particle § Particle
 ---

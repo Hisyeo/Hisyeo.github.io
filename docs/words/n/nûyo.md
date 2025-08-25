@@ -2,7 +2,7 @@
 id: nûyo
 slug: nûyo
 title: NÛYO
-sidebar_position: 773
+sidebar_position: 774
 tags: [nûyo, Noun, Romance]
 description: stick § Noun
 ---

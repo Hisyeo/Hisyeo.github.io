@@ -2,7 +2,7 @@
 id: fûnlôk
 slug: fûnlôk
 title: FÛNLÔK
-sidebar_position: 666
+sidebar_position: 667
 tags: [fûnlôk, Noun, Sino-Tibetan]
 description: joy/delight § Noun
 ---

@@ -2,7 +2,7 @@
 id: sêdu
 slug: sêdu
 title: SÊDU
-sidebar_position: 400
+sidebar_position: 401
 tags: [sêdu, Noun, Sino-Tibetan]
 description: station/garage § Noun
 ---

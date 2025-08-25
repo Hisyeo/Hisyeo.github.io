@@ -2,7 +2,7 @@
 id: bûndûkî
 slug: bûndûkî
 title: BÛNDÛKÎ
-sidebar_position: 620
+sidebar_position: 621
 tags: [bûndûkî, Noun, Niger-Congo]
 description: gun § Noun
 ---

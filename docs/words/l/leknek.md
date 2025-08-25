@@ -2,7 +2,7 @@
 id: leknek
 slug: leknek
 title: LEKNEK
-sidebar_position: 823
+sidebar_position: 824
 tags: [leknek, Noun, Sino-Tibetan]
 description: weapon § Noun
 ---

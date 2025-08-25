@@ -2,7 +2,7 @@
 id: doî
 slug: doî
 title: DOÎ
-sidebar_position: 471
+sidebar_position: 472
 tags: [doî, Noun, Kra-Dai]
 description: string § Noun
 ---

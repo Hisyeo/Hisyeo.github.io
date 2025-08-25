@@ -2,7 +2,7 @@
 id: doho
 slug: doho
 title: DOHO
-sidebar_position: 474
+sidebar_position: 475
 tags: [doho, Verb, Afro-Asiatic]
 description: to sacrifice (an offering) § Verb
 ---

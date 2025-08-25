@@ -2,7 +2,7 @@
 id: fûnbêtsi
 slug: fûnbêtsi
 title: FÛNBÊTSI
-sidebar_position: 665
+sidebar_position: 666
 tags: [fûnbêtsi, Adjective, Japonic]
 description: prudent/sensible § Adjective
 ---

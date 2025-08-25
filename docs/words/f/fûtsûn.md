@@ -2,7 +2,7 @@
 id: fûtsûn
 slug: fûtsûn
 title: FÛTSÛN
-sidebar_position: 662
+sidebar_position: 663
 tags: [fûtsûn, Verb, Sino-Tibetan]
 description: to obey (a rule) § Verb
 ---

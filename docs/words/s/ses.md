@@ -2,7 +2,7 @@
 id: ses
 slug: ses
 title: SES
-sidebar_position: 395
+sidebar_position: 396
 tags: [ses, Numeral, Romance]
 description: 16 sixteen § Numeral
 ---

@@ -2,7 +2,7 @@
 id: dîdôzû
 slug: dîdôzû
 title: DÎDÔZÛ
-sidebar_position: 494
+sidebar_position: 495
 tags: [dîdôzû, Adjective, Niger-Congo]
 description: neutral § Adjective
 ---

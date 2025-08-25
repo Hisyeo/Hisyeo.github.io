@@ -2,7 +2,7 @@
 id: sundîbot
 slug: sundîbot
 title: SUNDÎBOT
-sidebar_position: 420
+sidebar_position: 421
 tags: [sundîbot, Noun, Indo-Iranian]
 description: arthropod § Noun
 ---

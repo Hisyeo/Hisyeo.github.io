@@ -2,7 +2,7 @@
 id: bostofîs
 slug: bostofîs
 title: BOSTOFÎS
-sidebar_position: 557
+sidebar_position: 558
 tags: [bostofîs, Noun, Balto-Slavic]
 description: representative/delegate § Noun
 ---

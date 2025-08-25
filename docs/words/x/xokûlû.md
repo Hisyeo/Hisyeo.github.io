@@ -2,7 +2,7 @@
 id: xokûlû
 slug: xokûlû
 title: XOKÛLÛ
-sidebar_position: 434
+sidebar_position: 435
 tags: [xokûlû, Verb, Turkic]
 description: to invite (an invitation) § Verb
 ---

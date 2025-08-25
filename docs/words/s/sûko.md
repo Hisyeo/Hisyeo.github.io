@@ -2,7 +2,7 @@
 id: sûko
 slug: sûko
 title: SÛKO
-sidebar_position: 425
+sidebar_position: 426
 tags: [sûko, Verb, Austronesian]
 description: to like (a preference) § Verb
 ---

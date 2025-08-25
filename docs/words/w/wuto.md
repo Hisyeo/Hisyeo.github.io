@@ -2,7 +2,7 @@
 id: wuto
 slug: wuto
 title: WUTO
-sidebar_position: 804
+sidebar_position: 805
 tags: [wuto, Noun, Afro-Asiatic]
 description: month § Noun
 ---

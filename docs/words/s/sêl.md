@@ -2,7 +2,7 @@
 id: sêl
 slug: sêl
 title: SÊL
-sidebar_position: 403
+sidebar_position: 404
 tags: [sêl, Noun, Indo-Iranian]
 description: down § Noun
 ---

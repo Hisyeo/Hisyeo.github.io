@@ -2,7 +2,7 @@
 id: sumon
 slug: sumon
 title: SUMON
-sidebar_position: 419
+sidebar_position: 420
 tags: [sumon, Adjective, Indo-Iranian]
 description: equal/same § Adjective
 ---

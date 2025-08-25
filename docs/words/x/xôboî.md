@@ -2,7 +2,7 @@
 id: xôboî
 slug: xôboî
 title: XÔBOÎ
-sidebar_position: 443
+sidebar_position: 444
 tags: [xôboî, Adjective, Japonic]
 description: salty § Adjective
 ---

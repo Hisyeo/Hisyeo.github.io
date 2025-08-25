@@ -2,7 +2,7 @@
 id: cûndôl
 slug: cûndôl
 title: CÛNDÔL
-sidebar_position: 366
+sidebar_position: 367
 tags: [cûndôl, Noun, Koreic]
 description: collision § Noun
 ---

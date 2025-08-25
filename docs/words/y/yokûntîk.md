@@ -2,7 +2,7 @@
 id: yokûntîk
 slug: yokûntîk
 title: YOKÛNTÎK
-sidebar_position: 851
+sidebar_position: 852
 tags: [yokûntîk, Noun, Mayan]
 description: prize § Noun
 ---

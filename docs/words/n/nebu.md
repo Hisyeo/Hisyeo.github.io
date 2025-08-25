@@ -2,7 +2,7 @@
 id: nebu
 slug: nebu
 title: NEBU
-sidebar_position: 746
+sidebar_position: 747
 tags: [nebu, Adjective, Germanic]
 description: unlikely/rare § Adjective
 ---

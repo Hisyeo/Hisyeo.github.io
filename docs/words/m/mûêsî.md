@@ -2,7 +2,7 @@
 id: mûêsî
 slug: mûêsî
 title: MÛÊSÎ
-sidebar_position: 715
+sidebar_position: 716
 tags: [mûêsî, Noun, Niger-Congo]
 description: moon § Noun
 ---

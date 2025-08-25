@@ -2,7 +2,7 @@
 id: sûn
 slug: sûn
 title: SÛN
-sidebar_position: 429
+sidebar_position: 430
 tags: [sûn, Preposition, Sino-Tibetan]
 description: ablative marker (from) § Preposition
 ---

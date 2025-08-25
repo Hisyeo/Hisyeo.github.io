@@ -2,7 +2,7 @@
 id: bîek
 slug: bîek
 title: BÎEK
-sidebar_position: 593
+sidebar_position: 594
 tags: [bîek, Verb, Albanian]
 description: to bake (a baked good) § Verb
 ---

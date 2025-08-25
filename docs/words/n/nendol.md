@@ -2,7 +2,7 @@
 id: nendol
 slug: nendol
 title: NENDOL
-sidebar_position: 747
+sidebar_position: 748
 tags: [nendol, Adjective, Indo-Iranian]
 description: famous § Adjective
 ---

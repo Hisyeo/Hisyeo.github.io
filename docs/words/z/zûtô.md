@@ -2,7 +2,7 @@
 id: zûtô
 slug: zûtô
 title: ZÛTÔ
-sidebar_position: 546
+sidebar_position: 547
 tags: [zûtô, Verb, Niger-Congo]
 description: to regret (a regret) § Verb
 ---

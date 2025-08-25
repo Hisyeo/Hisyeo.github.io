@@ -2,7 +2,7 @@
 id: mixofo
 slug: mixofo
 title: MIXOFO
-sidebar_position: 698
+sidebar_position: 699
 tags: [mixofo, Adjective, Kartvelian]
 description: acidic § Adjective
 ---
