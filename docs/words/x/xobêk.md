@@ -2,7 +2,7 @@
 id: xobêk
 slug: xobêk
 title: XOBÊK
-sidebar_position: 435
+sidebar_position: 436
 tags: [xobêk, Adjective, Indo-Iranian]
 description: previous § Adjective
 ---

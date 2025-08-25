@@ -2,7 +2,7 @@
 id: ozûul
 slug: ozûul
 title: OZÛUL
-sidebar_position: 16
+sidebar_position: 15
 tags: [ozûul, Pronoun, Abkhazo-Adyghean]
 description: any/whichever § Pronoun
 ---

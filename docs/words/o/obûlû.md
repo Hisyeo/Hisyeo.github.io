@@ -2,7 +2,7 @@
 id: obûlû
 slug: obûlû
 title: OBÛLÛ
-sidebar_position: 20
+sidebar_position: 19
 tags: [obûlû, Verb, Austronesian]
 description: to overwhelm (the overwhelmed) § Verb
 ---

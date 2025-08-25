@@ -2,7 +2,7 @@
 id: fuî
 slug: fuî
 title: FUÎ
-sidebar_position: 653
+sidebar_position: 654
 tags: [fuî, Verb, Austronesian]
 description: to have (a possession) § Verb
 ---

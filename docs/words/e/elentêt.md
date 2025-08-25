@@ -2,7 +2,7 @@
 id: elentêt
 slug: elentêt
 title: ELENTÊT
-sidebar_position: 53
+sidebar_position: 52
 tags: [elentêt, Adjective, Uralic]
 description: opposite § Adjective
 ---

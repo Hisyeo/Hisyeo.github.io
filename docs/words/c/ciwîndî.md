@@ -2,7 +2,7 @@
 id: ciwîndî
 slug: ciwîndî
 title: CIWÎNDÎ
-sidebar_position: 340
+sidebar_position: 341
 tags: [ciwîndî, Noun, Niger-Congo]
 description: liver § Noun
 ---

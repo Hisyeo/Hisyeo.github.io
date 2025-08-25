@@ -2,7 +2,7 @@
 id: ufûlît
 slug: ufûlît
 title: UFÛLÎT
-sidebar_position: 90
+sidebar_position: 89
 tags: [ufûlît, Adjective, Romance]
 description: bored § Adjective
 ---

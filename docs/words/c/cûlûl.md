@@ -2,7 +2,7 @@
 id: cûlûl
 slug: cûlûl
 title: CÛLÛL
-sidebar_position: 368
+sidebar_position: 369
 tags: [cûlûl, Noun, Dravidian]
 description: coil § Noun
 ---

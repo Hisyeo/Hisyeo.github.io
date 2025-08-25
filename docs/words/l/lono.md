@@ -2,7 +2,7 @@
 id: lono
 slug: lono
 title: LONO
-sidebar_position: 813
+sidebar_position: 814
 tags: [lono, Noun, Afro-Asiatic]
 description: day § Noun
 ---

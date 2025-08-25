@@ -2,7 +2,7 @@
 id: bêsu
 slug: bêsu
 title: BÊSU
-sidebar_position: 581
+sidebar_position: 582
 tags: [bêsu, Adjective, Austronesian]
 description: different § Adjective
 ---

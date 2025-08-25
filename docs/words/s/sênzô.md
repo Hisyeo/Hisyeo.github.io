@@ -2,7 +2,7 @@
 id: sênzô
 slug: sênzô
 title: SÊNZÔ
-sidebar_position: 401
+sidebar_position: 402
 tags: [sênzô, Adjective, Japonic]
 description: ancestral § Adjective
 ---

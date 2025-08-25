@@ -2,7 +2,7 @@
 id: fêlcîn
 slug: fêlcîn
 title: FÊLCÎN
-sidebar_position: 640
+sidebar_position: 641
 tags: [fêlcîn, Adjective, Armenian]
 description: last/latest § Adjective
 ---

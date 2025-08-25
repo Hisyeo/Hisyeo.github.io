@@ -2,7 +2,7 @@
 id: ûtok
 slug: ûtok
 title: ÛTOK
-sidebar_position: 99
+sidebar_position: 98
 tags: [ûtok, Adjective, Quechumaran]
 description: also § Adjective
 ---

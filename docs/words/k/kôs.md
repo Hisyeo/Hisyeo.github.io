@@ -2,7 +2,7 @@
 id: kôs
 slug: kôs
 title: KÔS
-sidebar_position: 180
+sidebar_position: 179
 tags: [kôs, Verb, Romance]
 description: to cause (an effect) § Verb
 ---

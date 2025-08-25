@@ -2,7 +2,7 @@
 id: ûsên
 slug: ûsên
 title: ÛSÊN
-sidebar_position: 102
+sidebar_position: 101
 tags: [ûsên, Noun, Nakh-Daghestani]
 description: year § Noun
 ---

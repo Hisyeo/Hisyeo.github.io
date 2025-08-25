@@ -2,7 +2,7 @@
 id: fôhon
 slug: fôhon
 title: FÔHON
-sidebar_position: 632
+sidebar_position: 633
 tags: [fôhon, Noun, Germanic]
 description: front/forward § Noun
 ---

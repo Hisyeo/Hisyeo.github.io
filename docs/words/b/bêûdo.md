@@ -2,7 +2,7 @@
 id: bêûdo
 slug: bêûdo
 title: BÊÛDO
-sidebar_position: 580
+sidebar_position: 581
 tags: [bêûdo, Verb, Koreic]
 description: to learn (a learning) § Verb
 ---

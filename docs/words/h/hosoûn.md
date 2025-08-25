@@ -2,7 +2,7 @@
 id: hosoûn
 slug: hosoûn
 title: HOSOÛN
-sidebar_position: 121
+sidebar_position: 120
 tags: [hosoûn, Noun, Romance]
 description: ratio/proportion § Noun
 ---

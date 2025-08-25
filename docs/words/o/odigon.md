@@ -2,7 +2,7 @@
 id: odigon
 slug: odigon
 title: ODIGON
-sidebar_position: 15
+sidebar_position: 14
 tags: [odigon, Determiner, Dravidian]
 description: excess § Determiner
 ---

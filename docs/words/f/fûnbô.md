@@ -2,7 +2,7 @@
 id: fûnbô
 slug: fûnbô
 title: FÛNBÔ
-sidebar_position: 663
+sidebar_position: 664
 tags: [fûnbô, Verb, Niger-Congo]
 description: to squeeze (squeezable entity) § Verb
 ---

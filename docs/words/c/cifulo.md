@@ -2,7 +2,7 @@
 id: cifulo
 slug: cifulo
 title: CIFULO
-sidebar_position: 335
+sidebar_position: 336
 tags: [cifulo, Adjective, Afro-Asiatic]
 description: dancing § Adjective
 ---

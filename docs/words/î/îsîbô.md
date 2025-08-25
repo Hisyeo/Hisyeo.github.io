@@ -2,7 +2,7 @@
 id: îsîbô
 slug: îsîbô
 title: ÎSÎBÔ
-sidebar_position: 73
+sidebar_position: 72
 tags: [îsîbô, Noun, Niger-Congo]
 description: claw § Noun
 ---

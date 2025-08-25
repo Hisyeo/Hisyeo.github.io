@@ -2,7 +2,7 @@
 id: bînhûn
 slug: bînhûn
 title: BÎNHÛN
-sidebar_position: 599
+sidebar_position: 600
 tags: [bînhûn, Adjective, Sino-Tibetan]
 description: magenta § Adjective
 ---

@@ -2,7 +2,7 @@
 id: ko
 slug: ko
 title: KO
-sidebar_position: 164
+sidebar_position: 163
 tags: [ko, Postposition, Japonic]
 description: interrogative sentence ender (yes?) § Postposition
 ---

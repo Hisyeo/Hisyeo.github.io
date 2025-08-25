@@ -2,7 +2,7 @@
 id: xîxulko
 slug: xîxulko
 title: XÎXULKO
-sidebar_position: 457
+sidebar_position: 458
 tags: [xîxulko, Noun, Balto-Slavic]
 description: pinecone § Noun
 ---

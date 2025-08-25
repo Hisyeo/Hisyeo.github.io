@@ -2,7 +2,7 @@
 id: hûzon
 slug: hûzon
 title: HÛZON
-sidebar_position: 157
+sidebar_position: 156
 tags: [hûzon, Noun, Austronesian]
 description: rain § Noun
 ---

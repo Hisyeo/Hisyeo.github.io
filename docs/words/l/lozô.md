@@ -2,7 +2,7 @@
 id: lozô
 slug: lozô
 title: LOZÔ
-sidebar_position: 809
+sidebar_position: 810
 tags: [lozô, Noun, Romance]
 description: ray/beam § Noun
 ---

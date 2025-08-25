@@ -2,7 +2,7 @@
 id: dîyondê
 slug: dîyondê
 title: DÎYONDÊ
-sidebar_position: 498
+sidebar_position: 499
 tags: [dîyondê, Verb, Indo-Iranian]
 description: to focus [on]/pay attention [to] § Verb
 ---

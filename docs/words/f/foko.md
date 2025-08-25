@@ -2,7 +2,7 @@
 id: foko
 slug: foko
 title: FOKO
-sidebar_position: 624
+sidebar_position: 625
 tags: [foko, Particle, Austronesian]
 description: causative agentive verb noun particle § Particle
 ---

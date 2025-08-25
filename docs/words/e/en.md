@@ -2,7 +2,7 @@
 id: en
 slug: en
 title: EN
-sidebar_position: 50
+sidebar_position: 49
 tags: [en, Conjunction, Germanic]
 description: than § Conjunction
 ---

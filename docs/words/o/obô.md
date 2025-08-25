@@ -2,7 +2,7 @@
 id: obô
 slug: obô
 title: OBÔ
-sidebar_position: 18
+sidebar_position: 17
 tags: [obô, Noun, Niger-Congo]
 description: arm § Noun
 ---

@@ -2,7 +2,7 @@
 id: istihol
 slug: istihol
 title: ISTIHOL
-sidebar_position: 65
+sidebar_position: 64
 tags: [istihol, Noun, Indo-Iranian]
 description: honor/glory § Noun
 ---

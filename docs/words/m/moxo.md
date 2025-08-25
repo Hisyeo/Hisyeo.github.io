@@ -2,7 +2,7 @@
 id: moxo
 slug: moxo
 title: MOXO
-sidebar_position: 671
+sidebar_position: 672
 tags: [moxo, Adjective, Celtic]
 description: decorative/ornamental § Adjective
 ---

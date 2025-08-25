@@ -2,7 +2,7 @@
 id: senwic
 slug: senwic
 title: SENWIC
-sidebar_position: 395
+sidebar_position: 396
 tags: [senwic, Noun, Germanic]
 description: sandwich § Noun
 ---

@@ -2,7 +2,7 @@
 id: boholon
 slug: boholon
 title: BOHOLON
-sidebar_position: 552
+sidebar_position: 553
 tags: [boholon, Noun, Armenian]
 description: closet/cupboard/cabinet § Noun
 ---

@@ -2,7 +2,7 @@
 id: kîskô
 slug: kîskô
 title: KÎSKÔ
-sidebar_position: 204
+sidebar_position: 203
 tags: [kîskô, Noun, Uralic]
 description: rail/rack/bar § Noun
 ---

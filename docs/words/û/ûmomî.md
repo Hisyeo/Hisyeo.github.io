@@ -2,7 +2,7 @@
 id: ûmomî
 slug: ûmomî
 title: ÛMOMÎ
-sidebar_position: 105
+sidebar_position: 104
 tags: [ûmomî, Adjective, Japonic]
 description: savory § Adjective
 ---

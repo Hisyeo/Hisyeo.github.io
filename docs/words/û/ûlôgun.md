@@ -2,7 +2,7 @@
 id: ûlôgun
 slug: ûlôgun
 title: ÛLÔGUN
-sidebar_position: 112
+sidebar_position: 111
 tags: [ûlôgun, Noun, Dravidian]
 description: metal § Noun
 ---

@@ -2,7 +2,7 @@
 id: deku
 slug: deku
 title: DEKU
-sidebar_position: 485
+sidebar_position: 486
 tags: [deku, Noun, Germanic]
 description: ceiling § Noun
 ---

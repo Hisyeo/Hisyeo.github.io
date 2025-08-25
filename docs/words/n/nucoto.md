@@ -2,7 +2,7 @@
 id: nucoto
 slug: nucoto
 title: NUCOTO
-sidebar_position: 764
+sidebar_position: 765
 tags: [nucoto, Noun, Indo-Iranian]
 description: planet § Noun
 ---

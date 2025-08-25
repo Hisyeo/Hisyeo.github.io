@@ -2,7 +2,7 @@
 id: kônbo
 slug: kônbo
 title: KÔNBO
-sidebar_position: 190
+sidebar_position: 189
 tags: [kônbo, Adjective, Indo-Iranian]
 description: shaking § Adjective
 ---

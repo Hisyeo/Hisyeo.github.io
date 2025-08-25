@@ -2,7 +2,7 @@
 id: fiyûxît
 slug: fiyûxît
 title: FIYÛXÎT
-sidebar_position: 644
+sidebar_position: 645
 tags: [fiyûxît, Verb, Balto-Slavic]
 description: to employ (the employed) § Verb
 ---

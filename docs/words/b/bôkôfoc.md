@@ -2,7 +2,7 @@
 id: bôkôfoc
 slug: bôkôfoc
 title: BÔKÔFOC
-sidebar_position: 569
+sidebar_position: 570
 tags: [bôkôfoc, Verb, Balto-Slavic]
 description: to block (the blocked) § Verb
 ---

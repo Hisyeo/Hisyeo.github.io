@@ -2,7 +2,7 @@
 id: hîyôlî
 slug: hîyôlî
 title: HÎYÔLÎ
-sidebar_position: 148
+sidebar_position: 147
 tags: [hîyôlî, Adjective, Niger-Congo]
 description: weak § Adjective
 ---

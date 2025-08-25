@@ -2,7 +2,7 @@
 id: comen
 slug: comen
 title: COMEN
-sidebar_position: 316
+sidebar_position: 317
 tags: [comen, Noun, Indo-Iranian]
 description: lawn/meadow § Noun
 ---

@@ -2,7 +2,7 @@
 id: gemolen
 slug: gemolen
 title: GEMOLEN
-sidebar_position: 252
+sidebar_position: 251
 tags: [gemolen, Adjective, Germanic]
 description: milled/ground/crushed § Adjective
 ---

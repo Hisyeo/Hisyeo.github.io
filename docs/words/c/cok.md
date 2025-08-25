@@ -2,7 +2,7 @@
 id: cok
 slug: cok
 title: COK
-sidebar_position: 312
+sidebar_position: 313
 tags: [cok, Adjective, Kra-Dai]
 description: departing § Adjective
 ---

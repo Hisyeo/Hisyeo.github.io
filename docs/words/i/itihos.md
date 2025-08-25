@@ -2,7 +2,7 @@
 id: itihos
 slug: itihos
 title: ITIHOS
-sidebar_position: 64
+sidebar_position: 63
 tags: [itihos, Noun, Indo-Iranian]
 description: history § Noun
 ---

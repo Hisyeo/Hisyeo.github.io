@@ -2,7 +2,7 @@
 id: êto
 slug: êto
 title: ÊTO
-sidebar_position: 56
+sidebar_position: 55
 tags: [êto, Determiner, Tupian]
 description: many § Determiner
 ---

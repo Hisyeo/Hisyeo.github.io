@@ -2,7 +2,7 @@
 id: minyô
 slug: minyô
 title: MINYÔ
-sidebar_position: 699
+sidebar_position: 700
 tags: [minyô, Noun, Niger-Congo]
 description: worm § Noun
 ---

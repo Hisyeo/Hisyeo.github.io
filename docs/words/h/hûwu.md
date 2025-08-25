@@ -2,7 +2,7 @@
 id: hûwu
 slug: hûwu
 title: HÛWU
-sidebar_position: 160
+sidebar_position: 159
 tags: [hûwu, Noun, Austronesian]
 description: egg § Noun
 ---

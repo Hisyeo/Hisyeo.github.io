@@ -2,7 +2,7 @@
 id: bônti
 slug: bônti
 title: BÔNTI
-sidebar_position: 573
+sidebar_position: 574
 tags: [bônti, Noun, Romance]
 description: bridge § Noun
 ---

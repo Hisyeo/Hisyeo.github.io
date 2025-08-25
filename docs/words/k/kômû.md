@@ -2,7 +2,7 @@
 id: kômû
 slug: kômû
 title: KÔMÛ
-sidebar_position: 185
+sidebar_position: 184
 tags: [kômû, Noun, Dravidian]
 description: horn/spike § Noun
 ---

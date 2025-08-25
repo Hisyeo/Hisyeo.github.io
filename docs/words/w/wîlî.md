@@ -2,7 +2,7 @@
 id: wîlî
 slug: wîlî
 title: WÎLÎ
-sidebar_position: 799
+sidebar_position: 800
 tags: [wîlî, Adjective, Dravidian]
 description: awake § Adjective
 ---

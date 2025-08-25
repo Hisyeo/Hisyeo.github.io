@@ -2,7 +2,7 @@
 id: omûlto
 slug: omûlto
 title: OMÛLTO
-sidebar_position: 23
+sidebar_position: 22
 tags: [omûlto, Adjective, Dravidian]
 description: abstract § Adjective
 ---

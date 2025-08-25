@@ -2,7 +2,7 @@
 id: umo
 slug: umo
 title: UMO
-sidebar_position: 91
+sidebar_position: 90
 tags: [umo, Noun, Trans-New Guinea]
 description: person § Noun
 ---

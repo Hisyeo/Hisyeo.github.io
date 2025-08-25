@@ -2,7 +2,7 @@
 id: ônsu
 slug: ônsu
 title: ÔNSU
-sidebar_position: 45
+sidebar_position: 44
 tags: [ônsu, Numeral, Romance]
 description: 11 eleven § Numeral
 ---

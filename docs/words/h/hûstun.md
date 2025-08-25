@@ -2,7 +2,7 @@
 id: hûstun
 slug: hûstun
 title: HÛSTUN
-sidebar_position: 155
+sidebar_position: 154
 tags: [hûstun, Noun, Germanic]
 description: cough § Noun
 ---

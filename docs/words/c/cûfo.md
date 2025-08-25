@@ -2,7 +2,7 @@
 id: cûfo
 slug: cûfo
 title: CÛFO
-sidebar_position: 363
+sidebar_position: 364
 tags: [cûfo, Verb, Balto-Slavic]
 description: to ward (a ward) § Verb
 ---

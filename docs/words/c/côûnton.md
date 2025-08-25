@@ -2,7 +2,7 @@
 id: côûnton
 slug: côûnton
 title: CÔÛNTON
-sidebar_position: 322
+sidebar_position: 323
 tags: [côûnton, Adjective, Austro-Asiatic]
 description: loyal/faithful § Adjective
 ---

@@ -2,7 +2,7 @@
 id: dukwêlit
 slug: dukwêlit
 title: DUKWÊLIT
-sidebar_position: 500
+sidebar_position: 501
 tags: [dukwêlit, Adjective, Celtic]
 description: returning § Adjective
 ---

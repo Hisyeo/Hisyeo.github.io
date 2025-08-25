@@ -2,7 +2,7 @@
 id: woloko
 slug: woloko
 title: WOLOKO
-sidebar_position: 781
+sidebar_position: 782
 tags: [woloko, Noun, Afro-Asiatic]
 description: leaf/petal § Noun
 ---

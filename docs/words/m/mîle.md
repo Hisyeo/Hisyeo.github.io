@@ -2,7 +2,7 @@
 id: mîle
 slug: mîle
 title: MÎLE
-sidebar_position: 709
+sidebar_position: 710
 tags: [mîle, Adjective, Koreic]
 description: future § Adjective
 ---

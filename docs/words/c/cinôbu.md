@@ -2,7 +2,7 @@
 id: cinôbu
 slug: cinôbu
 title: CINÔBU
-sidebar_position: 338
+sidebar_position: 339
 tags: [cinôbu, Adjective, Germanic]
 description: vermilion § Adjective
 ---

@@ -2,7 +2,7 @@
 id: ofînê
 slug: ofînê
 title: OFÎNÊ
-sidebar_position: 22
+sidebar_position: 21
 tags: [ofînê, Adjective, Romance]
 description: cultured/refined § Adjective
 ---

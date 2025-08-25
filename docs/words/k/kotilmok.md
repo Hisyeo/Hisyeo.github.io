@@ -2,7 +2,7 @@
 id: kotilmok
 slug: kotilmok
 title: KOTILMOK
-sidebar_position: 166
+sidebar_position: 165
 tags: [kotilmok, Adjective, Turkic]
 description: participating/contributing § Adjective
 ---
