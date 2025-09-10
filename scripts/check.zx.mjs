@@ -64,7 +64,7 @@ for (const record of records) {
            'Interjection'
         ].includes(record["Type"]) &&
         /[oôeêiiuû]/.test(record["Hîsyêô"][0])) {
-        apocopes.push(`l${record["Hîsyêô"]}`, `p${record["Hîsyêô"]}`);
+        apocopes.push(`l${record["Hîsyêô"]}`, `p${record["Hîsyêô"]}`, `e${record["Hîsyêô"]}`);
     }
 }
 
