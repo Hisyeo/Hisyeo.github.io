@@ -3,7 +3,7 @@ id: tûu
 slug: tûu
 title: TÛU
 sidebar_position: 308
-tags: [tûu, Verb, Austro-Asiatic]
+tags: [tûu, Verb, Austro-Asiatic, Communication, Communication 101]
 description: to do (an action) § Verb
 ---
 

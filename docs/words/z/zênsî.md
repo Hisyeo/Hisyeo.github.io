@@ -3,7 +3,7 @@ id: zênsî
 slug: zênsî
 title: ZÊNSÎ
 sidebar_position: 531
-tags: [zênsî, Adjective, Indo-Iranian]
+tags: [zênsî, Adjective, Indo-Iranian, Emotion, Emotion 202]
 description: sexual § Adjective
 ---
 

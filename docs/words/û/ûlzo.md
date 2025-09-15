@@ -3,7 +3,7 @@ id: ûlzo
 slug: ûlzo
 title: ÛLZO
 sidebar_position: 114
-tags: [ûlzo, Noun, Indo-Iranian]
+tags: [ûlzo, Noun, Indo-Iranian, Science, Science 201]
 description: energy/power § Noun
 ---
 

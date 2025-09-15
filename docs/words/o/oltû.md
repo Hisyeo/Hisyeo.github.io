@@ -3,7 +3,7 @@ id: oltû
 slug: oltû
 title: OLTÛ
 sidebar_position: 31
-tags: [oltû, Adjective, Romance]
+tags: [oltû, Adjective, Romance, Phenomenology, Phenomenology 202]
 description: loud § Adjective
 ---
 

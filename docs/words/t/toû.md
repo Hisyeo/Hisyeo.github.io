@@ -3,7 +3,7 @@ id: toû
 slug: toû
 title: TOÛ
 sidebar_position: 273
-tags: [toû, Numeral, Hmong-Mien]
+tags: [toû, Numeral, Hmong-Mien, Mathematics, Mathematics 102]
 description: 06 six § Numeral
 ---
 

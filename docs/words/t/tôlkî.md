@@ -3,7 +3,7 @@ id: tôlkî
 slug: tôlkî
 title: TÔLKÎ
 sidebar_position: 290
-tags: [tôlkî, Adjective, Balto-Slavic]
+tags: [tôlkî, Adjective, Balto-Slavic, Evaluation, Evaluation 101]
 description: only § Adjective
 ---
 

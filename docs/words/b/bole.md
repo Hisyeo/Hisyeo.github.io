@@ -3,7 +3,7 @@ id: bole
 slug: bole
 title: BOLE
 sidebar_position: 566
-tags: [bole, Numeral, Indo-Iranian]
+tags: [bole, Numeral, Indo-Iranian, Mathematics, Mathematics 203]
 description: 12 twelve § Numeral
 ---
 

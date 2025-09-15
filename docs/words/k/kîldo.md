@@ -3,7 +3,7 @@ id: kîldo
 slug: kîldo
 title: KÎLDO
 sidebar_position: 209
-tags: [kîldo, Adjective, Koreic]
+tags: [kîldo, Adjective, Koreic, Architecture, Architecture 301]
 description: long § Adjective
 ---
 

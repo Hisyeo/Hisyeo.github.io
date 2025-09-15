@@ -3,7 +3,7 @@ id: ses
 slug: ses
 title: SES
 sidebar_position: 396
-tags: [ses, Numeral, Romance]
+tags: [ses, Numeral, Romance, Mathematics, Mathematics 204]
 description: 16 sixteen § Numeral
 ---
 

@@ -3,7 +3,7 @@ id: nulto
 slug: nulto
 title: NULTO
 sidebar_position: 772
-tags: [nulto, Adjective, Koreic]
+tags: [nulto, Adjective, Koreic, Architecture, Architecture 302]
 description: wide § Adjective
 ---
 

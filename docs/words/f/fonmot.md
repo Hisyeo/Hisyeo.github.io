@@ -3,7 +3,7 @@ id: fonmot
 slug: fonmot
 title: FONMOT
 sidebar_position: 632
-tags: [fonmot, Adjective, Austro-Asiatic]
+tags: [fonmot, Adjective, Austro-Asiatic, Geography, Geography 101]
 description: absent/nonexistent § Adjective
 ---
 

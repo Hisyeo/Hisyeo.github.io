@@ -3,7 +3,7 @@ id: bônti
 slug: bônti
 title: BÔNTI
 sidebar_position: 575
-tags: [bônti, Noun, Romance]
+tags: [bônti, Noun, Romance, Architecture, Architecture 201]
 description: bridge § Noun
 ---
 

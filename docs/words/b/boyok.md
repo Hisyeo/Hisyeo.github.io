@@ -3,7 +3,7 @@ id: boyok
 slug: boyok
 title: BOYOK
 sidebar_position: 570
-tags: [boyok, Adjective, Turkic]
+tags: [boyok, Adjective, Turkic, Mathematics, Mathematics 301]
 description: recent § Adjective
 ---
 

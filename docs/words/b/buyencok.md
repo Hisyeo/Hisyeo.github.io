@@ -3,7 +3,7 @@ id: buyencok
 slug: buyencok
 title: BUYENCOK
 sidebar_position: 611
-tags: [buyencok, Noun, Balto-Slavic]
+tags: [buyencok, Noun, Balto-Slavic, Biology, Biology 102]
 description: arachnid § Noun
 ---
 

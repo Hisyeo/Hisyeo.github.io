@@ -3,7 +3,7 @@ id: unon
 slug: unon
 title: UNON
 sidebar_position: 91
-tags: [unon, Verb, Sino-Tibetan]
+tags: [unon, Verb, Sino-Tibetan, Phenomenology, Phenomenology 102]
 description: to smell (a scent) § Verb
 ---
 

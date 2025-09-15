@@ -3,7 +3,7 @@ id: bêsu
 slug: bêsu
 title: BÊSU
 sidebar_position: 583
-tags: [bêsu, Adjective, Austronesian]
+tags: [bêsu, Adjective, Austronesian, Evaluation, Evaluation 099]
 description: different § Adjective
 ---
 

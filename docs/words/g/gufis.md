@@ -3,7 +3,7 @@ id: gufis
 slug: gufis
 title: GUFIS
 sidebar_position: 260
-tags: [gufis, Adjective, Germanic]
+tags: [gufis, Adjective, Germanic, Emotion, Emotion 202]
 description: certain § Adjective
 ---
 

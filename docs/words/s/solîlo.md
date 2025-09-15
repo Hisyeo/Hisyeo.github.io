@@ -3,7 +3,7 @@ id: solîlo
 slug: solîlo
 title: SOLÎLO
 sidebar_position: 387
-tags: [solîlo, Noun, Indo-Iranian]
+tags: [solîlo, Noun, Indo-Iranian, Anatomy, Anatomy 101]
 description: body § Noun
 ---
 

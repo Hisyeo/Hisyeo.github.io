@@ -3,7 +3,7 @@ id: hêlxun
 slug: hêlxun
 title: HÊLXUN
 sidebar_position: 140
-tags: [hêlxun, Adjective, Albanian]
+tags: [hêlxun, Adjective, Albanian, Mathematics, Mathematics 302]
 description: early § Adjective
 ---
 

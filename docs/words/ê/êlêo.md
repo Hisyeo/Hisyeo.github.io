@@ -3,7 +3,7 @@ id: êlêo
 slug: êlêo
 title: ÊLÊO
 sidebar_position: 62
-tags: [êlêo, Adjective, Niger-Congo]
+tags: [êlêo, Adjective, Niger-Congo, Phenomenology, Phenomenology 303]
 description: floating § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: îlê
 slug: îlê
 title: ÎLÊ
 sidebar_position: 82
-tags: [îlê, Noun, Niger-Congo]
+tags: [îlê, Noun, Niger-Congo, Architecture, Architecture 201]
 description: building § Noun
 ---
 

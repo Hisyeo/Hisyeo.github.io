@@ -3,7 +3,7 @@ id: nicu
 slug: nicu
 title: NICU
 sidebar_position: 755
-tags: [nicu, Noun, Indo-Iranian]
+tags: [nicu, Noun, Indo-Iranian, Anatomy, Anatomy 303]
 description: sneeze § Noun
 ---
 

@@ -3,7 +3,7 @@ id: colot
 slug: colot
 title: COLOT
 sidebar_position: 321
-tags: [colot, Adjective, Kra-Dai]
+tags: [colot, Adjective, Kra-Dai, Emotion, Emotion 301]
 description: wise/clever § Adjective
 ---
 

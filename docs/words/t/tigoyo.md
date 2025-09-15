@@ -3,7 +3,7 @@ id: tigoyo
 slug: tigoyo
 title: TIGOYO
 sidebar_position: 294
-tags: [tigoyo, Adjective, Austronesian]
+tags: [tigoyo, Adjective, Austronesian, Anatomy, Anatomy 302]
 description: supine § Adjective
 ---
 

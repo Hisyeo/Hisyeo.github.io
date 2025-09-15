@@ -3,7 +3,7 @@ id: xifon
 slug: xifon
 title: XIFON
 sidebar_position: 453
-tags: [xifon, Noun, Germanic]
+tags: [xifon, Noun, Germanic, Nutrition, Nutrition 102]
 description: fungus § Noun
 ---
 

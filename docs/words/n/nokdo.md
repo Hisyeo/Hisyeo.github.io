@@ -3,7 +3,7 @@ id: nokdo
 slug: nokdo
 title: NOKDO
 sidebar_position: 731
-tags: [nokdo, Adjective, Koreic]
+tags: [nokdo, Adjective, Koreic, Anatomy, Anatomy 201]
 description: old § Adjective
 ---
 

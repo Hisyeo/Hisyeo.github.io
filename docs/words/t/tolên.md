@@ -3,7 +3,7 @@ id: tolên
 slug: tolên
 title: TOLÊN
 sidebar_position: 280
-tags: [tolên, Noun, Austro-Asiatic]
+tags: [tolên, Noun, Austro-Asiatic, Anatomy, Anatomy 101]
 description: limb § Noun
 ---
 

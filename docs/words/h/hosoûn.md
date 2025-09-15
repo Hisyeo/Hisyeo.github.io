@@ -3,7 +3,7 @@ id: hosoûn
 slug: hosoûn
 title: HOSOÛN
 sidebar_position: 120
-tags: [hosoûn, Noun, Romance]
+tags: [hosoûn, Noun, Romance, Science, Science 102]
 description: ratio/proportion § Noun
 ---
 

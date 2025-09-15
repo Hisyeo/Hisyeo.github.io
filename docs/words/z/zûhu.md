@@ -3,7 +3,7 @@ id: zûhu
 slug: zûhu
 title: ZÛHU
 sidebar_position: 546
-tags: [zûhu, Noun, Albanian]
+tags: [zûhu, Noun, Albanian, Anatomy, Anatomy 203]
 description: tongue § Noun
 ---
 

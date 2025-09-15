@@ -3,7 +3,7 @@ id: okôt
 slug: okôt
 title: OKÔT
 sidebar_position: 3
-tags: [okôt, Verb, Austronesian]
+tags: [okôt, Verb, Austronesian, Phenomenology, Phenomenology 101]
 description: to bear (a burden) § Verb
 ---
 

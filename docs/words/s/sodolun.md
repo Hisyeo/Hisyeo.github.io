@@ -3,7 +3,7 @@ id: sodolun
 slug: sodolun
 title: SODOLUN
 sidebar_position: 377
-tags: [sodolun, Adjective, Indo-Iranian]
+tags: [sodolun, Adjective, Indo-Iranian, Sociology, Sociology 101]
 description: normal § Adjective
 ---
 

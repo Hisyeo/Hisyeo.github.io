@@ -3,7 +3,7 @@ id: kîskô
 slug: kîskô
 title: KÎSKÔ
 sidebar_position: 203
-tags: [kîskô, Noun, Uralic]
+tags: [kîskô, Noun, Uralic, Architecture, Architecture 202]
 description: rail/rack/bar § Noun
 ---
 

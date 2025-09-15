@@ -3,7 +3,7 @@ id: nonto
 slug: nonto
 title: NONTO
 sidebar_position: 739
-tags: [nonto, Noun, Kra-Dai]
+tags: [nonto, Noun, Kra-Dai, Anatomy, Anatomy 304]
 description: tear (of the eye) § Noun
 ---
 

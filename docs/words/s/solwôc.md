@@ -3,7 +3,7 @@ id: solwôc
 slug: solwôc
 title: SOLWÔC
 sidebar_position: 388
-tags: [solwôc, Noun, Indo-Iranian]
+tags: [solwôc, Noun, Indo-Iranian, Geography, Geography 201]
 description: top § Noun
 ---
 

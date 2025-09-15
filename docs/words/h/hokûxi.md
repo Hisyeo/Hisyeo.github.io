@@ -3,7 +3,7 @@ id: hokûxi
 slug: hokûxi
 title: HOKÛXI
 sidebar_position: 119
-tags: [hokûxi, Adjective, Japonic]
+tags: [hokûxi, Adjective, Japonic, Phenomenology, Phenomenology 304]
 description: clapping/applauding § Adjective
 ---
 

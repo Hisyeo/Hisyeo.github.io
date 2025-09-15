@@ -3,7 +3,7 @@ id: bîolî
 slug: bîolî
 title: BÎOLÎ
 sidebar_position: 592
-tags: [bîolî, Interjection, Uto-Aztecan]
+tags: [bîolî, Interjection, Uto-Aztecan, Grammar, Grammar 099]
 description: hello/goodbye § Interjection
 ---
 

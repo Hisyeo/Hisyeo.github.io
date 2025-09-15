@@ -3,7 +3,7 @@ id: zomo
 slug: zomo
 title: ZOMO
 sidebar_position: 516
-tags: [zomo, Noun, Afro-Asiatic]
+tags: [zomo, Noun, Afro-Asiatic, Communication, Communication 201]
 description: group § Noun
 ---
 

@@ -3,7 +3,7 @@ id: kûngîyo
 slug: kûngîyo
 title: KÛNGÎYO
 sidebar_position: 228
-tags: [kûngîyo, Noun, Afro-Asiatic]
+tags: [kûngîyo, Noun, Afro-Asiatic, Sociology, Sociology 302]
 description: organization/enterprise § Noun
 ---
 

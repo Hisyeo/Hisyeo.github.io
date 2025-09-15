@@ -3,7 +3,7 @@ id: mêloc
 slug: mêloc
 title: MÊLOC
 sidebar_position: 697
-tags: [mêloc, Noun, Nakh-Daghestani]
+tags: [mêloc, Noun, Nakh-Daghestani, Anatomy, Anatomy 203]
 description: nose § Noun
 ---
 

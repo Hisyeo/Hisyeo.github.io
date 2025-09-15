@@ -3,7 +3,7 @@ id: mûun
 slug: mûun
 title: MÛUN
 sidebar_position: 717
-tags: [mûun, Adjective, Austro-Asiatic]
+tags: [mûun, Adjective, Austro-Asiatic, Mathematics, Mathematics 302]
 description: late § Adjective
 ---
 

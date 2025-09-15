@@ -3,7 +3,7 @@ id: hûwu
 slug: hûwu
 title: HÛWU
 sidebar_position: 159
-tags: [hûwu, Noun, Austronesian]
+tags: [hûwu, Noun, Austronesian, Anatomy, Anatomy 204]
 description: egg § Noun
 ---
 

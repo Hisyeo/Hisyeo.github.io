@@ -3,7 +3,7 @@ id: zîngu
 slug: zîngu
 title: ZÎNGU
 sidebar_position: 540
-tags: [zîngu, Adjective, Austronesian]
+tags: [zîngu, Adjective, Austronesian, Color, Color 202]
 description: orange § Adjective
 ---
 

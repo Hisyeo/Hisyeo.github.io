@@ -3,7 +3,7 @@ id: fîlo
 slug: fîlo
 title: FÎLO
 sidebar_position: 653
-tags: [fîlo, Noun, Romance]
+tags: [fîlo, Noun, Romance, Communication, Communication 302]
 description: row § Noun
 ---
 

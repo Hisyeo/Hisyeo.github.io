@@ -3,7 +3,7 @@ id: sufoûn
 slug: sufoûn
 title: SUFOÛN
 sidebar_position: 419
-tags: [sufoûn, Noun, Romance]
+tags: [sufoûn, Noun, Romance, Materials, Materials 301]
 description: soap § Noun
 ---
 

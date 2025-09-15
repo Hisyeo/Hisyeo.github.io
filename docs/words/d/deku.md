@@ -3,7 +3,7 @@ id: deku
 slug: deku
 title: DEKU
 sidebar_position: 487
-tags: [deku, Noun, Germanic]
+tags: [deku, Noun, Germanic, Architecture, Architecture 203]
 description: ceiling § Noun
 ---
 

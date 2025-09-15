@@ -3,7 +3,7 @@ id: kûlûnun
 slug: kûlûnun
 title: KÛLÛNUN
 sidebar_position: 231
-tags: [kûlûnun, Noun, Austronesian]
+tags: [kûlûnun, Noun, Austronesian, Architecture, Architecture 202]
 description: cage/kennel/jail/cell § Noun
 ---
 

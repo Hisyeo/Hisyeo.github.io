@@ -3,7 +3,7 @@ id: kôtfûsu
 slug: kôtfûsu
 title: KÔTFÛSU
 sidebar_position: 178
-tags: [kôtfûsu, Noun, Germanic]
+tags: [kôtfûsu, Noun, Germanic, Biology, Biology 202]
 description: cephalapod § Noun
 ---
 

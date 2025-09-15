@@ -3,7 +3,7 @@ id: ogogê
 slug: ogogê
 title: OGOGÊ
 sidebar_position: 8
-tags: [ogogê, Adjective, Dravidian]
+tags: [ogogê, Adjective, Dravidian, Evaluation, Evaluation 201]
 description: frequent/recurring § Adjective
 ---
 

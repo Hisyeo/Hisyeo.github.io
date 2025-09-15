@@ -3,7 +3,7 @@ id: bostofîs
 slug: bostofîs
 title: BOSTOFÎS
 sidebar_position: 558
-tags: [bostofîs, Noun, Balto-Slavic]
+tags: [bostofîs, Noun, Balto-Slavic, Sociology, Sociology 303]
 description: representative/delegate § Noun
 ---
 

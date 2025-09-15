@@ -3,7 +3,7 @@ id: ôîtun
 slug: ôîtun
 title: ÔÎTUN
 sidebar_position: 33
-tags: [ôîtun, Verb, Germanic]
+tags: [ôîtun, Verb, Germanic, Phenomenology, Phenomenology 102]
 description: to vocalize (a vocalization) § Verb
 ---
 

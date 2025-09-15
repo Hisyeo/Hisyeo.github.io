@@ -3,7 +3,7 @@ id: ocûo
 slug: ocûo
 title: OCÛO
 sidebar_position: 11
-tags: [ocûo, Noun, Abkhazo-Adyghean]
+tags: [ocûo, Noun, Abkhazo-Adyghean, Anatomy, Anatomy 203]
 description: skin § Noun
 ---
 

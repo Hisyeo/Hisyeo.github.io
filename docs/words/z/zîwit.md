@@ -3,7 +3,7 @@ id: zîwit
 slug: zîwit
 title: ZÎWIT
 sidebar_position: 541
-tags: [zîwit, Adjective, Indo-Iranian]
+tags: [zîwit, Adjective, Indo-Iranian, Anatomy, Anatomy 102]
 description: alive § Adjective
 ---
 

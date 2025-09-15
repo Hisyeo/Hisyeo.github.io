@@ -3,7 +3,7 @@ id: mûkônun
 slug: mûkônun
 title: MÛKÔNUN
 sidebar_position: 719
-tags: [mûkônun, Noun, Dravidian]
+tags: [mûkônun, Noun, Dravidian, Architecture, Architecture 101]
 description: triangle § Noun
 ---
 

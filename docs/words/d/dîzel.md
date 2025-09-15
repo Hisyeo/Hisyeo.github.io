@@ -3,7 +3,7 @@ id: dîzel
 slug: dîzel
 title: DÎZEL
 sidebar_position: 496
-tags: [dîzel, Pronoun, Turkic]
+tags: [dîzel, Pronoun, Turkic, Language, Language 201]
 description: other § Pronoun
 ---
 

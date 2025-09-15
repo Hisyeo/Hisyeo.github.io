@@ -3,7 +3,7 @@ id: bôlfêlê
 slug: bôlfêlê
 title: BÔLFÊLÊ
 sidebar_position: 576
-tags: [bôlfêlê, Noun, Romance]
+tags: [bôlfêlê, Noun, Romance, Materials, Materials 101]
 description: powder § Noun
 ---
 

@@ -3,7 +3,7 @@ id: kêxîk
 slug: kêxîk
 title: KÊXÎK
 sidebar_position: 195
-tags: [kêxîk, Adjective, Mayan]
+tags: [kêxîk, Adjective, Mayan, Evaluation, Evaluation 301]
 description: variable/unstable § Adjective
 ---
 

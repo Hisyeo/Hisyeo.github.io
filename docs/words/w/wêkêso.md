@@ -3,7 +3,7 @@ id: wêkêso
 slug: wêkêso
 title: WÊKÊSO
 sidebar_position: 790
-tags: [wêkêso, Verb, Niger-Congo]
+tags: [wêkêso, Verb, Niger-Congo, Sociology, Sociology 303]
 description: to invest [in] (an investee) § Verb
 ---
 

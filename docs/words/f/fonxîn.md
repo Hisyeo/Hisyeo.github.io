@@ -3,7 +3,7 @@ id: fonxîn
 slug: fonxîn
 title: FONXÎN
 sidebar_position: 630
-tags: [fonxîn, Noun, Sino-Tibetan]
+tags: [fonxîn, Noun, Sino-Tibetan, Architecture, Architecture 101]
 description: square/rectangle § Noun
 ---
 

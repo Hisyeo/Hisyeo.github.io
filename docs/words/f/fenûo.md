@@ -3,7 +3,7 @@ id: fenûo
 slug: fenûo
 title: FENÛO
 sidebar_position: 640
-tags: [fenûo, Noun, Austronesian]
+tags: [fenûo, Noun, Austronesian, Geography, Geography 101]
 description: country/region § Noun
 ---
 

@@ -3,7 +3,7 @@ id: môtîfô
 slug: môtîfô
 title: MÔTÎFÔ
 sidebar_position: 686
-tags: [môtîfô, Noun, Romance]
+tags: [môtîfô, Noun, Romance, Communication, Communication 203]
 description: reason § Noun
 ---
 

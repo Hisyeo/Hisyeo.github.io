@@ -3,7 +3,7 @@ id: uklo
 slug: uklo
 title: UKLO
 sidebar_position: 84
-tags: [uklo, Adjective, Indo-Iranian]
+tags: [uklo, Adjective, Indo-Iranian, Mathematics, Mathematics 202]
 description: next § Adjective
 ---
 

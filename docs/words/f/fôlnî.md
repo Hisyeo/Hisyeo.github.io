@@ -3,7 +3,7 @@ id: fôlnî
 slug: fôlnî
 title: FÔLNÎ
 sidebar_position: 638
-tags: [fôlnî, Adjective, Balto-Slavic]
+tags: [fôlnî, Adjective, Balto-Slavic, Evaluation, Evaluation 203]
 description: free § Adjective
 ---
 

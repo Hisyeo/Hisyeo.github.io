@@ -3,7 +3,7 @@ id: tulkolyun
 slug: tulkolyun
 title: TULKOLYUN
 sidebar_position: 306
-tags: [tulkolyun, Adjective, Balto-Slavic]
+tags: [tulkolyun, Adjective, Balto-Slavic, Phenomenology, Phenomenology 201]
 description: rolling/tumbling § Adjective
 ---
 

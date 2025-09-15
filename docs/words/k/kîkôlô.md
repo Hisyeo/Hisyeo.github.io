@@ -3,7 +3,7 @@ id: kîkôlô
 slug: kîkôlô
 title: KÎKÔLÔ
 sidebar_position: 201
-tags: [kîkôlô, Adjective, Niger-Congo]
+tags: [kîkôlô, Adjective, Niger-Congo, Nutrition, Nutrition 201]
 description: bitter § Adjective
 ---
 

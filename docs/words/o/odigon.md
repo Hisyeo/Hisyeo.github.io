@@ -3,7 +3,7 @@ id: odigon
 slug: odigon
 title: ODIGON
 sidebar_position: 14
-tags: [odigon, Determiner, Dravidian]
+tags: [odigon, Determiner, Dravidian, Mathematics, Mathematics 303]
 description: excess § Determiner
 ---
 

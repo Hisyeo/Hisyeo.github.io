@@ -3,7 +3,7 @@ id: lôzîc
 slug: lôzîc
 title: LÔZÎC
 sidebar_position: 822
-tags: [lôzîc, Verb, Balto-Slavic]
+tags: [lôzîc, Verb, Balto-Slavic, Anatomy, Anatomy 303]
 description: to give birth to (a baby) § Verb
 ---
 

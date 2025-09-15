@@ -3,7 +3,7 @@ id: funsût
 slug: funsût
 title: FUNSÛT
 sidebar_position: 657
-tags: [funsût, Adjective, Romance]
+tags: [funsût, Adjective, Romance, Sociology, Sociology 303]
 description: defeated § Adjective
 ---
 

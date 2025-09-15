@@ -3,7 +3,7 @@ id: îsbônxu
 slug: îsbônxu
 title: ÎSBÔNXU
 sidebar_position: 74
-tags: [îsbônxu, Noun, Romance]
+tags: [îsbônxu, Noun, Romance, Biology, Biology 202]
 description: sponge § Noun
 ---
 

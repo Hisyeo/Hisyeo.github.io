@@ -3,7 +3,7 @@ id: botuk
 slug: botuk
 title: BOTUK
 sidebar_position: 556
-tags: [botuk, Adjective, Austronesian]
+tags: [botuk, Adjective, Austronesian, Architecture, Architecture 302]
 description: flat § Adjective
 ---
 

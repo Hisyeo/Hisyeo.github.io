@@ -3,7 +3,7 @@ id: kûon
 slug: kûon
 title: KÛON
 sidebar_position: 216
-tags: [kûon, Noun, Sino-Tibetan]
+tags: [kûon, Noun, Sino-Tibetan, Color, Color 202]
 description: light § Noun
 ---
 

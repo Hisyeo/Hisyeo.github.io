@@ -3,7 +3,7 @@ id: cûndôl
 slug: cûndôl
 title: CÛNDÔL
 sidebar_position: 367
-tags: [cûndôl, Noun, Koreic]
+tags: [cûndôl, Noun, Koreic, Phenomenology, Phenomenology 304]
 description: collision § Noun
 ---
 

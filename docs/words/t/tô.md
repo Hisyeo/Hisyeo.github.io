@@ -3,7 +3,7 @@ id: tô
 slug: tô
 title: TÔ
 sidebar_position: 284
-tags: [tô, Preposition, Dravidian]
+tags: [tô, Preposition, Dravidian, Grammar, Grammar 104]
 description: instrumental marker (using/with) § Preposition
 ---
 

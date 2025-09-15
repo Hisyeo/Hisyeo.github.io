@@ -3,7 +3,7 @@ id: cîenxîn
 slug: cîenxîn
 title: CÎENXÎN
 sidebar_position: 344
-tags: [cîenxîn, Adjective, Sino-Tibetan]
+tags: [cîenxîn, Adjective, Sino-Tibetan, Science, Science 201]
 description: alkaline § Adjective
 ---
 

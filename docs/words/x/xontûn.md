@@ -3,7 +3,7 @@ id: xontûn
 slug: xontûn
 title: XONTÛN
 sidebar_position: 439
-tags: [xontûn, Verb, Sino-Tibetan]
+tags: [xontûn, Verb, Sino-Tibetan, Communication, Communication 302]
 description: to provoke (a provocation) § Verb
 ---
 

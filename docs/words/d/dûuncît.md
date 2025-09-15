@@ -3,7 +3,7 @@ id: dûuncît
 slug: dûuncît
 title: DÛUNCÎT
 sidebar_position: 507
-tags: [dûuncît, Noun, Kra-Dai]
+tags: [dûuncît, Noun, Kra-Dai, Anatomy, Anatomy 101]
 description: brain/mind § Noun
 ---
 

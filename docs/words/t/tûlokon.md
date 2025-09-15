@@ -3,7 +3,7 @@ id: tûlokon
 slug: tûlokon
 title: TÛLOKON
 sidebar_position: 311
-tags: [tûlokon, Verb, Kra-Dai]
+tags: [tûlokon, Verb, Kra-Dai, Sociology, Sociology 203]
 description: to adjudge (judgement) § Verb
 ---
 

@@ -3,7 +3,7 @@ id: xonluk
 slug: xonluk
 title: XONLUK
 sidebar_position: 440
-tags: [xonluk, Adjective, Turkic]
+tags: [xonluk, Adjective, Turkic, Anatomy, Anatomy 201]
 description: young § Adjective
 ---
 

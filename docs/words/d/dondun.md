@@ -3,7 +3,7 @@ id: dondun
 slug: dondun
 title: DONDUN
 sidebar_position: 481
-tags: [dondun, Adjective, Kra-Dai]
+tags: [dondun, Adjective, Kra-Dai, Sociology, Sociology 202]
 description: traditional § Adjective
 ---
 

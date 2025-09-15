@@ -3,7 +3,7 @@ id: wêxôn
 slug: wêxôn
 title: WÊXÔN
 sidebar_position: 793
-tags: [wêxôn, Noun, Uralic]
+tags: [wêxôn, Noun, Uralic, Mathematics, Mathematics 302]
 description: week § Noun
 ---
 

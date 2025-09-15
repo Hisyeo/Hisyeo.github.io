@@ -3,7 +3,7 @@ id: onfîbî
 slug: onfîbî
 title: ONFÎBÎ
 sidebar_position: 29
-tags: [onfîbî, Noun, Romance]
+tags: [onfîbî, Noun, Romance, Biology, Biology 201]
 description: amphibian § Noun
 ---
 

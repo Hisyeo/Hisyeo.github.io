@@ -3,7 +3,7 @@ id: lûok
 slug: lûok
 title: LÛOK
 sidebar_position: 844
-tags: [lûok, Noun, Afro-Asiatic]
+tags: [lûok, Noun, Afro-Asiatic, Communication, Communication 203]
 description: spirit/ghost § Noun
 ---
 

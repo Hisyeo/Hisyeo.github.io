@@ -3,7 +3,7 @@ id: nodu
 slug: nodu
 title: NODU
 sidebar_position: 734
-tags: [nodu, Noun, Austronesian]
+tags: [nodu, Noun, Austronesian, Tools, Tools 101]
 description: tone § Noun
 ---
 

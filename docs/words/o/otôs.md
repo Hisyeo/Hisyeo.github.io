@@ -3,7 +3,7 @@ id: otôs
 slug: otôs
 title: OTÔS
 sidebar_position: 10
-tags: [otôs, Adjective, Austronesian]
+tags: [otôs, Adjective, Austronesian, Materials, Materials 201]
 description: hard § Adjective
 ---
 

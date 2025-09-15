@@ -3,7 +3,7 @@ id: êto
 slug: êto
 title: ÊTO
 sidebar_position: 55
-tags: [êto, Determiner, Tupian]
+tags: [êto, Determiner, Tupian, Mathematics, Mathematics 201]
 description: many § Determiner
 ---
 

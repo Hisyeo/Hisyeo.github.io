@@ -3,7 +3,7 @@ id: lôîcôk
 slug: lôîcôk
 title: LÔÎCÔK
 sidebar_position: 819
-tags: [lôîcôk, Postposition, Sino-Tibetan]
+tags: [lôîcôk, Postposition, Sino-Tibetan, Grammar, Grammar 204]
 description: emphasis sentence ender (really/again) § Postposition
 ---
 

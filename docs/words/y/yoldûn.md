@@ -3,7 +3,7 @@ id: yoldûn
 slug: yoldûn
 title: YOLDÛN
 sidebar_position: 860
-tags: [yoldûn, Noun, Turkic]
+tags: [yoldûn, Noun, Turkic, Communication, Communication 202]
 description: help/aid § Noun
 ---
 

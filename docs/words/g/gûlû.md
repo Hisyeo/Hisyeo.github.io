@@ -3,7 +3,7 @@ id: gûlû
 slug: gûlû
 title: GÛLÛ
 sidebar_position: 272
-tags: [gûlû, Noun, Nilo-Saharan]
+tags: [gûlû, Noun, Nilo-Saharan, Anatomy, Anatomy 204]
 description: wound/injury § Noun
 ---
 

@@ -3,7 +3,7 @@ id: bundu
 slug: bundu
 title: BUNDU
 sidebar_position: 610
-tags: [bundu, Adjective, Indo-Iranian]
+tags: [bundu, Adjective, Indo-Iranian, Properties, Properties 101]
 description: closed § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: mûlû
 slug: mûlû
 title: MÛLÛ
 sidebar_position: 727
-tags: [mûlû, Adjective, Dravidian]
+tags: [mûlû, Adjective, Dravidian, Evaluation, Evaluation 101]
 description: full/complete § Adjective
 ---
 

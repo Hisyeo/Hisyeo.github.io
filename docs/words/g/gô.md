@@ -3,7 +3,7 @@ id: gô
 slug: gô
 title: GÔ
 sidebar_position: 245
-tags: [gô, Adjective, Nilo-Saharan]
+tags: [gô, Adjective, Nilo-Saharan, Geography, Geography 101]
 description: existent § Adjective
 ---
 

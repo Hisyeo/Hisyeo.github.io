@@ -3,7 +3,7 @@ id: gîôn
 slug: gîôn
 title: GÎÔN
 sidebar_position: 255
-tags: [gîôn, Adjective, Sino-Tibetan]
+tags: [gîôn, Adjective, Sino-Tibetan, Anatomy, Anatomy 102]
 description: strong § Adjective
 ---
 

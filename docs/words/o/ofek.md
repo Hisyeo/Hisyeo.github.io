@@ -3,7 +3,7 @@ id: ofek
 slug: ofek
 title: OFEK
 sidebar_position: 20
-tags: [ofek, Preposition, Romance]
+tags: [ofek, Preposition, Romance, Grammar, Grammar 203]
 description: comitative marker (alongside/with) § Preposition
 ---
 

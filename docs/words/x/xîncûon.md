@@ -3,7 +3,7 @@ id: xîncûon
 slug: xîncûon
 title: XÎNCÛON
 sidebar_position: 463
-tags: [xîncûon, Noun, Sino-Tibetan]
+tags: [xîncûon, Noun, Sino-Tibetan, Architecture, Architecture 101]
 description: shape/form § Noun
 ---
 

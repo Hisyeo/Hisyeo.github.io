@@ -3,7 +3,7 @@ id: cîhun
 slug: cîhun
 title: CÎHUN
 sidebar_position: 345
-tags: [cîhun, Verb, Germanic]
+tags: [cîhun, Verb, Germanic, Phenomenology, Phenomenology 201]
 description: to pull/attract (the pulled/attracted) § Verb
 ---
 

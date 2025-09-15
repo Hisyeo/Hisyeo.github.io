@@ -3,7 +3,7 @@ id: cino
 slug: cino
 title: CINO
 sidebar_position: 338
-tags: [cino, Noun, Balto-Slavic]
+tags: [cino, Noun, Balto-Slavic, Sociology, Sociology 102]
 description: charge/fee/tax § Noun
 ---
 

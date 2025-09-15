@@ -3,7 +3,7 @@ id: infultîn
 slug: infultîn
 title: INFULTÎN
 sidebar_position: 66
-tags: [infultîn, Adjective, Romance]
+tags: [infultîn, Adjective, Romance, Phenomenology, Phenomenology 302]
 description: rotating/spinning § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: monodo
 slug: monodo
 title: MONODO
 sidebar_position: 678
-tags: [monodo, Verb, Koreic]
+tags: [monodo, Verb, Koreic, Communication, Communication 102]
 description: to meet (a meetee) § Verb
 ---
 

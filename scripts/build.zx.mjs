@@ -10,7 +10,7 @@ id: ${w['Hîsyêô']}
 slug: ${w['Hîsyêô']}
 title: ${capitalize(w['Hîsyêô'])}
 sidebar_position: ${i}
-tags: [${w['Hîsyêô']}, ${w['Type']}, ${w['Family']}]
+tags: [${w['Hîsyêô']}, ${w['Type']}, ${w['Family']}, ${w['Group'].split(':')[0].split(' ')[0]}, ${w['Group'].split(':')[0]}]
 description: ${w['Meaning']} § ${w['Type']}
 ---
 

@@ -3,7 +3,7 @@ id: sôltûstik
 slug: sôltûstik
 title: SÔLTÛSTIK
 sidebar_position: 395
-tags: [sôltûstik, Adjective, Turkic]
+tags: [sôltûstik, Adjective, Turkic, Geography, Geography 301]
 description: northern § Adjective
 ---
 

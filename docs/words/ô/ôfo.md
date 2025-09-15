@@ -3,7 +3,7 @@ id: ôfo
 slug: ôfo
 title: ÔFO
 sidebar_position: 41
-tags: [ôfo, Pronoun, Balto-Slavic]
+tags: [ôfo, Pronoun, Balto-Slavic, Grammar, Grammar 102]
 description: proximal demonstrative (this/here) § Pronoun
 ---
 

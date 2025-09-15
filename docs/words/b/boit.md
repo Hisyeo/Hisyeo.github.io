@@ -3,7 +3,7 @@ id: boit
 slug: boit
 title: BOIT
 sidebar_position: 552
-tags: [boit, Numeral, Germanic]
+tags: [boit, Numeral, Germanic, Mathematics, Mathematics 203]
 description: 256 byte § Numeral
 ---
 

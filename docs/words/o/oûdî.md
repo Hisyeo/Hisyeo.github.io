@@ -3,7 +3,7 @@ id: oûdî
 slug: oûdî
 title: OÛDÎ
 sidebar_position: 1
-tags: [oûdî, Noun, Niger-Congo]
+tags: [oûdî, Noun, Niger-Congo, Biology, Biology 101]
 description: seed § Noun
 ---
 

@@ -3,7 +3,7 @@ id: kôxentê
 slug: kôxentê
 title: KÔXENTÊ
 sidebar_position: 182
-tags: [kôxentê, Adjective, Romance]
+tags: [kôxentê, Adjective, Romance, Language, Language 202]
 description: conscious § Adjective
 ---
 

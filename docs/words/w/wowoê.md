@@ -3,7 +3,7 @@ id: wowoê
 slug: wowoê
 title: WOWOÊ
 sidebar_position: 782
-tags: [wowoê, Noun, Austronesian]
+tags: [wowoê, Noun, Austronesian, Anatomy, Anatomy 202]
 description: foot § Noun
 ---
 

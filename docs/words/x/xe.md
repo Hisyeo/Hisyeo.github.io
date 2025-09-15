@@ -3,7 +3,7 @@ id: xe
 slug: xe
 title: XE
 sidebar_position: 447
-tags: [xe, Particle, Afro-Asiatic]
+tags: [xe, Particle, Afro-Asiatic, Grammar, Grammar 202]
 description: subjective subordinate clause particle § Particle
 ---
 

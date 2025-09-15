@@ -3,7 +3,7 @@ id: zolonî
 slug: zolonî
 title: ZOLONÎ
 sidebar_position: 522
-tags: [zolonî, Noun, Indo-Iranian]
+tags: [zolonî, Noun, Indo-Iranian, Materials, Materials 301]
 description: fuel § Noun
 ---
 

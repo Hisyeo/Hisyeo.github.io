@@ -3,7 +3,7 @@ id: bolîmot
 slug: bolîmot
 title: BOLÎMOT
 sidebar_position: 567
-tags: [bolîmot, Adjective, Kra-Dai]
+tags: [bolîmot, Adjective, Kra-Dai, Architecture, Architecture 302]
 description: voluminous/spacious § Adjective
 ---
 

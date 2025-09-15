@@ -3,7 +3,7 @@ id: êbôl
 slug: êbôl
 title: ÊBÔL
 sidebar_position: 57
-tags: [êbôl, Noun, Romance]
+tags: [êbôl, Noun, Romance, Anatomy, Anatomy 203]
 description: shoulder § Noun
 ---
 

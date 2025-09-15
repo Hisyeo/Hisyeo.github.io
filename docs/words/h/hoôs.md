@@ -3,7 +3,7 @@ id: hoôs
 slug: hoôs
 title: HOÔS
 sidebar_position: 115
-tags: [hoôs, Adjective, Hellenic]
+tags: [hoôs, Adjective, Hellenic, Evaluation, Evaluation 301]
 description: chaotic § Adjective
 ---
 

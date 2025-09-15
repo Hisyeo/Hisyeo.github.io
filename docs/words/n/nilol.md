@@ -3,7 +3,7 @@ id: nilol
 slug: nilol
 title: NILOL
 sidebar_position: 759
-tags: [nilol, Noun, Dravidian]
+tags: [nilol, Noun, Dravidian, Geography, Geography 102]
 description: shadow § Noun
 ---
 

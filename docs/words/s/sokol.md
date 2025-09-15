@@ -3,7 +3,7 @@ id: sokol
 slug: sokol
 title: SOKOL
 sidebar_position: 374
-tags: [sokol, Adjective, Turkic]
+tags: [sokol, Adjective, Turkic, Phenomenology, Phenomenology 302]
 description: awkward/clumsy § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: mocko
 slug: mocko
 title: MOCKO
 sidebar_position: 671
-tags: [mocko, Noun, Balto-Slavic]
+tags: [mocko, Noun, Balto-Slavic, Biology, Biology 201]
 description: cat § Noun
 ---
 

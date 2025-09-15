@@ -3,7 +3,7 @@ id: cûlosun
 slug: cûlosun
 title: CÛLOSUN
 sidebar_position: 369
-tags: [cûlosun, Verb, Germanic]
+tags: [cûlosun, Verb, Germanic, Sociology, Sociology 101]
 description: to allow (the allowed) § Verb
 ---
 

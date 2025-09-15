@@ -3,7 +3,7 @@ id: ogolol
 slug: ogolol
 title: OGOLOL
 sidebar_position: 9
-tags: [ogolol, Verb, Romance]
+tags: [ogolol, Verb, Romance, Phenomenology, Phenomenology 101]
 description: to grab/hold (a hold/load) § Verb
 ---
 

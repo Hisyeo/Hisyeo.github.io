@@ -3,7 +3,7 @@ id: sôbo
 slug: sôbo
 title: SÔBO
 sidebar_position: 391
-tags: [sôbo, Noun, Japonic]
+tags: [sôbo, Noun, Japonic, Geography, Geography 201]
 description: side/beside § Noun
 ---
 

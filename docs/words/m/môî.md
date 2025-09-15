@@ -3,7 +3,7 @@ id: môî
 slug: môî
 title: MÔÎ
 sidebar_position: 681
-tags: [môî, Determiner, Austro-Asiatic]
+tags: [môî, Determiner, Austro-Asiatic, Mathematics, Mathematics 201]
 description: all § Determiner
 ---
 

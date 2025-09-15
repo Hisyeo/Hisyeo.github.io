@@ -3,7 +3,7 @@ id: sodilû
 slug: sodilû
 title: SODILÛ
 sidebar_position: 379
-tags: [sodilû, Adjective, Dravidian]
+tags: [sodilû, Adjective, Dravidian, Properties, Properties 102]
 description: loose § Adjective
 ---
 

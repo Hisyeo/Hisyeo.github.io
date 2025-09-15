@@ -3,7 +3,7 @@ id: sotnîn
 slug: sotnîn
 title: SOTNÎN
 sidebar_position: 375
-tags: [sotnîn, Noun, Mayan]
+tags: [sotnîn, Noun, Mayan, Geography, Geography 101]
 description: right § Noun
 ---
 

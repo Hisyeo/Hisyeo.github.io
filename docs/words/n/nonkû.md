@@ -3,7 +3,7 @@ id: nonkû
 slug: nonkû
 title: NONKÛ
 sidebar_position: 738
-tags: [nonkû, Numeral, Dravidian]
+tags: [nonkû, Numeral, Dravidian, Mathematics, Mathematics 101]
 description: 04 four § Numeral
 ---
 

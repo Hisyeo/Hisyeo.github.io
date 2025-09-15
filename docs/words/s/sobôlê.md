@@ -3,7 +3,7 @@ id: sobôlê
 slug: sobôlê
 title: SOBÔLÊ
 sidebar_position: 380
-tags: [sobôlê, Verb, Romance]
+tags: [sobôlê, Verb, Romance, Phenomenology, Phenomenology 102]
 description: to taste (a flavor) § Verb
 ---
 

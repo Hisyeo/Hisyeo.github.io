@@ -3,7 +3,7 @@ id: tûek
 slug: tûek
 title: TÛEK
 sidebar_position: 307
-tags: [tûek, Verb, Sino-Tibetan]
+tags: [tûek, Verb, Sino-Tibetan, Science, Science 102]
 description: to compute (a computation) § Verb
 ---
 

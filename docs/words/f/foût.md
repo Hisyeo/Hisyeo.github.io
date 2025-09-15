@@ -3,7 +3,7 @@ id: foût
 slug: foût
 title: FOÛT
 sidebar_position: 624
-tags: [foût, Noun, Germanic]
+tags: [foût, Noun, Germanic, Evaluation, Evaluation 302]
 description: error § Noun
 ---
 

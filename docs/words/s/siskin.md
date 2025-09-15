@@ -3,7 +3,7 @@ id: siskin
 slug: siskin
 title: SISKIN
 sidebar_position: 407
-tags: [siskin, Noun, Germanic]
+tags: [siskin, Noun, Germanic, Sociology, Sociology 201]
 description: sibling § Noun
 ---
 

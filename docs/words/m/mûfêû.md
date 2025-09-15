@@ -3,7 +3,7 @@ id: mûfêû
 slug: mûfêû
 title: MÛFÊÛ
 sidebar_position: 724
-tags: [mûfêû, Adjective, Niger-Congo]
+tags: [mûfêû, Adjective, Niger-Congo, Anatomy, Anatomy 102]
 description: clean § Adjective
 ---
 

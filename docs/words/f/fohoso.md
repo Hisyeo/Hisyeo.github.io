@@ -3,7 +3,7 @@ id: fohoso
 slug: fohoso
 title: FOHOSO
 sidebar_position: 625
-tags: [fohoso, Verb, Afro-Asiatic]
+tags: [fohoso, Verb, Afro-Asiatic, Science, Science 102]
 description: to examine [for] (an examination) § Verb
 ---
 

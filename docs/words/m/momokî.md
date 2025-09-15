@@ -3,7 +3,7 @@ id: momokî
 slug: momokî
 title: MOMOKÎ
 sidebar_position: 677
-tags: [momokî, Adjective, Afro-Asiatic]
+tags: [momokî, Adjective, Afro-Asiatic, Emotion, Emotion 101]
 description: surprised § Adjective
 ---
 

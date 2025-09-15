@@ -3,7 +3,7 @@ id: centik
 slug: centik
 title: CENTIK
 sidebar_position: 328
-tags: [centik, Adjective, Austro-Asiatic]
+tags: [centik, Adjective, Austro-Asiatic, Sociology, Sociology 203]
 description: official/formal § Adjective
 ---
 

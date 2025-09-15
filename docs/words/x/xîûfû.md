@@ -3,7 +3,7 @@ id: xîûfû
 slug: xîûfû
 title: XÎÛFÛ
 sidebar_position: 455
-tags: [xîûfû, Verb, Sino-Tibetan]
+tags: [xîûfû, Verb, Sino-Tibetan, Tools, Tools 301]
 description: to repair (the repaired) § Verb
 ---
 

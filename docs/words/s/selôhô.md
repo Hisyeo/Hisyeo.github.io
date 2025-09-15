@@ -3,7 +3,7 @@ id: selôhô
 slug: selôhô
 title: SELÔHÔ
 sidebar_position: 398
-tags: [selôhô, Verb, Niger-Congo]
+tags: [selôhô, Verb, Niger-Congo, Communication, Communication 203]
 description: theme/topic § Verb
 ---
 

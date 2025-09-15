@@ -3,7 +3,7 @@ id: gôyu
 slug: gôyu
 title: GÔYU
 sidebar_position: 250
-tags: [gôyu, Noun, Albanian]
+tags: [gôyu, Noun, Albanian, Anatomy, Anatomy 203]
 description: mouth § Noun
 ---
 

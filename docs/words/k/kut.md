@@ -3,7 +3,7 @@ id: kut
 slug: kut
 title: KUT
 sidebar_position: 213
-tags: [kut, Numeral, Sino-Tibetan]
+tags: [kut, Numeral, Sino-Tibetan, Mathematics, Mathematics 101]
 description: 01 one § Numeral
 ---
 

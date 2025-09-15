@@ -3,7 +3,7 @@ id: oklumun
 slug: oklumun
 title: OKLUMUN
 sidebar_position: 7
-tags: [oklumun, Noun, Indo-Iranian]
+tags: [oklumun, Noun, Indo-Iranian, Phenomenology, Phenomenology 303]
 description: attack § Noun
 ---
 

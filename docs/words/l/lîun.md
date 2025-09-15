@@ -3,7 +3,7 @@ id: lîun
 slug: lîun
 title: LÎUN
 sidebar_position: 831
-tags: [lîun, Verb, Austro-Asiatic]
+tags: [lîun, Verb, Austro-Asiatic, Sociology, Sociology 201]
 description: to nurture/grow (the nurtured/grown) § Verb
 ---
 

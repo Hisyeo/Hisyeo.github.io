@@ -3,7 +3,7 @@ id: dînzoû
 slug: dînzoû
 title: DÎNZOÛ
 sidebar_position: 498
-tags: [dînzoû, Noun, Hmong-Mien]
+tags: [dînzoû, Noun, Hmong-Mien, Architecture, Architecture 203]
 description: lip/rim/edge § Noun
 ---
 

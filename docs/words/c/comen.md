@@ -3,7 +3,7 @@ id: comen
 slug: comen
 title: COMEN
 sidebar_position: 317
-tags: [comen, Noun, Indo-Iranian]
+tags: [comen, Noun, Indo-Iranian, Geography, Geography 102]
 description: lawn/meadow § Noun
 ---
 

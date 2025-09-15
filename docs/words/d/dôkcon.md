@@ -3,7 +3,7 @@ id: dôkcon
 slug: dôkcon
 title: DÔKCON
 sidebar_position: 482
-tags: [dôkcon, Adjective, Germanic]
+tags: [dôkcon, Adjective, Germanic, Sociology, Sociology 202]
 description: decent § Adjective
 ---
 

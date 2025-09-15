@@ -3,7 +3,7 @@ id: îbolê
 slug: îbolê
 title: ÎBOLÊ
 sidebar_position: 76
-tags: [îbolê, Noun, Nilo-Saharan]
+tags: [îbolê, Noun, Nilo-Saharan, Sociology, Sociology 302]
 description: enemy/foe § Noun
 ---
 

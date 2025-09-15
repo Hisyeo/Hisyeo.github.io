@@ -3,7 +3,7 @@ id: dodê
 slug: dodê
 title: DODÊ
 sidebar_position: 480
-tags: [dodê, Adjective, Hmong-Mien]
+tags: [dodê, Adjective, Hmong-Mien, Phenomenology, Phenomenology 201]
 description: diving § Adjective
 ---
 

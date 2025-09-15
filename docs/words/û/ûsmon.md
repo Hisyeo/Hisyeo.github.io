@@ -3,7 +3,7 @@ id: ûsmon
 slug: ûsmon
 title: ÛSMON
 sidebar_position: 102
-tags: [ûsmon, Noun, Austro-Asiatic]
+tags: [ûsmon, Noun, Austro-Asiatic, Science, Science 101]
 description: gas § Noun
 ---
 

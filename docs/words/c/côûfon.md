@@ -3,7 +3,7 @@ id: côûfon
 slug: côûfon
 title: CÔÛFON
 sidebar_position: 322
-tags: [côûfon, Verb, Sino-Tibetan]
+tags: [côûfon, Verb, Sino-Tibetan, Nutrition, Nutrition 202]
 description: to cook (a meal) § Verb
 ---
 

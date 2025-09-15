@@ -3,7 +3,7 @@ id: oksûn
 slug: oksûn
 title: OKSÛN
 sidebar_position: 6
-tags: [oksûn, Noun, Afro-Asiatic]
+tags: [oksûn, Noun, Afro-Asiatic, Nutrition, Nutrition 102]
 description: meat/muscle § Noun
 ---
 

@@ -3,7 +3,7 @@ id: cûtî
 slug: cûtî
 title: CÛTÎ
 sidebar_position: 361
-tags: [cûtî, Adjective, Mayan]
+tags: [cûtî, Adjective, Mayan, Architecture, Architecture 301]
 description: small § Adjective
 ---
 

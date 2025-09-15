@@ -3,7 +3,7 @@ id: kon
 slug: kon
 title: KON
 sidebar_position: 168
-tags: [kon, Particle, Kra-Dai]
+tags: [kon, Particle, Kra-Dai, Grammar, Grammar 201]
 description: abstract verb noun particle § Particle
 ---
 

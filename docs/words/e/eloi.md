@@ -3,7 +3,7 @@ id: eloi
 slug: eloi
 title: ELOI
 sidebar_position: 50
-tags: [eloi, Noun, Dravidian]
+tags: [eloi, Noun, Dravidian, Sociology, Sociology 302]
 description: boundary/border § Noun
 ---
 

@@ -3,7 +3,7 @@ id: xîdêtlî
 slug: xîdêtlî
 title: XÎDÊTLÎ
 sidebar_position: 460
-tags: [xîdêtlî, Adjective, Turkic]
+tags: [xîdêtlî, Adjective, Turkic, Sociology, Sociology 202]
 description: strict § Adjective
 ---
 

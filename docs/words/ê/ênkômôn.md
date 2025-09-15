@@ -3,7 +3,7 @@ id: ênkômôn
 slug: ênkômôn
 title: ÊNKÔMÔN
 sidebar_position: 60
-tags: [ênkômôn, Noun, Nilo-Saharan]
+tags: [ênkômôn, Noun, Nilo-Saharan, Anatomy, Anatomy 202]
 description: face § Noun
 ---
 

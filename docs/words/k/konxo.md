@@ -3,7 +3,7 @@ id: konxo
 slug: konxo
 title: KONXO
 sidebar_position: 170
-tags: [konxo, Adjective, Japonic]
+tags: [konxo, Adjective, Japonic, Emotion, Emotion 101]
 description: thankful/grateful § Adjective
 ---
 

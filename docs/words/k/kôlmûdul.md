@@ -3,7 +3,7 @@ id: kôlmûdul
 slug: kôlmûdul
 title: KÔLMÛDUL
 sidebar_position: 191
-tags: [kôlmûdul, Noun, Dravidian]
+tags: [kôlmûdul, Noun, Dravidian, Sociology, Sociology 102]
 description: purchase § Noun
 ---
 

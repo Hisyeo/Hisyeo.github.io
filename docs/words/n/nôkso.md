@@ -3,7 +3,7 @@ id: nôkso
 slug: nôkso
 title: NÔKSO
 sidebar_position: 743
-tags: [nôkso, Noun, Indo-Iranian]
+tags: [nôkso, Noun, Indo-Iranian, Tools, Tools 301]
 description: map/chart § Noun
 ---
 

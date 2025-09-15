@@ -3,7 +3,7 @@ id: bolce
 slug: bolce
 title: BOLCE
 sidebar_position: 569
-tags: [bolce, Noun, Indo-Iranian]
+tags: [bolce, Noun, Indo-Iranian, Materials, Materials 102]
 description: cloth/fabric § Noun
 ---
 

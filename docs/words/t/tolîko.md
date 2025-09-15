@@ -3,7 +3,7 @@ id: tolîko
 slug: tolîko
 title: TOLÎKO
 sidebar_position: 282
-tags: [tolîko, Noun, Afro-Asiatic]
+tags: [tolîko, Noun, Afro-Asiatic, Communication, Communication 203]
 description: method § Noun
 ---
 

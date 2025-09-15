@@ -3,7 +3,7 @@ id: dêko
 slug: dêko
 title: DÊKO
 sidebar_position: 488
-tags: [dêko, Verb, Indo-Iranian]
+tags: [dêko, Verb, Indo-Iranian, Phenomenology, Phenomenology 102]
 description: to see (a view) § Verb
 ---
 

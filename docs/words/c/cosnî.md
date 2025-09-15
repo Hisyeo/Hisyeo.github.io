@@ -3,7 +3,7 @@ id: cosnî
 slug: cosnî
 title: COSNÎ
 sidebar_position: 316
-tags: [cosnî, Adjective, Balto-Slavic]
+tags: [cosnî, Adjective, Balto-Slavic, Sociology, Sociology 203]
 description: private/confidential § Adjective
 ---
 

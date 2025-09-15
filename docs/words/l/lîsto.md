@@ -3,7 +3,7 @@ id: lîsto
 slug: lîsto
 title: LÎSTO
 sidebar_position: 837
-tags: [lîsto, Noun, Romance]
+tags: [lîsto, Noun, Romance, Architecture, Architecture 102]
 description: strip/band § Noun
 ---
 

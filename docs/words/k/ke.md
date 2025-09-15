@@ -3,7 +3,7 @@ id: ke
 slug: ke
 title: KE
 sidebar_position: 192
-tags: [ke, Particle, Balto-Slavic]
+tags: [ke, Particle, Balto-Slavic, Grammar, Grammar 301]
 description: future verb particle § Particle
 ---
 

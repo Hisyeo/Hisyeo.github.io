@@ -3,7 +3,7 @@ id: ûnîdû
 slug: ûnîdû
 title: ÛNÎDÛ
 sidebar_position: 106
-tags: [ûnîdû, Adjective, Romance]
+tags: [ûnîdû, Adjective, Romance, Properties, Properties 101]
 description: joined § Adjective
 ---
 

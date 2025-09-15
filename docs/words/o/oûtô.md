@@ -3,7 +3,7 @@ id: oûtô
 slug: oûtô
 title: OÛTÔ
 sidebar_position: 0
-tags: [oûtô, Verb, Germanic]
+tags: [oûtô, Verb, Germanic, Tools, Tools 102]
 description: to drive (a vehicle) § Verb
 ---
 

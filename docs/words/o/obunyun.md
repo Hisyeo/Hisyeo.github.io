@@ -3,7 +3,7 @@ id: obunyun
 slug: obunyun
 title: OBUNYUN
 sidebar_position: 18
-tags: [obunyun, Adjective, Austro-Asiatic]
+tags: [obunyun, Adjective, Austro-Asiatic, Evaluation, Evaluation 102]
 description: easy § Adjective
 ---
 

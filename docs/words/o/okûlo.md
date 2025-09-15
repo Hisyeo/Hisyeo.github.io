@@ -3,7 +3,7 @@ id: okûlo
 slug: okûlo
 title: OKÛLO
 sidebar_position: 4
-tags: [okûlo, Verb, Nilo-Saharan]
+tags: [okûlo, Verb, Nilo-Saharan, Phenomenology, Phenomenology 102]
 description: to touch (a surface) § Verb
 ---
 

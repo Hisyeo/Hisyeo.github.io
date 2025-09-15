@@ -3,7 +3,7 @@ id: yogô
 slug: yogô
 title: YOGÔ
 sidebar_position: 853
-tags: [yogô, Noun, Uralic]
+tags: [yogô, Noun, Uralic, Communication, Communication 101]
 description: part/piece § Noun
 ---
 

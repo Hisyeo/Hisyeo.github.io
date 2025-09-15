@@ -3,7 +3,7 @@ id: wohî
 slug: wohî
 title: WOHÎ
 sidebar_position: 775
-tags: [wohî, Adjective, Tupian]
+tags: [wohî, Adjective, Tupian, Anatomy, Anatomy 201]
 description: female § Adjective
 ---
 

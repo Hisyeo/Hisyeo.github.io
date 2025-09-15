@@ -3,7 +3,7 @@ id: gongoxî
 slug: gongoxî
 title: GONGOXÎ
 sidebar_position: 238
-tags: [gongoxî, Noun, Kartvelian]
+tags: [gongoxî, Noun, Kartvelian, Phenomenology, Phenomenology 202]
 description: alarm § Noun
 ---
 

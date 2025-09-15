@@ -3,7 +3,7 @@ id: unbû
 slug: unbû
 title: UNBÛ
 sidebar_position: 94
-tags: [unbû, Noun, Dravidian]
+tags: [unbû, Noun, Dravidian, Tools, Tools 302]
 description: arrow § Noun
 ---
 

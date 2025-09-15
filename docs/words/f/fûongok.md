@@ -3,7 +3,7 @@ id: fûongok
 slug: fûongok
 title: FÛONGOK
 sidebar_position: 660
-tags: [fûongok, Noun, Koreic]
+tags: [fûongok, Noun, Koreic, Communication, Communication 303]
 description: illusion § Noun
 ---
 

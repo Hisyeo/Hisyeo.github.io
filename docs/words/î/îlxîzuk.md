@@ -3,7 +3,7 @@ id: îlxîzuk
 slug: îlxîzuk
 title: ÎLXÎZUK
 sidebar_position: 83
-tags: [îlxîzuk, Adjective, Koreic]
+tags: [îlxîzuk, Adjective, Koreic, Evaluation, Evaluation 202]
 description: temporary § Adjective
 ---
 

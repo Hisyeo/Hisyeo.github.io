@@ -3,7 +3,7 @@ id: xûnyu
 slug: xûnyu
 title: XÛNYU
 sidebar_position: 471
-tags: [xûnyu, Numeral, Indo-Iranian]
+tags: [xûnyu, Numeral, Indo-Iranian, Mathematics, Mathematics 204]
 description: 00 zero § Numeral
 ---
 

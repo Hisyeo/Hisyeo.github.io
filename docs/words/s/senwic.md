@@ -3,7 +3,7 @@ id: senwic
 slug: senwic
 title: SENWIC
 sidebar_position: 397
-tags: [senwic, Noun, Germanic]
+tags: [senwic, Noun, Germanic, Nutrition, Nutrition 202]
 description: sandwich § Noun
 ---
 

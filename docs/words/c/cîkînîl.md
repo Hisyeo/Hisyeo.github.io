@@ -3,7 +3,7 @@ id: cîkînîl
 slug: cîkînîl
 title: CÎKÎNÎL
 sidebar_position: 346
-tags: [cîkînîl, Noun, Mayan]
+tags: [cîkînîl, Noun, Mayan, Anatomy, Anatomy 203]
 description: ear § Noun
 ---
 

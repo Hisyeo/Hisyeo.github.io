@@ -3,7 +3,7 @@ id: sinsî
 slug: sinsî
 title: SINSÎ
 sidebar_position: 408
-tags: [sinsî, Noun, Sino-Tibetan]
+tags: [sinsî, Noun, Sino-Tibetan, Geography, Geography 102]
 description: town/city § Noun
 ---
 

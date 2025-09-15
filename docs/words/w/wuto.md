@@ -3,7 +3,7 @@ id: wuto
 slug: wuto
 title: WUTO
 sidebar_position: 805
-tags: [wuto, Noun, Afro-Asiatic]
+tags: [wuto, Noun, Afro-Asiatic, Mathematics, Mathematics 202]
 description: month § Noun
 ---
 

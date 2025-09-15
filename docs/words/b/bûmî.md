@@ -3,7 +3,7 @@ id: bûmî
 slug: bûmî
 title: BÛMÎ
 sidebar_position: 619
-tags: [bûmî, Noun, Indo-Iranian]
+tags: [bûmî, Noun, Indo-Iranian, Geography, Geography 102]
 description: ground/terrain/earth § Noun
 ---
 

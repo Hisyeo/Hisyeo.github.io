@@ -3,7 +3,7 @@ id: ufûlît
 slug: ufûlît
 title: UFÛLÎT
 sidebar_position: 89
-tags: [ufûlît, Adjective, Romance]
+tags: [ufûlît, Adjective, Romance, Emotion, Emotion 201]
 description: bored § Adjective
 ---
 

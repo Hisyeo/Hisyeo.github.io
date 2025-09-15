@@ -3,7 +3,7 @@ id: kîôsô
 slug: kîôsô
 title: KÎÔSÔ
 sidebar_position: 199
-tags: [kîôsô, Adjective, Japonic]
+tags: [kîôsô, Adjective, Japonic, Anatomy, Anatomy 102]
 description: athletic § Adjective
 ---
 

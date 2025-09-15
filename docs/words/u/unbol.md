@@ -3,7 +3,7 @@ id: unbol
 slug: unbol
 title: UNBOL
 sidebar_position: 93
-tags: [unbol, Adjective, Romance]
+tags: [unbol, Adjective, Romance, Color, Color 303]
 description: amber (color) § Adjective
 ---
 

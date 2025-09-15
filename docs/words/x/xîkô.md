@@ -3,7 +3,7 @@ id: xîkô
 slug: xîkô
 title: XÎKÔ
 sidebar_position: 457
-tags: [xîkô, Adjective, Japonic]
+tags: [xîkô, Adjective, Japonic, Phenomenology, Phenomenology 201]
 description: flying § Adjective
 ---
 

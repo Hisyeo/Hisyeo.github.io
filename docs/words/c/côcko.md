@@ -3,7 +3,7 @@ id: côcko
 slug: côcko
 title: CÔCKO
 sidebar_position: 325
-tags: [côcko, Noun, Balto-Slavic]
+tags: [côcko, Noun, Balto-Slavic, Tools, Tools 301]
 description: lens § Noun
 ---
 

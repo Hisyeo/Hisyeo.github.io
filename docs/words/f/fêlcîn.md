@@ -3,7 +3,7 @@ id: fêlcîn
 slug: fêlcîn
 title: FÊLCÎN
 sidebar_position: 642
-tags: [fêlcîn, Adjective, Armenian]
+tags: [fêlcîn, Adjective, Armenian, Mathematics, Mathematics 303]
 description: last/latest § Adjective
 ---
 

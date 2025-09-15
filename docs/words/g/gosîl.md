@@ -3,7 +3,7 @@ id: gosîl
 slug: gosîl
 title: GOSÎL
 sidebar_position: 235
-tags: [gosîl, Adjective, Afro-Asiatic]
+tags: [gosîl, Adjective, Afro-Asiatic, Anatomy, Anatomy 302]
 description: short § Adjective
 ---
 

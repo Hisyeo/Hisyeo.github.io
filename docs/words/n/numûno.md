@@ -3,7 +3,7 @@ id: numûno
 slug: numûno
 title: NUMÛNO
 sidebar_position: 768
-tags: [numûno, Noun, Indo-Iranian]
+tags: [numûno, Noun, Indo-Iranian, Communication, Communication 201]
 description: example § Noun
 ---
 

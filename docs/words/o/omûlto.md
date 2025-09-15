@@ -3,7 +3,7 @@ id: omûlto
 slug: omûlto
 title: OMÛLTO
 sidebar_position: 22
-tags: [omûlto, Adjective, Dravidian]
+tags: [omûlto, Adjective, Dravidian, Evaluation, Evaluation 302]
 description: abstract § Adjective
 ---
 

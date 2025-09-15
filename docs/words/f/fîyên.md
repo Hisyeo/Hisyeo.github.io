@@ -3,7 +3,7 @@ id: fîyên
 slug: fîyên
 title: FÎYÊN
 sidebar_position: 654
-tags: [fîyên, Numeral, Romance]
+tags: [fîyên, Numeral, Romance, Mathematics, Mathematics 204]
 description: 100 hundred § Numeral
 ---
 

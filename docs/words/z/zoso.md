@@ -3,7 +3,7 @@ id: zoso
 slug: zoso
 title: ZOSO
 sidebar_position: 514
-tags: [zoso, Noun, Turkic]
+tags: [zoso, Noun, Turkic, Tools, Tools 201]
 description: shelf § Noun
 ---
 

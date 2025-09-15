@@ -3,7 +3,7 @@ id: ûncoî
 slug: ûncoî
 title: ÛNCOÎ
 sidebar_position: 108
-tags: [ûncoî, Adjective, Indo-Iranian]
+tags: [ûncoî, Adjective, Indo-Iranian, Emotion, Emotion 301]
 description: proud § Adjective
 ---
 

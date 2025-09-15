@@ -3,7 +3,7 @@ id: lon
 slug: lon
 title: LON
 sidebar_position: 814
-tags: [lon, Preposition, Germanic]
+tags: [lon, Preposition, Germanic, Grammar, Grammar 104]
 description: durative marker (for) § Preposition
 ---
 

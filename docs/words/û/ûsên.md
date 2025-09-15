@@ -3,7 +3,7 @@ id: ûsên
 slug: ûsên
 title: ÛSÊN
 sidebar_position: 101
-tags: [ûsên, Noun, Nakh-Daghestani]
+tags: [ûsên, Noun, Nakh-Daghestani, Mathematics, Mathematics 301]
 description: year § Noun
 ---
 

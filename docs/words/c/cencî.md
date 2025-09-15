@@ -3,7 +3,7 @@ id: cencî
 slug: cencî
 title: CENCÎ
 sidebar_position: 329
-tags: [cencî, Adjective, Balto-Slavic]
+tags: [cencî, Adjective, Balto-Slavic, Anatomy, Anatomy 302]
 description: thin/narrow § Adjective
 ---
 

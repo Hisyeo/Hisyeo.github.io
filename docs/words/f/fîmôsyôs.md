@@ -3,7 +3,7 @@ id: fîmôsyôs
 slug: fîmôsyôs
 title: FÎMÔSYÔS
 sidebar_position: 652
-tags: [fîmôsyôs, Adjective, Hellenic]
+tags: [fîmôsyôs, Adjective, Hellenic, Sociology, Sociology 203]
 description: public/communal § Adjective
 ---
 

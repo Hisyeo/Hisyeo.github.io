@@ -3,7 +3,7 @@ id: lono
 slug: lono
 title: LONO
 sidebar_position: 815
-tags: [lono, Noun, Afro-Asiatic]
+tags: [lono, Noun, Afro-Asiatic, Mathematics, Mathematics 202]
 description: day § Noun
 ---
 

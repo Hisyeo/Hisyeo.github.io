@@ -3,7 +3,7 @@ id: konwo
 slug: konwo
 title: KONWO
 sidebar_position: 172
-tags: [konwo, Adjective, Austro-Asiatic]
+tags: [konwo, Adjective, Austro-Asiatic, Tools, Tools 101]
 description: rhythm/beat § Adjective
 ---
 

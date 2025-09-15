@@ -3,7 +3,7 @@ id: wonkûk
 slug: wonkûk
 title: WONKÛK
 sidebar_position: 781
-tags: [wonkûk, Adjective, Sino-Tibetan]
+tags: [wonkûk, Adjective, Sino-Tibetan, Architecture, Architecture 302]
 description: curved § Adjective
 ---
 

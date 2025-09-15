@@ -3,7 +3,7 @@ id: sêl
 slug: sêl
 title: SÊL
 sidebar_position: 404
-tags: [sêl, Noun, Indo-Iranian]
+tags: [sêl, Noun, Indo-Iranian, Geography, Geography 101]
 description: down § Noun
 ---
 

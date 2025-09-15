@@ -3,7 +3,7 @@ id: ûlôgun
 slug: ûlôgun
 title: ÛLÔGUN
 sidebar_position: 111
-tags: [ûlôgun, Noun, Dravidian]
+tags: [ûlôgun, Noun, Dravidian, Materials, Materials 102]
 description: metal § Noun
 ---
 

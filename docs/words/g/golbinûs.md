@@ -3,7 +3,7 @@ id: golbinûs
 slug: golbinûs
 title: GOLBINÛS
 sidebar_position: 243
-tags: [golbinûs, Adjective, Romance]
+tags: [golbinûs, Adjective, Romance, Color, Color 303]
 description: chartreuse § Adjective
 ---
 

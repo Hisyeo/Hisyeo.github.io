@@ -3,7 +3,7 @@ id: weltô
 slug: weltô
 title: WELTÔ
 sidebar_position: 787
-tags: [weltô, Adjective, Uralic]
+tags: [weltô, Adjective, Uralic, Anatomy, Anatomy 302]
 description: limp/flaccid/flabby § Adjective
 ---
 

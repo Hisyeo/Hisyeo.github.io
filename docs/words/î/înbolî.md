@@ -3,7 +3,7 @@ id: înbolî
 slug: înbolî
 title: ÎNBOLÎ
 sidebar_position: 81
-tags: [înbolî, Noun, Niger-Congo]
+tags: [înbolî, Noun, Niger-Congo, Biology, Biology 101]
 description: flower § Noun
 ---
 

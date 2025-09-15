@@ -3,7 +3,7 @@ id: xêntîl
 slug: xêntîl
 title: XÊNTÎL
 sidebar_position: 452
-tags: [xêntîl, Adjective, Romance]
+tags: [xêntîl, Adjective, Romance, Emotion, Emotion 301]
 description: gentle/kind § Adjective
 ---
 

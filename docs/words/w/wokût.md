@@ -3,7 +3,7 @@ id: wokût
 slug: wokût
 title: WOKÛT
 sidebar_position: 776
-tags: [wokût, Noun, Turkic]
+tags: [wokût, Noun, Turkic, Mathematics, Mathematics 202]
 description: time § Noun
 ---
 

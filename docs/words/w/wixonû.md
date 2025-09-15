@@ -3,7 +3,7 @@ id: wixonû
 slug: wixonû
 title: WIXONÛ
 sidebar_position: 796
-tags: [wixonû, Noun, Indo-Iranian]
+tags: [wixonû, Noun, Indo-Iranian, Biology, Biology 301]
 description: virus § Noun
 ---
 

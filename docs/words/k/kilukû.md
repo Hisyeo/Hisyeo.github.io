@@ -3,7 +3,7 @@ id: kilukû
 slug: kilukû
 title: KILUKÛ
 sidebar_position: 198
-tags: [kilukû, Adjective, Dravidian]
+tags: [kilukû, Adjective, Dravidian, Geography, Geography 301]
 description: eastern § Adjective
 ---
 

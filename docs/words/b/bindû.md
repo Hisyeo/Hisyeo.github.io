@@ -3,7 +3,7 @@ id: bindû
 slug: bindû
 title: BINDÛ
 sidebar_position: 589
-tags: [bindû, Noun, Indo-Iranian]
+tags: [bindû, Noun, Indo-Iranian, Architecture, Architecture 101]
 description: dot § Noun
 ---
 

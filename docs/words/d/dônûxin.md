@@ -3,7 +3,7 @@ id: dônûxin
 slug: dônûxin
 title: DÔNÛXIN
 sidebar_position: 486
-tags: [dônûxin, Noun, Turkic]
+tags: [dônûxin, Noun, Turkic, Properties, Properties 301]
 description: conversion § Noun
 ---
 

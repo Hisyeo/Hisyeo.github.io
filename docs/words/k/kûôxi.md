@@ -3,7 +3,7 @@ id: kûôxi
 slug: kûôxi
 title: KÛÔXI
 sidebar_position: 219
-tags: [kûôxi, Noun, Sino-Tibetan]
+tags: [kûôxi, Noun, Sino-Tibetan, Nutrition, Nutrition 102]
 description: fruit § Noun
 ---
 

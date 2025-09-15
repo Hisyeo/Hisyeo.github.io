@@ -3,7 +3,7 @@ id: helgo
 slug: helgo
 title: HELGO
 sidebar_position: 137
-tags: [helgo, Verb, Germanic]
+tags: [helgo, Verb, Germanic, Sociology, Sociology 301]
 description: to venerate (the venerated) § Verb
 ---
 

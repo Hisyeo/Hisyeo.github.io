@@ -3,7 +3,7 @@ id: ôzîl
 slug: ôzîl
 title: ÔZÎL
 sidebar_position: 39
-tags: [ôzîl, Noun, Indo-Iranian]
+tags: [ôzîl, Noun, Indo-Iranian, Nutrition, Nutrition 102]
 description: nut § Noun
 ---
 

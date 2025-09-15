@@ -3,7 +3,7 @@ id: kûdu
 slug: kûdu
 title: KÛDU
 sidebar_position: 223
-tags: [kûdu, Noun, Austronesian]
+tags: [kûdu, Noun, Austronesian, Biology, Biology 201]
 description: horse § Noun
 ---
 

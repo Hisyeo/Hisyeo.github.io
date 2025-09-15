@@ -3,7 +3,7 @@ id: tônkô
 slug: tônkô
 title: TÔNKÔ
 sidebar_position: 288
-tags: [tônkô, Adjective, Sino-Tibetan]
+tags: [tônkô, Adjective, Sino-Tibetan, Properties, Properties 102]
 description: hurting/suffering § Adjective
 ---
 

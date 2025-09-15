@@ -3,7 +3,7 @@ id: zûyi
 slug: zûyi
 title: ZÛYI
 sidebar_position: 551
-tags: [zûyi, Verb, Sino-Tibetan]
+tags: [zûyi, Verb, Sino-Tibetan, Phenomenology, Phenomenology 202]
 description: to spot/notice (the spotted/noticed) § Verb
 ---
 

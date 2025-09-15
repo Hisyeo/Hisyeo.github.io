@@ -3,7 +3,7 @@ id: nulûhu
 slug: nulûhu
 title: NULÛHU
 sidebar_position: 771
-tags: [nulûhu, Noun, Balto-Slavic]
+tags: [nulûhu, Noun, Balto-Slavic, Sociology, Sociology 202]
 description: abuse § Noun
 ---
 

@@ -3,7 +3,7 @@ id: dûbono
 slug: dûbono
 title: DÛBONO
 sidebar_position: 510
-tags: [dûbono, Verb, Indo-Iranian]
+tags: [dûbono, Verb, Indo-Iranian, Science, Science 202]
 description: to immerse (the immersed) § Verb
 ---
 

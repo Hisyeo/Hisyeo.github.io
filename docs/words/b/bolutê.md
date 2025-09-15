@@ -3,7 +3,7 @@ id: bolutê
 slug: bolutê
 title: BOLUTÊ
 sidebar_position: 568
-tags: [bolutê, Adjective, Austro-Asiatic]
+tags: [bolutê, Adjective, Austro-Asiatic, Sociology, Sociology 302]
 description: foreign § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: lexetko
 slug: lexetko
 title: LEXETKO
 sidebar_position: 826
-tags: [lexetko, Noun, Balto-Slavic]
+tags: [lexetko, Noun, Balto-Slavic, Science, Science 102]
 description: lattice/array § Noun
 ---
 

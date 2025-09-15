@@ -3,7 +3,7 @@ id: xîmol
 slug: xîmol
 title: XÎMOL
 sidebar_position: 461
-tags: [xîmol, Noun, Afro-Asiatic]
+tags: [xîmol, Noun, Afro-Asiatic, Geography, Geography 101]
 description: left § Noun
 ---
 

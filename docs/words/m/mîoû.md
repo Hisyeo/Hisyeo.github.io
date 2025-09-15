@@ -3,7 +3,7 @@ id: mîoû
 slug: mîoû
 title: MÎOÛ
 sidebar_position: 702
-tags: [mîoû, Adjective, Sino-Tibetan]
+tags: [mîoû, Adjective, Sino-Tibetan, Mathematics, Mathematics 301]
 description: instantaneous (second) § Adjective
 ---
 

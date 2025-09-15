@@ -3,7 +3,7 @@ id: bîbôk
 slug: bîbôk
 title: BÎBÔK
 sidebar_position: 599
-tags: [bîbôk, Adjective, Sino-Tibetan]
+tags: [bîbôk, Adjective, Sino-Tibetan, Color, Color 101]
 description: white § Adjective
 ---
 

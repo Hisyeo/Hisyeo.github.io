@@ -3,7 +3,7 @@ id: wîbolo
 slug: wîbolo
 title: WÎBOLO
 sidebar_position: 800
-tags: [wîbolo, Noun, Quechumaran]
+tags: [wîbolo, Noun, Quechumaran, Sociology, Sociology 302]
 description: flag § Noun
 ---
 

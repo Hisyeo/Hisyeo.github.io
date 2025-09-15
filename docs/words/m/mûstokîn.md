@@ -3,7 +3,7 @@ id: mûstokîn
 slug: mûstokîn
 title: MÛSTOKÎN
 sidebar_position: 722
-tags: [mûstokîn, Adjective, Afro-Asiatic]
+tags: [mûstokîn, Adjective, Afro-Asiatic, Architecture, Architecture 302]
 description: straight § Adjective
 ---
 

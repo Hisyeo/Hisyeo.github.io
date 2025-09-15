@@ -3,7 +3,7 @@ id: longi
 slug: longi
 title: LONGI
 sidebar_position: 816
-tags: [longi, Noun, Niger-Congo]
+tags: [longi, Noun, Niger-Congo, Color, Color 101]
 description: color § Noun
 ---
 

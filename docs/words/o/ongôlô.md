@@ -3,7 +3,7 @@ id: ongôlô
 slug: ongôlô
 title: ONGÔLÔ
 sidebar_position: 26
-tags: [ongôlô, Noun, Romance]
+tags: [ongôlô, Noun, Romance, Architecture, Architecture 203]
 description: corner § Noun
 ---
 

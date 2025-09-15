@@ -3,7 +3,7 @@ id: munî
 slug: munî
 title: MUNÎ
 sidebar_position: 714
-tags: [munî, Noun, Germanic]
+tags: [munî, Noun, Germanic, Sociology, Sociology 102]
 description: money § Noun
 ---
 

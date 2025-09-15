@@ -3,7 +3,7 @@ id: côt
 slug: côt
 title: CÔT
 sidebar_position: 324
-tags: [côt, Adjective, Mayan]
+tags: [côt, Adjective, Mayan, Anatomy, Anatomy 302]
 description: thick § Adjective
 ---
 

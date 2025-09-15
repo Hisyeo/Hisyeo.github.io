@@ -3,7 +3,7 @@ id: fêlkonô
 slug: fêlkonô
 title: FÊLKONÔ
 sidebar_position: 641
-tags: [fêlkonô, Adjective, Romance]
+tags: [fêlkonô, Adjective, Romance, Geography, Geography 301]
 description: close § Adjective
 ---
 

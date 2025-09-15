@@ -3,7 +3,7 @@ id: cîgîlsu
 slug: cîgîlsu
 title: CÎGÎLSU
 sidebar_position: 347
-tags: [cîgîlsu, Noun, Dravidian]
+tags: [cîgîlsu, Noun, Dravidian, Anatomy, Anatomy 303]
 description: treatment (medical) § Noun
 ---
 

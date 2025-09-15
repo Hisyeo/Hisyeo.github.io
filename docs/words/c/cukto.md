@@ -3,7 +3,7 @@ id: cukto
 slug: cukto
 title: CUKTO
 sidebar_position: 352
-tags: [cukto, Verb, Koreic]
+tags: [cukto, Verb, Koreic, Communication, Communication 202]
 description: to write (text) § Verb
 ---
 

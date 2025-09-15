@@ -3,7 +3,7 @@ id: lozîdô
 slug: lozîdô
 title: LOZÎDÔ
 sidebar_position: 812
-tags: [lozîdô, Noun, Oto-Manguean]
+tags: [lozîdô, Noun, Oto-Manguean, Anatomy, Anatomy 101]
 description: heart § Noun
 ---
 

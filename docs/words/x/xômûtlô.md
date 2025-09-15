@@ -3,7 +3,7 @@ id: xômûtlô
 slug: xômûtlô
 title: XÔMÛTLÔ
 sidebar_position: 445
-tags: [xômûtlô, Noun, Indo-Iranian]
+tags: [xômûtlô, Noun, Indo-Iranian, Geography, Geography 202]
 description: ocean § Noun
 ---
 

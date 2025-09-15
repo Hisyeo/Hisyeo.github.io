@@ -3,7 +3,7 @@ id: sî
 slug: sî
 title: SÎ
 sidebar_position: 409
-tags: [sî, Particle, Germanic]
+tags: [sî, Particle, Germanic, Grammar, Grammar 202]
 description: perfect verb particle § Particle
 ---
 

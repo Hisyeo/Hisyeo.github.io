@@ -3,7 +3,7 @@ id: ôtsôtot
 slug: ôtsôtot
 title: ÔTSÔTOT
 sidebar_position: 35
-tags: [ôtsôtot, Noun, Misc]
+tags: [ôtsôtot, Noun, Misc, Sociology, Sociology 301]
 description: deity § Noun
 ---
 

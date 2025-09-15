@@ -3,7 +3,7 @@ id: ônsu
 slug: ônsu
 title: ÔNSU
 sidebar_position: 44
-tags: [ônsu, Numeral, Romance]
+tags: [ônsu, Numeral, Romance, Mathematics, Mathematics 203]
 description: 11 eleven § Numeral
 ---
 

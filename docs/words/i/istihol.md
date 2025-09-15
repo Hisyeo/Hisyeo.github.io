@@ -3,7 +3,7 @@ id: istihol
 slug: istihol
 title: ISTIHOL
 sidebar_position: 64
-tags: [istihol, Noun, Indo-Iranian]
+tags: [istihol, Noun, Indo-Iranian, Sociology, Sociology 303]
 description: honor/glory § Noun
 ---
 

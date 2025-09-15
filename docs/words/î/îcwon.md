@@ -3,7 +3,7 @@ id: îcwon
 slug: îcwon
 title: ÎCWON
 sidebar_position: 70
-tags: [îcwon, Verb, Sino-Tibetan]
+tags: [îcwon, Verb, Sino-Tibetan, Sociology, Sociology 201]
 description: to inherit (inheritance) § Verb
 ---
 

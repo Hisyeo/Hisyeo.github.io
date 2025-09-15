@@ -3,7 +3,7 @@ id: hûlodêk
 slug: hûlodêk
 title: HÛLODÊK
 sidebar_position: 161
-tags: [hûlodêk, Noun, Uralic]
+tags: [hûlodêk, Noun, Uralic, Materials, Materials 101]
 description: waste § Noun
 ---
 

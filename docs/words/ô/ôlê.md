@@ -3,7 +3,7 @@ id: ôlê
 slug: ôlê
 title: ÔLÊ
 sidebar_position: 45
-tags: [ôlê, Preposition, Austronesian]
+tags: [ôlê, Preposition, Austronesian, Grammar, Grammar 302]
 description: causal-agentive marker § Preposition
 ---
 

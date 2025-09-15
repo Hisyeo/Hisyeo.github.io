@@ -3,7 +3,7 @@ id: sûbôl
 slug: sûbôl
 title: SÛBÔL
 sidebar_position: 429
-tags: [sûbôl, Adjective, Austronesian]
+tags: [sûbôl, Adjective, Austronesian, Evaluation, Evaluation 303]
 description: fertile/productive § Adjective
 ---
 

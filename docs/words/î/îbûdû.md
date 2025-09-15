@@ -3,7 +3,7 @@ id: îbûdû
 slug: îbûdû
 title: ÎBÛDÛ
 sidebar_position: 77
-tags: [îbûdû, Adjective, Dravidian]
+tags: [îbûdû, Adjective, Dravidian, Mathematics, Mathematics 202]
 description: now § Adjective
 ---
 

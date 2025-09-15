@@ -3,7 +3,7 @@ id: cûlûl
 slug: cûlûl
 title: CÛLÛL
 sidebar_position: 370
-tags: [cûlûl, Noun, Dravidian]
+tags: [cûlûl, Noun, Dravidian, Architecture, Architecture 102]
 description: coil § Noun
 ---
 

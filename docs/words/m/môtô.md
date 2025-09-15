@@ -3,7 +3,7 @@ id: môtô
 slug: môtô
 title: MÔTÔ
 sidebar_position: 685
-tags: [môtô, Noun, Niger-Congo]
+tags: [môtô, Noun, Niger-Congo, Science, Science 101]
 description: fire § Noun
 ---
 

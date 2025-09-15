@@ -3,7 +3,7 @@ id: gûexo
 slug: gûexo
 title: GÛEXO
 sidebar_position: 262
-tags: [gûexo, Noun, Romance]
+tags: [gûexo, Noun, Romance, Sociology, Sociology 303]
 description: war § Noun
 ---
 

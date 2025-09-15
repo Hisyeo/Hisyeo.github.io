@@ -3,7 +3,7 @@ id: hûnsûon
 slug: hûnsûon
 title: HÛNSÛON
 sidebar_position: 158
-tags: [hûnsûon, Noun, Kra-Dai]
+tags: [hûnsûon, Noun, Kra-Dai, Sociology, Sociology 201]
 description: partner § Noun
 ---
 

@@ -3,7 +3,7 @@ id: xûk
 slug: xûk
 title: XÛK
 sidebar_position: 467
-tags: [xûk, Noun, Afro-Asiatic]
+tags: [xûk, Noun, Afro-Asiatic, Communication, Communication 203]
 description: sort/type § Noun
 ---
 

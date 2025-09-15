@@ -3,7 +3,7 @@ id: hitsu
 slug: hitsu
 title: HITSU
 sidebar_position: 142
-tags: [hitsu, Noun, Germanic]
+tags: [hitsu, Noun, Germanic, Materials, Materials 201]
 description: crack/fissure § Noun
 ---
 

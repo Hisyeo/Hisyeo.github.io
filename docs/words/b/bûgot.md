@@ -3,7 +3,7 @@ id: bûgot
 slug: bûgot
 title: BÛGOT
 sidebar_position: 613
-tags: [bûgot, Adjective, Austronesian]
+tags: [bûgot, Adjective, Austronesian, Architecture, Architecture 301]
 description: heavy § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: bonôxo
 slug: bonôxo
 title: BONÔXO
 sidebar_position: 564
-tags: [bonôxo, Adjective, Afro-Asiatic]
+tags: [bonôxo, Adjective, Afro-Asiatic, Color, Color 303]
 description: violet § Adjective
 ---
 

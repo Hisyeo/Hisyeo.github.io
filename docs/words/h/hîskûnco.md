@@ -3,7 +3,7 @@ id: hîskûnco
 slug: hîskûnco
 title: HÎSKÛNCO
 sidebar_position: 144
-tags: [hîskûnco, Noun, Basque]
+tags: [hîskûnco, Noun, Basque, Language, Language 101]
 description: language § Noun
 ---
 

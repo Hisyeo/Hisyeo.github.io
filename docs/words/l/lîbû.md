@@ -3,7 +3,7 @@ id: lîbû
 slug: lîbû
 title: LÎBÛ
 sidebar_position: 839
-tags: [lîbû, Noun, Uralic]
+tags: [lîbû, Noun, Uralic, Materials, Materials 101]
 description: sheet § Noun
 ---
 

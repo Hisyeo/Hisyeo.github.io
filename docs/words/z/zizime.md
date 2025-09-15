@@ -3,7 +3,7 @@ id: zizime
 slug: zizime
 title: ZIZIME
 sidebar_position: 533
-tags: [zizime, Noun, Niger-Congo]
+tags: [zizime, Noun, Niger-Congo, Sociology, Sociology 201]
 description: generation § Noun
 ---
 

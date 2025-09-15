@@ -3,7 +3,7 @@ id: elekê
 slug: elekê
 title: ELEKÊ
 sidebar_position: 51
-tags: [elekê, Noun, Niger-Congo]
+tags: [elekê, Noun, Niger-Congo, Anatomy, Anatomy 203]
 description: cheek § Noun
 ---
 

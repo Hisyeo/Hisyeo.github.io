@@ -3,7 +3,7 @@ id: cên
 slug: cên
 title: CÊN
 sidebar_position: 331
-tags: [cên, Noun, Austro-Asiatic]
+tags: [cên, Noun, Austro-Asiatic, Geography, Geography 101]
 description: up § Noun
 ---
 

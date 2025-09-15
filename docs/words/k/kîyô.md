@@ -3,7 +3,7 @@ id: kîyô
 slug: kîyô
 title: KÎYÔ
 sidebar_position: 210
-tags: [kîyô, Adjective, Japonic]
+tags: [kîyô, Adjective, Japonic, Phenomenology, Phenomenology 302]
 description: dexterous/skillful § Adjective
 ---
 

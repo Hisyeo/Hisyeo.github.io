@@ -3,7 +3,7 @@ id: yundôû
 slug: yundôû
 title: YUNDÔÛ
 sidebar_position: 871
-tags: [yundôû, Verb, Sino-Tibetan]
+tags: [yundôû, Verb, Sino-Tibetan, Geography, Geography 301]
 description: to guide (the guided) § Verb
 ---
 

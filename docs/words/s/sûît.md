@@ -3,7 +3,7 @@ id: sûît
 slug: sûît
 title: SÛÎT
 sidebar_position: 425
-tags: [sûît, Adjective, Germanic]
+tags: [sûît, Adjective, Germanic, Nutrition, Nutrition 201]
 description: sweet § Adjective
 ---
 

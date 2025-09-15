@@ -3,7 +3,7 @@ id: tôncoî
 slug: tôncoî
 title: TÔNCOÎ
 sidebar_position: 289
-tags: [tôncoî, Adjective, Kra-Dai]
+tags: [tôncoî, Adjective, Kra-Dai, Anatomy, Anatomy 303]
 description: sighing § Adjective
 ---
 

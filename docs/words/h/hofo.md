@@ -3,7 +3,7 @@ id: hofo
 slug: hofo
 title: HOFO
 sidebar_position: 124
-tags: [hofo, Verb, Afro-Asiatic]
+tags: [hofo, Verb, Afro-Asiatic, Communication, Communication 302]
 description: to plead (a plea) § Verb
 ---
 

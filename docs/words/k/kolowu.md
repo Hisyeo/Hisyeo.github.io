@@ -3,7 +3,7 @@ id: kolowu
 slug: kolowu
 title: KOLOWU
 sidebar_position: 173
-tags: [kolowu, Noun, Indo-Iranian]
+tags: [kolowu, Noun, Indo-Iranian, Tools, Tools 101]
 description: art § Noun
 ---
 

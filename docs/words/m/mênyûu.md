@@ -3,7 +3,7 @@ id: mênyûu
 slug: mênyûu
 title: MÊNYÛU
 sidebar_position: 696
-tags: [mênyûu, Noun, Hmong-Mien]
+tags: [mênyûu, Noun, Hmong-Mien, Sociology, Sociology 201]
 description: offspring § Noun
 ---
 

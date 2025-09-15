@@ -3,7 +3,7 @@ id: henondê
 slug: henondê
 title: HENONDÊ
 sidebar_position: 136
-tags: [henondê, Adjective, Germanic]
+tags: [henondê, Adjective, Germanic, Phenomenology, Phenomenology 302]
 description: hanging § Adjective
 ---
 

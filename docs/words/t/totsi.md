@@ -3,7 +3,7 @@ id: totsi
 slug: totsi
 title: TOTSI
 sidebar_position: 276
-tags: [totsi, Adjective, Japonic]
+tags: [totsi, Adjective, Japonic, Properties, Properties 301]
 description: standing § Adjective
 ---
 

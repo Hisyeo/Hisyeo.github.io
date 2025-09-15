@@ -3,7 +3,7 @@ id: hulûkô
 slug: hulûkô
 title: HULÛKÔ
 sidebar_position: 149
-tags: [hulûkô, Adjective, Indo-Iranian]
+tags: [hulûkô, Adjective, Indo-Iranian, Architecture, Architecture 301]
 description: lightweight § Adjective
 ---
 

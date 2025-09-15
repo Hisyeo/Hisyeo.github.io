@@ -3,7 +3,7 @@ id: cûngo
 slug: cûngo
 title: CÛNGO
 sidebar_position: 366
-tags: [cûngo, Verb, Niger-Congo]
+tags: [cûngo, Verb, Niger-Congo, Science, Science 202]
 description: to filter (the filtered) § Verb
 ---
 

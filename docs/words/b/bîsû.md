@@ -3,7 +3,7 @@ id: bîsû
 slug: bîsû
 title: BÎSÛ
 sidebar_position: 598
-tags: [bîsû, Adjective, Austronesian]
+tags: [bîsû, Adjective, Austronesian, Anatomy, Anatomy 201]
 description: nonbinary/queer § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: môkôfo
 slug: môkôfo
 title: MÔKÔFO
 sidebar_position: 682
-tags: [môkôfo, Noun, Trans-New Guinea]
+tags: [môkôfo, Noun, Trans-New Guinea, Architecture, Architecture 102]
 description: tube § Noun
 ---
 

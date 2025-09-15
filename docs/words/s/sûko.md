@@ -3,7 +3,7 @@ id: sûko
 slug: sûko
 title: SÛKO
 sidebar_position: 426
-tags: [sûko, Verb, Austronesian]
+tags: [sûko, Verb, Austronesian, Emotion, Emotion 102]
 description: to like (a preference) § Verb
 ---
 

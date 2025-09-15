@@ -3,7 +3,7 @@ id: lûntî
 slug: lûntî
 title: LÛNTÎ
 sidebar_position: 849
-tags: [lûntî, Adjective, Austronesian]
+tags: [lûntî, Adjective, Austronesian, Color, Color 202]
 description: green § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: ûlonfû
 slug: ûlonfû
 title: ÛLONFÛ
 sidebar_position: 110
-tags: [ûlonfû, Noun, Niger-Congo]
+tags: [ûlonfû, Noun, Niger-Congo, Language, Language 101]
 description: syllable § Noun
 ---
 

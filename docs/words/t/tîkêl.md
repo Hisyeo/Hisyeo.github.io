@@ -3,7 +3,7 @@ id: tîkêl
 slug: tîkêl
 title: TÎKÊL
 sidebar_position: 298
-tags: [tîkêl, Adjective, Uralic]
+tags: [tîkêl, Adjective, Uralic, Materials, Materials 201]
 description: reflected § Adjective
 ---
 

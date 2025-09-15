@@ -3,7 +3,7 @@ id: onwonî
 slug: onwonî
 title: ONWONÎ
 sidebar_position: 30
-tags: [onwonî, Noun, Niger-Congo]
+tags: [onwonî, Noun, Niger-Congo, Communication, Communication 202]
 description: address § Noun
 ---
 

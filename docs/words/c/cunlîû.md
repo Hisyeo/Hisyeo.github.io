@@ -3,7 +3,7 @@ id: cunlîû
 slug: cunlîû
 title: CUNLÎÛ
 sidebar_position: 356
-tags: [cunlîû, Verb, Sino-Tibetan]
+tags: [cunlîû, Verb, Sino-Tibetan, Science, Science 202]
 description: to distill (the distilled) § Verb
 ---
 

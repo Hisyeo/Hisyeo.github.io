@@ -3,7 +3,7 @@ id: dibo
 slug: dibo
 title: DIBO
 sidebar_position: 493
-tags: [dibo, Noun, Indo-Iranian]
+tags: [dibo, Noun, Indo-Iranian, Tools, Tools 102]
 description: container § Noun
 ---
 

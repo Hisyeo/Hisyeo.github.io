@@ -3,7 +3,7 @@ id: muîlô
 slug: muîlô
 title: MUÎLÔ
 sidebar_position: 712
-tags: [muîlô, Adjective, Indo-Iranian]
+tags: [muîlô, Adjective, Indo-Iranian, Anatomy, Anatomy 102]
 description: dirty § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: elfû
 slug: elfû
 title: ELFÛ
 sidebar_position: 53
-tags: [elfû, Particle, Niger-Congo]
+tags: [elfû, Particle, Niger-Congo, Mathematics, Mathematics 204]
 description: 1000 thousand § Particle
 ---
 

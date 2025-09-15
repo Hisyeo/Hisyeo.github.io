@@ -3,7 +3,7 @@ id: xobêk
 slug: xobêk
 title: XOBÊK
 sidebar_position: 437
-tags: [xobêk, Adjective, Indo-Iranian]
+tags: [xobêk, Adjective, Indo-Iranian, Mathematics, Mathematics 202]
 description: previous § Adjective
 ---
 

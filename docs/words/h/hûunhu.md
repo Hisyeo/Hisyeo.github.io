@@ -3,7 +3,7 @@ id: hûunhu
 slug: hûunhu
 title: HÛUNHU
 sidebar_position: 150
-tags: [hûunhu, Adjective, Sino-Tibetan]
+tags: [hûunhu, Adjective, Sino-Tibetan, Evaluation, Evaluation 204]
 description: mixed § Adjective
 ---
 

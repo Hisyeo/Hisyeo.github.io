@@ -3,7 +3,7 @@ id: xôboî
 slug: xôboî
 title: XÔBOÎ
 sidebar_position: 444
-tags: [xôboî, Adjective, Japonic]
+tags: [xôboî, Adjective, Japonic, Nutrition, Nutrition 201]
 description: salty § Adjective
 ---
 

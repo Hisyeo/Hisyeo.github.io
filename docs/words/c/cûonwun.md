@@ -3,7 +3,7 @@ id: cûonwun
 slug: cûonwun
 title: CÛONWUN
 sidebar_position: 359
-tags: [cûonwun, Noun, Sino-Tibetan]
+tags: [cûonwun, Noun, Sino-Tibetan, Sociology, Sociology 202]
 description: rumor § Noun
 ---
 

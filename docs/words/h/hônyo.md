@@ -3,7 +3,7 @@ id: hônyo
 slug: hônyo
 title: HÔNYO
 sidebar_position: 133
-tags: [hônyo, Noun, Sino-Tibetan]
+tags: [hônyo, Noun, Sino-Tibetan, Geography, Geography 102]
 description: wilderness § Noun
 ---
 

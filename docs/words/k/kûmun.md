@@ -3,7 +3,7 @@ id: kûmun
 slug: kûmun
 title: KÛMUN
 sidebar_position: 225
-tags: [kûmun, Noun, Koreic]
+tags: [kûmun, Noun, Koreic, Architecture, Architecture 101]
 description: hole § Noun
 ---
 

@@ -3,7 +3,7 @@ id: sôndonôs
 slug: sôndonôs
 title: SÔNDONÔS
 sidebar_position: 393
-tags: [sôndonôs, Adjective, Hellenic]
+tags: [sôndonôs, Adjective, Hellenic, Communication, Communication 303]
 description: direct/live § Adjective
 ---
 

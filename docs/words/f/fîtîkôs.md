@@ -3,7 +3,7 @@ id: fîtîkôs
 slug: fîtîkôs
 title: FÎTÎKÔS
 sidebar_position: 649
-tags: [fîtîkôs, Adjective, Hellenic]
+tags: [fîtîkôs, Adjective, Hellenic, Geography, Geography 301]
 description: western § Adjective
 ---
 

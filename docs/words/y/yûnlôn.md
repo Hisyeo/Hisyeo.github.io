@@ -3,7 +3,7 @@ id: yûnlôn
 slug: yûnlôn
 title: YÛNLÔN
 sidebar_position: 873
-tags: [yûnlôn, Verb, Sino-Tibetan]
+tags: [yûnlôn, Verb, Sino-Tibetan, Sociology, Sociology 101]
 description: to forgive (the forgiven) § Verb
 ---
 

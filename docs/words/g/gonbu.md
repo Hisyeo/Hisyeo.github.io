@@ -3,7 +3,7 @@ id: gonbu
 slug: gonbu
 title: GONBU
 sidebar_position: 240
-tags: [gonbu, Noun, Romance]
+tags: [gonbu, Noun, Romance, Anatomy, Anatomy 202]
 description: leg § Noun
 ---
 

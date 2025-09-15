@@ -3,7 +3,7 @@ id: cok
 slug: cok
 title: COK
 sidebar_position: 313
-tags: [cok, Adjective, Kra-Dai]
+tags: [cok, Adjective, Kra-Dai, Phenomenology, Phenomenology 201]
 description: departing § Adjective
 ---
 

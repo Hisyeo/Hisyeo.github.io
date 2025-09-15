@@ -3,7 +3,7 @@ id: lôtfen
 slug: lôtfen
 title: LÔTFEN
 sidebar_position: 820
-tags: [lôtfen, Postposition, Indo-Iranian]
+tags: [lôtfen, Postposition, Indo-Iranian, Grammar, Grammar 204]
 description: politeness sentence ender § Postposition
 ---
 

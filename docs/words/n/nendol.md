@@ -3,7 +3,7 @@ id: nendol
 slug: nendol
 title: NENDOL
 sidebar_position: 748
-tags: [nendol, Adjective, Indo-Iranian]
+tags: [nendol, Adjective, Indo-Iranian, Sociology, Sociology 202]
 description: famous § Adjective
 ---
 

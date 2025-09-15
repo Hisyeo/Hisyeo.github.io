@@ -3,7 +3,7 @@ id: boxô
 slug: boxô
 title: BOXÔ
 sidebar_position: 559
-tags: [boxô, Noun, Japonic]
+tags: [boxô, Noun, Japonic, Geography, Geography 101]
 description: place § Noun
 ---
 

@@ -3,7 +3,7 @@ id: fulkôî
 slug: fulkôî
 title: FULKÔÎ
 sidebar_position: 659
-tags: [fulkôî, Verb, Albanian]
+tags: [fulkôî, Verb, Albanian, Phenomenology, Phenomenology 303]
 description: to rub (the rubbed) § Verb
 ---
 

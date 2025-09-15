@@ -3,7 +3,7 @@ id: lunsol
 slug: lunsol
 title: LUNSOL
 sidebar_position: 843
-tags: [lunsol, Verb, Romance]
+tags: [lunsol, Verb, Romance, Phenomenology, Phenomenology 101]
 description: to launch (a projectile) § Verb
 ---
 

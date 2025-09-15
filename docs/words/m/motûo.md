@@ -3,7 +3,7 @@ id: motûo
 slug: motûo
 title: MOTÛO
 sidebar_position: 669
-tags: [motûo, Noun, Austronesian]
+tags: [motûo, Noun, Austronesian, Sociology, Sociology 201]
 description: parent § Noun
 ---
 

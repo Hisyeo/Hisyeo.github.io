@@ -3,7 +3,7 @@ id: yumon
 slug: yumon
 title: YUMON
 sidebar_position: 870
-tags: [yumon, Adjective, Sino-Tibetan]
+tags: [yumon, Adjective, Sino-Tibetan, Biology, Biology 301]
 description: brutal § Adjective
 ---
 

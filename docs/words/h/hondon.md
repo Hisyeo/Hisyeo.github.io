@@ -3,7 +3,7 @@ id: hondon
 slug: hondon
 title: HONDON
 sidebar_position: 126
-tags: [hondon, Noun, Indo-Iranian]
+tags: [hondon, Noun, Indo-Iranian, Sociology, Sociology 201]
 description: family § Noun
 ---
 

@@ -3,7 +3,7 @@ id: ziyôn
 slug: ziyôn
 title: ZIYÔN
 sidebar_position: 535
-tags: [ziyôn, Numeral, Japonic]
+tags: [ziyôn, Numeral, Japonic, Mathematics, Mathematics 203]
 description: 14 fourteen § Numeral
 ---
 

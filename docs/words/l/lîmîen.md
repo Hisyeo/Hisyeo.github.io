@@ -3,7 +3,7 @@ id: lîmîen
 slug: lîmîen
 title: LÎMÎEN
 sidebar_position: 840
-tags: [lîmîen, Noun, Sino-Tibetan]
+tags: [lîmîen, Noun, Sino-Tibetan, Geography, Geography 201]
 description: inside § Noun
 ---
 

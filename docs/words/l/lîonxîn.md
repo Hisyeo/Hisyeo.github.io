@@ -3,7 +3,7 @@ id: lîonxîn
 slug: lîonxîn
 title: LÎONXÎN
 sidebar_position: 830
-tags: [lîonxîn, Adjective, Sino-Tibetan]
+tags: [lîonxîn, Adjective, Sino-Tibetan, Sociology, Sociology 203]
 description: conscientious § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: zusbot
 slug: zusbot
 title: ZUSBOT
 sidebar_position: 544
-tags: [zusbot, Noun, Indo-Iranian]
+tags: [zusbot, Noun, Indo-Iranian, Emotion, Emotion 301]
 description: emotion § Noun
 ---
 

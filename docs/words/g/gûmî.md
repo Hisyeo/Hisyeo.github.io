@@ -3,7 +3,7 @@ id: gûmî
 slug: gûmî
 title: GÛMÎ
 sidebar_position: 268
-tags: [gûmî, Noun, Germanic]
+tags: [gûmî, Noun, Germanic, Materials, Materials 301]
 description: rubber § Noun
 ---
 

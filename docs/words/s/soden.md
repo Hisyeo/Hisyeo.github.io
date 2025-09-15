@@ -3,7 +3,7 @@ id: soden
 slug: soden
 title: SODEN
 sidebar_position: 378
-tags: [soden, Noun, Balto-Slavic]
+tags: [soden, Noun, Balto-Slavic, Geography, Geography 201]
 description: back § Noun
 ---
 

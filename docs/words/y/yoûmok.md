@@ -3,7 +3,7 @@ id: yoûmok
 slug: yoûmok
 title: YOÛMOK
 sidebar_position: 851
-tags: [yoûmok, Adjective, Sino-Tibetan]
+tags: [yoûmok, Adjective, Sino-Tibetan, Tools, Tools 101]
 description: humorous § Adjective
 ---
 

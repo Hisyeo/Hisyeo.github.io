@@ -3,7 +3,7 @@ id: êtsô
 slug: êtsô
 title: ÊTSÔ
 sidebar_position: 56
-tags: [êtsô, Noun, Misc]
+tags: [êtsô, Noun, Misc, Communication, Communication 201]
 description: state/quality/attribute § Noun
 ---
 

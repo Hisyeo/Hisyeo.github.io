@@ -3,7 +3,7 @@ id: nosô
 slug: nosô
 title: NOSÔ
 sidebar_position: 733
-tags: [nosô, Noun, Japonic]
+tags: [nosô, Noun, Japonic, Communication, Communication 303]
 description: puzzle/mystery § Noun
 ---
 

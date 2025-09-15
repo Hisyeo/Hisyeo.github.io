@@ -3,7 +3,7 @@ id: cûî
 slug: cûî
 title: CÛÎ
 sidebar_position: 360
-tags: [cûî, Noun, Koreic]
+tags: [cûî, Noun, Koreic, Biology, Biology 102]
 description: rodent § Noun
 ---
 

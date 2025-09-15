@@ -3,7 +3,7 @@ id: et
 slug: et
 title: ET
 sidebar_position: 46
-tags: [et, Particle, Misc]
+tags: [et, Particle, Misc, Grammar, Grammar 301]
 description: collapser/amender particle § Particle
 ---
 

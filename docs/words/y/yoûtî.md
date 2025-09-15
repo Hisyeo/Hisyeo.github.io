@@ -3,7 +3,7 @@ id: yoûtî
 slug: yoûtî
 title: YOÛTÎ
 sidebar_position: 850
-tags: [yoûtî, Determiner, Sino-Tibetan]
+tags: [yoûtî, Determiner, Sino-Tibetan, Mathematics, Mathematics 201]
 description: some/a few § Determiner
 ---
 

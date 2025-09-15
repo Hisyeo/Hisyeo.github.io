@@ -3,7 +3,7 @@ id: ênbukun
 slug: ênbukun
 title: ÊNBUKUN
 sidebar_position: 61
-tags: [ênbukun, Noun, Dravidian]
+tags: [ênbukun, Noun, Dravidian, Anatomy, Anatomy 303]
 description: belch/burp § Noun
 ---
 

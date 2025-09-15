@@ -3,7 +3,7 @@ id: tômôs
 slug: tômôs
 title: TÔMÔS
 sidebar_position: 287
-tags: [tômôs, Noun, Hellenic]
+tags: [tômôs, Noun, Hellenic, Tools, Tools 101]
 description: book § Noun
 ---
 

@@ -3,7 +3,7 @@ id: belîsîs
 slug: belîsîs
 title: BELÎSÎS
 sidebar_position: 580
-tags: [belîsîs, Adjective, Turkic]
+tags: [belîsîs, Adjective, Turkic, Emotion, Emotion 202]
 description: unsure § Adjective
 ---
 

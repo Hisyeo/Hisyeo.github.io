@@ -3,7 +3,7 @@ id: bi
 slug: bi
 title: BI
 sidebar_position: 587
-tags: [bi, Preposition, Afro-Asiatic]
+tags: [bi, Preposition, Afro-Asiatic, Grammar, Grammar 101]
 description: methodological marker (-ly) § Preposition
 ---
 

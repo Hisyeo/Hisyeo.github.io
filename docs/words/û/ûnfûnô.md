@@ -3,7 +3,7 @@ id: ûnfûnô
 slug: ûnfûnô
 title: ÛNFÛNÔ
 sidebar_position: 109
-tags: [ûnfûnô, Noun, Niger-Congo]
+tags: [ûnfûnô, Noun, Niger-Congo, Nutrition, Nutrition 102]
 description: vegetable § Noun
 ---
 

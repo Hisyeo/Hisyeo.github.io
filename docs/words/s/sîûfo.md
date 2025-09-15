@@ -3,7 +3,7 @@ id: sîûfo
 slug: sîûfo
 title: SÎÛFO
 sidebar_position: 412
-tags: [sîûfo, Verb, Sino-Tibetan]
+tags: [sîûfo, Verb, Sino-Tibetan, Anatomy, Anatomy 303]
 description: to digest (the digested) § Verb
 ---
 

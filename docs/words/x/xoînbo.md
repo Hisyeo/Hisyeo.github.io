@@ -3,7 +3,7 @@ id: xoînbo
 slug: xoînbo
 title: XOÎNBO
 sidebar_position: 432
-tags: [xoînbo, Adjective, Germanic]
+tags: [xoînbo, Adjective, Germanic, Properties, Properties 102]
 description: seeming § Adjective
 ---
 

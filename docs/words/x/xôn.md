@@ -3,7 +3,7 @@ id: xôn
 slug: xôn
 title: XÔN
 sidebar_position: 446
-tags: [xôn, Adjective, Hmong-Mien]
+tags: [xôn, Adjective, Hmong-Mien, Evaluation, Evaluation 101]
 description: good § Adjective
 ---
 

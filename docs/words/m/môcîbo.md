@@ -3,7 +3,7 @@ id: môcîbo
 slug: môcîbo
 title: MÔCÎBO
 sidebar_position: 688
-tags: [môcîbo, Adjective, Uto-Aztecan]
+tags: [môcîbo, Adjective, Uto-Aztecan, Evaluation, Evaluation 203]
 description: ongoing § Adjective
 ---
 

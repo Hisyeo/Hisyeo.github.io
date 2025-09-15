@@ -3,7 +3,7 @@ id: belêxu
 slug: belêxu
 title: BELÊXU
 sidebar_position: 579
-tags: [belêxu, Verb, Balto-Slavic]
+tags: [belêxu, Verb, Balto-Slavic, Communication, Communication 302]
 description: to mark (a target) § Verb
 ---
 

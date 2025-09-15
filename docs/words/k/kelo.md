@@ -3,7 +3,7 @@ id: kelo
 slug: kelo
 title: KELO
 sidebar_position: 193
-tags: [kelo, Verb, Indo-Iranian]
+tags: [kelo, Verb, Indo-Iranian, Sociology, Sociology 101]
 description: to play (a game) § Verb
 ---
 

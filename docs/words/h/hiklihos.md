@@ -3,7 +3,7 @@ id: hiklihos
 slug: hiklihos
 title: HIKLIHOS
 sidebar_position: 141
-tags: [hiklihos, Adjective, Austronesian]
+tags: [hiklihos, Adjective, Austronesian, Sociology, Sociology 203]
 description: supernatural/miraculous § Adjective
 ---
 

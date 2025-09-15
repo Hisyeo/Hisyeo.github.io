@@ -3,7 +3,7 @@ id: hênêlô
 slug: hênêlô
 title: HÊNÊLÔ
 sidebar_position: 139
-tags: [hênêlô, Noun, Romance]
+tags: [hênêlô, Noun, Romance, Anatomy, Anatomy 201]
 description: gender § Noun
 ---
 

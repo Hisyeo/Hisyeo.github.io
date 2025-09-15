@@ -3,7 +3,7 @@ id: kukwon
 slug: kukwon
 title: KUKWON
 sidebar_position: 212
-tags: [kukwon, Noun, Austro-Asiatic]
+tags: [kukwon, Noun, Austro-Asiatic, Anatomy, Anatomy 304]
 description: organ/member § Noun
 ---
 

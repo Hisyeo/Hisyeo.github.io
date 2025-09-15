@@ -3,7 +3,7 @@ id: bodî
 slug: bodî
 title: BODÎ
 sidebar_position: 560
-tags: [bodî, Adjective, Nilo-Saharan]
+tags: [bodî, Adjective, Nilo-Saharan, Phenomenology, Phenomenology 101]
 description: unmoving § Adjective
 ---
 

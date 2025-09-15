@@ -3,7 +3,7 @@ id: nîltûgu
 slug: nîltûgu
 title: NÎLTÛGU
 sidebar_position: 764
-tags: [nîltûgu, Verb, Dravidian]
+tags: [nîltûgu, Verb, Dravidian, Communication, Communication 103]
 description: to stop (the stopped) § Verb
 ---
 

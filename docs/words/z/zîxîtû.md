@@ -3,7 +3,7 @@ id: zîxîtû
 slug: zîxîtû
 title: ZÎXÎTÛ
 sidebar_position: 538
-tags: [zîxîtû, Noun, Romance]
+tags: [zîxîtû, Noun, Romance, Anatomy, Anatomy 203]
 description: finger/toe § Noun
 ---
 

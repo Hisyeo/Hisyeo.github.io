@@ -3,7 +3,7 @@ id: gos
 slug: gos
 title: GOS
 sidebar_position: 234
-tags: [gos, Noun, Indo-Iranian]
+tags: [gos, Noun, Indo-Iranian, Biology, Biology 101]
 description: plant § Noun
 ---
 

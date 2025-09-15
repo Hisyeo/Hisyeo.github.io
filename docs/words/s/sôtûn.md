@@ -3,7 +3,7 @@ id: sôtûn
 slug: sôtûn
 title: SÔTÛN
 sidebar_position: 390
-tags: [sôtûn, Noun, Indo-Iranian]
+tags: [sôtûn, Noun, Indo-Iranian, Communication, Communication 302]
 description: column § Noun
 ---
 

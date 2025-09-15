@@ -3,7 +3,7 @@ id: ûlgûkîn
 slug: ûlgûkîn
 title: ÛLGÛKÎN
 sidebar_position: 113
-tags: [ûlgûkîn, Adjective, Tungusic]
+tags: [ûlgûkîn, Adjective, Tungusic, Properties, Properties 201]
 description: dry § Adjective
 ---
 

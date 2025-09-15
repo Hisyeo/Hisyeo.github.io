@@ -3,7 +3,7 @@ id: sûôxic
 slug: sûôxic
 title: SÛÔXIC
 sidebar_position: 424
-tags: [sûôxic, Verb, Balto-Slavic]
+tags: [sûôxic, Verb, Balto-Slavic, Phenomenology, Phenomenology 304]
 description: to fold (the folded) § Verb
 ---
 

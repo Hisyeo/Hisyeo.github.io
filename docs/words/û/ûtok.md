@@ -3,7 +3,7 @@ id: ûtok
 slug: ûtok
 title: ÛTOK
 sidebar_position: 98
-tags: [ûtok, Adjective, Quechumaran]
+tags: [ûtok, Adjective, Quechumaran, Evaluation, Evaluation 099]
 description: also § Adjective
 ---
 

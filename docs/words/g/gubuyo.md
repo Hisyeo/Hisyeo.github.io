@@ -3,7 +3,7 @@ id: gubuyo
 slug: gubuyo
 title: GUBUYO
 sidebar_position: 259
-tags: [gubuyo, Noun, Afro-Asiatic]
+tags: [gubuyo, Noun, Afro-Asiatic, Architecture, Architecture 201]
 description: shop/market § Noun
 ---
 

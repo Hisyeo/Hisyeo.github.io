@@ -3,7 +3,7 @@ id: itihos
 slug: itihos
 title: ITIHOS
 sidebar_position: 63
-tags: [itihos, Noun, Indo-Iranian]
+tags: [itihos, Noun, Indo-Iranian, Sociology, Sociology 302]
 description: history § Noun
 ---
 

@@ -3,7 +3,7 @@ id: tîton
 slug: tîton
 title: TÎTON
 sidebar_position: 300
-tags: [tîton, Noun, Kra-Dai]
+tags: [tîton, Noun, Kra-Dai, Geography, Geography 101]
 description: way/path § Noun
 ---
 

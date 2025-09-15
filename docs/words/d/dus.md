@@ -3,7 +3,7 @@ id: dus
 slug: dus
 title: DUS
 sidebar_position: 503
-tags: [dus, Numeral, Indo-Iranian]
+tags: [dus, Numeral, Indo-Iranian, Mathematics, Mathematics 203]
 description: 10 ten § Numeral
 ---
 

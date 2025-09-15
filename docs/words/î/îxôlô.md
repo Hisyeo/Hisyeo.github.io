@@ -3,7 +3,7 @@ id: îxôlô
 slug: îxôlô
 title: ÎXÔLÔ
 sidebar_position: 75
-tags: [îxôlô, Noun, Niger-Congo]
+tags: [îxôlô, Noun, Niger-Congo, Communication, Communication 202]
 description: problem § Noun
 ---
 

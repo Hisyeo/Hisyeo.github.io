@@ -3,7 +3,7 @@ id: nêôs
 slug: nêôs
 title: NÊÔS
 sidebar_position: 749
-tags: [nêôs, Adjective, Hellenic]
+tags: [nêôs, Adjective, Hellenic, Evaluation, Evaluation 102]
 description: new/fresh § Adjective
 ---
 

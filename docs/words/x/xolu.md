@@ -3,7 +3,7 @@ id: xolu
 slug: xolu
 title: XOLU
 sidebar_position: 442
-tags: [xolu, Noun, Germanic]
+tags: [xolu, Noun, Germanic, Tools, Tools 102]
 description: bowl/cup § Noun
 ---
 

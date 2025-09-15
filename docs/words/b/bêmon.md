@@ -3,7 +3,7 @@ id: bêmon
 slug: bêmon
 title: BÊMON
 sidebar_position: 585
-tags: [bêmon, Verb, Indo-Iranian]
+tags: [bêmon, Verb, Indo-Iranian, Communication, Communication 202]
 description: to promise (a promise) § Verb
 ---
 

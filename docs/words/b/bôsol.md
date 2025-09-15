@@ -3,7 +3,7 @@ id: bôsol
 slug: bôsol
 title: BÔSOL
 sidebar_position: 574
-tags: [bôsol, Verb, Romance]
+tags: [bôsol, Verb, Romance, Phenomenology, Phenomenology 101]
 description: to form a pose (a position) § Verb
 ---
 

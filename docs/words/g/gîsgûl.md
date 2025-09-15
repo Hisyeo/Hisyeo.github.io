@@ -3,7 +3,7 @@ id: gîsgûl
 slug: gîsgûl
 title: GÎSGÛL
 sidebar_position: 258
-tags: [gîsgûl, Noun, Mongolic]
+tags: [gîsgûl, Noun, Mongolic, Architecture, Architecture 202]
 description: step/rung § Noun
 ---
 

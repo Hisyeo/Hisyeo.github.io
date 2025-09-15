@@ -3,7 +3,7 @@ id: wîk
 slug: wîk
 title: WÎK
 sidebar_position: 798
-tags: [wîk, Noun, Nilo-Saharan]
+tags: [wîk, Noun, Nilo-Saharan, Anatomy, Anatomy 101]
 description: head § Noun
 ---
 

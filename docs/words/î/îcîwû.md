@@ -3,7 +3,7 @@ id: îcîwû
 slug: îcîwû
 title: ÎCÎWÛ
 sidebar_position: 69
-tags: [îcîwû, Noun, Dravidian]
+tags: [îcîwû, Noun, Dravidian, Anatomy, Anatomy 303]
 description: hiccup/spasm § Noun
 ---
 

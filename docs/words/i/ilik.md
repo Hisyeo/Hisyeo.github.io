@@ -3,7 +3,7 @@ id: ilik
 slug: ilik
 title: ILIK
 sidebar_position: 68
-tags: [ilik, Preposition, Turkic]
+tags: [ilik, Preposition, Turkic, Mathematics, Mathematics 202]
 description: predecessive marker (before) § Preposition
 ---
 

@@ -3,7 +3,7 @@ id: dêtoî
 slug: dêtoî
 title: DÊTOÎ
 sidebar_position: 489
-tags: [dêtoî, Noun, Romance]
+tags: [dêtoî, Noun, Romance, Communication, Communication 303]
 description: detail § Noun
 ---
 

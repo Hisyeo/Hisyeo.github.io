@@ -3,7 +3,7 @@ id: dukwêlit
 slug: dukwêlit
 title: DUKWÊLIT
 sidebar_position: 502
-tags: [dukwêlit, Adjective, Celtic]
+tags: [dukwêlit, Adjective, Celtic, Geography, Geography 301]
 description: returning § Adjective
 ---
 

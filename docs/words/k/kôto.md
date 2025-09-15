@@ -3,7 +3,7 @@ id: kôto
 slug: kôto
 title: KÔTO
 sidebar_position: 176
-tags: [kôto, Verb, Indo-Iranian]
+tags: [kôto, Verb, Indo-Iranian, Communication, Communication 102]
 description: to talk (speech) § Verb
 ---
 

@@ -3,7 +3,7 @@ id: eson
 slug: eson
 title: ESON
 sidebar_position: 47
-tags: [eson, Numeral, Niger-Congo]
+tags: [eson, Numeral, Niger-Congo, Mathematics, Mathematics 102]
 description: 09 nine § Numeral
 ---
 

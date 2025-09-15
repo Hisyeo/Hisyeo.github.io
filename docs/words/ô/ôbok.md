@@ -3,7 +3,7 @@ id: ôbok
 slug: ôbok
 title: ÔBOK
 sidebar_position: 40
-tags: [ôbok, Adjective, Romance]
+tags: [ôbok, Adjective, Romance, Materials, Materials 201]
 description: opaque § Adjective
 ---
 

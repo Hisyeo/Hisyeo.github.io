@@ -3,7 +3,7 @@ id: zûnlo
 slug: zûnlo
 title: ZÛNLO
 sidebar_position: 550
-tags: [zûnlo, Noun, Afro-Asiatic]
+tags: [zûnlo, Noun, Afro-Asiatic, Language, Language 101]
 description: series/sentence § Noun
 ---
 

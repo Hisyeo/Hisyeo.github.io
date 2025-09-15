@@ -3,7 +3,7 @@ id: bîcûon
 slug: bîcûon
 title: BÎCÛON
 sidebar_position: 597
-tags: [bîcûon, Adjective, Sino-Tibetan]
+tags: [bîcûon, Adjective, Sino-Tibetan, Anatomy, Anatomy 102]
 description: tired/exhausted § Adjective
 ---
 

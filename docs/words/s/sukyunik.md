@@ -3,7 +3,7 @@ id: sukyunik
 slug: sukyunik
 title: SUKYUNIK
 sidebar_position: 418
-tags: [sukyunik, Noun, Austro-Asiatic]
+tags: [sukyunik, Noun, Austro-Asiatic, Anatomy, Anatomy 304]
 description: mucus § Noun
 ---
 

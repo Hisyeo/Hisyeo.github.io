@@ -3,7 +3,7 @@ id: sînêxîs
 slug: sînêxîs
 title: SÎNÊXÎS
 sidebar_position: 415
-tags: [sînêxîs, Adjective, Hellenic]
+tags: [sînêxîs, Adjective, Hellenic, Evaluation, Evaluation 301]
 description: constant/stable § Adjective
 ---
 

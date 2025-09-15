@@ -3,7 +3,7 @@ id: isbulyol
 slug: isbulyol
 title: ISBULYOL
 sidebar_position: 65
-tags: [isbulyol, Adjective, Romance]
+tags: [isbulyol, Adjective, Romance, Phenomenology, Phenomenology 303]
 description: to scatter (scatterable entity) § Adjective
 ---
 

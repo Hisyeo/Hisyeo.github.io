@@ -3,7 +3,7 @@ id: kudûdo
 slug: kudûdo
 title: KUDÛDO
 sidebar_position: 215
-tags: [kudûdo, Verb, Koreic]
+tags: [kudûdo, Verb, Koreic, Nutrition, Nutrition 202]
 description: to harvest (a harvest) § Verb
 ---
 

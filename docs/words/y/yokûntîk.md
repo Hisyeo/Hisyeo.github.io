@@ -3,7 +3,7 @@ id: yokûntîk
 slug: yokûntîk
 title: YOKÛNTÎK
 sidebar_position: 852
-tags: [yokûntîk, Noun, Mayan]
+tags: [yokûntîk, Noun, Mayan, Communication, Communication 202]
 description: prize § Noun
 ---
 

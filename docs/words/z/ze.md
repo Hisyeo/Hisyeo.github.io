@@ -3,7 +3,7 @@ id: ze
 slug: ze
 title: ZE
 sidebar_position: 528
-tags: [ze, Postposition, Japonic]
+tags: [ze, Postposition, Japonic, Grammar, Grammar 204]
 description: aggressive/emotional sentence ender § Postposition
 ---
 

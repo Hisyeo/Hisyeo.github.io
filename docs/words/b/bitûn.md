@@ -3,7 +3,7 @@ id: bitûn
 slug: bitûn
 title: BITÛN
 sidebar_position: 588
-tags: [bitûn, Noun, Tupian]
+tags: [bitûn, Noun, Tupian, Mathematics, Mathematics 302]
 description: night § Noun
 ---
 

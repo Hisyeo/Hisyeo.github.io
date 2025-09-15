@@ -3,7 +3,7 @@ id: xêtî
 slug: xêtî
 title: XÊTÎ
 sidebar_position: 451
-tags: [xêtî, Numeral, Turkic]
+tags: [xêtî, Numeral, Turkic, Mathematics, Mathematics 102]
 description: 07 seven § Numeral
 ---
 

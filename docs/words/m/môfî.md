@@ -3,7 +3,7 @@ id: môfî
 slug: môfî
 title: MÔFÎ
 sidebar_position: 689
-tags: [môfî, Adjective, Germanic]
+tags: [môfî, Adjective, Germanic, Emotion, Emotion 301]
 description: brave/courageous § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: undofôl
 slug: undofôl
 title: UNDOFÔL
 sidebar_position: 92
-tags: [undofôl, Noun, Armenian]
+tags: [undofôl, Noun, Armenian, Nutrition, Nutrition 102]
 description: legume § Noun
 ---
 

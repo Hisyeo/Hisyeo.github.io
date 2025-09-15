@@ -3,7 +3,7 @@ id: bomoge
 slug: bomoge
 title: BOMOGE
 sidebar_position: 562
-tags: [bomoge, Adjective, Germanic]
+tags: [bomoge, Adjective, Germanic, Anatomy, Anatomy 302]
 description: prone § Adjective
 ---
 

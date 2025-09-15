@@ -3,7 +3,7 @@ id: kînsê
 slug: kînsê
 title: KÎNSÊ
 sidebar_position: 206
-tags: [kînsê, Numeral, Austronesian]
+tags: [kînsê, Numeral, Austronesian, Mathematics, Mathematics 204]
 description: 15 fifteen § Numeral
 ---
 

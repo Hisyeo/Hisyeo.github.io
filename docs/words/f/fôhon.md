@@ -3,7 +3,7 @@ id: fôhon
 slug: fôhon
 title: FÔHON
 sidebar_position: 634
-tags: [fôhon, Noun, Germanic]
+tags: [fôhon, Noun, Germanic, Geography, Geography 201]
 description: front/forward § Noun
 ---
 

@@ -3,7 +3,7 @@ id: bûdogo
 slug: bûdogo
 title: BÛDOGO
 sidebar_position: 616
-tags: [bûdogo, Noun, Dravidian]
+tags: [bûdogo, Noun, Dravidian, Tools, Tools 302]
 description: bubble § Noun
 ---
 

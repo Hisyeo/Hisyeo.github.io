@@ -3,7 +3,7 @@ id: dên
 slug: dên
 title: DÊN
 sidebar_position: 491
-tags: [dên, Preposition, Armenian]
+tags: [dên, Preposition, Armenian, Grammar, Grammar 203]
 description: oppositive marker (against) § Preposition
 ---
 

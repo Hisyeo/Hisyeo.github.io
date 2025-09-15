@@ -3,7 +3,7 @@ id: sontî
 slug: sontî
 title: SONTÎ
 sidebar_position: 386
-tags: [sontî, Adjective, Kra-Dai]
+tags: [sontî, Adjective, Kra-Dai, Emotion, Emotion 301]
 description: calm § Adjective
 ---
 

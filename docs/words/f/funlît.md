@@ -3,7 +3,7 @@ id: funlît
 slug: funlît
 title: FUNLÎT
 sidebar_position: 658
-tags: [funlît, Adjective, Sino-Tibetan]
+tags: [funlît, Adjective, Sino-Tibetan, Properties, Properties 101]
 description: split § Adjective
 ---
 

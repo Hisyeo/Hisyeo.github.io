@@ -3,7 +3,7 @@ id: kôtîkôl
 slug: kôtîkôl
 title: KÔTÎKÔL
 sidebar_position: 177
-tags: [kôtîkôl, Adjective, Indo-Iranian]
+tags: [kôtîkôl, Adjective, Indo-Iranian, Evaluation, Evaluation 101]
 description: hindering/detrimental § Adjective
 ---
 

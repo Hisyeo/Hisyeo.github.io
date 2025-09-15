@@ -3,7 +3,7 @@ id: winît
 slug: winît
 title: WINÎT
 sidebar_position: 797
-tags: [winît, Adjective, Indo-Iranian]
+tags: [winît, Adjective, Indo-Iranian, Sociology, Sociology 203]
 description: humble § Adjective
 ---
 

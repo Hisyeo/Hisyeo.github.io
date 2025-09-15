@@ -3,7 +3,7 @@ id: eswen
 slug: eswen
 title: ESWEN
 sidebar_position: 48
-tags: [eswen, Determiner, Quechumaran]
+tags: [eswen, Determiner, Quechumaran, Mathematics, Mathematics 303]
 description: more § Determiner
 ---
 

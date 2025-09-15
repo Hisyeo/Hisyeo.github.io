@@ -3,7 +3,7 @@ id: but
 slug: but
 title: BUT
 sidebar_position: 605
-tags: [but, Adjective, Kra-Dai]
+tags: [but, Adjective, Kra-Dai, Properties, Properties 101]
 description: open § Adjective
 ---
 

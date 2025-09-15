@@ -3,7 +3,7 @@ id: lobotôl
 slug: lobotôl
 title: LOBOTÔL
 sidebar_position: 813
-tags: [lobotôl, Verb, Uralic]
+tags: [lobotôl, Verb, Uralic, Phenomenology, Phenomenology 304]
 description: to scoop (the scooped) § Verb
 ---
 

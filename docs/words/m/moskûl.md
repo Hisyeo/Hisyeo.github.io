@@ -3,7 +3,7 @@ id: moskûl
 slug: moskûl
 title: MOSKÛL
 sidebar_position: 672
-tags: [moskûl, Adjective, Romance]
+tags: [moskûl, Adjective, Romance, Anatomy, Anatomy 201]
 description: male § Adjective
 ---
 

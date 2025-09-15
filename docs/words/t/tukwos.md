@@ -3,7 +3,7 @@ id: tukwos
 slug: tukwos
 title: TUKWOS
 sidebar_position: 303
-tags: [tukwos, Numeral, Afro-Asiatic]
+tags: [tukwos, Numeral, Afro-Asiatic, Mathematics, Mathematics 102]
 description: 08 eight § Numeral
 ---
 

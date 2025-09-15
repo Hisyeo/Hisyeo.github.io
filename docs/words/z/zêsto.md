@@ -3,7 +3,7 @@ id: zêsto
 slug: zêsto
 title: ZÊSTO
 sidebar_position: 530
-tags: [zêsto, Noun, Romance]
+tags: [zêsto, Noun, Romance, Sociology, Sociology 203]
 description: feat/achievement/heroic deed § Noun
 ---
 

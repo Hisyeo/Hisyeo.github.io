@@ -3,7 +3,7 @@ id: tûlôno
 slug: tûlôno
 title: TÛLÔNO
 sidebar_position: 312
-tags: [tûlôno, Noun, Indo-Iranian]
+tags: [tûlôno, Noun, Indo-Iranian, Evaluation, Evaluation 302]
 description: comparison § Noun
 ---
 

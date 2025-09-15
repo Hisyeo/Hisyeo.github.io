@@ -3,7 +3,7 @@ id: sobis
 slug: sobis
 title: SOBIS
 sidebar_position: 381
-tags: [sobis, Verb, Balto-Slavic]
+tags: [sobis, Verb, Balto-Slavic, Science, Science 102]
 description: to record (data/a recording) § Verb
 ---
 

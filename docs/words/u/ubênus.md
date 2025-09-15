@@ -3,7 +3,7 @@ id: ubênus
 slug: ubênus
 title: UBÊNUS
 sidebar_position: 88
-tags: [ubênus, Adjective, Romance]
+tags: [ubênus, Adjective, Romance, Evaluation, Evaluation 301]
 description: barely § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: nô
 slug: nô
 title: NÔ
 sidebar_position: 741
-tags: [nô, Adjective, Niger-Congo]
+tags: [nô, Adjective, Niger-Congo, Phenomenology, Phenomenology 101]
 description: moving § Adjective
 ---
 

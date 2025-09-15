@@ -3,7 +3,7 @@ id: hûkê
 slug: hûkê
 title: HÛKÊ
 sidebar_position: 151
-tags: [hûkê, Verb, Austronesian]
+tags: [hûkê, Verb, Austronesian, Tools, Tools 301]
 description: to mine (ore) § Verb
 ---
 

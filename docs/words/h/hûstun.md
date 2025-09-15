@@ -3,7 +3,7 @@ id: hûstun
 slug: hûstun
 title: HÛSTUN
 sidebar_position: 154
-tags: [hûstun, Noun, Germanic]
+tags: [hûstun, Noun, Germanic, Anatomy, Anatomy 303]
 description: cough § Noun
 ---
 

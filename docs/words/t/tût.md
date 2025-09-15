@@ -3,7 +3,7 @@ id: tût
 slug: tût
 title: TÛT
 sidebar_position: 309
-tags: [tût, Adjective, Trans-New Guinea]
+tags: [tût, Adjective, Trans-New Guinea, Anatomy, Anatomy 302]
 description: hot § Adjective
 ---
 

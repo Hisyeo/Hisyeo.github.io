@@ -3,7 +3,7 @@ id: zelen
 slug: zelen
 title: ZELEN
 sidebar_position: 529
-tags: [zelen, Adjective, Turkic]
+tags: [zelen, Adjective, Turkic, Mathematics, Mathematics 301]
 description: upcoming § Adjective
 ---
 

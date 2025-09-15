@@ -3,7 +3,7 @@ id: gitno
 slug: gitno
 title: GITNO
 sidebar_position: 254
-tags: [gitno, Preposition, Austronesian]
+tags: [gitno, Preposition, Austronesian, Grammar, Grammar 203]
 description: intermediative marker (between) § Preposition
 ---
 

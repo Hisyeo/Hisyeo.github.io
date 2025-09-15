@@ -3,7 +3,7 @@ id: ciwîndî
 slug: ciwîndî
 title: CIWÎNDÎ
 sidebar_position: 341
-tags: [ciwîndî, Noun, Niger-Congo]
+tags: [ciwîndî, Noun, Niger-Congo, Anatomy, Anatomy 203]
 description: liver § Noun
 ---
 

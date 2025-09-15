@@ -3,7 +3,7 @@ id: sohoû
 slug: sohoû
 title: SOHOÛ
 sidebar_position: 372
-tags: [sohoû, Adjective, Nakh-Daghestani]
+tags: [sohoû, Adjective, Nakh-Daghestani, Anatomy, Anatomy 102]
 description: healthy § Adjective
 ---
 

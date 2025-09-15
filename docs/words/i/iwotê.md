@@ -3,7 +3,7 @@ id: iwotê
 slug: iwotê
 title: IWOTÊ
 sidebar_position: 67
-tags: [iwotê, Adjective, Tupian]
+tags: [iwotê, Adjective, Tupian, Anatomy, Anatomy 302]
 description: tall § Adjective
 ---
 

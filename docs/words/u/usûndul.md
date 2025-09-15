@@ -3,7 +3,7 @@ id: usûndul
 slug: usûndul
 title: USÛNDUL
 sidebar_position: 85
-tags: [usûndul, Adjective, Indo-Iranian]
+tags: [usûndul, Adjective, Indo-Iranian, Evaluation, Evaluation 204]
 description: ugly § Adjective
 ---
 

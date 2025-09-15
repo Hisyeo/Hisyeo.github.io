@@ -3,7 +3,7 @@ id: sîokbî
 slug: sîokbî
 title: SÎOKBÎ
 sidebar_position: 410
-tags: [sîokbî, Adjective, Sino-Tibetan]
+tags: [sîokbî, Adjective, Sino-Tibetan, Tools, Tools 202]
 description: facility/equipment § Adjective
 ---
 

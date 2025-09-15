@@ -3,7 +3,7 @@ id: cuskîdô
 slug: cuskîdô
 title: CUSKÎDÔ
 sidebar_position: 354
-tags: [cuskîdô, Noun, Romance]
+tags: [cuskîdô, Noun, Romance, Phenomenology, Phenomenology 202]
 description: click/snap § Noun
 ---
 

@@ -3,7 +3,7 @@ id: kuûnmê
 slug: kuûnmê
 title: KUÛNMÊ
 sidebar_position: 211
-tags: [kuûnmê, Noun, Austro-Asiatic]
+tags: [kuûnmê, Noun, Austro-Asiatic, Tools, Tools 301]
 description: technology § Noun
 ---
 

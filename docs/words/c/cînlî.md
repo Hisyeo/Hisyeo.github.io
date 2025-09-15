@@ -3,7 +3,7 @@ id: cînlî
 slug: cînlî
 title: CÎNLÎ
 sidebar_position: 351
-tags: [cînlî, Verb, Sino-Tibetan]
+tags: [cînlî, Verb, Sino-Tibetan, Communication, Communication 101]
 description: to undergo (an experience) § Verb
 ---
 

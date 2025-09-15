@@ -3,7 +3,7 @@ id: bôkôfoc
 slug: bôkôfoc
 title: BÔKÔFOC
 sidebar_position: 571
-tags: [bôkôfoc, Verb, Balto-Slavic]
+tags: [bôkôfoc, Verb, Balto-Slavic, Phenomenology, Phenomenology 304]
 description: to block (the blocked) § Verb
 ---
 

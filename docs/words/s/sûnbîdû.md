@@ -3,7 +3,7 @@ id: sûnbîdû
 slug: sûnbîdû
 title: SÛNBÎDÛ
 sidebar_position: 431
-tags: [sûnbîdû, Noun, Romance]
+tags: [sûnbîdû, Noun, Romance, Phenomenology, Phenomenology 202]
 description: drone/buzz/hum § Noun
 ---
 

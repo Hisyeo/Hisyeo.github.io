@@ -3,7 +3,7 @@ id: uskîfo
 slug: uskîfo
 title: USKÎFO
 sidebar_position: 86
-tags: [uskîfo, Verb, Romance]
+tags: [uskîfo, Verb, Romance, Phenomenology, Phenomenology 303]
 description: to avoid/dodge (evasion/dodge) § Verb
 ---
 

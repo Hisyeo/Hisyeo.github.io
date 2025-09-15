@@ -3,7 +3,7 @@ id: niswî
 slug: niswî
 title: NISWÎ
 sidebar_position: 756
-tags: [niswî, Numeral, Algic]
+tags: [niswî, Numeral, Algic, Mathematics, Mathematics 101]
 description: 03 three § Numeral
 ---
 

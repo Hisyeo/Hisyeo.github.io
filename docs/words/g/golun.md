@@ -3,7 +3,7 @@ id: golun
 slug: golun
 title: GOLUN
 sidebar_position: 242
-tags: [golun, Verb, Austronesian]
+tags: [golun, Verb, Austronesian, Sociology, Sociology 101]
 description: to respect (the respected) § Verb
 ---
 

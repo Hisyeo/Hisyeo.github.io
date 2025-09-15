@@ -3,7 +3,7 @@ id: kocko
 slug: kocko
 title: KOCKO
 sidebar_position: 166
-tags: [kocko, Adjective, Quechumaran]
+tags: [kocko, Adjective, Quechumaran, Materials, Materials 201]
 description: rough § Adjective
 ---
 

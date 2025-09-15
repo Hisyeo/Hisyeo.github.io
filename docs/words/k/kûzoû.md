@@ -3,7 +3,7 @@ id: kûzoû
 slug: kûzoû
 title: KÛZOÛ
 sidebar_position: 224
-tags: [kûzoû, Adjective, Austronesian]
+tags: [kûzoû, Adjective, Austronesian, Evaluation, Evaluation 203]
 description: awesome § Adjective
 ---
 

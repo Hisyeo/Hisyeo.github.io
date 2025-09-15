@@ -3,7 +3,7 @@ id: sûtûô
 slug: sûtûô
 title: SÛTÛÔ
 sidebar_position: 427
-tags: [sûtûô, Noun, Nilo-Saharan]
+tags: [sûtûô, Noun, Nilo-Saharan, Sociology, Sociology 101]
 description: friend § Noun
 ---
 

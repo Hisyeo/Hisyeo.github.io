@@ -3,7 +3,7 @@ id: ostok
 slug: ostok
 title: OSTOK
 sidebar_position: 12
-tags: [ostok, Noun, Armenian]
+tags: [ostok, Noun, Armenian, Communication, Communication 301]
 description: sign/signal § Noun
 ---
 

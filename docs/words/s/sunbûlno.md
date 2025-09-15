@@ -3,7 +3,7 @@ id: sunbûlno
 slug: sunbûlno
 title: SUNBÛLNO
 sidebar_position: 422
-tags: [sunbûlno, Adjective, Austronesian]
+tags: [sunbûlno, Adjective, Austronesian, Evaluation, Evaluation 302]
 description: flawless § Adjective
 ---
 

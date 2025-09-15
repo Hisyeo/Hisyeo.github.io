@@ -3,7 +3,7 @@ id: mônbili
 slug: mônbili
 title: MÔNBILI
 sidebar_position: 691
-tags: [mônbili, Adjective, Tupian]
+tags: [mônbili, Adjective, Tupian, Geography, Geography 301]
 description: far § Adjective
 ---
 

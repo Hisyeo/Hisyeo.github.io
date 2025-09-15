@@ -3,7 +3,7 @@ id: sumon
 slug: sumon
 title: SUMON
 sidebar_position: 420
-tags: [sumon, Adjective, Indo-Iranian]
+tags: [sumon, Adjective, Indo-Iranian, Evaluation, Evaluation 099]
 description: equal/same § Adjective
 ---
 

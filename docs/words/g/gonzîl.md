@@ -3,7 +3,7 @@ id: gonzîl
 slug: gonzîl
 title: GONZÎL
 sidebar_position: 239
-tags: [gonzîl, Adjective, Austronesian]
+tags: [gonzîl, Adjective, Austronesian, Sociology, Sociology 101]
 description: strange § Adjective
 ---
 

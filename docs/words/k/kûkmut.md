@@ -3,7 +3,7 @@ id: kûkmut
 slug: kûkmut
 title: KÛKMUT
 sidebar_position: 221
-tags: [kûkmut, Noun, Sino-Tibetan]
+tags: [kûkmut, Noun, Sino-Tibetan, Nutrition, Nutrition 101]
 description: cereal/grain § Noun
 ---
 

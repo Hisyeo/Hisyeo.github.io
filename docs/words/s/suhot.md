@@ -3,7 +3,7 @@ id: suhot
 slug: suhot
 title: SUHOT
 sidebar_position: 417
-tags: [suhot, Noun, Abkhazo-Adyghean]
+tags: [suhot, Noun, Abkhazo-Adyghean, Mathematics, Mathematics 301]
 description: hour § Noun
 ---
 

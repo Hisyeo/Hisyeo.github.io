@@ -3,7 +3,7 @@ id: luhû
 slug: luhû
 title: LUHÛ
 sidebar_position: 841
-tags: [luhû, Noun, Indo-Iranian]
+tags: [luhû, Noun, Indo-Iranian, Anatomy, Anatomy 204]
 description: blood § Noun
 ---
 

@@ -3,7 +3,7 @@ id: mîencok
 slug: mîencok
 title: MÎENCOK
 sidebar_position: 703
-tags: [mîencok, Noun, Balto-Slavic]
+tags: [mîencok, Noun, Balto-Slavic, Biology, Biology 202]
 description: mollusc § Noun
 ---
 

@@ -3,7 +3,7 @@ id: wûôt
 slug: wûôt
 title: WÛÔT
 sidebar_position: 808
-tags: [wûôt, Noun, Nilo-Saharan]
+tags: [wûôt, Noun, Nilo-Saharan, Geography, Geography 301]
 description: journey/trip/voyage § Noun
 ---
 

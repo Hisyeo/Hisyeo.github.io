@@ -3,7 +3,7 @@ id: gôwo
 slug: gôwo
 title: GÔWO
 sidebar_position: 248
-tags: [gôwo, Adjective, Afro-Asiatic]
+tags: [gôwo, Adjective, Afro-Asiatic, Emotion, Emotion 202]
 description: foolish/obtuse § Adjective
 ---
 

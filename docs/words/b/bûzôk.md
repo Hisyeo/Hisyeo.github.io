@@ -3,7 +3,7 @@ id: bûzôk
 slug: bûzôk
 title: BÛZÔK
 sidebar_position: 618
-tags: [bûzôk, Determiner, Koreic]
+tags: [bûzôk, Determiner, Koreic, Mathematics, Mathematics 303]
 description: lack § Determiner
 ---
 

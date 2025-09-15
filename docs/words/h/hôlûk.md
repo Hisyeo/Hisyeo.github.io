@@ -3,7 +3,7 @@ id: hôlûk
 slug: hôlûk
 title: HÔLÛK
 sidebar_position: 134
-tags: [hôlûk, Noun, Mongolic]
+tags: [hôlûk, Noun, Mongolic, Tools, Tools 301]
 description: to pump (a pumpable entity) § Noun
 ---
 

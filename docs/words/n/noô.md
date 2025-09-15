@@ -3,7 +3,7 @@ id: noô
 slug: noô
 title: NOÔ
 sidebar_position: 728
-tags: [noô, Noun, Austronesian]
+tags: [noô, Noun, Austronesian, Science, Science 202]
 description: wave § Noun
 ---
 

@@ -3,7 +3,7 @@ id: mênûs
 slug: mênûs
 title: MÊNÛS
 sidebar_position: 695
-tags: [mênûs, Determiner, Romance]
+tags: [mênûs, Determiner, Romance, Mathematics, Mathematics 201]
 description: fewer/less § Determiner
 ---
 

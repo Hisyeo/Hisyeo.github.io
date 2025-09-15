@@ -3,7 +3,7 @@ id: telô
 slug: telô
 title: TELÔ
 sidebar_position: 293
-tags: [telô, Numeral, Indo-Iranian]
+tags: [telô, Numeral, Indo-Iranian, Mathematics, Mathematics 203]
 description: 13 thirteen § Numeral
 ---
 

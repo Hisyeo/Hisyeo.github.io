@@ -3,7 +3,7 @@ id: dîncî
 slug: dîncî
 title: DÎNCÎ
 sidebar_position: 497
-tags: [dîncî, Noun, Kra-Dai]
+tags: [dîncî, Noun, Kra-Dai, Architecture, Architecture 102]
 description: block § Noun
 ---
 

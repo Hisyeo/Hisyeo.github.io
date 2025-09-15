@@ -3,7 +3,7 @@ id: cênbô
 slug: cênbô
 title: CÊNBÔ
 sidebar_position: 332
-tags: [cênbô, Adjective, Sino-Tibetan]
+tags: [cênbô, Adjective, Sino-Tibetan, Architecture, Architecture 301]
 description: big § Adjective
 ---
 

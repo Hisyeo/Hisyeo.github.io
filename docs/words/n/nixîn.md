@@ -3,7 +3,7 @@ id: nixîn
 slug: nixîn
 title: NIXÎN
 sidebar_position: 757
-tags: [nixîn, Noun, Oto-Manguean]
+tags: [nixîn, Noun, Oto-Manguean, Anatomy, Anatomy 301]
 description: wing § Noun
 ---
 

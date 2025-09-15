@@ -3,7 +3,7 @@ id: cûdo
 slug: cûdo
 title: CÛDO
 sidebar_position: 363
-tags: [cûdo, Verb, Koreic]
+tags: [cûdo, Verb, Koreic, Communication, Communication 201]
 description: to give (a gift) § Verb
 ---
 

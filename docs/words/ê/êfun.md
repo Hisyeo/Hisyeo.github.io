@@ -3,7 +3,7 @@ id: êfun
 slug: êfun
 title: ÊFUN
 sidebar_position: 58
-tags: [êfun, Adjective, Germanic]
+tags: [êfun, Adjective, Germanic, Mathematics, Mathematics 301]
 description: momentary (minute) § Adjective
 ---
 

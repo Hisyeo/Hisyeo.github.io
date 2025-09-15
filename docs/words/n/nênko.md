@@ -3,7 +3,7 @@ id: nênko
 slug: nênko
 title: NÊNKO
 sidebar_position: 751
-tags: [nênko, Preposition, Niger-Congo]
+tags: [nênko, Preposition, Niger-Congo, Grammar, Grammar 203]
 description: causal marker (because of) § Preposition
 ---
 

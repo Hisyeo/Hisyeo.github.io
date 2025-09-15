@@ -3,7 +3,7 @@ id: lolû
 slug: lolû
 title: LOLÛ
 sidebar_position: 818
-tags: [lolû, Noun, Hmong-Mien]
+tags: [lolû, Noun, Hmong-Mien, Language, Language 101]
 description: word § Noun
 ---
 

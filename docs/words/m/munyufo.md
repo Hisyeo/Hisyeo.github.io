@@ -3,7 +3,7 @@ id: munyufo
 slug: munyufo
 title: MUNYUFO
 sidebar_position: 715
-tags: [munyufo, Verb, Romance]
+tags: [munyufo, Verb, Romance, Sociology, Sociology 202]
 description: to borrow/lend (the borrowed/lent) § Verb
 ---
 

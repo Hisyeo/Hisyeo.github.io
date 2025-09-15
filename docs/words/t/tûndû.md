@@ -3,7 +3,7 @@ id: tûndû
 slug: tûndû
 title: TÛNDÛ
 sidebar_position: 310
-tags: [tûndû, Noun, Nilo-Saharan]
+tags: [tûndû, Noun, Nilo-Saharan, Geography, Geography 201]
 description: bottom § Noun
 ---
 

@@ -3,7 +3,7 @@ id: bîkontê
 slug: bîkontê
 title: BÎKONTÊ
 sidebar_position: 595
-tags: [bîkontê, Adjective, Romance]
+tags: [bîkontê, Adjective, Romance, Nutrition, Nutrition 201]
 description: spicy § Adjective
 ---
 

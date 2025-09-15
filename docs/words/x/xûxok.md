@@ -3,7 +3,7 @@ id: xûxok
 slug: xûxok
 title: XÛXOK
 sidebar_position: 470
-tags: [xûxok, Noun, Nakh-Daghestani]
+tags: [xûxok, Noun, Nakh-Daghestani, Sociology, Sociology 301]
 description: hell § Noun
 ---
 

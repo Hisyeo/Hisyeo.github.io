@@ -3,7 +3,7 @@ id: îmon
 slug: îmon
 title: ÎMON
 sidebar_position: 79
-tags: [îmon, Verb, Afro-Asiatic]
+tags: [îmon, Verb, Afro-Asiatic, Emotion, Emotion 102]
 description: to trust (a belief) § Verb
 ---
 

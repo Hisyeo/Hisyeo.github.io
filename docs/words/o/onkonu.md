@@ -3,7 +3,7 @@ id: onkonu
 slug: onkonu
 title: ONKONU
 sidebar_position: 24
-tags: [onkonu, Verb, Dravidian]
+tags: [onkonu, Verb, Dravidian, Science, Science 102]
 description: to estimate/guess (an estimation/guess) § Verb
 ---
 

@@ -3,7 +3,7 @@ id: dûî
 slug: dûî
 title: DÛÎ
 sidebar_position: 506
-tags: [dûî, Numeral, Indo-Iranian]
+tags: [dûî, Numeral, Indo-Iranian, Mathematics, Mathematics 101]
 description: 02 two § Numeral
 ---
 

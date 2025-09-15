@@ -3,7 +3,7 @@ id: hîzon
 slug: hîzon
 title: HÎZON
 sidebar_position: 146
-tags: [hîzon, Adjective, Indo-Iranian]
+tags: [hîzon, Adjective, Indo-Iranian, Emotion, Emotion 101]
 description: excited § Adjective
 ---
 

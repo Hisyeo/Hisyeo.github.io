@@ -3,7 +3,7 @@ id: dônûs
 slug: dônûs
 title: DÔNÛS
 sidebar_position: 485
-tags: [dônûs, Noun, Turkic]
+tags: [dônûs, Noun, Turkic, Biology, Biology 201]
 description: pig § Noun
 ---
 

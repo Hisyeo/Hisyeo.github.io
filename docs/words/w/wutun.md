@@ -3,7 +3,7 @@ id: wutun
 slug: wutun
 title: WUTUN
 sidebar_position: 806
-tags: [wutun, Noun, Dravidian]
+tags: [wutun, Noun, Dravidian, Architecture, Architecture 101]
 description: ring/circle § Noun
 ---
 

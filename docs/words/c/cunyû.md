@@ -3,7 +3,7 @@ id: cunyû
 slug: cunyû
 title: CUNYÛ
 sidebar_position: 357
-tags: [cunyû, Adjective, Sino-Tibetan]
+tags: [cunyû, Adjective, Sino-Tibetan, Anatomy, Anatomy 302]
 description: cold § Adjective
 ---
 

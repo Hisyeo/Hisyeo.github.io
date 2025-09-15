@@ -3,7 +3,7 @@ id: binlêô
 slug: binlêô
 title: BINLÊÔ
 sidebar_position: 590
-tags: [binlêô, Noun, Sino-Tibetan]
+tags: [binlêô, Noun, Sino-Tibetan, Geography, Geography 202]
 description: bay/golf § Noun
 ---
 

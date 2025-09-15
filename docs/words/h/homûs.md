@@ -3,7 +3,7 @@ id: homûs
 slug: homûs
 title: HOMÛS
 sidebar_position: 125
-tags: [homûs, Adjective, Indo-Iranian]
+tags: [homûs, Adjective, Indo-Iranian, Phenomenology, Phenomenology 202]
 description: quiet § Adjective
 ---
 

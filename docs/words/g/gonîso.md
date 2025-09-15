@@ -3,7 +3,7 @@ id: gonîso
 slug: gonîso
 title: GONÎSO
 sidebar_position: 237
-tags: [gonîso, Verb, Niger-Congo]
+tags: [gonîso, Verb, Niger-Congo, Language, Language 201]
 description: to think (a thought/opinion) § Verb
 ---
 

@@ -3,7 +3,7 @@ id: onkûol
 slug: onkûol
 title: ONKÛOL
 sidebar_position: 25
-tags: [onkûol, Verb, Indo-Iranian]
+tags: [onkûol, Verb, Indo-Iranian, Phenomenology, Phenomenology 301]
 description: to hug (the hugged) § Verb
 ---
 

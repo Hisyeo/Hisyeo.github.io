@@ -3,7 +3,7 @@ id: zûntûlu
 slug: zûntûlu
 title: ZÛNTÛLU
 sidebar_position: 549
-tags: [zûntûlu, Noun, Romance]
+tags: [zûntûlu, Noun, Romance, Anatomy, Anatomy 304]
 description: joint § Noun
 ---
 

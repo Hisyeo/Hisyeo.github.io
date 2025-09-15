@@ -3,7 +3,7 @@ id: cînzon
 slug: cînzon
 title: CÎNZON
 sidebar_position: 350
-tags: [cînzon, Adjective, Sino-Tibetan]
+tags: [cînzon, Adjective, Sino-Tibetan, Emotion, Emotion 201]
 description: nervous/anxious § Adjective
 ---
 

@@ -3,7 +3,7 @@ id: mîtmo
 slug: mîtmo
 title: MÎTMO
 sidebar_position: 708
-tags: [mîtmo, Noun, Quechumaran]
+tags: [mîtmo, Noun, Quechumaran, Sociology, Sociology 303]
 description: colony § Noun
 ---
 

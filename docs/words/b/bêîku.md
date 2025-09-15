@@ -3,7 +3,7 @@ id: bêîku
 slug: bêîku
 title: BÊÎKU
 sidebar_position: 581
-tags: [bêîku, Noun, Sino-Tibetan]
+tags: [bêîku, Noun, Sino-Tibetan, Anatomy, Anatomy 301]
 description: shell § Noun
 ---
 

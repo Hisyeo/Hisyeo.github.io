@@ -3,7 +3,7 @@ id: nûyo
 slug: nûyo
 title: NÛYO
 sidebar_position: 774
-tags: [nûyo, Noun, Romance]
+tags: [nûyo, Noun, Romance, Materials, Materials 101]
 description: stick § Noun
 ---
 

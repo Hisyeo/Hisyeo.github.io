@@ -3,7 +3,7 @@ id: kôndonsê
 slug: kôndonsê
 title: KÔNDONSÊ
 sidebar_position: 187
-tags: [kôndonsê, Adjective, Romance]
+tags: [kôndonsê, Adjective, Romance, Science, Science 201]
 description: condensed/concentrated § Adjective
 ---
 

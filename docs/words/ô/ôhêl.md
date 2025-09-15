@@ -3,7 +3,7 @@ id: ôhêl
 slug: ôhêl
 title: ÔHÊL
 sidebar_position: 34
-tags: [ôhêl, Noun, Mayan]
+tags: [ôhêl, Noun, Mayan, Mathematics, Mathematics 302]
 description: past § Noun
 ---
 

@@ -3,7 +3,7 @@ id: nûs
 slug: nûs
 title: NÛS
 sidebar_position: 773
-tags: [nûs, Pronoun, Romance]
+tags: [nûs, Pronoun, Romance, Language, Language 102]
 description: we/us § Pronoun
 ---
 

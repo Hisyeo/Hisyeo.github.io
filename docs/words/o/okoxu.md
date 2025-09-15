@@ -3,7 +3,7 @@ id: okoxu
 slug: okoxu
 title: OKOXU
 sidebar_position: 2
-tags: [okoxu, Noun, Indo-Iranian]
+tags: [okoxu, Noun, Indo-Iranian, Geography, Geography 102]
 description: sky § Noun
 ---
 

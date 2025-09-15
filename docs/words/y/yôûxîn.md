@@ -3,7 +3,7 @@ id: yôûxîn
 slug: yôûxîn
 title: YÔÛXÎN
 sidebar_position: 861
-tags: [yôûxîn, Noun, Sino-Tibetan]
+tags: [yôûxîn, Noun, Sino-Tibetan, Sociology, Sociology 301]
 description: parade/procession § Noun
 ---
 

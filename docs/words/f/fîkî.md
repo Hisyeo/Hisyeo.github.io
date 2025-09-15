@@ -3,7 +3,7 @@ id: fîkî
 slug: fîkî
 title: FÎKÎ
 sidebar_position: 648
-tags: [fîkî, Adjective, Austronesian]
+tags: [fîkî, Adjective, Austronesian, Phenomenology, Phenomenology 301]
 description: fast § Adjective
 ---
 

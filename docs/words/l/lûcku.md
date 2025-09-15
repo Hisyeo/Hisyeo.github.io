@@ -3,7 +3,7 @@ id: lûcku
 slug: lûcku
 title: LÛCKU
 sidebar_position: 848
-tags: [lûcku, Noun, Balto-Slavic]
+tags: [lûcku, Noun, Balto-Slavic, Tools, Tools 202]
 description: lever/knob/handle § Noun
 ---
 

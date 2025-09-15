@@ -3,7 +3,7 @@ id: ûslêk
 slug: ûslêk
 title: ÛSLÊK
 sidebar_position: 103
-tags: [ûslêk, Verb, Mongolic]
+tags: [ûslêk, Verb, Mongolic, Phenomenology, Phenomenology 302]
 description: to blow (a blown entity) § Verb
 ---
 

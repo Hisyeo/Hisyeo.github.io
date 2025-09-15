@@ -3,7 +3,7 @@ id: nomû
 slug: nomû
 title: NOMÛ
 sidebar_position: 736
-tags: [nomû, Noun, Koreic]
+tags: [nomû, Noun, Koreic, Biology, Biology 101]
 description: tree § Noun
 ---
 

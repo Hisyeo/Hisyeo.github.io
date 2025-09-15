@@ -3,7 +3,7 @@ id: zinkon
 slug: zinkon
 title: ZINKON
 sidebar_position: 534
-tags: [zinkon, Noun, Austro-Asiatic]
+tags: [zinkon, Noun, Austro-Asiatic, Tools, Tools 102]
 description: door § Noun
 ---
 

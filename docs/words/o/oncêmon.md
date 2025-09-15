@@ -3,7 +3,7 @@ id: oncêmon
 slug: oncêmon
 title: ONCÊMON
 sidebar_position: 27
-tags: [oncêmon, Verb, Basque]
+tags: [oncêmon, Verb, Basque, Phenomenology, Phenomenology 102]
 description: to feel/sense (a phenomenon) § Verb
 ---
 

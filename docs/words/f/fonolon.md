@@ -3,7 +3,7 @@ id: fonolon
 slug: fonolon
 title: FONOLON
 sidebar_position: 629
-tags: [fonolon, Noun, Dravidian]
+tags: [fonolon, Noun, Dravidian, Biology, Biology 201]
 description: monkey/ape § Noun
 ---
 

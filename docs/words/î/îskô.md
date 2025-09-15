@@ -3,7 +3,7 @@ id: îskô
 slug: îskô
 title: ÎSKÔ
 sidebar_position: 73
-tags: [îskô, Verb, Muskogean]
+tags: [îskô, Verb, Muskogean, Nutrition, Nutrition 101]
 description: to drink (a drink) § Verb
 ---
 

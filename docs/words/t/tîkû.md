@@ -3,7 +3,7 @@ id: tîkû
 slug: tîkû
 title: TÎKÛ
 sidebar_position: 299
-tags: [tîkû, Adjective, Niger-Congo]
+tags: [tîkû, Adjective, Niger-Congo, Anatomy, Anatomy 102]
 description: dead § Adjective
 ---
 

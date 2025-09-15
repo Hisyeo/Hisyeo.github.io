@@ -3,7 +3,7 @@ id: obô
 slug: obô
 title: OBÔ
 sidebar_position: 17
-tags: [obô, Noun, Niger-Congo]
+tags: [obô, Noun, Niger-Congo, Anatomy, Anatomy 202]
 description: arm § Noun
 ---
 

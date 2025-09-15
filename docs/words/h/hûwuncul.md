@@ -3,7 +3,7 @@ id: hûwuncul
 slug: hûwuncul
 title: HÛWUNCUL
 sidebar_position: 160
-tags: [hûwuncul, Noun, Mongolic]
+tags: [hûwuncul, Noun, Mongolic, Materials, Materials 102]
 description: plastic § Noun
 ---
 

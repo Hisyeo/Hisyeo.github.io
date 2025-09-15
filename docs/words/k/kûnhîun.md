@@ -3,7 +3,7 @@ id: kûnhîun
 slug: kûnhîun
 title: KÛNHÎUN
 sidebar_position: 227
-tags: [kûnhîun, Noun, Austro-Asiatic]
+tags: [kûnhîun, Noun, Austro-Asiatic, Phenomenology, Phenomenology 303]
 description: step/pace § Noun
 ---
 

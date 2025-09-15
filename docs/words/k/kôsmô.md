@@ -3,7 +3,7 @@ id: kôsmô
 slug: kôsmô
 title: KÔSMÔ
 sidebar_position: 181
-tags: [kôsmô, Noun, Romance]
+tags: [kôsmô, Noun, Romance, Science, Science 202]
 description: space/cosmos § Noun
 ---
 

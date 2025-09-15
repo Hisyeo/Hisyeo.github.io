@@ -3,7 +3,7 @@ id: sûsôn
 slug: sûsôn
 title: SÛSÔN
 sidebar_position: 428
-tags: [sûsôn, Noun, Austronesian]
+tags: [sûsôn, Noun, Austronesian, Communication, Communication 303]
 description: layer § Noun
 ---
 

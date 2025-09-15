@@ -3,7 +3,7 @@ id: nungo
 slug: nungo
 title: NUNGO
 sidebar_position: 769
-tags: [nungo, Adjective, Indo-Iranian]
+tags: [nungo, Adjective, Indo-Iranian, Anatomy, Anatomy 302]
 description: naked § Adjective
 ---
 

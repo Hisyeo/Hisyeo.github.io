@@ -3,7 +3,7 @@ id: cûfo
 slug: cûfo
 title: CÛFO
 sidebar_position: 365
-tags: [cûfo, Verb, Balto-Slavic]
+tags: [cûfo, Verb, Balto-Slavic, Sociology, Sociology 303]
 description: to ward (a ward) § Verb
 ---
 

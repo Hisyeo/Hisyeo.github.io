@@ -3,7 +3,7 @@ id: golfon
 slug: golfon
 title: GOLFON
 sidebar_position: 244
-tags: [golfon, Adjective, Afro-Asiatic]
+tags: [golfon, Adjective, Afro-Asiatic, Emotion, Emotion 201]
 description: disgusted § Adjective
 ---
 

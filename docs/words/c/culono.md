@@ -3,7 +3,7 @@ id: culono
 slug: culono
 title: CULONO
 sidebar_position: 358
-tags: [culono, Verb, Indo-Iranian]
+tags: [culono, Verb, Indo-Iranian, Tools, Tools 202]
 description: to operate (a machine) § Verb
 ---
 

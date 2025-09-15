@@ -3,7 +3,7 @@ id: conwêbo
 slug: conwêbo
 title: CONWÊBO
 sidebar_position: 320
-tags: [conwêbo, Verb, Kartvelian]
+tags: [conwêbo, Verb, Kartvelian, Tools, Tools 302]
 description: to manufacture (goods) § Verb
 ---
 

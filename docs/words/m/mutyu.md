@@ -3,7 +3,7 @@ id: mutyu
 slug: mutyu
 title: MUTYU
 sidebar_position: 713
-tags: [mutyu, Noun, Indo-Iranian]
+tags: [mutyu, Noun, Indo-Iranian, Geography, Geography 201]
 description: middle § Noun
 ---
 

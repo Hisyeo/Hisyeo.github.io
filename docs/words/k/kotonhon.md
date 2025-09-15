@@ -3,7 +3,7 @@ id: kotonhon
 slug: kotonhon
 title: KOTONHON
 sidebar_position: 164
-tags: [kotonhon, Adjective, Kra-Dai]
+tags: [kotonhon, Adjective, Kra-Dai, Evaluation, Evaluation 303]
 description: sudden/urgent § Adjective
 ---
 

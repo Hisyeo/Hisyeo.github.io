@@ -3,7 +3,7 @@ id: toliyo
 slug: toliyo
 title: TOLIYO
 sidebar_position: 281
-tags: [toliyo, Noun, Afro-Asiatic]
+tags: [toliyo, Noun, Afro-Asiatic, Nutrition, Nutrition 202]
 description: pasta § Noun
 ---
 

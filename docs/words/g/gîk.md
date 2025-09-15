@@ -3,7 +3,7 @@ id: gîk
 slug: gîk
 title: GÎK
 sidebar_position: 256
-tags: [gîk, Adjective, Nilo-Saharan]
+tags: [gîk, Adjective, Nilo-Saharan, Phenomenology, Phenomenology 201]
 description: arriving § Adjective
 ---
 

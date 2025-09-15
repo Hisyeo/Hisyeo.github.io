@@ -3,7 +3,7 @@ id: sêlbô
 slug: sêlbô
 title: SÊLBÔ
 sidebar_position: 405
-tags: [sêlbô, Adjective, Sino-Tibetan]
+tags: [sêlbô, Adjective, Sino-Tibetan, Color, Color 101]
 description: yellow § Adjective
 ---
 

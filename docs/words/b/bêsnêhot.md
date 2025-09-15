@@ -3,7 +3,7 @@ id: bêsnêhot
 slug: bêsnêhot
 title: BÊSNÊHOT
 sidebar_position: 584
-tags: [bêsnêhot, Verb, Indo-Iranian]
+tags: [bêsnêhot, Verb, Indo-Iranian, Communication, Communication 301]
 description: to suggest (a suggestion) § Verb
 ---
 

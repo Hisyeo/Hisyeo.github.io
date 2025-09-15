@@ -3,7 +3,7 @@ id: mîkdol
 slug: mîkdol
 title: MÎKDOL
 sidebar_position: 706
-tags: [mîkdol, Noun, Afro-Asiatic]
+tags: [mîkdol, Noun, Afro-Asiatic, Mathematics, Mathematics 201]
 description: amount § Noun
 ---
 

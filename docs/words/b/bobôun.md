@@ -3,7 +3,7 @@ id: bobôun
 slug: bobôun
 title: BOBÔUN
 sidebar_position: 561
-tags: [bobôun, Noun, Austro-Asiatic]
+tags: [bobôun, Noun, Austro-Asiatic, Communication, Communication 203]
 description: system § Noun
 ---
 

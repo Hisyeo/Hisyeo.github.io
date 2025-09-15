@@ -3,7 +3,7 @@ id: noûku
 slug: noûku
 title: NOÛKU
 sidebar_position: 730
-tags: [noûku, Noun, Balto-Slavic]
+tags: [noûku, Noun, Balto-Slavic, Science, Science 101]
 description: science § Noun
 ---
 

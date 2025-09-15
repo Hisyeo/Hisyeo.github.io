@@ -3,7 +3,7 @@ id: mixofo
 slug: mixofo
 title: MIXOFO
 sidebar_position: 699
-tags: [mixofo, Adjective, Kartvelian]
+tags: [mixofo, Adjective, Kartvelian, Science, Science 201]
 description: acidic § Adjective
 ---
 

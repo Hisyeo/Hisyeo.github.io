@@ -3,7 +3,7 @@ id: buswen
 slug: buswen
 title: BUSWEN
 sidebar_position: 607
-tags: [buswen, Verb, Romance]
+tags: [buswen, Verb, Romance, Communication, Communication 101]
 description: to need (a requirement) § Verb
 ---
 

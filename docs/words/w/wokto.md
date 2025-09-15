@@ -3,7 +3,7 @@ id: wokto
 slug: wokto
 title: WOKTO
 sidebar_position: 777
-tags: [wokto, Noun, Quechumaran]
+tags: [wokto, Noun, Quechumaran, Geography, Geography 201]
 description: outside § Noun
 ---
 

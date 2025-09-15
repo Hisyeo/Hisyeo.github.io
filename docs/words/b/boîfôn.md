@@ -3,7 +3,7 @@ id: boîfôn
 slug: boîfôn
 title: BOÎFÔN
 sidebar_position: 553
-tags: [boîfôn, Verb, Sino-Tibetan]
+tags: [boîfôn, Verb, Sino-Tibetan, Anatomy, Anatomy 303]
 description: to emit (excreta) § Verb
 ---
 

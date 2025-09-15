@@ -3,7 +3,7 @@ id: îbûwê
 slug: îbûwê
 title: ÎBÛWÊ
 sidebar_position: 78
-tags: [îbûwê, Noun, Niger-Congo]
+tags: [îbûwê, Noun, Niger-Congo, Materials, Materials 102]
 description: stone § Noun
 ---
 

@@ -3,7 +3,7 @@ id: doînbî
 slug: doînbî
 title: DOÎNBÎ
 sidebar_position: 474
-tags: [doînbî, Noun, Hmong-Mien]
+tags: [doînbî, Noun, Hmong-Mien, Sociology, Sociology 102]
 description: ticket/pass § Noun
 ---
 

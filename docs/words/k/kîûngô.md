@@ -3,7 +3,7 @@ id: kîûngô
 slug: kîûngô
 title: KÎÛNGÔ
 sidebar_position: 200
-tags: [kîûngô, Noun, Niger-Congo]
+tags: [kîûngô, Noun, Niger-Congo, Nutrition, Nutrition 202]
 description: spice § Noun
 ---
 

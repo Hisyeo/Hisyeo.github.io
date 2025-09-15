@@ -3,7 +3,7 @@ id: fûkûxi
 slug: fûkûxi
 title: FÛKÛXI
 sidebar_position: 662
-tags: [fûkûxi, Noun, Japonic]
+tags: [fûkûxi, Noun, Japonic, Sociology, Sociology 202]
 description: revenge/vengeance § Noun
 ---
 

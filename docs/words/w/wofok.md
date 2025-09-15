@@ -3,7 +3,7 @@ id: wofok
 slug: wofok
 title: WOFOK
 sidebar_position: 780
-tags: [wofok, Verb, Afro-Asiatic]
+tags: [wofok, Verb, Afro-Asiatic, Sociology, Sociology 101]
 description: to approve [of] (the approved) § Verb
 ---
 

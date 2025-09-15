@@ -3,7 +3,7 @@ id: ondo
 slug: ondo
 title: ONDO
 sidebar_position: 28
-tags: [ondo, Verb, Niger-Congo]
+tags: [ondo, Verb, Niger-Congo, Communication, Communication 201]
 description: to prepare (a preparation) § Verb
 ---
 

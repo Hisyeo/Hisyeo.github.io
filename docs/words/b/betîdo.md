@@ -3,7 +3,7 @@ id: betîdo
 slug: betîdo
 title: BETÎDO
 sidebar_position: 577
-tags: [betîdo, Verb, Germanic]
+tags: [betîdo, Verb, Germanic, Communication, Communication 103]
 description: to mean (a meaning) § Verb
 ---
 

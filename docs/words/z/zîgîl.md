@@ -3,7 +3,7 @@ id: zîgîl
 slug: zîgîl
 title: ZÎGÎL
 sidebar_position: 536
-tags: [zîgîl, Adjective, Turkic]
+tags: [zîgîl, Adjective, Turkic, Phenomenology, Phenomenology 304]
 description: falling § Adjective
 ---
 

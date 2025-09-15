@@ -3,7 +3,7 @@ id: mûncotî
 slug: mûncotî
 title: MÛNCOTÎ
 sidebar_position: 725
-tags: [mûncotî, Verb, Indo-Iranian]
+tags: [mûncotî, Verb, Indo-Iranian, Phenomenology, Phenomenology 101]
 description: to release/drop (the released/dropped) § Verb
 ---
 

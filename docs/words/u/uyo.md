@@ -3,7 +3,7 @@ id: uyo
 slug: uyo
 title: UYO
 sidebar_position: 96
-tags: [uyo, Noun, Sino-Tibetan]
+tags: [uyo, Noun, Sino-Tibetan, Communication, Communication 101]
 description: thing § Noun
 ---
 

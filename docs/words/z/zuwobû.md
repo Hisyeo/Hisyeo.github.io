@@ -3,7 +3,7 @@ id: zuwobû
 slug: zuwobû
 title: ZUWOBÛ
 sidebar_position: 545
-tags: [zuwobû, Verb, Niger-Congo]
+tags: [zuwobû, Verb, Niger-Congo, Communication, Communication 102]
 description: to answer [with] (a response) § Verb
 ---
 

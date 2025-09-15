@@ -3,7 +3,7 @@ id: ûmomî
 slug: ûmomî
 title: ÛMOMÎ
 sidebar_position: 104
-tags: [ûmomî, Adjective, Japonic]
+tags: [ûmomî, Adjective, Japonic, Nutrition, Nutrition 201]
 description: savory § Adjective
 ---
 

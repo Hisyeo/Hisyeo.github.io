@@ -3,7 +3,7 @@ id: xîmu
 slug: xîmu
 title: XÎMU
 sidebar_position: 462
-tags: [xîmu, Noun, Chibchan]
+tags: [xîmu, Noun, Chibchan, Nutrition, Nutrition 101]
 description: water § Noun
 ---
 

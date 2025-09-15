@@ -3,7 +3,7 @@ id: xokôn
 slug: xokôn
 title: XOKÔN
 sidebar_position: 434
-tags: [xokôn, Determiner, Romance]
+tags: [xokôn, Determiner, Romance, Mathematics, Mathematics 303]
 description: each § Determiner
 ---
 

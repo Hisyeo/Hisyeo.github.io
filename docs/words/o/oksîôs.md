@@ -3,7 +3,7 @@ id: oksîôs
 slug: oksîôs
 title: OKSÎÔS
 sidebar_position: 5
-tags: [oksîôs, Adjective, Hellenic]
+tags: [oksîôs, Adjective, Hellenic, Evaluation, Evaluation 301]
 description: worthy § Adjective
 ---
 

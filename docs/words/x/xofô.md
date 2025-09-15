@@ -3,7 +3,7 @@ id: xofô
 slug: xofô
 title: XOFÔ
 sidebar_position: 438
-tags: [xofô, Noun, Oto-Manguean]
+tags: [xofô, Noun, Oto-Manguean, Anatomy, Anatomy 101]
 description: guts § Noun
 ---
 

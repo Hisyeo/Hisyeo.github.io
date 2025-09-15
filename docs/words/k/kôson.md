@@ -3,7 +3,7 @@ id: kôson
 slug: kôson
 title: KÔSON
 sidebar_position: 180
-tags: [kôson, Verb, Kra-Dai]
+tags: [kôson, Verb, Kra-Dai, Architecture, Architecture 201]
 description: to build (a construction) § Verb
 ---
 

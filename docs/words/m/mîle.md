@@ -3,7 +3,7 @@ id: mîle
 slug: mîle
 title: MÎLE
 sidebar_position: 711
-tags: [mîle, Adjective, Koreic]
+tags: [mîle, Adjective, Koreic, Mathematics, Mathematics 302]
 description: future § Adjective
 ---
 

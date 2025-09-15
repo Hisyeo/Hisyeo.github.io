@@ -3,7 +3,7 @@ id: hokôlî
 slug: hokôlî
 title: HOKÔLÎ
 sidebar_position: 117
-tags: [hokôlî, Noun, Afro-Asiatic]
+tags: [hokôlî, Noun, Afro-Asiatic, Anatomy, Anatomy 204]
 description: tooth § Noun
 ---
 

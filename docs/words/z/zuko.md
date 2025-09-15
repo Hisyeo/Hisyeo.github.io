@@ -3,7 +3,7 @@ id: zuko
 slug: zuko
 title: ZUKO
 sidebar_position: 543
-tags: [zuko, Noun, Afro-Asiatic]
+tags: [zuko, Noun, Afro-Asiatic, Tools, Tools 102]
 description: bag § Noun
 ---
 

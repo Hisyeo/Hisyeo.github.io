@@ -3,7 +3,7 @@ id: fonfûk
 slug: fonfûk
 title: FONFÛK
 sidebar_position: 631
-tags: [fonfûk, Adjective, Sino-Tibetan]
+tags: [fonfûk, Adjective, Sino-Tibetan, Evaluation, Evaluation 202]
 description: complex/complicated § Adjective
 ---
 

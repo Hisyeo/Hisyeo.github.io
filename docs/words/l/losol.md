@@ -3,7 +3,7 @@ id: losol
 slug: losol
 title: LOSOL
 sidebar_position: 810
-tags: [losol, Adjective, Nilo-Saharan]
+tags: [losol, Adjective, Nilo-Saharan, Evaluation, Evaluation 301]
 description: original § Adjective
 ---
 

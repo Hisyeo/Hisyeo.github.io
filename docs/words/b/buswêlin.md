@@ -3,7 +3,7 @@ id: buswêlin
 slug: buswêlin
 title: BUSWÊLIN
 sidebar_position: 608
-tags: [buswêlin, Noun, Germanic]
+tags: [buswêlin, Noun, Germanic, Sociology, Sociology 301]
 description: oath/incantation § Noun
 ---
 

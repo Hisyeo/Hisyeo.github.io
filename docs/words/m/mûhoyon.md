@@ -3,7 +3,7 @@ id: mûhoyon
 slug: mûhoyon
 title: MÛHOYON
 sidebar_position: 718
-tags: [mûhoyon, Noun, Afro-Asiatic]
+tags: [mûhoyon, Noun, Afro-Asiatic, Architecture, Architecture 201]
 description: camp § Noun
 ---
 

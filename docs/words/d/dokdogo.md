@@ -3,7 +3,7 @@ id: dokdogo
 slug: dokdogo
 title: DOKDOGO
 sidebar_position: 477
-tags: [dokdogo, Verb, Afro-Asiatic]
+tags: [dokdogo, Verb, Afro-Asiatic, Phenomenology, Phenomenology 301]
 description: to tickle (the tickled) § Verb
 ---
 

@@ -3,7 +3,7 @@ id: hôktun
 slug: hôktun
 title: HÔKTUN
 sidebar_position: 128
-tags: [hôktun, Noun, Mongolic]
+tags: [hôktun, Noun, Mongolic, Biology, Biology 102]
 description: mammal § Noun
 ---
 

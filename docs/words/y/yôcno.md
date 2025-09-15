@@ -3,7 +3,7 @@ id: yôcno
 slug: yôcno
 title: YÔCNO
 sidebar_position: 864
-tags: [yôcno, Noun, Indo-Iranian]
+tags: [yôcno, Noun, Indo-Iranian, Communication, Communication 202]
 description: program/plan § Noun
 ---
 

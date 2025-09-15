@@ -3,7 +3,7 @@ id: dûngo
 slug: dûngo
 title: DÛNGO
 sidebar_position: 511
-tags: [dûngo, Verb, Niger-Congo]
+tags: [dûngo, Verb, Niger-Congo, Phenomenology, Phenomenology 301]
 description: to pierce (the pierced) § Verb
 ---
 

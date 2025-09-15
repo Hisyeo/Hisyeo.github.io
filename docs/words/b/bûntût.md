@@ -3,7 +3,7 @@ id: bûntût
 slug: bûntût
 title: BÛNTÛT
 sidebar_position: 620
-tags: [bûntût, Noun, Austronesian]
+tags: [bûntût, Noun, Austronesian, Anatomy, Anatomy 301]
 description: tail § Noun
 ---
 

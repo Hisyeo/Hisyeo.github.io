@@ -3,7 +3,7 @@ id: zonwul
 slug: zonwul
 title: ZONWUL
 sidebar_position: 520
-tags: [zonwul, Noun, Indo-Iranian]
+tags: [zonwul, Noun, Indo-Iranian, Biology, Biology 102]
 description: animal § Noun
 ---
 

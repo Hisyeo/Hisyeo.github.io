@@ -3,7 +3,7 @@ id: zoston
 slug: zoston
 title: ZOSTON
 sidebar_position: 515
-tags: [zoston, Noun, Indo-Iranian]
+tags: [zoston, Noun, Indo-Iranian, Phenomenology, Phenomenology 201]
 description: jump § Noun
 ---
 

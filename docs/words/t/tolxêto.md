@@ -3,7 +3,7 @@ id: tolxêto
 slug: tolxêto
 title: TOLXÊTO
 sidebar_position: 283
-tags: [tolxêto, Noun, Romance]
+tags: [tolxêto, Noun, Romance, Tools, Tools 102]
 description: card § Noun
 ---
 

@@ -3,7 +3,7 @@ id: niwos
 slug: niwos
 title: NIWOS
 sidebar_position: 758
-tags: [niwos, Verb, Indo-Iranian]
+tags: [niwos, Verb, Indo-Iranian, Geography, Geography 101]
 description: to reside in (a residence) § Verb
 ---
 
