@@ -9,7 +9,7 @@ const latinConsonants  = ["'", "ꞌ", 'h', 'k', 'g', 't', 'c', 's', 'x', 'd', 'z
 
 const index = (loc, val) => loc.indexOf(val.toLowerCase());
 
-const transcribeInner = text => text.replace(
+const transcribe = text => text.replace(
     /([ꞌhkgtcsxdzbfmnlwy])?([oôuûiîeê])((?:[kntscl])(?![oôuûiîeê]))?|([ꞌhkgtcsxdzbfmnlwy])(?![oôuûiîeê])/gi, // RegEx: cons?+vowel+n? | const
     (p0, p1, p2, p3, p4) => {
         // console.log(p0);
@@ -25,10 +25,10 @@ const transcribeInner = text => text.replace(
  * @param {string} text 
  * @returns {[string, boolean]}
  */
-export const transcribe = text => {
+export default text => {
     if (text.match(/\b[OÔEÊIÎUÛHKGTCSXDZBFMNLWY][OÔEÊIÎUÛHKGTCSXDZBFMNLWYoôeêiîuûhkgtcsxdzbfmnlwy]*(?: [OÔEÊIÎUÛHKGTCSXDZBFMNLWY][OÔEÊIÎUÛHKGTCSXDZBFMNLWYoôeêiîuûhkgtcsxdzbfmnlwy]*)*/)) {
-        return [`‹${transcribeInner(text)}›`, true]
+        return [`‹${transcribe(text)}›`, true]
     } else {
-        return [transcribeInner(text),        false]
+        return [transcribe(text),        false]
     }
 }

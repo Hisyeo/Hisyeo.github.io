@@ -76,6 +76,7 @@ await Promise.all(records.map(async (data, idx) => {
             index: idx,
             abugida: data["ɂ́ɟɀʇɽʃ"],
             latin: data["Hîsyêô"],
+            syllabary: data["Syllabary"],
             meaning: data["Meaning"],
             verb: data["Verb"],
             noun: data["Noun"],

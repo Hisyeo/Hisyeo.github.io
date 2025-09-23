@@ -56,6 +56,8 @@ export default function HisyeoWord({is}) {
   if (words[is] != undefined) { 
     if (queryString == "obûgîdo") { return (
       <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='abugida'>{words[is]['abugida']}</a>
+    ) } else if (queryString == 'ostok-ûlonfû') { return (
+      <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='syllabary'>{words[is]['syllabary']}</a>
     ) } else { return (
       <a data-tooltip-id='hisyeo' data-tooltip-content={is} data-tooltip-kind='latin'>{words[is]['latin']}</a>
     ) }

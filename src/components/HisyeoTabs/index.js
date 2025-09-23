@@ -33,16 +33,23 @@ import HisyeoText from '../HisyeoText'
 export default function HisyeoTabs(props) {
   return (
     <Tabs groupId="bobôun-kon-cukto" queryString>
-        <TabItem value="latin" label="Latin" default>
+        <TabItem value="latin" label="Latin" default attributes={{className: "hisyeo-tab-item-latin"}}>
         { Children.map(props.children, (child, index) => (
           <HisyeoText key={`latin-${index}`} kind='latin'>
             {child.props.children}
           </HisyeoText>
         )) }
         </TabItem>
-        <TabItem value="obûgîdo" label="ɽʋʄꜿɟʌ">
+        <TabItem value="obûgîdo" label="ɽʋʄꜿɟʌ" attributes={{className: "hisyeo-tab-item-abugida"}}>
         { Children.map(props.children, (child, index) => (
           <HisyeoText key={`abugida-${index}`} kind='abugida'>
+            {child.props.children}
+          </HisyeoText>
+        )) }
+        </TabItem>
+        <TabItem value="ostok-ûlonfû" label="aStK ulNfu" attributes={{className: "hisyeo-tab-item-syllabary"}}>
+        { Children.map(props.children, (child, index) => (
+          <HisyeoText key={`syllabary-${index}`} kind='syllabary'>
             {child.props.children}
           </HisyeoText>
         )) }

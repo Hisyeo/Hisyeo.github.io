@@ -64,18 +64,48 @@ https://colordesigner.io/gradient-generator
 }
 
 @font-face {
+  font-family: "Hisyakui Sans";
+  src: url("/static/HisyakuiSans.woff2") format('woff2');
+  /* font-weight: 200 900; */
+  /* font-stretch: 75% 125%; */
+}
+
+.hisyeo-tab-item-syllabary {
+  font-family: "Hisyakui Sans", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: larger;
+  
+}
+
+a[data-tooltip-kind="syllabary"],
+strong[kind="syllabary"],
+span[kind="syllabary"],
+u[kind="syllabary"] {
+  font-family: "Hisyakui Sans", Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+
+@font-face {
   font-family: "Hisyoto Sans";
-  src: url("/static/HisyotoSans-Regular.woff2") format("woff2 supports variations"),
-    url("/static/HisyotoSans-Regular.woff2") format("woff2-variations");
+  src: url("/static/HisyotoSans-Regular.woff2") format("woff2");
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
 
 a[data-tooltip-kind="abugida"],
-li.tabs__item,
+.hisyeo-tab-item-abugida,
 strong[kind="abugida"],
 span[kind="abugida"],
 u[kind="abugida"] {
+  font-family: "Hisyoto Sans", Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+
+a[data-tooltip-kind="latin"],
+.hisyeo-tab-item-latin,
+strong[kind="latin"],
+span[kind="latin"],
+u[kind="latin"] {
   font-family: "Hisyoto Sans", Arial, Helvetica, sans-serif;
   font-size: larger;
 }
