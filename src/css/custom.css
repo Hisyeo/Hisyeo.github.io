@@ -70,8 +70,15 @@ https://colordesigner.io/gradient-generator
   /* font-stretch: 75% 125%; */
 }
 
+@font-face {
+  font-family: "Hisyoto Sans";
+  src: url("/static/HisyotoSans-Regular.woff2") format("woff2");
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
 .hisyeo-tab-item-syllabary {
-  font-family: "Hisyakui Sans", Arial, Helvetica, sans-serif;
+  font-family: "Hisyakui Sans", 'Hisyoto Sans', Helvetica, sans-serif;
   font-weight: normal;
   font-size: larger;
   
@@ -81,15 +88,8 @@ a[data-tooltip-kind="syllabary"],
 strong[kind="syllabary"],
 span[kind="syllabary"],
 u[kind="syllabary"] {
-  font-family: "Hisyakui Sans", Arial, Helvetica, sans-serif;
+  font-family: "Hisyakui Sans", 'Hisyoto Sans', Helvetica, sans-serif;
   font-size: x-large;
-}
-
-@font-face {
-  font-family: "Hisyoto Sans";
-  src: url("/static/HisyotoSans-Regular.woff2") format("woff2");
-  font-weight: 200 900;
-  font-stretch: 75% 125%;
 }
 
 a[data-tooltip-kind="abugida"],

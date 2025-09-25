@@ -111,21 +111,21 @@ import MastodonPostSvg from '../../static/img/mastodon.svg'
             data-embed-url="https://mastodon.social/@hisyeo/114215391370015766/embed"
             style={{
                 background: "#FCF8FF",
-                "border-radius": "8px", border: "1px solid #C9C4DA", margin: 0,
-                "max-width": "540px", "min-width": "270px", overflow: "hidden", padding: 0}}>
+                borderRadius: "8px", border: "1px solid #C9C4DA", margin: 0,
+                maxWidth: "540px", minWidth: "270px", overflow: "hidden", padding: 0}}>
     <a href="https://mastodon.social/@hisyeo/114215391370015766"
        target="_blank"
        style={{
-            "align-items": "center",
+            alignItems: "center",
             color: "#1C1A25",
             display: "flex",
-            "flex-direction": "column",
-            "font-family": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif",
-            "font-size": "14px",
-            "justify-content": "center", "letter-spacing": "0.25px", "line-height": "20px", "padding": "24px", "text-decoration": "none"}}>
+            flexDirection: "column",
+            fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif",
+            fontSize: "14px",
+            justifyContent: "center", "letter-spacing": "0.25px", "line-height": "20px", "padding": "24px", "text-decoration": "none"}}>
         <MastodonPostSvg />
-        <div style={{color: "#787588", "margin-top": "16px"}}>Post by @hisyeo@mastodon.social</div>
-        <div style={{"font-weight": 500}}>View on Mastodon</div>
+        <div style={{color: "#787588", marginTop: "16px"}}>Post by @hisyeo@mastodon.social</div>
+        <div style={{fontWeight: 500}}>View on Mastodon</div>
     </a>
 </blockquote>
 <script data-allowed-prefixes="https://mastodon.social/" async src="https://mastodon.social/embed.js"></script>

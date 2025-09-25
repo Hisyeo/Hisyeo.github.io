@@ -42,7 +42,6 @@ export default function HisyeoText({ kind, children: ch }) {
             <span key={`{punc-${i}}`} kind={kind}>{word[kind]}</span>
           )
         } else {
-          // console.log(`Word not found: ${match}`);
           if (kind == 'abugida') {
             const [result, isProper] = abugida(match);
             if (isProper) {
