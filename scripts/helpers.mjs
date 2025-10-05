@@ -26,3 +26,22 @@ const letterMap = {
 }
 
 export const capitalize = word => word.split('').map(l => letterMap[l]).join('')
+
+const neuVowelsFull = {
+    o: 'o', ô: 'o',
+    e: 'e', ê: 'e',
+    i: 'i', î: 'i',
+    u: 'u', û: 'u',
+}
+
+const neuVowelsLimited = {
+    o: 'a', ô: 'o',
+    e: 'e', ê: 'e',
+    i: 'i', î: 'i',
+    u: 'a', û: 'u',
+}
+
+export const neutralize = (word, full) => (full ?
+      word.split('').map((c) => neuVowelsFull[c] ?? c)
+    : word.split('').map((c) => neuVowelsLimited[c] ?? c)
+).join('')

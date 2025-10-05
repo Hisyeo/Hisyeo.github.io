@@ -1,13 +1,7 @@
 import csv from 'neat-csv'
+import { neutralize } from './helpers.mjs'
 
 const file = await fs.readFile('./static/words.csv', 'utf8')
-
-const neuVowels = {
-    o: 'a', ô: 'o',
-    e: 'e', ê: 'e',
-    i: 'i', î: 'i',
-    u: 'a', û: 'u',
-}
 
 const minPairs = {
     b:   ['f', 't', 'd'],
@@ -47,14 +41,14 @@ const records = await csv(file, {
 console.log('Grabbing words from records...')
 
 const words = []
-const neutrals = []
+const neutrals = {}
 const monophthongs = {}
 const apocopes = []
 const collisions = []
 
 for (const record of records) {
     words.push(record["Hîsyêô"])
-    neutrals.push(neutralize(record["Hîsyêô"]))
+    neutrals[neutralize(record["Hîsyêô"])] = record["Hîsyêô"]
     const smoothed = monophthongize(record["Hîsyêô"])
     if (smoothed != undefined)
         monophthongs[smoothed] = [...monophthongs[smoothed] ?? [], record["Hîsyêô"]];
@@ -103,15 +97,14 @@ for (let word of words) {
             collSyl[i] = makeSyllable(collider, nucleus, coda)
             let wordOnsetChanged = collSyl.join('')
             let foundApocope = apocopes.indexOf(wordOnsetChanged)
-            let foundNeutral = neutrals.indexOf(neutralize(wordOnsetChanged))
             if (words.includes(wordOnsetChanged)) {
                 collisionFound('Forbidden Pair', word, wordOnsetChanged, hl(collSyl, i), hl(collSyl, i))
             } else if (monophthongs[wordOnsetChanged]?.length > 0) {
                 collisionFound('Smoothed Forbidden Pair', word, monophthongs[wordOnsetChanged][0], hl(collSyl, i), hl(collSyl, i))
             } else if (foundApocope != -1) {
                 collisionFound('Apocopic Forbidden Pair', word, apocopes[foundApocope], hl(collSyl, i), hl(collSyl, i) + 1)
-            } else if (foundNeutral != -1) {
-                collisionFound('Neutralized Forbidden Pair', word, neutrals[foundNeutral], hl(collSyl, i), hl(collSyl, i))
+            } else if (neutralize(wordOnsetChanged) in neutrals) {
+                collisionFound('Neutralized Forbidden Pair', word, neutrals[neutralize(wordOnsetChanged)], hl(collSyl, i), hl(collSyl, i))
             }
         }
         for (let collider of minPairs[nucleus]) {
@@ -188,9 +181,7 @@ function hl(syl, i) {
     return priorLength(syl.slice(0, i))
 }
 
-function neutralize(word) {
-    return word.split('').map((c) => neuVowels[c] ?? c).join('')
-}
+
 
 function monophthongize(word) {
     const smoothL = (ls, i) => {

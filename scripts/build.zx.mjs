@@ -1,6 +1,10 @@
 import csv from 'neat-csv';
 
-import {capitalize} from './helpers.mjs';
+import {capitalize, neutralize} from './helpers.mjs';
+
+import { quotePowerShell } from 'zx'
+
+$.quote = quotePowerShell
 
 let tags = "";
 const words = {}
@@ -35,6 +39,76 @@ description: ${w['Meaning']} § ${w['Type']}
 const tagTmpl = (w) => `${w['Hîsyêô']}:
     label: ${w['Hîsyêô']}
     description: ${w['Meaning']}
+`
+
+const titleCase = w => `${capitalize(w[0])}${w.slice(1)}`
+
+const lexerTmpl = (words) => `// This file is generated via the Hîsyêô words.csv
+lexer grammar HisyeoWordLexer;
+
+${
+    words.map(w =>
+        `${titleCase(neutralize(w.latin, true))}:\t'${w.latin}';`
+    ).join("\n")
+}`
+
+const spacer = "\n    | "
+
+const parserTmpl = (words) => `// This file is generated via the Hîsyêô words.csv
+parser grammar HisyeoWordParser;
+
+options {
+    tokenVocab=HisyeoLexer;
+}
+
+postposition
+    : ${
+        words.filter(w => w.type == 'Postposition').map(w =>
+            titleCase(neutralize(w.latin, true))
+        ).join(spacer)
+    }
+    ;
+
+pronoun
+    : ${
+        words.filter(w => w.type == 'Pronoun').map(w =>
+            titleCase(neutralize(w.latin, true))
+        ).join(spacer)
+    }
+    ;
+
+rawVerbs
+    : ${
+        words.filter(w => w.type == 'Verb').map(w =>
+            titleCase(neutralize(w.latin, true))
+        ).join(spacer)
+    }
+    ;
+
+rawNouns
+    : ${
+        words.filter(w => w.type == 'Noun').map(w =>
+            titleCase(neutralize(w.latin, true))
+        ).join(spacer)
+    }
+    ;
+
+rawModifiers
+    : ${
+        words.filter(w => w.type == 'Adjective').map(w =>
+            titleCase(neutralize(w.latin, true))
+        ).join(spacer)
+    }
+    ;
+
+connector
+    : ${
+        words.filter(w => w.type == 'Conjunction').map(w =>
+            titleCase(neutralize(w.latin, true))
+        ).join(spacer)
+    }
+    ;
+
 `
 
 console.log('Clearing existing files...')
@@ -116,6 +190,14 @@ try {
 console.log(`Outputting static json file...`)
 try {
     await fs.outputFile(`./static/words.json`, JSON.stringify(words, null, " "))
+} catch (err) {
+    console.error(err)
+}
+
+console.log(`Outputting grammar files...`)
+try {
+    await fs.outputFile(`./static/grammar/HisyeoWordLexer.g4`, lexerTmpl(Object.values(words)))
+    await fs.outputFile(`./static/grammar/HisyeoWordParser.g4`, parserTmpl(Object.values(words)))
 } catch (err) {
     console.error(err)
 }
