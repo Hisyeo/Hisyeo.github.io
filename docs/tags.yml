@@ -1,27 +1,30 @@
-okôt:
-    label: okôt
-    description: to bear (a burden)
-oûdî:
-    label: oûdî
-    description: seed
 oûtô:
     label: oûtô
     description: to drive (a vehicle)
-oksîôs:
-    label: oksîôs
-    description: worthy
+oûdî:
+    label: oûdî
+    description: seed
 okûlo:
     label: okûlo
     description: to touch (a surface)
 okoxu:
     label: okoxu
     description: sky
-oksûn:
-    label: oksûn
-    description: meat/muscle
+okôt:
+    label: okôt
+    description: to bear (a burden)
 oklumun:
     label: oklumun
     description: attack
+oksîôs:
+    label: oksîôs
+    description: worthy
+oksûn:
+    label: oksûn
+    description: meat/muscle
+otôs:
+    label: otôs
+    description: hard
 ogolol:
     label: ogolol
     description: to grab/hold (a hold/load)
@@ -31,294 +34,285 @@ ogogê:
 ocûo:
     label: ocûo
     description: skin
-otôs:
-    label: otôs
-    description: hard
-osyen:
-    label: osyen
-    description: ancient
 ostok:
     label: ostok
     description: sign/signal
 odigon:
     label: odigon
     description: excess
+osyen:
+    label: osyen
+    description: ancient
 obô:
     label: obô
     description: arm
+ozûul:
+    label: ozûul
+    description: any/whichever
 obunyun:
     label: obunyun
     description: easy
 obûlû:
     label: obûlû
     description: to overwhelm (the overwhelmed)
-ozûul:
-    label: ozûul
-    description: any/whichever
-obokî:
-    label: obokî
-    description: glass
 ofek:
     label: ofek
     description: comitative marker (alongside/with)
 ofînê:
     label: ofînê
     description: cultured/refined
+onkonu:
+    label: onkonu
+    description: to estimate/guess (an estimation/guess)
+obokî:
+    label: obokî
+    description: glass
 omûlto:
     label: omûlto
     description: abstract
 onkûol:
     label: onkûol
     description: to hug (the hugged)
-onkonu:
-    label: onkonu
-    description: to estimate/guess (an estimation/guess)
-oncêmon:
-    label: oncêmon
-    description: to feel/sense (a phenomenon)
 ongôlô:
     label: ongôlô
     description: corner
 onô:
     label: onô
     description: distal demonstrative (yon/yonder)
-ondo:
-    label: ondo
-    description: to prepare (a preparation)
+oncêmon:
+    label: oncêmon
+    description: to feel/sense (a phenomenon)
 onfîbî:
     label: onfîbî
     description: amphibian
 onwonî:
     label: onwonî
     description: address
+ondo:
+    label: ondo
+    description: to prepare (a preparation)
 oldis:
     label: oldis
     description: evidential marker (or so)
-ôîtun:
-    label: ôîtun
-    description: to vocalize (a vocalization)
-oltû:
-    label: oltû
-    description: loud
-ôtsôtot:
-    label: ôtsôtot
-    description: deity
 ôhêl:
     label: ôhêl
     description: past
+ôîtun:
+    label: ôîtun
+    description: to vocalize (a vocalization)
+ôtsôtot:
+    label: ôtsôtot
+    description: deity
 ôstî:
     label: ôstî
     description: bone
 ôsôlê:
     label: ôsôlê
     description: afraid
-ôdon:
-    label: ôdon
-    description: orderly
-ôbok:
-    label: ôbok
-    description: opaque
+oltû:
+    label: oltû
+    description: loud
 ôzîl:
     label: ôzîl
     description: nut
-ôntôn:
-    label: ôntôn
-    description: to wear (clothing)
+ôdon:
+    label: ôdon
+    description: orderly
 ôfo:
     label: ôfo
     description: proximal demonstrative (this/here)
+ôbok:
+    label: ôbok
+    description: opaque
 ônî:
     label: ônî
     description: agentive verb noun particle
+ôlê:
+    label: ôlê
+    description: causal-agentive marker
+ôntôn:
+    label: ôntôn
+    description: to wear (clothing)
 ônsu:
     label: ônsu
     description: 11 eleven
 eson:
     label: eson
     description: 09 nine
-en:
-    label: en
-    description: than
 et:
     label: et
     description: collapser/amender particle
 eswen:
     label: eswen
     description: more
-ôlê:
-    label: ôlê
-    description: causal-agentive marker
-êo:
-    label: êo
-    description: causative verb particle
-elentêt:
-    label: elentêt
-    description: opposite
+en:
+    label: en
+    description: than
 elfû:
     label: elfû
     description: 1000 thousand
-elekê:
-    label: elekê
-    description: cheek
 eloi:
     label: eloi
     description: boundary/border
+elentêt:
+    label: elentêt
+    description: opposite
+êo:
+    label: êo
+    description: causative verb particle
+elekê:
+    label: elekê
+    description: cheek
 êbôl:
     label: êbôl
     description: shoulder
-êfun:
-    label: êfun
-    description: momentary (minute)
 êtsô:
     label: êtsô
     description: state/quality/attribute
-êto:
-    label: êto
-    description: many
 ênkômôn:
     label: ênkômôn
     description: face
-istihol:
-    label: istihol
-    description: honor/glory
-itihos:
-    label: itihos
-    description: history
-ênbukun:
-    label: ênbukun
-    description: belch/burp
 êmê:
     label: êmê
     description: vague/imprecise
+itihos:
+    label: itihos
+    description: history
 êlêo:
     label: êlêo
     description: floating
 isbulyol:
     label: isbulyol
     description: to scatter (scatterable entity)
-infultîn:
-    label: infultîn
-    description: rotating/spinning
-îcîwû:
-    label: îcîwû
-    description: hiccup/spasm
-îcwon:
-    label: îcwon
-    description: to inherit (inheritance)
+êto:
+    label: êto
+    description: many
+istihol:
+    label: istihol
+    description: honor/glory
 iwotê:
     label: iwotê
     description: tall
 ilik:
     label: ilik
     description: predecessive marker (before)
-îsîbô:
-    label: îsîbô
-    description: claw
+îcîwû:
+    label: îcîwû
+    description: hiccup/spasm
+îcwon:
+    label: îcwon
+    description: to inherit (inheritance)
+êfun:
+    label: êfun
+    description: momentary (minute)
 îsênsô:
     label: îsênsô
     description: verb
-îskô:
-    label: îskô
-    description: to drink (a drink)
+îsîbô:
+    label: îsîbô
+    description: claw
+ênbukun:
+    label: ênbukun
+    description: belch/burp
 îsbônxu:
     label: îsbônxu
     description: sponge
+infultîn:
+    label: infultîn
+    description: rotating/spinning
 îxôlô:
     label: îxôlô
     description: problem
-îbolê:
-    label: îbolê
-    description: enemy/foe
-îbûdû:
-    label: îbûdû
-    description: now
-îmon:
-    label: îmon
-    description: to trust (a belief)
 îbûwê:
     label: îbûwê
     description: stone
-îlê:
-    label: îlê
-    description: building
-înbolî:
-    label: înbolî
-    description: flower
+îskô:
+    label: îskô
+    description: to drink (a drink)
+îbûdû:
+    label: îbûdû
+    description: now
+îbolê:
+    label: îbolê
+    description: enemy/foe
+îmon:
+    label: îmon
+    description: to trust (a belief)
 în:
     label: în
     description: verb modifier particle
+înbolî:
+    label: înbolî
+    description: flower
 îlxîzuk:
     label: îlxîzuk
     description: temporary
-usûndul:
-    label: usûndul
-    description: ugly
 uklo:
     label: uklo
     description: next
-uskîfo:
-    label: uskîfo
-    description: to avoid/dodge (evasion/dodge)
-ubênus:
-    label: ubênus
-    description: barely
-umo:
-    label: umo
-    description: person
-ufûlît:
-    label: ufûlît
-    description: bored
+îlê:
+    label: îlê
+    description: building
 ubôlni:
     label: ubôlni
     description: resistant
+ubênus:
+    label: ubênus
+    description: barely
+usûndul:
+    label: usûndul
+    description: ugly
+ufûlît:
+    label: ufûlît
+    description: bored
+uskîfo:
+    label: uskîfo
+    description: to avoid/dodge (evasion/dodge)
+umo:
+    label: umo
+    description: person
 unon:
     label: unon
     description: to smell (a scent)
 undofôl:
     label: undofôl
     description: legume
-unbû:
-    label: unbû
-    description: arrow
 unbol:
     label: unbol
     description: amber (color)
-ulyô:
-    label: ulyô
-    description: medial demonstrative (that/there)
+unbû:
+    label: unbû
+    description: arrow
 uyo:
     label: uyo
     description: thing
+ulyô:
+    label: ulyô
+    description: medial demonstrative (that/there)
 ûcûmî:
     label: ûcûmî
     description: economy
-û:
-    label: û
-    description: agentive marker
-ûtok:
-    label: ûtok
-    description: also
-ûsmon:
-    label: ûsmon
-    description: gas
-ûsên:
-    label: ûsên
-    description: year
 ûsowo:
     label: ûsowo
     description: balanced
+ûsên:
+    label: ûsên
+    description: year
 ûslêk:
     label: ûslêk
     description: to blow (a blown entity)
-ûn:
-    label: ûn
-    description: and
-ûmomî:
-    label: ûmomî
-    description: savory
+ûsmon:
+    label: ûsmon
+    description: gas
 ûnîdû:
     label: ûnîdû
     description: joined
+ûmomî:
+    label: ûmomî
+    description: savory
+ûn:
+    label: ûn
+    description: and
 ûnhilun:
     label: ûnhilun
     description: to surround/envelope (a surrounding/enclosure) 
@@ -328,273 +322,279 @@ uyo:
 ûnfûnô:
     label: ûnfûnô
     description: vegetable
-ûlôgun:
-    label: ûlôgun
-    description: metal
 ûlonfû:
     label: ûlonfû
     description: syllable
-ûlgûkîn:
-    label: ûlgûkîn
-    description: dry
+ûlôgun:
+    label: ûlôgun
+    description: metal
 ûlkêfî:
     label: ûlkêfî
     description: adamant/stubborn
 ûlzo:
     label: ûlzo
     description: energy/power
+ûlgûkîn:
+    label: ûlgûkîn
+    description: dry
+ûtok:
+    label: ûtok
+    description: also
+û:
+    label: û
+    description: agentive marker
 hoôs:
     label: hoôs
     description: chaotic
-hoî:
-    label: hoî
-    description: locative marker (at)
 hokîkî:
     label: hokîkî
     description: authentic
 hokûxi:
     label: hokûxi
     description: clapping/applauding
-hokôlî:
-    label: hokôlî
-    description: tooth
 hosoûn:
     label: hosoûn
     description: ratio/proportion
-hobîyô:
-    label: hobîyô
-    description: to announce (an announcement)
-hosîn:
-    label: hosîn
-    description: beautiful
 hoxobê:
     label: hoxobê
     description: beam/joist/stud
-hofo:
-    label: hofo
-    description: to plead (a plea)
+hosîn:
+    label: hosîn
+    description: beautiful
+hokôlî:
+    label: hokôlî
+    description: tooth
+hobîyô:
+    label: hobîyô
+    description: to announce (an announcement)
+hoî:
+    label: hoî
+    description: locative marker (at)
 hondôt:
     label: hondôt
     description: jealous
+hofo:
+    label: hofo
+    description: to plead (a plea)
 hondon:
     label: hondon
     description: family
 homûs:
     label: homûs
     description: quiet
-hôdôkû:
-    label: hôdôkû
-    description: to untie (the untied)
-hôktun:
-    label: hôktun
-    description: mammal
 hôfezî:
     label: hôfezî
     description: bovine
-hôncôû:
-    label: hôncôû
-    description: herb
+hôktun:
+    label: hôktun
+    description: mammal
 hôn:
     label: hôn
     description: context marker (as for/given)
-hônyo:
-    label: hônyo
-    description: wilderness
 hôlûk:
     label: hôlûk
     description: to pump (a pumpable entity)
+hônyo:
+    label: hônyo
+    description: wilderness
+hôdôkû:
+    label: hôdôkû
+    description: to untie (the untied)
 hôlmo:
     label: hôlmo
     description: dream
+hôncôû:
+    label: hôncôû
+    description: herb
 henondê:
     label: henondê
     description: hanging
-helgo:
-    label: helgo
-    description: to venerate (the venerated)
 hêfîn:
     label: hêfîn
     description: to understand (a concept)
-hêlxun:
-    label: hêlxun
-    description: early
-hitsu:
-    label: hitsu
-    description: crack/fissure
-hîskûnco:
-    label: hîskûnco
-    description: language
-hênêlô:
-    label: hênêlô
-    description: gender
-hîtnôdêt:
-    label: hîtnôdêt
-    description: oscillating
 hiklihos:
     label: hiklihos
     description: supernatural/miraculous
+helgo:
+    label: helgo
+    description: to venerate (the venerated)
+hêlxun:
+    label: hêlxun
+    description: early
+hîtnôdêt:
+    label: hîtnôdêt
+    description: oscillating
+hênêlô:
+    label: hênêlô
+    description: gender
+hîskûnco:
+    label: hîskûnco
+    description: language
+hitsu:
+    label: hitsu
+    description: crack/fissure
 hîzon:
     label: hîzon
     description: excited
-hîsmo:
-    label: hîsmo
-    description: cousin
 hîyôlî:
     label: hîyôlî
     description: weak
-hunzîdû:
-    label: hunzîdû
-    description: creak/squeak
-hûkê:
-    label: hûkê
-    description: to mine (ore)
+hîsmo:
+    label: hîsmo
+    description: cousin
 hulûkô:
     label: hulûkô
     description: lightweight
 hûunhu:
     label: hûunhu
     description: mixed
-hûsku:
-    label: hûsku
-    description: to remember (a memory)
-hûstun:
-    label: hûstun
-    description: cough
+hunzîdû:
+    label: hunzîdû
+    description: creak/squeak
 hûkun:
     label: hûkun
     description: to order (a command)
+hûkê:
+    label: hûkê
+    description: to mine (ore)
 hûdul:
     label: hûdul
     description: false
+hûstun:
+    label: hûstun
+    description: cough
+hûnsik:
+    label: hûnsik
+    description: red
 hûzon:
     label: hûzon
     description: rain
 hûwu:
     label: hûwu
     description: egg
+hûsku:
+    label: hûsku
+    description: to remember (a memory)
 hûnsûon:
     label: hûnsûon
     description: partner
-hûlû:
-    label: hûlû
-    description: grass
+hûwuncul:
+    label: hûwuncul
+    description: plastic
+hûlodêk:
+    label: hûlodêk
+    description: waste
 ko:
     label: ko
     description: interrogative sentence ender (yes?)
-kotilmok:
-    label: kotilmok
-    description: participating/contributing
 kotonhon:
     label: kotonhon
     description: sudden/urgent
+kotilmok:
+    label: kotilmok
+    description: participating/contributing
 kocko:
     label: kocko
     description: rough
+hûlû:
+    label: hûlû
+    description: grass
+kontol:
+    label: kontol
+    description: to sing/play (music)
 kon:
     label: kon
     description: abstract verb noun particle
 kobût:
     label: kobût
     description: broken/dysfunctional
-kontol:
-    label: kontol
-    description: to sing/play (music)
-konbokbo:
-    label: konbokbo
-    description: general/universal
-konxo:
-    label: konxo
-    description: thankful/grateful
 konwo:
     label: konwo
     description: rhythm/beat
-kôî:
-    label: kôî
-    description: epistemic verb particle
 kolowu:
     label: kolowu
     description: art
-kôto:
-    label: kôto
-    description: to talk (speech)
+kôî:
+    label: kôî
+    description: epistemic verb particle
 kôkokû:
     label: kôkokû
     description: skeleton
+konbokbo:
+    label: konbokbo
+    description: general/universal
 kôtîkôl:
     label: kôtîkôl
     description: hindering/detrimental
-kôs:
-    label: kôs
-    description: to cause (an effect)
 kôtfûsu:
     label: kôtfûsu
     description: cephalapod
+kôs:
+    label: kôs
+    description: to cause (an effect)
 kôson:
     label: kôson
     description: to build (a construction)
-hûlodêk:
-    label: hûlodêk
-    description: waste
 kôsmô:
     label: kôsmô
     description: space/cosmos
-hûnsik:
-    label: hûnsik
-    description: red
-hûwuncul:
-    label: hûwuncul
-    description: plastic
+konxo:
+    label: konxo
+    description: thankful/grateful
 kôdus:
     label: kôdus
     description: sacred
-kôxentê:
-    label: kôxentê
-    description: conscious
 kômû:
     label: kômû
     description: horn/spike
-kônên:
-    label: kônên
-    description: possible/likely
-kôndonsê:
-    label: kôndonsê
-    description: condensed/concentrated
 kôntêsto:
     label: kôntêsto
     description: to contend with (a contestant)
+kôto:
+    label: kôto
+    description: to talk (speech)
+kônên:
+    label: kônên
+    description: possible/likely
+kôxentê:
+    label: kôxentê
+    description: conscious
+kôndonsê:
+    label: kôndonsê
+    description: condensed/concentrated
 kôndodû:
     label: kôndodû
     description: to celebrate (a party)
-kôlmûdul:
-    label: kôlmûdul
-    description: purchase
 kônbo:
     label: kônbo
     description: shaking
-ke:
-    label: ke
-    description: future verb particle
 kônyêc:
     label: kônyêc
     description: ending
+kôlmûdul:
+    label: kôlmûdul
+    description: purchase
+ke:
+    label: ke
+    description: future verb particle
 kelo:
     label: kelo
     description: to play (a game)
-kistosê:
-    label: kistosê
-    description: crustacean
-kêlôs:
-    label: kêlôs
-    description: weather
-kîôsô:
-    label: kîôsô
-    description: athletic
-kêxîk:
-    label: kêxîk
-    description: variable/unstable
 kêskîn:
     label: kêskîn
     description: sharp
+kêxîk:
+    label: kêxîk
+    description: variable/unstable
+kîôsô:
+    label: kîôsô
+    description: athletic
+kêlôs:
+    label: kêlôs
+    description: weather
+kîûngô:
+    label: kîûngô
+    description: spice
 kilukû:
     label: kilukû
     description: eastern
@@ -604,429 +604,429 @@ kîkôlô:
 kîso:
     label: kîso
     description: to narrate (a story)
-kînôxî:
-    label: kînôxî
-    description: functional
-kîûngô:
-    label: kîûngô
-    description: spice
-kînyosel:
-    label: kînyosel
-    description: chemical
-kînlik:
-    label: kînlik
-    description: authorized
-kînsê:
-    label: kînsê
-    description: 15 fifteen
 kîskô:
     label: kîskô
     description: rail/rack/bar
 kîno:
     label: kîno
     description: rhyme/verse
+kînlik:
+    label: kînlik
+    description: authorized
+kistosê:
+    label: kistosê
+    description: crustacean
+kînôxî:
+    label: kînôxî
+    description: functional
 kîldo:
     label: kîldo
     description: long
-kut:
-    label: kut
-    description: 01 one
-kukwon:
-    label: kukwon
-    description: organ/member
-kudûdo:
-    label: kudûdo
-    description: to harvest (a harvest)
 kîyô:
     label: kîyô
     description: dexterous/skillful
-kûon:
-    label: kûon
-    description: light
-kûonlôn:
-    label: kûonlôn
-    description: tolerant
-kûôxi:
-    label: kûôxi
-    description: fruit
-kutin:
-    label: kutin
-    description: difficult
-kûu:
-    label: kûu
-    description: deontic verb particle
-kûôcyo:
-    label: kûôcyo
-    description: state
-kûkmut:
-    label: kûkmut
-    description: cereal/grain
-kûsowî:
-    label: kûsowî
-    description: matter/material
+kukwon:
+    label: kukwon
+    description: organ/member
+kînyosel:
+    label: kînyosel
+    description: chemical
 kuûnmê:
     label: kuûnmê
     description: technology
-kûdu:
-    label: kûdu
-    description: horse
-kûmun:
-    label: kûmun
-    description: hole
+kut:
+    label: kut
+    description: 01 one
+kûonlôn:
+    label: kûonlôn
+    description: tolerant
+kûon:
+    label: kûon
+    description: light
+kînsê:
+    label: kînsê
+    description: 15 fifteen
+kutin:
+    label: kutin
+    description: difficult
+kudûdo:
+    label: kudûdo
+    description: to harvest (a harvest)
+kûôcyo:
+    label: kûôcyo
+    description: state
+kûu:
+    label: kûu
+    description: deontic verb particle
+kûkmut:
+    label: kûkmut
+    description: cereal/grain
+kûôxi:
+    label: kûôxi
+    description: fruit
 kûzoû:
     label: kûzoû
     description: awesome
-kûnhîun:
-    label: kûnhîun
-    description: step/pace
+kûmun:
+    label: kûmun
+    description: hole
 kûnontî:
     label: kûnontî
     description: communication
+kûdu:
+    label: kûdu
+    description: horse
+kûsowî:
+    label: kûsowî
+    description: matter/material
+kûnhîun:
+    label: kûnhîun
+    description: step/pace
 kûngîyo:
     label: kûngîyo
     description: organization/enterprise
-kûncîen:
-    label: kûncîen
-    description: room
 kûnbî:
     label: kûnbî
     description: scene/stage
-kûlûnun:
-    label: kûlûnun
-    description: cage/kennel/jail/cell
+kûncîen:
+    label: kûncîen
+    description: room
 kûyô:
     label: kûyô
     description: sad
-kûldû:
-    label: kûldû
-    description: wheel
-gomî:
-    label: gomî
-    description: to take (the taken)
 gos:
     label: gos
     description: plant
-gongoxî:
-    label: gongoxî
-    description: alarm
+kûlûnun:
+    label: kûlûnun
+    description: cage/kennel/jail/cell
 gonîso:
     label: gonîso
     description: to think (a thought/opinion)
+gomî:
+    label: gomî
+    description: to take (the taken)
+gongoxî:
+    label: gongoxî
+    description: alarm
 gosîl:
     label: gosîl
     description: short
+gonzîl:
+    label: gonzîl
+    description: strange
+kûldû:
+    label: kûldû
+    description: wheel
 golo:
     label: golo
     description: to read (a document)
 golun:
     label: golun
     description: to respect (the respected)
-gonzîl:
-    label: gonzîl
-    description: strange
-golbinûs:
-    label: golbinûs
-    description: chartreuse
-gonbu:
-    label: gonbu
-    description: leg
-gô:
-    label: gô
-    description: existent
 golfon:
     label: golfon
     description: disgusted
-gônyumon:
-    label: gônyumon
-    description: grunting/growling
-gôlûo:
-    label: gôlûo
-    description: melted
-gôwo:
-    label: gôwo
-    description: foolish/obtuse
+gô:
+    label: gô
+    description: existent
+gonbu:
+    label: gonbu
+    description: leg
 gôcîdon:
     label: gôcîdon
     description: to choose (a choice)
-gôyu:
-    label: gôyu
-    description: mouth
-gêkô:
-    label: gêkô
-    description: soil/dirt
+gônyumon:
+    label: gônyumon
+    description: grunting/growling
+gôwo:
+    label: gôwo
+    description: foolish/obtuse
+golbinûs:
+    label: golbinûs
+    description: chartreuse
+gôlûo:
+    label: gôlûo
+    description: melted
 gemolen:
     label: gemolen
     description: milled/ground/crushed
+gôyu:
+    label: gôyu
+    description: mouth
 gelmis:
     label: gelmis
     description: stretched
 gitno:
     label: gitno
     description: intermediative marker (between)
-gîôn:
-    label: gîôn
-    description: strong
+gêkô:
+    label: gêkô
+    description: soil/dirt
 gîk:
     label: gîk
     description: arriving
 gîto:
     label: gîto
     description: line
+gîôn:
+    label: gîôn
+    description: strong
+gîsgûl:
+    label: gîsgûl
+    description: step/rung
 gubuyo:
     label: gubuyo
     description: shop/market
 gufis:
     label: gufis
     description: certain
-gîsgûl:
-    label: gîsgûl
-    description: step/rung
-gûêyû:
-    label: gûêyû
-    description: eye
 gundolê:
     label: gundolê
     description: sphere
+gûso:
+    label: gûso
+    description: angry
+gûêyû:
+    label: gûêyû
+    description: eye
 gûexo:
     label: gûexo
     description: war
 gûdolô:
     label: gûdolô
     description: bow (weapon)/bow (music)
-gûmî:
-    label: gûmî
-    description: rubber
 gûfoxê:
     label: gûfoxê
     description: irony/sarcasm
 gûfîô:
     label: gûfîô
     description: to push (the pushed/repelled)
+gûmî:
+    label: gûmî
+    description: rubber
 gûnokol:
     label: gûnokol
     description: criminal
+gûlobî:
+    label: gûlobî
+    description: pink
+gûlû:
+    label: gûlû
+    description: wound/injury
 toû:
     label: toû
     description: 06 six
 gûwolo:
     label: gûwolo
     description: to scratch (the scratched)
-gûlobî:
-    label: gûlobî
-    description: pink
-gûso:
-    label: gûso
-    description: angry
-gûlû:
-    label: gûlû
-    description: wound/injury
-toûyen:
-    label: toûyen
-    description: to hate (a hated entity)
-totsi:
-    label: totsi
-    description: standing
-toswîl:
-    label: toswîl
-    description: to draw (a picture)
-towê:
-    label: towê
-    description: hair/fur/plumage
-tonbokcut:
-    label: tonbokcut
-    description: protein
 tohilôk:
     label: tohilôk
     description: cone
-tolîko:
-    label: tolîko
-    description: method
-toliyo:
-    label: toliyo
-    description: pasta
+toswîl:
+    label: toswîl
+    description: to draw (a picture)
+tonbokcut:
+    label: tonbokcut
+    description: protein
+towê:
+    label: towê
+    description: hair/fur/plumage
 tolên:
     label: tolên
     description: limb
-tolxêto:
-    label: tolxêto
-    description: card
+toliyo:
+    label: toliyo
+    description: pasta
+tolîko:
+    label: tolîko
+    description: method
 tô:
     label: tô
     description: instrumental marker (using/with)
+totsi:
+    label: totsi
+    description: standing
+toûyen:
+    label: toûyen
+    description: to hate (a hated entity)
+tolxêto:
+    label: tolxêto
+    description: card
 tôcît:
     label: tôcît
     description: blunt
-tôxûtsi:
-    label: tôxûtsi
-    description: bump
 tômôs:
     label: tômôs
     description: book
-tônkô:
-    label: tônkô
-    description: hurting/suffering
 tôncoî:
     label: tôncoî
     description: sighing
-tetêk:
-    label: tetêk
-    description: breast/chest
-tenkîn:
-    label: tenkîn
-    description: to hear (a sound)
+tônkô:
+    label: tônkô
+    description: hurting/suffering
 tôlkî:
     label: tôlkî
     description: only
+tôxûtsi:
+    label: tôxûtsi
+    description: bump
+tetêk:
+    label: tetêk
+    description: breast/chest
 telô:
     label: telô
     description: 13 thirteen
-tigoyo:
-    label: tigoyo
-    description: supine
-til:
-    label: til
-    description: causal-final marker (for)
-tîkêl:
-    label: tîkêl
-    description: reflected
+tenkîn:
+    label: tenkîn
+    description: to hear (a sound)
 tifûlci:
     label: tifûlci
     description: creative
+til:
+    label: til
+    description: causal-final marker (for)
+tigoyo:
+    label: tigoyo
+    description: supine
+tîkêl:
+    label: tîkêl
+    description: reflected
 tîton:
     label: tîton
     description: way/path
-tîkû:
-    label: tîkû
-    description: dead
 tîû:
     label: tîû
     description: 05 five
-tîmîok:
-    label: tîmîok
-    description: bird
-tukwos:
-    label: tukwos
-    description: 08 eight
 tîxô:
     label: tîxô
     description: threat
+tîmîok:
+    label: tîmîok
+    description: bird
+tîkû:
+    label: tîkû
+    description: dead
+tukwos:
+    label: tukwos
+    description: 08 eight
 tuluti:
     label: tuluti
     description: to traverse (the traversed)
-tubô:
-    label: tubô
-    description: spot/scar
-tulkolyun:
-    label: tulkolyun
-    description: rolling/tumbling
-tûek:
-    label: tûek
-    description: to compute (a computation)
 tûu:
     label: tûu
     description: to do (an action)
-tût:
-    label: tût
-    description: hot
+tulkolyun:
+    label: tulkolyun
+    description: rolling/tumbling
+tubô:
+    label: tubô
+    description: spot/scar
+tûek:
+    label: tûek
+    description: to compute (a computation)
 tûndû:
     label: tûndû
     description: bottom
+tût:
+    label: tût
+    description: hot
 tûlokon:
     label: tûlokon
     description: to adjudge (judgement)
-tûlôno:
-    label: tûlôno
-    description: comparison
 cok:
     label: cok
     description: departing
-cosnî:
-    label: cosnî
-    description: private/confidential
 cokwoli:
     label: cokwoli
     description: pyramid
-comen:
-    label: comen
-    description: lawn/meadow
+tûlôno:
+    label: tûlôno
+    description: comparison
+cosnî:
+    label: cosnî
+    description: private/confidential
 cokyen:
     label: cokyen
     description: almost
-conôî:
-    label: conôî
-    description: beak
 conzodo:
     label: conzodo
     description: asleep
 conwêbo:
     label: conwêbo
     description: to manufacture (goods)
-côûnton:
-    label: côûnton
-    description: loyal/faithful
-côt:
-    label: côt
-    description: thick
+conôî:
+    label: conôî
+    description: beak
 colot:
     label: colot
     description: wise/clever
-côûfon:
-    label: côûfon
-    description: to cook (a meal)
+comen:
+    label: comen
+    description: lawn/meadow
+côûnton:
+    label: côûnton
+    description: loyal/faithful
 côcko:
     label: côcko
     description: lens
+côûfon:
+    label: côûfon
+    description: to cook (a meal)
+côt:
+    label: côt
+    description: thick
 cômêl:
     label: cômêl
     description: cute
 cônkôk:
     label: cônkôk
     description: precise/specific
-cencî:
-    label: cencî
-    description: thin/narrow
 centik:
     label: centik
     description: official/formal
+cencî:
+    label: cencî
+    description: thin/narrow
 cêô:
     label: cêô
     description: rank/degree
-cên:
-    label: cên
-    description: up
+cihôû:
+    label: cihôû
+    description: successive marker (after)
 cênbô:
     label: cênbô
     description: big
 cixîn:
     label: cixîn
     description: to enforce (the enforced)
-cifulo:
-    label: cifulo
-    description: dancing
-cifû:
-    label: cifû
-    description: to pay (payment)
-cihôû:
-    label: cihôû
-    description: successive marker (after)
-ciwîndî:
-    label: ciwîndî
-    description: liver
+cên:
+    label: cên
+    description: up
 cizî:
     label: cizî
     description: self
-cingî:
-    label: cingî
-    description: electricity
+cifû:
+    label: cifû
+    description: to pay (payment)
+cifulo:
+    label: cifulo
+    description: dancing
 cino:
     label: cino
     description: charge/fee/tax
-cî:
-    label: cî
-    description: propositive sentence ender (agree?)
 cinôbu:
     label: cinôbu
     description: vermilion
+ciwîndî:
+    label: ciwîndî
+    description: liver
+cî:
+    label: cî
+    description: propositive sentence ender (agree?)
+cingî:
+    label: cingî
+    description: electricity
 cîes:
     label: cîes
     description: tight/firm
@@ -1036,135 +1036,144 @@ cîenxîn:
 cîkînîl:
     label: cîkînîl
     description: ear
-cîgîlsu:
-    label: cîgîlsu
-    description: treatment (medical)
-cînzon:
-    label: cînzon
-    description: nervous/anxious
-cîbon:
-    label: cîbon
-    description: fat/grease
 cîhun:
     label: cîhun
     description: to pull/attract (the pulled/attracted)
-cutnê:
-    label: cutnê
-    description: to climb (a slope)
-cukto:
-    label: cukto
-    description: to write (text)
-cînlî:
-    label: cînlî
-    description: to undergo (an experience)
-cuncîon:
-    label: cuncîon
-    description: to fortify (the fortified)
+cîgîlsu:
+    label: cîgîlsu
+    description: treatment (medical)
 cîtsê:
     label: cîtsê
     description: to accuse (an accusation)
+cîbon:
+    label: cîbon
+    description: fat/grease
+cînzon:
+    label: cînzon
+    description: nervous/anxious
+cînlî:
+    label: cînlî
+    description: to undergo (an experience)
+cukto:
+    label: cukto
+    description: to write (text)
+cutnê:
+    label: cutnê
+    description: to climb (a slope)
 cuskîdô:
     label: cuskîdô
     description: click/snap
 cunlîû:
     label: cunlîû
     description: to distill (the distilled)
+cuncîon:
+    label: cuncîon
+    description: to fortify (the fortified)
 cunyû:
     label: cunyû
     description: cold
+culono:
+    label: culono
+    description: to operate (a machine)
 cûî:
     label: cûî
     description: rodent
+cûonwun:
+    label: cûonwun
+    description: rumor
+cûbû:
+    label: cûbû
+    description: fermented/soured
 cûtî:
     label: cûtî
     description: small
 cûxîen:
     label: cûxîen
     description: constrained
-culono:
-    label: culono
-    description: to operate (a machine)
-cûonwun:
-    label: cûonwun
-    description: rumor
-cûdo:
-    label: cûdo
-    description: to give (a gift)
-cûbû:
-    label: cûbû
-    description: fermented/soured
 cûfo:
     label: cûfo
     description: to ward (a ward)
-cûndôl:
-    label: cûndôl
-    description: collision
+cûdo:
+    label: cûdo
+    description: to give (a gift)
 cûngo:
     label: cûngo
     description: to filter (the filtered)
+cûnfû:
+    label: cûnfû
+    description: repeating
+cûndôl:
+    label: cûndôl
+    description: collision
 cûlosun:
     label: cûlosun
     description: to allow (the allowed)
 cûlcî:
     label: cûlcî
     description: trick/scam
-cûlûl:
-    label: cûlûl
-    description: coil
-cûnfû:
-    label: cûnfû
-    description: repeating
-sokofû:
-    label: sokofû
-    description: floor
-sotnîn:
-    label: sotnîn
-    description: right
-socok:
-    label: socok
-    description: to start (startable entity)
 sohoû:
     label: sohoû
     description: healthy
+sokofû:
+    label: sokofû
+    description: floor
+cûlûl:
+    label: cûlûl
+    description: coil
 sokol:
     label: sokol
     description: awkward/clumsy
+socok:
+    label: socok
+    description: to start (startable entity)
 sodolun:
     label: sodolun
     description: normal
+sotnîn:
+    label: sotnîn
+    description: right
+sodilû:
+    label: sodilû
+    description: loose
 soden:
     label: soden
     description: back
 sobôlê:
     label: sobôlê
     description: to taste (a flavor)
-sodilû:
-    label: sodilû
-    description: loose
-sobis:
-    label: sobis
-    description: to record (data/a recording)
 sobûnî:
     label: sobûnî
     description: ill/sick
+sobis:
+    label: sobis
+    description: to record (data/a recording)
 somo:
     label: somo
     description: to name [as] (a name)
 sofîn:
     label: sofîn
     description: pure
+solîlo:
+    label: solîlo
+    description: body
 sonkon:
     label: sonkon
     description: important/great
 sontî:
     label: sontî
     description: calm
-solîlo:
-    label: solîlo
-    description: body
 solwôc:
     label: solwôc
     description: top
+sôhoûk:
+    label: sôhoûk
+    description: arithmetic/math
+sôtûn:
+    label: sôtûn
+    description: column
+sôbo:
+    label: sôbo
+    description: side/beside
 sônsûs:
     label: sônsûs
     description: endless/infinite
@@ -1192,39 +1201,39 @@ sêkî:
 sêkîton:
     label: sêkîton
     description: coal/cinder
+sênzô:
+    label: sênzô
+    description: ancestral
 sêdu:
     label: sêdu
     description: station/garage
 sêmoi:
     label: sêmoi
     description: heaven
-sênzô:
-    label: sênzô
-    description: ancestral
-sêl:
-    label: sêl
-    description: down
-sêlbô:
-    label: sêlbô
-    description: yellow
 sityo:
     label: sityo
     description: to sit on (a seat)
 siskin:
     label: siskin
     description: sibling
+sêl:
+    label: sêl
+    description: down
 sinsî:
     label: sinsî
     description: town/city
-sî:
-    label: sî
-    description: perfect verb particle
+sêlbô:
+    label: sêlbô
+    description: yellow
 sîokbî:
     label: sîokbî
     description: facility/equipment
 sîêtô:
     label: sîêtô
     description: plate
+sî:
+    label: sî
+    description: perfect verb particle
 sîûfo:
     label: sîûfo
     description: to digest (the digested)
@@ -1234,87 +1243,87 @@ sîkot:
 sîkîn:
     label: sîkîn
     description: event
-suhot:
-    label: suhot
-    description: hour
 sîntokmo:
     label: sîntokmo
     description: phrase
 sînêxîs:
     label: sînêxîs
     description: constant/stable
-sukyunik:
-    label: sukyunik
-    description: mucus
-sôbo:
-    label: sôbo
-    description: side/beside
+suhot:
+    label: suhot
+    description: hour
 sufoûn:
     label: sufoûn
     description: soap
+sukyunik:
+    label: sukyunik
+    description: mucus
 sundîbot:
     label: sundîbot
     description: arthropod
 sunbûlno:
     label: sunbûlno
     description: flawless
-sûôxic:
-    label: sûôxic
-    description: to fold (the folded)
+sumon:
+    label: sumon
+    description: equal/same
 sunyotnî:
     label: sunyotnî
     description: interested/amused
+sûôxic:
+    label: sûôxic
+    description: to fold (the folded)
 sûît:
     label: sûît
     description: sweet
-sûko:
-    label: sûko
-    description: to like (a preference)
 sûtûô:
     label: sûtûô
     description: friend
-sûbôl:
-    label: sûbôl
-    description: fertile/productive
 sûsôn:
     label: sûsôn
     description: layer
+sûbôl:
+    label: sûbôl
+    description: fertile/productive
+sûko:
+    label: sûko
+    description: to like (a preference)
 sûn:
     label: sûn
     description: ablative marker (from)
-xoînbo:
-    label: xoînbo
-    description: seeming
-sûnbîdû:
-    label: sûnbîdû
-    description: drone/buzz/hum
 xohofec:
     label: xohofec
     description: jellyfish/hydra/anemone
-xokôn:
-    label: xokôn
-    description: each
-xobo:
-    label: xobo
-    description: to strike (the stricken) 
+sûnbîdû:
+    label: sûnbîdû
+    description: drone/buzz/hum
+xoînbo:
+    label: xoînbo
+    description: seeming
 xokûlû:
     label: xokûlû
     description: to invite (an invitation)
-xobêk:
-    label: xobêk
-    description: previous
+xobo:
+    label: xobo
+    description: to strike (the stricken) 
+xonluk:
+    label: xonluk
+    description: young
+xokôn:
+    label: xokôn
+    description: each
 xofô:
     label: xofô
     description: guts
+xobêk:
+    label: xobêk
+    description: previous
 xontûn:
     label: xontûn
     description: to provoke (a provocation)
 xowosê:
     label: xowosê
     description: happy
-xonluk:
-    label: xonluk
-    description: young
 xolu:
     label: xolu
     description: bowl/cup
@@ -1324,42 +1333,42 @@ xolxîlî:
 xôboî:
     label: xôboî
     description: salty
+xe:
+    label: xe
+    description: subjective subordinate clause particle
 xômûtlô:
     label: xômûtlô
     description: ocean
 xôn:
     label: xôn
     description: good
-xe:
-    label: xe
-    description: subjective subordinate clause particle
 xecînoc:
     label: xecînoc
     description: crossed/intersected
-xefîzec:
-    label: xefîzec
-    description: to predict (a prediction)
-xemêtsen:
-    label: xemêtsen
-    description: noun
-xêtî:
-    label: xêtî
-    description: 07 seven
 xêntîl:
     label: xêntîl
     description: gentle/kind
-xifon:
-    label: xifon
-    description: fungus
+xemêtsen:
+    label: xemêtsen
+    description: noun
+xefîzec:
+    label: xefîzec
+    description: to predict (a prediction)
+xêtî:
+    label: xêtî
+    description: 07 seven
 xingô:
     label: xingô
     description: neck/throat
-xîûfû:
-    label: xîûfû
-    description: to repair (the repaired)
+xifon:
+    label: xifon
+    description: fungus
 xîûlo:
     label: xîûlo
     description: hiss/fizz/whistle
+xîûfû:
+    label: xîûfû
+    description: to repair (the repaired)
 xîkô:
     label: xîkô
     description: flying
@@ -1369,123 +1378,123 @@ xîsû:
 xîdêtlî:
     label: xîdêtlî
     description: strict
-xîmol:
-    label: xîmol
-    description: left
-sumon:
-    label: sumon
-    description: equal/same
+xîxulko:
+    label: xîxulko
+    description: pinecone
+xîwon:
+    label: xîwon
+    description: to hope/wish (a hope/wish)
 xîmu:
     label: xîmu
     description: water
 xîncûon:
     label: xîncûon
     description: shape/form
-xîwon:
-    label: xîwon
-    description: to hope/wish (a hope/wish)
-xîyôcû:
-    label: xîyôcû
-    description: occupied/engaged/busy
+xîmol:
+    label: xîmol
+    description: left
 xulmindo:
     label: xulmindo
     description: ashamed
-xûk:
-    label: xûk
-    description: sort/type
 xûto:
     label: xûto
     description: river
-xûsten:
-    label: xûsten
-    description: to wash (the washed)
+xûk:
+    label: xûk
+    description: sort/type
+xîyôcû:
+    label: xîyôcû
+    description: occupied/engaged/busy
 xûxok:
     label: xûxok
     description: hell
 doî:
     label: doî
     description: string
-xûnyu:
-    label: xûnyu
-    description: 00 zero
-sôhoûk:
-    label: sôhoûk
-    description: arithmetic/math
+xûsten:
+    label: xûsten
+    description: to wash (the washed)
 doîcêl:
     label: doîcêl
     description: to capture/intercept (the captured/intercepted)
 doho:
     label: doho
     description: to sacrifice (an offering)
+xûnyu:
+    label: xûnyu
+    description: 00 zero
+doînbî:
+    label: doînbî
+    description: ticket/pass
+dokdogo:
+    label: dokdogo
+    description: to tickle (the tickled)
+dodôû:
+    label: dodôû
+    description: to bet (a bet)
 dohîl:
     label: dohîl
     description: shallow
 doknû:
     label: doknû
     description: to cover (the covered)
-dodôû:
-    label: dodôû
-    description: to bet (a bet)
-dokdogo:
-    label: dokdogo
-    description: to tickle (the tickled)
-dodê:
-    label: dodê
-    description: diving
 dondun:
     label: dondun
     description: traditional
-dôkcon:
-    label: dôkcon
-    description: decent
+dodê:
+    label: dodê
+    description: diving
 dôcuî:
     label: dôcuî
     description: toy
 dôstoc:
     label: dôstoc
     description: to receive (the received)
+dôkcon:
+    label: dôkcon
+    description: decent
 dônûs:
     label: dônûs
     description: pig
 dônûxin:
     label: dônûxin
     description: conversion
-deku:
-    label: deku
-    description: ceiling
 dêko:
     label: dêko
     description: to see (a view)
 dêtoî:
     label: dêtoî
     description: detail
-dês:
-    label: dês
-    description: negatitive verb modifier particle
+deku:
+    label: deku
+    description: ceiling
 dên:
     label: dên
     description: oppositive marker (against)
+dês:
+    label: dês
+    description: negatitive verb modifier particle
 dênêmêk:
     label: dênêmêk
     description: to try (a trial)
-dibo:
-    label: dibo
-    description: container
-dî:
-    label: dî
-    description: to become (a trait)
 dîdôzû:
     label: dîdôzû
     description: neutral
+dibo:
+    label: dibo
+    description: container
 dîzel:
     label: dîzel
     description: other
-dînzoû:
-    label: dînzoû
-    description: lip/rim/edge
 dîncî:
     label: dîncî
     description: block
+dî:
+    label: dî
+    description: to become (a trait)
+dînzoû:
+    label: dînzoû
+    description: lip/rim/edge
 dîlê:
     label: dîlê
     description: slow
@@ -1513,81 +1522,72 @@ dûî:
 dûuncît:
     label: dûuncît
     description: brain/mind
-doînbî:
-    label: doînbî
-    description: ticket/pass
-xîxulko:
-    label: xîxulko
-    description: pinecone
-dûstu:
-    label: dûstu
-    description: to measure (the measured)
-dûbono:
-    label: dûbono
-    description: to immerse (the immersed)
-zohît:
-    label: zohît
-    description: to sew (the sewn)
-dûndon:
-    label: dûndon
-    description: correct
-zoso:
-    label: zoso
-    description: shelf
-zoston:
-    label: zoston
-    description: jump
-zomo:
-    label: zomo
-    description: group
-sôtûn:
-    label: sôtûn
-    description: column
+dûsul:
+    label: dûsul
+    description: grey
 dûngo:
     label: dûngo
     description: to pierce (the pierced)
-zomî:
-    label: zomî
-    description: society/culture
-zomûnî:
-    label: zomûnî
-    description: purple
-zonwul:
-    label: zonwul
-    description: animal
+dûstu:
+    label: dûstu
+    description: to measure (the measured)
+zoso:
+    label: zoso
+    description: shelf
+zohît:
+    label: zohît
+    description: to sew (the sewn)
+zomo:
+    label: zomo
+    description: group
+zoston:
+    label: zoston
+    description: jump
+dûndon:
+    label: dûndon
+    description: correct
+dûbono:
+    label: dûbono
+    description: to immerse (the immersed)
 zonûbî:
     label: zonûbî
     description: southern
+zomûnî:
+    label: zomûnî
+    description: purple
+zomî:
+    label: zomî
+    description: society/culture
+zonwul:
+    label: zonwul
+    description: animal
+zolî:
+    label: zolî
+    description: bush/shrub
+zowo:
+    label: zowo
+    description: caniform
 zolonî:
     label: zolonî
     description: fuel
 zôî:
     label: zôî
     description: blue
-zolî:
-    label: zolî
-    description: bush/shrub
-zôhûn:
-    label: zôhûn
-    description: nutrient
-zôgoc:
-    label: zôgoc
-    description: pitch/tar
 zôtêstô:
     label: zôtêstô
     description: sufficient/enough
-ze:
-    label: ze
-    description: aggressive/emotional sentence ender
-zowo:
-    label: zowo
-    description: caniform
 zelen:
     label: zelen
     description: upcoming
-zênsî:
-    label: zênsî
-    description: sexual
+zôgoc:
+    label: zôgoc
+    description: pitch/tar
+zôhûn:
+    label: zôhûn
+    description: nutrient
+ze:
+    label: ze
+    description: aggressive/emotional sentence ender
 zêsto:
     label: zêsto
     description: feat/achievement/heroic deed
@@ -1597,195 +1597,198 @@ zik:
 zizime:
     label: zizime
     description: generation
+zênsî:
+    label: zênsî
+    description: sexual
 zinkon:
     label: zinkon
     description: door
 ziyôn:
     label: ziyôn
     description: 14 fourteen
-zîgîl:
-    label: zîgîl
-    description: falling
-zîcoû:
-    label: zîcoû
-    description: to train (a skill/ability)
 zîxîtû:
     label: zîxîtû
     description: finger/toe
+zîcoû:
+    label: zîcoû
+    description: to train (a skill/ability)
+zîgîl:
+    label: zîgîl
+    description: falling
 zîzîyo:
     label: zîzîyo
     description: tendon/root
 zîwit:
     label: zîwit
     description: alive
-zîngu:
-    label: zîngu
-    description: orange
 zîlyoîs:
     label: zîlyoîs
     description: deep
+zîngu:
+    label: zîngu
+    description: orange
 zusbot:
     label: zusbot
     description: emotion
+zuko:
+    label: zuko
+    description: bag
 zuwobû:
     label: zuwobû
     description: to answer [with] (a response)
 zûhu:
     label: zûhu
     description: tongue
+zûtô:
+    label: zûtô
+    description: to regret (a regret)
 zûngô:
     label: zûngô
     description: hand
 zûntûlu:
     label: zûntûlu
     description: joint
+boit:
+    label: boit
+    description: 256 byte
 zûnlo:
     label: zûnlo
     description: series/sentence
 zûyi:
     label: zûyi
     description: to spot/notice (the spotted/noticed)
-boit:
-    label: boit
-    description: 256 byte
 boîfôn:
     label: boîfôn
     description: to emit (excreta)
 boholon:
     label: boholon
     description: closet/cupboard/cabinet
-botuk:
-    label: botuk
-    description: flat
 bogô:
     label: bogô
     description: luck
+botuk:
+    label: botuk
+    description: flat
 botyoto:
     label: botyoto
     description: responsible
-bostofîs:
-    label: bostofîs
-    description: representative/delegate
 boxô:
     label: boxô
     description: place
-bobôun:
-    label: bobôun
-    description: system
 bodî:
     label: bodî
     description: unmoving
 bomoge:
     label: bomoge
     description: prone
+bostofîs:
+    label: bostofîs
+    description: representative/delegate
+bobôun:
+    label: bobôun
+    description: system
 bono:
     label: bono
     description: facing/pointing
 bonôxo:
     label: bonôxo
     description: violet
-bolîmot:
-    label: bolîmot
-    description: voluminous/spacious
-zuko:
-    label: zuko
-    description: bag
-bole:
-    label: bole
-    description: 12 twelve
 bongôsî:
     label: bongôsî
     description: endangered
-zûtô:
-    label: zûtô
-    description: to regret (a regret)
 bolutê:
     label: bolutê
     description: foreign
+bole:
+    label: bole
+    description: 12 twelve
+boyok:
+    label: boyok
+    description: recent
 bolce:
     label: bolce
     description: cloth/fabric
 bôkôfoc:
     label: bôkôfoc
     description: to block (the blocked)
-bôkbûn:
-    label: bôkbûn
-    description: storm
-bôklôn:
-    label: bôklôn
-    description: to govern (the governed)
-bôsol:
-    label: bôsol
-    description: to form a pose (a position)
-boyok:
-    label: boyok
-    description: recent
 bônti:
     label: bônti
     description: bridge
-betîdo:
-    label: betîdo
-    description: to mean (a meaning)
-besol:
-    label: besol
-    description: to seal/lock (the sealed/locked)
+bôklôn:
+    label: bôklôn
+    description: to govern (the governed)
 bôlfêlê:
     label: bôlfêlê
     description: powder
+bôsol:
+    label: bôsol
+    description: to form a pose (a position)
+bolîmot:
+    label: bolîmot
+    description: voluminous/spacious
+bôkbûn:
+    label: bôkbûn
+    description: storm
+besol:
+    label: besol
+    description: to seal/lock (the sealed/locked)
 belêxu:
     label: belêxu
     description: to mark (a target)
-belîsîs:
-    label: belîsîs
-    description: unsure
+betîdo:
+    label: betîdo
+    description: to mean (a meaning)
 bêîku:
     label: bêîku
     description: shell
 bêûdo:
     label: bêûdo
     description: to learn (a learning)
-bêsu:
-    label: bêsu
-    description: different
-bêmon:
-    label: bêmon
-    description: to promise (a promise)
-bêlêtê:
-    label: bêlêtê
-    description: wall
 bêsnêhot:
     label: bêsnêhot
     description: to suggest (a suggestion)
+belîsîs:
+    label: belîsîs
+    description: unsure
+bêsu:
+    label: bêsu
+    description: different
+bêlêtê:
+    label: bêlêtê
+    description: wall
+bêmon:
+    label: bêmon
+    description: to promise (a promise)
+bi:
+    label: bi
+    description: methodological marker (-ly)
 bitûn:
     label: bitûn
     description: night
 bindû:
     label: bindû
     description: dot
-bi:
-    label: bi
-    description: methodological marker (-ly)
-binlêô:
-    label: binlêô
-    description: bay/golf
 bilît:
     label: bilît
     description: sticky
-bîolî:
-    label: bîolî
-    description: hello/goodbye
+binlêô:
+    label: binlêô
+    description: bay/golf
 bîômu:
     label: bîômu
     description: biome
-bît:
-    label: bît
-    description: conditional verb particle
-bîkontê:
-    label: bîkontê
-    description: spicy
+bîolî:
+    label: bîolî
+    description: hello/goodbye
 bîek:
     label: bîek
     description: to bake (a baked good)
+bîkontê:
+    label: bîkontê
+    description: spicy
+bît:
+    label: bît
+    description: conditional verb particle
 bîcûon:
     label: bîcûon
     description: tired/exhausted
@@ -1810,12 +1813,15 @@ bukû:
 bîlûs:
     label: bîlûs
     description: victorious
-but:
-    label: but
-    description: open
 bucono:
     label: bucono
     description: to save/rescue (the saved/rescued)
+but:
+    label: but
+    description: open
+buswen:
+    label: buswen
+    description: to need (a requirement)
 buswêlin:
     label: buswêlin
     description: oath/incantation
@@ -1825,9 +1831,6 @@ bunxin:
 bundu:
     label: bundu
     description: closed
-buswen:
-    label: buswen
-    description: to need (a requirement)
 buyencok:
     label: buyencok
     description: arachnid
@@ -1837,93 +1840,93 @@ bûîhî:
 bûgot:
     label: bûgot
     description: heavy
-bûsin:
-    label: bûsin
-    description: dizzy
-bûdogo:
-    label: bûdogo
-    description: bubble
-bûdîkô:
-    label: bûdîkô
-    description: modest/chaste
-bûzôk:
-    label: bûzôk
-    description: lack
-bûmî:
-    label: bûmî
-    description: ground/terrain/earth
-bûntût:
-    label: bûntût
-    description: tail
-bûndûkî:
-    label: bûndûkî
-    description: gun
 bûslû:
     label: bûslû
     description: translucent
-foût:
-    label: foût
-    description: error
-bûlûsî:
-    label: bûlûsî
-    description: reptile
-foko:
-    label: foko
-    description: causative agentive verb noun particle
-fohoso:
-    label: fohoso
-    description: to examine [for] (an examination)
+bûdogo:
+    label: bûdogo
+    description: bubble
+bûsin:
+    label: bûsin
+    description: dizzy
+bûdîkô:
+    label: bûdîkô
+    description: modest/chaste
+bûndûkî:
+    label: bûndûkî
+    description: gun
+bûntût:
+    label: bûntût
+    description: tail
+bûmî:
+    label: bûmî
+    description: ground/terrain/earth
+bûzôk:
+    label: bûzôk
+    description: lack
 bûlo:
     label: bûlo
     description: brown
-foxo:
-    label: foxo
-    description: mirative sentence ender (wow!)
+bûlûsî:
+    label: bûlûsî
+    description: reptile
+foût:
+    label: foût
+    description: error
+fohoso:
+    label: fohoso
+    description: to examine [for] (an examination)
 fos:
     label: fos
     description: free subordinate clause particle
-fonolon:
-    label: fonolon
-    description: monkey/ape
+foko:
+    label: foko
+    description: causative agentive verb noun particle
+foxo:
+    label: foxo
+    description: mirative sentence ender (wow!)
 fonxîn:
     label: fonxîn
     description: square/rectangle
+fonolon:
+    label: fonolon
+    description: monkey/ape
+fonmot:
+    label: fonmot
+    description: absent/nonexistent
 fonfûk:
     label: fonfûk
     description: complex/complicated
+folo:
+    label: folo
+    description: atom
 fôgîcîn:
     label: fôgîcîn
     description: curious/inquisitive
 fôhon:
     label: fôhon
     description: front/forward
-fonmot:
-    label: fonmot
-    description: absent/nonexistent
-folo:
-    label: folo
-    description: atom
 fôdoloc:
     label: fôdoloc
     description: algae/moss
-fôlun:
-    label: fôlun
-    description: to want (a desire)
-fecko:
-    label: fecko
-    description: liquid
-fêlkonô:
-    label: fêlkonô
-    description: close
-fenûo:
-    label: fenûo
-    description: country/region
 fôlnî:
     label: fôlnî
     description: free
+fôlun:
+    label: fôlun
+    description: to want (a desire)
+fenûo:
+    label: fenûo
+    description: country/region
+fecko:
+    label: fecko
+    description: liquid
 fêlcîn:
     label: fêlcîn
     description: last/latest
+fêlkonô:
+    label: fêlkonô
+    description: close
 fikwun:
     label: fikwun
     description: bacteria/microbe
@@ -1936,60 +1939,63 @@ fildonbun:
 fiyûxît:
     label: fiyûxît
     description: to employ (the employed)
+fîectu:
+    label: fîectu
+    description: simple/basic
 fîkî:
     label: fîkî
     description: fast
-fîcwo:
-    label: fîcwo
-    description: hidden/secret
 fîtîkôs:
     label: fîtîkôs
     description: western
-fîmôsyôs:
-    label: fîmôsyôs
-    description: public/communal
 fîzî:
     label: fîzî
     description: to bury (the buried)
-fîyên:
-    label: fîyên
-    description: 100 hundred
+fîcwo:
+    label: fîcwo
+    description: hidden/secret
 fîlo:
     label: fîlo
     description: row
+fîyên:
+    label: fîyên
+    description: 100 hundred
+fun:
+    label: fun
+    description: fraction
 fuî:
     label: fuî
     description: to have (a possession)
 funsût:
     label: funsût
     description: defeated
-fun:
-    label: fun
-    description: fraction
-funlît:
-    label: funlît
-    description: split
-fulkôî:
-    label: fulkôî
-    description: to rub (the rubbed)
-fûongok:
-    label: fûongok
-    description: illusion
-fîectu:
-    label: fîectu
-    description: simple/basic
+fîmôsyôs:
+    label: fîmôsyôs
+    description: public/communal
 fûus:
     label: fûus
     description: wax
+fulkôî:
+    label: fulkôî
+    description: to rub (the rubbed)
+funlît:
+    label: funlît
+    description: split
+fûongok:
+    label: fûongok
+    description: illusion
+fûkûxi:
+    label: fûkûxi
+    description: revenge/vengeance
 fûtsûn:
     label: fûtsûn
     description: to obey (a rule)
-fûnbô:
-    label: fûnbô
-    description: to squeeze (squeezable entity)
 fûxûbîn:
     label: fûxûbîn
     description: accessory
+fûnbô:
+    label: fûnbô
+    description: to squeeze (squeezable entity)
 fûnbêtsi:
     label: fûnbêtsi
     description: prudent/sensible
@@ -1999,24 +2005,24 @@ fûnlôk:
 motûo:
     label: motûo
     description: parent
-mocko:
-    label: mocko
-    description: cat
-motsi:
-    label: motsi
-    description: to await (an expectation)
-moskûl:
-    label: moskûl
-    description: male
-fûkûxi:
-    label: fûkûxi
-    description: revenge/vengeance
 mokon:
     label: mokon
     description: to eat (food)
+motsi:
+    label: motsi
+    description: to await (an expectation)
+mocko:
+    label: mocko
+    description: cat
+moskûl:
+    label: moskûl
+    description: male
 moxo:
     label: moxo
     description: decorative/ornamental
+mozîkô:
+    label: mozîkô
+    description: magical
 mozulis:
     label: mozulis
     description: council/court/meeting
@@ -2026,66 +2032,63 @@ mozûn:
 momokî:
     label: momokî
     description: surprised
-mongô:
-    label: mongô
-    description: sharks/rays
-mozîkô:
-    label: mozîkô
-    description: magical
 monodo:
     label: monodo
     description: to meet (a meetee)
+mongô:
+    label: mongô
+    description: sharks/rays
 montûksol:
     label: montûksol
     description: logical
 môkôfo:
     label: môkôfo
     description: tube
-môtowo:
-    label: môtowo
-    description: content
-môkwon:
-    label: môkwon
-    description: unrelated
 môî:
     label: môî
     description: all
+môkwon:
+    label: môkwon
+    description: unrelated
+môtowo:
+    label: môtowo
+    description: content
 môtô:
     label: môtô
     description: fire
 môtsilê:
     label: môtsilê
     description: to tie (the tied)
-môfî:
-    label: môfî
-    description: brave/courageous
+môtîfô:
+    label: môtîfô
+    description: reason
 môcîbo:
     label: môcîbo
     description: ongoing
+môfî:
+    label: môfî
+    description: brave/courageous
+mêtlîôs:
+    label: mêtlîôs
+    description: medium/average
 mônîso:
     label: mônîso
     description: to display/show (a diplay/show)
 mônbili:
     label: mônbili
     description: far
-dûsul:
-    label: dûsul
-    description: grey
 mefûs:
     label: mefûs
     description: safe
-môtîfô:
-    label: môtîfô
-    description: reason
-mêtlîôs:
-    label: mêtlîôs
-    description: medium/average
-mênyûu:
-    label: mênyûu
-    description: offspring
 mênûs:
     label: mênûs
     description: fewer/less
+mêdûson:
+    label: mêdûson
+    description: laborious
+mênyûu:
+    label: mênyûu
+    description: offspring
 mêloc:
     label: mêloc
     description: nose
@@ -2095,6 +2098,9 @@ misli:
 mixofo:
     label: mixofo
     description: acidic
+mîencok:
+    label: mîencok
+    description: mollusc
 minyoto:
     label: minyoto
     description: gastropod
@@ -2107,30 +2113,27 @@ mîoû:
 mîêbil:
     label: mîêbil
     description: furniture
-mîencok:
-    label: mîencok
-    description: mollusc
 mîhûon:
     label: mîhûon
     description: beige
 mîkdol:
     label: mîkdol
     description: amount
+mîtmo:
+    label: mîtmo
+    description: colony
 mîtetên:
     label: mîtetên
     description: trivial
 mîcîn:
     label: mîcîn
     description: fish
-mîstu:
-    label: mîstu
-    description: rotten/corrupt
 mîle:
     label: mîle
     description: future
-mîtmo:
-    label: mîtmo
-    description: colony
+mîstu:
+    label: mîstu
+    description: rotten/corrupt
 muîlô:
     label: muîlô
     description: dirty
@@ -2143,30 +2146,30 @@ munî:
 munyufo:
     label: munyufo
     description: to borrow/lend (the borrowed/lent)
-mûêsî:
-    label: mûêsî
-    description: moon
-mûhoyon:
-    label: mûhoyon
-    description: camp
-mûkônun:
-    label: mûkônun
-    description: triangle
 mûun:
     label: mûun
     description: late
+mûhoyon:
+    label: mûhoyon
+    description: camp
+mûêsî:
+    label: mûêsî
+    description: moon
 mûkno:
     label: mûkno
     description: mature/ripe
-mût:
-    label: mût
-    description: dative marker (towards)
+mûkônun:
+    label: mûkônun
+    description: triangle
 mûstokîn:
     label: mûstokîn
     description: straight
 mûxî:
     label: mûxî
     description: insect
+mût:
+    label: mût
+    description: dative marker (towards)
 mûfêû:
     label: mûfêû
     description: clean
@@ -2176,63 +2179,63 @@ mûncotî:
 noô:
     label: noô
     description: wave
-noî:
-    label: noî
-    description: vocative marker
-mûncû:
-    label: mûncû
-    description: tart
 mûlû:
     label: mûlû
     description: full/complete
 noûku:
     label: noûku
     description: science
-nocîdo:
-    label: nocîdo
-    description: to lose/waste (the lost/wasted)
-nozî:
-    label: nozî
-    description: venom/poison
-nosô:
-    label: nosô
-    description: puzzle/mystery
-nodu:
-    label: nodu
-    description: tone
+mûncû:
+    label: mûncû
+    description: tart
 nokdo:
     label: nokdo
     description: old
-non:
-    label: non
-    description: movie/show
-nonto:
-    label: nonto
-    description: tear (of the eye)
+noî:
+    label: noî
+    description: vocative marker
+nosô:
+    label: nosô
+    description: puzzle/mystery
+nocîdo:
+    label: nocîdo
+    description: to lose/waste (the lost/wasted)
+nodu:
+    label: nodu
+    description: tone
 nomû:
     label: nomû
     description: tree
+non:
+    label: non
+    description: movie/show
+nozî:
+    label: nozî
+    description: venom/poison
 nonkû:
     label: nonkû
     description: 04 four
-nô:
-    label: nô
-    description: moving
 noyo:
     label: noyo
     description: I/me
-nôkso:
-    label: nôkso
-    description: map/chart
+nonto:
+    label: nonto
+    description: tear (of the eye)
+nô:
+    label: nô
+    description: moving
 nôîlu:
     label: nôîlu
     description: key
-nec:
-    label: nec
-    description: mesh
 neîgin:
     label: neîgin
     description: tendency/inclination
+nôkso:
+    label: nôkso
+    description: map/chart
+nec:
+    label: nec
+    description: mesh
 nexê:
     label: nexê
     description: intoxicated
@@ -2242,12 +2245,12 @@ nebu:
 nendol:
     label: nendol
     description: famous
-nêxôdî:
-    label: nêxôdî
-    description: ethnic
 nêôs:
     label: nêôs
     description: new/fresh
+nêxôdî:
+    label: nêxôdî
+    description: ethnic
 nênko:
     label: nênko
     description: causal marker (because of)
@@ -2263,93 +2266,93 @@ nikfûl:
 nicu:
     label: nicu
     description: sneeze
-niswî:
-    label: niswî
-    description: 03 three
 nixîn:
     label: nixîn
     description: wing
+niswî:
+    label: niswî
+    description: 03 three
 niwos:
     label: niwos
     description: to reside in (a residence)
-nilol:
-    label: nilol
-    description: shadow
-mêdûson:
-    label: mêdûson
-    description: laborious
 nîo:
     label: nîo
     description: they/them
+nilol:
+    label: nilol
+    description: shadow
 nîôk:
     label: nîôk
     description: growing
 nîecni:
     label: nîecni
     description: vile
-nukulô:
-    label: nukulô
-    description: copy
-nucoto:
-    label: nucoto
-    description: planet
 nîmû:
     label: nîmû
     description: you
+nîltûgu:
+    label: nîltûgu
+    description: to stop (the stopped)
+nucoto:
+    label: nucoto
+    description: planet
+nukulô:
+    label: nukulô
+    description: copy
 nubuso:
     label: nubuso
     description: wet
 numûno:
     label: numûno
     description: example
-nungo:
-    label: nungo
-    description: naked
 nulun:
     label: nulun
     description: soft
-nulûhu:
-    label: nulûhu
-    description: abuse
-nûs:
-    label: nûs
-    description: we/us
-wohî:
-    label: wohî
-    description: female
-nûyo:
-    label: nûyo
-    description: stick
+nungo:
+    label: nungo
+    description: naked
 nulto:
     label: nulto
     description: wide
+nulûhu:
+    label: nulûhu
+    description: abuse
+wohî:
+    label: wohî
+    description: female
+nûs:
+    label: nûs
+    description: we/us
+nûyo:
+    label: nûyo
+    description: stick
+wokto:
+    label: wokto
+    description: outside
+wobî:
+    label: wobî
+    description: island
 wokût:
     label: wokût
     description: time
 wodîno:
     label: wodîno
     description: stale
-wobî:
-    label: wobî
-    description: island
 wofok:
     label: wofok
     description: to approve [of] (the approved)
-wokto:
-    label: wokto
-    description: outside
 wonkûk:
     label: wonkûk
     description: curved
+woloko:
+    label: woloko
+    description: leaf/petal
 wowoê:
     label: wowoê
     description: foot
 woyû:
     label: woyû
     description: air/wind
-woloko:
-    label: woloko
-    description: leaf/petal
 wôlik:
     label: wôlik
     description: smoke/cloud
@@ -2359,81 +2362,81 @@ wedo:
 weltô:
     label: weltô
     description: limp/flaccid/flabby
-wêko:
-    label: wêko
-    description: to place (the placed)
 wêîlun:
     label: wêîlun
     description: to behave (a behavior)
-wêtodû:
-    label: wêtodû
-    description: to hunt/chase (prey/chasee)
 wêkêso:
     label: wêkêso
     description: to invest [in] (an investee)
+wêko:
+    label: wêko
+    description: to place (the placed)
+wêtodû:
+    label: wêtodû
+    description: to hunt/chase (prey/chasee)
 wêtû:
     label: wêtû
     description: to cut (the cut/chopped)
-wêxôn:
-    label: wêxôn
-    description: week
 wikse:
     label: wikse
     description: belly
+wêxôn:
+    label: wêxôn
+    description: week
 wêloi:
     label: wêloi
     description: to work (in an occupation)
 wixonû:
     label: wixonû
     description: virus
-wîxês:
-    label: wîxês
-    description: special/unique
+winît:
+    label: winît
+    description: humble
 wîbolo:
     label: wîbolo
     description: flag
 wîk:
     label: wîk
     description: head
-wuîtsî:
-    label: wuîtsî
-    description: to maintain (the maintained)
-wîlî:
-    label: wîlî
-    description: awake
+wîxês:
+    label: wîxês
+    description: special/unique
 wîlûwo:
     label: wîlûwo
     description: value/cost
-winît:
-    label: winît
-    description: humble
-wuto:
-    label: wuto
-    description: month
+wîlî:
+    label: wîlî
+    description: awake
+wuîtsî:
+    label: wuîtsî
+    description: to maintain (the maintained)
 wuktomû:
     label: wuktomû
     description: overt/evident
 wutun:
     label: wutun
     description: ring/circle
+wuto:
+    label: wuto
+    description: month
 wulus:
     label: wulus
     description: oil
-losol:
-    label: losol
-    description: original
 lohot:
     label: lohot
     description: comfortable
 wûôt:
     label: wûôt
     description: journey/trip/voyage
-lozô:
-    label: lozô
-    description: ray/beam
 lozîdô:
     label: lozîdô
     description: heart
+losol:
+    label: losol
+    description: original
+lozô:
+    label: lozô
+    description: ray/beam
 lobotôl:
     label: lobotôl
     description: to scoop (the scooped)
@@ -2443,69 +2446,66 @@ lon:
 lono:
     label: lono
     description: day
-londuluk:
-    label: londuluk
-    description: rural
-lolû:
-    label: lolû
-    description: word
 longi:
     label: longi
     description: color
+lolû:
+    label: lolû
+    description: word
+londuluk:
+    label: londuluk
+    description: rural
 lôîcôk:
     label: lôîcôk
     description: emphasis sentence ender (really/again)
-lôtfen:
-    label: lôtfen
-    description: politeness sentence ender
 lôc:
     label: lôc
     description: bad
+lôtfen:
+    label: lôtfen
+    description: politeness sentence ender
 lôzîc:
     label: lôzîc
     description: to give birth to (a baby)
 leknek:
     label: leknek
     description: weapon
-legêfû:
-    label: legêfû
-    description: lazy
-lexetko:
-    label: lexetko
-    description: lattice/array
-lêkin:
-    label: lêkin
-    description: but
 lônkin:
     label: lônkin
     description: bulb
+lexetko:
+    label: lexetko
+    description: lattice/array
+legêfû:
+    label: legêfû
+    description: lazy
+lêkin:
+    label: lêkin
+    description: but
 lêfôtol:
     label: lêfôtol
     description: bouncing
-nîltûgu:
-    label: nîltûgu
-    description: to stop (the stopped)
-li:
-    label: li
-    description: subject complement marker
-lîun:
-    label: lîun
-    description: to nurture/grow (the nurtured/grown)
 lîonxîn:
     label: lîonxîn
     description: conscientious
+li:
+    label: li
+    description: subject complement marker
 lîûbît:
     label: lîûbît
     description: to love (the loved)
+lîun:
+    label: lîun
+    description: to nurture/grow (the nurtured/grown)
 lîûlê:
     label: lîûlê
     description: laughing
-lîtiwe:
-    label: lîtiwe
-    description: related
 lîtô:
     label: lîtô
     description: empty/incomplete
+lîtiwe:
+    label: lîtiwe
+    description: related
 lîs:
     label: lîs
     description: smooth
@@ -2518,105 +2518,105 @@ lîsmu:
 lîbû:
     label: lîbû
     description: sheet
-lufono:
-    label: lufono
-    description: to ship/send (a package)
 lîmîen:
     label: lîmîen
     description: inside
 luhû:
     label: luhû
     description: blood
-lûok:
-    label: lûok
-    description: spirit/ghost
-lûîcû:
-    label: lûîcû
-    description: deer/giraffe/pronghorn
+lufono:
+    label: lufono
+    description: to ship/send (a package)
 lunsol:
     label: lunsol
     description: to launch (a projectile)
+lûok:
+    label: lûok
+    description: spirit/ghost
 lûko:
     label: lûko
     description: interrupted
+lûîcû:
+    label: lûîcû
+    description: deer/giraffe/pronghorn
 lûcik:
     label: lûcik
     description: slippery
+lûcku:
+    label: lûcku
+    description: lever/knob/handle
+lûntî:
+    label: lûntî
+    description: green
 yoûtî:
     label: yoûtî
     description: some/a few
 yoûmok:
     label: yoûmok
     description: humorous
-lûcku:
-    label: lûcku
-    description: lever/knob/handle
-yosten:
-    label: yosten
-    description: to find (a discovery)
-yogô:
-    label: yogô
-    description: part/piece
 yokûntîk:
     label: yokûntîk
     description: prize
-lûntî:
-    label: lûntî
-    description: green
-yodo:
-    label: yodo
-    description: or
+yogô:
+    label: yogô
+    description: part/piece
 yoskînyo:
     label: yoskînyo
     description: cave
+yosten:
+    label: yosten
+    description: to find (a discovery)
 yobê:
     label: yobê
     description: artificial
-yonlûs:
-    label: yonlûs
-    description: wrong
-yoldûn:
-    label: yoldûn
-    description: help/aid
 yofûk:
     label: yofûk
     description: pillow
+yodo:
+    label: yodo
+    description: or
+yonlûs:
+    label: yonlûs
+    description: wrong
 yôûxîn:
     label: yôûxîn
     description: parade/procession
-yôk:
-    label: yôk
-    description: negatitive particle
-yôn:
-    label: yôn
-    description: to use (a tool)
-yôcno:
-    label: yôcno
-    description: program/plan
-yinsûk:
-    label: yinsûk
-    description: serious
+yoldûn:
+    label: yoldûn
+    description: help/aid
 yôûlî:
     label: yôûlî
     description: beneficial
-yinyûncî:
-    label: yinyûncî
-    description: modifier (adjective)
+yôk:
+    label: yôk
+    description: negatitive particle
+yôcno:
+    label: yôcno
+    description: program/plan
+yôn:
+    label: yôn
+    description: to use (a tool)
+yônê:
+    label: yônê
+    description: caprine
 yê:
     label: yê
     description: genitive marker (of)
+yinsûk:
+    label: yinsûk
+    description: serious
+yinyûncî:
+    label: yinyûncî
+    description: modifier (adjective)
 yumon:
     label: yumon
     description: brutal
 yundôû:
     label: yundôû
     description: to guide (the guided)
-yûkwoî:
-    label: yûkwoî
-    description: monster
 yûnlôn:
     label: yûnlôn
     description: to forgive (the forgiven)
-yônê:
-    label: yônê
-    description: caprine
+yûkwoî:
+    label: yûkwoî
+    description: monster
