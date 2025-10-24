@@ -88,6 +88,11 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://hisyeo.github.io/mocko/',
+            label: 'yôn Mocko',
+            position: 'right',
+          },
+          {
             href: 'https://www.appsheet.com/start/b51571b2-bba5-4b6e-9055-207a8d59ad4e',
             label: 'Dictionary',
             position: 'right',
@@ -114,7 +119,7 @@ const config = {
                 href: 'https://deckademy.com/#/deck/view/1007/Hisy%C3%AB%C3%B6',
               },
               {
-                label: 'Kennings',
+                label: 'Kennings (Archived)',
                 href: 'https://hisyeo-kennings.glitch.me',
               },
             ],
