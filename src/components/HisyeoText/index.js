@@ -5,6 +5,7 @@ import reactStringReplace from 'react-string-replace'
 import words from '@site/static/words.json'
 import abugida from './abugida';
 import syllabary from './syllabary';
+import useTabQueryString from '../../utilities/tab-query-string';
 
 const lc = 'oôeêiîuûhkgtcsxdzbfmnlwy'
 const uc = 'OÔEÊIÎUÛHKGTCSXDZBFMNLWY'
@@ -28,6 +29,19 @@ const re = new RegExp(`((?:[${Object.keys(punc).join('')}])|(?:[${lc}]+|[${uc}][
  * @returns {import('react').ReactElement}
  */
 export default function HisyeoText({ kind, children: ch }) {
+  if (!kind?.length) {
+      const [queryString, _] = useTabQueryString({
+        queryString: true,
+        groupId: "bobôun-kon-cukto",
+      })
+      console.log(queryString);
+      switch (queryString) {
+        case 'obûgîdo': kind = 'abugida'; break;
+        case 'ostok-ûlonfû': kind = 'syllabary'; break;
+        default: kind = queryString
+      }
+
+  }
   let word = undefined; return (
     <p>{
       reactStringReplace(ch, re, (match, i) => {
