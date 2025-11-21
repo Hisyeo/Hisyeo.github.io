@@ -38,7 +38,7 @@ export default function HisyeoText({ kind, children: ch }) {
       switch (queryString) {
         case 'obûgîdo': kind = 'abugida'; break;
         case 'ostok-ûlonfû': kind = 'syllabary'; break;
-        default: kind = queryString
+        default: kind = queryString ?? 'latin'
       }
 
   }
