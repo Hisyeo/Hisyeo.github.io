@@ -15,6 +15,7 @@ const punc = {
   '\\:': {latin: ':', abugida: '–', syllabary: ':'},
   '\\;': {latin: ';', abugida: 'ʭ', syllabary: ';'},
   '\\.': {latin: '.', abugida: ':', syllabary: '.'},
+  '\\¿': {latin: '¿', abugida: '',  syllabary: '' },
   '\\?': {latin: '?', abugida: '≈', syllabary: '?'},
   '\\«': {latin: '«', abugida: "\uFF62", syllabary: '《'},
   '\\»': {latin: '»', abugida: "\uFF63", syllabary: '》'},
