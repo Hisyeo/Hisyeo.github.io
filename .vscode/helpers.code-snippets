@@ -9,4 +9,9 @@
         ],
         "description": "Each line of the selected text is placed inside of an emphasis element inside of a paragraph."
         },
+    "Insert HisyeoWord with selected text as the word": {
+        "scope": "markdown,mdx,fountain",
+        "prefix": "hword",
+        "body": "<HisyeoWord is='${TM_SELECTED_TEXT}'/>"
+    }
 }
