@@ -184,12 +184,12 @@ import MastodonPostSvg from '../../static/img/mastodon.svg'
 
 <!-- TODO: Update with the new mastodon URL -->
 <blockquote className="mastodon-embed"
-            data-embed-url="https://conlang.network/@hisyeo/statuses/01K5QGKJ39KVJJ95160AJP7HEC/embed"
+            data-embed-url="https://mastodon.social/@hisyeo/115799403730898203/embed"
             style={{
                 background: "#FCF8FF",
                 borderRadius: "8px", border: "1px solid #C9C4DA", margin: "auto",
                 maxWidth: "540px", minWidth: "270px", overflow: "hidden", padding: 0}}>
-    <a href="https://conlang.network/@hisyeo/statuses/01K5QGKJ39KVJJ95160AJP7HEC"
+    <a href="https://mastodon.social/@hisyeo/115799403730898203"
        target="_blank"
        style={{
             alignItems: "center",
@@ -200,7 +200,7 @@ import MastodonPostSvg from '../../static/img/mastodon.svg'
             fontSize: "14px",
             justifyContent: "center", letterSpacing: "0.25px", lineHeight: "20px", padding: "24px", textDecoration: "none"}}>
         <MastodonPostSvg />
-        <div style={{color: "#787588", marginTop: "16px"}}>@hisyeo@conlang.network</div>
+        <div style={{color: "#787588", marginTop: "16px"}}>Post by @hisyeo@mastodon.social</div>
         <div style={{fontWeight: 500}}>Have any comments? Let us know here!</div>
     </a>
 </blockquote>
