@@ -8,10 +8,16 @@
             "</HisyeoTabs>",
         ],
         "description": "Each line of the selected text is placed inside of an emphasis element inside of a paragraph."
-        },
+    },
     "Insert HisyeoWord with selected text as the word": {
         "scope": "markdown,mdx,fountain",
         "prefix": "hword",
         "body": "<HisyeoWord is='${TM_SELECTED_TEXT}'/>"
+    },
+    "Insert simple url to word for blog entries": {
+        "scope": "markdown,mdx",
+        "prefix": "bword",
+        "body": "[${TM_SELECTED_TEXT}](/docs/words/${TM_SELECTED_TEXT/^(.).+$/$1\\/$0/})",
+        "description": "For blog posts, since HisyeoWord isn't possible, just create a simple link URL to the word entry."
     }
 }
