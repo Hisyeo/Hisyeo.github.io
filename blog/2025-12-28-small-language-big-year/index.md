@@ -5,7 +5,7 @@ authors: [gofuliel]
 tags: [hîskûnco]
 ---
 
-fun dûî yê ûsên li sî gô sûn fos hobîyô sî dêtoî yê môtowo nêôs. hoî ôfo li zûnlo cênbô yê dônûxin. kûu cînlî fûnlôk ze.
+fun dûî yê ûsên li sî gô sûn fos hobîyô sî dêtoî yê môtowo nêôs, ûn û êto kon dî yôûlî li fos kôs sî. hoî ôfo li zûnlo cênbô yê dônûxin. kûu cînlî fûnlôk ze.
 
 ---
 
