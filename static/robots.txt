@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+Sitemap: https://hisyeo.github.io/sitemap.xml
