@@ -51,6 +51,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
