@@ -29,6 +29,7 @@ const config = {
         '/hyo/docs/Glossary',
       ],
     }],
+    'docusaurus-plugin-llms',
     'docusaurus-plugin-goatcounter',
     './src/plugins/error_ignorer',
   ],
