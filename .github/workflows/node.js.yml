@@ -41,8 +41,6 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v4
-    - run: npm run docusaurus parse
-    - run: npm run docusaurus glossary
     - run: npm run build
     - name: Upload artifact
       # Automatically uploads an artifact from the './_site' directory by default
