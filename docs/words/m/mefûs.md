@@ -9,7 +9,7 @@ description: safe § Adjective
 
 ### mefûs&emsp;<span kind="abugida">ƶɿɤ́ʄ</span>
 
-*safe* **§** [Adjective](../../tags/Adjective)
+*safe* **§** Adjective
 
 **IPA**: /ˈmɛ.fus/
 

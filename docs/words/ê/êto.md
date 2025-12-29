@@ -9,7 +9,7 @@ description: many § Determiner
 
 ### êto&emsp;<span kind="abugida">ɽʇc</span>
 
-*many* **§** [Determiner](../../tags/Determiner)
+*many* **§** Determiner
 
 **IPA**: /ˈe.tɑ/
 

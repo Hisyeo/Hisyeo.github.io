@@ -9,7 +9,7 @@ description: bone § Noun
 
 ### ôstî&emsp;<span kind="abugida">ɽ́ıcɟ</span>
 
-*bone* **§** [Noun](../../tags/Noun)
+*bone* **§** Noun
 
 **IPA**: /ˈos.ti/
 

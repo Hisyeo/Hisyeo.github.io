@@ -9,7 +9,7 @@ description: logical § Adjective
 
 ### montûksol&emsp;<span kind="abugida">ƶ̃c̑ʄɐ͊</span>
 
-*logical* **§** [Adjective](../../tags/Adjective)
+*logical* **§** Adjective
 
 **IPA**: /ˈmɑn.tuk.sɑl/
 

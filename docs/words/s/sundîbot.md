@@ -9,7 +9,7 @@ description: arthropod § Noun
 
 ### sundîbot&emsp;<span kind="abugida">ɐ̃ʃʌɟʋ̆</span>
 
-*arthropod* **§** [Noun](../../tags/Noun)
+*arthropod* **§** Noun
 
 **IPA**: /sʌn.ˈdi.bɑt/
 

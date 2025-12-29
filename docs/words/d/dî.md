@@ -9,7 +9,7 @@ description: to become (a trait) § Verb
 
 ### dî&emsp;<span kind="abugida">ʌɟ</span>
 
-*to become (a trait)* **§** [Verb](../../tags/Verb)
+*to become (a trait)* **§** Verb
 
 **IPA**: /ˈdi/
 

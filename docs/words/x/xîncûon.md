@@ -9,7 +9,7 @@ description: shape/form § Noun
 
 ### xîncûon&emsp;<span kind="abugida">ɋ̃ɟꞇʄɽ̃</span>
 
-*shape/form* **§** [Noun](../../tags/Noun)
+*shape/form* **§** Noun
 
 **IPA**: /ˈʃin.t͡ɕu.ɑn/
 

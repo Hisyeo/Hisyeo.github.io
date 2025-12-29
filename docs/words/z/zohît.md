@@ -9,7 +9,7 @@ description: to sew (the sewn) § Verb
 
 ### zohît&emsp;<span kind="abugida">ⱴɂ̆ɟ</span>
 
-*to sew (the sewn)* **§** [Verb](../../tags/Verb)
+*to sew (the sewn)* **§** Verb
 
 **IPA**: /ˈd͡ʒɑ.hit/
 

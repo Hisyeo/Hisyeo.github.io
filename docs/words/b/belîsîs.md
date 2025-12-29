@@ -9,7 +9,7 @@ description: unsure § Adjective
 
 ### belîsîs&emsp;<span kind="abugida">ʋɿʓɟɐ́ɟ</span>
 
-*unsure* **§** [Adjective](../../tags/Adjective)
+*unsure* **§** Adjective
 
 **IPA**: /bɛ.ˈli.sis/
 

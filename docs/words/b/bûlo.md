@@ -9,7 +9,7 @@ description: brown § Adjective
 
 ### bûlo&emsp;<span kind="abugida">ʋʄʓ</span>
 
-*brown* **§** [Adjective](../../tags/Adjective)
+*brown* **§** Adjective
 
 **IPA**: /ˈbu.lɑ/
 

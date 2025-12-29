@@ -9,7 +9,7 @@ description: oscillating § Adjective
 
 ### hîtnôdêt&emsp;<span kind="abugida">ɂ̆ɟƨıʌ̆ʇ</span>
 
-*oscillating* **§** [Adjective](../../tags/Adjective)
+*oscillating* **§** Adjective
 
 **IPA**: /ˈhit.no.det/
 

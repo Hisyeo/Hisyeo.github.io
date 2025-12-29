@@ -9,7 +9,7 @@ description: functional § Adjective
 
 ### kînôxî&emsp;<span kind="abugida">ɔɟƨıɋɟ</span>
 
-*functional* **§** [Adjective](../../tags/Adjective)
+*functional* **§** Adjective
 
 **IPA**: /ˈki.no.ʃi/
 

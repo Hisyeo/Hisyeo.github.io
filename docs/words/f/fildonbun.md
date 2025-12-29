@@ -9,7 +9,7 @@ description: evaporated/vaporized § Adjective
 
 ### fildonbun&emsp;<span kind="abugida">ɤ͊ȷʌ̃ʋ̃ʃ</span>
 
-*evaporated/vaporized* **§** [Adjective](../../tags/Adjective)
+*evaporated/vaporized* **§** Adjective
 
 **IPA**: /fɪl.ˈdɑn.bʌn/
 

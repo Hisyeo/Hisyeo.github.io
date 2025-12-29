@@ -9,7 +9,7 @@ description: causative agentive verb noun particle § Particle
 
 ### foko&emsp;<span kind="abugida">ɤɔ</span>
 
-*causative agentive verb noun particle* **§** [Particle](../../tags/Particle)
+*causative agentive verb noun particle* **§** Particle
 
 **IPA**: /ˈfɑ.kɑ/
 

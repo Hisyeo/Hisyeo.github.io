@@ -9,7 +9,7 @@ description: cheek § Noun
 
 ### elekê&emsp;<span kind="abugida">ɽɿʓɿɔʇ</span>
 
-*cheek* **§** [Noun](../../tags/Noun)
+*cheek* **§** Noun
 
 **IPA**: /ˈɛ.lɛ.ke/
 

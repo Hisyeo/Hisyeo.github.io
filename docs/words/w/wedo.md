@@ -9,7 +9,7 @@ description: to exchange/trade (the exchanged/traded) § Verb
 
 ### wedo&emsp;<span kind="abugida">ʒɿʌ</span>
 
-*to exchange/trade (the exchanged/traded)* **§** [Verb](../../tags/Verb)
+*to exchange/trade (the exchanged/traded)* **§** Verb
 
 **IPA**: /ˈwɛ.dɑ/
 

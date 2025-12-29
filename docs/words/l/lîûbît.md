@@ -9,7 +9,7 @@ description: to love (the loved) § Verb
 
 ### lîûbît&emsp;<span kind="abugida">ʓɟɽʄʋ̆ɟ</span>
 
-*to love (the loved)* **§** [Verb](../../tags/Verb)
+*to love (the loved)* **§** Verb
 
 **IPA**: /ˈli.u.bit/
 

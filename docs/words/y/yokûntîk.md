@@ -9,7 +9,7 @@ description: prize § Noun
 
 ### yokûntîk&emsp;<span kind="abugida">ɀɔ̃ʄc̑ɟ</span>
 
-*prize* **§** [Noun](../../tags/Noun)
+*prize* **§** Noun
 
 **IPA**: /ˈjɑ.kun.tik/
 

@@ -9,7 +9,7 @@ description: official/formal § Adjective
 
 ### centik&emsp;<span kind="abugida">ꞇ̃ɿc̑ȷ</span>
 
-*official/formal* **§** [Adjective](../../tags/Adjective)
+*official/formal* **§** Adjective
 
 **IPA**: /ˈt͡ɕɛn.tɪk/
 

@@ -9,7 +9,7 @@ description: savory § Adjective
 
 ### ûmomî&emsp;<span kind="abugida">ɽʄƶƶɟ</span>
 
-*savory* **§** [Adjective](../../tags/Adjective)
+*savory* **§** Adjective
 
 **IPA**: /ˈu.mɑ.mi/
 

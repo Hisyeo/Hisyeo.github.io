@@ -9,7 +9,7 @@ description: fire § Noun
 
 ### môtô&emsp;<span kind="abugida">ƶıcı</span>
 
-*fire* **§** [Noun](../../tags/Noun)
+*fire* **§** Noun
 
 **IPA**: /ˈmo.to/
 

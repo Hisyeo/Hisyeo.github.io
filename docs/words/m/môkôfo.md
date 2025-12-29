@@ -9,7 +9,7 @@ description: tube § Noun
 
 ### môkôfo&emsp;<span kind="abugida">ƶıɔıɤ</span>
 
-*tube* **§** [Noun](../../tags/Noun)
+*tube* **§** Noun
 
 **IPA**: /ˈmo.ko.fɑ/
 

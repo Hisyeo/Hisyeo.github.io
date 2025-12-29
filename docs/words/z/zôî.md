@@ -9,7 +9,7 @@ description: blue § Adjective
 
 ### zôî&emsp;<span kind="abugida">ⱴıɽɟ</span>
 
-*blue* **§** [Adjective](../../tags/Adjective)
+*blue* **§** Adjective
 
 **IPA**: /ˈd͡ʒo.i/
 

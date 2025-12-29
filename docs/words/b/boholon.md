@@ -9,7 +9,7 @@ description: closet/cupboard/cabinet § Noun
 
 ### boholon&emsp;<span kind="abugida">ʋɂʓ̃</span>
 
-*closet/cupboard/cabinet* **§** [Noun](../../tags/Noun)
+*closet/cupboard/cabinet* **§** Noun
 
 **IPA**: /ˈbɑ.hɑ.lɑn/
 

@@ -9,7 +9,7 @@ description: society/culture § Noun
 
 ### zomî&emsp;<span kind="abugida">ⱴƶɟ</span>
 
-*society/culture* **§** [Noun](../../tags/Noun)
+*society/culture* **§** Noun
 
 **IPA**: /ˈd͡ʒɑ.mi/
 

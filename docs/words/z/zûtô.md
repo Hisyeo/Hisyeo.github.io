@@ -9,7 +9,7 @@ description: to regret (a regret) § Verb
 
 ### zûtô&emsp;<span kind="abugida">ⱴʄcı</span>
 
-*to regret (a regret)* **§** [Verb](../../tags/Verb)
+*to regret (a regret)* **§** Verb
 
 **IPA**: /ˈd͡ʒu.to/
 

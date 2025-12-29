@@ -9,7 +9,7 @@ description: to inherit (inheritance) § Verb
 
 ### îcwon&emsp;<span kind="abugida">ɽ̄ɟʒ̃</span>
 
-*to inherit (inheritance)* **§** [Verb](../../tags/Verb)
+*to inherit (inheritance)* **§** Verb
 
 **IPA**: /ˈit͡ɕ.wɑn/
 

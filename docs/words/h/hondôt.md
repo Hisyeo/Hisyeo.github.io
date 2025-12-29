@@ -9,7 +9,7 @@ description: jealous § Adjective
 
 ### hondôt&emsp;<span kind="abugida">ɂ̃ʌ̆ı</span>
 
-*jealous* **§** [Adjective](../../tags/Adjective)
+*jealous* **§** Adjective
 
 **IPA**: /ˈhɑn.dot/
 

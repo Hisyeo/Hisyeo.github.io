@@ -9,7 +9,7 @@ description: building § Noun
 
 ### îlê&emsp;<span kind="abugida">ɽɟʓʇ</span>
 
-*building* **§** [Noun](../../tags/Noun)
+*building* **§** Noun
 
 **IPA**: /ˈi.le/
 

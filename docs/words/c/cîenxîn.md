@@ -9,7 +9,7 @@ description: alkaline § Adjective
 
 ### cîenxîn&emsp;<span kind="abugida">ꞇɟɽ̃ɿɋ̃ɟ</span>
 
-*alkaline* **§** [Adjective](../../tags/Adjective)
+*alkaline* **§** Adjective
 
 **IPA**: /ˈt͡ɕi.ɛn.ʃin/
 

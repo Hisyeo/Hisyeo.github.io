@@ -9,7 +9,7 @@ description: cough § Noun
 
 ### hûstun&emsp;<span kind="abugida">ɂ́ʄc̃ʃ</span>
 
-*cough* **§** [Noun](../../tags/Noun)
+*cough* **§** Noun
 
 **IPA**: /ˈhus.tʌn/
 

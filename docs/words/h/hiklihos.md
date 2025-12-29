@@ -9,7 +9,7 @@ description: supernatural/miraculous § Adjective
 
 ### hiklihos&emsp;<span kind="abugida">ɂ̑ȷʓȷɂ́</span>
 
-*supernatural/miraculous* **§** [Adjective](../../tags/Adjective)
+*supernatural/miraculous* **§** Adjective
 
 **IPA**: /ˈhɪk.lɪ.hɑs/
 

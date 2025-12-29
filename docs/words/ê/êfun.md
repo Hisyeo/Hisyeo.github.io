@@ -9,7 +9,7 @@ description: momentary (minute) § Adjective
 
 ### êfun&emsp;<span kind="abugida">ɽʇɤ̃ʃ</span>
 
-*momentary (minute)* **§** [Adjective](../../tags/Adjective)
+*momentary (minute)* **§** Adjective
 
 **IPA**: /ˈe.fʌn/
 

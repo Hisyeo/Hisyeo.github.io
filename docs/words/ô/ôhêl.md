@@ -9,7 +9,7 @@ description: past § Noun
 
 ### ôhêl&emsp;<span kind="abugida">ɽıɂ͊ʇ</span>
 
-*past* **§** [Noun](../../tags/Noun)
+*past* **§** Noun
 
 **IPA**: /ˈo.hel/
 

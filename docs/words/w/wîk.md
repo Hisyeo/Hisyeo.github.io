@@ -9,7 +9,7 @@ description: head § Noun
 
 ### wîk&emsp;<span kind="abugida">ʒ̑ɟ</span>
 
-*head* **§** [Noun](../../tags/Noun)
+*head* **§** Noun
 
 **IPA**: /ˈwik/
 

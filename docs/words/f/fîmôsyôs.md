@@ -9,7 +9,7 @@ description: public/communal § Adjective
 
 ### fîmôsyôs&emsp;<span kind="abugida">ɤɟƶ́ıɀ́ı</span>
 
-*public/communal* **§** [Adjective](../../tags/Adjective)
+*public/communal* **§** Adjective
 
 **IPA**: /ˈfi.mos.jos/
 

@@ -9,7 +9,7 @@ description: nonbinary/queer § Adjective
 
 ### bîsû&emsp;<span kind="abugida">ʋɟɐʄ</span>
 
-*nonbinary/queer* **§** [Adjective](../../tags/Adjective)
+*nonbinary/queer* **§** Adjective
 
 **IPA**: /ˈbi.su/
 

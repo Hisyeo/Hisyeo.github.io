@@ -9,7 +9,7 @@ description: 12 twelve § Numeral
 
 ### bole&emsp;<span kind="abugida">ʋʓɿ</span>
 
-*12 twelve* **§** [Numeral](../../tags/Numeral)
+*12 twelve* **§** Numeral
 
 **IPA**: /ˈbɑ.lɛ/
 

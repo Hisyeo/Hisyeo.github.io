@@ -9,7 +9,7 @@ description: sticky § Adjective
 
 ### bilît&emsp;<span kind="abugida">ʋȷʓ̆ɟ</span>
 
-*sticky* **§** [Adjective](../../tags/Adjective)
+*sticky* **§** Adjective
 
 **IPA**: /ˈbɪ.lit/
 

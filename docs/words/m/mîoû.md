@@ -9,7 +9,7 @@ description: instantaneous (second) § Adjective
 
 ### mîoû&emsp;<span kind="abugida">ƶɟɽɽʄ</span>
 
-*instantaneous (second)* **§** [Adjective](../../tags/Adjective)
+*instantaneous (second)* **§** Adjective
 
 **IPA**: /ˈmi.ɑ.u/
 

@@ -9,7 +9,7 @@ description: empty/incomplete § Adjective
 
 ### lîtô&emsp;<span kind="abugida">ʓɟcı</span>
 
-*empty/incomplete* **§** [Adjective](../../tags/Adjective)
+*empty/incomplete* **§** Adjective
 
 **IPA**: /ˈli.to/
 

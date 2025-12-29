@@ -9,7 +9,7 @@ description: to draw (a picture) § Verb
 
 ### toswîl&emsp;<span kind="abugida">ćʒ͊ɟ</span>
 
-*to draw (a picture)* **§** [Verb](../../tags/Verb)
+*to draw (a picture)* **§** Verb
 
 **IPA**: /ˈtɑs.wil/
 

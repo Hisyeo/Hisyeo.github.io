@@ -9,7 +9,7 @@ description: biome § Noun
 
 ### bîômu&emsp;<span kind="abugida">ʋɟɽıƶʃ</span>
 
-*biome* **§** [Noun](../../tags/Noun)
+*biome* **§** Noun
 
 **IPA**: /ˈbi.o.mʌ/
 

@@ -9,7 +9,7 @@ description: green § Adjective
 
 ### lûntî&emsp;<span kind="abugida">ʓ̃ʄcɟ</span>
 
-*green* **§** [Adjective](../../tags/Adjective)
+*green* **§** Adjective
 
 **IPA**: /ˈlun.ti/
 

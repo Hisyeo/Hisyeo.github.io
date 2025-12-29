@@ -9,7 +9,7 @@ description: more § Determiner
 
 ### eswen&emsp;<span kind="abugida">ɽ́ɿʒ̃ɿ</span>
 
-*more* **§** [Determiner](../../tags/Determiner)
+*more* **§** Determiner
 
 **IPA**: /ˈɛs.wɛn/
 

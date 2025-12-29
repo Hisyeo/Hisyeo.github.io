@@ -9,7 +9,7 @@ description: slippery § Adjective
 
 ### lûcik&emsp;<span kind="abugida">ʓʄꞇ̑ȷ</span>
 
-*slippery* **§** [Adjective](../../tags/Adjective)
+*slippery* **§** Adjective
 
 **IPA**: /ˈlu.t͡ɕɪk/
 

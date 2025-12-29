@@ -9,7 +9,7 @@ description: similative marker (like) § Preposition
 
 ### misli&emsp;<span kind="abugida">ƶ́ȷʓȷ</span>
 
-*similative marker (like)* **§** [Preposition](../../tags/Preposition)
+*similative marker (like)* **§** Preposition
 
 **IPA**: /ˈmɪs.lɪ/
 

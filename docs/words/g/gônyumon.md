@@ -9,7 +9,7 @@ description: grunting/growling § Adjective
 
 ### gônyumon&emsp;<span kind="abugida">ꜿ̃ıɀʃƶ̃</span>
 
-*grunting/growling* **§** [Adjective](../../tags/Adjective)
+*grunting/growling* **§** Adjective
 
 **IPA**: /ˈgon.jʌ.mɑn/
 

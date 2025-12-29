@@ -9,7 +9,7 @@ description: fermented/soured § Adjective
 
 ### cûbû&emsp;<span kind="abugida">ꞇʄʋʄ</span>
 
-*fermented/soured* **§** [Adjective](../../tags/Adjective)
+*fermented/soured* **§** Adjective
 
 **IPA**: /ˈt͡ɕu.bu/
 

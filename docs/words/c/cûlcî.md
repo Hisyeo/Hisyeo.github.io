@@ -9,7 +9,7 @@ description: trick/scam § Noun
 
 ### cûlcî&emsp;<span kind="abugida">ꞇ͊ʄꞇɟ</span>
 
-*trick/scam* **§** [Noun](../../tags/Noun)
+*trick/scam* **§** Noun
 
 **IPA**: /ˈt͡ɕul.t͡ɕi/
 

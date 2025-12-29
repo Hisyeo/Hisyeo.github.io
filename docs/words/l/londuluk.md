@@ -9,7 +9,7 @@ description: rural § Adjective
 
 ### londuluk&emsp;<span kind="abugida">ʓ̃ʌʃʓ̑ʃ</span>
 
-*rural* **§** [Adjective](../../tags/Adjective)
+*rural* **§** Adjective
 
 **IPA**: /ˈlɑn.dʌ.lʌk/
 

@@ -9,7 +9,7 @@ description: reptile § Noun
 
 ### bûlûsî&emsp;<span kind="abugida">ʋʄʓʄɐɟ</span>
 
-*reptile* **§** [Noun](../../tags/Noun)
+*reptile* **§** Noun
 
 **IPA**: /ˈbu.lu.si/
 

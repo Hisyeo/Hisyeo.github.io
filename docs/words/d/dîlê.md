@@ -9,7 +9,7 @@ description: slow § Adjective
 
 ### dîlê&emsp;<span kind="abugida">ʌɟʓʇ</span>
 
-*slow* **§** [Adjective](../../tags/Adjective)
+*slow* **§** Adjective
 
 **IPA**: /ˈdi.le/
 

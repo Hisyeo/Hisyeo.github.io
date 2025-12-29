@@ -9,7 +9,7 @@ description: ethnic § Adjective
 
 ### nêxôdî&emsp;<span kind="abugida">ƨʇɋıʌɟ</span>
 
-*ethnic* **§** [Adjective](../../tags/Adjective)
+*ethnic* **§** Adjective
 
 **IPA**: /ˈne.ʃo.di/
 

@@ -9,7 +9,7 @@ description: 11 eleven § Numeral
 
 ### ônsu&emsp;<span kind="abugida">ɽ̃ıɐʃ</span>
 
-*11 eleven* **§** [Numeral](../../tags/Numeral)
+*11 eleven* **§** Numeral
 
 **IPA**: /ˈon.sʌ/
 

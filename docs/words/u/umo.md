@@ -9,7 +9,7 @@ description: person § Noun
 
 ### umo&emsp;<span kind="abugida">ɽʃƶ</span>
 
-*person* **§** [Noun](../../tags/Noun)
+*person* **§** Noun
 
 **IPA**: /ˈʌ.mɑ/
 

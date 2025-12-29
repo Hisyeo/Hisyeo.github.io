@@ -9,7 +9,7 @@ description: to mine (ore) § Verb
 
 ### hûkê&emsp;<span kind="abugida">ɂʄɔʇ</span>
 
-*to mine (ore)* **§** [Verb](../../tags/Verb)
+*to mine (ore)* **§** Verb
 
 **IPA**: /ˈhu.ke/
 

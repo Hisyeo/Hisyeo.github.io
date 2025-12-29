@@ -9,7 +9,7 @@ description: returning § Adjective
 
 ### dukwêlit&emsp;<span kind="abugida">ʌ̑ʃʒʇʓ̆ȷ</span>
 
-*returning* **§** [Adjective](../../tags/Adjective)
+*returning* **§** Adjective
 
 **IPA**: /dʌk.ˈwe.lɪt/
 

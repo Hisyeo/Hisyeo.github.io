@@ -9,7 +9,7 @@ description: bacteria/microbe § Noun
 
 ### fikwun&emsp;<span kind="abugida">ɤ̑ȷʒ̃ʃ</span>
 
-*bacteria/microbe* **§** [Noun](../../tags/Noun)
+*bacteria/microbe* **§** Noun
 
 **IPA**: /ˈfɪk.wʌn/
 

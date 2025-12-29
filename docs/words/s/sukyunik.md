@@ -9,7 +9,7 @@ description: mucus § Noun
 
 ### sukyunik&emsp;<span kind="abugida">ɐ̑ʃɀʃƨ̑ȷ</span>
 
-*mucus* **§** [Noun](../../tags/Noun)
+*mucus* **§** Noun
 
 **IPA**: /ˈsʌk.jʌ.nɪk/
 

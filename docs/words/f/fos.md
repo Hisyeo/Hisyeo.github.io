@@ -9,7 +9,7 @@ description: free subordinate clause particle § Particle
 
 ### fos&emsp;<span kind="abugida">ɤ́</span>
 
-*free subordinate clause particle* **§** [Particle](../../tags/Particle)
+*free subordinate clause particle* **§** Particle
 
 **IPA**: /ˈfɑs/
 

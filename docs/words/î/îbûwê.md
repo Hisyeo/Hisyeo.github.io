@@ -9,7 +9,7 @@ description: stone § Noun
 
 ### îbûwê&emsp;<span kind="abugida">ɽɟʋʄʒʇ</span>
 
-*stone* **§** [Noun](../../tags/Noun)
+*stone* **§** Noun
 
 **IPA**: /ˈi.bu.we/
 

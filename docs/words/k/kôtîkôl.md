@@ -9,7 +9,7 @@ description: hindering/detrimental § Adjective
 
 ### kôtîkôl&emsp;<span kind="abugida">ɔıcɟɔ͊ı</span>
 
-*hindering/detrimental* **§** [Adjective](../../tags/Adjective)
+*hindering/detrimental* **§** Adjective
 
 **IPA**: /ˈko.ti.kol/
 

@@ -9,7 +9,7 @@ description: joy/delight § Noun
 
 ### fûnlôk&emsp;<span kind="abugida">ɤ̃ʄʓ̑ı</span>
 
-*joy/delight* **§** [Noun](../../tags/Noun)
+*joy/delight* **§** Noun
 
 **IPA**: /ˈfun.lok/
 

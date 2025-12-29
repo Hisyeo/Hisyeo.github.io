@@ -9,7 +9,7 @@ description: important/great § Adjective
 
 ### sonkon&emsp;<span kind="abugida">ɐ̃ɔ̃</span>
 
-*important/great* **§** [Adjective](../../tags/Adjective)
+*important/great* **§** Adjective
 
 **IPA**: /ˈsɑn.kɑn/
 

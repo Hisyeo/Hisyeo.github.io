@@ -9,7 +9,7 @@ description: unmoving § Adjective
 
 ### bodî&emsp;<span kind="abugida">ʋʌɟ</span>
 
-*unmoving* **§** [Adjective](../../tags/Adjective)
+*unmoving* **§** Adjective
 
 **IPA**: /ˈbɑ.di/
 

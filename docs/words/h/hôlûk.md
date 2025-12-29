@@ -9,7 +9,7 @@ description: to pump (a pumpable entity) § Noun
 
 ### hôlûk&emsp;<span kind="abugida">ɂıʓ̑ʄ</span>
 
-*to pump (a pumpable entity)* **§** [Noun](../../tags/Noun)
+*to pump (a pumpable entity)* **§** Noun
 
 **IPA**: /ˈho.luk/
 

@@ -9,7 +9,7 @@ description: boundary/border § Noun
 
 ### eloi&emsp;<span kind="abugida">ɽɿʓɽȷ</span>
 
-*boundary/border* **§** [Noun](../../tags/Noun)
+*boundary/border* **§** Noun
 
 **IPA**: /ɛ.ˈlɑ.ɪ/
 

@@ -9,7 +9,7 @@ description: gender § Noun
 
 ### hênêlô&emsp;<span kind="abugida">ɂʇƨʇʓı</span>
 
-*gender* **§** [Noun](../../tags/Noun)
+*gender* **§** Noun
 
 **IPA**: /ˈhe.ne.lo/
 

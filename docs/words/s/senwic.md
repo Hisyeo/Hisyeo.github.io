@@ -9,7 +9,7 @@ description: sandwich § Noun
 
 ### senwic&emsp;<span kind="abugida">ɐ̃ɿʒ̄ȷ</span>
 
-*sandwich* **§** [Noun](../../tags/Noun)
+*sandwich* **§** Noun
 
 **IPA**: /ˈsɛn.wɪt͡ɕ/
 

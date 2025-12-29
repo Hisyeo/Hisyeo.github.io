@@ -9,7 +9,7 @@ description: participating/contributing § Adjective
 
 ### kotilmok&emsp;<span kind="abugida">ɔc͊ȷƶ̑</span>
 
-*participating/contributing* **§** [Adjective](../../tags/Adjective)
+*participating/contributing* **§** Adjective
 
 **IPA**: /ˈkɑ.tɪl.mɑk/
 

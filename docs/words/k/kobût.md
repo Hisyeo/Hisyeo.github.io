@@ -9,7 +9,7 @@ description: broken/dysfunctional § Adjective
 
 ### kobût&emsp;<span kind="abugida">ɔʋ̆ʄ</span>
 
-*broken/dysfunctional* **§** [Adjective](../../tags/Adjective)
+*broken/dysfunctional* **§** Adjective
 
 **IPA**: /ˈkɑ.but/
 

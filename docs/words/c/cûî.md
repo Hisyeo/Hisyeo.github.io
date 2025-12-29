@@ -9,7 +9,7 @@ description: rodent § Noun
 
 ### cûî&emsp;<span kind="abugida">ꞇʄɽɟ</span>
 
-*rodent* **§** [Noun](../../tags/Noun)
+*rodent* **§** Noun
 
 **IPA**: /ˈt͡ɕu.i/
 

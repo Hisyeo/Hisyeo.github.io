@@ -9,7 +9,7 @@ description: lens § Noun
 
 ### côcko&emsp;<span kind="abugida">ꞇ̄ıɔ</span>
 
-*lens* **§** [Noun](../../tags/Noun)
+*lens* **§** Noun
 
 **IPA**: /ˈt͡ɕot͡ɕ.kɑ/
 

@@ -9,7 +9,7 @@ description: opaque § Adjective
 
 ### ôbok&emsp;<span kind="abugida">ɽıʋ̑</span>
 
-*opaque* **§** [Adjective](../../tags/Adjective)
+*opaque* **§** Adjective
 
 **IPA**: /ˈo.bɑk/
 

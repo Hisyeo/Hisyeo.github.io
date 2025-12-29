@@ -9,7 +9,7 @@ description: female § Adjective
 
 ### wohî&emsp;<span kind="abugida">ʒɂɟ</span>
 
-*female* **§** [Adjective](../../tags/Adjective)
+*female* **§** Adjective
 
 **IPA**: /ˈwɑ.hi/
 

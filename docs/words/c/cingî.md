@@ -9,7 +9,7 @@ description: electricity § Noun
 
 ### cingî&emsp;<span kind="abugida">ꞇ̃ȷꜿɟ</span>
 
-*electricity* **§** [Noun](../../tags/Noun)
+*electricity* **§** Noun
 
 **IPA**: /ˈt͡ɕɪn.gi/
 

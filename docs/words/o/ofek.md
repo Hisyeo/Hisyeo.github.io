@@ -9,7 +9,7 @@ description: comitative marker (alongside/with) § Preposition
 
 ### ofek&emsp;<span kind="abugida">ɽɤ̑ɿ</span>
 
-*comitative marker (alongside/with)* **§** [Preposition](../../tags/Preposition)
+*comitative marker (alongside/with)* **§** Preposition
 
 **IPA**: /ˈɑ.fɛk/
 

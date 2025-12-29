@@ -9,7 +9,7 @@ description: virus § Noun
 
 ### wixonû&emsp;<span kind="abugida">ʒȷɋƨʄ</span>
 
-*virus* **§** [Noun](../../tags/Noun)
+*virus* **§** Noun
 
 **IPA**: /wɪ.ˈʃɑ.nu/
 

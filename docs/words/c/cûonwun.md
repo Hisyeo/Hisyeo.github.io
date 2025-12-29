@@ -9,7 +9,7 @@ description: rumor § Noun
 
 ### cûonwun&emsp;<span kind="abugida">ꞇʄɽ̃ʒ̃ʃ</span>
 
-*rumor* **§** [Noun](../../tags/Noun)
+*rumor* **§** Noun
 
 **IPA**: /ˈt͡ɕu.ɑn.wʌn/
 

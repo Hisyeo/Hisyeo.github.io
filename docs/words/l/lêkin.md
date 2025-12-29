@@ -9,7 +9,7 @@ description: but § Conjunction
 
 ### lêkin&emsp;<span kind="abugida">ʓʇɔ̃ȷ</span>
 
-*but* **§** [Conjunction](../../tags/Conjunction)
+*but* **§** Conjunction
 
 **IPA**: /ˈle.kɪn/
 

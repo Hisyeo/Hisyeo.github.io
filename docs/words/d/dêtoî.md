@@ -9,7 +9,7 @@ description: detail § Noun
 
 ### dêtoî&emsp;<span kind="abugida">ʌʇcɽɟ</span>
 
-*detail* **§** [Noun](../../tags/Noun)
+*detail* **§** Noun
 
 **IPA**: /ˈde.tɑ.i/
 

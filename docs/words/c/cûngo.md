@@ -9,7 +9,7 @@ description: to filter (the filtered) § Verb
 
 ### cûngo&emsp;<span kind="abugida">ꞇ̃ʄꜿ</span>
 
-*to filter (the filtered)* **§** [Verb](../../tags/Verb)
+*to filter (the filtered)* **§** Verb
 
 **IPA**: /ˈt͡ɕun.gɑ/
 

@@ -9,7 +9,7 @@ description: to mark (a target) § Verb
 
 ### belêxu&emsp;<span kind="abugida">ʋɿʓʇɋʃ</span>
 
-*to mark (a target)* **§** [Verb](../../tags/Verb)
+*to mark (a target)* **§** Verb
 
 **IPA**: /bɛ.ˈle.ʃʌ/
 

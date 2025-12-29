@@ -9,7 +9,7 @@ description: emphasis sentence ender (really/again) § Postposition
 
 ### lôîcôk&emsp;<span kind="abugida">ʓıɽɟꞇ̑ı</span>
 
-*emphasis sentence ender (really/again)* **§** [Postposition](../../tags/Postposition)
+*emphasis sentence ender (really/again)* **§** Postposition
 
 **IPA**: /ˈlo.i.t͡ɕok/
 

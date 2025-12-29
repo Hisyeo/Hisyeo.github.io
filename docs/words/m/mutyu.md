@@ -9,7 +9,7 @@ description: middle § Noun
 
 ### mutyu&emsp;<span kind="abugida">ƶ̆ʃɀʃ</span>
 
-*middle* **§** [Noun](../../tags/Noun)
+*middle* **§** Noun
 
 **IPA**: /ˈmʌt.jʌ/
 

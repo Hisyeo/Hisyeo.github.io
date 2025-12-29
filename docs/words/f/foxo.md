@@ -9,7 +9,7 @@ description: mirative sentence ender (wow!) § Postposition
 
 ### foxo&emsp;<span kind="abugida">ɤɋ</span>
 
-*mirative sentence ender (wow!)* **§** [Postposition](../../tags/Postposition)
+*mirative sentence ender (wow!)* **§** Postposition
 
 **IPA**: /ˈfɑ.ʃɑ/
 

@@ -9,7 +9,7 @@ description: to drink (a drink) § Verb
 
 ### îskô&emsp;<span kind="abugida">ɽ́ɟɔı</span>
 
-*to drink (a drink)* **§** [Verb](../../tags/Verb)
+*to drink (a drink)* **§** Verb
 
 **IPA**: /ˈis.ko/
 

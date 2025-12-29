@@ -9,7 +9,7 @@ description: deontic verb particle § Particle
 
 ### kûu&emsp;<span kind="abugida">ɔʄɽʃ</span>
 
-*deontic verb particle* **§** [Particle](../../tags/Particle)
+*deontic verb particle* **§** Particle
 
 **IPA**: /ˈku.ʌ/
 

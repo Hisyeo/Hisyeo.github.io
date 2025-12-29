@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import { themes } from 'prism-react-renderer';
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,9 +15,12 @@ const config = {
   organizationName: 'Hisyeo',
   projectName: 'Hisyeo.github.io',
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'log'
+    }
+  },
   onBrokenLinks: 'log',
-  onBrokenMarkdownLinks: 'warn',
-
 
   plugins: [
     [ require.resolve('docusaurus-lunr-search'), {
@@ -24,12 +28,6 @@ const config = {
       excludeRoutes: [
         '/hyo/docs/Glossary',
       ],
-    }],
-    ['@lunaticmuch/docusaurus-terminology', {
-      patternSeparator: '@',
-      termsDir: './docs/words/',
-      termsUrl: "/docs/words",
-      glossaryFilepath: './docs/Glossary.md',
     }],
     'docusaurus-plugin-goatcounter',
     './src/plugins/error_ignorer',
@@ -49,6 +47,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          onInlineTags: 'ignore'
         },
         blog: {
           showReadingTime: true,
@@ -171,4 +170,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+export default config;

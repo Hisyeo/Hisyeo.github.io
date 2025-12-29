@@ -9,7 +9,7 @@ description: nervous/anxious § Adjective
 
 ### cînzon&emsp;<span kind="abugida">ꞇ̃ɟⱴ̃</span>
 
-*nervous/anxious* **§** [Adjective](../../tags/Adjective)
+*nervous/anxious* **§** Adjective
 
 **IPA**: /ˈt͡ɕin.d͡ʒɑn/
 

@@ -9,7 +9,7 @@ description: group § Noun
 
 ### zomo&emsp;<span kind="abugida">ⱴƶ</span>
 
-*group* **§** [Noun](../../tags/Noun)
+*group* **§** Noun
 
 **IPA**: /ˈd͡ʒɑ.mɑ/
 

@@ -9,7 +9,7 @@ description: 01 one § Numeral
 
 ### kut&emsp;<span kind="abugida">ɔ̆ʃ</span>
 
-*01 one* **§** [Numeral](../../tags/Numeral)
+*01 one* **§** Numeral
 
 **IPA**: /ˈkʌt/
 

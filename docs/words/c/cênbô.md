@@ -9,7 +9,7 @@ description: big § Adjective
 
 ### cênbô&emsp;<span kind="abugida">ꞇ̃ʇʋı</span>
 
-*big* **§** [Adjective](../../tags/Adjective)
+*big* **§** Adjective
 
 **IPA**: /ˈt͡ɕen.bo/
 

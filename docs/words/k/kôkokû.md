@@ -9,7 +9,7 @@ description: skeleton § Noun
 
 ### kôkokû&emsp;<span kind="abugida">ɔıɔɔʄ</span>
 
-*skeleton* **§** [Noun](../../tags/Noun)
+*skeleton* **§** Noun
 
 **IPA**: /ˈko.kɑ.ku/
 

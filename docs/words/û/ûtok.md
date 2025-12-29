@@ -9,7 +9,7 @@ description: also § Adjective
 
 ### ûtok&emsp;<span kind="abugida">ɽʄc̑</span>
 
-*also* **§** [Adjective](../../tags/Adjective)
+*also* **§** Adjective
 
 **IPA**: /ˈu.tɑk/
 

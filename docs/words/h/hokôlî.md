@@ -9,7 +9,7 @@ description: tooth § Noun
 
 ### hokôlî&emsp;<span kind="abugida">ɂɔıʓɟ</span>
 
-*tooth* **§** [Noun](../../tags/Noun)
+*tooth* **§** Noun
 
 **IPA**: /ˈhɑ.ko.li/
 

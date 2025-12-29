@@ -9,7 +9,7 @@ description: subjective subordinate clause particle § Particle
 
 ### xe&emsp;<span kind="abugida">ɋɿ</span>
 
-*subjective subordinate clause particle* **§** [Particle](../../tags/Particle)
+*subjective subordinate clause particle* **§** Particle
 
 **IPA**: /ˈʃɛ/
 

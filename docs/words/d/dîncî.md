@@ -9,7 +9,7 @@ description: block § Noun
 
 ### dîncî&emsp;<span kind="abugida">ʌ̃ɟꞇɟ</span>
 
-*block* **§** [Noun](../../tags/Noun)
+*block* **§** Noun
 
 **IPA**: /ˈdin.t͡ɕi/
 

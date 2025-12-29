@@ -9,7 +9,7 @@ description: to learn (a learning) § Verb
 
 ### bêûdo&emsp;<span kind="abugida">ʋʇɽʄʌ</span>
 
-*to learn (a learning)* **§** [Verb](../../tags/Verb)
+*to learn (a learning)* **§** Verb
 
 **IPA**: /ˈbe.u.dɑ/
 

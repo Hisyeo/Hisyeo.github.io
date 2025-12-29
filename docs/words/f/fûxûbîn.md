@@ -9,7 +9,7 @@ description: accessory § Noun
 
 ### fûxûbîn&emsp;<span kind="abugida">ɤʄɋʄʋ̃ɟ</span>
 
-*accessory* **§** [Noun](../../tags/Noun)
+*accessory* **§** Noun
 
 **IPA**: /ˈfu.ʃu.bin/
 

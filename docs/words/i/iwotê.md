@@ -9,7 +9,7 @@ description: tall § Adjective
 
 ### iwotê&emsp;<span kind="abugida">ɽȷʒcʇ</span>
 
-*tall* **§** [Adjective](../../tags/Adjective)
+*tall* **§** Adjective
 
 **IPA**: /ɪ.ˈwɑ.te/
 

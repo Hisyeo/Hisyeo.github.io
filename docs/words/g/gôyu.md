@@ -9,7 +9,7 @@ description: mouth § Noun
 
 ### gôyu&emsp;<span kind="abugida">ꜿıɀʃ</span>
 
-*mouth* **§** [Noun](../../tags/Noun)
+*mouth* **§** Noun
 
 **IPA**: /ˈgo.jʌ/
 

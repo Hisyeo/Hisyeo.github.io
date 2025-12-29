@@ -9,7 +9,7 @@ description: violet § Adjective
 
 ### bonôxo&emsp;<span kind="abugida">ʋƨıɋ</span>
 
-*violet* **§** [Adjective](../../tags/Adjective)
+*violet* **§** Adjective
 
 **IPA**: /ˈbɑ.no.ʃɑ/
 

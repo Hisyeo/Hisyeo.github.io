@@ -9,7 +9,7 @@ description: 15 fifteen § Numeral
 
 ### kînsê&emsp;<span kind="abugida">ɔ̃ɟɐʇ</span>
 
-*15 fifteen* **§** [Numeral](../../tags/Numeral)
+*15 fifteen* **§** Numeral
 
 **IPA**: /ˈkin.se/
 

@@ -9,7 +9,7 @@ description: amphibian § Noun
 
 ### onfîbî&emsp;<span kind="abugida">ɽ̃ɤɟʋɟ</span>
 
-*amphibian* **§** [Noun](../../tags/Noun)
+*amphibian* **§** Noun
 
 **IPA**: /ˈɑn.fi.bi/
 

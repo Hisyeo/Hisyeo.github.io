@@ -9,7 +9,7 @@ description: we/us § Pronoun
 
 ### nûs&emsp;<span kind="abugida">ƨ́ʄ</span>
 
-*we/us* **§** [Pronoun](../../tags/Pronoun)
+*we/us* **§** Pronoun
 
 **IPA**: /ˈnus/
 

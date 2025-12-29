@@ -9,7 +9,7 @@ description: dry § Adjective
 
 ### ûlgûkîn&emsp;<span kind="abugida">ɽ͊ʄꜿʄɔ̃ɟ</span>
 
-*dry* **§** [Adjective](../../tags/Adjective)
+*dry* **§** Adjective
 
 **IPA**: /ˈul.gu.kin/
 

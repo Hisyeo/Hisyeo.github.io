@@ -9,7 +9,7 @@ description: to accuse (an accusation) § Verb
 
 ### cîtsê&emsp;<span kind="abugida">ꞇ̆ɟɐʇ</span>
 
-*to accuse (an accusation)* **§** [Verb](../../tags/Verb)
+*to accuse (an accusation)* **§** Verb
 
 **IPA**: /ˈt͡ɕit.se/
 

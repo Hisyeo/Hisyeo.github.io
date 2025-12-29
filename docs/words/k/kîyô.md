@@ -9,7 +9,7 @@ description: dexterous/skillful § Adjective
 
 ### kîyô&emsp;<span kind="abugida">ɔɟɀı</span>
 
-*dexterous/skillful* **§** [Adjective](../../tags/Adjective)
+*dexterous/skillful* **§** Adjective
 
 **IPA**: /ˈki.jo/
 

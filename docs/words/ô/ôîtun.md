@@ -9,7 +9,7 @@ description: to vocalize (a vocalization) § Verb
 
 ### ôîtun&emsp;<span kind="abugida">ɽıɽɟc̃ʃ</span>
 
-*to vocalize (a vocalization)* **§** [Verb](../../tags/Verb)
+*to vocalize (a vocalization)* **§** Verb
 
 **IPA**: /ˈo.i.tʌn/
 

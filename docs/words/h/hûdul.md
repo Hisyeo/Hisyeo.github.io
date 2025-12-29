@@ -9,7 +9,7 @@ description: false § Adjective
 
 ### hûdul&emsp;<span kind="abugida">ɂʄʌ͊ʃ</span>
 
-*false* **§** [Adjective](../../tags/Adjective)
+*false* **§** Adjective
 
 **IPA**: /ˈhu.dʌl/
 

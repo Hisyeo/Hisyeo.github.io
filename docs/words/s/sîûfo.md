@@ -9,7 +9,7 @@ description: to digest (the digested) § Verb
 
 ### sîûfo&emsp;<span kind="abugida">ɐɟɽʄɤ</span>
 
-*to digest (the digested)* **§** [Verb](../../tags/Verb)
+*to digest (the digested)* **§** Verb
 
 **IPA**: /ˈsi.u.fɑ/
 

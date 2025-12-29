@@ -9,7 +9,7 @@ description: to stop (the stopped) § Verb
 
 ### nîltûgu&emsp;<span kind="abugida">ƨ͊ɟcʄꜿʃ</span>
 
-*to stop (the stopped)* **§** [Verb](../../tags/Verb)
+*to stop (the stopped)* **§** Verb
 
 **IPA**: /ˈnil.tu.gʌ/
 

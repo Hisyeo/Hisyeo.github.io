@@ -9,7 +9,7 @@ description: sphere § Noun
 
 ### gundolê&emsp;<span kind="abugida">ꜿ̃ʃʌʓʇ</span>
 
-*sphere* **§** [Noun](../../tags/Noun)
+*sphere* **§** Noun
 
 **IPA**: /gʌn.ˈdɑ.le/
 

@@ -9,7 +9,7 @@ description: to bake (a baked good) § Verb
 
 ### bîek&emsp;<span kind="abugida">ʋɟɽ̑ɿ</span>
 
-*to bake (a baked good)* **§** [Verb](../../tags/Verb)
+*to bake (a baked good)* **§** Verb
 
 **IPA**: /ˈbi.ɛk/
 

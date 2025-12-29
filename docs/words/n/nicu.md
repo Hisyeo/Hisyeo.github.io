@@ -9,7 +9,7 @@ description: sneeze § Noun
 
 ### nicu&emsp;<span kind="abugida">ƨȷꞇʃ</span>
 
-*sneeze* **§** [Noun](../../tags/Noun)
+*sneeze* **§** Noun
 
 **IPA**: /ˈnɪ.t͡ɕʌ/
 

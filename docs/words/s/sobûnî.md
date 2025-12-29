@@ -9,7 +9,7 @@ description: ill/sick § Adjective
 
 ### sobûnî&emsp;<span kind="abugida">ɐʋʄƨɟ</span>
 
-*ill/sick* **§** [Adjective](../../tags/Adjective)
+*ill/sick* **§** Adjective
 
 **IPA**: /ˈsɑ.bu.ni/
 

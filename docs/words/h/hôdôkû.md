@@ -9,7 +9,7 @@ description: to untie (the untied) § Verb
 
 ### hôdôkû&emsp;<span kind="abugida">ɂıʌıɔʄ</span>
 
-*to untie (the untied)* **§** [Verb](../../tags/Verb)
+*to untie (the untied)* **§** Verb
 
 **IPA**: /ˈho.do.ku/
 

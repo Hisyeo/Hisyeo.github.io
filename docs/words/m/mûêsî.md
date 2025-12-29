@@ -9,7 +9,7 @@ description: moon § Noun
 
 ### mûêsî&emsp;<span kind="abugida">ƶʄɽʇɐɟ</span>
 
-*moon* **§** [Noun](../../tags/Noun)
+*moon* **§** Noun
 
 **IPA**: /ˈmu.e.si/
 

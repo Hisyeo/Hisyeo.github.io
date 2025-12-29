@@ -9,7 +9,7 @@ description: predecessive marker (before) § Preposition
 
 ### ilik&emsp;<span kind="abugida">ɽȷʓ̑ȷ</span>
 
-*predecessive marker (before)* **§** [Preposition](../../tags/Preposition)
+*predecessive marker (before)* **§** Preposition
 
 **IPA**: /ˈɪ.lɪk/
 

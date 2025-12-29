@@ -9,7 +9,7 @@ description: blood § Noun
 
 ### luhû&emsp;<span kind="abugida">ʓʃɂʄ</span>
 
-*blood* **§** [Noun](../../tags/Noun)
+*blood* **§** Noun
 
 **IPA**: /ˈlʌ.hu/
 

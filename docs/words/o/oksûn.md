@@ -9,7 +9,7 @@ description: meat/muscle § Noun
 
 ### oksûn&emsp;<span kind="abugida">ɽ̑ɐ̃ʄ</span>
 
-*meat/muscle* **§** [Noun](../../tags/Noun)
+*meat/muscle* **§** Noun
 
 **IPA**: /ˈɑk.sun/
 

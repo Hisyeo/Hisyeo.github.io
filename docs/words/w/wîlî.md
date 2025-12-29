@@ -9,7 +9,7 @@ description: awake § Adjective
 
 ### wîlî&emsp;<span kind="abugida">ʒɟʓɟ</span>
 
-*awake* **§** [Adjective](../../tags/Adjective)
+*awake* **§** Adjective
 
 **IPA**: /ˈwi.li/
 

@@ -9,7 +9,7 @@ description: 05 five § Numeral
 
 ### tîû&emsp;<span kind="abugida">cɟɽʄ</span>
 
-*05 five* **§** [Numeral](../../tags/Numeral)
+*05 five* **§** Numeral
 
 **IPA**: /ˈti.u/
 

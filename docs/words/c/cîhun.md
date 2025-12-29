@@ -9,7 +9,7 @@ description: to pull/attract (the pulled/attracted) § Verb
 
 ### cîhun&emsp;<span kind="abugida">ꞇɟɂ̃ʃ</span>
 
-*to pull/attract (the pulled/attracted)* **§** [Verb](../../tags/Verb)
+*to pull/attract (the pulled/attracted)* **§** Verb
 
 **IPA**: /ˈt͡ɕi.hʌn/
 

@@ -9,7 +9,7 @@ description: propositive sentence ender (agree?) § Postposition
 
 ### cî&emsp;<span kind="abugida">ꞇɟ</span>
 
-*propositive sentence ender (agree?)* **§** [Postposition](../../tags/Postposition)
+*propositive sentence ender (agree?)* **§** Postposition
 
 **IPA**: /ˈt͡ɕi/
 

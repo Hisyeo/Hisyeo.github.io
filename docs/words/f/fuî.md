@@ -9,7 +9,7 @@ description: to have (a possession) § Verb
 
 ### fuî&emsp;<span kind="abugida">ɤʃɽɟ</span>
 
-*to have (a possession)* **§** [Verb](../../tags/Verb)
+*to have (a possession)* **§** Verb
 
 **IPA**: /ˈfʌ.i/
 

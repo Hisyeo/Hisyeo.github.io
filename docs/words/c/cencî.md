@@ -9,7 +9,7 @@ description: thin/narrow § Adjective
 
 ### cencî&emsp;<span kind="abugida">ꞇ̃ɿꞇɟ</span>
 
-*thin/narrow* **§** [Adjective](../../tags/Adjective)
+*thin/narrow* **§** Adjective
 
 **IPA**: /ˈt͡ɕɛn.t͡ɕi/
 

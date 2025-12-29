@@ -9,7 +9,7 @@ description: sexual § Adjective
 
 ### zênsî&emsp;<span kind="abugida">ⱴ̃ʇɐɟ</span>
 
-*sexual* **§** [Adjective](../../tags/Adjective)
+*sexual* **§** Adjective
 
 **IPA**: /ˈd͡ʒen.si/
 

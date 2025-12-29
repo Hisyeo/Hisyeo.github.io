@@ -9,7 +9,7 @@ description: ceiling § Noun
 
 ### deku&emsp;<span kind="abugida">ʌɿɔʃ</span>
 
-*ceiling* **§** [Noun](../../tags/Noun)
+*ceiling* **§** Noun
 
 **IPA**: /ˈdɛ.kʌ/
 

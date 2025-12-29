@@ -9,7 +9,7 @@ description: pink § Adjective
 
 ### gûlobî&emsp;<span kind="abugida">ꜿʄʓʋɟ</span>
 
-*pink* **§** [Adjective](../../tags/Adjective)
+*pink* **§** Adjective
 
 **IPA**: /ˈgu.lɑ.bi/
 

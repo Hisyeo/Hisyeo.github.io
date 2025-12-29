@@ -9,7 +9,7 @@ description: to use (a tool) § Verb
 
 ### yôn&emsp;<span kind="abugida">ɀ̃ı</span>
 
-*to use (a tool)* **§** [Verb](../../tags/Verb)
+*to use (a tool)* **§** Verb
 
 **IPA**: /ˈjon/
 

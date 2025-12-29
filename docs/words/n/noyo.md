@@ -9,7 +9,7 @@ description: I/me § Pronoun
 
 ### noyo&emsp;<span kind="abugida">ƨɀ</span>
 
-*I/me* **§** [Pronoun](../../tags/Pronoun)
+*I/me* **§** Pronoun
 
 **IPA**: /ˈnɑ.jɑ/
 

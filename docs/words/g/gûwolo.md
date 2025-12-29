@@ -9,7 +9,7 @@ description: to scratch (the scratched) § Verb
 
 ### gûwolo&emsp;<span kind="abugida">ꜿʄʒʓ</span>
 
-*to scratch (the scratched)* **§** [Verb](../../tags/Verb)
+*to scratch (the scratched)* **§** Verb
 
 **IPA**: /ˈgu.wɑ.lɑ/
 

@@ -9,7 +9,7 @@ description: then § Conjunction
 
 ### bînê&emsp;<span kind="abugida">ʋɟƨʇ</span>
 
-*then* **§** [Conjunction](../../tags/Conjunction)
+*then* **§** Conjunction
 
 **IPA**: /ˈbi.ne/
 

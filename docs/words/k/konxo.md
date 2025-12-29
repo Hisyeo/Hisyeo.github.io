@@ -9,7 +9,7 @@ description: thankful/grateful § Adjective
 
 ### konxo&emsp;<span kind="abugida">ɔ̃ɋ</span>
 
-*thankful/grateful* **§** [Adjective](../../tags/Adjective)
+*thankful/grateful* **§** Adjective
 
 **IPA**: /ˈkɑn.ʃɑ/
 

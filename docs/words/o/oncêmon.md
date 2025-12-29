@@ -9,7 +9,7 @@ description: to feel/sense (a phenomenon) § Verb
 
 ### oncêmon&emsp;<span kind="abugida">ɽ̃ꞇʇƶ̃</span>
 
-*to feel/sense (a phenomenon)* **§** [Verb](../../tags/Verb)
+*to feel/sense (a phenomenon)* **§** Verb
 
 **IPA**: /ˈɑn.t͡ɕe.mɑn/
 

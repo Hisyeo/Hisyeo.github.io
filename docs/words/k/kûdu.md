@@ -9,7 +9,7 @@ description: horse § Noun
 
 ### kûdu&emsp;<span kind="abugida">ɔʄʌʃ</span>
 
-*horse* **§** [Noun](../../tags/Noun)
+*horse* **§** Noun
 
 **IPA**: /ˈku.dʌ/
 

@@ -9,7 +9,7 @@ description: ear § Noun
 
 ### cîkînîl&emsp;<span kind="abugida">ꞇɟɔɟƨ͊ɟ</span>
 
-*ear* **§** [Noun](../../tags/Noun)
+*ear* **§** Noun
 
 **IPA**: /ˈt͡ɕi.ki.nil/
 

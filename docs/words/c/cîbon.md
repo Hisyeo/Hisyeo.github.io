@@ -9,7 +9,7 @@ description: fat/grease § Noun
 
 ### cîbon&emsp;<span kind="abugida">ꞇɟʋ̃</span>
 
-*fat/grease* **§** [Noun](../../tags/Noun)
+*fat/grease* **§** Noun
 
 **IPA**: /ˈt͡ɕi.bɑn/
 

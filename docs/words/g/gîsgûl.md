@@ -9,7 +9,7 @@ description: step/rung § Noun
 
 ### gîsgûl&emsp;<span kind="abugida">ꜿ́ɟꜿ͊ʄ</span>
 
-*step/rung* **§** [Noun](../../tags/Noun)
+*step/rung* **§** Noun
 
 **IPA**: /ˈgis.gul/
 

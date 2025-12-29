@@ -9,7 +9,7 @@ description: history § Noun
 
 ### itihos&emsp;<span kind="abugida">ɽȷcȷɂ́</span>
 
-*history* **§** [Noun](../../tags/Noun)
+*history* **§** Noun
 
 **IPA**: /ˈɪ.tɪ.hɑs/
 

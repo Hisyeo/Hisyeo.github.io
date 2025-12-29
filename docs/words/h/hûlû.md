@@ -9,7 +9,7 @@ description: grass § Noun
 
 ### hûlû&emsp;<span kind="abugida">ɂʄʓʄ</span>
 
-*grass* **§** [Noun](../../tags/Noun)
+*grass* **§** Noun
 
 **IPA**: /ˈhu.lu/
 

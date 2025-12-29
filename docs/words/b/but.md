@@ -9,7 +9,7 @@ description: open § Adjective
 
 ### but&emsp;<span kind="abugida">ʋ̆ʃ</span>
 
-*open* **§** [Adjective](../../tags/Adjective)
+*open* **§** Adjective
 
 **IPA**: /ˈbʌt/
 

@@ -9,7 +9,7 @@ description: eye § Noun
 
 ### gûêyû&emsp;<span kind="abugida">ꜿʄɽʇɀʄ</span>
 
-*eye* **§** [Noun](../../tags/Noun)
+*eye* **§** Noun
 
 **IPA**: /ˈgu.e.ju/
 

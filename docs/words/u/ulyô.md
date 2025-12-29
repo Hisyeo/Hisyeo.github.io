@@ -9,7 +9,7 @@ description: medial demonstrative (that/there) § Pronoun
 
 ### ulyô&emsp;<span kind="abugida">ɽ͊ʃɀı</span>
 
-*medial demonstrative (that/there)* **§** [Pronoun](../../tags/Pronoun)
+*medial demonstrative (that/there)* **§** Pronoun
 
 **IPA**: /ˈʌl.jo/
 

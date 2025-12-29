@@ -9,7 +9,7 @@ description: left § Noun
 
 ### xîmol&emsp;<span kind="abugida">ɋɟƶ͊</span>
 
-*left* **§** [Noun](../../tags/Noun)
+*left* **§** Noun
 
 **IPA**: /ˈʃi.mɑl/
 

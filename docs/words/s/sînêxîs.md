@@ -9,7 +9,7 @@ description: constant/stable § Adjective
 
 ### sînêxîs&emsp;<span kind="abugida">ɐɟƨʇɋ́ɟ</span>
 
-*constant/stable* **§** [Adjective](../../tags/Adjective)
+*constant/stable* **§** Adjective
 
 **IPA**: /ˈsi.ne.ʃis/
 

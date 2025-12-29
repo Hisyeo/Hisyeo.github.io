@@ -9,7 +9,7 @@ description: to nurture/grow (the nurtured/grown) § Verb
 
 ### lîun&emsp;<span kind="abugida">ʓɟɽ̃ʃ</span>
 
-*to nurture/grow (the nurtured/grown)* **§** [Verb](../../tags/Verb)
+*to nurture/grow (the nurtured/grown)* **§** Verb
 
 **IPA**: /ˈli.ʌn/
 

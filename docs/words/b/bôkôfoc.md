@@ -9,7 +9,7 @@ description: to block (the blocked) § Verb
 
 ### bôkôfoc&emsp;<span kind="abugida">ʋıɔıɤ̄</span>
 
-*to block (the blocked)* **§** [Verb](../../tags/Verb)
+*to block (the blocked)* **§** Verb
 
 **IPA**: /ˈbo.ko.fɑt͡ɕ/
 

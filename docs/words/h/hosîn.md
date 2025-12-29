@@ -9,7 +9,7 @@ description: beautiful § Adjective
 
 ### hosîn&emsp;<span kind="abugida">ɂɐ̃ɟ</span>
 
-*beautiful* **§** [Adjective](../../tags/Adjective)
+*beautiful* **§** Adjective
 
 **IPA**: /ˈhɑ.sin/
 

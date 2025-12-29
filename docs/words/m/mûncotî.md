@@ -9,7 +9,7 @@ description: to release/drop (the released/dropped) § Verb
 
 ### mûncotî&emsp;<span kind="abugida">ƶ̃ʄꞇcɟ</span>
 
-*to release/drop (the released/dropped)* **§** [Verb](../../tags/Verb)
+*to release/drop (the released/dropped)* **§** Verb
 
 **IPA**: /ˈmun.t͡ɕɑ.ti/
 

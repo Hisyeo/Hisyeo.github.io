@@ -9,7 +9,7 @@ description: dancing § Adjective
 
 ### cifulo&emsp;<span kind="abugida">ꞇȷɤʃʓ</span>
 
-*dancing* **§** [Adjective](../../tags/Adjective)
+*dancing* **§** Adjective
 
 **IPA**: /ˈt͡ɕɪ.fʌ.lɑ/
 

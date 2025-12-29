@@ -9,7 +9,7 @@ description: gastropod § Noun
 
 ### minyoto&emsp;<span kind="abugida">ƶ̃ȷɀc</span>
 
-*gastropod* **§** [Noun](../../tags/Noun)
+*gastropod* **§** Noun
 
 **IPA**: /mɪn.ˈjɑ.tɑ/
 

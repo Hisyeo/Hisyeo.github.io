@@ -9,7 +9,7 @@ description: air/wind § Noun
 
 ### woyû&emsp;<span kind="abugida">ʒɀʄ</span>
 
-*air/wind* **§** [Noun](../../tags/Noun)
+*air/wind* **§** Noun
 
 **IPA**: /ˈwɑ.ju/
 

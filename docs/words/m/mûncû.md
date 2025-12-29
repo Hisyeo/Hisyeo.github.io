@@ -9,7 +9,7 @@ description: tart § Adjective
 
 ### mûncû&emsp;<span kind="abugida">ƶ̃ʄꞇʄ</span>
 
-*tart* **§** [Adjective](../../tags/Adjective)
+*tart* **§** Adjective
 
 **IPA**: /ˈmun.t͡ɕu/
 

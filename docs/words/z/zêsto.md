@@ -9,7 +9,7 @@ description: feat/achievement/heroic deed § Noun
 
 ### zêsto&emsp;<span kind="abugida">ⱴ́ʇc</span>
 
-*feat/achievement/heroic deed* **§** [Noun](../../tags/Noun)
+*feat/achievement/heroic deed* **§** Noun
 
 **IPA**: /ˈd͡ʒes.tɑ/
 

@@ -9,7 +9,7 @@ description: existent § Adjective
 
 ### gô&emsp;<span kind="abugida">ꜿı</span>
 
-*existent* **§** [Adjective](../../tags/Adjective)
+*existent* **§** Adjective
 
 **IPA**: /ˈgo/
 

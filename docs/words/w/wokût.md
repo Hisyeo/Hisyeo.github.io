@@ -9,7 +9,7 @@ description: time § Noun
 
 ### wokût&emsp;<span kind="abugida">ʒɔ̆ʄ</span>
 
-*time* **§** [Noun](../../tags/Noun)
+*time* **§** Noun
 
 **IPA**: /ˈwɑ.kut/
 

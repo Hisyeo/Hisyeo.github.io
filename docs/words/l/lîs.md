@@ -9,7 +9,7 @@ description: smooth § Adjective
 
 ### lîs&emsp;<span kind="abugida">ʓ́ɟ</span>
 
-*smooth* **§** [Adjective](../../tags/Adjective)
+*smooth* **§** Adjective
 
 **IPA**: /ˈlis/
 

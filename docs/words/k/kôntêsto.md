@@ -9,7 +9,7 @@ description: to contend with (a contestant) § Verb
 
 ### kôntêsto&emsp;<span kind="abugida">ɔ̃ıćʇc</span>
 
-*to contend with (a contestant)* **§** [Verb](../../tags/Verb)
+*to contend with (a contestant)* **§** Verb
 
 **IPA**: /ˈkon.tes.tɑ/
 

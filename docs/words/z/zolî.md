@@ -9,7 +9,7 @@ description: bush/shrub § Noun
 
 ### zolî&emsp;<span kind="abugida">ⱴʓɟ</span>
 
-*bush/shrub* **§** [Noun](../../tags/Noun)
+*bush/shrub* **§** Noun
 
 **IPA**: /ˈd͡ʒɑ.li/
 

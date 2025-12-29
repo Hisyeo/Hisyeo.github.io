@@ -9,7 +9,7 @@ description: bump § Noun
 
 ### tôxûtsi&emsp;<span kind="abugida">cıɋ̆ʄɐȷ</span>
 
-*bump* **§** [Noun](../../tags/Noun)
+*bump* **§** Noun
 
 **IPA**: /ˈto.ʃut.sɪ/
 

@@ -9,7 +9,7 @@ description: state/quality/attribute § Noun
 
 ### êtsô&emsp;<span kind="abugida">ɽ̆ʇɐı</span>
 
-*state/quality/attribute* **§** [Noun](../../tags/Noun)
+*state/quality/attribute* **§** Noun
 
 **IPA**: /ˈet.so/
 

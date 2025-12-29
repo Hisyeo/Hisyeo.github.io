@@ -9,7 +9,7 @@ description: bottom § Noun
 
 ### tûndû&emsp;<span kind="abugida">c̃ʄʌʄ</span>
 
-*bottom* **§** [Noun](../../tags/Noun)
+*bottom* **§** Noun
 
 **IPA**: /ˈtun.du/
 

@@ -9,7 +9,7 @@ description: copy § Noun
 
 ### nukulô&emsp;<span kind="abugida">ƨʃɔʃʓı</span>
 
-*copy* **§** [Noun](../../tags/Noun)
+*copy* **§** Noun
 
 **IPA**: /ˈnʌ.kʌ.lo/
 

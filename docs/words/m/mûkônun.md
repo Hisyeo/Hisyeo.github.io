@@ -9,7 +9,7 @@ description: triangle § Noun
 
 ### mûkônun&emsp;<span kind="abugida">ƶʄɔıƨ̃ʃ</span>
 
-*triangle* **§** [Noun](../../tags/Noun)
+*triangle* **§** Noun
 
 **IPA**: /ˈmu.ko.nʌn/
 

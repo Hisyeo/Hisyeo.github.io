@@ -9,7 +9,7 @@ description: rhythm/beat § Adjective
 
 ### konwo&emsp;<span kind="abugida">ɔ̃ʒ</span>
 
-*rhythm/beat* **§** [Adjective](../../tags/Adjective)
+*rhythm/beat* **§** Adjective
 
 **IPA**: /ˈkɑn.wɑ/
 

@@ -9,7 +9,7 @@ description: shallow § Adjective
 
 ### dohîl&emsp;<span kind="abugida">ʌɂ͊ɟ</span>
 
-*shallow* **§** [Adjective](../../tags/Adjective)
+*shallow* **§** Adjective
 
 **IPA**: /ˈdɑ.hil/
 

@@ -9,7 +9,7 @@ description: responsible § Adjective
 
 ### botyoto&emsp;<span kind="abugida">ʋ̆ɀc</span>
 
-*responsible* **§** [Adjective](../../tags/Adjective)
+*responsible* **§** Adjective
 
 **IPA**: /ˈbɑt.jɑ.tɑ/
 

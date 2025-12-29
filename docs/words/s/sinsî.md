@@ -9,7 +9,7 @@ description: town/city § Noun
 
 ### sinsî&emsp;<span kind="abugida">ɐ̃ȷɐɟ</span>
 
-*town/city* **§** [Noun](../../tags/Noun)
+*town/city* **§** Noun
 
 **IPA**: /ˈsɪn.si/
 

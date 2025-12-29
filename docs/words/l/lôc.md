@@ -9,7 +9,7 @@ description: bad § Adjective
 
 ### lôc&emsp;<span kind="abugida">ʓ̄ı</span>
 
-*bad* **§** [Adjective](../../tags/Adjective)
+*bad* **§** Adjective
 
 **IPA**: /ˈlot͡ɕ/
 

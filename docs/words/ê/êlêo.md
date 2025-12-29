@@ -9,7 +9,7 @@ description: floating § Adjective
 
 ### êlêo&emsp;<span kind="abugida">ɽʇʓʇɽ</span>
 
-*floating* **§** [Adjective](../../tags/Adjective)
+*floating* **§** Adjective
 
 **IPA**: /ˈe.le.ɑ/
 

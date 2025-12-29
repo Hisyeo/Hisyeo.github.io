@@ -9,7 +9,7 @@ description: fungus § Noun
 
 ### xifon&emsp;<span kind="abugida">ɋȷɤ̃</span>
 
-*fungus* **§** [Noun](../../tags/Noun)
+*fungus* **§** Noun
 
 **IPA**: /ˈʃɪ.fɑn/
 

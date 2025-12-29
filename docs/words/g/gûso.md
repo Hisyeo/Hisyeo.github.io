@@ -9,7 +9,7 @@ description: angry § Adjective
 
 ### gûso&emsp;<span kind="abugida">ꜿʄɐ</span>
 
-*angry* **§** [Adjective](../../tags/Adjective)
+*angry* **§** Adjective
 
 **IPA**: /ˈgu.sɑ/
 

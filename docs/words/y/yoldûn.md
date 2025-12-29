@@ -9,7 +9,7 @@ description: help/aid § Noun
 
 ### yoldûn&emsp;<span kind="abugida">ɀ͊ʌ̃ʄ</span>
 
-*help/aid* **§** [Noun](../../tags/Noun)
+*help/aid* **§** Noun
 
 **IPA**: /ˈjɑl.dun/
 

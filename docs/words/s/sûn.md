@@ -9,7 +9,7 @@ description: ablative marker (from) § Preposition
 
 ### sûn&emsp;<span kind="abugida">ɐ̃ʄ</span>
 
-*ablative marker (from)* **§** [Preposition](../../tags/Preposition)
+*ablative marker (from)* **§** Preposition
 
 **IPA**: /ˈsun/
 

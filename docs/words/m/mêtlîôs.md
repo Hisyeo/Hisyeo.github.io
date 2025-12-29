@@ -9,7 +9,7 @@ description: medium/average § Adjective
 
 ### mêtlîôs&emsp;<span kind="abugida">ƶ̆ʇʓɟɽ́ı</span>
 
-*medium/average* **§** [Adjective](../../tags/Adjective)
+*medium/average* **§** Adjective
 
 **IPA**: /ˈmet.li.os/
 

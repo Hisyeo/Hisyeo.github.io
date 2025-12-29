@@ -9,7 +9,7 @@ description: to invite (an invitation) § Verb
 
 ### xokûlû&emsp;<span kind="abugida">ɋɔʄʓʄ</span>
 
-*to invite (an invitation)* **§** [Verb](../../tags/Verb)
+*to invite (an invitation)* **§** Verb
 
 **IPA**: /ˈʃɑ.ku.lu/
 

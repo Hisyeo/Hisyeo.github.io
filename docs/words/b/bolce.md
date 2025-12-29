@@ -9,7 +9,7 @@ description: cloth/fabric § Noun
 
 ### bolce&emsp;<span kind="abugida">ʋ͊ꞇɿ</span>
 
-*cloth/fabric* **§** [Noun](../../tags/Noun)
+*cloth/fabric* **§** Noun
 
 **IPA**: /ˈbɑl.t͡ɕɛ/
 

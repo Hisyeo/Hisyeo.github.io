@@ -9,7 +9,7 @@ description: shoulder § Noun
 
 ### êbôl&emsp;<span kind="abugida">ɽʇʋ͊ı</span>
 
-*shoulder* **§** [Noun](../../tags/Noun)
+*shoulder* **§** Noun
 
 **IPA**: /ˈe.bol/
 

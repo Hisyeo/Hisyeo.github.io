@@ -9,7 +9,7 @@ description: fast § Adjective
 
 ### fîkî&emsp;<span kind="abugida">ɤɟɔɟ</span>
 
-*fast* **§** [Adjective](../../tags/Adjective)
+*fast* **§** Adjective
 
 **IPA**: /ˈfi.ki/
 

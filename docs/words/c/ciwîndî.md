@@ -9,7 +9,7 @@ description: liver § Noun
 
 ### ciwîndî&emsp;<span kind="abugida">ꞇȷʒ̃ɟʌɟ</span>
 
-*liver* **§** [Noun](../../tags/Noun)
+*liver* **§** Noun
 
 **IPA**: /t͡ɕɪ.ˈwin.di/
 

@@ -9,7 +9,7 @@ description: condensed/concentrated § Adjective
 
 ### kôndonsê&emsp;<span kind="abugida">ɔ̃ıʌ̃ɐʇ</span>
 
-*condensed/concentrated* **§** [Adjective](../../tags/Adjective)
+*condensed/concentrated* **§** Adjective
 
 **IPA**: /ˈkon.dɑn.se/
 

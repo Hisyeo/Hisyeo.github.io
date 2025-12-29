@@ -9,7 +9,7 @@ description: rhyme/verse § Noun
 
 ### kîno&emsp;<span kind="abugida">ɔɟƨ</span>
 
-*rhyme/verse* **§** [Noun](../../tags/Noun)
+*rhyme/verse* **§** Noun
 
 **IPA**: /ˈki.nɑ/
 

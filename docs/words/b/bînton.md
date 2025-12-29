@@ -9,7 +9,7 @@ description: star § Noun
 
 ### bînton&emsp;<span kind="abugida">ʋ̃ɟc̃</span>
 
-*star* **§** [Noun](../../tags/Noun)
+*star* **§** Noun
 
 **IPA**: /ˈbin.tɑn/
 

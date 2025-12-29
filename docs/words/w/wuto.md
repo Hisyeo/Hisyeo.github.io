@@ -9,7 +9,7 @@ description: month § Noun
 
 ### wuto&emsp;<span kind="abugida">ʒʃc</span>
 
-*month* **§** [Noun](../../tags/Noun)
+*month* **§** Noun
 
 **IPA**: /ˈwʌ.tɑ/
 

@@ -9,7 +9,7 @@ description: lack § Determiner
 
 ### bûzôk&emsp;<span kind="abugida">ʋʄⱴ̑ı</span>
 
-*lack* **§** [Determiner](../../tags/Determiner)
+*lack* **§** Determiner
 
 **IPA**: /ˈbu.d͡ʒok/
 

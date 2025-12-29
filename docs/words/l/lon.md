@@ -9,7 +9,7 @@ description: durative marker (for) § Preposition
 
 ### lon&emsp;<span kind="abugida">ʓ̃</span>
 
-*durative marker (for)* **§** [Preposition](../../tags/Preposition)
+*durative marker (for)* **§** Preposition
 
 **IPA**: /ˈlɑn/
 

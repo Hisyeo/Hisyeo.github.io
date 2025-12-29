@@ -9,7 +9,7 @@ description: event § Noun
 
 ### sîkîn&emsp;<span kind="abugida">ɐɟɔ̃ɟ</span>
 
-*event* **§** [Noun](../../tags/Noun)
+*event* **§** Noun
 
 **IPA**: /ˈsi.kin/
 

@@ -9,7 +9,7 @@ description: northern § Adjective
 
 ### sôltûstik&emsp;<span kind="abugida">ɐ͊ıćʄc̑ȷ</span>
 
-*northern* **§** [Adjective](../../tags/Adjective)
+*northern* **§** Adjective
 
 **IPA**: /ˈsol.tus.tɪk/
 

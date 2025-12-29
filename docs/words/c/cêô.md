@@ -9,7 +9,7 @@ description: rank/degree § Noun
 
 ### cêô&emsp;<span kind="abugida">ꞇʇɽı</span>
 
-*rank/degree* **§** [Noun](../../tags/Noun)
+*rank/degree* **§** Noun
 
 **IPA**: /ˈt͡ɕe.o/
 

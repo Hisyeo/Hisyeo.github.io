@@ -9,7 +9,7 @@ description: causal-final marker (for) § Preposition
 
 ### til&emsp;<span kind="abugida">c͊ȷ</span>
 
-*causal-final marker (for)* **§** [Preposition](../../tags/Preposition)
+*causal-final marker (for)* **§** Preposition
 
 **IPA**: /ˈtɪl/
 

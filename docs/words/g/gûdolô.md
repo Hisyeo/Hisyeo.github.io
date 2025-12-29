@@ -9,7 +9,7 @@ description: bow (weapon)/bow (music) § Noun
 
 ### gûdolô&emsp;<span kind="abugida">ꜿʄʌʓı</span>
 
-*bow (weapon)/bow (music)* **§** [Noun](../../tags/Noun)
+*bow (weapon)/bow (music)* **§** Noun
 
 **IPA**: /ˈgu.dɑ.lo/
 

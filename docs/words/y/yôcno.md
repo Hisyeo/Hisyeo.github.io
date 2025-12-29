@@ -9,7 +9,7 @@ description: program/plan § Noun
 
 ### yôcno&emsp;<span kind="abugida">ɀ̄ıƨ</span>
 
-*program/plan* **§** [Noun](../../tags/Noun)
+*program/plan* **§** Noun
 
 **IPA**: /ˈjot͡ɕ.nɑ/
 

@@ -9,7 +9,7 @@ description: joint § Noun
 
 ### zûntûlu&emsp;<span kind="abugida">ⱴ̃ʄcʄʓʃ</span>
 
-*joint* **§** [Noun](../../tags/Noun)
+*joint* **§** Noun
 
 **IPA**: /ˈd͡ʒun.tu.lʌ/
 

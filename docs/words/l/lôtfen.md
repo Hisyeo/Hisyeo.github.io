@@ -9,7 +9,7 @@ description: politeness sentence ender § Postposition
 
 ### lôtfen&emsp;<span kind="abugida">ʓ̆ıɤ̃ɿ</span>
 
-*politeness sentence ender* **§** [Postposition](../../tags/Postposition)
+*politeness sentence ender* **§** Postposition
 
 **IPA**: /ˈlot.fɛn/
 

@@ -9,7 +9,7 @@ description: puzzle/mystery § Noun
 
 ### nosô&emsp;<span kind="abugida">ƨɐı</span>
 
-*puzzle/mystery* **§** [Noun](../../tags/Noun)
+*puzzle/mystery* **§** Noun
 
 **IPA**: /ˈnɑ.so/
 

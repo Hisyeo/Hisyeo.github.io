@@ -9,7 +9,7 @@ description: sort/type § Noun
 
 ### xûk&emsp;<span kind="abugida">ɋ̑ʄ</span>
 
-*sort/type* **§** [Noun](../../tags/Noun)
+*sort/type* **§** Noun
 
 **IPA**: /ˈʃuk/
 

@@ -9,7 +9,7 @@ description: pig § Noun
 
 ### dônûs&emsp;<span kind="abugida">ʌıƨ́ʄ</span>
 
-*pig* **§** [Noun](../../tags/Noun)
+*pig* **§** Noun
 
 **IPA**: /ˈdo.nus/
 

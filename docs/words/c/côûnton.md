@@ -9,7 +9,7 @@ description: loyal/faithful § Adjective
 
 ### côûnton&emsp;<span kind="abugida">ꞇıɽ̃ʄc̃</span>
 
-*loyal/faithful* **§** [Adjective](../../tags/Adjective)
+*loyal/faithful* **§** Adjective
 
 **IPA**: /ˈt͡ɕo.un.tɑn/
 

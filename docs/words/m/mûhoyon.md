@@ -9,7 +9,7 @@ description: camp § Noun
 
 ### mûhoyon&emsp;<span kind="abugida">ƶʄɂɀ̃</span>
 
-*camp* **§** [Noun](../../tags/Noun)
+*camp* **§** Noun
 
 **IPA**: /ˈmu.hɑ.jɑn/
 

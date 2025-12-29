@@ -9,7 +9,7 @@ description: representative/delegate § Noun
 
 ### bostofîs&emsp;<span kind="abugida">ʋ́cɤ́ɟ</span>
 
-*representative/delegate* **§** [Noun](../../tags/Noun)
+*representative/delegate* **§** Noun
 
 **IPA**: /ˈbɑs.tɑ.fis/
 

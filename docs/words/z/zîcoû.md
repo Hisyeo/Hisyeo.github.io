@@ -9,7 +9,7 @@ description: to train (a skill/ability) § Verb
 
 ### zîcoû&emsp;<span kind="abugida">ⱴɟꞇɽʄ</span>
 
-*to train (a skill/ability)* **§** [Verb](../../tags/Verb)
+*to train (a skill/ability)* **§** Verb
 
 **IPA**: /ˈd͡ʒi.t͡ɕɑ.u/
 

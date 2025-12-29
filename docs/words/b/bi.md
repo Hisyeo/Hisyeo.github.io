@@ -9,7 +9,7 @@ description: methodological marker (-ly) § Preposition
 
 ### bi&emsp;<span kind="abugida">ʋȷ</span>
 
-*methodological marker (-ly)* **§** [Preposition](../../tags/Preposition)
+*methodological marker (-ly)* **§** Preposition
 
 **IPA**: /ˈbɪ/
 

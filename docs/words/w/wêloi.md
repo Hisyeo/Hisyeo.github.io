@@ -9,7 +9,7 @@ description: to work (in an occupation) § Verb
 
 ### wêloi&emsp;<span kind="abugida">ʒʇʓɽȷ</span>
 
-*to work (in an occupation)* **§** [Verb](../../tags/Verb)
+*to work (in an occupation)* **§** Verb
 
 **IPA**: /ˈwe.lɑ.ɪ/
 

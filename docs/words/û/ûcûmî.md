@@ -9,7 +9,7 @@ description: economy § Noun
 
 ### ûcûmî&emsp;<span kind="abugida">ɽʄꞇʄƶɟ</span>
 
-*economy* **§** [Noun](../../tags/Noun)
+*economy* **§** Noun
 
 **IPA**: /ˈu.t͡ɕu.mi/
 

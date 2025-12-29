@@ -9,7 +9,7 @@ description: vocative marker § Preposition
 
 ### noî&emsp;<span kind="abugida">ƨɽɟ</span>
 
-*vocative marker* **§** [Preposition](../../tags/Preposition)
+*vocative marker* **§** Preposition
 
 **IPA**: /ˈnɑ.i/
 

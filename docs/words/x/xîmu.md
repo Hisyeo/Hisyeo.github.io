@@ -9,7 +9,7 @@ description: water § Noun
 
 ### xîmu&emsp;<span kind="abugida">ɋɟƶʃ</span>
 
-*water* **§** [Noun](../../tags/Noun)
+*water* **§** Noun
 
 **IPA**: /ˈʃi.mʌ/
 

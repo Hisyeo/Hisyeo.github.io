@@ -9,7 +9,7 @@ description: organization/enterprise § Noun
 
 ### kûngîyo&emsp;<span kind="abugida">ɔ̃ʄꜿɟɀ</span>
 
-*organization/enterprise* **§** [Noun](../../tags/Noun)
+*organization/enterprise* **§** Noun
 
 **IPA**: /ˈkun.gi.jɑ/
 

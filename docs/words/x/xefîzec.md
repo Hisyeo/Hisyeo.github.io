@@ -9,7 +9,7 @@ description: to predict (a prediction) § Verb
 
 ### xefîzec&emsp;<span kind="abugida">ɋɿɤɟⱴ̄ɿ</span>
 
-*to predict (a prediction)* **§** [Verb](../../tags/Verb)
+*to predict (a prediction)* **§** Verb
 
 **IPA**: /ʃɛ.ˈfi.d͡ʒɛt͡ɕ/
 

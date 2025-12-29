@@ -9,7 +9,7 @@ description: mesh § Noun
 
 ### nec&emsp;<span kind="abugida">ƨ̄ɿ</span>
 
-*mesh* **§** [Noun](../../tags/Noun)
+*mesh* **§** Noun
 
 **IPA**: /ˈnɛt͡ɕ/
 

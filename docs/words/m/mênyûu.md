@@ -9,7 +9,7 @@ description: offspring § Noun
 
 ### mênyûu&emsp;<span kind="abugida">ƶ̃ʇɀʄɽʃ</span>
 
-*offspring* **§** [Noun](../../tags/Noun)
+*offspring* **§** Noun
 
 **IPA**: /ˈmen.ju.ʌ/
 

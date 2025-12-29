@@ -9,7 +9,7 @@ description: frequent/recurring § Adjective
 
 ### ogogê&emsp;<span kind="abugida">ɽꜿꜿʇ</span>
 
-*frequent/recurring* **§** [Adjective](../../tags/Adjective)
+*frequent/recurring* **§** Adjective
 
 **IPA**: /ˈɑ.gɑ.ge/
 

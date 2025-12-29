@@ -9,7 +9,7 @@ description: crack/fissure § Noun
 
 ### hitsu&emsp;<span kind="abugida">ɂ̆ȷɐʃ</span>
 
-*crack/fissure* **§** [Noun](../../tags/Noun)
+*crack/fissure* **§** Noun
 
 **IPA**: /ˈhɪt.sʌ/
 

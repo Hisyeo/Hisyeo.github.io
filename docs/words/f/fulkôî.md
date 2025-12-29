@@ -9,7 +9,7 @@ description: to rub (the rubbed) § Verb
 
 ### fulkôî&emsp;<span kind="abugida">ɤ͊ʃɔıɽɟ</span>
 
-*to rub (the rubbed)* **§** [Verb](../../tags/Verb)
+*to rub (the rubbed)* **§** Verb
 
 **IPA**: /fʌl.ˈko.i/
 

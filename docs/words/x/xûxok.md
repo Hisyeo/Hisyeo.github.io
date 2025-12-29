@@ -9,7 +9,7 @@ description: hell § Noun
 
 ### xûxok&emsp;<span kind="abugida">ɋʄɋ̑</span>
 
-*hell* **§** [Noun](../../tags/Noun)
+*hell* **§** Noun
 
 **IPA**: /ˈʃu.ʃɑk/
 

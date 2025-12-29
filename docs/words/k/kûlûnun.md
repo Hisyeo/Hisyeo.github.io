@@ -9,7 +9,7 @@ description: cage/kennel/jail/cell § Noun
 
 ### kûlûnun&emsp;<span kind="abugida">ɔʄʓʄƨ̃ʃ</span>
 
-*cage/kennel/jail/cell* **§** [Noun](../../tags/Noun)
+*cage/kennel/jail/cell* **§** Noun
 
 **IPA**: /ˈku.lu.nʌn/
 

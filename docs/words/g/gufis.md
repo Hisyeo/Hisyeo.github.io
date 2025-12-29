@@ -9,7 +9,7 @@ description: certain § Adjective
 
 ### gufis&emsp;<span kind="abugida">ꜿʃɤ́ȷ</span>
 
-*certain* **§** [Adjective](../../tags/Adjective)
+*certain* **§** Adjective
 
 **IPA**: /ˈgʌ.fɪs/
 

@@ -9,7 +9,7 @@ description: context marker (as for/given) § Preposition
 
 ### hôn&emsp;<span kind="abugida">ɂ̃ı</span>
 
-*context marker (as for/given)* **§** [Preposition](../../tags/Preposition)
+*context marker (as for/given)* **§** Preposition
 
 **IPA**: /ˈhon/
 

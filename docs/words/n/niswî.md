@@ -9,7 +9,7 @@ description: 03 three § Numeral
 
 ### niswî&emsp;<span kind="abugida">ƨ́ȷʒɟ</span>
 
-*03 three* **§** [Numeral](../../tags/Numeral)
+*03 three* **§** Numeral
 
 **IPA**: /ˈnɪs.wi/
 

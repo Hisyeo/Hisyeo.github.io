@@ -9,7 +9,7 @@ description: to climb (a slope) § Verb
 
 ### cutnê&emsp;<span kind="abugida">ꞇ̆ʃƨʇ</span>
 
-*to climb (a slope)* **§** [Verb](../../tags/Verb)
+*to climb (a slope)* **§** Verb
 
 **IPA**: /ˈt͡ɕʌt.ne/
 

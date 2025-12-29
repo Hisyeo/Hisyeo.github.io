@@ -9,7 +9,7 @@ description: storm § Noun
 
 ### bôkbûn&emsp;<span kind="abugida">ʋ̑ıʋ̃ʄ</span>
 
-*storm* **§** [Noun](../../tags/Noun)
+*storm* **§** Noun
 
 **IPA**: /ˈbok.bun/
 

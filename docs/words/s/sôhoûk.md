@@ -9,7 +9,7 @@ description: arithmetic/math § Noun
 
 ### sôhoûk&emsp;<span kind="abugida">ɐıɂɽ̑ʄ</span>
 
-*arithmetic/math* **§** [Noun](../../tags/Noun)
+*arithmetic/math* **§** Noun
 
 **IPA**: /ˈso.hɑ.uk/
 

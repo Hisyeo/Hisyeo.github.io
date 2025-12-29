@@ -9,7 +9,7 @@ description: down § Noun
 
 ### sêl&emsp;<span kind="abugida">ɐ͊ʇ</span>
 
-*down* **§** [Noun](../../tags/Noun)
+*down* **§** Noun
 
 **IPA**: /ˈsel/
 

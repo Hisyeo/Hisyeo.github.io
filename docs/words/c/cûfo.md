@@ -9,7 +9,7 @@ description: to ward (a ward) § Verb
 
 ### cûfo&emsp;<span kind="abugida">ꞇʄɤ</span>
 
-*to ward (a ward)* **§** [Verb](../../tags/Verb)
+*to ward (a ward)* **§** Verb
 
 **IPA**: /ˈt͡ɕu.fɑ/
 

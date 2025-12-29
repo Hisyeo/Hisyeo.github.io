@@ -9,7 +9,7 @@ description: proximal demonstrative (this/here) § Pronoun
 
 ### ôfo&emsp;<span kind="abugida">ɽıɤ</span>
 
-*proximal demonstrative (this/here)* **§** [Pronoun](../../tags/Pronoun)
+*proximal demonstrative (this/here)* **§** Pronoun
 
 **IPA**: /ˈo.fɑ/
 

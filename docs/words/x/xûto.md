@@ -9,7 +9,7 @@ description: river § Noun
 
 ### xûto&emsp;<span kind="abugida">ɋʄc</span>
 
-*river* **§** [Noun](../../tags/Noun)
+*river* **§** Noun
 
 **IPA**: /ˈʃu.tɑ/
 

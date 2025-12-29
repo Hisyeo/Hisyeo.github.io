@@ -9,7 +9,7 @@ description: to borrow/lend (the borrowed/lent) § Verb
 
 ### munyufo&emsp;<span kind="abugida">ƶ̃ʃɀʃɤ</span>
 
-*to borrow/lend (the borrowed/lent)* **§** [Verb](../../tags/Verb)
+*to borrow/lend (the borrowed/lent)* **§** Verb
 
 **IPA**: /ˈmʌn.jʌ.fɑ/
 

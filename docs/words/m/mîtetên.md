@@ -9,7 +9,7 @@ description: trivial § Adjective
 
 ### mîtetên&emsp;<span kind="abugida">ƶɟcɿc̃ʇ</span>
 
-*trivial* **§** [Adjective](../../tags/Adjective)
+*trivial* **§** Adjective
 
 **IPA**: /ˈmi.tɛ.ten/
 

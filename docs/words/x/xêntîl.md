@@ -9,7 +9,7 @@ description: gentle/kind § Adjective
 
 ### xêntîl&emsp;<span kind="abugida">ɋ̃ʇc͊ɟ</span>
 
-*gentle/kind* **§** [Adjective](../../tags/Adjective)
+*gentle/kind* **§** Adjective
 
 **IPA**: /ˈʃen.til/
 

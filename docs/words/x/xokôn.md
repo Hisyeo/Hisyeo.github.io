@@ -9,7 +9,7 @@ description: each § Determiner
 
 ### xokôn&emsp;<span kind="abugida">ɋɔ̃ı</span>
 
-*each* **§** [Determiner](../../tags/Determiner)
+*each* **§** Determiner
 
 **IPA**: /ˈʃɑ.kon/
 

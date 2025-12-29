@@ -9,7 +9,7 @@ description: opposite § Adjective
 
 ### elentêt&emsp;<span kind="abugida">ɽɿʓ̃ɿc̆ʇ</span>
 
-*opposite* **§** [Adjective](../../tags/Adjective)
+*opposite* **§** Adjective
 
 **IPA**: /ˈɛ.lɛn.tet/
 

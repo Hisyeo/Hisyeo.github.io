@@ -9,7 +9,7 @@ description: to employ (the employed) § Verb
 
 ### fiyûxît&emsp;<span kind="abugida">ɤȷɀʄɋ̆ɟ</span>
 
-*to employ (the employed)* **§** [Verb](../../tags/Verb)
+*to employ (the employed)* **§** Verb
 
 **IPA**: /fɪ.ˈju.ʃit/
 

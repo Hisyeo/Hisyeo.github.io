@@ -9,7 +9,7 @@ description: to undergo (an experience) § Verb
 
 ### cînlî&emsp;<span kind="abugida">ꞇ̃ɟʓɟ</span>
 
-*to undergo (an experience)* **§** [Verb](../../tags/Verb)
+*to undergo (an experience)* **§** Verb
 
 **IPA**: /ˈt͡ɕin.li/
 

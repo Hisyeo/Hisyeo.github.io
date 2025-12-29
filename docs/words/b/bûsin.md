@@ -9,7 +9,7 @@ description: dizzy § Adjective
 
 ### bûsin&emsp;<span kind="abugida">ʋʄɐ̃ȷ</span>
 
-*dizzy* **§** [Adjective](../../tags/Adjective)
+*dizzy* **§** Adjective
 
 **IPA**: /ˈbu.sɪn/
 

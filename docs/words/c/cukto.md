@@ -9,7 +9,7 @@ description: to write (text) § Verb
 
 ### cukto&emsp;<span kind="abugida">ꞇ̑ʃc</span>
 
-*to write (text)* **§** [Verb](../../tags/Verb)
+*to write (text)* **§** Verb
 
 **IPA**: /ˈt͡ɕʌk.tɑ/
 

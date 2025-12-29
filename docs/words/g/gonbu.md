@@ -9,7 +9,7 @@ description: leg § Noun
 
 ### gonbu&emsp;<span kind="abugida">ꜿ̃ʋʃ</span>
 
-*leg* **§** [Noun](../../tags/Noun)
+*leg* **§** Noun
 
 **IPA**: /ˈgɑn.bʌ/
 

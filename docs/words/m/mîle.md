@@ -9,7 +9,7 @@ description: future § Adjective
 
 ### mîle&emsp;<span kind="abugida">ƶɟʓɿ</span>
 
-*future* **§** [Adjective](../../tags/Adjective)
+*future* **§** Adjective
 
 **IPA**: /ˈmi.lɛ/
 

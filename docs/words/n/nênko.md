@@ -9,7 +9,7 @@ description: causal marker (because of) § Preposition
 
 ### nênko&emsp;<span kind="abugida">ƨ̃ʇɔ</span>
 
-*causal marker (because of)* **§** [Preposition](../../tags/Preposition)
+*causal marker (because of)* **§** Preposition
 
 **IPA**: /ˈnen.kɑ/
 

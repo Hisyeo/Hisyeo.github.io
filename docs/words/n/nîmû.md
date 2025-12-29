@@ -9,7 +9,7 @@ description: you § Pronoun
 
 ### nîmû&emsp;<span kind="abugida">ƨɟƶʄ</span>
 
-*you* **§** [Pronoun](../../tags/Pronoun)
+*you* **§** Pronoun
 
 **IPA**: /ˈni.mu/
 

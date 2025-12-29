@@ -9,7 +9,7 @@ description: amount § Noun
 
 ### mîkdol&emsp;<span kind="abugida">ƶ̑ɟʌ͊</span>
 
-*amount* **§** [Noun](../../tags/Noun)
+*amount* **§** Noun
 
 **IPA**: /ˈmik.dɑl/
 

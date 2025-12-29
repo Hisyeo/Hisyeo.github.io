@@ -9,7 +9,7 @@ description: to sing/play (music) § Verb
 
 ### kontol&emsp;<span kind="abugida">ɔ̃c͊</span>
 
-*to sing/play (music)* **§** [Verb](../../tags/Verb)
+*to sing/play (music)* **§** Verb
 
 **IPA**: /ˈkɑn.tɑl/
 

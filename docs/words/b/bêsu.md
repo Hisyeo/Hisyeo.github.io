@@ -9,7 +9,7 @@ description: different § Adjective
 
 ### bêsu&emsp;<span kind="abugida">ʋʇɐʃ</span>
 
-*different* **§** [Adjective](../../tags/Adjective)
+*different* **§** Adjective
 
 **IPA**: /ˈbe.sʌ/
 

@@ -9,7 +9,7 @@ description: serious § Adjective
 
 ### yinsûk&emsp;<span kind="abugida">ɀ̃ȷɐ̑ʄ</span>
 
-*serious* **§** [Adjective](../../tags/Adjective)
+*serious* **§** Adjective
 
 **IPA**: /ˈjɪn.suk/
 

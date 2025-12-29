@@ -9,7 +9,7 @@ description: to emit (excreta) § Verb
 
 ### boîfôn&emsp;<span kind="abugida">ʋɽɟɤ̃ı</span>
 
-*to emit (excreta)* **§** [Verb](../../tags/Verb)
+*to emit (excreta)* **§** Verb
 
 **IPA**: /ˈbɑ.i.fon/
 

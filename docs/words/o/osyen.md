@@ -9,7 +9,7 @@ description: ancient § Adjective
 
 ### osyen&emsp;<span kind="abugida">ɽ́ɀ̃ɿ</span>
 
-*ancient* **§** [Adjective](../../tags/Adjective)
+*ancient* **§** Adjective
 
 **IPA**: /ˈɑs.jɛn/
 

@@ -9,7 +9,7 @@ description: irony/sarcasm § Noun
 
 ### gûfoxê&emsp;<span kind="abugida">ꜿʄɤɋʇ</span>
 
-*irony/sarcasm* **§** [Noun](../../tags/Noun)
+*irony/sarcasm* **§** Noun
 
 **IPA**: /ˈgu.fɑ.ʃe/
 

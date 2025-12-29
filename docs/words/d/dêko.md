@@ -9,7 +9,7 @@ description: to see (a view) § Verb
 
 ### dêko&emsp;<span kind="abugida">ʌʇɔ</span>
 
-*to see (a view)* **§** [Verb](../../tags/Verb)
+*to see (a view)* **§** Verb
 
 **IPA**: /ˈde.kɑ/
 

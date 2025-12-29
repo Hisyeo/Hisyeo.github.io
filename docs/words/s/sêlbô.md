@@ -9,7 +9,7 @@ description: yellow § Adjective
 
 ### sêlbô&emsp;<span kind="abugida">ɐ͊ʇʋı</span>
 
-*yellow* **§** [Adjective](../../tags/Adjective)
+*yellow* **§** Adjective
 
 **IPA**: /ˈsel.bo/
 

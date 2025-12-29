@@ -9,7 +9,7 @@ description: to seal/lock (the sealed/locked) § Verb
 
 ### besol&emsp;<span kind="abugida">ʋɿɐ͊</span>
 
-*to seal/lock (the sealed/locked)* **§** [Verb](../../tags/Verb)
+*to seal/lock (the sealed/locked)* **§** Verb
 
 **IPA**: /ˈbɛ.sɑl/
 

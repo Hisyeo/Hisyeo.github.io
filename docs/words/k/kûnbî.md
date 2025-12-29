@@ -9,7 +9,7 @@ description: scene/stage § Noun
 
 ### kûnbî&emsp;<span kind="abugida">ɔ̃ʄʋɟ</span>
 
-*scene/stage* **§** [Noun](../../tags/Noun)
+*scene/stage* **§** Noun
 
 **IPA**: /ˈkun.bi/
 

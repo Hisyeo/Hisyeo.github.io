@@ -9,7 +9,7 @@ description: vegetable § Noun
 
 ### ûnfûnô&emsp;<span kind="abugida">ɽ̃ʄɤʄƨı</span>
 
-*vegetable* **§** [Noun](../../tags/Noun)
+*vegetable* **§** Noun
 
 **IPA**: /ˈun.fu.no/
 

@@ -9,7 +9,7 @@ description: repeating § Adjective
 
 ### cûnfû&emsp;<span kind="abugida">ꞇ̃ʄɤʄ</span>
 
-*repeating* **§** [Adjective](../../tags/Adjective)
+*repeating* **§** Adjective
 
 **IPA**: /ˈt͡ɕun.fu/
 

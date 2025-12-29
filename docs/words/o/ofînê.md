@@ -9,7 +9,7 @@ description: cultured/refined § Adjective
 
 ### ofînê&emsp;<span kind="abugida">ɽɤɟƨʇ</span>
 
-*cultured/refined* **§** [Adjective](../../tags/Adjective)
+*cultured/refined* **§** Adjective
 
 **IPA**: /ˈɑ.fi.ne/
 

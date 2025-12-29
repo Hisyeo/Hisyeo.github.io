@@ -9,7 +9,7 @@ description: to bet (a bet) § Verb
 
 ### dodôû&emsp;<span kind="abugida">ʌʌıɽʄ</span>
 
-*to bet (a bet)* **§** [Verb](../../tags/Verb)
+*to bet (a bet)* **§** Verb
 
 **IPA**: /ˈdɑ.do.u/
 

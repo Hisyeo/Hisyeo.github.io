@@ -9,7 +9,7 @@ description: ground/terrain/earth § Noun
 
 ### bûmî&emsp;<span kind="abugida">ʋʄƶɟ</span>
 
-*ground/terrain/earth* **§** [Noun](../../tags/Noun)
+*ground/terrain/earth* **§** Noun
 
 **IPA**: /ˈbu.mi/
 

@@ -9,7 +9,7 @@ description: ancestral § Adjective
 
 ### sênzô&emsp;<span kind="abugida">ɐ̃ʇⱴı</span>
 
-*ancestral* **§** [Adjective](../../tags/Adjective)
+*ancestral* **§** Adjective
 
 **IPA**: /ˈsen.d͡ʒo/
 

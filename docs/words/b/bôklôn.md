@@ -9,7 +9,7 @@ description: to govern (the governed) § Verb
 
 ### bôklôn&emsp;<span kind="abugida">ʋ̑ıʓ̃ı</span>
 
-*to govern (the governed)* **§** [Verb](../../tags/Verb)
+*to govern (the governed)* **§** Verb
 
 **IPA**: /ˈbok.lon/
 

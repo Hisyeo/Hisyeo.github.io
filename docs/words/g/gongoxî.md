@@ -9,7 +9,7 @@ description: alarm § Noun
 
 ### gongoxî&emsp;<span kind="abugida">ꜿ̃ꜿɋɟ</span>
 
-*alarm* **§** [Noun](../../tags/Noun)
+*alarm* **§** Noun
 
 **IPA**: /ˈgɑn.gɑ.ʃi/
 

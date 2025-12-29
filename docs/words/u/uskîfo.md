@@ -9,7 +9,7 @@ description: to avoid/dodge (evasion/dodge) § Verb
 
 ### uskîfo&emsp;<span kind="abugida">ɽ́ʃɔɟɤ</span>
 
-*to avoid/dodge (evasion/dodge)* **§** [Verb](../../tags/Verb)
+*to avoid/dodge (evasion/dodge)* **§** Verb
 
 **IPA**: /ʌs.ˈki.fɑ/
 

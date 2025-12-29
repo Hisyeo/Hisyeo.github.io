@@ -9,7 +9,7 @@ description: subject complement marker § Preposition
 
 ### li&emsp;<span kind="abugida">ʓȷ</span>
 
-*subject complement marker* **§** [Preposition](../../tags/Preposition)
+*subject complement marker* **§** Preposition
 
 **IPA**: /ˈlɪ/
 

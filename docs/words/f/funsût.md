@@ -9,7 +9,7 @@ description: defeated § Adjective
 
 ### funsût&emsp;<span kind="abugida">ɤ̃ʃɐ̆ʄ</span>
 
-*defeated* **§** [Adjective](../../tags/Adjective)
+*defeated* **§** Adjective
 
 **IPA**: /ˈfʌn.sut/
 

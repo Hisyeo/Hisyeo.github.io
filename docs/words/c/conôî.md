@@ -9,7 +9,7 @@ description: beak § Noun
 
 ### conôî&emsp;<span kind="abugida">ꞇƨıɽɟ</span>
 
-*beak* **§** [Noun](../../tags/Noun)
+*beak* **§** Noun
 
 **IPA**: /ˈt͡ɕɑ.no.i/
 

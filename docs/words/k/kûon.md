@@ -9,7 +9,7 @@ description: light § Noun
 
 ### kûon&emsp;<span kind="abugida">ɔʄɽ̃</span>
 
-*light* **§** [Noun](../../tags/Noun)
+*light* **§** Noun
 
 **IPA**: /ˈku.ɑn/
 

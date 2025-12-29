@@ -9,7 +9,7 @@ description: wall § Noun
 
 ### bêlêtê&emsp;<span kind="abugida">ʋʇʓʇcʇ</span>
 
-*wall* **§** [Noun](../../tags/Noun)
+*wall* **§** Noun
 
 **IPA**: /ˈbe.le.te/
 

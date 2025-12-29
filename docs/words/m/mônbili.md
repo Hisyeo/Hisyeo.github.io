@@ -9,7 +9,7 @@ description: far § Adjective
 
 ### mônbili&emsp;<span kind="abugida">ƶ̃ıʋȷʓȷ</span>
 
-*far* **§** [Adjective](../../tags/Adjective)
+*far* **§** Adjective
 
 **IPA**: /ˈmon.bɪ.lɪ/
 

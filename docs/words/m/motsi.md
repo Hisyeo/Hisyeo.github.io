@@ -9,7 +9,7 @@ description: to await (an expectation) § Verb
 
 ### motsi&emsp;<span kind="abugida">ƶ̆ɐȷ</span>
 
-*to await (an expectation)* **§** [Verb](../../tags/Verb)
+*to await (an expectation)* **§** Verb
 
 **IPA**: /ˈmɑt.sɪ/
 

@@ -9,7 +9,7 @@ description: to immerse (the immersed) § Verb
 
 ### dûbono&emsp;<span kind="abugida">ʌʄʋƨ</span>
 
-*to immerse (the immersed)* **§** [Verb](../../tags/Verb)
+*to immerse (the immersed)* **§** Verb
 
 **IPA**: /ˈdu.bɑ.nɑ/
 

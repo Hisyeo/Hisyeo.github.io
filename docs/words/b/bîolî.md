@@ -9,7 +9,7 @@ description: hello/goodbye § Interjection
 
 ### bîolî&emsp;<span kind="abugida">ʋɟɽʓɟ</span>
 
-*hello/goodbye* **§** [Interjection](../../tags/Interjection)
+*hello/goodbye* **§** Interjection
 
 **IPA**: /ˈbi.ɑ.li/
 

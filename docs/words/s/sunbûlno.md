@@ -9,7 +9,7 @@ description: flawless § Adjective
 
 ### sunbûlno&emsp;<span kind="abugida">ɐ̃ʃʋ͊ʄƨ</span>
 
-*flawless* **§** [Adjective](../../tags/Adjective)
+*flawless* **§** Adjective
 
 **IPA**: /sʌn.ˈbul.nɑ/
 

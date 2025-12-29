@@ -9,7 +9,7 @@ description: to cut (the cut/chopped) § Verb
 
 ### wêtû&emsp;<span kind="abugida">ʒʇcʄ</span>
 
-*to cut (the cut/chopped)* **§** [Verb](../../tags/Verb)
+*to cut (the cut/chopped)* **§** Verb
 
 **IPA**: /ˈwe.tu/
 

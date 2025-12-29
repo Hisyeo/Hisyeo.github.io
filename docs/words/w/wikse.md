@@ -9,7 +9,7 @@ description: belly § Noun
 
 ### wikse&emsp;<span kind="abugida">ʒ̑ȷɐɿ</span>
 
-*belly* **§** [Noun](../../tags/Noun)
+*belly* **§** Noun
 
 **IPA**: /ˈwɪk.sɛ/
 

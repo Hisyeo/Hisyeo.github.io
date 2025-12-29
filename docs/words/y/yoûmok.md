@@ -9,7 +9,7 @@ description: humorous § Adjective
 
 ### yoûmok&emsp;<span kind="abugida">ɀɽʄƶ̑</span>
 
-*humorous* **§** [Adjective](../../tags/Adjective)
+*humorous* **§** Adjective
 
 **IPA**: /ˈjɑ.u.mɑk/
 

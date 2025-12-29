@@ -9,7 +9,7 @@ description: to invest [in] (an investee) § Verb
 
 ### wêkêso&emsp;<span kind="abugida">ʒʇɔʇɐ</span>
 
-*to invest [in] (an investee)* **§** [Verb](../../tags/Verb)
+*to invest [in] (an investee)* **§** Verb
 
 **IPA**: /ˈwe.ke.sɑ/
 

@@ -9,7 +9,7 @@ description: genitalia § Noun
 
 ### sêkî&emsp;<span kind="abugida">ɐʇɔɟ</span>
 
-*genitalia* **§** [Noun](../../tags/Noun)
+*genitalia* **§** Noun
 
 **IPA**: /ˈse.ki/
 

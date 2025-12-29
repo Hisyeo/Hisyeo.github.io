@@ -9,7 +9,7 @@ description: adamant/stubborn § Adjective
 
 ### ûlkêfî&emsp;<span kind="abugida">ɽ͊ʄɔʇɤɟ</span>
 
-*adamant/stubborn* **§** [Adjective](../../tags/Adjective)
+*adamant/stubborn* **§** Adjective
 
 **IPA**: /ˈul.ke.fi/
 

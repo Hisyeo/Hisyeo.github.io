@@ -9,7 +9,7 @@ description: conversion § Noun
 
 ### dônûxin&emsp;<span kind="abugida">ʌıƨʄɋ̃ȷ</span>
 
-*conversion* **§** [Noun](../../tags/Noun)
+*conversion* **§** Noun
 
 **IPA**: /ˈdo.nu.ʃɪn/
 

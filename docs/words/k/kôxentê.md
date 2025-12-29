@@ -9,7 +9,7 @@ description: conscious § Adjective
 
 ### kôxentê&emsp;<span kind="abugida">ɔıɋ̃ɿcʇ</span>
 
-*conscious* **§** [Adjective](../../tags/Adjective)
+*conscious* **§** Adjective
 
 **IPA**: /ˈko.ʃɛn.te/
 

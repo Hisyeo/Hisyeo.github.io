@@ -9,7 +9,7 @@ description: rotten/corrupt § Adjective
 
 ### mîstu&emsp;<span kind="abugida">ƶ́ɟcʃ</span>
 
-*rotten/corrupt* **§** [Adjective](../../tags/Adjective)
+*rotten/corrupt* **§** Adjective
 
 **IPA**: /ˈmis.tʌ/
 

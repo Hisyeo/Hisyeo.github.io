@@ -9,7 +9,7 @@ description: space/cosmos § Noun
 
 ### kôsmô&emsp;<span kind="abugida">ɔ́ıƶı</span>
 
-*space/cosmos* **§** [Noun](../../tags/Noun)
+*space/cosmos* **§** Noun
 
 **IPA**: /ˈkos.mo/
 

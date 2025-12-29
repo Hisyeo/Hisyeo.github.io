@@ -9,7 +9,7 @@ description: to enforce (the enforced) § Verb
 
 ### cixîn&emsp;<span kind="abugida">ꞇȷɋ̃ɟ</span>
 
-*to enforce (the enforced)* **§** [Verb](../../tags/Verb)
+*to enforce (the enforced)* **§** Verb
 
 **IPA**: /ˈt͡ɕɪ.ʃin/
 

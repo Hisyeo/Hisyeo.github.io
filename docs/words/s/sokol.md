@@ -9,7 +9,7 @@ description: awkward/clumsy § Adjective
 
 ### sokol&emsp;<span kind="abugida">ɐɔ͊</span>
 
-*awkward/clumsy* **§** [Adjective](../../tags/Adjective)
+*awkward/clumsy* **§** Adjective
 
 **IPA**: /ˈsɑ.kɑl/
 

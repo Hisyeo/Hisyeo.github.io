@@ -9,7 +9,7 @@ description: to bury (the buried) § Verb
 
 ### fîzî&emsp;<span kind="abugida">ɤɟⱴɟ</span>
 
-*to bury (the buried)* **§** [Verb](../../tags/Verb)
+*to bury (the buried)* **§** Verb
 
 **IPA**: /ˈfi.d͡ʒi/
 

@@ -9,7 +9,7 @@ description: purchase § Noun
 
 ### kôlmûdul&emsp;<span kind="abugida">ɔ͊ıƶʄʌ͊ʃ</span>
 
-*purchase* **§** [Noun](../../tags/Noun)
+*purchase* **§** Noun
 
 **IPA**: /ˈkol.mu.dʌl/
 

@@ -9,7 +9,7 @@ description: address § Noun
 
 ### onwonî&emsp;<span kind="abugida">ɽ̃ʒƨɟ</span>
 
-*address* **§** [Noun](../../tags/Noun)
+*address* **§** Noun
 
 **IPA**: /ˈɑn.wɑ.ni/
 

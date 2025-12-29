@@ -9,7 +9,7 @@ description: metal § Noun
 
 ### ûlôgun&emsp;<span kind="abugida">ɽʄʓıꜿ̃ʃ</span>
 
-*metal* **§** [Noun](../../tags/Noun)
+*metal* **§** Noun
 
 **IPA**: /ˈu.lo.gʌn/
 

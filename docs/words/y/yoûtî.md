@@ -9,7 +9,7 @@ description: some/a few § Determiner
 
 ### yoûtî&emsp;<span kind="abugida">ɀɽʄcɟ</span>
 
-*some/a few* **§** [Determiner](../../tags/Determiner)
+*some/a few* **§** Determiner
 
 **IPA**: /ˈjɑ.u.ti/
 

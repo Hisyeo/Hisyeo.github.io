@@ -9,7 +9,7 @@ description: neck/throat § Noun
 
 ### xingô&emsp;<span kind="abugida">ɋ̃ȷꜿı</span>
 
-*neck/throat* **§** [Noun](../../tags/Noun)
+*neck/throat* **§** Noun
 
 **IPA**: /ˈʃɪn.go/
 

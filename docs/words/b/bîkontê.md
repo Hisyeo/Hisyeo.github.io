@@ -9,7 +9,7 @@ description: spicy § Adjective
 
 ### bîkontê&emsp;<span kind="abugida">ʋɟɔ̃cʇ</span>
 
-*spicy* **§** [Adjective](../../tags/Adjective)
+*spicy* **§** Adjective
 
 **IPA**: /ˈbi.kɑn.te/
 

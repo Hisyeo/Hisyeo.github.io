@@ -9,7 +9,7 @@ description: happy § Adjective
 
 ### xowosê&emsp;<span kind="abugida">ɋʒɐʇ</span>
 
-*happy* **§** [Adjective](../../tags/Adjective)
+*happy* **§** Adjective
 
 **IPA**: /ˈʃɑ.wɑ.se/
 

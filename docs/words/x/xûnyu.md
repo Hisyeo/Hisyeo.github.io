@@ -9,7 +9,7 @@ description: 00 zero § Numeral
 
 ### xûnyu&emsp;<span kind="abugida">ɋ̃ʄɀʃ</span>
 
-*00 zero* **§** [Numeral](../../tags/Numeral)
+*00 zero* **§** Numeral
 
 **IPA**: /ˈʃun.jʌ/
 

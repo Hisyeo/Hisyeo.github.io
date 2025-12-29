@@ -9,7 +9,7 @@ description: click/snap § Noun
 
 ### cuskîdô&emsp;<span kind="abugida">ꞇ́ʃɔɟʌı</span>
 
-*click/snap* **§** [Noun](../../tags/Noun)
+*click/snap* **§** Noun
 
 **IPA**: /t͡ɕʌs.ˈki.do/
 

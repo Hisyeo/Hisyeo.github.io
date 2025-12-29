@@ -9,7 +9,7 @@ description: to receive (the received) § Verb
 
 ### dôstoc&emsp;<span kind="abugida">ʌ́ıc̄</span>
 
-*to receive (the received)* **§** [Verb](../../tags/Verb)
+*to receive (the received)* **§** Verb
 
 **IPA**: /ˈdos.tɑt͡ɕ/
 

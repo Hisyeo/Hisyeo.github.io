@@ -9,7 +9,7 @@ description: closed § Adjective
 
 ### bundu&emsp;<span kind="abugida">ʋ̃ʃʌʃ</span>
 
-*closed* **§** [Adjective](../../tags/Adjective)
+*closed* **§** Adjective
 
 **IPA**: /ˈbʌn.dʌ/
 

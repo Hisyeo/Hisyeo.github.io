@@ -9,7 +9,7 @@ description: negatitive verb modifier particle § Particle
 
 ### dês&emsp;<span kind="abugida">ʌ́ʇ</span>
 
-*negatitive verb modifier particle* **§** [Particle](../../tags/Particle)
+*negatitive verb modifier particle* **§** Particle
 
 **IPA**: /ˈdes/
 

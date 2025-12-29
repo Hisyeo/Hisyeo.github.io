@@ -9,7 +9,7 @@ description: mammal § Noun
 
 ### hôktun&emsp;<span kind="abugida">ɂ̑ıc̃ʃ</span>
 
-*mammal* **§** [Noun](../../tags/Noun)
+*mammal* **§** Noun
 
 **IPA**: /ˈhok.tʌn/
 

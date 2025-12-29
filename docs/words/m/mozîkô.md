@@ -9,7 +9,7 @@ description: magical § Adjective
 
 ### mozîkô&emsp;<span kind="abugida">ƶⱴɟɔı</span>
 
-*magical* **§** [Adjective](../../tags/Adjective)
+*magical* **§** Adjective
 
 **IPA**: /ˈmɑ.d͡ʒi.ko/
 

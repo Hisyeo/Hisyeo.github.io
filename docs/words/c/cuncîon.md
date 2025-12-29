@@ -9,7 +9,7 @@ description: to fortify (the fortified) § Verb
 
 ### cuncîon&emsp;<span kind="abugida">ꞇ̃ʃꞇɟɽ̃</span>
 
-*to fortify (the fortified)* **§** [Verb](../../tags/Verb)
+*to fortify (the fortified)* **§** Verb
 
 **IPA**: /t͡ɕʌn.ˈt͡ɕi.ɑn/
 

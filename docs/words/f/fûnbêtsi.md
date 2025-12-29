@@ -9,7 +9,7 @@ description: prudent/sensible § Adjective
 
 ### fûnbêtsi&emsp;<span kind="abugida">ɤ̃ʄʋ̆ʇɐȷ</span>
 
-*prudent/sensible* **§** [Adjective](../../tags/Adjective)
+*prudent/sensible* **§** Adjective
 
 **IPA**: /ˈfun.bet.sɪ/
 

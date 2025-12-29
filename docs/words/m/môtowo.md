@@ -9,7 +9,7 @@ description: content § Noun
 
 ### môtowo&emsp;<span kind="abugida">ƶıcʒ</span>
 
-*content* **§** [Noun](../../tags/Noun)
+*content* **§** Noun
 
 **IPA**: /ˈmo.tɑ.wɑ/
 

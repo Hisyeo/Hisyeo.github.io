@@ -9,7 +9,7 @@ description: strange § Adjective
 
 ### gonzîl&emsp;<span kind="abugida">ꜿ̃ⱴ͊ɟ</span>
 
-*strange* **§** [Adjective](../../tags/Adjective)
+*strange* **§** Adjective
 
 **IPA**: /ˈgɑn.d͡ʒil/
 

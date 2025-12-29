@@ -9,7 +9,7 @@ description: smoke/cloud § Noun
 
 ### wôlik&emsp;<span kind="abugida">ʒıʓ̑ȷ</span>
 
-*smoke/cloud* **§** [Noun](../../tags/Noun)
+*smoke/cloud* **§** Noun
 
 **IPA**: /ˈwo.lɪk/
 

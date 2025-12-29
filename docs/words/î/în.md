@@ -9,7 +9,7 @@ description: verb modifier particle § Particle
 
 ### în&emsp;<span kind="abugida">ɽ̃ɟ</span>
 
-*verb modifier particle* **§** [Particle](../../tags/Particle)
+*verb modifier particle* **§** Particle
 
 **IPA**: /ˈin/
 

@@ -9,7 +9,7 @@ description: soil/dirt § Noun
 
 ### gêkô&emsp;<span kind="abugida">ꜿʇɔı</span>
 
-*soil/dirt* **§** [Noun](../../tags/Noun)
+*soil/dirt* **§** Noun
 
 **IPA**: /ˈge.ko/
 

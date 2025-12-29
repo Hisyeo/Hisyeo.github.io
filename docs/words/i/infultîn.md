@@ -9,7 +9,7 @@ description: rotating/spinning § Adjective
 
 ### infultîn&emsp;<span kind="abugida">ɽ̃ȷɤ͊ʃc̃ɟ</span>
 
-*rotating/spinning* **§** [Adjective](../../tags/Adjective)
+*rotating/spinning* **§** Adjective
 
 **IPA**: /ˈɪn.fʌl.tin/
 

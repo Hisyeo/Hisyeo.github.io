@@ -9,7 +9,7 @@ description: weak § Adjective
 
 ### hîyôlî&emsp;<span kind="abugida">ɂɟɀıʓɟ</span>
 
-*weak* **§** [Adjective](../../tags/Adjective)
+*weak* **§** Adjective
 
 **IPA**: /ˈhi.jo.li/
 

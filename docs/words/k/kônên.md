@@ -9,7 +9,7 @@ description: possible/likely § Adjective
 
 ### kônên&emsp;<span kind="abugida">ɔıƨ̃ʇ</span>
 
-*possible/likely* **§** [Adjective](../../tags/Adjective)
+*possible/likely* **§** Adjective
 
 **IPA**: /ˈko.nen/
 

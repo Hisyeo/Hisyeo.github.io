@@ -9,7 +9,7 @@ description: strict § Adjective
 
 ### xîdêtlî&emsp;<span kind="abugida">ɋɟʌ̆ʇʓɟ</span>
 
-*strict* **§** [Adjective](../../tags/Adjective)
+*strict* **§** Adjective
 
 **IPA**: /ˈʃi.det.li/
 

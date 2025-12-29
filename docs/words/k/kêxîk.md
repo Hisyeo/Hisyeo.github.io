@@ -9,7 +9,7 @@ description: variable/unstable § Adjective
 
 ### kêxîk&emsp;<span kind="abugida">ɔʇɋ̑ɟ</span>
 
-*variable/unstable* **§** [Adjective](../../tags/Adjective)
+*variable/unstable* **§** Adjective
 
 **IPA**: /ˈke.ʃik/
 

@@ -9,7 +9,7 @@ description: to ship/send (a package) § Verb
 
 ### lufono&emsp;<span kind="abugida">ʓʃɤƨ</span>
 
-*to ship/send (a package)* **§** [Verb](../../tags/Verb)
+*to ship/send (a package)* **§** Verb
 
 **IPA**: /lʌ.ˈfɑ.nɑ/
 

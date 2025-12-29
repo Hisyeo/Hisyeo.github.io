@@ -9,7 +9,7 @@ description: successive marker (after) § Preposition
 
 ### cihôû&emsp;<span kind="abugida">ꞇȷɂıɽʄ</span>
 
-*successive marker (after)* **§** [Preposition](../../tags/Preposition)
+*successive marker (after)* **§** Preposition
 
 **IPA**: /t͡ɕɪ.ˈho.u/
 

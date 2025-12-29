@@ -9,7 +9,7 @@ description: illusion § Noun
 
 ### fûongok&emsp;<span kind="abugida">ɤʄɽ̃ꜿ̑</span>
 
-*illusion* **§** [Noun](../../tags/Noun)
+*illusion* **§** Noun
 
 **IPA**: /ˈfu.ɑn.gɑk/
 

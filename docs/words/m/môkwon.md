@@ -9,7 +9,7 @@ description: unrelated § Adjective
 
 ### môkwon&emsp;<span kind="abugida">ƶ̑ıʒ̃</span>
 
-*unrelated* **§** [Adjective](../../tags/Adjective)
+*unrelated* **§** Adjective
 
 **IPA**: /ˈmok.wɑn/
 

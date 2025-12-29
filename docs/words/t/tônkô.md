@@ -9,7 +9,7 @@ description: hurting/suffering § Adjective
 
 ### tônkô&emsp;<span kind="abugida">c̃ıɔı</span>
 
-*hurting/suffering* **§** [Adjective](../../tags/Adjective)
+*hurting/suffering* **§** Adjective
 
 **IPA**: /ˈton.ko/
 

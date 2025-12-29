@@ -9,7 +9,7 @@ description: to meet (a meetee) § Verb
 
 ### monodo&emsp;<span kind="abugida">ƶƨʌ</span>
 
-*to meet (a meetee)* **§** [Verb](../../tags/Verb)
+*to meet (a meetee)* **§** Verb
 
 **IPA**: /ˈmɑ.nɑ.dɑ/
 

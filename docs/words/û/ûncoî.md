@@ -9,7 +9,7 @@ description: proud § Adjective
 
 ### ûncoî&emsp;<span kind="abugida">ɽ̃ʄꞇɽɟ</span>
 
-*proud* **§** [Adjective](../../tags/Adjective)
+*proud* **§** Adjective
 
 **IPA**: /ˈun.t͡ɕɑ.i/
 

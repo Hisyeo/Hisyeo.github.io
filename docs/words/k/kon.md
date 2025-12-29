@@ -9,7 +9,7 @@ description: abstract verb noun particle § Particle
 
 ### kon&emsp;<span kind="abugida">ɔ̃</span>
 
-*abstract verb noun particle* **§** [Particle](../../tags/Particle)
+*abstract verb noun particle* **§** Particle
 
 **IPA**: /ˈkɑn/
 

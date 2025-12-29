@@ -9,7 +9,7 @@ description: 1000 thousand § Particle
 
 ### elfû&emsp;<span kind="abugida">ɽ͊ɿɤʄ</span>
 
-*1000 thousand* **§** [Particle](../../tags/Particle)
+*1000 thousand* **§** Particle
 
 **IPA**: /ˈɛl.fu/
 

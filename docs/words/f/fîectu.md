@@ -9,7 +9,7 @@ description: simple/basic § Adjective
 
 ### fîectu&emsp;<span kind="abugida">ɤɟɽ̄ɿcʃ</span>
 
-*simple/basic* **§** [Adjective](../../tags/Adjective)
+*simple/basic* **§** Adjective
 
 **IPA**: /ˈfi.ɛt͡ɕ.tʌ/
 

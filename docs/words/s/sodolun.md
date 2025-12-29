@@ -9,7 +9,7 @@ description: normal § Adjective
 
 ### sodolun&emsp;<span kind="abugida">ɐʌʓ̃ʃ</span>
 
-*normal* **§** [Adjective](../../tags/Adjective)
+*normal* **§** Adjective
 
 **IPA**: /ˈsɑ.dɑ.lʌn/
 

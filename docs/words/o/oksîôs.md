@@ -9,7 +9,7 @@ description: worthy § Adjective
 
 ### oksîôs&emsp;<span kind="abugida">ɽ̑ɐɟɽ́ı</span>
 
-*worthy* **§** [Adjective](../../tags/Adjective)
+*worthy* **§** Adjective
 
 **IPA**: /ˈɑk.si.os/
 

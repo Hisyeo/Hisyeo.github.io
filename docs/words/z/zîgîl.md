@@ -9,7 +9,7 @@ description: falling § Adjective
 
 ### zîgîl&emsp;<span kind="abugida">ⱴɟꜿ͊ɟ</span>
 
-*falling* **§** [Adjective](../../tags/Adjective)
+*falling* **§** Adjective
 
 **IPA**: /ˈd͡ʒi.gil/
 

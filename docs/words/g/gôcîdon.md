@@ -9,7 +9,7 @@ description: to choose (a choice) § Verb
 
 ### gôcîdon&emsp;<span kind="abugida">ꜿıꞇɟʌ̃</span>
 
-*to choose (a choice)* **§** [Verb](../../tags/Verb)
+*to choose (a choice)* **§** Verb
 
 **IPA**: /ˈgo.t͡ɕi.dɑn/
 

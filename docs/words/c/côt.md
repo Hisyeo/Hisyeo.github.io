@@ -9,7 +9,7 @@ description: thick § Adjective
 
 ### côt&emsp;<span kind="abugida">ꞇ̆ı</span>
 
-*thick* **§** [Adjective](../../tags/Adjective)
+*thick* **§** Adjective
 
 **IPA**: /ˈt͡ɕot/
 

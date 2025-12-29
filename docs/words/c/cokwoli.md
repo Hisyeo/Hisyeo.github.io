@@ -9,7 +9,7 @@ description: pyramid § Noun
 
 ### cokwoli&emsp;<span kind="abugida">ꞇ̑ʒʓȷ</span>
 
-*pyramid* **§** [Noun](../../tags/Noun)
+*pyramid* **§** Noun
 
 **IPA**: /ˈt͡ɕɑk.wɑ.lɪ/
 

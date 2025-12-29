@@ -9,7 +9,7 @@ description: facility/equipment § Adjective
 
 ### sîokbî&emsp;<span kind="abugida">ɐɟɽ̑ʋɟ</span>
 
-*facility/equipment* **§** [Adjective](../../tags/Adjective)
+*facility/equipment* **§** Adjective
 
 **IPA**: /ˈsi.ak.bi/
 

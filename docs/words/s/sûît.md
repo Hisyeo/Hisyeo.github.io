@@ -9,7 +9,7 @@ description: sweet § Adjective
 
 ### sûît&emsp;<span kind="abugida">ɐʄʒ̆ɟ</span>
 
-*sweet* **§** [Adjective](../../tags/Adjective)
+*sweet* **§** Adjective
 
 **IPA**: /ˈsu.wit/
 

@@ -9,7 +9,7 @@ description: deer/giraffe/pronghorn § Noun
 
 ### lûîcû&emsp;<span kind="abugida">ʓʄɽɟꞇʄ</span>
 
-*deer/giraffe/pronghorn* **§** [Noun](../../tags/Noun)
+*deer/giraffe/pronghorn* **§** Noun
 
 **IPA**: /ˈlu.i.t͡ɕu/
 

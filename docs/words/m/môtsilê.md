@@ -9,7 +9,7 @@ description: to tie (the tied) § Verb
 
 ### môtsilê&emsp;<span kind="abugida">ƶ̆ıɐȷʓʇ</span>
 
-*to tie (the tied)* **§** [Verb](../../tags/Verb)
+*to tie (the tied)* **§** Verb
 
 **IPA**: /ˈmot.sɪ.le/
 

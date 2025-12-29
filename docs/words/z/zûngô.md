@@ -9,7 +9,7 @@ description: hand § Noun
 
 ### zûngô&emsp;<span kind="abugida">ⱴ̃ʄꜿı</span>
 
-*hand* **§** [Noun](../../tags/Noun)
+*hand* **§** Noun
 
 **IPA**: /ˈd͡ʒun.go/
 

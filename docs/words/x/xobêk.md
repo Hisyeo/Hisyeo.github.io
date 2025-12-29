@@ -9,7 +9,7 @@ description: previous § Adjective
 
 ### xobêk&emsp;<span kind="abugida">ɋʋ̑ʇ</span>
 
-*previous* **§** [Adjective](../../tags/Adjective)
+*previous* **§** Adjective
 
 **IPA**: /ˈʃɑ.bek/
 

@@ -9,7 +9,7 @@ description: disgusted § Adjective
 
 ### golfon&emsp;<span kind="abugida">ꜿ͊ɤ̃</span>
 
-*disgusted* **§** [Adjective](../../tags/Adjective)
+*disgusted* **§** Adjective
 
 **IPA**: /ˈgɑl.fɑn/
 

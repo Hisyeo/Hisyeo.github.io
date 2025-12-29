@@ -9,7 +9,7 @@ description: cave § Noun
 
 ### yoskînyo&emsp;<span kind="abugida">ɀ́ɔ̃ɟɀ</span>
 
-*cave* **§** [Noun](../../tags/Noun)
+*cave* **§** Noun
 
 **IPA**: /ˈjɑs.kin.jɑ/
 

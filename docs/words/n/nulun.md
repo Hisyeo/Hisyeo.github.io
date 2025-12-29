@@ -9,7 +9,7 @@ description: soft § Adjective
 
 ### nulun&emsp;<span kind="abugida">ƨʃʓ̃ʃ</span>
 
-*soft* **§** [Adjective](../../tags/Adjective)
+*soft* **§** Adjective
 
 **IPA**: /ˈnʌ.lʌn/
 

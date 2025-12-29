@@ -9,7 +9,7 @@ description: strip/band § Noun
 
 ### lîsto&emsp;<span kind="abugida">ʓ́ɟc</span>
 
-*strip/band* **§** [Noun](../../tags/Noun)
+*strip/band* **§** Noun
 
 **IPA**: /ˈlis.tɑ/
 

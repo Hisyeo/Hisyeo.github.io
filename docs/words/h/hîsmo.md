@@ -9,7 +9,7 @@ description: cousin § Noun
 
 ### hîsmo&emsp;<span kind="abugida">ɂ́ɟƶ</span>
 
-*cousin* **§** [Noun](../../tags/Noun)
+*cousin* **§** Noun
 
 **IPA**: /ˈhis.mɑ/
 

@@ -9,7 +9,7 @@ description: partner § Noun
 
 ### hûnsûon&emsp;<span kind="abugida">ɂ̃ʄɐʄɽ̃</span>
 
-*partner* **§** [Noun](../../tags/Noun)
+*partner* **§** Noun
 
 **IPA**: /ˈhun.su.ɑn/
 

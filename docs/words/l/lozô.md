@@ -9,7 +9,7 @@ description: ray/beam § Noun
 
 ### lozô&emsp;<span kind="abugida">ʓⱴı</span>
 
-*ray/beam* **§** [Noun](../../tags/Noun)
+*ray/beam* **§** Noun
 
 **IPA**: /ˈlɑ.d͡ʒo/
 

@@ -9,7 +9,7 @@ description: line § Noun
 
 ### gîto&emsp;<span kind="abugida">ꜿɟc</span>
 
-*line* **§** [Noun](../../tags/Noun)
+*line* **§** Noun
 
 **IPA**: /ˈgi.tɑ/
 

@@ -9,7 +9,7 @@ description: evidential marker (or so) § Preposition
 
 ### oldis&emsp;<span kind="abugida">ɽ͊ʌ́ȷ</span>
 
-*evidential marker (or so)* **§** [Preposition](../../tags/Preposition)
+*evidential marker (or so)* **§** Preposition
 
 **IPA**: /ˈɑl.dɪs/
 

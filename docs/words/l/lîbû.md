@@ -9,7 +9,7 @@ description: sheet § Noun
 
 ### lîbû&emsp;<span kind="abugida">ʓɟʋʄ</span>
 
-*sheet* **§** [Noun](../../tags/Noun)
+*sheet* **§** Noun
 
 **IPA**: /ˈli.bu/
 

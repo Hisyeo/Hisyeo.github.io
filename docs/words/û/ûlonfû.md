@@ -9,7 +9,7 @@ description: syllable § Noun
 
 ### ûlonfû&emsp;<span kind="abugida">ɽʄʓ̃ɤʄ</span>
 
-*syllable* **§** [Noun](../../tags/Noun)
+*syllable* **§** Noun
 
 **IPA**: /ˈu.lɑn.fu/
 

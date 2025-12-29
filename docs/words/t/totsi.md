@@ -9,7 +9,7 @@ description: standing § Adjective
 
 ### totsi&emsp;<span kind="abugida">c̆ɐȷ</span>
 
-*standing* **§** [Adjective](../../tags/Adjective)
+*standing* **§** Adjective
 
 **IPA**: /ˈtɑt.sɪ/
 

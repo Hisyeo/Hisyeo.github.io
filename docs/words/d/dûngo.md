@@ -9,7 +9,7 @@ description: to pierce (the pierced) § Verb
 
 ### dûngo&emsp;<span kind="abugida">ʌ̃ʄꜿ</span>
 
-*to pierce (the pierced)* **§** [Verb](../../tags/Verb)
+*to pierce (the pierced)* **§** Verb
 
 **IPA**: /ˈdun.gɑ/
 

@@ -9,7 +9,7 @@ description: to behave (a behavior) § Verb
 
 ### wêîlun&emsp;<span kind="abugida">ʒʇɽɟʓ̃ʃ</span>
 
-*to behave (a behavior)* **§** [Verb](../../tags/Verb)
+*to behave (a behavior)* **§** Verb
 
 **IPA**: /ˈwe.i.lʌn/
 

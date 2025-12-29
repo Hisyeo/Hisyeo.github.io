@@ -9,7 +9,7 @@ description: fuel § Noun
 
 ### zolonî&emsp;<span kind="abugida">ⱴʓƨɟ</span>
 
-*fuel* **§** [Noun](../../tags/Noun)
+*fuel* **§** Noun
 
 **IPA**: /ˈd͡ʒɑ.lɑ.ni/
 

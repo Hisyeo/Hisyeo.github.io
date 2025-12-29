@@ -9,7 +9,7 @@ description: shop/market § Noun
 
 ### gubuyo&emsp;<span kind="abugida">ꜿʃʋʃɀ</span>
 
-*shop/market* **§** [Noun](../../tags/Noun)
+*shop/market* **§** Noun
 
 **IPA**: /ˈgʌ.bʌ.jɑ/
 

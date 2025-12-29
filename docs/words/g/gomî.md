@@ -9,7 +9,7 @@ description: to take (the taken) § Verb
 
 ### gomî&emsp;<span kind="abugida">ꜿƶɟ</span>
 
-*to take (the taken)* **§** [Verb](../../tags/Verb)
+*to take (the taken)* **§** Verb
 
 **IPA**: /ˈgɑ.mi/
 

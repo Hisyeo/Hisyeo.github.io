@@ -9,7 +9,7 @@ description: straight § Adjective
 
 ### mûstokîn&emsp;<span kind="abugida">ƶ́ʄcɔ̃ɟ</span>
 
-*straight* **§** [Adjective](../../tags/Adjective)
+*straight* **§** Adjective
 
 **IPA**: /ˈmus.tɑ.kin/
 

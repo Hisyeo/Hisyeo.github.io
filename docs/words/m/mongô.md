@@ -9,7 +9,7 @@ description: sharks/rays § Noun
 
 ### mongô&emsp;<span kind="abugida">ƶ̃ꜿı</span>
 
-*sharks/rays* **§** [Noun](../../tags/Noun)
+*sharks/rays* **§** Noun
 
 **IPA**: /ˈmɑn.go/
 

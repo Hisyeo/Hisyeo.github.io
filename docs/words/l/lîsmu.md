@@ -9,7 +9,7 @@ description: clay § Noun
 
 ### lîsmu&emsp;<span kind="abugida">ʓ́ɟƶʃ</span>
 
-*clay* **§** [Noun](../../tags/Noun)
+*clay* **§** Noun
 
 **IPA**: /ˈlis.mʌ/
 

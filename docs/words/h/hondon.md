@@ -9,7 +9,7 @@ description: family § Noun
 
 ### hondon&emsp;<span kind="abugida">ɂ̃ʌ̃</span>
 
-*family* **§** [Noun](../../tags/Noun)
+*family* **§** Noun
 
 **IPA**: /ˈhɑn.dɑn/
 

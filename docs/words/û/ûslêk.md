@@ -9,7 +9,7 @@ description: to blow (a blown entity) § Verb
 
 ### ûslêk&emsp;<span kind="abugida">ɽ́ʄʓ̑ʇ</span>
 
-*to blow (a blown entity)* **§** [Verb](../../tags/Verb)
+*to blow (a blown entity)* **§** Verb
 
 **IPA**: /ˈus.lek/
 

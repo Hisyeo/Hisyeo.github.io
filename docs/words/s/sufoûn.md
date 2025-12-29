@@ -9,7 +9,7 @@ description: soap § Noun
 
 ### sufoûn&emsp;<span kind="abugida">ɐʃɤɽ̃ʄ</span>
 
-*soap* **§** [Noun](../../tags/Noun)
+*soap* **§** Noun
 
 **IPA**: /sʌ.ˈfɑ.un/
 

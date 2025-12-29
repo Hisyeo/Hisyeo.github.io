@@ -9,7 +9,7 @@ description: oil § Noun
 
 ### wulus&emsp;<span kind="abugida">ʒʃʓ́ʃ</span>
 
-*oil* **§** [Noun](../../tags/Noun)
+*oil* **§** Noun
 
 **IPA**: /ˈwʌ.lʌs/
 

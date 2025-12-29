@@ -9,7 +9,7 @@ description: cone § Noun
 
 ### tohilôk&emsp;<span kind="abugida">cɂȷʓ̑ı</span>
 
-*cone* **§** [Noun](../../tags/Noun)
+*cone* **§** Noun
 
 **IPA**: /ˈtɑ.hɪ.lok/
 

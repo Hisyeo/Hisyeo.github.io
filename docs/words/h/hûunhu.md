@@ -9,7 +9,7 @@ description: mixed § Adjective
 
 ### hûunhu&emsp;<span kind="abugida">ɂʄɽ̃ʃɂʃ</span>
 
-*mixed* **§** [Adjective](../../tags/Adjective)
+*mixed* **§** Adjective
 
 **IPA**: /ˈhu.ʌn.hʌ/
 

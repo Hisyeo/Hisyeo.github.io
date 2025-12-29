@@ -9,7 +9,7 @@ description: to maintain (the maintained) § Verb
 
 ### wuîtsî&emsp;<span kind="abugida">ʒʃɽ̆ɟɐɟ</span>
 
-*to maintain (the maintained)* **§** [Verb](../../tags/Verb)
+*to maintain (the maintained)* **§** Verb
 
 **IPA**: /ˈwʌ.it.si/
 

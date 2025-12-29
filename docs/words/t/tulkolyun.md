@@ -9,7 +9,7 @@ description: rolling/tumbling § Adjective
 
 ### tulkolyun&emsp;<span kind="abugida">c͊ʃɔ͊ɀ̃ʃ</span>
 
-*rolling/tumbling* **§** [Adjective](../../tags/Adjective)
+*rolling/tumbling* **§** Adjective
 
 **IPA**: /tʌl.ˈkɑl.jʌn/
 

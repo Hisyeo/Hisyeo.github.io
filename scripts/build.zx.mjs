@@ -20,7 +20,7 @@ description: ${w['Meaning']} § ${w['Type']}
 
 ### ${w['Hîsyêô']}&emsp;<span kind="abugida">${w['ɂ́ɟɀʇɽʃ']}</span>
 
-*${w['Meaning']}* **§** [${w['Type']}](../../tags/${w['Type']})
+*${w['Meaning']}* **§** ${w['Type']}
 
 **IPA**: ${w['Actual IPA']}
 
@@ -38,7 +38,7 @@ description: ${w['Meaning']} § ${w['Type']}
 
 const tagTmpl = (w) => `${w['Hîsyêô']}:
     label: ${w['Hîsyêô']}
-    description: ${w['Meaning']}
+    description: "${w['Meaning']}"
 `
 
 const titleCase = w => `${capitalize(w[0])}${w.slice(1)}`

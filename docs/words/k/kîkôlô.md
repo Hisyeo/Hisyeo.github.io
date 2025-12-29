@@ -9,7 +9,7 @@ description: bitter § Adjective
 
 ### kîkôlô&emsp;<span kind="abugida">ɔɟɔıʓı</span>
 
-*bitter* **§** [Adjective](../../tags/Adjective)
+*bitter* **§** Adjective
 
 **IPA**: /ˈki.ko.lo/
 

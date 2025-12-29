@@ -9,7 +9,7 @@ description: belch/burp § Noun
 
 ### ênbukun&emsp;<span kind="abugida">ɽ̃ʇʋʃɔ̃ʃ</span>
 
-*belch/burp* **§** [Noun](../../tags/Noun)
+*belch/burp* **§** Noun
 
 **IPA**: /ˈen.bʌ.kʌn/
 

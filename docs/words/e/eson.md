@@ -9,7 +9,7 @@ description: 09 nine § Numeral
 
 ### eson&emsp;<span kind="abugida">ɽɿɐ̃</span>
 
-*09 nine* **§** [Numeral](../../tags/Numeral)
+*09 nine* **§** Numeral
 
 **IPA**: /ˈɛ.sɑn/
 

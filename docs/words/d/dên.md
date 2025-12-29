@@ -9,7 +9,7 @@ description: oppositive marker (against) § Preposition
 
 ### dên&emsp;<span kind="abugida">ʌ̃ʇ</span>
 
-*oppositive marker (against)* **§** [Preposition](../../tags/Preposition)
+*oppositive marker (against)* **§** Preposition
 
 **IPA**: /ˈden/
 

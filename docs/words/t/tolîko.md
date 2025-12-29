@@ -9,7 +9,7 @@ description: method § Noun
 
 ### tolîko&emsp;<span kind="abugida">cʓɟɔ</span>
 
-*method* **§** [Noun](../../tags/Noun)
+*method* **§** Noun
 
 **IPA**: /ˈtɑ.li.kɑ/
 

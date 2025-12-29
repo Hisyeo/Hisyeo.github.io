@@ -9,7 +9,7 @@ description: instrumental marker (using/with) § Preposition
 
 ### tô&emsp;<span kind="abugida">cı</span>
 
-*instrumental marker (using/with)* **§** [Preposition](../../tags/Preposition)
+*instrumental marker (using/with)* **§** Preposition
 
 **IPA**: /ˈto/
 

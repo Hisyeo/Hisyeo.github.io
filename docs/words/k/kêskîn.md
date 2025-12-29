@@ -9,7 +9,7 @@ description: sharp § Adjective
 
 ### kêskîn&emsp;<span kind="abugida">ɔ́ʇɔ̃ɟ</span>
 
-*sharp* **§** [Adjective](../../tags/Adjective)
+*sharp* **§** Adjective
 
 **IPA**: /ˈkes.kin/
 

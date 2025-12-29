@@ -9,7 +9,7 @@ description: strong § Adjective
 
 ### gîôn&emsp;<span kind="abugida">ꜿɟɽ̃ı</span>
 
-*strong* **§** [Adjective](../../tags/Adjective)
+*strong* **§** Adjective
 
 **IPA**: /ˈgi.on/
 

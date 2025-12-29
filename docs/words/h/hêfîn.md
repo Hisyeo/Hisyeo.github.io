@@ -9,7 +9,7 @@ description: to understand (a concept) § Verb
 
 ### hêfîn&emsp;<span kind="abugida">ɂʇɤ̃ɟ</span>
 
-*to understand (a concept)* **§** [Verb](../../tags/Verb)
+*to understand (a concept)* **§** Verb
 
 **IPA**: /ˈhe.fin/
 

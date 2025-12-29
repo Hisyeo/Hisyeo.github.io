@@ -9,7 +9,7 @@ description: to venerate (the venerated) § Verb
 
 ### helgo&emsp;<span kind="abugida">ɂ͊ɿꜿ</span>
 
-*to venerate (the venerated)* **§** [Verb](../../tags/Verb)
+*to venerate (the venerated)* **§** Verb
 
 **IPA**: /ˈhɛl.gɑ/
 

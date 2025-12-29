@@ -9,7 +9,7 @@ description: 256 byte § Numeral
 
 ### boit&emsp;<span kind="abugida">ʋɽ̆ȷ</span>
 
-*256 byte* **§** [Numeral](../../tags/Numeral)
+*256 byte* **§** Numeral
 
 **IPA**: /ˈbɑ.ɪt/
 

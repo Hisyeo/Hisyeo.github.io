@@ -9,7 +9,7 @@ description: afraid § Adjective
 
 ### ôsôlê&emsp;<span kind="abugida">ɽıɐıʓʇ</span>
 
-*afraid* **§** [Adjective](../../tags/Adjective)
+*afraid* **§** Adjective
 
 **IPA**: /ˈo.so.le/
 

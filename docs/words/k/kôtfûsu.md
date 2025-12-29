@@ -9,7 +9,7 @@ description: cephalapod § Noun
 
 ### kôtfûsu&emsp;<span kind="abugida">ɔ̆ıɤʄɐʃ</span>
 
-*cephalapod* **§** [Noun](../../tags/Noun)
+*cephalapod* **§** Noun
 
 **IPA**: /ˈkot.fu.sʌ/
 

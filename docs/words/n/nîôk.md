@@ -9,7 +9,7 @@ description: growing § Adjective
 
 ### nîôk&emsp;<span kind="abugida">ƨɟɽ̑ı</span>
 
-*growing* **§** [Adjective](../../tags/Adjective)
+*growing* **§** Adjective
 
 **IPA**: /ˈni.ok/
 

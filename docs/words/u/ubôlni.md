@@ -9,7 +9,7 @@ description: resistant § Adjective
 
 ### ubôlni&emsp;<span kind="abugida">ɽʃʋ͊ıƨȷ</span>
 
-*resistant* **§** [Adjective](../../tags/Adjective)
+*resistant* **§** Adjective
 
 **IPA**: /ʌ.ˈbol.nɪ/
 

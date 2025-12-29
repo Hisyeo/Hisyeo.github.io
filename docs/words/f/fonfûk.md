@@ -9,7 +9,7 @@ description: complex/complicated § Adjective
 
 ### fonfûk&emsp;<span kind="abugida">ɤ̃ɤ̑ʄ</span>
 
-*complex/complicated* **§** [Adjective](../../tags/Adjective)
+*complex/complicated* **§** Adjective
 
 **IPA**: /ˈfɑn.fuk/
 

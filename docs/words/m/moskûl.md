@@ -9,7 +9,7 @@ description: male § Adjective
 
 ### moskûl&emsp;<span kind="abugida">ƶ́ɔ͊ʄ</span>
 
-*male* **§** [Adjective](../../tags/Adjective)
+*male* **§** Adjective
 
 **IPA**: /ˈmɑs.kul/
 

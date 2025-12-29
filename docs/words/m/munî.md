@@ -9,7 +9,7 @@ description: money § Noun
 
 ### munî&emsp;<span kind="abugida">ƶʃƨɟ</span>
 
-*money* **§** [Noun](../../tags/Noun)
+*money* **§** Noun
 
 **IPA**: /ˈmʌ.ni/
 

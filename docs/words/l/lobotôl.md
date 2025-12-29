@@ -9,7 +9,7 @@ description: to scoop (the scooped) § Verb
 
 ### lobotôl&emsp;<span kind="abugida">ʓʋc͊ı</span>
 
-*to scoop (the scooped)* **§** [Verb](../../tags/Verb)
+*to scoop (the scooped)* **§** Verb
 
 **IPA**: /ˈlɑ.bɑ.tol/
 

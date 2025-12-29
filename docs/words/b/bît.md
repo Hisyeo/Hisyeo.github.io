@@ -9,7 +9,7 @@ description: conditional verb particle § Particle
 
 ### bît&emsp;<span kind="abugida">ʋ̆ɟ</span>
 
-*conditional verb particle* **§** [Particle](../../tags/Particle)
+*conditional verb particle* **§** Particle
 
 **IPA**: /ˈbit/
 

@@ -9,7 +9,7 @@ description: top § Noun
 
 ### solwôc&emsp;<span kind="abugida">ɐ͊ʒ̄ı</span>
 
-*top* **§** [Noun](../../tags/Noun)
+*top* **§** Noun
 
 **IPA**: /ˈsɑl.wot͡ɕ/
 

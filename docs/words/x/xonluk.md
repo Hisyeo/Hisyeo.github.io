@@ -9,7 +9,7 @@ description: young § Adjective
 
 ### xonluk&emsp;<span kind="abugida">ɋ̃ʓ̑ʃ</span>
 
-*young* **§** [Adjective](../../tags/Adjective)
+*young* **§** Adjective
 
 **IPA**: /ˈʃɑn.lʌk/
 

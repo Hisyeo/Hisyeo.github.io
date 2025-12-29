@@ -9,7 +9,7 @@ description: awesome § Adjective
 
 ### kûzoû&emsp;<span kind="abugida">ɔʄⱴɽʄ</span>
 
-*awesome* **§** [Adjective](../../tags/Adjective)
+*awesome* **§** Adjective
 
 **IPA**: /ˈku.d͡ʒɑ.u/
 

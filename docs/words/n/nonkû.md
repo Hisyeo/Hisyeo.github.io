@@ -9,7 +9,7 @@ description: 04 four § Numeral
 
 ### nonkû&emsp;<span kind="abugida">ƨ̃ɔʄ</span>
 
-*04 four* **§** [Numeral](../../tags/Numeral)
+*04 four* **§** Numeral
 
 **IPA**: /ˈnɑn.ku/
 

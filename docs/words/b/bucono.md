@@ -9,7 +9,7 @@ description: to save/rescue (the saved/rescued) § Verb
 
 ### bucono&emsp;<span kind="abugida">ʋʃꞇƨ</span>
 
-*to save/rescue (the saved/rescued)* **§** [Verb](../../tags/Verb)
+*to save/rescue (the saved/rescued)* **§** Verb
 
 **IPA**: /bʌ.ˈt͡ɕɑ.nɑ/
 

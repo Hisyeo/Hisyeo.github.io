@@ -9,7 +9,7 @@ description: to compute (a computation) § Verb
 
 ### tûek&emsp;<span kind="abugida">cʄɽ̑ɿ</span>
 
-*to compute (a computation)* **§** [Verb](../../tags/Verb)
+*to compute (a computation)* **§** Verb
 
 **IPA**: /ˈtu.ɛk/
 

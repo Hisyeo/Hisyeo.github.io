@@ -9,7 +9,7 @@ description: sighing § Adjective
 
 ### tôncoî&emsp;<span kind="abugida">c̃ıꞇɽɟ</span>
 
-*sighing* **§** [Adjective](../../tags/Adjective)
+*sighing* **§** Adjective
 
 **IPA**: /ˈton.t͡ɕɑ.i/
 

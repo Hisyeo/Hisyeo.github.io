@@ -9,7 +9,7 @@ description: moving § Adjective
 
 ### nô&emsp;<span kind="abugida">ƨı</span>
 
-*moving* **§** [Adjective](../../tags/Adjective)
+*moving* **§** Adjective
 
 **IPA**: /ˈno/
 

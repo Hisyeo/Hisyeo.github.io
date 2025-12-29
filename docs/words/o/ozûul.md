@@ -9,7 +9,7 @@ description: any/whichever § Pronoun
 
 ### ozûul&emsp;<span kind="abugida">ɽⱴʄɽ͊ʃ</span>
 
-*any/whichever* **§** [Pronoun](../../tags/Pronoun)
+*any/whichever* **§** Pronoun
 
 **IPA**: /ˈɑ.d͡ʒu.ʌl/
 

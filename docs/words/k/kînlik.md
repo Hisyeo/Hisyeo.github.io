@@ -9,7 +9,7 @@ description: authorized § Adjective
 
 ### kînlik&emsp;<span kind="abugida">ɔɟɽ̃ʄʓ̑ȷ</span>
 
-*authorized* **§** [Adjective](../../tags/Adjective)
+*authorized* **§** Adjective
 
 **IPA**: /ˈkin.lɪk/
 

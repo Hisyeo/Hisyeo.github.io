@@ -9,7 +9,7 @@ description: self § Pronoun
 
 ### cizî&emsp;<span kind="abugida">ꞇȷⱴɟ</span>
 
-*self* **§** [Pronoun](../../tags/Pronoun)
+*self* **§** Pronoun
 
 **IPA**: /ˈt͡ɕɪ.d͡ʒi/
 

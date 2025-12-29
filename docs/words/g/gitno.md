@@ -9,7 +9,7 @@ description: intermediative marker (between) § Preposition
 
 ### gitno&emsp;<span kind="abugida">ꜿ̆ȷƨ</span>
 
-*intermediative marker (between)* **§** [Preposition](../../tags/Preposition)
+*intermediative marker (between)* **§** Preposition
 
 **IPA**: /ˈgɪt.nɑ/
 

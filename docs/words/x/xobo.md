@@ -9,7 +9,7 @@ description: to strike (the stricken)  § Verb
 
 ### xobo&emsp;<span kind="abugida">ɋʋ</span>
 
-*to strike (the stricken) * **§** [Verb](../../tags/Verb)
+*to strike (the stricken) * **§** Verb
 
 **IPA**: /ˈʃɑ.bɑ/
 

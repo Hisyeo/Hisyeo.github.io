@@ -9,7 +9,7 @@ description: vague/imprecise § Adjective
 
 ### êmê&emsp;<span kind="abugida">ɽʇƶʇ</span>
 
-*vague/imprecise* **§** [Adjective](../../tags/Adjective)
+*vague/imprecise* **§** Adjective
 
 **IPA**: /ˈe.me/
 

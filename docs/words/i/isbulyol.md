@@ -9,7 +9,7 @@ description: to scatter (scatterable entity) § Adjective
 
 ### isbulyol&emsp;<span kind="abugida">ɽ́ȷʋ͊ʃɀ͊</span>
 
-*to scatter (scatterable entity)* **§** [Adjective](../../tags/Adjective)
+*to scatter (scatterable entity)* **§** Adjective
 
 **IPA**: /ˈɪs.bʌl.jɑl/
 

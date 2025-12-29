@@ -9,7 +9,7 @@ description: council/court/meeting § Noun
 
 ### mozulis&emsp;<span kind="abugida">ƶⱴʃʓ́ȷ</span>
 
-*council/court/meeting* **§** [Noun](../../tags/Noun)
+*council/court/meeting* **§** Noun
 
 **IPA**: /ˈmɑ.d͡ʒʌ.lɪs/
 

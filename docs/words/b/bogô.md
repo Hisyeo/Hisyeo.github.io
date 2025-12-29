@@ -9,7 +9,7 @@ description: luck § Noun
 
 ### bogô&emsp;<span kind="abugida">ʋꜿı</span>
 
-*luck* **§** [Noun](../../tags/Noun)
+*luck* **§** Noun
 
 **IPA**: /ˈbɑ.go/
 

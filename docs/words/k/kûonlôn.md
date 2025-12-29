@@ -9,7 +9,7 @@ description: tolerant § Adjective
 
 ### kûonlôn&emsp;<span kind="abugida">ɔʄɽ̃ɋ̃ʄ</span>
 
-*tolerant* **§** [Adjective](../../tags/Adjective)
+*tolerant* **§** Adjective
 
 **IPA**: /ˈku.ɑn.lon/
 

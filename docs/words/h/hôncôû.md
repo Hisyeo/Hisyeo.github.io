@@ -9,7 +9,7 @@ description: herb § Noun
 
 ### hôncôû&emsp;<span kind="abugida">ɂ̃ıꞇıɽʄ</span>
 
-*herb* **§** [Noun](../../tags/Noun)
+*herb* **§** Noun
 
 **IPA**: /ˈhon.t͡ɕo.u/
 

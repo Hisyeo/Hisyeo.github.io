@@ -9,7 +9,7 @@ description: collision § Noun
 
 ### cûndôl&emsp;<span kind="abugida">ꞇ̃ʄʌ͊ı</span>
 
-*collision* **§** [Noun](../../tags/Noun)
+*collision* **§** Noun
 
 **IPA**: /ˈt͡ɕun.dol/
 

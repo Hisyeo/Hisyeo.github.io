@@ -9,7 +9,7 @@ description: crossed/intersected § Adjective
 
 ### xecînoc&emsp;<span kind="abugida">ɋɿꞇɟƨ̄</span>
 
-*crossed/intersected* **§** [Adjective](../../tags/Adjective)
+*crossed/intersected* **§** Adjective
 
 **IPA**: /ʃɛ.ˈt͡ɕi.nɑt͡ɕ/
 

@@ -9,7 +9,7 @@ description: state § Noun
 
 ### kûôcyo&emsp;<span kind="abugida">ɔʄɽ̄ıɀ</span>
 
-*state* **§** [Noun](../../tags/Noun)
+*state* **§** Noun
 
 **IPA**: /ˈku.ot͡ɕ.jɑ/
 

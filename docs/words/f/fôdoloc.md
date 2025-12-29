@@ -9,7 +9,7 @@ description: algae/moss § Noun
 
 ### fôdoloc&emsp;<span kind="abugida">ɤıʌʓ̄</span>
 
-*algae/moss* **§** [Noun](../../tags/Noun)
+*algae/moss* **§** Noun
 
 **IPA**: /ˈfo.dɑ.lɑt͡ɕ/
 

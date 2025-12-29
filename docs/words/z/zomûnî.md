@@ -9,7 +9,7 @@ description: purple § Adjective
 
 ### zomûnî&emsp;<span kind="abugida">ⱴƶʄƨɟ</span>
 
-*purple* **§** [Adjective](../../tags/Adjective)
+*purple* **§** Adjective
 
 **IPA**: /ˈd͡ʒɑ.mu.ni/
 

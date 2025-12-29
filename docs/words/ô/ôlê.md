@@ -9,7 +9,7 @@ description: causal-agentive marker § Preposition
 
 ### ôlê&emsp;<span kind="abugida">ɽıʓʇ</span>
 
-*causal-agentive marker* **§** [Preposition](../../tags/Preposition)
+*causal-agentive marker* **§** Preposition
 
 **IPA**: /ˈo.le/
 

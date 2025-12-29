@@ -9,7 +9,7 @@ description: deity § Noun
 
 ### ôtsôtot&emsp;<span kind="abugida">ɽ̆ıɐıc̆</span>
 
-*deity* **§** [Noun](../../tags/Noun)
+*deity* **§** Noun
 
 **IPA**: /ˈot.so.tɑt/
 

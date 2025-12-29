@@ -9,7 +9,7 @@ description: general/universal § Adjective
 
 ### konbokbo&emsp;<span kind="abugida">ɔ̃ʋ̑ʋ</span>
 
-*general/universal* **§** [Adjective](../../tags/Adjective)
+*general/universal* **§** Adjective
 
 **IPA**: /ˈkɑn.bɑk.bɑ/
 

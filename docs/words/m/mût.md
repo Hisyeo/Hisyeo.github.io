@@ -9,7 +9,7 @@ description: dative marker (towards) § Preposition
 
 ### mût&emsp;<span kind="abugida">ƶ̆ʄ</span>
 
-*dative marker (towards)* **§** [Preposition](../../tags/Preposition)
+*dative marker (towards)* **§** Preposition
 
 **IPA**: /ˈmut/
 

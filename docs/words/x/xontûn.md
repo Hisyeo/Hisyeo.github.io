@@ -9,7 +9,7 @@ description: to provoke (a provocation) § Verb
 
 ### xontûn&emsp;<span kind="abugida">ɋ̃c̃ʄ</span>
 
-*to provoke (a provocation)* **§** [Verb](../../tags/Verb)
+*to provoke (a provocation)* **§** Verb
 
 **IPA**: /ˈʃɑn.tun/
 

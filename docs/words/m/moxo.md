@@ -9,7 +9,7 @@ description: decorative/ornamental § Adjective
 
 ### moxo&emsp;<span kind="abugida">ƶɋ</span>
 
-*decorative/ornamental* **§** [Adjective](../../tags/Adjective)
+*decorative/ornamental* **§** Adjective
 
 **IPA**: /ˈmɑ.ʃɑ/
 

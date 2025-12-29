@@ -9,7 +9,7 @@ description: night § Noun
 
 ### bitûn&emsp;<span kind="abugida">ʋȷc̃ʄ</span>
 
-*night* **§** [Noun](../../tags/Noun)
+*night* **§** Noun
 
 **IPA**: /ˈbɪ.tun/
 

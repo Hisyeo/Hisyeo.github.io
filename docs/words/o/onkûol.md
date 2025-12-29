@@ -9,7 +9,7 @@ description: to hug (the hugged) § Verb
 
 ### onkûol&emsp;<span kind="abugida">ɽ̃ɔʄɽ͊</span>
 
-*to hug (the hugged)* **§** [Verb](../../tags/Verb)
+*to hug (the hugged)* **§** Verb
 
 **IPA**: /ˈɑn.ku.ɑl/
 

@@ -9,7 +9,7 @@ description: error § Noun
 
 ### foût&emsp;<span kind="abugida">ɤɽ̆ʄ</span>
 
-*error* **§** [Noun](../../tags/Noun)
+*error* **§** Noun
 
 **IPA**: /ˈfɑ.ut/
 

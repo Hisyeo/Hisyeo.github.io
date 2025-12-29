@@ -9,7 +9,7 @@ description: intoxicated § Adjective
 
 ### nexê&emsp;<span kind="abugida">ƨɿɋʇ</span>
 
-*intoxicated* **§** [Adjective](../../tags/Adjective)
+*intoxicated* **§** Adjective
 
 **IPA**: /ˈnɛ.ʃe/
 

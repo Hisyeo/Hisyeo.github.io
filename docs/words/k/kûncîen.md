@@ -9,7 +9,7 @@ description: room § Noun
 
 ### kûncîen&emsp;<span kind="abugida">ɔ̃ʄꞇɟɽ̃ɿ</span>
 
-*room* **§** [Noun](../../tags/Noun)
+*room* **§** Noun
 
 **IPA**: /ˈkun.t͡ɕi.ɛn/
 

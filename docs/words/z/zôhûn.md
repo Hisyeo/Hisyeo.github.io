@@ -9,7 +9,7 @@ description: nutrient § Noun
 
 ### zôhûn&emsp;<span kind="abugida">ⱴıɂ̃ʄ</span>
 
-*nutrient* **§** [Noun](../../tags/Noun)
+*nutrient* **§** Noun
 
 **IPA**: /ˈd͡ʒo.hun/
 

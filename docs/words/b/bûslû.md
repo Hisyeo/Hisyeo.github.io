@@ -9,7 +9,7 @@ description: translucent § Adjective
 
 ### bûslû&emsp;<span kind="abugida">ʋ́ʄʓʄ</span>
 
-*translucent* **§** [Adjective](../../tags/Adjective)
+*translucent* **§** Adjective
 
 **IPA**: /ˈbus.lu/
 

@@ -9,7 +9,7 @@ description: revenge/vengeance § Noun
 
 ### fûkûxi&emsp;<span kind="abugida">ɤʄɔʄɋȷ</span>
 
-*revenge/vengeance* **§** [Noun](../../tags/Noun)
+*revenge/vengeance* **§** Noun
 
 **IPA**: /ˈfu.ku.ʃɪ/
 

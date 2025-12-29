@@ -9,7 +9,7 @@ description: place § Noun
 
 ### boxô&emsp;<span kind="abugida">ʋɋı</span>
 
-*place* **§** [Noun](../../tags/Noun)
+*place* **§** Noun
 
 **IPA**: /ˈbɑ.ʃo/
 

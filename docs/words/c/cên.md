@@ -9,7 +9,7 @@ description: up § Noun
 
 ### cên&emsp;<span kind="abugida">ꞇ̃ʇ</span>
 
-*up* **§** [Noun](../../tags/Noun)
+*up* **§** Noun
 
 **IPA**: /ˈt͡ɕen/
 

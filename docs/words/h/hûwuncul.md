@@ -9,7 +9,7 @@ description: plastic § Noun
 
 ### hûwuncul&emsp;<span kind="abugida">ɂʄʒ̃ʃꞇ͊ʃ</span>
 
-*plastic* **§** [Noun](../../tags/Noun)
+*plastic* **§** Noun
 
 **IPA**: /ˈhu.wʌn.t͡ɕʌl/
 

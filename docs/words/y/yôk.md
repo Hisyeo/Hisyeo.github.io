@@ -9,7 +9,7 @@ description: negatitive particle § Particle
 
 ### yôk&emsp;<span kind="abugida">ɀ̑ı</span>
 
-*negatitive particle* **§** [Particle](../../tags/Particle)
+*negatitive particle* **§** Particle
 
 **IPA**: /ˈjok/
 

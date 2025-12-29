@@ -9,7 +9,7 @@ description: jump § Noun
 
 ### zoston&emsp;<span kind="abugida">ⱴ́c̃</span>
 
-*jump* **§** [Noun](../../tags/Noun)
+*jump* **§** Noun
 
 **IPA**: /ˈd͡ʒɑs.tɑn/
 

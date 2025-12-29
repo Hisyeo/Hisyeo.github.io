@@ -9,7 +9,7 @@ description: nose § Noun
 
 ### mêloc&emsp;<span kind="abugida">ƶʇʓ̄</span>
 
-*nose* **§** [Noun](../../tags/Noun)
+*nose* **§** Noun
 
 **IPA**: /ˈnɑ.si.kɑ/
 

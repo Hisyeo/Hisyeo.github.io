@@ -9,7 +9,7 @@ description: mollusc § Noun
 
 ### mîencok&emsp;<span kind="abugida">ƶɟɽ̃ɿꞇ̑</span>
 
-*mollusc* **§** [Noun](../../tags/Noun)
+*mollusc* **§** Noun
 
 **IPA**: /ˈmi.ɛn.t͡ɕɑk/
 

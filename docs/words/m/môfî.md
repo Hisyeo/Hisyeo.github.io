@@ -9,7 +9,7 @@ description: brave/courageous § Adjective
 
 ### môfî&emsp;<span kind="abugida">ƶıɤɟ</span>
 
-*brave/courageous* **§** [Adjective](../../tags/Adjective)
+*brave/courageous* **§** Adjective
 
 **IPA**: /ˈmo.fi/
 

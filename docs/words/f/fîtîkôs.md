@@ -9,7 +9,7 @@ description: western § Adjective
 
 ### fîtîkôs&emsp;<span kind="abugida">ɤɟcɟɔ́ı</span>
 
-*western* **§** [Adjective](../../tags/Adjective)
+*western* **§** Adjective
 
 **IPA**: /ˈfi.ti.kos/
 

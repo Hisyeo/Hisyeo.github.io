@@ -9,7 +9,7 @@ description: orderly § Adjective
 
 ### ôdon&emsp;<span kind="abugida">ɽıʌ̃</span>
 
-*orderly* **§** [Adjective](../../tags/Adjective)
+*orderly* **§** Adjective
 
 **IPA**: /ˈo.dɑn/
 

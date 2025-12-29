@@ -9,7 +9,7 @@ description: endless/infinite § Adjective
 
 ### sônsûs&emsp;<span kind="abugida">ɐ̃ıɐ́ʄ</span>
 
-*endless/infinite* **§** [Adjective](../../tags/Adjective)
+*endless/infinite* **§** Adjective
 
 **IPA**: /ˈson.sus/
 

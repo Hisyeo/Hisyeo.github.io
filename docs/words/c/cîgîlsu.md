@@ -9,7 +9,7 @@ description: treatment (medical) § Noun
 
 ### cîgîlsu&emsp;<span kind="abugida">ꞇɟꜿ͊ɟɐʃ</span>
 
-*treatment (medical)* **§** [Noun](../../tags/Noun)
+*treatment (medical)* **§** Noun
 
 **IPA**: /ˈt͡ɕi.gil.sʌ/
 

@@ -9,7 +9,7 @@ description: decent § Adjective
 
 ### dôkcon&emsp;<span kind="abugida">ʌ̑ıꞇ̃</span>
 
-*decent* **§** [Adjective](../../tags/Adjective)
+*decent* **§** Adjective
 
 **IPA**: /ˈdok.t͡ɕɑn/
 

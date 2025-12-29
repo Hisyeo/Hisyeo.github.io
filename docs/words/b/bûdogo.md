@@ -9,7 +9,7 @@ description: bubble § Noun
 
 ### bûdogo&emsp;<span kind="abugida">ʋʄʌꜿ</span>
 
-*bubble* **§** [Noun](../../tags/Noun)
+*bubble* **§** Noun
 
 **IPA**: /ˈbu.dɑ.gɑ/
 

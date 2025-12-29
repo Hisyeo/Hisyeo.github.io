@@ -9,7 +9,7 @@ description: flower § Noun
 
 ### înbolî&emsp;<span kind="abugida">ɽ̃ɟʋʓɟ</span>
 
-*flower* **§** [Noun](../../tags/Noun)
+*flower* **§** Noun
 
 **IPA**: /ˈin.bɑ.li/
 

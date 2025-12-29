@@ -9,7 +9,7 @@ description: enemy/foe § Noun
 
 ### îbolê&emsp;<span kind="abugida">ɽɟʋʓʇ</span>
 
-*enemy/foe* **§** [Noun](../../tags/Noun)
+*enemy/foe* **§** Noun
 
 **IPA**: /ˈi.bɑ.le/
 

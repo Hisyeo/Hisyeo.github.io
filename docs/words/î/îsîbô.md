@@ -9,7 +9,7 @@ description: claw § Noun
 
 ### îsîbô&emsp;<span kind="abugida">ɽɟɐɟʋı</span>
 
-*claw* **§** [Noun](../../tags/Noun)
+*claw* **§** Noun
 
 **IPA**: /ˈi.si.bo/
 

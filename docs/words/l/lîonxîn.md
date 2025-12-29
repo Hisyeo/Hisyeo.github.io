@@ -9,7 +9,7 @@ description: conscientious § Adjective
 
 ### lîonxîn&emsp;<span kind="abugida">ʓɟɽ̃ɋ̃ɟ</span>
 
-*conscientious* **§** [Adjective](../../tags/Adjective)
+*conscientious* **§** Adjective
 
 **IPA**: /ˈli.ɑn.ʃin/
 

@@ -9,7 +9,7 @@ description: seeming § Adjective
 
 ### xoînbo&emsp;<span kind="abugida">ɋɽ̃ɟʋ</span>
 
-*seeming* **§** [Adjective](../../tags/Adjective)
+*seeming* **§** Adjective
 
 **IPA**: /ˈʃɑ.in.bɑ/
 

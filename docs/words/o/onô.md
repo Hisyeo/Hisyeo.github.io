@@ -9,7 +9,7 @@ description: distal demonstrative (yon/yonder) § Pronoun
 
 ### onô&emsp;<span kind="abugida">ɽƨı</span>
 
-*distal demonstrative (yon/yonder)* **§** [Pronoun](../../tags/Pronoun)
+*distal demonstrative (yon/yonder)* **§** Pronoun
 
 **IPA**: /ˈɑ.no/
 

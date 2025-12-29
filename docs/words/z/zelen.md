@@ -9,7 +9,7 @@ description: upcoming § Adjective
 
 ### zelen&emsp;<span kind="abugida">ⱴɿʓ̃ɿ</span>
 
-*upcoming* **§** [Adjective](../../tags/Adjective)
+*upcoming* **§** Adjective
 
 **IPA**: /ˈd͡ʒɛ.lɛn/
 

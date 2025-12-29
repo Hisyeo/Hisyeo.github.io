@@ -9,7 +9,7 @@ description: wise/clever § Adjective
 
 ### colot&emsp;<span kind="abugida">ꞇʓ̆</span>
 
-*wise/clever* **§** [Adjective](../../tags/Adjective)
+*wise/clever* **§** Adjective
 
 **IPA**: /ˈt͡ɕɑ.lɑt/
 

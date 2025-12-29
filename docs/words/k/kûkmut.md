@@ -9,7 +9,7 @@ description: cereal/grain § Noun
 
 ### kûkmut&emsp;<span kind="abugida">ɔ̑ʄƶ̆ʃ</span>
 
-*cereal/grain* **§** [Noun](../../tags/Noun)
+*cereal/grain* **§** Noun
 
 **IPA**: /ˈkuk.mʌt/
 

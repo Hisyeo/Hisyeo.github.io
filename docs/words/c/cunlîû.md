@@ -9,7 +9,7 @@ description: to distill (the distilled) § Verb
 
 ### cunlîû&emsp;<span kind="abugida">ꞇ̃ʃʓɟɽʄ</span>
 
-*to distill (the distilled)* **§** [Verb](../../tags/Verb)
+*to distill (the distilled)* **§** Verb
 
 **IPA**: /t͡ɕʌn.ˈli.u/
 

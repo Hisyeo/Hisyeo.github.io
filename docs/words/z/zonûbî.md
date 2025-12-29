@@ -9,7 +9,7 @@ description: southern § Adjective
 
 ### zonûbî&emsp;<span kind="abugida">ⱴƨʄʋɟ</span>
 
-*southern* **§** [Adjective](../../tags/Adjective)
+*southern* **§** Adjective
 
 **IPA**: /ˈd͡ʒɑ.nu.bi/
 

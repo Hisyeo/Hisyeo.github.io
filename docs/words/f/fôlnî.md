@@ -9,7 +9,7 @@ description: free § Adjective
 
 ### fôlnî&emsp;<span kind="abugida">ɤ͊ıƨɟ</span>
 
-*free* **§** [Adjective](../../tags/Adjective)
+*free* **§** Adjective
 
 **IPA**: /ˈfol.ni/
 

@@ -9,7 +9,7 @@ description: good § Adjective
 
 ### xôn&emsp;<span kind="abugida">ɋ̃ı</span>
 
-*good* **§** [Adjective](../../tags/Adjective)
+*good* **§** Adjective
 
 **IPA**: /ˈʃon/
 

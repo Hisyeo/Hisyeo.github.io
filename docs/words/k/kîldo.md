@@ -9,7 +9,7 @@ description: long § Adjective
 
 ### kîldo&emsp;<span kind="abugida">ɔ͊ɟʌ</span>
 
-*long* **§** [Adjective](../../tags/Adjective)
+*long* **§** Adjective
 
 **IPA**: /ˈkil.dɑ/
 

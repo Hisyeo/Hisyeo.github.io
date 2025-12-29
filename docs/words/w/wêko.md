@@ -9,7 +9,7 @@ description: to place (the placed) § Verb
 
 ### wêko&emsp;<span kind="abugida">ʒʇɔ</span>
 
-*to place (the placed)* **§** [Verb](../../tags/Verb)
+*to place (the placed)* **§** Verb
 
 **IPA**: /ˈwe.kɑ/
 

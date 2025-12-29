@@ -9,7 +9,7 @@ description: honor/glory § Noun
 
 ### istihol&emsp;<span kind="abugida">ɽ́ȷcȷɂ͊</span>
 
-*honor/glory* **§** [Noun](../../tags/Noun)
+*honor/glory* **§** Noun
 
 **IPA**: /ˈɪs.tɪ.hɑl/
 

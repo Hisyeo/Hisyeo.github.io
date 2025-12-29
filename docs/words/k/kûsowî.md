@@ -9,7 +9,7 @@ description: matter/material § Noun
 
 ### kûsowî&emsp;<span kind="abugida">ɔʄɐʒɟ</span>
 
-*matter/material* **§** [Noun](../../tags/Noun)
+*matter/material* **§** Noun
 
 **IPA**: /ˈku.sɑ.wi/
 

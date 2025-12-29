@@ -9,7 +9,7 @@ description: locative marker (at) § Preposition
 
 ### hoî&emsp;<span kind="abugida">ɂɽɟ</span>
 
-*locative marker (at)* **§** [Preposition](../../tags/Preposition)
+*locative marker (at)* **§** Preposition
 
 **IPA**: /ˈhɑ.i/
 

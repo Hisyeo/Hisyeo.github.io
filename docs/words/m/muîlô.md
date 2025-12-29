@@ -9,7 +9,7 @@ description: dirty § Adjective
 
 ### muîlô&emsp;<span kind="abugida">ƶʃɽɟʓı</span>
 
-*dirty* **§** [Adjective](../../tags/Adjective)
+*dirty* **§** Adjective
 
 **IPA**: /ˈmʌ.i.lo/
 

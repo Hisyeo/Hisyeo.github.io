@@ -9,7 +9,7 @@ description: part/piece § Noun
 
 ### yogô&emsp;<span kind="abugida">ɀꜿı</span>
 
-*part/piece* **§** [Noun](../../tags/Noun)
+*part/piece* **§** Noun
 
 **IPA**: /ˈjɑ.go/
 
