@@ -43,11 +43,11 @@ A new word added because [this organ](/docs/words/c/ciwîndî) is vital to human
 
 ### to have
 
-Changed the source for this word from Cantonese 擁有 jung jau to [Māori whai](/docs/words/f/fuî) to improve speech rate of a common word.
+Changed the source for this word from **Cantonese 擁有 jung jau** to [Māori whai](/docs/words/f/fuî) to improve speech rate of a common word.
 
 ### instant
 
-Changed the source for this from Southern Min 瞬間 sùn-kan to [Mandarin 秒 miǎo](/docs/words/m/mîoû) because the previous source word had a number of conflicts with other Hîsyêô words.
+Changed the source for this from **Southern Min 瞬間 sùn-kan** to [Mandarin 秒 miǎo](/docs/words/m/mîoû) because the previous source word had a number of conflicts with other Hîsyêô words.
 
 ### prudent/sensible
 
