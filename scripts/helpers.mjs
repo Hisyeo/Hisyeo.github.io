@@ -36,7 +36,7 @@ const neuVowelsFull = {
 
 const neuVowelsLimited = {
     o: 'a', ô: 'o',
-    e: 'e', ê: 'e',
+    e: 'i', ê: 'e',
     i: 'i', î: 'i',
     u: 'a', û: 'u',
 }
