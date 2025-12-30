@@ -30,7 +30,10 @@ by using the below method of assembling parts of a number:
 <Tabs groupId="bobôun-kon-cukto" queryString>
   <TabItem value="latin" label="Latin" default>
     <table>
+      <thead>
         <tr><td><strong>Number</strong></td><td><strong>Hîsyêô</strong></td></tr>
+      </thead>
+      <tbody>
         <tr><td><p>0</p></td><td><HisyeoText kind='latin'>xûnyu</HisyeoText></td></tr>
         <tr><td><p>1</p></td><td><HisyeoText kind='latin'>kut</HisyeoText></td></tr>
         <tr><td><p>2</p></td><td><HisyeoText kind='latin'>dûî</HisyeoText></td></tr>
@@ -61,11 +64,15 @@ by using the below method of assembling parts of a number:
         <tr><td><p>1000</p></td><td><HisyeoText kind='latin'>elfû kut</HisyeoText></td></tr>
         <tr><td><p>1,000,000</p></td><td><HisyeoText kind='latin'>elfû dûî</HisyeoText></td></tr>
         <tr><td><p>1,999</p></td><td><HisyeoText kind='latin'>elfû kut, eson fîyên eson dus eson</HisyeoText></td></tr>
+      </tbody>
     </table>
   </TabItem>
   <TabItem value="obûgîdo" label="ɽʋʄꜿɟʌ">
     <table>
+      <thead>
         <tr><td><strong>Number</strong></td><td><strong>ɂ́ɟɀʇɽi</strong></td></tr>
+      </thead>
+      <tbody>
         <tr><td><p>0</p></td><td><HisyeoText kind='abugida'>xûnyu</HisyeoText></td></tr>
         <tr><td><p>1</p></td><td><HisyeoText kind='abugida'>kut</HisyeoText></td></tr>
         <tr><td><p>2</p></td><td><HisyeoText kind='abugida'>dûî</HisyeoText></td></tr>
@@ -96,6 +103,7 @@ by using the below method of assembling parts of a number:
         <tr><td><p>1000</p></td><td><HisyeoText kind='abugida'>elfû kut</HisyeoText></td></tr>
         <tr><td><p>1,000,000</p></td><td><HisyeoText kind='abugida'>elfû dûî</HisyeoText></td></tr>
         <tr><td><p>1,999</p></td><td><HisyeoText kind='abugida'>elfû kut, eson fîyên eson dus eson</HisyeoText></td></tr>
+      </tbody>
     </table>
   </TabItem>
 </Tabs>
@@ -230,5 +238,54 @@ the quantity is an adequate amount for their purposes.
     <p>nîmû mokon sî odigon bîek sûît hoî kôndodû onô.&emsp;<em>"You ate too much cake at the party."</em></p>
     <p>nîo moskûl li bûzôk môfî hôn xe hobîyô mût nîo wohî.&emsp;<em>"He lacks the courage to tell her."</em></p>
 </HisyeoTabs>
+
+## As Modifiers
+
+While determiners typically precede the noun to indicate reference type, many can also appear as **post-nominal modifiers**. In this position, they perform specific grammatical functions related to degree and individuation.
+
+### Degree Markers
+
+When acting as modifiers, relative determiners function as markers for the degree or intensity of the associated noun or adjective.
+
+| Determiner                                          | Modifier Function | Meaning                | Example                                                                         |
+|:----------------------------------------------------|:------------------|:-----------------------|:--------------------------------------------------------------------------------|
+| <HisyeoWord is='êto'/>                              | Augmentative      | "Very", "Great"        | <HisyeoWord is='iwotê'/> <HisyeoWord is='êto'/> ("very tall")                   |
+| <HisyeoWord is='yoûtî'/>                            | Diminutive        | "Somehwat", "Slight"   | <HisyeoWord is='iwotê'/> <HisyeoWord is='yoûtî'/> ("slightly tall")             |
+| <HisyeoWord is='môî'/>                              | Superlative       | "Most", "-est"         | <HisyeoWord is='iwotê'/> <HisyeoWord is='môî'/> ("tallest" / "taller than all") |
+| <HisyeoWord is='eswen'/> / <HisyeoWord is='mênûs'/> | Comparative       | "More" / "Less", "-er" | <HisyeoWord is='iwotê'/> <HisyeoWord is='eswen'/> ("taller")                    |
+
+### Unit Markers (Mensural Classifiers)
+
+The distributive determiner <HisyeoWord is='xokôn'/> ("each") performs a unique
+role as a **mensural classifier** (or unit marker) when modifying abstract mass
+nouns.
+
+In Hîsyêô, abstract concepts like "distance" or "value" are treated as mass
+nouns. To count them, you use <HisyeoWord is='xokôn'/> to individuate the mass
+into countable units.
+
+> **Noun + <HisyeoWord is='xokôn'/>**&emsp;=&emsp;"[Noun]-unit"&emsp;/&emsp;"A unit of [Noun]"
+
+This allows the language to handle various systems of measurement (imperial,
+metric, currency) using the same construction, where the specific unit is
+understood from context.
+
+<HisyeoTabs>
+    <p>mônbili xokôn&emsp;<em>"Unit-like distance" (e.g., a mile, a kilometer)</em></p>
+    <p>munî xokôn&emsp;<em>"Unit-like money" (e.g., a dollar, a euro)</em></p>
+    <p>nûs ke nîltûgu hoî 5 mônbili xokôn.&emsp;<em>"We will stop at 5 miles." (literally: 5 distance-units)</em></p>
+</HisyeoTabs>
+
+:::tip Differentiating
+
+If you need to differentiate between specific systems (like Metric vs. Imperial), you can specify the system using a yê (of/associated with) phrase:
+
+<HisyeoTabs>
+  <p>mônbili xokôn yê bobôun noûku&emsp;<em>"Distance unit of the scientific system" (kilometer)</em></p>
+  <p>mônbili xokôn yê bobôun Bulitic&emsp;<em>"Distance unit of the British system" (mile)</em></p>
+</HisyeoTabs>
+
+:::
+
 
 <HisyeoTooltip/>
