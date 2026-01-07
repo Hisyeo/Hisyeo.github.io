@@ -28,8 +28,14 @@ const config = {
       excludeRoutes: [
         '/hyo/docs/Glossary',
       ],
-    }],
-    'docusaurus-plugin-llms',
+    } ],
+    [ require.resolve('docusaurus-plugin-llms'), {
+      title: 'Hîsyêô',
+      description: 'Documentation of Hîsyêô language & culture.',
+      includeBlog: false,
+      excludeImports: true,
+      removeDuplicateHeadings: true,
+    } ],
     'docusaurus-plugin-goatcounter',
     './src/plugins/error_ignorer',
   ],
