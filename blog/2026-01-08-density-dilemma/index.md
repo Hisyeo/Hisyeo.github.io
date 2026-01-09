@@ -5,7 +5,7 @@ authors: [gofuliel]
 tags: [gonîso]
 ---
 
-yogô nîôk yê môî foko hîskûnco dî sî xe sûko dî hosîn yê cûtî. li uyo yê hosîn hokîkî hôn hîskûnco xe kôî li gô hoî kut lîbû în cukto. ni bêmon nucoto xe li ôdon, li sôndonôs, ûn li obunyun til xe hêfîn. lêkin fîectu li gîk hoî wîluwo.
+yogô nîôk yê môî foko hîskûnco dî sî xe sûko dî hosîn yê cûtî. li uyo yê hosîn hokîkî hôn hîskûnco xe kôî li gô hoî kut lîbû în cukto. ni bêmon nucoto xe li ôdon, li sôndonôs, ûn li obunyun til xe hêfîn. lêkin û fîectu li gîk hoî wîluwo.
 
 ---
 
