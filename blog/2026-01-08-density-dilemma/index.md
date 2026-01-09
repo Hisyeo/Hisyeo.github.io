@@ -48,12 +48,12 @@ import MastodonPostSvg from '../../static/img/mastodon.svg'
 
 <!-- TODO: Update with the new mastodon URL -->
 <blockquote className="mastodon-embed"
-            data-embed-url="https://mastodon.social/@hisyeo/115799403730898203/embed"
+            data-embed-url="https://mastodon.social/@hisyeo/115863709477507608/embed"
             style={{
                 background: "#FCF8FF",
                 borderRadius: "8px", border: "1px solid #C9C4DA", margin: "auto",
                 maxWidth: "540px", minWidth: "270px", overflow: "hidden", padding: 0}}>
-    <a href="https://mastodon.social/@hisyeo/115799403730898203"
+    <a href="https://mastodon.social/@hisyeo/115863709477507608"
        target="_blank"
        style={{
             alignItems: "center",
