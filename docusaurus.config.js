@@ -37,12 +37,15 @@ const config = {
       excludeImports: true,
       removeDuplicateHeadings: false,
       includeOrder: [
+        'docs/intro.mdx',
         'docs/lessons/*',
         'docs/language/*',
         'docs/science/*',
         'docs/religion/*',
         'docs/sciences/*',
         'docs/works/*',
+        'docs/community.mdx',
+        'docs/faq.mdx',
       ],
       includeUnmatchedLast: false,
       customLLMFiles: [
