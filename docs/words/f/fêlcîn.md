@@ -4,12 +4,12 @@ slug: fêlcîn
 title: FÊLCÎN
 sidebar_position: 642
 tags: [fêlcîn, Adjective, Armenian, Mathematics, Mathematics 303]
-description: last/latest § Adjective
+description: last/final § Adjective
 ---
 
 ### fêlcîn&emsp;<span kind="abugida">ɤ͊ʇꞇ̃ɟ</span>
 
-*last/latest* **§** Adjective
+*last/final* **§** Adjective
 
 **IPA**: /ˈfel.t͡ɕin/
 
@@ -17,7 +17,7 @@ description: last/latest § Adjective
 
 **Noun**: lastness
 
-**Modifier**: last/latest
+**Modifier**: last/final
 
 <details>
     <summary>Origin</summary>
