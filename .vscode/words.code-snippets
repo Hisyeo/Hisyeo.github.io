@@ -393,7 +393,7 @@
   "scope": "markdown,mdx,fountain,json",
   "prefix": "ilik",
   "body": "ilik",
-  "description": "predecessive marker (before)"
+  "description": "predecessive marker (before/in)"
  },
  "infultîn": {
   "scope": "markdown,mdx,fountain,json",
@@ -2001,7 +2001,7 @@
   "scope": "markdown,mdx,fountain,json",
   "prefix": "cihôû",
   "body": "cihôû",
-  "description": "successive marker (after)"
+  "description": "successive marker (after/on)"
  },
  "cên": {
   "scope": "markdown,mdx,fountain,json",

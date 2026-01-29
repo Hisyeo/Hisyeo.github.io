@@ -195,7 +195,7 @@ isbulyol:
     description: "to scatter (scatterable entity)"
 ilik:
     label: ilik
-    description: "predecessive marker (before)"
+    description: "predecessive marker (before/in)"
 infultîn:
     label: infultîn
     description: "rotating/spinning"
@@ -999,7 +999,7 @@ cênbô:
     description: "big"
 cihôû:
     label: cihôû
-    description: "successive marker (after)"
+    description: "successive marker (after/on)"
 cên:
     label: cên
     description: "up"

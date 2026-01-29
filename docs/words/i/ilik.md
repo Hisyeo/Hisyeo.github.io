@@ -4,12 +4,12 @@ slug: ilik
 title: ILIK
 sidebar_position: 68
 tags: [ilik, Preposition, Turkic, Mathematics, Mathematics 202]
-description: predecessive marker (before) § Preposition
+description: predecessive marker (before/in) § Preposition
 ---
 
 ### ilik&emsp;<span kind="abugida">ɽȷʓ̑ȷ</span>
 
-*predecessive marker (before)* **§** Preposition
+*predecessive marker (before/in)* **§** Preposition
 
 **IPA**: /ˈɪ.lɪk/
 

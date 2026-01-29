@@ -4,12 +4,12 @@ slug: cihôû
 title: CIHÔÛ
 sidebar_position: 333
 tags: [cihôû, Preposition, Sino-Tibetan, Mathematics, Mathematics 202]
-description: successive marker (after) § Preposition
+description: successive marker (after/on) § Preposition
 ---
 
 ### cihôû&emsp;<span kind="abugida">ꞇȷɂıɽʄ</span>
 
-*successive marker (after)* **§** Preposition
+*successive marker (after/on)* **§** Preposition
 
 **IPA**: /t͡ɕɪ.ˈho.u/
 
