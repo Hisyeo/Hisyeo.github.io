@@ -14,6 +14,8 @@ import HisyeoTooltip from '@site/src/components/HisyeoTooltip'
 
 The scripts used to write the language.
 
+## Writing Systems
+
 There are three writing systems that can be used with Hîsyêô: one that uses
 Latin encoding characters, one that uses Latin-extended encoding characters, and
 a heavily modified version of Kikakui. Here's an example sentence in Hîsyêô that
@@ -27,7 +29,7 @@ syllabic writing systems):
 Check out the [phonology](../language/phonology) page for details about which
 phonemes are available.
 
-## Letin
+### Letin
 
 Using most of the standard alphabetic characters that are employed by many
 European languages, the **Letin** orthography is the one that may be most
@@ -50,7 +52,7 @@ should be done separately from a written association.
 
 :::
 
-## Letin-Hîsyokûî
+### Letin-Hîsyokûî
 
 There is another Latin encoding that uses characters that are less-commonly
 representative of vowels. While this is primarily to allow a special font to be
@@ -61,7 +63,7 @@ diacritics.
 
 <iframe width="100%" height="300" src="//jsfiddle.net/MadcapJake/b10vd3qc/embedded/result/" frameborder="0" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
-## Hîskonû
+### Hîskonû
 
 Based on the abugida writing system
 [Likanu](https://en.kokanu.com/reference/pronunciation.html) created for
@@ -75,7 +77,7 @@ and Gentium Plus are two other supporting fonts.
 
 <iframe width="100%" height="300" src="//jsfiddle.net/MadcapJake/64L3nrgk/embedded/result/" frameborder="0" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
 
-## Hîsyokûî
+### Hîsyokûî
 
 The official and primary writing system of Hîsyêô is **Hîsyokûî**. Based on the
 syllabic writing system
@@ -90,5 +92,110 @@ only in the Hîsyokûî script but the website content is presented in all three
 scripts.
 
 <iframe width="100%" height="300" src="//jsfiddle.net/MadcapJake/atw6gzqo/embedded/result/" frameborder="0" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>
+
+## Numerals
+
+Hîsyêô uses the standard Arabic numerals like many languages but it also has
+its own number system for formal usage. This system is a hybrid of ancient
+Etruscan/Roman symbols and native Hîsyêô letter-forms. It is an
+additive-subtractive system used to represent dates and formal numbers.
+
+### The Glyphs
+
+The system uses seven symbols. The lower values (`I`, `V`, `X`) connect Hîsyêô to the ancient human past (the "Long History"), while the higher values (`T`, `F`, `B`, `E`) are derived from Hîsyêô vocabulary.
+
+| Value | Latin Symbol | Origin / Etymology |
+| :--- | :--- | :--- |
+| **1** | **I** | Ancient tally mark (Finger) |
+| **5** | **V** | Ancient hand symbol (Palm) |
+| **10** | **X** | Ancient double-hand symbol |
+| **50** | **T** | Derived from <HisyeoWord is='tîû'/> (5) |
+| **100** | **F** | Derived from <HisyeoWord is='fîyên'/> (100) |
+| **500** | **B** | Visual hybrid of **F** and **E** |
+| **1000** | **E** | Derived from <HisyeoWord is='elfû'/> (1000) |
+
+:::warning Little e versus Big E
+The uppercase **E** is only used for the subtraction rule, otherwise lowecase **e** is used, as described below.
+:::
+
+### The Magnitude Suffix (The Echo)
+
+To represent numbers larger than 999, you attach the suffix **e** (from *Elfû*, thousand) to the base number. This acts as a multiplier of 1,000.
+
+| Value | Suffix | Meaning |
+| :--- | :--- | :--- |
+| **1,000** | **e** | ×1,000 (Thousands) |
+| **1,000,000** |**e**<strong><sup>II</sup></strong> / **e²** | ×1,000,000 (Millions) |
+| **1,000,000,000** | **e**<strong><sup>III</sup></strong> / **e³** | ×1,000,000,000 (Billions) |
+
+:::info Arabic Superscripts or Formatting
+
+You might be wondering why Arabic numeral superscripts are allowed. If you are
+using a word processor or HTML, you should the standard superscript formatting
+and use the proper numeral symbols. For environments that don't offer
+superscripts, use the unicode arabic numerals.
+
+:::
+
+### Notation Rules
+
+1.  Break the number into chunks of three digits (Millions, Thousands, Ones).
+2.  Write each chunk using the standard additive/subtractive rules for 1-999.
+3.  Add **e** to the thousands chunk, and **e<sup>II</sup>** to the millions chunk.
+4.  Join them together.
+
+#### Subtraction Rule (4s and 9s)
+Standard subtraction applies. A power of 10 (I, X, F) can only subtract from the next two highest symbols (e.g., I subtracts from V and X, but not T).
+
+| Subtracting | From (Next 2) | Result | Value |
+|-------------|---------------|--------|-------|
+| I (1)       | V (5)         | IV     | 4     |
+| I (1)       | X (10)        | IX     | 9     |
+| X (10)      | T (50)        | XT     | 40    |
+| X (10)      | F (100)       | XF     | 90    |
+| F (100)     | B (500)       | FB     | 400   |
+| F (100)     | E (1000)      | FE     | 900   |
+
+:::warning 900 versus 1000
+Watch out for the difference between 900 (**FE**) from 1000 (**Ie**).
+:::
+
+### Reference Charts
+
+|   | Millions  | Lakhs   | Myriads | Thousands | Hundreds | Tens | Ones |
+|:-:|-----------|---------|---------|:---------:|:--------:|:----:|------|
+| 0 | 0,000,000 | 000,000 | 00,000  | 0,000     | 000      | 00   | 0    |
+| 1 | Ie<sup>II</sup>       | Fe      | Xe      | Ie        | F        | X    | I    |
+| 2 | IIe<sup>II</sup>      | FFe     | XXe     | IIe       | FF       | XX   | II   |
+| 3 | IIIe<sup>II</sup>     | FFFe    | XXXe    | IIIe      | FFF      | XXX  | III  |
+| 4 | IVe<sup>II</sup>      | FBe     | XTe     | IVe       | FB       | XT   | IV   |
+| 5 | Ve<sup>II</sup>       | Be      | Te      | Ve        | B        | T    | V    |
+| 6 | VIe<sup>II</sup>      | BFe     | TXe     | VIe       | BF       | TX   | VI   |
+| 7 | VIIe<sup>II</sup>     | BFFe    | TXXe    | VIIe      | BFF      | TXX  | VII  |
+| 8 | VIIIe<sup>II</sup>    | BFFFe   | TXXXe   | VIIIe     | BFFF     | TXXX | VIII |
+| 9 | IXe<sup>II</sup>      | FEe     | XFe     | IXe       | FE       | XF   | IX   |
+
+| Range | Examples |
+| :--- | :--- |
+| **1 - 9** | **I**, **II**, **III**, **IV**, **V**, **VI**, **VII**, **VIII**, **IX** |
+| **10 - 39** | **X**, **XX**, **XXX**, **XXXIX** (39) |
+| **40 - 49** | **XT** (40), **XTI**, **XTV**, **XTIX** (49) |
+| **50 - 89** | **T** (50), **TI**, **TXXX**, **TXXXIX** (89) |
+| **90 - 99** | **XF** (90), **XFI**, **XFV**, **XFIX** (99) |
+| **100s** | **F** (100), **FFF** (300), **FFFXFIX** (399) |
+| **400s** | **FB** (400), **FBXFIX** (499) |
+| **500s** | **B** (500), **BFFF** (800), **BFFFXFIX** (899) |
+| **900s** | **FE** (900), **FEXFIX** (999) |
+
+### Examples
+
+| Arabic Numeral | Hîsyêô Numeral  | Calculation                                       |
+| :---------- | :-------------- | :------------------------------------------------ |
+| **1776**    | **IeBFFTXXVI**  | Ie (1000) +&nbsp;BFF&nbsp;(700) +&nbsp;T&nbsp;(50) +&nbsp;XX&nbsp;(20) +&nbsp;VI&nbsp;(6) |
+| **1864**    | **IeBFFFTXIV**  | Ie (1000) +&nbsp;BFFF&nbsp;(800) +&nbsp;T&nbsp;(50) +&nbsp;X&nbsp;(10) +&nbsp;IV&nbsp;(4) |
+| **1999**    | **IeFEFIXFIX** |  Ie (1000) +&nbsp;FE&nbsp;(900) +&nbsp;XF&nbsp;(90) +&nbsp;IX&nbsp;(9)         |
+| **2026**    | **IIeXXVI**     | IIe (2000) +&nbsp;XX&nbsp;(20) +&nbsp;VI&nbsp;(6)                     |
+| **452,010** | **FBTIIeX**     | FB (400) +&nbsp;T&nbsp;(50) +&nbsp;II&nbsp;(2) ×&nbsp;e&nbsp;(1,000) <hr/> X (10)   |
+| **37,607,912,018** | **XXXVIIe<sup>III</sup>BFVIIe<sup>II</sup>FEXIIeXVIII**      | XXX (30) +&nbsp;VII&nbsp;(7) ×&nbsp;e<sup>III</sup>&nbsp;(1,000,000,000) <hr/> BF (600) + VII (7) ×&nbsp;e<sup>II</sup>&nbsp;(1,000,000) <hr/> FE (900) + X (10) + II (2) ×&nbsp;e&nbsp;(1,000) <hr/> X (10) + VIII (8)  |
 
 <HisyeoTooltip/>
